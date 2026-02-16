@@ -644,7 +644,10 @@ def _serve_asgi(
     backlog: int = 512,
     access_log: str | None = None,
 ) -> None:
-    """使用 hypercorn + starlette 启动 ASGI 服务器。"""
+    """使用 hypercorn + starlette 启动 ASGI 服务器。
+
+    注意：当 workers > 1 时，此函数不应被调用，应使用命令行模式。
+    """
     import asyncio
 
     from hypercorn.asyncio import serve as hyper_serve
@@ -655,8 +658,6 @@ def _serve_asgi(
     # IPv4 + IPv6 双栈
     config.bind = [f"{bind}:{port}", f"[::]:{port}"]
     config.backlog = backlog
-    if workers and workers > 1:
-        config.workers = workers
     # access log: 默认关闭
     if access_log == "-":
         config.accesslog = "-"
@@ -705,6 +706,63 @@ def serve(
     except ImportError:
         pass
 
+    # 多进程模式：使用 hypercorn 命令行
+    if has_asgi and workers and workers > 1:
+        import shutil
+        import subprocess
+
+        hypercorn_bin = shutil.which("hypercorn")
+        if not hypercorn_bin:
+            logger.error(
+                "错误: 找不到 hypercorn 命令。请确保已安装:\n"
+                "  pip install hypercorn"
+            )
+            sys.exit(1)
+
+        # 检查 .gz 预压缩文件
+        if not _has_any_gz(project_root):
+            logger.warning(
+                "⚠ 未检测到 .gz 预压缩文件，文本资源将不会被压缩发送。\n"
+                "  运行 `python lunaris.py precompress` 生成 .gz 文件以启用压缩。"
+            )
+
+        logger.info("=" * 50)
+        logger.info("Lunaris 服务器")
+        logger.info("=" * 50)
+        logger.info(f"引擎: hypercorn (multi-process, {workers} workers)")
+        logger.info(f"项目目录: {project_root}")
+        logger.info(f"监听地址: http://{bind or '0.0.0.0'}:{port}/")
+        logger.info(f"API 前缀: http://localhost:{port}/__api__/")
+        logger.info(f"URL 重写: {'ON' if rewrite else 'OFF'}")
+        logger.info(f"Expected 404: {len(expected_404)} 条")
+        logger.info(f"统计接口: http://localhost:{port}/__verify__/stats")
+        logger.info("=" * 50)
+
+        # 构建命令行参数
+        cmd = [
+            hypercorn_bin,
+            "lunaris.server:app",
+            "--bind", f"{bind}:{port}",
+            "--bind", f"[::]:{port}",
+            "--workers", str(workers),
+            "--backlog", str(backlog),
+        ]
+        if access_log == "-":
+            cmd.append("--access-log")
+            cmd.append("-")
+        elif access_log:
+            cmd.extend(["--access-logfile", access_log])
+
+        try:
+            subprocess.run(cmd, check=True, cwd=project_root)
+        except KeyboardInterrupt:
+            logger.info("\n服务器已停止。")
+        except subprocess.CalledProcessError as e:
+            logger.error(f"Hypercorn exited with code {e.returncode}")
+            sys.exit(e.returncode)
+        return
+
+    # 单进程模式
     if has_asgi:
         engine = "hypercorn + starlette (ASGI)"
     else:
@@ -734,7 +792,34 @@ def serve(
     if has_asgi:
         _serve_asgi(
             project_root, port, bind, rewrite, expected_404,
-            workers=workers, backlog=backlog, access_log=access_log,
+            workers=None, backlog=backlog, access_log=access_log,
         )
     else:
         _serve_stdlib(project_root, port, bind, rewrite, expected_404)
+
+
+# ---------------------------------------------------------------------------
+# 模块级 ASGI app，供 hypercorn 命令行使用
+# ---------------------------------------------------------------------------
+
+# 从环境变量读取配置（用于命令行模式）
+_PROJECT_ROOT = Path(os.environ.get("LUNARIS_PROJECT_ROOT", Path.cwd()))
+_PORT = int(os.environ.get("LUNARIS_PORT", "9000"))
+_REWRITE = os.environ.get("LUNARIS_REWRITE", "1") == "1"
+
+# 加载 expected_404
+_expected_404: set[str] = set()
+try:
+    _expected_404 |= load_expected_404(_PROJECT_ROOT / "logs" / "scan" / "remaining_unavailable.txt")
+    _expected_404 |= load_expected_404(_PROJECT_ROOT / "logs" / "audit" / "expected_upstream_404.txt")
+except Exception:
+    pass
+
+# 创建模块级 app（仅在安装了 starlette 时）
+app = None
+try:
+    import starlette  # noqa: F401
+    if (_PROJECT_ROOT / "site").exists() or (_PROJECT_ROOT / "api").exists():
+        app = _make_asgi_app(_PROJECT_ROOT, _PORT, _REWRITE, _expected_404)
+except ImportError:
+    pass

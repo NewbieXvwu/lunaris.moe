@@ -3,8 +3,9 @@
 
 用法:
     python lunaris.py backup          一键执行完整备份流水线
-    python lunaris.py precompress     预压缩文本文件生成 .gz 旁文件
     python lunaris.py serve           启动本地离线验证服务器
+    python lunaris.py precompress     预压缩文本文件生成 .gz 旁文件
+    python lunaris.py static-prepare  准备静态部署（URL 预处理 + 合并 API）
     python lunaris.py sha256          生成 SHA256SUMS.tsv
 """
 
@@ -15,6 +16,7 @@ import asyncio
 import gzip
 import hashlib
 import os
+import re
 import sys
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -74,6 +76,12 @@ def cmd_serve(args: argparse.Namespace) -> int:
     """启动本地离线验证服务器。"""
     root = get_project_root()
     from lunaris.server import load_expected_404, serve
+    import os
+
+    # 设置环境变量供模块级 app 使用
+    os.environ["LUNARIS_PROJECT_ROOT"] = str(root)
+    os.environ["LUNARIS_PORT"] = str(args.port)
+    os.environ["LUNARIS_REWRITE"] = "1" if args.rewrite else "0"
 
     expected = load_expected_404(root / "logs" / "scan" / "remaining_unavailable.txt")
     expected |= load_expected_404(root / "logs" / "audit" / "expected_upstream_404.txt")
@@ -182,6 +190,110 @@ def cmd_precompress(args: argparse.Namespace) -> int:
     return 0
 
 
+# ── static-prepare ────────────────────────────────────────────────────────
+
+def cmd_static_prepare(args: argparse.Namespace) -> int:
+    """准备静态部署：预处理 URL + 合并 API 目录。"""
+    root = get_project_root()
+    dry_run = getattr(args, 'dry_run', False)
+
+    print("=" * 50)
+    print("准备静态部署")
+    print("=" * 50)
+    if dry_run:
+        print("模式: 仅预览（不修改文件）\n")
+    else:
+        print("模式: 修改文件\n")
+
+    # 步骤 1：预处理 URL
+    print("步骤 1/2: 预处理 URL")
+    print("-" * 50)
+
+    url_patterns = [
+        (r'https://api\.lunaris\.moe', '/__api__'),
+        (r'https://lunaris\.moe(?=/)', ''),
+        (r'"https://lunaris\.moe"', '"/"'),
+        (r"'https://lunaris\.moe'", "'/'"),
+    ]
+
+    total_files = 0
+    modified_files = 0
+    total_replacements = 0
+
+    for subdir in ('site', 'api'):
+        base = root / subdir
+        if not base.exists():
+            continue
+
+        for fp in base.rglob('*'):
+            if not fp.is_file() or fp.suffix.lower() not in ('.html', '.js'):
+                continue
+
+            total_files += 1
+            try:
+                text = fp.read_text(encoding='utf-8', errors='replace')
+            except Exception as e:
+                print(f"  ⚠ 读取失败: {fp.relative_to(root)}: {e}")
+                continue
+
+            original = text
+            file_replacements = 0
+
+            for pattern, replacement in url_patterns:
+                text, count = re.subn(pattern, replacement, text)
+                file_replacements += count
+
+            if text != original:
+                modified_files += 1
+                total_replacements += file_replacements
+                rel = fp.relative_to(root)
+                status = "将修改" if dry_run else "已修改"
+                print(f"  {status}: {rel} ({file_replacements} 处)")
+
+                if not dry_run:
+                    try:
+                        fp.write_text(text, encoding='utf-8')
+                    except Exception as e:
+                        print(f"  ⚠ 写入失败: {rel}: {e}")
+
+    print(f"\n扫描文件: {total_files} 个")
+    print(f"修改文件: {modified_files} 个")
+    print(f"替换次数: {total_replacements} 处")
+
+    # 步骤 2：合并 API 目录
+    print("\n步骤 2/2: 合并 API 目录")
+    print("-" * 50)
+
+    api_src = root / "api"
+    api_dst = root / "site" / "__api__"
+
+    if not api_src.exists():
+        print("  ⚠ api/ 目录不存在，跳过")
+    elif api_dst.exists() and not dry_run:
+        print(f"  ⚠ {api_dst} 已存在，跳过（请手动删除后重试）")
+    else:
+        if dry_run:
+            print(f"  将复制: {api_src} → {api_dst}")
+        else:
+            import shutil
+            try:
+                shutil.copytree(api_src, api_dst)
+                file_count = sum(1 for _ in api_dst.rglob('*') if _.is_file())
+                print(f"  ✓ 已复制 {file_count} 个文件到 {api_dst.relative_to(root)}")
+            except Exception as e:
+                print(f"  ⚠ 复制失败: {e}")
+
+    print("\n" + "=" * 50)
+    if dry_run:
+        print("预览完成。运行 `python lunaris.py static-prepare` 执行实际修改")
+    else:
+        print("✓ 静态部署准备完成")
+        print("  下一步: 提交到 Git 并部署到 Cloudflare Pages")
+    print("=" * 50)
+
+    return 0
+
+
 # ── sha256 ────────────────────────────────────────────────────────────────
 
 def cmd_sha256(args: argparse.Namespace) -> int:
@@ -228,15 +340,17 @@ def main() -> int:
     sv.add_argument("--port", type=int, default=int(os.environ.get("LUNARIS_SERVE_PORT", "9000")))
     sv.add_argument("--bind", default="0.0.0.0")
     sv.add_argument("--rewrite", action=argparse.BooleanOptionalAction, default=True)
-    sv.add_argument("-w", "--workers", type=int,
-                    default=min(4, os.cpu_count() or 1),
-                    help="ASGI worker 数 (默认 min(4, CPU核心数))")
+    sv.add_argument("-w", "--workers", type=int, default=1,
+                    help="worker 进程数，>1 时自动使用多进程模式 (默认 1)")
     sv.add_argument("--backlog", type=int, default=512, help="连接队列大小 (默认 512)")
     sv.add_argument("--access-log", default=None,
                     help="Access log 路径，'-' 为 stdout (默认关闭)")
 
     pc = sub.add_parser("precompress", help="预压缩 site/ 和 api/ 下的文本文件")
     pc.add_argument("-w", "--workers", type=int, default=10, help="并发数 (默认 10)")
+
+    sp = sub.add_parser("static-prepare", help="准备静态部署（URL 预处理 + 合并 API）")
+    sp.add_argument("--dry-run", action="store_true", help="仅预览，不修改文件")
 
     sub.add_parser("sha256", help="生成 SHA256SUMS.tsv")
 
@@ -247,6 +361,8 @@ def main() -> int:
         return cmd_serve(args)
     elif args.command == "precompress":
         return cmd_precompress(args)
+    elif args.command == "static-prepare":
+        return cmd_static_prepare(args)
     elif args.command == "sha256":
         return cmd_sha256(args)
     else:
