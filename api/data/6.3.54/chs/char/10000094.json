@@ -1,0 +1,1269 @@
+{
+    "info": {
+        "name": "千织",
+        "description": "「千织屋」的老板。枫丹著名服装设计师。",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_SWORD_ONE_HAND",
+        "birthday": "August 17th",
+        "element": "Geo",
+        "constellation": "丝切铗座",
+        "attributes": [
+            {
+                "level": 1,
+                "ascension": 0,
+                "hp": 890,
+                "atk": 25,
+                "def": 74,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 2,
+                "ascension": 0,
+                "hp": 964,
+                "atk": 27,
+                "def": 80,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 3,
+                "ascension": 0,
+                "hp": 1038,
+                "atk": 29,
+                "def": 87,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 4,
+                "ascension": 0,
+                "hp": 1113,
+                "atk": 31,
+                "def": 93,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 5,
+                "ascension": 0,
+                "hp": 1187,
+                "atk": 34,
+                "def": 99,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 6,
+                "ascension": 0,
+                "hp": 1262,
+                "atk": 36,
+                "def": 105,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 7,
+                "ascension": 0,
+                "hp": 1336,
+                "atk": 38,
+                "def": 111,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 8,
+                "ascension": 0,
+                "hp": 1410,
+                "atk": 40,
+                "def": 118,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 9,
+                "ascension": 0,
+                "hp": 1485,
+                "atk": 42,
+                "def": 124,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 10,
+                "ascension": 0,
+                "hp": 1559,
+                "atk": 44,
+                "def": 130,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 11,
+                "ascension": 0,
+                "hp": 1634,
+                "atk": 46,
+                "def": 136,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 12,
+                "ascension": 0,
+                "hp": 1709,
+                "atk": 48,
+                "def": 142,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 13,
+                "ascension": 0,
+                "hp": 1783,
+                "atk": 50,
+                "def": 149,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 14,
+                "ascension": 0,
+                "hp": 1859,
+                "atk": 52,
+                "def": 155,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 15,
+                "ascension": 0,
+                "hp": 1934,
+                "atk": 55,
+                "def": 161,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 16,
+                "ascension": 0,
+                "hp": 2009,
+                "atk": 57,
+                "def": 167,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 17,
+                "ascension": 0,
+                "hp": 2084,
+                "atk": 59,
+                "def": 174,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 18,
+                "ascension": 0,
+                "hp": 2159,
+                "atk": 61,
+                "def": 180,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 19,
+                "ascension": 0,
+                "hp": 2235,
+                "atk": 63,
+                "def": 186,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 20,
+                "ascension": 0,
+                "hp": 2310,
+                "atk": 65,
+                "def": 192,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 21,
+                "ascension": 1,
+                "hp": 3149,
+                "atk": 89,
+                "def": 262,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 22,
+                "ascension": 1,
+                "hp": 3225,
+                "atk": 91,
+                "def": 269,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 23,
+                "ascension": 1,
+                "hp": 3300,
+                "atk": 93,
+                "def": 275,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 24,
+                "ascension": 1,
+                "hp": 3376,
+                "atk": 95,
+                "def": 281,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 25,
+                "ascension": 1,
+                "hp": 3452,
+                "atk": 97,
+                "def": 288,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 26,
+                "ascension": 1,
+                "hp": 3528,
+                "atk": 100,
+                "def": 294,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 27,
+                "ascension": 1,
+                "hp": 3604,
+                "atk": 102,
+                "def": 300,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 28,
+                "ascension": 1,
+                "hp": 3680,
+                "atk": 104,
+                "def": 307,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 29,
+                "ascension": 1,
+                "hp": 3756,
+                "atk": 106,
+                "def": 313,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 30,
+                "ascension": 1,
+                "hp": 3832,
+                "atk": 108,
+                "def": 319,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 31,
+                "ascension": 1,
+                "hp": 3908,
+                "atk": 110,
+                "def": 326,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 32,
+                "ascension": 1,
+                "hp": 3985,
+                "atk": 112,
+                "def": 332,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 33,
+                "ascension": 1,
+                "hp": 4061,
+                "atk": 115,
+                "def": 338,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 34,
+                "ascension": 1,
+                "hp": 4137,
+                "atk": 117,
+                "def": 345,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 35,
+                "ascension": 1,
+                "hp": 4214,
+                "atk": 119,
+                "def": 351,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 36,
+                "ascension": 1,
+                "hp": 4291,
+                "atk": 121,
+                "def": 358,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 37,
+                "ascension": 1,
+                "hp": 4368,
+                "atk": 123,
+                "def": 364,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 38,
+                "ascension": 1,
+                "hp": 4444,
+                "atk": 125,
+                "def": 370,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 39,
+                "ascension": 1,
+                "hp": 4521,
+                "atk": 128,
+                "def": 377,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 40,
+                "ascension": 1,
+                "hp": 4598,
+                "atk": 130,
+                "def": 383,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 41,
+                "ascension": 2,
+                "hp": 5217,
+                "atk": 147,
+                "def": 435,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 42,
+                "ascension": 2,
+                "hp": 5295,
+                "atk": 149,
+                "def": 441,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 43,
+                "ascension": 2,
+                "hp": 5372,
+                "atk": 152,
+                "def": 448,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 44,
+                "ascension": 2,
+                "hp": 5449,
+                "atk": 154,
+                "def": 454,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 45,
+                "ascension": 2,
+                "hp": 5526,
+                "atk": 156,
+                "def": 460,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 46,
+                "ascension": 2,
+                "hp": 5604,
+                "atk": 158,
+                "def": 467,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 47,
+                "ascension": 2,
+                "hp": 5681,
+                "atk": 160,
+                "def": 473,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 48,
+                "ascension": 2,
+                "hp": 5759,
+                "atk": 163,
+                "def": 480,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 49,
+                "ascension": 2,
+                "hp": 5837,
+                "atk": 165,
+                "def": 486,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 50,
+                "ascension": 2,
+                "hp": 5915,
+                "atk": 167,
+                "def": 493,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 51,
+                "ascension": 3,
+                "hp": 6715,
+                "atk": 190,
+                "def": 560,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 52,
+                "ascension": 3,
+                "hp": 6794,
+                "atk": 192,
+                "def": 566,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 53,
+                "ascension": 3,
+                "hp": 6871,
+                "atk": 194,
+                "def": 573,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 54,
+                "ascension": 3,
+                "hp": 6949,
+                "atk": 196,
+                "def": 579,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 55,
+                "ascension": 3,
+                "hp": 7028,
+                "atk": 198,
+                "def": 586,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 56,
+                "ascension": 3,
+                "hp": 7106,
+                "atk": 201,
+                "def": 592,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 57,
+                "ascension": 3,
+                "hp": 7185,
+                "atk": 203,
+                "def": 599,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 58,
+                "ascension": 3,
+                "hp": 7263,
+                "atk": 205,
+                "def": 605,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 59,
+                "ascension": 3,
+                "hp": 7341,
+                "atk": 207,
+                "def": 612,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 60,
+                "ascension": 3,
+                "hp": 7420,
+                "atk": 209,
+                "def": 618,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 61,
+                "ascension": 4,
+                "hp": 8040,
+                "atk": 227,
+                "def": 670,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 62,
+                "ascension": 4,
+                "hp": 8119,
+                "atk": 229,
+                "def": 676,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 63,
+                "ascension": 4,
+                "hp": 8198,
+                "atk": 231,
+                "def": 683,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 64,
+                "ascension": 4,
+                "hp": 8276,
+                "atk": 234,
+                "def": 690,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 65,
+                "ascension": 4,
+                "hp": 8356,
+                "atk": 236,
+                "def": 696,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 66,
+                "ascension": 4,
+                "hp": 8435,
+                "atk": 238,
+                "def": 703,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 67,
+                "ascension": 4,
+                "hp": 8513,
+                "atk": 240,
+                "def": 709,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 68,
+                "ascension": 4,
+                "hp": 8592,
+                "atk": 243,
+                "def": 716,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 69,
+                "ascension": 4,
+                "hp": 8672,
+                "atk": 245,
+                "def": 723,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 70,
+                "ascension": 4,
+                "hp": 8751,
+                "atk": 247,
+                "def": 729,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 71,
+                "ascension": 5,
+                "hp": 9373,
+                "atk": 265,
+                "def": 781,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 72,
+                "ascension": 5,
+                "hp": 9453,
+                "atk": 267,
+                "def": 788,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 73,
+                "ascension": 5,
+                "hp": 9532,
+                "atk": 269,
+                "def": 794,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 74,
+                "ascension": 5,
+                "hp": 9611,
+                "atk": 271,
+                "def": 801,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 75,
+                "ascension": 5,
+                "hp": 9691,
+                "atk": 274,
+                "def": 808,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 76,
+                "ascension": 5,
+                "hp": 9771,
+                "atk": 276,
+                "def": 814,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 77,
+                "ascension": 5,
+                "hp": 9851,
+                "atk": 278,
+                "def": 821,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 78,
+                "ascension": 5,
+                "hp": 9931,
+                "atk": 280,
+                "def": 827,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 79,
+                "ascension": 5,
+                "hp": 10011,
+                "atk": 283,
+                "def": 834,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 80,
+                "ascension": 5,
+                "hp": 10091,
+                "atk": 285,
+                "def": 841,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 81,
+                "ascension": 6,
+                "hp": 10714,
+                "atk": 302,
+                "def": 893,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 82,
+                "ascension": 6,
+                "hp": 10794,
+                "atk": 305,
+                "def": 899,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 83,
+                "ascension": 6,
+                "hp": 10874,
+                "atk": 307,
+                "def": 906,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 84,
+                "ascension": 6,
+                "hp": 10954,
+                "atk": 309,
+                "def": 913,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 85,
+                "ascension": 6,
+                "hp": 11034,
+                "atk": 312,
+                "def": 919,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 86,
+                "ascension": 6,
+                "hp": 11115,
+                "atk": 314,
+                "def": 926,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 87,
+                "ascension": 6,
+                "hp": 11195,
+                "atk": 316,
+                "def": 933,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 88,
+                "ascension": 6,
+                "hp": 11277,
+                "atk": 318,
+                "def": 940,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 89,
+                "ascension": 6,
+                "hp": 11358,
+                "atk": 321,
+                "def": 946,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 90,
+                "ascension": 6,
+                "hp": 11438,
+                "atk": 323,
+                "def": 953,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 95,
+                "ascension": 6,
+                "hp": 11844,
+                "atk": 359,
+                "def": 987,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 100,
+                "ascension": 6,
+                "hp": 12251,
+                "atk": 396,
+                "def": 1021,
+                "CRIT Rate%": "19.2"
+            }
+        ]
+    },
+    "icons": {
+        "forward": "UI_AvatarIcon_Chiori",
+        "coop_img": "UI_CoopImg_Chiori"
+    },
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101204": 168
+        },
+        "elemental": {
+            "104171": 1,
+            "104172": 9,
+            "104173": 9,
+            "104174": 6
+        },
+        "worldmonster": {
+            "112053": 18,
+            "112054": 30,
+            "112055": 36
+        },
+        "elitemonster": {
+            "113049": 46
+        }
+    },
+    "skills": {
+        "normalattack": {
+            "name": "心织刀流",
+            "icon": "Skill_A_01",
+            "multipliers": {
+                "一段伤害": [
+                    "49.41%",
+                    "53.43%",
+                    "57.45%",
+                    "63.2%",
+                    "67.22%",
+                    "71.82%",
+                    "78.14%",
+                    "84.46%",
+                    "90.78%",
+                    "97.67%",
+                    "104.57%",
+                    "111.46%",
+                    "118.36%",
+                    "125.25%",
+                    "132.14%"
+                ],
+                "二段伤害": [
+                    "46.83%",
+                    "50.65%",
+                    "54.46%",
+                    "59.9%",
+                    "63.72%",
+                    "68.07%",
+                    "74.06%",
+                    "80.05%",
+                    "86.04%",
+                    "92.58%",
+                    "99.11%",
+                    "105.65%",
+                    "112.18%",
+                    "118.72%",
+                    "125.25%"
+                ],
+                "三段伤害": [
+                    "30.42%+30.42%",
+                    "32.89%+32.89%",
+                    "35.37%+35.37%",
+                    "38.9%+38.9%",
+                    "41.38%+41.38%",
+                    "44.21%+44.21%",
+                    "48.1%+48.1%",
+                    "51.99%+51.99%",
+                    "55.88%+55.88%",
+                    "60.13%+60.13%",
+                    "64.37%+64.37%",
+                    "68.61%+68.61%",
+                    "72.86%+72.86%",
+                    "77.1%+77.1%",
+                    "81.35%+81.35%"
+                ],
+                "四段伤害": [
+                    "75.12%",
+                    "81.24%",
+                    "87.35%",
+                    "96.09%",
+                    "102.2%",
+                    "109.19%",
+                    "118.8%",
+                    "128.41%",
+                    "138.02%",
+                    "148.5%",
+                    "158.98%",
+                    "169.46%",
+                    "179.95%",
+                    "190.43%",
+                    "200.91%"
+                ],
+                "重击伤害": [
+                    "54.31%+54.31%",
+                    "58.73%+58.73%",
+                    "63.15%+63.15%",
+                    "69.46%+69.46%",
+                    "73.89%+73.89%",
+                    "78.94%+78.94%",
+                    "85.88%+85.88%",
+                    "92.83%+92.83%",
+                    "99.78%+99.78%",
+                    "107.35%+107.35%",
+                    "114.93%+114.93%",
+                    "122.51%+122.51%",
+                    "130.09%+130.09%",
+                    "137.67%+137.67%",
+                    "145.25%+145.25%"
+                ],
+                "重击体力消耗": [
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点"
+                ],
+                "下坠期间伤害": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ],
+                "低空/高空坠地冲击伤害": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ]
+            },
+            "description": "<color=#FFD780FF>普通攻击</color>\\n进行至多四段的连续剑击。\\n\\n<color=#FFD780FF>重击</color>\\n消耗一定体力，瞬间向前方挥出两剑。\\n\\n<color=#FFD780FF>下落攻击</color>\\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。"
+        },
+        "elementalskill": {
+            "name": "羽袖一触",
+            "icon": "Skill_S_Chiori_01",
+            "multipliers": {
+                "袖伤害": [
+                    "82.08%攻击力+102.6%防御力",
+                    "88.24%攻击力+110.29%防御力",
+                    "94.39%攻击力+117.99%防御力",
+                    "102.6%攻击力+128.25%防御力",
+                    "108.76%攻击力+135.94%防御力",
+                    "114.91%攻击力+143.64%防御力",
+                    "123.12%攻击力+153.9%防御力",
+                    "131.33%攻击力+164.16%防御力",
+                    "139.54%攻击力+174.42%防御力",
+                    "147.74%攻击力+184.68%防御力",
+                    "155.95%攻击力+194.94%防御力",
+                    "164.16%攻击力+205.2%防御力",
+                    "174.42%攻击力+218.02%防御力",
+                    "184.68%攻击力+230.85%防御力",
+                    "194.94%攻击力+243.67%防御力"
+                ],
+                "袖存在时间": [
+                    "17秒",
+                    "17秒",
+                    "17秒",
+                    "17秒",
+                    "17秒",
+                    "17秒",
+                    "17秒",
+                    "17秒",
+                    "17秒",
+                    "17秒",
+                    "17秒",
+                    "17秒",
+                    "17秒",
+                    "17秒",
+                    "17秒"
+                ],
+                "袖攻击间隔": [
+                    "3.6秒",
+                    "3.6秒",
+                    "3.6秒",
+                    "3.6秒",
+                    "3.6秒",
+                    "3.6秒",
+                    "3.6秒",
+                    "3.6秒",
+                    "3.6秒",
+                    "3.6秒",
+                    "3.6秒",
+                    "3.6秒",
+                    "3.6秒",
+                    "3.6秒",
+                    "3.6秒"
+                ],
+                "上挑攻击伤害": [
+                    "149.28%攻击力+186.6%防御力",
+                    "160.48%攻击力+200.59%防御力",
+                    "171.67%攻击力+214.59%防御力",
+                    "186.6%攻击力+233.25%防御力",
+                    "197.8%攻击力+247.25%防御力",
+                    "208.99%攻击力+261.24%防御力",
+                    "223.92%攻击力+279.9%防御力",
+                    "238.85%攻击力+298.56%防御力",
+                    "253.78%攻击力+317.22%防御力",
+                    "268.7%攻击力+335.88%防御力",
+                    "283.63%攻击力+354.54%防御力",
+                    "298.56%攻击力+373.2%防御力",
+                    "317.22%攻击力+396.53%防御力",
+                    "335.88%攻击力+419.85%防御力",
+                    "354.54%攻击力+443.17%防御力"
+                ],
+                "冷却时间": [
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒"
+                ]
+            },
+            "description": "以绸缎飘舞之姿迅捷突进，突进结束时，在身边唤出自动制御人形「袖」，并挥出上挑攻击，基于千织的攻击力和防御力，对附近的敌人造成<color=#FFE699FF>岩元素范围伤害</color>。\\n长按时将以不同的方式施放。\\n\\n<color=#FFD780FF>长按</color>\\n进入瞄准状态，以调整突进的方向。\\n\\n<color=#FFD780FF>袖</color>\\n·间歇性对附近的敌人发动斩切，基于千织的攻击力和防御力，造成<color=#FFE699FF>岩元素范围伤害</color>；\\n·存在期间，如果附近存在<color=#FFE699FF>岩元素创造物</color>，或有<color=#FFE699FF>岩元素创造物</color>被创造，将在当前场上自己的角色身边额外唤出一名袖。通过这种方式至多唤出一名袖，存在时间独立计算。\\n\\n<i>「锦绘染绯樱，花色余香缀袖中，几度醉流莺。」</i>"
+        },
+        "elementalburst": {
+            "name": "二刀之形·比翼",
+            "icon": "Skill_E_Chiori_01",
+            "multipliers": {
+                "技能伤害": [
+                    "256.32%攻击力+320.4%防御力",
+                    "275.54%攻击力+344.43%防御力",
+                    "294.77%攻击力+368.46%防御力",
+                    "320.4%攻击力+400.5%防御力",
+                    "339.62%攻击力+424.53%防御力",
+                    "358.85%攻击力+448.56%防御力",
+                    "384.48%攻击力+480.6%防御力",
+                    "410.11%攻击力+512.64%防御力",
+                    "435.74%攻击力+544.68%防御力",
+                    "461.38%攻击力+576.72%防御力",
+                    "487.01%攻击力+608.76%防御力",
+                    "512.64%攻击力+640.8%防御力",
+                    "544.68%攻击力+680.85%防御力",
+                    "576.72%攻击力+720.9%防御力",
+                    "608.76%攻击力+760.95%防御力"
+                ],
+                "冷却时间": [
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒"
+                ],
+                "元素能量": [
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50"
+                ]
+            },
+            "description": "双刀出鞘，以利落裁衣之势挥出凌厉的一斩，基于千织的攻击力和防御力，造成<color=#FFE699FF>岩元素范围伤害</color>。\\n\\n<i>「一理既达，万法皆通。」</i>"
+        },
+        "leveling": {
+            "crown": {
+                "104319": 3
+            },
+            "books": {
+                "104326": 9,
+                "104327": 63,
+                "104328": 114
+            },
+            "worldmonster": {
+                "112053": 18,
+                "112054": 66,
+                "112055": 93
+            },
+            "weekly": {
+                "113054": 18
+            }
+        }
+    },
+    "passives": {
+        "p1": {
+            "name": "量体裁衣",
+            "description": "施放<color=#FFD780FF>羽袖一触</color>的上挑攻击后的短暂时间内，依据不同的后续操作，产生不同的效果：点按元素战技将触发「织锦」；点按普通攻击则触发「裁锦」。\\n\\n<color=#FFD780FF>织锦</color>\\n·切换角色，使队伍中下一名自己的角色登场；\\n·为队伍中所有自己的角色施加「当意即妙」：队伍中自己的当前场上角色的普通攻击、重击和下落攻击命中附近的敌人时，袖将进行协同攻击，在敌人的位置造成相当于羽袖一触的上挑攻击伤害100%的<color=#FFE699FF>岩元素范围伤害</color>，通过这种方式造成的伤害视为元素战技伤害；\\n·「当意即妙」持续8秒，每2秒至多触发一次袖的协同攻击，一次「当意即妙」持续期间，至多触发2次协同攻击。\\n\\n<color=#FFD780FF>裁锦</color>\\n·千织获得<color=#FFE699FF>岩元素附魔</color>，持续5秒。\\n\\n千织在场上时，如果施放羽袖一触的上挑攻击后的短暂时间内没有再次点按元素战技或点按普通攻击，将触发后续效果「裁锦」。",
+            "icon": "UI_Talent_S_Chiori_05"
+        },
+        "p2": {
+            "name": "锦上添花",
+            "description": "队伍中附近的角色创造<color=#FFE699FF>岩元素创造物</color>时，千织获得20%<color=#FFE699FF>岩元素伤害加成</color>，持续20秒。",
+            "icon": "UI_Talent_S_Chiori_06"
+        },
+        "p3": {
+            "name": "衣香襟影",
+            "description": "队伍中任意自己的角色装备了默认衣装以外的衣装，或初始之翼以外的风之翼时，队伍中自己的角色获得迅行效果：移动速度提升10%。\\n该效果在秘境、征讨领域、深境螺旋中无效，迅行效果无法叠加。",
+            "icon": "UI_Talent_S_Chiori_07"
+        },
+        "p4": ""
+    },
+    "constellations": {
+        "const1": {
+            "name": "正绢六通",
+            "description": "<color=#FFD780FF>羽袖一触</color>的自动制御人形「袖」的攻击范围提升50%。\\n此外，如果队伍中存在千织以外的<color=#FFE699FF>岩元素</color>角色，羽袖一触的突进结束时，还将触发以下效果：\\n·额外唤出一名袖。通过这种方式唤出的千织自己的袖，与通过岩元素创造物额外唤出的千织自己的袖至多同时存在一名；\\n·触发、突破天赋「锦上添花」，此效果需要解锁突破天赋「锦上添花」。",
+            "icon": "UI_Talent_S_Chiori_01"
+        },
+        "const2": {
+            "name": "落染五色",
+            "description": "施放<color=#FFD780FF>二刀之形·比翼</color>后的10秒内，每3秒都将在当前场上自己的角色身边唤出一名简易自动制御人形「绢」。绢将对附近的敌人发起攻击，造成相当于袖170%的<color=#FFE699FF>岩元素范围伤害</color>，通过这种方式造成的伤害视为元素战技伤害。\\n绢将在进行一次攻击或存在3秒后退场。",
+            "icon": "UI_Talent_S_Chiori_03"
+        },
+        "const3": {
+            "name": "缀锦四分",
+            "description": "<color=#FFD780FF>羽袖一触</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Chiori_01"
+        },
+        "const4": {
+            "name": "衣裁三礼",
+            "description": "触发突破天赋「量体裁衣」的后续效果后的8秒内，队伍中自己的当前场上角色的普通攻击、重击或下落攻击命中附近的敌人时，将在敌人附近唤出一名简易自动制御人形「绢」。每1秒至多通过上述方式唤出一名绢，一次突破天赋「量体裁衣」的当意即妙或裁锦持续期间，至多通过上述方式唤出3名绢。上述效果每15秒最多触发一次。 \\n需要解锁突破天赋「量体裁衣」。",
+            "icon": "UI_Talent_S_Chiori_02"
+        },
+        "const5": {
+            "name": "绫羽二重",
+            "description": "<color=#FFD780FF>二刀之形·比翼</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Chiori_02"
+        },
+        "const6": {
+            "name": "万理一空",
+            "description": "触发突破天赋「量体裁衣」的后续效果后，千织自己的<color=#FFD780FF>羽袖一触</color>的冷却时间减少12秒。需要解锁突破天赋「量体裁衣」。\\n此外，千织自己的普通攻击造成的伤害提升，提升值相当于千织自己的防御力的235%。",
+            "icon": "UI_Talent_S_Chiori_04"
+        }
+    },
+    "energy": [
+        {
+            "source": "ElementalArt_DropBall",
+            "particles": "1",
+            "chance": "80%",
+            "cd": "3s"
+        },
+        {
+            "source": "ElementalArt_DropBall",
+            "particles": "2",
+            "chance": "19%",
+            "cd": "3s"
+        }
+    ],
+    "attacks": [
+        {
+            "name": "NormalAttack_04",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV5/78",
+            "element": "-"
+        },
+        {
+            "name": "SkillObj_ElementalArt_Turret",
+            "icd_source": "Tag: Chiori_ElementArt",
+            "icd_rule": "5 hits / 1.9s",
+            "gauge": "1U",
+            "poise": "LV2/30",
+            "element": "Rock"
+        },
+        {
+            "name": "SkillObj_ElementalArt_Turret",
+            "icd_source": "Tag: Chiori_ElementArt",
+            "icd_rule": "5 hits / 1.9s",
+            "gauge": "1U",
+            "poise": "LV2/30",
+            "element": "Rock"
+        },
+        {
+            "name": "SkillObj_ElementalArt_RockGadget_Turret",
+            "icd_source": "Tag: Chiori_ElementArt",
+            "icd_rule": "5 hits / 1.9s",
+            "gauge": "1U",
+            "poise": "LV2/30",
+            "element": "Rock"
+        },
+        {
+            "name": "SkillObj_ElementalArt_RockGadget_Turret",
+            "icd_source": "Tag: Chiori_ElementArt",
+            "icd_rule": "5 hits / 1.9s",
+            "gauge": "1U",
+            "poise": "LV2/30",
+            "element": "Rock"
+        },
+        {
+            "name": "ElementalArt_Blink",
+            "icd_source": "Tag: Chiori_ElementArt",
+            "icd_rule": "5 hits / 1.9s",
+            "gauge": "1U",
+            "poise": "LV5/50",
+            "element": "Rock"
+        },
+        {
+            "name": "ElementalArt_JumpSwitch",
+            "icd_source": "Tag: Chiori_ElementArt",
+            "icd_rule": "5 hits / 1.9s",
+            "gauge": "1U",
+            "poise": "LV2/50",
+            "element": "Rock"
+        },
+        {
+            "name": "ElementalBurst",
+            "icd_source": "Grp: default",
+            "icd_rule": "Standard (3h/2.5s)",
+            "gauge": "4U",
+            "poise": "-/400",
+            "element": "-"
+        },
+        {
+            "name": "Bullet_ElementalBurst_RockBomb",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "2U",
+            "poise": "LV4/200",
+            "element": "Rock"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/25",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/100",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/150",
+            "element": "-"
+        },
+        {
+            "name": "SkillObj_Turret_Constellation",
+            "icd_source": "Tag: Chiori_ElementArt",
+            "icd_rule": "5 hits / 1.9s",
+            "gauge": "1U",
+            "poise": "LV2/30",
+            "element": "Rock"
+        },
+        {
+            "name": "SkillObj_Turret_Constellation",
+            "icd_source": "Tag: Chiori_ElementArt",
+            "icd_rule": "5 hits / 1.9s",
+            "gauge": "1U",
+            "poise": "LV2/30",
+            "element": "Rock"
+        }
+    ],
+    "hyperlinks": []
+}

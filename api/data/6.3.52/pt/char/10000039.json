@@ -1,0 +1,1282 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104161": 1,
+            "104162": 9,
+            "104163": 9,
+            "104164": 6
+        },
+        "elitemonster": {
+            "113010": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100056": 168
+        },
+        "worldmonster": {
+            "112011": 18,
+            "112012": 30,
+            "112013": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "4U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "ShootArrow_Enchanted_WithoutIce",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "Bullet_ShootArrow_WithIce",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Bullet_Material",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "Elemental_Art_Flask",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "IceWine_Fog",
+            "poise": "LV1/50"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Regenera 15 de Energia para Diona depois dos efeitos de <color=#FFD780FF>Coquetel Assassino</color> terminarem.",
+            "icon": "UI_Talent_S_Diona_01",
+            "name": "Coquetel da Casa"
+        },
+        "const2": {
+            "description": "Aumenta o dano da <color=#FFD780FF>Garra de Gato Gelada</color> em 15%, e aumenta a Absorção de Dano do escudo em 15%. Quando a habilidade atinge um alvo, cria um escudo para outros personagens nos arredores que absorve até 50% do dano <color=#FFD780FF>Garra de Gato Gelada</color> por 5s.",
+            "icon": "UI_Talent_S_Diona_02",
+            "name": "Garra de Gato Tremendo de Frio"
+        },
+        "const3": {
+            "description": "Aumenta o nível do <color=#FFD780FF>Coquetel Assassino</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Diona_01",
+            "name": "Q-quer outro copo?"
+        },
+        "const4": {
+            "description": "Na AdE do <color=#FFD780FF>Coquetel Assassino</color>, o tempo do Disparo com Mira de Diona é reduzido em 60%.",
+            "icon": "UI_Talent_S_Diona_03",
+            "name": "\"Assassina da indústria do vinho\""
+        },
+        "const5": {
+            "description": "Aumenta o nível da <color=#FFD780FF>Garra de Gato Gelada</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Diona_02",
+            "name": "Dose dupla com gelo"
+        },
+        "const6": {
+            "description": "Os personagens dentro da AdE do <color=#FFD780FF>Coquetel Assassino</color> de acordo com a Vida obtém o seguinte efeito:\\nQuando a Vida é igual ou inferior a 50%, o Bônus de Cura Recebida aumenta 30%;\\nQuando a Vida é superior a 50%, a Proficiência Elemental aumenta 200.",
+            "icon": "UI_Talent_S_Diona_04",
+            "name": "Encerrando o Expediente na Cauda do Gato"
+        }
+    },
+    "energy": [
+        {
+            "cd": "1s",
+            "chance": "80%",
+            "particles": "1",
+            "source": "Ball"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Diona",
+        "forward": "UI_AvatarIcon_Diona"
+    },
+    "info": {
+        "attributes": [
+            {
+                "Cryo%": "0",
+                "ascension": 0,
+                "atk": 18,
+                "def": 50,
+                "hp": 802,
+                "level": 1
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 55,
+                "hp": 869,
+                "level": 2
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 59,
+                "hp": 935,
+                "level": 3
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 63,
+                "hp": 1001,
+                "level": 4
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 67,
+                "hp": 1067,
+                "level": 5
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 71,
+                "hp": 1134,
+                "level": 6
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 75,
+                "hp": 1200,
+                "level": 7
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 79,
+                "hp": 1266,
+                "level": 8
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 84,
+                "hp": 1333,
+                "level": 9
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 88,
+                "hp": 1399,
+                "level": 10
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 92,
+                "hp": 1465,
+                "level": 11
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 96,
+                "hp": 1531,
+                "level": 12
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 100,
+                "hp": 1598,
+                "level": 13
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 104,
+                "hp": 1663,
+                "level": 14
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 109,
+                "hp": 1730,
+                "level": 15
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 0,
+                "atk": 40,
+                "def": 113,
+                "hp": 1797,
+                "level": 16
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 117,
+                "hp": 1862,
+                "level": 17
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 0,
+                "atk": 43,
+                "def": 121,
+                "hp": 1929,
+                "level": 18
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 125,
+                "hp": 1995,
+                "level": 19
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 0,
+                "atk": 46,
+                "def": 129,
+                "hp": 2061,
+                "level": 20
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 1,
+                "atk": 61,
+                "def": 171,
+                "hp": 2727,
+                "level": 21
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 1,
+                "atk": 62,
+                "def": 175,
+                "hp": 2793,
+                "level": 22
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 1,
+                "atk": 63,
+                "def": 179,
+                "hp": 2860,
+                "level": 23
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 1,
+                "atk": 65,
+                "def": 184,
+                "hp": 2926,
+                "level": 24
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 1,
+                "atk": 66,
+                "def": 188,
+                "hp": 2992,
+                "level": 25
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 1,
+                "atk": 68,
+                "def": 192,
+                "hp": 3058,
+                "level": 26
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 1,
+                "atk": 69,
+                "def": 196,
+                "hp": 3124,
+                "level": 27
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 200,
+                "hp": 3190,
+                "level": 28
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 1,
+                "atk": 72,
+                "def": 204,
+                "hp": 3257,
+                "level": 29
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 1,
+                "atk": 74,
+                "def": 209,
+                "hp": 3323,
+                "level": 30
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 1,
+                "atk": 75,
+                "def": 213,
+                "hp": 3389,
+                "level": 31
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 1,
+                "atk": 77,
+                "def": 217,
+                "hp": 3456,
+                "level": 32
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 1,
+                "atk": 78,
+                "def": 221,
+                "hp": 3522,
+                "level": 33
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 1,
+                "atk": 80,
+                "def": 225,
+                "hp": 3588,
+                "level": 34
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 1,
+                "atk": 81,
+                "def": 229,
+                "hp": 3654,
+                "level": 35
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 1,
+                "atk": 83,
+                "def": 234,
+                "hp": 3721,
+                "level": 36
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 1,
+                "atk": 84,
+                "def": 238,
+                "hp": 3786,
+                "level": 37
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 1,
+                "atk": 86,
+                "def": 242,
+                "hp": 3853,
+                "level": 38
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 1,
+                "atk": 87,
+                "def": 246,
+                "hp": 3920,
+                "level": 39
+            },
+            {
+                "Cryo%": "0",
+                "ascension": 1,
+                "atk": 88,
+                "def": 250,
+                "hp": 3985,
+                "level": 40
+            },
+            {
+                "Cryo%": "6",
+                "ascension": 2,
+                "atk": 99,
+                "def": 281,
+                "hp": 4478,
+                "level": 41
+            },
+            {
+                "Cryo%": "6",
+                "ascension": 2,
+                "atk": 101,
+                "def": 285,
+                "hp": 4544,
+                "level": 42
+            },
+            {
+                "Cryo%": "6",
+                "ascension": 2,
+                "atk": 102,
+                "def": 289,
+                "hp": 4610,
+                "level": 43
+            },
+            {
+                "Cryo%": "6",
+                "ascension": 2,
+                "atk": 104,
+                "def": 293,
+                "hp": 4676,
+                "level": 44
+            },
+            {
+                "Cryo%": "6",
+                "ascension": 2,
+                "atk": 105,
+                "def": 298,
+                "hp": 4743,
+                "level": 45
+            },
+            {
+                "Cryo%": "6",
+                "ascension": 2,
+                "atk": 107,
+                "def": 302,
+                "hp": 4809,
+                "level": 46
+            },
+            {
+                "Cryo%": "6",
+                "ascension": 2,
+                "atk": 108,
+                "def": 306,
+                "hp": 4875,
+                "level": 47
+            },
+            {
+                "Cryo%": "6",
+                "ascension": 2,
+                "atk": 110,
+                "def": 310,
+                "hp": 4942,
+                "level": 48
+            },
+            {
+                "Cryo%": "6",
+                "ascension": 2,
+                "atk": 111,
+                "def": 314,
+                "hp": 5008,
+                "level": 49
+            },
+            {
+                "Cryo%": "6",
+                "ascension": 2,
+                "atk": 113,
+                "def": 318,
+                "hp": 5074,
+                "level": 50
+            },
+            {
+                "Cryo%": "12",
+                "ascension": 3,
+                "atk": 127,
+                "def": 358,
+                "hp": 5708,
+                "level": 51
+            },
+            {
+                "Cryo%": "12",
+                "ascension": 3,
+                "atk": 128,
+                "def": 362,
+                "hp": 5774,
+                "level": 52
+            },
+            {
+                "Cryo%": "12",
+                "ascension": 3,
+                "atk": 130,
+                "def": 367,
+                "hp": 5841,
+                "level": 53
+            },
+            {
+                "Cryo%": "12",
+                "ascension": 3,
+                "atk": 131,
+                "def": 371,
+                "hp": 5907,
+                "level": 54
+            },
+            {
+                "Cryo%": "12",
+                "ascension": 3,
+                "atk": 133,
+                "def": 375,
+                "hp": 5973,
+                "level": 55
+            },
+            {
+                "Cryo%": "12",
+                "ascension": 3,
+                "atk": 134,
+                "def": 379,
+                "hp": 6039,
+                "level": 56
+            },
+            {
+                "Cryo%": "12",
+                "ascension": 3,
+                "atk": 136,
+                "def": 383,
+                "hp": 6106,
+                "level": 57
+            },
+            {
+                "Cryo%": "12",
+                "ascension": 3,
+                "atk": 137,
+                "def": 387,
+                "hp": 6172,
+                "level": 58
+            },
+            {
+                "Cryo%": "12",
+                "ascension": 3,
+                "atk": 138,
+                "def": 392,
+                "hp": 6238,
+                "level": 59
+            },
+            {
+                "Cryo%": "12",
+                "ascension": 3,
+                "atk": 140,
+                "def": 396,
+                "hp": 6305,
+                "level": 60
+            },
+            {
+                "Cryo%": "12",
+                "ascension": 4,
+                "atk": 151,
+                "def": 427,
+                "hp": 6796,
+                "level": 61
+            },
+            {
+                "Cryo%": "12",
+                "ascension": 4,
+                "atk": 152,
+                "def": 431,
+                "hp": 6863,
+                "level": 62
+            },
+            {
+                "Cryo%": "12",
+                "ascension": 4,
+                "atk": 154,
+                "def": 435,
+                "hp": 6929,
+                "level": 63
+            },
+            {
+                "Cryo%": "12",
+                "ascension": 4,
+                "atk": 155,
+                "def": 439,
+                "hp": 6995,
+                "level": 64
+            },
+            {
+                "Cryo%": "12",
+                "ascension": 4,
+                "atk": 157,
+                "def": 443,
+                "hp": 7061,
+                "level": 65
+            },
+            {
+                "Cryo%": "12",
+                "ascension": 4,
+                "atk": 158,
+                "def": 447,
+                "hp": 7128,
+                "level": 66
+            },
+            {
+                "Cryo%": "12",
+                "ascension": 4,
+                "atk": 160,
+                "def": 452,
+                "hp": 7194,
+                "level": 67
+            },
+            {
+                "Cryo%": "12",
+                "ascension": 4,
+                "atk": 161,
+                "def": 456,
+                "hp": 7260,
+                "level": 68
+            },
+            {
+                "Cryo%": "12",
+                "ascension": 4,
+                "atk": 163,
+                "def": 460,
+                "hp": 7327,
+                "level": 69
+            },
+            {
+                "Cryo%": "12",
+                "ascension": 4,
+                "atk": 164,
+                "def": 464,
+                "hp": 7393,
+                "level": 70
+            },
+            {
+                "Cryo%": "18",
+                "ascension": 5,
+                "atk": 175,
+                "def": 495,
+                "hp": 7885,
+                "level": 71
+            },
+            {
+                "Cryo%": "18",
+                "ascension": 5,
+                "atk": 176,
+                "def": 499,
+                "hp": 7951,
+                "level": 72
+            },
+            {
+                "Cryo%": "18",
+                "ascension": 5,
+                "atk": 178,
+                "def": 503,
+                "hp": 8017,
+                "level": 73
+            },
+            {
+                "Cryo%": "18",
+                "ascension": 5,
+                "atk": 179,
+                "def": 507,
+                "hp": 8084,
+                "level": 74
+            },
+            {
+                "Cryo%": "18",
+                "ascension": 5,
+                "atk": 181,
+                "def": 511,
+                "hp": 8150,
+                "level": 75
+            },
+            {
+                "Cryo%": "18",
+                "ascension": 5,
+                "atk": 182,
+                "def": 516,
+                "hp": 8216,
+                "level": 76
+            },
+            {
+                "Cryo%": "18",
+                "ascension": 5,
+                "atk": 184,
+                "def": 520,
+                "hp": 8282,
+                "level": 77
+            },
+            {
+                "Cryo%": "18",
+                "ascension": 5,
+                "atk": 185,
+                "def": 524,
+                "hp": 8349,
+                "level": 78
+            },
+            {
+                "Cryo%": "18",
+                "ascension": 5,
+                "atk": 187,
+                "def": 528,
+                "hp": 8415,
+                "level": 79
+            },
+            {
+                "Cryo%": "18",
+                "ascension": 5,
+                "atk": 188,
+                "def": 532,
+                "hp": 8481,
+                "level": 80
+            },
+            {
+                "Cryo%": "24",
+                "ascension": 6,
+                "atk": 199,
+                "def": 563,
+                "hp": 8974,
+                "level": 81
+            },
+            {
+                "Cryo%": "24",
+                "ascension": 6,
+                "atk": 201,
+                "def": 567,
+                "hp": 9040,
+                "level": 82
+            },
+            {
+                "Cryo%": "24",
+                "ascension": 6,
+                "atk": 202,
+                "def": 572,
+                "hp": 9106,
+                "level": 83
+            },
+            {
+                "Cryo%": "24",
+                "ascension": 6,
+                "atk": 204,
+                "def": 576,
+                "hp": 9172,
+                "level": 84
+            },
+            {
+                "Cryo%": "24",
+                "ascension": 6,
+                "atk": 205,
+                "def": 580,
+                "hp": 9239,
+                "level": 85
+            },
+            {
+                "Cryo%": "24",
+                "ascension": 6,
+                "atk": 207,
+                "def": 584,
+                "hp": 9304,
+                "level": 86
+            },
+            {
+                "Cryo%": "24",
+                "ascension": 6,
+                "atk": 208,
+                "def": 588,
+                "hp": 9371,
+                "level": 87
+            },
+            {
+                "Cryo%": "24",
+                "ascension": 6,
+                "atk": 209,
+                "def": 592,
+                "hp": 9437,
+                "level": 88
+            },
+            {
+                "Cryo%": "24",
+                "ascension": 6,
+                "atk": 211,
+                "def": 596,
+                "hp": 9503,
+                "level": 89
+            },
+            {
+                "Cryo%": "24",
+                "ascension": 6,
+                "atk": 212,
+                "def": 601,
+                "hp": 9570,
+                "level": 90
+            },
+            {
+                "Cryo%": "24",
+                "ascension": 6,
+                "atk": 239,
+                "def": 621,
+                "hp": 9901,
+                "level": 95
+            },
+            {
+                "Cryo%": "24",
+                "ascension": 6,
+                "atk": 267,
+                "def": 642,
+                "hp": 10232,
+                "level": 100
+            }
+        ],
+        "birthday": "January 18th",
+        "constellation": "Feles",
+        "description": "Uma jovem que herdou pequenas quantidades de sangue não humano. Ela é a Barmaid incrivelmente popular da taverna da Cauda do Gato.",
+        "element": "Cryo",
+        "name": "Diona",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_BOW"
+    },
+    "passives": {
+        "p1": {
+            "description": "Os personagens protegidos por <color=#FFD780FF>Garras de Gato Gelado</color> têm sua Veloc. Mov. aumentado em 10% e seu Consumo de Stamina diminuído em 10%.",
+            "icon": "UI_Talent_S_Diona_05",
+            "name": "Menu Secreto da Cauda do Gato"
+        },
+        "p2": {
+            "description": "Inimigos que entram na AdE do <color=#FFD780FF>Coquetel Assassino</color> tem seu ATQ reduzido em 10% por 15s.",
+            "icon": "UI_Talent_S_Diona_06",
+            "name": "Diversão dos Bêbados"
+        },
+        "p3": {
+            "description": "Quando uma Culinária Perfeita é feita em uma comida com efeito de recuperação, tem uma chance de 12% de receber o dobro de produção.",
+            "icon": "UI_Talent_Cook_Heal",
+            "name": "Aperitivos Grátis"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Atira um coquetel gelado especial que causa <color=#99FFFFFF>Dano Cryo em uma AdE</color> e cria uma Névoa Embriagada em uma AdE.\\n\\n<color=#FFD780FF>Névoa Embriagada</color>\\nCausa <color=#99FFFFFF>Dano Cryo</color> contínuo nos inimigos dentro da AdE.\\nRegenera continuamente a Vida dos personagens dentro da AdE.\\n\\n<i>Uma mistura horrível que até mesmo Diona considera desumana. O gosto horrível deve ser deixado apenas para os inimigos. Tem um sabor muito fresco, mas infelizmente só se pode sentir no nariz e na pele.</i>",
+            "icon": "Skill_E_Diona_01",
+            "multipliers": {
+                "Cura Contínua": [
+                    "5.34% da Vida Máxima + 513",
+                    "5.74% da Vida Máxima + 565",
+                    "6.14% da Vida Máxima + 620",
+                    "6.67% da Vida Máxima + 680",
+                    "7.07% da Vida Máxima + 744",
+                    "7.47% da Vida Máxima + 813",
+                    "8% da Vida Máxima + 885",
+                    "8.54% da Vida Máxima + 962",
+                    "9.07% da Vida Máxima + 1044",
+                    "9.6% da Vida Máxima + 1129",
+                    "10.14% da Vida Máxima + 1219",
+                    "10.67% da Vida Máxima + 1313",
+                    "11.34% da Vida Máxima + 1411",
+                    "12.01% da Vida Máxima + 1514",
+                    "12.67% da Vida Máxima + 1621"
+                ],
+                "Dano Contínuo de Área": [
+                    "52.64%",
+                    "56.59%",
+                    "60.54%",
+                    "65.8%",
+                    "69.75%",
+                    "73.7%",
+                    "78.96%",
+                    "84.22%",
+                    "89.49%",
+                    "94.75%",
+                    "100.02%",
+                    "105.28%",
+                    "111.86%",
+                    "118.44%",
+                    "125.02%"
+                ],
+                "Dano de Habilidade": [
+                    "80%",
+                    "86%",
+                    "92%",
+                    "100%",
+                    "106%",
+                    "112%",
+                    "120%",
+                    "128%",
+                    "136%",
+                    "144%",
+                    "152%",
+                    "160%",
+                    "170%",
+                    "180%",
+                    "190%"
+                ],
+                "Duração": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "Energia Elemental": [
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80"
+                ],
+                "Tempo de Recarga": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ]
+            },
+            "name": "Coquetel Assassino"
+        },
+        "elementalskill": {
+            "description": "Dispara uma Garra de Gato Gelada que causa <color=#99FFFFFF>Dano Cryo</color> e cria um escudo.\\nA Absorção de Dano do escudo é baseada na Vida Máxima de Diona, e sua duração depende do número de garras que atingem seu objetivo.\\n\\n<color=#FFD780FF>Tocar</color>\\nDispara rapidamente 2 Garras de Gato Gelada.\\n\\n<color=#FFD780FF>Manter Pressionado</color> Retrocede rapidamente e dispara 5 Garras de Gato Geladas.\\nO escudo criado pelo ataque Manter Pressionado ganhará um bônus de 75% de Absorção de Dano.\\n\\nO escudo tem um bônus de 250% de Absorção de <color=#99FFFFFF>Dano Cryo</color>, e ao ser formado aplica o <color=#99FFFFFF>Elemento Cryo</color> em seu próprio personagem por uma curta duração.\\n\\n<i>Normalmente, nenhuma quantidade de gelo no copo de um bêbado faria mal algum, até que Diona usou sua Visão para criar gelo frio o suficiente para congelar o cérebro. Nota 10!</i>",
+            "icon": "Skill_S_Diona_01",
+            "multipliers": {
+                "Absorção Básica de Escudo": [
+                    "7.2% da Vida máxima + 693",
+                    "7.74% da Vida máxima + 762",
+                    "8.28% da Vida máxima + 837",
+                    "9% da Vida máxima + 918",
+                    "9.54% da Vida máxima + 1005",
+                    "10.08% da Vida máxima + 1097",
+                    "10.8% da Vida máxima + 1195",
+                    "11.52% da Vida máxima + 1299",
+                    "12.24% da Vida máxima + 1409",
+                    "12.96% da Vida máxima + 1524",
+                    "13.68% da Vida máxima + 1646",
+                    "14.4% da Vida máxima + 1773",
+                    "15.3% da Vida máxima + 1905",
+                    "16.2% da Vida máxima + 2044",
+                    "17.1% da Vida máxima + 2188"
+                ],
+                "Dano de Garras do Gato": [
+                    "41.92% cada",
+                    "45.06% cada",
+                    "48.21% cada",
+                    "52.4% cada",
+                    "55.54% cada",
+                    "58.69% cada",
+                    "62.88% cada",
+                    "67.07% cada",
+                    "71.26% cada",
+                    "75.46% cada",
+                    "79.65% cada",
+                    "83.84% cada",
+                    "89.08% cada",
+                    "94.32% cada",
+                    "99.56% cada"
+                ],
+                "Duração": [
+                    "1.8s por Garra",
+                    "1.9s por Garra",
+                    "2s por Garra",
+                    "2.1s por Garra",
+                    "2.2s por Garra",
+                    "2.3s por Garra",
+                    "2.4s por Garra",
+                    "2.4s por Garra",
+                    "2.4s por Garra",
+                    "2.4s por Garra",
+                    "2.4s por Garra",
+                    "2.4s por Garra",
+                    "2.4s por Garra",
+                    "2.4s por Garra",
+                    "2.4s por Garra"
+                ],
+                "Recarga ao Manter Pressionado": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Recarga ao Pressionar": [
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s"
+                ]
+            },
+            "name": "Garra de Gato Gelada"
+        },
+        "leveling": {
+            "books": {
+                "104301": 9,
+                "104302": 63,
+                "104303": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113014": 18
+            },
+            "worldmonster": {
+                "112011": 18,
+                "112012": 66,
+                "112013": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 5 disparos consecutivos com o arco.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nRealiza um ataque <color=#FFD780FF>Disparo com Mira</color> mais preciso e com mais dano.\\nEnquanto mira, gelo será acumulado na flecha. Uma flecha totalmente carregada causará <color=#99FFFFFF>Dano Cryo</color>.\\n\\n<color=#FFD780FF>Ataque Imersivo</color> Dispara uma chuva de flechas no ar antes de cair e impactar o chão, causando Dano AdE no impacto.",
+            "icon": "Skill_A_02",
+            "multipliers": {
+                "Dano Durante a Queda": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "Dano do 1° Golpe": [
+                    "36.12%",
+                    "39.06%",
+                    "42%",
+                    "46.2%",
+                    "49.14%",
+                    "52.5%",
+                    "57.12%",
+                    "61.74%",
+                    "66.36%",
+                    "71.4%",
+                    "77.17%",
+                    "83.97%",
+                    "90.76%",
+                    "97.55%",
+                    "104.96%"
+                ],
+                "Dano do 2° Golpe": [
+                    "33.54%",
+                    "36.27%",
+                    "39%",
+                    "42.9%",
+                    "45.63%",
+                    "48.75%",
+                    "53.04%",
+                    "57.33%",
+                    "61.62%",
+                    "66.3%",
+                    "71.66%",
+                    "77.97%",
+                    "84.28%",
+                    "90.58%",
+                    "97.46%"
+                ],
+                "Dano do 3° Golpe": [
+                    "45.58%",
+                    "49.29%",
+                    "53%",
+                    "58.3%",
+                    "62.01%",
+                    "66.25%",
+                    "72.08%",
+                    "77.91%",
+                    "83.74%",
+                    "90.1%",
+                    "97.39%",
+                    "105.96%",
+                    "114.53%",
+                    "123.1%",
+                    "132.45%"
+                ],
+                "Dano do 4° Golpe": [
+                    "43%",
+                    "46.5%",
+                    "50%",
+                    "55%",
+                    "58.5%",
+                    "62.5%",
+                    "68%",
+                    "73.5%",
+                    "79%",
+                    "85%",
+                    "91.87%",
+                    "99.96%",
+                    "108.05%",
+                    "116.13%",
+                    "124.95%"
+                ],
+                "Dano do 5° Golpe": [
+                    "53.75%",
+                    "58.13%",
+                    "62.5%",
+                    "68.75%",
+                    "73.12%",
+                    "78.12%",
+                    "85%",
+                    "91.87%",
+                    "98.75%",
+                    "106.25%",
+                    "114.84%",
+                    "124.95%",
+                    "135.06%",
+                    "145.16%",
+                    "156.19%"
+                ],
+                "Disparo com Mira": [
+                    "43.86%",
+                    "47.43%",
+                    "51%",
+                    "56.1%",
+                    "59.67%",
+                    "63.75%",
+                    "69.36%",
+                    "74.97%",
+                    "80.58%",
+                    "86.7%",
+                    "93.71%",
+                    "101.96%",
+                    "110.21%",
+                    "118.45%",
+                    "127.45%"
+                ],
+                "Disparo com Mira com Energização Completa": [
+                    "124%",
+                    "133.3%",
+                    "142.6%",
+                    "155%",
+                    "164.3%",
+                    "173.6%",
+                    "186%",
+                    "198.4%",
+                    "210.8%",
+                    "223.2%",
+                    "236.1%",
+                    "252.96%",
+                    "269.82%",
+                    "286.69%",
+                    "303.55%"
+                ]
+            },
+            "name": "Pontaria do Caçador"
+        }
+    }
+}

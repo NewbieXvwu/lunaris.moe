@@ -1,0 +1,1339 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104171": 1,
+            "104172": 9,
+            "104173": 9,
+            "104174": 6
+        },
+        "elitemonster": {
+            "113009": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100023": 168
+        },
+        "worldmonster": {
+            "112008": 18,
+            "112009": 30,
+            "112010": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "SkillObj_FuriousMonolith",
+            "poise": "LV4/50"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "SkillObj_FuriousMonolith_Field",
+            "poise": "LV1/50"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_FuriousMonolith_FullBloom",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_FuriousMonolith_FullBloom",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_FuriousMonolith_FullBloom",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_FuriousMonolith_FullBloom",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_FuriousMonolith_FullBloom",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_FuriousMonolith_FullBloom",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_FuriousMonolith_FullBloom",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_FuriousMonolith_FullBloom",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_FuriousMonolith_FullBloom",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "AlchemicalBreakOut",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "4U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Grp: default",
+            "name": "AlchemicalBreakOut",
+            "poise": "-/400"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "SkillObj_FuriousMonolith_Hexenzirkel",
+            "poise": "LV1/50"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "HexenzirkelSkill",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "HexenzirkelSkill",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "HexenzirkelSkill",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "HexenzirkelSkill",
+            "poise": "LV2/30"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "阿贝多的<color=#FFD780FF>创生法·拟造阳华</color>生成的刹那之花绽放时，为阿贝多自己回复1.2点元素能量。",
+            "icon": "UI_Talent_S_Albedo_01",
+            "name": "伊甸之花"
+        },
+        "const2": {
+            "description": "<color=#FFD780FF>创生法·拟造阳华</color>的刹那之花绽放时，会为阿贝多赋予生灭计数效果，持续30秒：\\n·施放<color=#FFD780FF>诞生式·大地之潮</color>时，清除所有生灭计数效果，并根据清除的层数，提高诞生式·大地之潮的爆发伤害与生灭之花造成的伤害；\\n·每层生灭计数，会提高等同于阿贝多防御力的30%的伤害；\\n·该效果至多叠加4次。",
+            "icon": "UI_Talent_S_Albedo_02",
+            "name": "显生之宙"
+        },
+        "const3": {
+            "description": "<color=#FFD780FF>创生法·拟造阳华</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Albedo_01",
+            "name": "太阳之华"
+        },
+        "const4": {
+            "description": "处于阳华的领域中的队伍中当前场上角色，造成的下落攻击伤害提高30%。",
+            "icon": "UI_Talent_S_Albedo_03",
+            "name": "神性之陨"
+        },
+        "const5": {
+            "description": "<color=#FFD780FF>诞生式·大地之潮</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Albedo_02",
+            "name": "冥古之潮"
+        },
+        "const6": {
+            "description": "处在阳华的领域中的队伍中当前场上角色，若处于结晶反应产生的护盾庇护下，或阳华的领域中存在月笼时，造成的伤害提高17%。",
+            "icon": "UI_Talent_S_Albedo_04",
+            "name": "无垢之土"
+        }
+    },
+    "energy": [
+        {
+            "cd": "1s",
+            "chance": "67%",
+            "particles": "1",
+            "source": "AlchemyTrap_BloomElemBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Albedo",
+        "forward": "UI_AvatarIcon_Albedo"
+    },
+    "info": {
+        "attributes": [
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 68,
+                "hp": 1030,
+                "level": 1
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 74,
+                "hp": 1115,
+                "level": 2
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 23,
+                "def": 80,
+                "hp": 1200,
+                "level": 3
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 85,
+                "hp": 1287,
+                "level": 4
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 91,
+                "hp": 1372,
+                "level": 5
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 97,
+                "hp": 1459,
+                "level": 6
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 102,
+                "hp": 1544,
+                "level": 7
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 108,
+                "hp": 1631,
+                "level": 8
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 114,
+                "hp": 1717,
+                "level": 9
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 119,
+                "hp": 1803,
+                "level": 10
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 125,
+                "hp": 1889,
+                "level": 11
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 131,
+                "hp": 1976,
+                "level": 12
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 137,
+                "hp": 2062,
+                "level": 13
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 142,
+                "hp": 2150,
+                "level": 14
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 148,
+                "hp": 2236,
+                "level": 15
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 154,
+                "hp": 2323,
+                "level": 16
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 46,
+                "def": 160,
+                "hp": 2410,
+                "level": 17
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 47,
+                "def": 165,
+                "hp": 2497,
+                "level": 18
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 49,
+                "def": 171,
+                "hp": 2584,
+                "level": 19
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 51,
+                "def": 177,
+                "hp": 2671,
+                "level": 20
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 69,
+                "def": 241,
+                "hp": 3641,
+                "level": 21
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 247,
+                "hp": 3729,
+                "level": 22
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 72,
+                "def": 253,
+                "hp": 3816,
+                "level": 23
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 74,
+                "def": 259,
+                "hp": 3904,
+                "level": 24
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 76,
+                "def": 264,
+                "hp": 3991,
+                "level": 25
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 77,
+                "def": 270,
+                "hp": 4080,
+                "level": 26
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 79,
+                "def": 276,
+                "hp": 4167,
+                "level": 27
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 81,
+                "def": 282,
+                "hp": 4255,
+                "level": 28
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 82,
+                "def": 288,
+                "hp": 4343,
+                "level": 29
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 84,
+                "def": 294,
+                "hp": 4431,
+                "level": 30
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 86,
+                "def": 299,
+                "hp": 4519,
+                "level": 31
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 87,
+                "def": 305,
+                "hp": 4608,
+                "level": 32
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 89,
+                "def": 311,
+                "hp": 4696,
+                "level": 33
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 91,
+                "def": 317,
+                "hp": 4784,
+                "level": 34
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 93,
+                "def": 323,
+                "hp": 4872,
+                "level": 35
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 94,
+                "def": 329,
+                "hp": 4962,
+                "level": 36
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 96,
+                "def": 335,
+                "hp": 5051,
+                "level": 37
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 98,
+                "def": 340,
+                "hp": 5139,
+                "level": 38
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 99,
+                "def": 346,
+                "hp": 5228,
+                "level": 39
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 101,
+                "def": 352,
+                "hp": 5317,
+                "level": 40
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 115,
+                "def": 400,
+                "hp": 6033,
+                "level": 41
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 116,
+                "def": 406,
+                "hp": 6123,
+                "level": 42
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 118,
+                "def": 412,
+                "hp": 6212,
+                "level": 43
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 120,
+                "def": 417,
+                "hp": 6301,
+                "level": 44
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 121,
+                "def": 423,
+                "hp": 6390,
+                "level": 45
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 123,
+                "def": 429,
+                "hp": 6480,
+                "level": 46
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 125,
+                "def": 435,
+                "hp": 6569,
+                "level": 47
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 126,
+                "def": 441,
+                "hp": 6659,
+                "level": 48
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 128,
+                "def": 447,
+                "hp": 6750,
+                "level": 49
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 130,
+                "def": 453,
+                "hp": 6839,
+                "level": 50
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 147,
+                "def": 514,
+                "hp": 7765,
+                "level": 51
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 149,
+                "def": 520,
+                "hp": 7856,
+                "level": 52
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 151,
+                "def": 526,
+                "hp": 7945,
+                "level": 53
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 153,
+                "def": 532,
+                "hp": 8036,
+                "level": 54
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 154,
+                "def": 538,
+                "hp": 8126,
+                "level": 55
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 156,
+                "def": 544,
+                "hp": 8217,
+                "level": 56
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 158,
+                "def": 550,
+                "hp": 8308,
+                "level": 57
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 159,
+                "def": 556,
+                "hp": 8398,
+                "level": 58
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 161,
+                "def": 562,
+                "hp": 8489,
+                "level": 59
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 163,
+                "def": 568,
+                "hp": 8579,
+                "level": 60
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 177,
+                "def": 616,
+                "hp": 9297,
+                "level": 61
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 178,
+                "def": 622,
+                "hp": 9388,
+                "level": 62
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 180,
+                "def": 628,
+                "hp": 9480,
+                "level": 63
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 182,
+                "def": 634,
+                "hp": 9570,
+                "level": 64
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 183,
+                "def": 640,
+                "hp": 9662,
+                "level": 65
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 185,
+                "def": 646,
+                "hp": 9753,
+                "level": 66
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 187,
+                "def": 652,
+                "hp": 9844,
+                "level": 67
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 189,
+                "def": 658,
+                "hp": 9936,
+                "level": 68
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 190,
+                "def": 664,
+                "hp": 10027,
+                "level": 69
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 192,
+                "def": 670,
+                "hp": 10119,
+                "level": 70
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 206,
+                "def": 718,
+                "hp": 10838,
+                "level": 71
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 208,
+                "def": 724,
+                "hp": 10930,
+                "level": 72
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 209,
+                "def": 730,
+                "hp": 11022,
+                "level": 73
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 211,
+                "def": 736,
+                "hp": 11114,
+                "level": 74
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 213,
+                "def": 742,
+                "hp": 11206,
+                "level": 75
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 215,
+                "def": 748,
+                "hp": 11298,
+                "level": 76
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 216,
+                "def": 755,
+                "hp": 11391,
+                "level": 77
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 218,
+                "def": 761,
+                "hp": 11483,
+                "level": 78
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 220,
+                "def": 767,
+                "hp": 11576,
+                "level": 79
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 222,
+                "def": 773,
+                "hp": 11669,
+                "level": 80
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 235,
+                "def": 821,
+                "hp": 12389,
+                "level": 81
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 237,
+                "def": 827,
+                "hp": 12481,
+                "level": 82
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 239,
+                "def": 833,
+                "hp": 12574,
+                "level": 83
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 241,
+                "def": 839,
+                "hp": 12667,
+                "level": 84
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 242,
+                "def": 845,
+                "hp": 12759,
+                "level": 85
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 244,
+                "def": 851,
+                "hp": 12853,
+                "level": 86
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 246,
+                "def": 858,
+                "hp": 12946,
+                "level": 87
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 248,
+                "def": 864,
+                "hp": 13039,
+                "level": 88
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 249,
+                "def": 870,
+                "hp": 13133,
+                "level": 89
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 251,
+                "def": 876,
+                "hp": 13226,
+                "level": 90
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 279,
+                "def": 907,
+                "hp": 13695,
+                "level": 95
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 308,
+                "def": 938,
+                "hp": 14166,
+                "level": 100
+            }
+        ],
+        "birthday": "September 13th",
+        "constellation": "白垩之子座",
+        "description": "西风骑士团首席炼金术士兼调查小队队长，被称做「白垩之子」的天才。",
+        "element": "Geo",
+        "name": "阿贝多",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_SWORD_ONE_HAND"
+    },
+    "passives": {
+        "p1": {
+            "description": "<color=#FFD780FF>创生法·拟造阳华</color>的刹那之花对生命值低于50%的敌人造成的伤害提高25%。",
+            "icon": "UI_Talent_S_Albedo_05",
+            "name": "白垩色的威压"
+        },
+        "p2": {
+            "description": "施放<color=#FFD780FF>诞生式·大地之潮</color>时，使附近的队伍中角色的元素精通提高125点，持续10秒。",
+            "icon": "UI_Talent_S_Albedo_06",
+            "name": "瓶中人的天慧"
+        },
+        "p3": {
+            "description": "合成武器突破素材时，有10%概率获得2倍产出。",
+            "icon": "UI_Talent_Combine_Weapon_Double",
+            "name": "天才的发现"
+        },
+        "p4": {
+            "description": "完成<color=#FFD780FF>魔女的课业·题外之题</color>后，阿贝多将成为<color=#FFD780FF>魔导</color>角色。队伍中编入至少2名魔导角色时，将获得<color=#FFD780FF>魔导·秘仪</color>效果，使魔导角色获得强化。\\n\\n<color=#FFD780FF>魔导·秘仪</color>\\n·施放元素战技后的20秒内，阿贝多的元素战技命中敌人时，将会在敌人附近炼成<color=#FFD780FF>瑰银</color>，持续10秒；场上不存在阿贝多自己创造的阳华时，如果阿贝多没有倒下，一枚瑰银将会获得与阳华相同的、生成刹那之花的效果。同时只能存在两个由阿贝多自己创造的瑰银。\\n·炼成阳华后的20秒内，基于阿贝多的防御力，提升队伍中附近的角色的普通攻击、重击、下落攻击、元素战技和元素爆发造成的伤害：每1000点防御力都将提升4%伤害，至多通过这种方式提升12%伤害。\\n·炼成瑰银后的20秒内，基于阿贝多的防御力，提升队伍中附近的魔导角色的普通攻击、重击、下落攻击、元素战技和元素爆发造成的伤害：每1000点防御力都将提升10%伤害，至多通过这种方式提升30%伤害。",
+            "icon": "UI_Talent_S_Albedo_07",
+            "name": "魔女的前夜礼·白芒之书"
+        }
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "岩晶在阿贝多的指示下涌动爆发，在阿贝多前方造成<color=#FFE699FF>岩元素范围伤害</color>。\\n场上存在阿贝多自己创造的阳华时，会在阳华的领域内生成7朵生灭之花，猛烈绽放并造成<color=#FFE699FF>岩元素范围伤害</color>。\\n\\n爆发伤害与生灭之花的伤害不会生成刹那之花。\\n\\n<i>在白垩色王子的命令之下，大地的造物之潮翻涌了起来。</i>",
+            "icon": "Skill_E_Albedo_01",
+            "multipliers": {
+                "元素能量": [
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40"
+                ],
+                "冷却时间": [
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒"
+                ],
+                "爆发伤害": [
+                    "367.2%",
+                    "394.74%",
+                    "422.28%",
+                    "459%",
+                    "486.54%",
+                    "514.08%",
+                    "550.8%",
+                    "587.52%",
+                    "624.24%",
+                    "660.96%",
+                    "697.68%",
+                    "734.4%",
+                    "780.3%",
+                    "826.2%",
+                    "872.1%"
+                ],
+                "生灭之花伤害": [
+                    "每朵72%",
+                    "每朵77.4%",
+                    "每朵82.8%",
+                    "每朵90%",
+                    "每朵95.4%",
+                    "每朵100.8%",
+                    "每朵108%",
+                    "每朵115.2%",
+                    "每朵122.4%",
+                    "每朵129.6%",
+                    "每朵136.8%",
+                    "每朵144%",
+                    "每朵153%",
+                    "每朵162%",
+                    "每朵171%"
+                ]
+            },
+            "name": "诞生式·大地之潮"
+        },
+        "elementalskill": {
+            "description": "炼成阳华，造成<color=#FFE699FF>岩元素范围伤害</color>。\\n\\n<color=#FFD780FF>阳华</color>\\n具有如下特性：\\n·以阳华为中心的领域中的敌人受到伤害时，阳华将会生成刹那之花，绽放造成<color=#FFE699FF>岩元素范围伤害</color>，伤害基于阿贝多的防御力。\\n·每2秒只能生成一次刹那之花。\\n·角色处在阳华上时，阳华将会凝聚岩元素的力量，形成将角色托起至一定高度的晶台。同时只能存在一个晶台。\\n·同时只能存在一个由阿贝多自己创造的阳华，视为<color=#FFE699FF>岩元素创造物</color>。\\n\\n<color=#FFD780FF>长按</color>\\n可以调整技能生效位置。\\n\\n<i>这种岩花有着奇异的特性，和炼金术的目的一致。诞生自大地，却一直希望上升至高天，化作太阳。</i>",
+            "icon": "Skill_S_Albedo_01",
+            "multipliers": {
+                "刹那之花伤害": [
+                    "133.6%防御力",
+                    "143.62%防御力",
+                    "153.64%防御力",
+                    "167%防御力",
+                    "177.02%防御力",
+                    "187.04%防御力",
+                    "200.4%防御力",
+                    "213.76%防御力",
+                    "227.12%防御力",
+                    "240.48%防御力",
+                    "253.84%防御力",
+                    "267.2%防御力",
+                    "283.9%防御力",
+                    "300.6%防御力",
+                    "317.3%防御力"
+                ],
+                "技能伤害": [
+                    "130.4%",
+                    "140.18%",
+                    "149.96%",
+                    "163%",
+                    "172.78%",
+                    "182.56%",
+                    "195.6%",
+                    "208.64%",
+                    "221.68%",
+                    "234.72%",
+                    "247.76%",
+                    "260.8%",
+                    "277.1%",
+                    "293.4%",
+                    "309.7%"
+                ],
+                "技能冷却": [
+                    "4秒",
+                    "4秒",
+                    "4秒",
+                    "4秒",
+                    "4秒",
+                    "4秒",
+                    "4秒",
+                    "4秒",
+                    "4秒",
+                    "4秒",
+                    "4秒",
+                    "4秒",
+                    "4秒",
+                    "4秒",
+                    "4秒"
+                ],
+                "持续时间": [
+                    "30秒",
+                    "30秒",
+                    "30秒",
+                    "30秒",
+                    "30秒",
+                    "30秒",
+                    "30秒",
+                    "30秒",
+                    "30秒",
+                    "30秒",
+                    "30秒",
+                    "30秒",
+                    "30秒",
+                    "30秒",
+                    "30秒"
+                ]
+            },
+            "name": "创生法·拟造阳华"
+        },
+        "leveling": {
+            "books": {
+                "104307": 9,
+                "104308": 63,
+                "104309": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113013": 18
+            },
+            "worldmonster": {
+                "112008": 18,
+                "112009": 66,
+                "112010": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>普通攻击</color>\\n进行至多五段的连续剑击。\\n\\n<color=#FFD780FF>重击</color>\\n消耗一定体力，瞬间向前方挥出两剑。\\n\\n<color=#FFD780FF>下落攻击</color>\\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+            "icon": "Skill_A_01",
+            "multipliers": {
+                "一段伤害": [
+                    "36.74%",
+                    "39.73%",
+                    "42.72%",
+                    "46.99%",
+                    "49.98%",
+                    "53.4%",
+                    "58.1%",
+                    "62.8%",
+                    "67.5%",
+                    "72.62%",
+                    "78.5%",
+                    "85.41%",
+                    "92.31%",
+                    "99.22%",
+                    "106.76%"
+                ],
+                "三段伤害": [
+                    "47.45%",
+                    "51.32%",
+                    "55.18%",
+                    "60.7%",
+                    "64.56%",
+                    "68.98%",
+                    "75.04%",
+                    "81.11%",
+                    "87.18%",
+                    "93.81%",
+                    "101.39%",
+                    "110.32%",
+                    "119.24%",
+                    "128.16%",
+                    "137.89%"
+                ],
+                "下坠期间伤害": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ],
+                "二段伤害": [
+                    "36.74%",
+                    "39.73%",
+                    "42.72%",
+                    "46.99%",
+                    "49.98%",
+                    "53.4%",
+                    "58.1%",
+                    "62.8%",
+                    "67.5%",
+                    "72.62%",
+                    "78.5%",
+                    "85.41%",
+                    "92.31%",
+                    "99.22%",
+                    "106.76%"
+                ],
+                "五段伤害": [
+                    "62.07%",
+                    "67.13%",
+                    "72.18%",
+                    "79.4%",
+                    "84.45%",
+                    "90.22%",
+                    "98.16%",
+                    "106.1%",
+                    "114.04%",
+                    "122.7%",
+                    "132.63%",
+                    "144.3%",
+                    "155.97%",
+                    "167.64%",
+                    "180.38%"
+                ],
+                "低空/高空坠地冲击伤害": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "四段伤害": [
+                    "49.75%",
+                    "53.8%",
+                    "57.85%",
+                    "63.63%",
+                    "67.68%",
+                    "72.31%",
+                    "78.68%",
+                    "85.04%",
+                    "91.4%",
+                    "98.34%",
+                    "106.3%",
+                    "115.65%",
+                    "125.01%",
+                    "134.36%",
+                    "144.57%"
+                ],
+                "重击伤害": [
+                    "47.3%+60.2%",
+                    "51.15%+65.1%",
+                    "55%+70%",
+                    "60.5%+77%",
+                    "64.35%+81.9%",
+                    "68.75%+87.5%",
+                    "74.8%+95.2%",
+                    "80.85%+102.9%",
+                    "86.9%+110.6%",
+                    "93.5%+119%",
+                    "101.06%+128.62%",
+                    "109.96%+139.94%",
+                    "118.85%+151.26%",
+                    "127.74%+162.58%",
+                    "137.44%+174.93%"
+                ],
+                "重击体力消耗": [
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点"
+                ]
+            },
+            "name": "西风剑术·白"
+        }
+    }
+}

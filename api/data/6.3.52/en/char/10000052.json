@@ -1,0 +1,1484 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104141": 1,
+            "104142": 9,
+            "104143": 9,
+            "104144": 6
+        },
+        "elitemonster": {
+            "113029": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101208": 168
+        },
+        "worldmonster": {
+            "112044": 18,
+            "112045": 30,
+            "112046": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "SkillObj_ElementalArt_EyeBoom",
+            "poise": "LV2/80"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "Elf",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "Elf",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Electric",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV2/150"
+        },
+        {
+            "element": "-",
+            "gauge": "4U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Grp: default",
+            "name": "ElementalBurst",
+            "poise": "-/400"
+        },
+        {
+            "element": "Electric",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "<color=#FFD780FF>Chakra Desiderata</color> will gather Resolve even faster. When <color=#FFACFFFF>Electro</color> characters use their Elemental Bursts, the Resolve gained is increased by 80%. When characters of other Elemental Types use their Elemental Bursts, the Resolve gained is increased by 20%.",
+            "icon": "UI_Talent_S_Shougun_01",
+            "name": "Ominous Inscription"
+        },
+        "const2": {
+            "description": "While using Musou no Hitotachi and in the Musou Isshin state applied by <color=#FFD780FF>Secret Art: Musou Shinsetsu</color>, the Raiden Shogun's attacks ignore 60% of opponents' DEF.",
+            "icon": "UI_Talent_S_Shougun_03",
+            "name": "Steelbreaker"
+        },
+        "const3": {
+            "description": "Increases the Level of <color=#FFD780FF>Secret Art: Musou Shinsetsu</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Shougun_02",
+            "name": "Shinkage Bygones"
+        },
+        "const4": {
+            "description": "When the <color=#FFD780FF>Musou Isshin</color> state applied by <color=#FFD780FF>Secret Art: Musou Shinsetsu</color> expires, all nearby party members (excluding the Raiden Shogun) gain 30% bonus ATK for 10s.",
+            "icon": "UI_Talent_S_Shougun_02",
+            "name": "Pledge of Propriety"
+        },
+        "const5": {
+            "description": "Increases the Level of <color=#FFD780FF>Transcendence: Baleful Omen</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Shougun_01",
+            "name": "Shogun's Descent"
+        },
+        "const6": {
+            "description": "While in the <color=#FFD780FF>Musou Isshin</color> state applied by <color=#FFD780FF>Secret Art: Musou Shinsetsu</color>, attacks by the Raiden Shogun that are considered part of her Elemental Burst will decrease all nearby party members' (not including the Raiden Shogun herself) Elemental Burst CD by 1s when they hit opponents.\\nThis effect can trigger once every 1s and can trigger a total of 5 times during Musou Isshin's duration.",
+            "icon": "UI_Talent_S_Shougun_04",
+            "name": "Wishbearer"
+        }
+    },
+    "energy": [
+        {
+            "cd": "Instant",
+            "chance": "50%",
+            "particles": "1",
+            "source": "UNIQUE_Elf_ElementalBall_Handler"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Shougun",
+        "forward": "UI_AvatarIcon_Shougun"
+    },
+    "info": {
+        "attributes": [
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 61,
+                "hp": 1005,
+                "level": 1
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 67,
+                "hp": 1088,
+                "level": 2
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 72,
+                "hp": 1172,
+                "level": 3
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 77,
+                "hp": 1256,
+                "level": 4
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 82,
+                "hp": 1339,
+                "level": 5
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 87,
+                "hp": 1424,
+                "level": 6
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 92,
+                "hp": 1507,
+                "level": 7
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 97,
+                "hp": 1592,
+                "level": 8
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 102,
+                "hp": 1676,
+                "level": 9
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 46,
+                "def": 108,
+                "hp": 1759,
+                "level": 10
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 48,
+                "def": 113,
+                "hp": 1844,
+                "level": 11
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 50,
+                "def": 118,
+                "hp": 1928,
+                "level": 12
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 53,
+                "def": 123,
+                "hp": 2013,
+                "level": 13
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 55,
+                "def": 128,
+                "hp": 2098,
+                "level": 14
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 57,
+                "def": 133,
+                "hp": 2182,
+                "level": 15
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 59,
+                "def": 139,
+                "hp": 2267,
+                "level": 16
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 61,
+                "def": 144,
+                "hp": 2352,
+                "level": 17
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 64,
+                "def": 149,
+                "hp": 2437,
+                "level": 18
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 66,
+                "def": 154,
+                "hp": 2522,
+                "level": 19
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 68,
+                "def": 159,
+                "hp": 2606,
+                "level": 20
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 93,
+                "def": 217,
+                "hp": 3553,
+                "level": 21
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 95,
+                "def": 223,
+                "hp": 3639,
+                "level": 22
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 97,
+                "def": 228,
+                "hp": 3724,
+                "level": 23
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 100,
+                "def": 233,
+                "hp": 3810,
+                "level": 24
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 102,
+                "def": 238,
+                "hp": 3895,
+                "level": 25
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 104,
+                "def": 243,
+                "hp": 3981,
+                "level": 26
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 106,
+                "def": 249,
+                "hp": 4067,
+                "level": 27
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 108,
+                "def": 254,
+                "hp": 4152,
+                "level": 28
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 111,
+                "def": 259,
+                "hp": 4239,
+                "level": 29
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 113,
+                "def": 264,
+                "hp": 4324,
+                "level": 30
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 115,
+                "def": 270,
+                "hp": 4410,
+                "level": 31
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 117,
+                "def": 275,
+                "hp": 4497,
+                "level": 32
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 120,
+                "def": 280,
+                "hp": 4583,
+                "level": 33
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 122,
+                "def": 286,
+                "hp": 4669,
+                "level": 34
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 124,
+                "def": 291,
+                "hp": 4755,
+                "level": 35
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 127,
+                "def": 296,
+                "hp": 4843,
+                "level": 36
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 129,
+                "def": 301,
+                "hp": 4929,
+                "level": 37
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 131,
+                "def": 307,
+                "hp": 5015,
+                "level": 38
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 133,
+                "def": 312,
+                "hp": 5102,
+                "level": 39
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 136,
+                "def": 317,
+                "hp": 5189,
+                "level": 40
+            },
+            {
+                "ER": "8",
+                "ascension": 2,
+                "atk": 154,
+                "def": 360,
+                "hp": 5888,
+                "level": 41
+            },
+            {
+                "ER": "8",
+                "ascension": 2,
+                "atk": 156,
+                "def": 365,
+                "hp": 5975,
+                "level": 42
+            },
+            {
+                "ER": "8",
+                "ascension": 2,
+                "atk": 158,
+                "def": 371,
+                "hp": 6063,
+                "level": 43
+            },
+            {
+                "ER": "8",
+                "ascension": 2,
+                "atk": 161,
+                "def": 376,
+                "hp": 6149,
+                "level": 44
+            },
+            {
+                "ER": "8",
+                "ascension": 2,
+                "atk": 163,
+                "def": 381,
+                "hp": 6236,
+                "level": 45
+            },
+            {
+                "ER": "8",
+                "ascension": 2,
+                "atk": 165,
+                "def": 387,
+                "hp": 6324,
+                "level": 46
+            },
+            {
+                "ER": "8",
+                "ascension": 2,
+                "atk": 168,
+                "def": 392,
+                "hp": 6411,
+                "level": 47
+            },
+            {
+                "ER": "8",
+                "ascension": 2,
+                "atk": 170,
+                "def": 397,
+                "hp": 6499,
+                "level": 48
+            },
+            {
+                "ER": "8",
+                "ascension": 2,
+                "atk": 172,
+                "def": 403,
+                "hp": 6587,
+                "level": 49
+            },
+            {
+                "ER": "8",
+                "ascension": 2,
+                "atk": 174,
+                "def": 408,
+                "hp": 6675,
+                "level": 50
+            },
+            {
+                "ER": "16",
+                "ascension": 3,
+                "atk": 198,
+                "def": 463,
+                "hp": 7578,
+                "level": 51
+            },
+            {
+                "ER": "16",
+                "ascension": 3,
+                "atk": 200,
+                "def": 469,
+                "hp": 7667,
+                "level": 52
+            },
+            {
+                "ER": "16",
+                "ascension": 3,
+                "atk": 203,
+                "def": 474,
+                "hp": 7754,
+                "level": 53
+            },
+            {
+                "ER": "16",
+                "ascension": 3,
+                "atk": 205,
+                "def": 480,
+                "hp": 7842,
+                "level": 54
+            },
+            {
+                "ER": "16",
+                "ascension": 3,
+                "atk": 207,
+                "def": 485,
+                "hp": 7931,
+                "level": 55
+            },
+            {
+                "ER": "16",
+                "ascension": 3,
+                "atk": 210,
+                "def": 490,
+                "hp": 8019,
+                "level": 56
+            },
+            {
+                "ER": "16",
+                "ascension": 3,
+                "atk": 212,
+                "def": 496,
+                "hp": 8108,
+                "level": 57
+            },
+            {
+                "ER": "16",
+                "ascension": 3,
+                "atk": 214,
+                "def": 501,
+                "hp": 8196,
+                "level": 58
+            },
+            {
+                "ER": "16",
+                "ascension": 3,
+                "atk": 216,
+                "def": 507,
+                "hp": 8284,
+                "level": 59
+            },
+            {
+                "ER": "16",
+                "ascension": 3,
+                "atk": 219,
+                "def": 512,
+                "hp": 8373,
+                "level": 60
+            },
+            {
+                "ER": "16",
+                "ascension": 4,
+                "atk": 237,
+                "def": 555,
+                "hp": 9073,
+                "level": 61
+            },
+            {
+                "ER": "16",
+                "ascension": 4,
+                "atk": 239,
+                "def": 560,
+                "hp": 9162,
+                "level": 62
+            },
+            {
+                "ER": "16",
+                "ascension": 4,
+                "atk": 242,
+                "def": 566,
+                "hp": 9251,
+                "level": 63
+            },
+            {
+                "ER": "16",
+                "ascension": 4,
+                "atk": 244,
+                "def": 571,
+                "hp": 9340,
+                "level": 64
+            },
+            {
+                "ER": "16",
+                "ascension": 4,
+                "atk": 246,
+                "def": 577,
+                "hp": 9429,
+                "level": 65
+            },
+            {
+                "ER": "16",
+                "ascension": 4,
+                "atk": 249,
+                "def": 582,
+                "hp": 9519,
+                "level": 66
+            },
+            {
+                "ER": "16",
+                "ascension": 4,
+                "atk": 251,
+                "def": 587,
+                "hp": 9607,
+                "level": 67
+            },
+            {
+                "ER": "16",
+                "ascension": 4,
+                "atk": 253,
+                "def": 593,
+                "hp": 9696,
+                "level": 68
+            },
+            {
+                "ER": "16",
+                "ascension": 4,
+                "atk": 256,
+                "def": 598,
+                "hp": 9786,
+                "level": 69
+            },
+            {
+                "ER": "16",
+                "ascension": 4,
+                "atk": 258,
+                "def": 604,
+                "hp": 9875,
+                "level": 70
+            },
+            {
+                "ER": "24",
+                "ascension": 5,
+                "atk": 276,
+                "def": 647,
+                "hp": 10577,
+                "level": 71
+            },
+            {
+                "ER": "24",
+                "ascension": 5,
+                "atk": 279,
+                "def": 652,
+                "hp": 10667,
+                "level": 72
+            },
+            {
+                "ER": "24",
+                "ascension": 5,
+                "atk": 281,
+                "def": 658,
+                "hp": 10757,
+                "level": 73
+            },
+            {
+                "ER": "24",
+                "ascension": 5,
+                "atk": 283,
+                "def": 663,
+                "hp": 10846,
+                "level": 74
+            },
+            {
+                "ER": "24",
+                "ascension": 5,
+                "atk": 286,
+                "def": 669,
+                "hp": 10937,
+                "level": 75
+            },
+            {
+                "ER": "24",
+                "ascension": 5,
+                "atk": 288,
+                "def": 674,
+                "hp": 11026,
+                "level": 76
+            },
+            {
+                "ER": "24",
+                "ascension": 5,
+                "atk": 290,
+                "def": 680,
+                "hp": 11116,
+                "level": 77
+            },
+            {
+                "ER": "24",
+                "ascension": 5,
+                "atk": 293,
+                "def": 685,
+                "hp": 11207,
+                "level": 78
+            },
+            {
+                "ER": "24",
+                "ascension": 5,
+                "atk": 295,
+                "def": 691,
+                "hp": 11297,
+                "level": 79
+            },
+            {
+                "ER": "24",
+                "ascension": 5,
+                "atk": 298,
+                "def": 696,
+                "hp": 11388,
+                "level": 80
+            },
+            {
+                "ER": "32",
+                "ascension": 6,
+                "atk": 316,
+                "def": 739,
+                "hp": 12090,
+                "level": 81
+            },
+            {
+                "ER": "32",
+                "ascension": 6,
+                "atk": 318,
+                "def": 745,
+                "hp": 12181,
+                "level": 82
+            },
+            {
+                "ER": "32",
+                "ascension": 6,
+                "atk": 321,
+                "def": 750,
+                "hp": 12271,
+                "level": 83
+            },
+            {
+                "ER": "32",
+                "ascension": 6,
+                "atk": 323,
+                "def": 756,
+                "hp": 12362,
+                "level": 84
+            },
+            {
+                "ER": "32",
+                "ascension": 6,
+                "atk": 325,
+                "def": 761,
+                "hp": 12452,
+                "level": 85
+            },
+            {
+                "ER": "32",
+                "ascension": 6,
+                "atk": 328,
+                "def": 767,
+                "hp": 12543,
+                "level": 86
+            },
+            {
+                "ER": "32",
+                "ascension": 6,
+                "atk": 330,
+                "def": 773,
+                "hp": 12634,
+                "level": 87
+            },
+            {
+                "ER": "32",
+                "ascension": 6,
+                "atk": 332,
+                "def": 778,
+                "hp": 12725,
+                "level": 88
+            },
+            {
+                "ER": "32",
+                "ascension": 6,
+                "atk": 335,
+                "def": 784,
+                "hp": 12817,
+                "level": 89
+            },
+            {
+                "ER": "32",
+                "ascension": 6,
+                "atk": 337,
+                "def": 789,
+                "hp": 12907,
+                "level": 90
+            },
+            {
+                "ER": "32",
+                "ascension": 6,
+                "atk": 375,
+                "def": 817,
+                "hp": 13365,
+                "level": 95
+            },
+            {
+                "ER": "32",
+                "ascension": 6,
+                "atk": 413,
+                "def": 845,
+                "hp": 13825,
+                "level": 100
+            }
+        ],
+        "birthday": "June 26th",
+        "constellation": "Imperatrix Umbrosa",
+        "description": "Her Excellency, the Almighty Narukami Ogosho, who promised the people of Inazuma an unchanging Eternity.",
+        "element": "Electro",
+        "name": "Raiden Shogun",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_POLE"
+    },
+    "passives": {
+        "p1": {
+            "description": "When nearby party members gain Elemental Orbs or Particles, <color=#FFD780FF>Chakra Desiderata</color> gains 2 Resolve stacks.\\nThis effect can occur once every 3s.",
+            "icon": "UI_Talent_S_Shougun_05",
+            "name": "Wishes Unnumbered"
+        },
+        "p2": {
+            "description": "Each 1% above 100% Energy Recharge that the Raiden Shogun possesses grants her:\\n·0.6% greater Energy restoration from <color=#FFD780FF>Musou Isshin</color>\\n·0.4% <color=#FFACFFFF>Electro DMG Bonus</color>.",
+            "icon": "UI_Talent_S_Shougun_06",
+            "name": "Enlightened One"
+        },
+        "p3": {
+            "description": "Mora expended when ascending Swords and Polearms is decreased by 50%.",
+            "icon": "UI_Talent_S_Shougun_07",
+            "name": "All-Preserver"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Gathering truths unnumbered and wishes uncounted, the Raiden Shogun unleashes the Musou no Hitotachi and deals <color=#FFACFFFF>AoE Electro DMG</color>, using Musou Isshin in combat for a certain duration afterward. The DMG dealt by Musou no Hitotachi and Musou Isshin's attacks will be increased based on the number of Chakra Desiderata's Resolve stacks consumed when this skill is used.\\n\\n<color=#FFD780FF>Musou Isshin</color>\\nWhile in this state, the Raiden Shogun will wield her tachi in battle, while her Normal, Charged, and Plunging Attacks will be infused with <color=#FFACFFFF>Electro DMG</color>, which cannot be overridden. When such attacks hit opponents, she will regenerate Energy for all nearby party members. Energy can be restored this way once every 1s, and this effect can be triggered 5 times throughout this skill's duration.\\nWhile in this state, the Raiden Shogun's resistance to interruption is increased, and she is immune to <color=#FFACFFFF>Electro-Charged</color> reaction DMG.\\nWhile Musou Isshin is active, the Raiden Shogun's Normal, Charged, and Plunging Attack DMG will be considered Elemental Burst DMG.\\n\\nThe effects of Musou Isshin will be cleared when the Raiden Shogun leaves the field.\\n\\n<color=#FFD780FF>Chakra Desiderata</color>\\nWhen nearby party members (excluding the Raiden Shogun herself) use their Elemental Bursts, the Raiden Shogun will build up Resolve stacks based on the Energy Cost of these Elemental Bursts.\\nThe maximum number of Resolve stacks is 60.\\n\\nThe Resolve gained by Chakra Desiderata will be cleared 300s after the Raiden Shogun leaves the field.\\n\\n<i>This is the Raiden Shogun's new secret technique. Abandoning the void-like \"Musou,\" she now shoulders a new \"Musou\" — the dreams and ambitions of all. Just as \"shinsetsu,\" \"the truth,\" also means \"the new,\" so too has Inazuma entered a new chapter.</i>",
+            "icon": "Skill_E_Shougun_01",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "44.74%",
+                    "47.79%",
+                    "50.84%",
+                    "54.9%",
+                    "57.96%",
+                    "61.51%",
+                    "66.09%",
+                    "70.66%",
+                    "75.24%",
+                    "79.82%",
+                    "84.39%",
+                    "88.97%",
+                    "93.54%",
+                    "98.12%",
+                    "102.69%"
+                ],
+                "2-Hit DMG": [
+                    "43.96%",
+                    "46.95%",
+                    "49.95%",
+                    "53.95%",
+                    "56.94%",
+                    "60.44%",
+                    "64.93%",
+                    "69.43%",
+                    "73.93%",
+                    "78.42%",
+                    "82.92%",
+                    "87.41%",
+                    "91.91%",
+                    "96.4%",
+                    "100.9%"
+                ],
+                "3-Hit DMG": [
+                    "53.82%",
+                    "57.49%",
+                    "61.16%",
+                    "66.05%",
+                    "69.72%",
+                    "74%",
+                    "79.51%",
+                    "85.01%",
+                    "90.52%",
+                    "96.02%",
+                    "101.53%",
+                    "107.03%",
+                    "112.54%",
+                    "118.04%",
+                    "123.55%"
+                ],
+                "4-Hit DMG": [
+                    "30.89%+30.98%",
+                    "32.99%+33.09%",
+                    "35.1%+35.2%",
+                    "37.91%+38.02%",
+                    "40.01%+40.13%",
+                    "42.47%+42.59%",
+                    "45.63%+45.76%",
+                    "48.79%+48.93%",
+                    "51.95%+52.1%",
+                    "55.11%+55.26%",
+                    "58.27%+58.43%",
+                    "61.43%+61.6%",
+                    "64.58%+64.77%",
+                    "67.74%+67.94%",
+                    "70.9%+71.1%"
+                ],
+                "5-Hit DMG": [
+                    "73.94%",
+                    "78.99%",
+                    "84.03%",
+                    "90.75%",
+                    "95.79%",
+                    "101.67%",
+                    "109.24%",
+                    "116.8%",
+                    "124.36%",
+                    "131.92%",
+                    "139.48%",
+                    "147.05%",
+                    "154.61%",
+                    "162.17%",
+                    "169.73%"
+                ],
+                "CD": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ],
+                "Charged Attack DMG": [
+                    "61.6%+74.36%",
+                    "65.8%+79.43%",
+                    "70%+84.5%",
+                    "75.6%+91.26%",
+                    "79.8%+96.33%",
+                    "84.7%+102.24%",
+                    "91%+109.85%",
+                    "97.3%+117.46%",
+                    "103.6%+125.06%",
+                    "109.9%+132.67%",
+                    "116.2%+140.27%",
+                    "122.5%+147.87%",
+                    "128.8%+155.48%",
+                    "135.1%+163.08%",
+                    "141.4%+170.69%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20"
+                ],
+                "Energy Cost": [
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90"
+                ],
+                "Low/High Plunge DMG": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Musou Isshin Duration": [
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s"
+                ],
+                "Musou Isshin Energy Restoration": [
+                    "1.6",
+                    "1.7",
+                    "1.8",
+                    "1.9",
+                    "2",
+                    "2.1",
+                    "2.2",
+                    "2.3",
+                    "2.4",
+                    "2.5",
+                    "2.5",
+                    "2.5",
+                    "2.5",
+                    "2.5",
+                    "2.5"
+                ],
+                "Musou no Hitotachi Base DMG": [
+                    "400.8%",
+                    "430.86%",
+                    "460.92%",
+                    "501%",
+                    "531.06%",
+                    "561.12%",
+                    "601.2%",
+                    "641.28%",
+                    "681.36%",
+                    "721.44%",
+                    "761.52%",
+                    "801.6%",
+                    "851.7%",
+                    "901.8%",
+                    "951.9%"
+                ],
+                "Plunge DMG": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ],
+                "Resolve Bonus": [
+                    "3.89% Initial/0.73% ATK DMG Per Stack",
+                    "4.18% Initial/0.78% ATK DMG Per Stack",
+                    "4.47% Initial/0.84% ATK DMG Per Stack",
+                    "4.86% Initial/0.91% ATK DMG Per Stack",
+                    "5.15% Initial/0.96% ATK DMG Per Stack",
+                    "5.44% Initial/1.02% ATK DMG Per Stack",
+                    "5.83% Initial/1.09% ATK DMG Per Stack",
+                    "6.22% Initial/1.16% ATK DMG Per Stack",
+                    "6.61% Initial/1.23% ATK DMG Per Stack",
+                    "7% Initial/1.31% ATK DMG Per Stack",
+                    "7.39% Initial/1.38% ATK DMG Per Stack",
+                    "7.78% Initial/1.45% ATK DMG Per Stack",
+                    "8.26% Initial/1.54% ATK DMG Per Stack",
+                    "8.75% Initial/1.63% ATK DMG Per Stack",
+                    "9.23% Initial/1.72% ATK DMG Per Stack"
+                ],
+                "Resolve Stacks Gained": [
+                    "0.15 Per Energy Consumed",
+                    "0.16 Per Energy Consumed",
+                    "0.16 Per Energy Consumed",
+                    "0.17 Per Energy Consumed",
+                    "0.17 Per Energy Consumed",
+                    "0.18 Per Energy Consumed",
+                    "0.18 Per Energy Consumed",
+                    "0.19 Per Energy Consumed",
+                    "0.19 Per Energy Consumed",
+                    "0.2 Per Energy Consumed",
+                    "0.2 Per Energy Consumed",
+                    "0.2 Per Energy Consumed",
+                    "0.2 Per Energy Consumed",
+                    "0.2 Per Energy Consumed",
+                    "0.2 Per Energy Consumed"
+                ]
+            },
+            "name": "Secret Art: Musou Shinsetsu"
+        },
+        "elementalskill": {
+            "description": "The Raiden Shogun unveils a shard of her Euthymia, dealing <color=#FFACFFFF>Electro DMG</color> to nearby opponents, and granting nearby party members the Eye of Stormy Judgment.\\n\\n<color=#FFD780FF>Eye of Stormy Judgment</color>\\n·When characters with this buff attack and deal DMG to opponents, the Eye will unleash a coordinated attack, dealing <color=#FFACFFFF>AoE Electro DMG</color> at the opponent's position.\\n·Characters who gain the Eye of Stormy Judgment will have their Elemental Burst DMG increased based on the Energy Cost of the Elemental Burst during the Eye's duration.\\n\\nThe Eye can initiate one coordinated attack every 0.9s per party.\\nCoordinated attacks generated by characters not controlled by you deal 20% of the normal DMG.\\n\\n<i>Beings of great divinity might affect all that they survey, and the Electro Archon can manipulate the very inauspicious stars themselves to defend her retainers and bring a thundering sentence down on their foes.</i>",
+            "icon": "Skill_S_Shougun_01",
+            "multipliers": {
+                "CD": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ],
+                "Coordinated ATK DMG": [
+                    "42%",
+                    "45.15%",
+                    "48.3%",
+                    "52.5%",
+                    "55.65%",
+                    "58.8%",
+                    "63%",
+                    "67.2%",
+                    "71.4%",
+                    "75.6%",
+                    "79.8%",
+                    "84%",
+                    "89.25%",
+                    "94.5%",
+                    "99.75%"
+                ],
+                "Duration": [
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s"
+                ],
+                "Elemental Burst DMG Bonus": [
+                    "0.22% Per Energy",
+                    "0.23% Per Energy",
+                    "0.24% Per Energy",
+                    "0.25% Per Energy",
+                    "0.26% Per Energy",
+                    "0.27% Per Energy",
+                    "0.28% Per Energy",
+                    "0.29% Per Energy",
+                    "0.3% Per Energy",
+                    "0.3% Per Energy",
+                    "0.3% Per Energy",
+                    "0.3% Per Energy",
+                    "0.3% Per Energy",
+                    "0.3% Per Energy",
+                    "0.3% Per Energy"
+                ],
+                "Skill DMG": [
+                    "117.2%",
+                    "125.99%",
+                    "134.78%",
+                    "146.5%",
+                    "155.29%",
+                    "164.08%",
+                    "175.8%",
+                    "187.52%",
+                    "199.24%",
+                    "210.96%",
+                    "222.68%",
+                    "234.4%",
+                    "249.05%",
+                    "263.7%",
+                    "278.35%"
+                ]
+            },
+            "name": "Transcendence: Baleful Omen"
+        },
+        "leveling": {
+            "books": {
+                "104326": 9,
+                "104327": 63,
+                "104328": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113025": 18
+            },
+            "worldmonster": {
+                "112044": 18,
+                "112045": 66,
+                "112046": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 5 consecutive spear strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to perform an upward slash.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+            "icon": "Skill_A_03",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "39.65%",
+                    "42.87%",
+                    "46.1%",
+                    "50.71%",
+                    "53.94%",
+                    "57.63%",
+                    "62.7%",
+                    "67.77%",
+                    "72.84%",
+                    "78.37%",
+                    "84.71%",
+                    "92.16%",
+                    "99.62%",
+                    "107.07%",
+                    "115.2%"
+                ],
+                "2-Hit DMG": [
+                    "39.73%",
+                    "42.97%",
+                    "46.2%",
+                    "50.82%",
+                    "54.05%",
+                    "57.75%",
+                    "62.83%",
+                    "67.91%",
+                    "73%",
+                    "78.54%",
+                    "84.89%",
+                    "92.36%",
+                    "99.83%",
+                    "107.3%",
+                    "115.45%"
+                ],
+                "3-Hit DMG": [
+                    "49.88%",
+                    "53.94%",
+                    "58%",
+                    "63.8%",
+                    "67.86%",
+                    "72.5%",
+                    "78.88%",
+                    "85.26%",
+                    "91.64%",
+                    "98.6%",
+                    "106.58%",
+                    "115.95%",
+                    "125.33%",
+                    "134.71%",
+                    "144.94%"
+                ],
+                "4-Hit DMG": [
+                    "28.98%+28.98%",
+                    "31.34%+31.34%",
+                    "33.7%+33.7%",
+                    "37.07%+37.07%",
+                    "39.43%+39.43%",
+                    "42.12%+42.12%",
+                    "45.83%+45.83%",
+                    "49.54%+49.54%",
+                    "53.25%+53.25%",
+                    "57.29%+57.29%",
+                    "61.92%+61.92%",
+                    "67.37%+67.37%",
+                    "72.82%+72.82%",
+                    "78.27%+78.27%",
+                    "84.22%+84.22%"
+                ],
+                "5-Hit DMG": [
+                    "65.45%",
+                    "70.77%",
+                    "76.1%",
+                    "83.71%",
+                    "89.04%",
+                    "95.13%",
+                    "103.5%",
+                    "111.87%",
+                    "120.24%",
+                    "129.37%",
+                    "139.83%",
+                    "152.14%",
+                    "164.44%",
+                    "176.75%",
+                    "190.17%"
+                ],
+                "Charged Attack DMG": [
+                    "99.59%",
+                    "107.69%",
+                    "115.8%",
+                    "127.38%",
+                    "135.49%",
+                    "144.75%",
+                    "157.49%",
+                    "170.23%",
+                    "182.96%",
+                    "196.86%",
+                    "212.78%",
+                    "231.51%",
+                    "250.23%",
+                    "268.96%",
+                    "289.38%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25"
+                ],
+                "Low/High Plunge DMG": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Plunge DMG": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ]
+            },
+            "name": "Origin"
+        }
+    }
+}

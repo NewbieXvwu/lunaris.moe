@@ -1,0 +1,20 @@
+[project]
+name = "lunaris-mirror"
+version = "1.0.0"
+description = "Offline mirror toolkit for lunaris.moe"
+requires-python = ">=3.9"
+dependencies = [
+    "httpx>=0.27",
+]
+
+[project.optional-dependencies]
+browser = [
+    "playwright>=1.40",
+]
+asgi = [
+    "starlette>=0.27",
+    "hypercorn>=0.17",
+]
+
+[project.scripts]
+lunaris = "lunaris:main"

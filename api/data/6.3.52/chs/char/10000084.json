@@ -1,0 +1,1398 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104111": 1,
+            "104112": 9,
+            "104113": 9,
+            "104114": 6
+        },
+        "elitemonster": {
+            "113051": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101236": 168
+        },
+        "worldmonster": {
+            "112032": 18,
+            "112033": 30,
+            "112034": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "4U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "ShootArrow_Enchanted_WithoutFire",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "Bullet_ShootArrow_WithFire",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "Bullet_ShootArrow_WithFire_BeforeFission",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "Bullet_ShootArrow_WithFire_BeforeFission",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Fire",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "SkillObj_ShootArrow_OusiaAgent",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "6 hits / 1s",
+            "icd_source": "Grp: Avatar_Liney_ExtraAttack (Tag Miss)",
+            "name": "Bullet_FissionAgent_EndBoom",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "6 hits / 1s",
+            "icd_source": "Grp: Avatar_Liney_ExtraAttack (Tag Miss)",
+            "name": "Bullet_FissionAgent_EndBoom_Constellation_6",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "6 hits / 1s",
+            "icd_source": "Grp: Avatar_Liney_ExtraAttack (Tag Miss)",
+            "name": "SkillObj_FissionAgent_EndBoom_Enhanced",
+            "poise": "LV2/90"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt",
+            "poise": "LV4/60"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV2/40"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV7/120"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "<color=#FFD780FF>怪笑猫猫帽</color>至多可以同时存在2顶。\\n此外，隐具魔术箭将在命中时召唤2顶怪笑猫猫帽，并额外积累1层「隐具余数」，该效果每15秒至多触发一次。",
+            "icon": "UI_Talent_S_Liney_01",
+            "name": "空取奇思的手艺"
+        },
+        "const2": {
+            "description": "林尼在场上时，每2秒将获得一层「集意专注」效果，使林尼的暴击伤害提升20%。此效果至多叠加3层，将在林尼退场时解除。",
+            "icon": "UI_Talent_S_Liney_03",
+            "name": "巧言贴耳的诱引"
+        },
+        "const3": {
+            "description": "<color=#FFD780FF>普通攻击·迫牌易位式</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Liney_01",
+            "name": "玄迷灵敏的指法"
+        },
+        "const4": {
+            "description": "林尼的元素类型为<color=#FF9999FF>火元素</color>的重击攻击命中敌人后，该敌人的<color=#FF9999FF>火元素抗性</color>降低20%，持续6秒。",
+            "icon": "UI_Talent_S_Liney_02",
+            "name": "熟稔习练的筹谋"
+        },
+        "const5": {
+            "description": "<color=#FFD780FF>大魔术·灵迹巡游</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Liney_02",
+            "name": "穿越隐秘的通术"
+        },
+        "const6": {
+            "description": "林尼发射<color=#FFD780FF>隐具魔术箭</color>时，将发射一枚礼花术弹·重奏，造成礼花术弹80%的伤害。该伤害视为重击伤害。",
+            "icon": "UI_Talent_S_Liney_04",
+            "name": "违心的笑"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.3s",
+            "chance": "100%",
+            "particles": "5",
+            "source": "DropBall_Base"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Liney",
+        "forward": "UI_AvatarIcon_Liney"
+    },
+    "info": {
+        "attributes": [
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 42,
+                "hp": 858,
+                "level": 1
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 45,
+                "hp": 929,
+                "level": 2
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 49,
+                "hp": 1000,
+                "level": 3
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 52,
+                "hp": 1072,
+                "level": 4
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 56,
+                "hp": 1144,
+                "level": 5
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 59,
+                "hp": 1216,
+                "level": 6
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 63,
+                "hp": 1287,
+                "level": 7
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 66,
+                "hp": 1359,
+                "level": 8
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 70,
+                "hp": 1431,
+                "level": 9
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 43,
+                "def": 73,
+                "hp": 1502,
+                "level": 10
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 45,
+                "def": 77,
+                "hp": 1574,
+                "level": 11
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 48,
+                "def": 80,
+                "hp": 1646,
+                "level": 12
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 50,
+                "def": 84,
+                "hp": 1719,
+                "level": 13
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 52,
+                "def": 87,
+                "hp": 1791,
+                "level": 14
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 54,
+                "def": 91,
+                "hp": 1864,
+                "level": 15
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 56,
+                "def": 94,
+                "hp": 1936,
+                "level": 16
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 58,
+                "def": 98,
+                "hp": 2009,
+                "level": 17
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 60,
+                "def": 102,
+                "hp": 2081,
+                "level": 18
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 62,
+                "def": 105,
+                "hp": 2154,
+                "level": 19
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 64,
+                "def": 109,
+                "hp": 2226,
+                "level": 20
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 88,
+                "def": 148,
+                "hp": 3034,
+                "level": 21
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 90,
+                "def": 152,
+                "hp": 3107,
+                "level": 22
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 92,
+                "def": 155,
+                "hp": 3180,
+                "level": 23
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 94,
+                "def": 159,
+                "hp": 3253,
+                "level": 24
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 96,
+                "def": 162,
+                "hp": 3326,
+                "level": 25
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 98,
+                "def": 166,
+                "hp": 3400,
+                "level": 26
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 100,
+                "def": 170,
+                "hp": 3473,
+                "level": 27
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 102,
+                "def": 173,
+                "hp": 3546,
+                "level": 28
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 104,
+                "def": 177,
+                "hp": 3619,
+                "level": 29
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 107,
+                "def": 180,
+                "hp": 3692,
+                "level": 30
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 109,
+                "def": 184,
+                "hp": 3766,
+                "level": 31
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 111,
+                "def": 187,
+                "hp": 3840,
+                "level": 32
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 113,
+                "def": 191,
+                "hp": 3914,
+                "level": 33
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 115,
+                "def": 195,
+                "hp": 3987,
+                "level": 34
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 117,
+                "def": 198,
+                "hp": 4060,
+                "level": 35
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 119,
+                "def": 202,
+                "hp": 4135,
+                "level": 36
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 121,
+                "def": 205,
+                "hp": 4209,
+                "level": 37
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 124,
+                "def": 209,
+                "hp": 4283,
+                "level": 38
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 126,
+                "def": 213,
+                "hp": 4356,
+                "level": 39
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 128,
+                "def": 216,
+                "hp": 4431,
+                "level": 40
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 145,
+                "def": 245,
+                "hp": 5027,
+                "level": 41
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 147,
+                "def": 249,
+                "hp": 5102,
+                "level": 42
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 149,
+                "def": 253,
+                "hp": 5177,
+                "level": 43
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 152,
+                "def": 256,
+                "hp": 5251,
+                "level": 44
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 154,
+                "def": 260,
+                "hp": 5325,
+                "level": 45
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 156,
+                "def": 264,
+                "hp": 5400,
+                "level": 46
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 158,
+                "def": 267,
+                "hp": 5474,
+                "level": 47
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 160,
+                "def": 271,
+                "hp": 5549,
+                "level": 48
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 162,
+                "def": 275,
+                "hp": 5625,
+                "level": 49
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 164,
+                "def": 278,
+                "hp": 5699,
+                "level": 50
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 187,
+                "def": 316,
+                "hp": 6471,
+                "level": 51
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 189,
+                "def": 320,
+                "hp": 6546,
+                "level": 52
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 191,
+                "def": 323,
+                "hp": 6621,
+                "level": 53
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 193,
+                "def": 327,
+                "hp": 6697,
+                "level": 54
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 195,
+                "def": 331,
+                "hp": 6772,
+                "level": 55
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 198,
+                "def": 334,
+                "hp": 6848,
+                "level": 56
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 200,
+                "def": 338,
+                "hp": 6923,
+                "level": 57
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 202,
+                "def": 342,
+                "hp": 6999,
+                "level": 58
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 204,
+                "def": 345,
+                "hp": 7074,
+                "level": 59
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 206,
+                "def": 349,
+                "hp": 7150,
+                "level": 60
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 224,
+                "def": 378,
+                "hp": 7748,
+                "level": 61
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 226,
+                "def": 382,
+                "hp": 7823,
+                "level": 62
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 228,
+                "def": 386,
+                "hp": 7900,
+                "level": 63
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 230,
+                "def": 389,
+                "hp": 7975,
+                "level": 64
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 232,
+                "def": 393,
+                "hp": 8051,
+                "level": 65
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 235,
+                "def": 397,
+                "hp": 8128,
+                "level": 66
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 237,
+                "def": 400,
+                "hp": 8203,
+                "level": 67
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 239,
+                "def": 404,
+                "hp": 8280,
+                "level": 68
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 241,
+                "def": 408,
+                "hp": 8356,
+                "level": 69
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 243,
+                "def": 412,
+                "hp": 8432,
+                "level": 70
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 261,
+                "def": 441,
+                "hp": 9031,
+                "level": 71
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 263,
+                "def": 445,
+                "hp": 9109,
+                "level": 72
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 265,
+                "def": 448,
+                "hp": 9185,
+                "level": 73
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 267,
+                "def": 452,
+                "hp": 9261,
+                "level": 74
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 270,
+                "def": 456,
+                "hp": 9339,
+                "level": 75
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 272,
+                "def": 460,
+                "hp": 9415,
+                "level": 76
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 274,
+                "def": 463,
+                "hp": 9492,
+                "level": 77
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 276,
+                "def": 467,
+                "hp": 9569,
+                "level": 78
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 278,
+                "def": 471,
+                "hp": 9647,
+                "level": 79
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 281,
+                "def": 475,
+                "hp": 9724,
+                "level": 80
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 298,
+                "def": 504,
+                "hp": 10324,
+                "level": 81
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 300,
+                "def": 508,
+                "hp": 10401,
+                "level": 82
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 302,
+                "def": 511,
+                "hp": 10478,
+                "level": 83
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 305,
+                "def": 515,
+                "hp": 10555,
+                "level": 84
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 307,
+                "def": 519,
+                "hp": 10633,
+                "level": 85
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 309,
+                "def": 523,
+                "hp": 10711,
+                "level": 86
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 311,
+                "def": 527,
+                "hp": 10788,
+                "level": 87
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 314,
+                "def": 530,
+                "hp": 10866,
+                "level": 88
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 316,
+                "def": 534,
+                "hp": 10944,
+                "level": 89
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 318,
+                "def": 538,
+                "hp": 11021,
+                "level": 90
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 354,
+                "def": 557,
+                "hp": 11413,
+                "level": 95
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 390,
+                "def": 576,
+                "hp": 11805,
+                "level": 100
+            }
+        ],
+        "birthday": "February 2nd",
+        "constellation": "黑斑猫座",
+        "description": "伶牙俐齿，演技精湛的著名枫丹魔术师，以精妙的手法和言语牵动着观众的心。",
+        "element": "Pyro",
+        "name": "林尼",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_BOW"
+    },
+    "passives": {
+        "p1": {
+            "description": "如果林尼通过发射<color=#FFD780FF>隐具魔术箭</color>消耗了生命值，该隐具魔术箭召唤的怪笑猫猫帽命中敌人时会为林尼恢复3点元素能量，并且基于攻击力的80%提高造成的伤害。",
+            "icon": "UI_Talent_S_Liney_05",
+            "name": "惊险演出"
+        },
+        "p2": {
+            "description": "林尼对处于<color=#FF9999FF>火元素</color>影响下的敌人造成的伤害，将以以下方式提升：\\n·基础提升60%；\\n·队伍中林尼以外每个元素类型为<color=#FF9999FF>火元素</color>的角色，提升20%。\\n通过上述方式，至多使林尼对处于<color=#FF9999FF>火元素</color>影响下的敌人造成的伤害提升100%。",
+            "icon": "UI_Talent_S_Liney_06",
+            "name": "完场喝彩"
+        },
+        "p3": {
+            "description": "在小地图上显示周围的<color=#FFD780FF>枫丹区域特产</color>的位置。",
+            "icon": "UI_Talent_S_Liney_07",
+            "name": "琐碎观察术"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "林尼施展魔术，化形为能够快速移动的「怪笑帽帽猫」。（并不是「怪笑猫猫帽」。这是两个不同的演出道具！）\\n怪笑帽帽猫接近敌人时，会对身边的敌人降下焰火，对每个敌人造成至多一次<color=#FF9999FF>火元素伤害</color>。持续时间结束时林尼将解除怪笑帽帽猫，引爆华丽的礼花，造成<color=#FF9999FF>火元素范围伤害</color>，召唤一顶怪笑猫猫帽，并获得一层「隐具余数」。\\n\\n可以主动解除怪笑帽帽猫。\\n\\n<i>「那就让你们稍微见识一下吧，要看仔细咯，这是仅属于我们的，独一无二的，奇迹时刻！」</i>",
+            "icon": "Skill_E_Liney_01",
+            "multipliers": {
+                "元素能量": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "冷却时间": [
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒"
+                ],
+                "引爆礼花伤害": [
+                    "414%",
+                    "445.05%",
+                    "476.1%",
+                    "517.5%",
+                    "548.55%",
+                    "579.6%",
+                    "621%",
+                    "662.4%",
+                    "703.8%",
+                    "745.2%",
+                    "786.6%",
+                    "828%",
+                    "879.75%",
+                    "931.5%",
+                    "983.25%"
+                ],
+                "技能伤害": [
+                    "154%",
+                    "165.55%",
+                    "177.1%",
+                    "192.5%",
+                    "204.05%",
+                    "215.6%",
+                    "231%",
+                    "246.4%",
+                    "261.8%",
+                    "277.2%",
+                    "292.6%",
+                    "308%",
+                    "327.25%",
+                    "346.5%",
+                    "365.75%"
+                ],
+                "持续时间": [
+                    "3秒",
+                    "3秒",
+                    "3秒",
+                    "3秒",
+                    "3秒",
+                    "3秒",
+                    "3秒",
+                    "3秒",
+                    "3秒",
+                    "3秒",
+                    "3秒",
+                    "3秒",
+                    "3秒",
+                    "3秒",
+                    "3秒"
+                ]
+            },
+            "name": "大魔术·灵迹巡游"
+        },
+        "elementalskill": {
+            "description": "林尼挥动礼帽，引爆惊喜的礼花。\\n施放时，将清除已有的「隐具余数」，对前方的敌人造成<color=#FF9999FF>火元素范围伤害</color>。根据清除的层数，提升造成的伤害，并基于林尼的生命值上限为林尼恢复生命值。\\n\\n场上存在林尼自己创造的怪笑猫猫帽时，礼花将使其猛烈爆炸，造成等同于礼花术弹伤害的<color=#FF9999FF>火元素范围伤害</color>。\\n通过这种方式引爆怪笑猫猫帽造成的伤害视为重击伤害。\\n\\n<i>「众所周知，魔术师经常用的手法就是故意引导观众的注意力…对，在你看向这边的同时，那边的帽子和助手就都不见了，怎么样，很有趣吧。」</i>",
+            "icon": "Skill_S_Liney_01",
+            "multipliers": {
+                "冷却时间": [
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒"
+                ],
+                "恢复生命值": [
+                    "20%/层",
+                    "20%/层",
+                    "20%/层",
+                    "20%/层",
+                    "20%/层",
+                    "20%/层",
+                    "20%/层",
+                    "20%/层",
+                    "20%/层",
+                    "20%/层",
+                    "20%/层",
+                    "20%/层",
+                    "20%/层",
+                    "20%/层",
+                    "20%/层"
+                ],
+                "技能伤害": [
+                    "167.2%",
+                    "179.74%",
+                    "192.28%",
+                    "209%",
+                    "221.54%",
+                    "234.08%",
+                    "250.8%",
+                    "267.52%",
+                    "284.24%",
+                    "300.96%",
+                    "317.68%",
+                    "334.4%",
+                    "355.3%",
+                    "376.2%",
+                    "397.1%"
+                ],
+                "技能伤害加成": [
+                    "53.2%攻击力/层",
+                    "57.19%攻击力/层",
+                    "61.18%攻击力/层",
+                    "66.5%攻击力/层",
+                    "70.49%攻击力/层",
+                    "74.48%攻击力/层",
+                    "79.8%攻击力/层",
+                    "85.12%攻击力/层",
+                    "90.44%攻击力/层",
+                    "95.76%攻击力/层",
+                    "101.08%攻击力/层",
+                    "106.4%攻击力/层",
+                    "113.05%攻击力/层",
+                    "119.7%攻击力/层",
+                    "126.35%攻击力/层"
+                ]
+            },
+            "name": "眩惑光戏法"
+        },
+        "leveling": {
+            "books": {
+                "104338": 9,
+                "104339": 63,
+                "104340": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113047": 18
+            },
+            "worldmonster": {
+                "112032": 18,
+                "112033": 66,
+                "112034": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>普通攻击</color>\\n进行至多四段的连续弓箭射击。\\n\\n<color=#FFD780FF>下落攻击</color>\\n从空中射出箭雨，并迅速下坠冲击地面，在落地时造成范围伤害。\\n\\n<color=#FFD780FF>重击</color>\\n进行伤害更高、更为精准的<color=#FFD780FF>瞄准射击</color>。\\n瞄准时，火焰的力量会在箭矢上持续积聚，并随攻击发射出去。根据蓄力时间长短，能造成不同的效果：\\n·一段蓄力：射出附有火元素的箭矢，造成<color=#FF9999FF>火元素伤害</color>；\\n·二段蓄力：发射隐具魔术箭，造成<color=#FF9999FF>火元素伤害</color>，并在命中后，召唤一顶「怪笑猫猫帽」。\\n发射隐具魔术箭时，当林尼的生命值高于60%时，林尼将消耗一部分生命值，并获得一层「隐具余数」，该效果至多叠加5层，会在脱离战斗30秒后清除。\\n通过这种方式，至多使林尼的生命值降低至60%。\\n\\n<color=#FFD780FF>怪笑猫猫帽</color>\\n·能够嘲讽周围的敌人，吸引敌人攻击。每名敌人每5秒只能被怪笑猫猫帽嘲讽一次；\\n·耐久度按比例继承林尼的生命值上限；\\n·被摧毁或持续时间结束时，会对周围的一名敌人发射<color=#FFD780FF>礼花术弹</color>，造成<color=#FF9999FF>火元素伤害</color>。\\n至多同时存在1顶怪笑猫猫帽。\\n\\n<color=#FFD780FF>始基力：芒性</color>\\n每隔一段时间，隐具魔术箭将在命中的位置降下灵息之刺，造成具有芒性的<color=#FF9999FF>火元素伤害</color>。",
+            "icon": "Skill_A_02",
+            "multipliers": {
+                "一段伤害": [
+                    "38.79%",
+                    "41.94%",
+                    "45.1%",
+                    "49.61%",
+                    "52.77%",
+                    "56.38%",
+                    "61.34%",
+                    "66.3%",
+                    "71.26%",
+                    "76.67%",
+                    "82.08%",
+                    "87.49%",
+                    "92.91%",
+                    "98.32%",
+                    "103.73%"
+                ],
+                "一段蓄力瞄准射击": [
+                    "124%",
+                    "133.3%",
+                    "142.6%",
+                    "155%",
+                    "164.3%",
+                    "173.6%",
+                    "186%",
+                    "198.4%",
+                    "210.8%",
+                    "223.2%",
+                    "235.6%",
+                    "248%",
+                    "263.5%",
+                    "279%",
+                    "294.5%"
+                ],
+                "三段伤害": [
+                    "27.26%+27.26%",
+                    "29.48%+29.48%",
+                    "31.7%+31.7%",
+                    "34.87%+34.87%",
+                    "37.09%+37.09%",
+                    "39.63%+39.63%",
+                    "43.11%+43.11%",
+                    "46.6%+46.6%",
+                    "50.09%+50.09%",
+                    "53.89%+53.89%",
+                    "57.69%+57.69%",
+                    "61.5%+61.5%",
+                    "65.3%+65.3%",
+                    "69.11%+69.11%",
+                    "72.91%+72.91%"
+                ],
+                "下坠期间伤害": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "二段伤害": [
+                    "38.01%",
+                    "41.11%",
+                    "44.2%",
+                    "48.62%",
+                    "51.71%",
+                    "55.25%",
+                    "60.11%",
+                    "64.97%",
+                    "69.84%",
+                    "75.14%",
+                    "80.44%",
+                    "85.75%",
+                    "91.05%",
+                    "96.36%",
+                    "101.66%"
+                ],
+                "低空/高空坠地冲击伤害": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "四段伤害": [
+                    "56.93%",
+                    "61.57%",
+                    "66.2%",
+                    "72.82%",
+                    "77.45%",
+                    "82.75%",
+                    "90.03%",
+                    "97.31%",
+                    "104.6%",
+                    "112.54%",
+                    "120.48%",
+                    "128.43%",
+                    "136.37%",
+                    "144.32%",
+                    "152.26%"
+                ],
+                "怪笑猫猫帽持续时间": [
+                    "4秒",
+                    "4秒",
+                    "4秒",
+                    "4秒",
+                    "4秒",
+                    "4秒",
+                    "4秒",
+                    "4秒",
+                    "4秒",
+                    "4秒",
+                    "4秒",
+                    "4秒",
+                    "4秒",
+                    "4秒",
+                    "4秒"
+                ],
+                "怪笑猫猫帽继承生命": [
+                    "64%",
+                    "68.8%",
+                    "73.6%",
+                    "80%",
+                    "84.8%",
+                    "89.6%",
+                    "96%",
+                    "102.4%",
+                    "108.8%",
+                    "115.2%",
+                    "121.6%",
+                    "128%",
+                    "136%",
+                    "144%",
+                    "152%"
+                ],
+                "灵息之刺伤害": [
+                    "27.55%",
+                    "29.62%",
+                    "31.68%",
+                    "34.44%",
+                    "36.51%",
+                    "38.57%",
+                    "41.33%",
+                    "44.08%",
+                    "46.84%",
+                    "49.59%",
+                    "52.35%",
+                    "55.1%",
+                    "58.55%",
+                    "61.99%",
+                    "65.44%"
+                ],
+                "灵息之刺间隔": [
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒"
+                ],
+                "生命值消耗": [
+                    "20%生命值上限",
+                    "20%生命值上限",
+                    "20%生命值上限",
+                    "20%生命值上限",
+                    "20%生命值上限",
+                    "20%生命值上限",
+                    "20%生命值上限",
+                    "20%生命值上限",
+                    "20%生命值上限",
+                    "20%生命值上限",
+                    "20%生命值上限",
+                    "20%生命值上限",
+                    "20%生命值上限",
+                    "20%生命值上限",
+                    "20%生命值上限"
+                ],
+                "瞄准射击": [
+                    "43.86%",
+                    "47.43%",
+                    "51%",
+                    "56.1%",
+                    "59.67%",
+                    "63.75%",
+                    "69.36%",
+                    "74.97%",
+                    "80.58%",
+                    "86.7%",
+                    "92.82%",
+                    "98.94%",
+                    "105.06%",
+                    "111.18%",
+                    "117.3%"
+                ],
+                "礼花术弹伤害": [
+                    "212%",
+                    "227.9%",
+                    "243.8%",
+                    "265%",
+                    "280.9%",
+                    "296.8%",
+                    "318%",
+                    "339.2%",
+                    "360.4%",
+                    "381.6%",
+                    "402.8%",
+                    "424%",
+                    "450.5%",
+                    "477%",
+                    "503.5%"
+                ],
+                "隐具魔术箭伤害": [
+                    "172.8%",
+                    "185.76%",
+                    "198.72%",
+                    "216%",
+                    "228.96%",
+                    "241.92%",
+                    "259.2%",
+                    "276.48%",
+                    "293.76%",
+                    "311.04%",
+                    "328.32%",
+                    "345.6%",
+                    "367.2%",
+                    "388.8%",
+                    "410.4%"
+                ]
+            },
+            "name": "迫牌易位式"
+        }
+    }
+}

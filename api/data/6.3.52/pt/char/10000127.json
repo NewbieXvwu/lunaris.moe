@@ -1,0 +1,1299 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104171": 1,
+            "104172": 9,
+            "104173": 9,
+            "104174": 6
+        },
+        "elitemonster": {
+            "113080": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101269": 168
+        },
+        "worldmonster": {
+            "112122": 18,
+            "112123": 30,
+            "112124": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "ExtraAttack_Bullet",
+            "poise": "LV5/120"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "ExtraAttack_Bullet",
+            "poise": "LV6/120"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Click_Bullet",
+            "poise": "LV3/75"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Charge_Bullet",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Charge_Bullet_NoTarget",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV4/150"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "Constellation_6_Bullet",
+            "poise": "LV1/75"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/25"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Quando Illuga é o personagem ativo, regenera 12 de Energia Elemental ao ativar uma <color=#FFE699FF>reação relacionada ao Geo</color>. Esse efeito pode ser ativado uma vez a cada 15s.",
+            "icon": "UI_Talent_S_Illuga_01",
+            "name": "Sentinela Vigilante"
+        },
+        "const2": {
+            "description": "Na duração do efeito Pesadelo de Luscinia do Supremo {LINK#S11275}<color=#FFD780FF>Reflexo Vazio</color>{/LINK}, cada 7 acúmulos de {LINK#N11270001}<color=#FFD780FF>Canção de Luscinia</color>{/LINK} consumidos farão Illuga invocar Vendaval para causar uma instância de <color=#FFE699FF>Dano Geo</color> contra um inimigo próximo. Esse Dano é equivalente a 400% da Proficiência Elemental e 200% da DEF de Illuga.",
+            "icon": "UI_Talent_S_Illuga_02",
+            "name": "Alce com Chifres Pontudos"
+        },
+        "const3": {
+            "description": "Aumenta o nível do Supremo <color=#FFD780FF>{LINK#S11275}Reflexo Vazio{/LINK}</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Illuga_01",
+            "name": "Mordida Estremecedora"
+        },
+        "const4": {
+            "description": "Na duração do efeito Pesadelo de Luscinia do Supremo <color=#FFD780FF>{LINK#S11275}Reflexo Vazio{/LINK}</color>, aumenta a DEF do personagem próximo ativo da equipe em 200.",
+            "icon": "UI_Talent_S_Illuga_03",
+            "name": "Lobo Caçador do Sol"
+        },
+        "const5": {
+            "description": "Aumenta o nível da Habilidade Elemental <color=#FFD780FF>Pássaro da Canção Matinal</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Illuga_02",
+            "name": "Alazão do Vento"
+        },
+        "const6": {
+            "description": "Fortalece o efeito Juramento da Lâmpada do Talento Passivo <color=#FFD780FF>{LINK#P1272101}Juramento do Iluminador{/LINK}</color>: aumenta a Taxa CRIT em 10% e o Dano CRIT em 30% de <color=#FFE699FF>Dano Geo</color> causado contra inimigos.\\n\\n<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>\\nQuando o personagem está afetado por Juramento da Lâmpada, aumenta sua Proficiência Elemental em 80.\\nÉ necessário ter desbloqueado o Talento Passivo <color=#FFD780FF>Juramento do Iluminador</color>.",
+            "icon": "UI_Talent_S_Illuga_04",
+            "name": "Canção do Pássaro da Noite Assombrada"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.5s",
+            "chance": "50%",
+            "particles": "4",
+            "source": "ElementalArt_DropBall"
+        },
+        {
+            "cd": "0.5s",
+            "chance": "50%",
+            "particles": "5",
+            "source": "ElementalArt_DropBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Illuga",
+        "forward": "UI_AvatarIcon_Illuga"
+    },
+    "info": {
+        "attributes": [
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 16,
+                "def": 68,
+                "hp": 1003,
+                "level": 1
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 17,
+                "def": 74,
+                "hp": 1086,
+                "level": 2
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 19,
+                "def": 79,
+                "hp": 1168,
+                "level": 3
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 20,
+                "def": 85,
+                "hp": 1252,
+                "level": 4
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 21,
+                "def": 91,
+                "hp": 1334,
+                "level": 5
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 23,
+                "def": 96,
+                "hp": 1417,
+                "level": 6
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 24,
+                "def": 102,
+                "hp": 1499,
+                "level": 7
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 25,
+                "def": 108,
+                "hp": 1583,
+                "level": 8
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 27,
+                "def": 113,
+                "hp": 1666,
+                "level": 9
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 28,
+                "def": 119,
+                "hp": 1748,
+                "level": 10
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 29,
+                "def": 125,
+                "hp": 1831,
+                "level": 11
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 31,
+                "def": 130,
+                "hp": 1914,
+                "level": 12
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 32,
+                "def": 136,
+                "hp": 1997,
+                "level": 13
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 33,
+                "def": 141,
+                "hp": 2079,
+                "level": 14
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 35,
+                "def": 147,
+                "hp": 2162,
+                "level": 15
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 36,
+                "def": 153,
+                "hp": 2246,
+                "level": 16
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 37,
+                "def": 158,
+                "hp": 2328,
+                "level": 17
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 39,
+                "def": 164,
+                "hp": 2411,
+                "level": 18
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 40,
+                "def": 170,
+                "hp": 2493,
+                "level": 19
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 41,
+                "def": 175,
+                "hp": 2577,
+                "level": 20
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 54,
+                "def": 232,
+                "hp": 3408,
+                "level": 21
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 56,
+                "def": 237,
+                "hp": 3491,
+                "level": 22
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 57,
+                "def": 243,
+                "hp": 3575,
+                "level": 23
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 58,
+                "def": 249,
+                "hp": 3657,
+                "level": 24
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 60,
+                "def": 254,
+                "hp": 3740,
+                "level": 25
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 61,
+                "def": 260,
+                "hp": 3822,
+                "level": 26
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 62,
+                "def": 266,
+                "hp": 3906,
+                "level": 27
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 64,
+                "def": 271,
+                "hp": 3988,
+                "level": 28
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 65,
+                "def": 277,
+                "hp": 4071,
+                "level": 29
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 66,
+                "def": 282,
+                "hp": 4153,
+                "level": 30
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 68,
+                "def": 288,
+                "hp": 4237,
+                "level": 31
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 69,
+                "def": 294,
+                "hp": 4320,
+                "level": 32
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 70,
+                "def": 299,
+                "hp": 4402,
+                "level": 33
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 72,
+                "def": 305,
+                "hp": 4485,
+                "level": 34
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 73,
+                "def": 311,
+                "hp": 4568,
+                "level": 35
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 74,
+                "def": 316,
+                "hp": 4651,
+                "level": 36
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 76,
+                "def": 322,
+                "hp": 4733,
+                "level": 37
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 77,
+                "def": 328,
+                "hp": 4816,
+                "level": 38
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 78,
+                "def": 333,
+                "hp": 4900,
+                "level": 39
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 80,
+                "def": 339,
+                "hp": 4982,
+                "level": 40
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 89,
+                "def": 381,
+                "hp": 5597,
+                "level": 41
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 91,
+                "def": 386,
+                "hp": 5680,
+                "level": 42
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 92,
+                "def": 392,
+                "hp": 5763,
+                "level": 43
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 93,
+                "def": 398,
+                "hp": 5845,
+                "level": 44
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 95,
+                "def": 403,
+                "hp": 5928,
+                "level": 45
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 96,
+                "def": 409,
+                "hp": 6012,
+                "level": 46
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 97,
+                "def": 414,
+                "hp": 6094,
+                "level": 47
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 99,
+                "def": 420,
+                "hp": 6177,
+                "level": 48
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 100,
+                "def": 426,
+                "hp": 6259,
+                "level": 49
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 101,
+                "def": 431,
+                "hp": 6343,
+                "level": 50
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 114,
+                "def": 485,
+                "hp": 7135,
+                "level": 51
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 115,
+                "def": 491,
+                "hp": 7218,
+                "level": 52
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 117,
+                "def": 497,
+                "hp": 7301,
+                "level": 53
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 118,
+                "def": 502,
+                "hp": 7383,
+                "level": 54
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 119,
+                "def": 508,
+                "hp": 7467,
+                "level": 55
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 121,
+                "def": 513,
+                "hp": 7549,
+                "level": 56
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 122,
+                "def": 519,
+                "hp": 7632,
+                "level": 57
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 123,
+                "def": 525,
+                "hp": 7714,
+                "level": 58
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 125,
+                "def": 530,
+                "hp": 7798,
+                "level": 59
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 126,
+                "def": 536,
+                "hp": 7881,
+                "level": 60
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 136,
+                "def": 578,
+                "hp": 8496,
+                "level": 61
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 137,
+                "def": 583,
+                "hp": 8579,
+                "level": 62
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 138,
+                "def": 589,
+                "hp": 8661,
+                "level": 63
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 140,
+                "def": 595,
+                "hp": 8744,
+                "level": 64
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 141,
+                "def": 600,
+                "hp": 8827,
+                "level": 65
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 142,
+                "def": 606,
+                "hp": 8910,
+                "level": 66
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 144,
+                "def": 612,
+                "hp": 8993,
+                "level": 67
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 145,
+                "def": 617,
+                "hp": 9075,
+                "level": 68
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 146,
+                "def": 623,
+                "hp": 9159,
+                "level": 69
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 148,
+                "def": 628,
+                "hp": 9241,
+                "level": 70
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 158,
+                "def": 670,
+                "hp": 9856,
+                "level": 71
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 159,
+                "def": 676,
+                "hp": 9939,
+                "level": 72
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 160,
+                "def": 682,
+                "hp": 10022,
+                "level": 73
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 161,
+                "def": 687,
+                "hp": 10105,
+                "level": 74
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 163,
+                "def": 693,
+                "hp": 10187,
+                "level": 75
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 164,
+                "def": 699,
+                "hp": 10271,
+                "level": 76
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 165,
+                "def": 704,
+                "hp": 10353,
+                "level": 77
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 167,
+                "def": 710,
+                "hp": 10436,
+                "level": 78
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 168,
+                "def": 715,
+                "hp": 10518,
+                "level": 79
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 169,
+                "def": 721,
+                "hp": 10602,
+                "level": 80
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 179,
+                "def": 763,
+                "hp": 11217,
+                "level": 81
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 181,
+                "def": 768,
+                "hp": 11299,
+                "level": 82
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 182,
+                "def": 774,
+                "hp": 11383,
+                "level": 83
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 183,
+                "def": 780,
+                "hp": 11465,
+                "level": 84
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 185,
+                "def": 785,
+                "hp": 11548,
+                "level": 85
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 186,
+                "def": 791,
+                "hp": 11630,
+                "level": 86
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 187,
+                "def": 797,
+                "hp": 11714,
+                "level": 87
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 188,
+                "def": 802,
+                "hp": 11796,
+                "level": 88
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 190,
+                "def": 808,
+                "hp": 11879,
+                "level": 89
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 191,
+                "def": 814,
+                "hp": 11962,
+                "level": 90
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 216,
+                "def": 842,
+                "hp": 12376,
+                "level": 95
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 240,
+                "def": 870,
+                "hp": 12790,
+                "level": 100
+            }
+        ],
+        "birthday": "December 23rd",
+        "constellation": "Oriolus",
+        "description": "Membro da Divisão de Investigação \"Pássaro da Noite Assombrada\". É o mais jovem capitão dos Portadores da Lâmpada.",
+        "element": "Geo",
+        "name": "Illuga",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_POLE"
+    },
+    "passives": {
+        "p1": {
+            "description": "Depois que lançar a Habilidade Elemental <color=#FFD780FF>{LINK#S11272}Pássaro da Canção Matinal{/LINK}</color> ou o Supremo <color=#FFD780FF>{LINK#S11275}Reflexo Vazio{/LINK}</color>, todos os outros personagens da equipe obtém o efeito Juramento da Lâmpada por 20s: aumenta a Taxa CRIT em 5% o Dano CRIT em 10% contra os inimigos que sofrerem <color=#FFE699FF>Dano Geo</color>.\\n\\n<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>\\nPersonagens afetados por Juramento da Lâmpada obtêm 50 de Proficiência Elemental.",
+            "icon": "UI_Talent_S_Illuga_05",
+            "name": "Juramento do Iluminador"
+        },
+        "p2": {
+            "description": "Fortalece o efeito de {LINK#N11270001}<color=#FFD780FF>Canção de Luscinia</color>{/LINK}: quando a equipe possuir 1/2/3 personagens <color=#80C0FFFF>Hydro</color> ou <color=#FFE699FF>Geo</color>, Canção de Luscinia aumenta ainda mais o Dano. A quantidade aumentada é baseada em 7%/14%/24% da Proficiência Elemental de Illugal. Se o Dano causado for Dano de Cristalização Lunar, esse aumento será de 48%/96%/160% da Proficiência Elemental de Illuga.",
+            "icon": "UI_Talent_S_Illuga_06",
+            "name": "Crepúsculo do Caçador de Demônios"
+        },
+        "p3": {
+            "description": "Quando Illuga está na equipe, aumenta o nível de <color=#FFD780FF>Presságio Lunar</color> da equipe em 1 nível.",
+            "icon": "UI_Talent_S_Illuga_07",
+            "name": "Bênção do Presságio Lunar: Gelo Inderretível"
+        },
+        "p4": {
+            "description": "Durante a noite (18:00 - 06:00), os membros do seu grupo ganham o efeito Passos Ágeis: Veloc. Mov. aumenta em 10%.\\nNão tem efeito em Domínios, Domínios Dizimados ou Abismo Espiral. O efeito Passos Ágeis não se acumula.\\nAlém disso, Illuga parece entender os sussurros da Caçada Feroz...",
+            "icon": "UI_Talent_S_Illuga_08",
+            "name": "Caminhada do Vigilante Noturno"
+        }
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Acende uma lâmpada, causando <color=#FFE699FF>Dano Geo em AdE</color> e obtendo o efeito Pesadelo de Luscinia por 20s. Nessa duração, Illuga obtém 21 acúmulos de {LINK#N11270001}<color=#FFD780FF>Canção de Luscinia</color>{/LINK}. Quando o Ataque Normal, Carregado, Imersivo, a Habilidade Elemental ou o Supremo do personagem ativo próximo causam <color=#FFE699FF>Dano Geo</color> contra o inimigo, consome 1 acúmulo de Canção de Luscinia, aumentando o Dano causado. O valor do aumento é baseado na Proficiência Elemental de Illuga. Se esse Dano for Dano de Cristalização Lunar, aumenta ainda mais o Dano causado.\\nQuando o <color=#FFE699FF>Dano Geo</color> acima atingir mais de um inimigo simultaneamento, consumirá acúmulos de Canção de Luscinia correspondentes a quantidade de inimigos atingidos.\\n\\nAlém disso, quando Illuga é o personagem ativo e há uma <color=#FFE699FF>Construção Geo</color> criada por um personagem próximo e lançar seu Supremo, ou na duração do Pesadelo de Luscinia, e quando o personagem próximo criar uma <color=#FFE699FF>Construção Geo</color>, cada <color=#FFE699FF>Construção Geo</color> ativa farão Illuga obter 5 acúmulos adicionais de Canção de Luscinia. Illugar pode obter até 15 acúmulos adicionais de Canção de Luscinia nos 20s após lançar um Supremo dessa forma.\\n\\nQuando os acúmulos de Canção de Luscinia acabarem, ou quando a duração acabar, o efeito Pesadelo de Luscinia será removido.",
+            "icon": "Skill_E_Illuga_01",
+            "multipliers": {
+                "Bônus de Dano Geo": [
+                    "33.6% da Proficiência Elemental",
+                    "36.12% da Proficiência Elemental",
+                    "38.64% da Proficiência Elemental",
+                    "42% da Proficiência Elemental",
+                    "44.52% da Proficiência Elemental",
+                    "47.04% da Proficiência Elemental",
+                    "50.4% da Proficiência Elemental",
+                    "53.76% da Proficiência Elemental",
+                    "57.12% da Proficiência Elemental",
+                    "60.48% da Proficiência Elemental",
+                    "63.84% da Proficiência Elemental",
+                    "67.2% da Proficiência Elemental",
+                    "71.4% da Proficiência Elemental",
+                    "75.6% da Proficiência Elemental",
+                    "79.8% da Proficiência Elemental"
+                ],
+                "Bônus de Dano da Cristalização Lunar": [
+                    "225.92% da Proficiência Elemental",
+                    "242.86% da Proficiência Elemental",
+                    "259.81% da Proficiência Elemental",
+                    "282.4% da Proficiência Elemental",
+                    "299.34% da Proficiência Elemental",
+                    "316.29% da Proficiência Elemental",
+                    "338.88% da Proficiência Elemental",
+                    "361.47% da Proficiência Elemental",
+                    "384.06% da Proficiência Elemental",
+                    "406.66% da Proficiência Elemental",
+                    "429.25% da Proficiência Elemental",
+                    "451.84% da Proficiência Elemental",
+                    "480.08% da Proficiência Elemental",
+                    "508.32% da Proficiência Elemental",
+                    "536.56% da Proficiência Elemental"
+                ],
+                "Canção de Luscinia obtida ao lançar Supremo": [
+                    "21 acúmulo(s)",
+                    "21 acúmulo(s)",
+                    "21 acúmulo(s)",
+                    "21 acúmulo(s)",
+                    "21 acúmulo(s)",
+                    "21 acúmulo(s)",
+                    "21 acúmulo(s)",
+                    "21 acúmulo(s)",
+                    "21 acúmulo(s)",
+                    "21 acúmulo(s)",
+                    "21 acúmulo(s)",
+                    "21 acúmulo(s)",
+                    "21 acúmulo(s)",
+                    "21 acúmulo(s)",
+                    "21 acúmulo(s)"
+                ],
+                "Canção de Luscinia obtida por criação de Construção Geo": [
+                    "5 acúmulo(s) por Construção Geo",
+                    "5 acúmulo(s) por Construção Geo",
+                    "5 acúmulo(s) por Construção Geo",
+                    "5 acúmulo(s) por Construção Geo",
+                    "5 acúmulo(s) por Construção Geo",
+                    "5 acúmulo(s) por Construção Geo",
+                    "5 acúmulo(s) por Construção Geo",
+                    "5 acúmulo(s) por Construção Geo",
+                    "5 acúmulo(s) por Construção Geo",
+                    "5 acúmulo(s) por Construção Geo",
+                    "5 acúmulo(s) por Construção Geo",
+                    "5 acúmulo(s) por Construção Geo",
+                    "5 acúmulo(s) por Construção Geo",
+                    "5 acúmulo(s) por Construção Geo",
+                    "5 acúmulo(s) por Construção Geo"
+                ],
+                "Dano de Habilidade": [
+                    "827.2% da Proficiência Elemental + 413.6% da DEF",
+                    "889.24% da Proficiência Elemental + 444.62% da DEF",
+                    "951.28% da Proficiência Elemental + 475.64% da DEF",
+                    "1034% da Proficiência Elemental + 517% da DEF",
+                    "1096.04% da Proficiência Elemental + 548.02% da DEF",
+                    "1158.08% da Proficiência Elemental + 579.04% da DEF",
+                    "1240.8% da Proficiência Elemental + 620.4% da DEF",
+                    "1323.52% da Proficiência Elemental + 661.76% da DEF",
+                    "1406.24% da Proficiência Elemental + 703.12% da DEF",
+                    "1488.96% da Proficiência Elemental + 744.48% da DEF",
+                    "1571.68% da Proficiência Elemental + 785.84% da DEF",
+                    "1654.4% da Proficiência Elemental + 827.2% da DEF",
+                    "1757.8% da Proficiência Elemental + 878.9% da DEF",
+                    "1861.2% da Proficiência Elemental + 930.6% da DEF",
+                    "1964.6% da Proficiência Elemental + 982.3% da DEF"
+                ],
+                "Duração": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ],
+                "Energia Elemental": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "Tempo de Recarga": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ]
+            },
+            "name": "Reflexo Vazio"
+        },
+        "elementalskill": {
+            "description": "Invoca um pássaro chamado Vendaval para ajudar em combate. Gera efeitos diferentes se pressionar ou manter pressionado.\\n\\n<color=#FFD780FF>Pressionar</color>\\nVendaval avança contra os inimigos em frente, causando <color=#FFE699FF>Dano Geo</color> contra os inimigos que tocar.\\n\\n<color=#FFD780FF>Manter pressionado</color>\\nMira e lança Vendaval na direção do inimigo mirado, causando <color=#FFE699FF>Dano Geo</color> contra os inimigos que tocar.",
+            "icon": "Skill_S_Illuga_01",
+            "multipliers": {
+                "Dano de Pressionar": [
+                    "482.56% da Proficiência Elemental + 241.28% da DEF",
+                    "518.75% da Proficiência Elemental + 259.38% da DEF",
+                    "554.94% da Proficiência Elemental + 277.47% da DEF",
+                    "603.2% da Proficiência Elemental + 301.6% da DEF",
+                    "639.39% da Proficiência Elemental + 319.7% da DEF",
+                    "675.58% da Proficiência Elemental + 337.79% da DEF",
+                    "723.84% da Proficiência Elemental + 361.92% da DEF",
+                    "772.1% da Proficiência Elemental + 386.05% da DEF",
+                    "820.35% da Proficiência Elemental + 410.18% da DEF",
+                    "868.61% da Proficiência Elemental + 434.3% da DEF",
+                    "916.86% da Proficiência Elemental + 458.43% da DEF",
+                    "965.12% da Proficiência Elemental + 482.56% da DEF",
+                    "1025.44% da Proficiência Elemental + 512.72% da DEF",
+                    "1085.76% da Proficiência Elemental + 542.88% da DEF",
+                    "1146.08% da Proficiência Elemental + 573.04% da DEF"
+                ],
+                "Manter pressionado": [
+                    "603.2% da Proficiência Elemental + 301.6% da DEF",
+                    "648.44% da Proficiência Elemental + 324.22% da DEF",
+                    "693.68% da Proficiência Elemental + 346.84% da DEF",
+                    "754% da Proficiência Elemental + 377% da DEF",
+                    "799.24% da Proficiência Elemental + 399.62% da DEF",
+                    "844.48% da Proficiência Elemental + 422.24% da DEF",
+                    "904.8% da Proficiência Elemental + 452.4% da DEF",
+                    "965.12% da Proficiência Elemental + 482.56% da DEF",
+                    "1025.44% da Proficiência Elemental + 512.72% da DEF",
+                    "1085.76% da Proficiência Elemental + 542.88% da DEF",
+                    "1146.08% da Proficiência Elemental + 573.04% da DEF",
+                    "1206.4% da Proficiência Elemental + 603.2% da DEF",
+                    "1281.8% da Proficiência Elemental + 640.9% da DEF",
+                    "1357.2% da Proficiência Elemental + 678.6% da DEF",
+                    "1432.6% da Proficiência Elemental + 716.3% da DEF"
+                ],
+                "Tempo de Recarga": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ]
+            },
+            "name": "Pássaro da Canção Matinal"
+        },
+        "leveling": {
+            "books": {
+                "104359": 9,
+                "104360": 63,
+                "104361": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113068": 18
+            },
+            "worldmonster": {
+                "112122": 18,
+                "112123": 66,
+                "112124": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 4 golpes com a lança.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome uma certa quantidade de Stamina para se lançar para a frente, infligindo Dano em seu trajeto.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+            "icon": "Skill_A_03",
+            "multipliers": {
+                "Consumo de Stamina de Ataque Carregado": [
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25"
+                ],
+                "Dano Durante a Queda": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ],
+                "Dano de Ataque Carregado": [
+                    "111.03%",
+                    "120.06%",
+                    "129.1%",
+                    "142.01%",
+                    "151.05%",
+                    "161.37%",
+                    "175.58%",
+                    "189.78%",
+                    "203.98%",
+                    "219.47%",
+                    "234.96%",
+                    "250.45%",
+                    "265.95%",
+                    "281.44%",
+                    "296.93%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Dano do 1° Golpe": [
+                    "47.37%",
+                    "51.22%",
+                    "55.08%",
+                    "60.58%",
+                    "64.44%",
+                    "68.85%",
+                    "74.9%",
+                    "80.96%",
+                    "87.02%",
+                    "93.63%",
+                    "100.24%",
+                    "106.85%",
+                    "113.46%",
+                    "120.07%",
+                    "126.68%"
+                ],
+                "Dano do 2° Golpe": [
+                    "48.53%",
+                    "52.48%",
+                    "56.42%",
+                    "62.07%",
+                    "66.02%",
+                    "70.53%",
+                    "76.74%",
+                    "82.94%",
+                    "89.15%",
+                    "95.92%",
+                    "102.69%",
+                    "109.46%",
+                    "116.24%",
+                    "123.01%",
+                    "129.78%"
+                ],
+                "Dano do 3° Golpe": [
+                    "31.43%+31.43%",
+                    "33.99%+33.99%",
+                    "36.55%+36.55%",
+                    "40.2%+40.2%",
+                    "42.76%+42.76%",
+                    "45.69%+45.69%",
+                    "49.71%+49.71%",
+                    "53.73%+53.73%",
+                    "57.75%+57.75%",
+                    "62.13%+62.13%",
+                    "66.52%+66.52%",
+                    "70.91%+70.91%",
+                    "75.29%+75.29%",
+                    "79.68%+79.68%",
+                    "84.07%+84.07%"
+                ],
+                "Dano do 4° Golpe": [
+                    "76.28%",
+                    "82.49%",
+                    "88.7%",
+                    "97.57%",
+                    "103.77%",
+                    "110.87%",
+                    "120.63%",
+                    "130.38%",
+                    "140.14%",
+                    "150.78%",
+                    "161.43%",
+                    "172.07%",
+                    "182.71%",
+                    "193.36%",
+                    "204%"
+                ]
+            },
+            "name": "Lança do Juramento Protetor"
+        }
+    }
+}

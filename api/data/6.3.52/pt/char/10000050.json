@@ -1,0 +1,1296 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104111": 1,
+            "104112": 9,
+            "104113": 9,
+            "104114": 6
+        },
+        "elitemonster": {
+            "113024": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101209": 168
+        },
+        "worldmonster": {
+            "112035": 18,
+            "112036": 30,
+            "112037": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "ExtraAttack_Bullet",
+            "poise": "LV5/120"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "ExtraAttack_Bullet",
+            "poise": "LV5/120"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Strike",
+            "poise": "LV3/150"
+        },
+        {
+            "element": "Fire",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Start",
+            "poise": "LV3/200"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_TriggerAttack",
+            "poise": "LV2/35"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Quando uma <color=#FFD780FF>Barreira Flamejante</color> proteger contra Dano qualquer personagem que não seja Thoma, então a própria <color=#FFD780FF>Proteção das Chamas do Destino</color> dele irá diminuir seu Tempo de Recarga em 3s, enquanto sua própria <color=#FFD780FF>Grande Armadura Flamejante</color> tem seu Tempo de Recarga reduzido em 3s.\\nEste efeito pode ser desencadeado uma vez a cada 20s.",
+            "icon": "UI_Talent_S_Tohma_01",
+            "name": "O Dever de Um Amigo"
+        },
+        "const2": {
+            "description": "Aumenta a duração da <color=#FFD780FF>Grande Armadura Flamejante</color> em 3s.",
+            "icon": "UI_Talent_S_Tohma_02",
+            "name": "Servente Hábil"
+        },
+        "const3": {
+            "description": "Aumenta o Nível da <color=#FFD780FF>Proteção das Chamas do Destino</color> em 3.\\nO Nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Tohma_01",
+            "name": "Vontade Resoluta"
+        },
+        "const4": {
+            "description": "Após lançar <color=#FFD780FF>Grande Armadura Flamejante</color>, Thoma regenerará 15 pontos de Energia Elemental.",
+            "icon": "UI_Talent_S_Tohma_03",
+            "name": "Plano a Longo Prazo"
+        },
+        "const5": {
+            "description": "Aumenta o nível da <color=#FFD780FF>Grande Armadura Flamejante</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Tohma_02",
+            "name": "Fogo Incontrolável"
+        },
+        "const6": {
+            "description": "Quando uma <color=#FFD780FF>Barreira Flamejante</color> é obtida ou redefinida, o Dano causado por Ataques Normais, Carregados e Imersivos de todos os membros da equipe é aumentado em 15% por 6s.",
+            "icon": "UI_Talent_S_Tohma_04",
+            "name": "Coração Fervoroso"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.3s",
+            "chance": "100%",
+            "particles": "3",
+            "source": "Ball"
+        },
+        {
+            "cd": "0.3s",
+            "chance": "50%",
+            "particles": "1",
+            "source": "Ball_Extra"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Tohma",
+        "forward": "UI_AvatarIcon_Tohma"
+    },
+    "info": {
+        "attributes": [
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 17,
+                "def": 63,
+                "hp": 866,
+                "level": 1
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 18,
+                "def": 68,
+                "hp": 938,
+                "level": 2
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 73,
+                "hp": 1009,
+                "level": 3
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 79,
+                "hp": 1081,
+                "level": 4
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 23,
+                "def": 84,
+                "hp": 1152,
+                "level": 5
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 89,
+                "hp": 1224,
+                "level": 6
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 94,
+                "hp": 1295,
+                "level": 7
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 99,
+                "hp": 1367,
+                "level": 8
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 105,
+                "hp": 1439,
+                "level": 9
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 110,
+                "hp": 1510,
+                "level": 10
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 115,
+                "hp": 1582,
+                "level": 11
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 120,
+                "hp": 1653,
+                "level": 12
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 125,
+                "hp": 1725,
+                "level": 13
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 130,
+                "hp": 1796,
+                "level": 14
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 136,
+                "hp": 1868,
+                "level": 15
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 141,
+                "hp": 1939,
+                "level": 16
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 146,
+                "hp": 2010,
+                "level": 17
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 151,
+                "hp": 2082,
+                "level": 18
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 156,
+                "hp": 2153,
+                "level": 19
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 43,
+                "def": 162,
+                "hp": 2225,
+                "level": 20
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 57,
+                "def": 214,
+                "hp": 2943,
+                "level": 21
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 59,
+                "def": 219,
+                "hp": 3015,
+                "level": 22
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 60,
+                "def": 224,
+                "hp": 3087,
+                "level": 23
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 62,
+                "def": 230,
+                "hp": 3158,
+                "level": 24
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 63,
+                "def": 235,
+                "hp": 3230,
+                "level": 25
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 64,
+                "def": 240,
+                "hp": 3301,
+                "level": 26
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 66,
+                "def": 245,
+                "hp": 3373,
+                "level": 27
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 67,
+                "def": 250,
+                "hp": 3444,
+                "level": 28
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 69,
+                "def": 256,
+                "hp": 3516,
+                "level": 29
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 70,
+                "def": 261,
+                "hp": 3587,
+                "level": 30
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 266,
+                "hp": 3659,
+                "level": 31
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 73,
+                "def": 271,
+                "hp": 3731,
+                "level": 32
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 74,
+                "def": 276,
+                "hp": 3802,
+                "level": 33
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 76,
+                "def": 282,
+                "hp": 3874,
+                "level": 34
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 77,
+                "def": 287,
+                "hp": 3945,
+                "level": 35
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 78,
+                "def": 292,
+                "hp": 4017,
+                "level": 36
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 80,
+                "def": 297,
+                "hp": 4088,
+                "level": 37
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 81,
+                "def": 302,
+                "hp": 4160,
+                "level": 38
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 83,
+                "def": 308,
+                "hp": 4231,
+                "level": 39
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 84,
+                "def": 313,
+                "hp": 4302,
+                "level": 40
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 94,
+                "def": 351,
+                "hp": 4834,
+                "level": 41
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 96,
+                "def": 356,
+                "hp": 4905,
+                "level": 42
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 97,
+                "def": 362,
+                "hp": 4977,
+                "level": 43
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 99,
+                "def": 367,
+                "hp": 5048,
+                "level": 44
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 100,
+                "def": 372,
+                "hp": 5120,
+                "level": 45
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 101,
+                "def": 377,
+                "hp": 5192,
+                "level": 46
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 103,
+                "def": 382,
+                "hp": 5263,
+                "level": 47
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 104,
+                "def": 388,
+                "hp": 5335,
+                "level": 48
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 106,
+                "def": 393,
+                "hp": 5406,
+                "level": 49
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 107,
+                "def": 398,
+                "hp": 5478,
+                "level": 50
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 120,
+                "def": 448,
+                "hp": 6162,
+                "level": 51
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 122,
+                "def": 453,
+                "hp": 6234,
+                "level": 52
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 123,
+                "def": 458,
+                "hp": 6306,
+                "level": 53
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 125,
+                "def": 463,
+                "hp": 6377,
+                "level": 54
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 126,
+                "def": 469,
+                "hp": 6449,
+                "level": 55
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 127,
+                "def": 474,
+                "hp": 6520,
+                "level": 56
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 129,
+                "def": 479,
+                "hp": 6591,
+                "level": 57
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 130,
+                "def": 484,
+                "hp": 6662,
+                "level": 58
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 132,
+                "def": 489,
+                "hp": 6734,
+                "level": 59
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 133,
+                "def": 495,
+                "hp": 6806,
+                "level": 60
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 143,
+                "def": 533,
+                "hp": 7337,
+                "level": 61
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 145,
+                "def": 538,
+                "hp": 7409,
+                "level": 62
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 146,
+                "def": 544,
+                "hp": 7480,
+                "level": 63
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 147,
+                "def": 549,
+                "hp": 7552,
+                "level": 64
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 149,
+                "def": 554,
+                "hp": 7623,
+                "level": 65
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 150,
+                "def": 559,
+                "hp": 7695,
+                "level": 66
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 152,
+                "def": 564,
+                "hp": 7767,
+                "level": 67
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 153,
+                "def": 570,
+                "hp": 7838,
+                "level": 68
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 154,
+                "def": 575,
+                "hp": 7910,
+                "level": 69
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 156,
+                "def": 580,
+                "hp": 7981,
+                "level": 70
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 166,
+                "def": 619,
+                "hp": 8512,
+                "level": 71
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 168,
+                "def": 624,
+                "hp": 8583,
+                "level": 72
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 169,
+                "def": 629,
+                "hp": 8655,
+                "level": 73
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 170,
+                "def": 634,
+                "hp": 8727,
+                "level": 74
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 172,
+                "def": 639,
+                "hp": 8798,
+                "level": 75
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 173,
+                "def": 645,
+                "hp": 8870,
+                "level": 76
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 175,
+                "def": 650,
+                "hp": 8941,
+                "level": 77
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 176,
+                "def": 655,
+                "hp": 9013,
+                "level": 78
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 177,
+                "def": 660,
+                "hp": 9084,
+                "level": 79
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 179,
+                "def": 665,
+                "hp": 9156,
+                "level": 80
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 189,
+                "def": 704,
+                "hp": 9688,
+                "level": 81
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 191,
+                "def": 709,
+                "hp": 9759,
+                "level": 82
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 192,
+                "def": 714,
+                "hp": 9831,
+                "level": 83
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 193,
+                "def": 720,
+                "hp": 9902,
+                "level": 84
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 195,
+                "def": 725,
+                "hp": 9973,
+                "level": 85
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 196,
+                "def": 730,
+                "hp": 10044,
+                "level": 86
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 198,
+                "def": 735,
+                "hp": 10116,
+                "level": 87
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 199,
+                "def": 740,
+                "hp": 10187,
+                "level": 88
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 200,
+                "def": 746,
+                "hp": 10259,
+                "level": 89
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 202,
+                "def": 751,
+                "hp": 10331,
+                "level": 90
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 228,
+                "def": 777,
+                "hp": 10688,
+                "level": 95
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 253,
+                "def": 803,
+                "hp": 11046,
+                "level": 100
+            }
+        ],
+        "birthday": "January 9th",
+        "constellation": "Rubeum Scutum",
+        "description": "O Empregado do Clã Kamisato e animado Mediador de Inazuma.",
+        "element": "Pyro",
+        "name": "Thoma",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_POLE"
+    },
+    "passives": {
+        "p1": {
+            "description": "Quando o seu próprio personagem ativo no campo de batalha obter ou renovar uma <color=#FFD780FF>Barreira Flamejante</color>, a Força do Escudo será aumentada em 5% e terá duração de 6s.\\nEsse efeito pode ser desencadeado no máximo uma vez a cada 0.3s, podendo acumular até 5 vezes.",
+            "icon": "UI_Talent_S_Tohma_05",
+            "name": "Armadura Imbricada"
+        },
+        "p2": {
+            "description": "O Dano causado pelo Colapso Ardente da <color=#FFD780FF>Grande Armadura Flamejante</color> é aumentado em 2.2% baseado na Vida Máxima de Thoma.",
+            "icon": "UI_Talent_S_Tohma_06",
+            "name": "Ataque Incinerador"
+        },
+        "p3": {
+            "description": "Quando você <color=#FFD780FF>pescar</color> com sucesso em Inazuma, possui 20% de chance de obter o dobro de peixe graças à ajuda de Thoma.",
+            "icon": "UI_Talent_S_Tohma_07",
+            "name": "Apaixonado Pela Pesca"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Thoma gira sua lança, retalhando através de seus adversários com fogos abrasadores que causam <color=#FF9999FF>Dano Pyro em uma AdE</color> que se entrelaçam e criam uma Armadura Flamejante.\\n\\n<color=#FFD780FF>Armadura Flamejante</color>\\nOs Ataques Normais dos personagens ativos afetados pela Armadura Flamejante irão desencadear Colapso Ardente que causa <color=#FF9999FF>Dano Pyro em uma AdE</color> e cria uma Barreira Flamejante.\\nColapso Ardente pode ser desencadeado a cada 1s.\\n\\nAs Barreiras Flamejantes criadas desta maneira, são idênticas àquelas criadas pela Habilidade Elemental de Thoma, Proteção das Chamas do Destino, exceto pela quantidade de Dano que elas podem absorver.\\nElas absorvem o <color=#FF9999FF>Dano Pyro</color> 250% mais efetivamente.\\nA absorção de Dano restante de uma Barreira Flamejante existente será acumulada e sua duração será renovada se outra Barreira Flamejante for obtida durante este tempo.\\n\\nA absorção máxima de Dano da Barreira não irá exceder uma determinada porcentagem baseada na Vida Máxima de Thoma.\\n\\nSe Thoma for derrotado, os efeitos da Armadura Flamejante serão dissipados.\\n\\n<i>\"Não vou esquecer minha promessa inicial. Que esta chama ardente proteja aqueles que eu prezo, e que nunca se apague.\"</i>",
+            "icon": "Skill_E_Tohma_01",
+            "multipliers": {
+                "Absorção de Escudo": [
+                    "1.14% do Limite da Vida + 110",
+                    "1.23% do Limite da Vida + 121",
+                    "1.32% do Limite da Vida + 133",
+                    "1.43% do Limite da Vida + 146",
+                    "1.52% do Limite da Vida + 160",
+                    "1.6% do Limite da Vida + 174",
+                    "1.72% do Limite da Vida + 190",
+                    "1.83% do Limite da Vida + 206",
+                    "1.94% do Limite da Vida + 224",
+                    "2.06% do Limite da Vida + 242",
+                    "2.17% do Limite da Vida + 261",
+                    "2.29% do Limite da Vida + 282",
+                    "2.43% do Limite da Vida + 303",
+                    "2.57% do Limite da Vida + 325",
+                    "2.72% do Limite da Vida + 348"
+                ],
+                "Dano de Habilidade": [
+                    "88%",
+                    "94.6%",
+                    "101.2%",
+                    "110%",
+                    "116.6%",
+                    "123.2%",
+                    "132%",
+                    "140.8%",
+                    "149.6%",
+                    "158.4%",
+                    "167.2%",
+                    "176%",
+                    "187%",
+                    "198%",
+                    "209%"
+                ],
+                "Dano do Colapso Ardente": [
+                    "58%",
+                    "62.35%",
+                    "66.7%",
+                    "72.5%",
+                    "76.85%",
+                    "81.2%",
+                    "87%",
+                    "92.8%",
+                    "98.6%",
+                    "104.4%",
+                    "110.2%",
+                    "116%",
+                    "123.25%",
+                    "130.5%",
+                    "137.75%"
+                ],
+                "Duração da Armadura Flamejante": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Duração do Escudo": [
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s"
+                ],
+                "Energia Elemental": [
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80"
+                ],
+                "Tempo de Recarga": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ]
+            },
+            "name": "Grande Armadura Flamejante"
+        },
+        "elementalskill": {
+            "description": "Thoma usa a ponta de sua lança como apoio para canalizar as chamas e executar um chute que causa <color=#FF9999FF>Dano Pyro em uma AdE</color> e desencadear uma Barreira Flamejante defensiva. No momento em que é desencadeada, a Barreira concederá a Thoma <color=#FF9999FF>Infusão Pyro</color>.\\nA Absorção de Dano da Barreira é baseada na Vida Máxima de Thoma.\\nA Barreira Flamejante tem as seguintes propriedades:\\nAbsorve o <color=#FF9999FF>Dano Pyro</color> 250% mais efetivamente.\\nA absorção de Dano restante de uma Barreira Flamejante existente será acumulada e sua duração será renovada se outra Barreira Flamejante for obtida durante este tempo.\\n\\nA absorção máxima de Dano da Barreira não irá exceder uma determinada porcentagem baseado na Vida Máxima de Thoma.\\n\\n<i>Como um convidado de longe, somente a paixão mais ardente permitiria dominar a arte pura e precisa da lança de Inazuma. O domínio de Thoma, de fato, não se limita a ser o \"estudante mais rápido\" ou \"um mestre da lança\", mas ele incorporou sua vontade de proteger os outros e de combater os inimigos em sua arte também.</i>",
+            "icon": "Skill_S_Tohma_01",
+            "multipliers": {
+                "Absorção de Escudo": [
+                    "7.2% do Limite da Vida Máxima + 693",
+                    "7.74% do Limite da Vida Máxima + 763",
+                    "8.28% do Limite da Vida Máxima + 838",
+                    "9% do Limite da Vida Máxima + 919",
+                    "9.54% do Limite da Vida Máxima + 1005",
+                    "10.08% do Limite da Vida Máxima + 1098",
+                    "10.8% do Limite da Vida Máxima + 1196",
+                    "11.52% do Limite da Vida Máxima + 1300",
+                    "12.24% do Limite da Vida Máxima + 1410",
+                    "12.96% do Limite da Vida Máxima + 1525",
+                    "13.68% do Limite da Vida Máxima + 1647",
+                    "14.4% do Limite da Vida Máxima + 1774",
+                    "15.3% do Limite da Vida Máxima + 1907",
+                    "16.2% do Limite da Vida Máxima + 2046",
+                    "17.1% do Limite da Vida Máxima + 2190"
+                ],
+                "Dano de Habilidade": [
+                    "146.4%",
+                    "157.38%",
+                    "168.36%",
+                    "183%",
+                    "193.98%",
+                    "204.96%",
+                    "219.6%",
+                    "234.24%",
+                    "248.88%",
+                    "263.52%",
+                    "278.16%",
+                    "292.8%",
+                    "311.1%",
+                    "329.4%",
+                    "347.7%"
+                ],
+                "Duração do Escudo": [
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s"
+                ],
+                "Limite Máximo de Absorção de Dano do Escudo": [
+                    "19.6% da Vida Máxima + 1887",
+                    "21.07% da Vida Máxima + 2076",
+                    "22.54% da Vida Máxima + 2281",
+                    "24.5% da Vida Máxima + 2501",
+                    "25.97% da Vida Máxima + 2737",
+                    "27.44% da Vida Máxima + 2989",
+                    "29.4% da Vida Máxima + 3256",
+                    "31.36% da Vida Máxima + 3539",
+                    "33.32% da Vida Máxima + 3838",
+                    "35.28% da Vida Máxima + 4153",
+                    "37.24% da Vida Máxima + 4483",
+                    "39.2% da Vida Máxima + 4829",
+                    "41.65% da Vida Máxima + 5191",
+                    "44.1% da Vida Máxima + 5568",
+                    "46.55% da Vida Máxima + 5962"
+                ],
+                "Tempo de Recarga": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ]
+            },
+            "name": "Proteção das Chamas do Destino"
+        },
+        "leveling": {
+            "books": {
+                "104320": 9,
+                "104321": 63,
+                "104322": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113026": 18
+            },
+            "worldmonster": {
+                "112035": 18,
+                "112036": 66,
+                "112037": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 4 golpes com a lança.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome uma certa quantidade de Stamina para se lançar para frente, infligindo Dano em seu trajeto.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+            "icon": "Skill_A_03",
+            "multipliers": {
+                "Consumo de Stamina do Ataque Carregado": [
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25"
+                ],
+                "Dano Durante a Queda": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ],
+                "Dano de Ataque Carregado": [
+                    "112.75%",
+                    "121.92%",
+                    "131.1%",
+                    "144.21%",
+                    "153.39%",
+                    "163.87%",
+                    "178.3%",
+                    "192.72%",
+                    "207.14%",
+                    "222.87%",
+                    "238.6%",
+                    "254.33%",
+                    "270.07%",
+                    "285.8%",
+                    "301.53%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Dano do 1° Golpe": [
+                    "44.39%",
+                    "48.01%",
+                    "51.62%",
+                    "56.78%",
+                    "60.4%",
+                    "64.53%",
+                    "70.2%",
+                    "75.88%",
+                    "81.56%",
+                    "87.75%",
+                    "93.95%",
+                    "100.14%",
+                    "106.34%",
+                    "112.53%",
+                    "118.73%"
+                ],
+                "Dano do 2° Golpe": [
+                    "43.63%",
+                    "47.18%",
+                    "50.73%",
+                    "55.8%",
+                    "59.35%",
+                    "63.41%",
+                    "68.99%",
+                    "74.57%",
+                    "80.15%",
+                    "86.24%",
+                    "92.33%",
+                    "98.42%",
+                    "104.5%",
+                    "110.59%",
+                    "116.68%"
+                ],
+                "Dano do 3° Golpe": [
+                    "26.79%*2",
+                    "28.97%*2",
+                    "31.15%*2",
+                    "34.26%*2",
+                    "36.45%*2",
+                    "38.94%*2",
+                    "42.36%*2",
+                    "45.79%*2",
+                    "49.22%*2",
+                    "52.96%*2",
+                    "56.69%*2",
+                    "60.43%*2",
+                    "64.17%*2",
+                    "67.91%*2",
+                    "71.64%*2"
+                ],
+                "Dano do 4° Golpe": [
+                    "67.36%",
+                    "72.84%",
+                    "78.32%",
+                    "86.15%",
+                    "91.63%",
+                    "97.9%",
+                    "106.52%",
+                    "115.13%",
+                    "123.75%",
+                    "133.14%",
+                    "142.54%",
+                    "151.94%",
+                    "161.34%",
+                    "170.74%",
+                    "180.14%"
+                ]
+            },
+            "name": "Poder da Lança Veloz"
+        }
+    }
+}

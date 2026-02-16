@@ -1,0 +1,1250 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104171": 1,
+            "104172": 9,
+            "104173": 9,
+            "104174": 6
+        },
+        "elitemonster": {
+            "113065": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101249": 168
+        },
+        "worldmonster": {
+            "112104": 18,
+            "112105": 30,
+            "112106": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "ExtraAttack_Bullet",
+            "poise": "LV5/120"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "ExtraAttack_Bullet",
+            "poise": "LV5/120"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt",
+            "poise": "LV3/75"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt",
+            "poise": "LV3/75"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "Gadget_ElementalArt_Top",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "Gadget_ElementalArt_Top",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV5/150"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Kachina_Constellation_6 (!)",
+            "name": "Constellation_6",
+            "poise": "LV5/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "When Kachina mounts or dismounts <color=#FFD780FF>Turbo Twirly</color>, she will absorb nearby Elemental Shards created by Crystallize.\\nAdditionally, when a party member picks up such a Shard, or triggers Lunar-Crystallize reactions, 3 Energy will be restored to Kachina. Energy can be restored this way once every 5s.",
+            "icon": "UI_Talent_S_Kachina_01",
+            "name": "Shards Are Gems Too"
+        },
+        "const2": {
+            "description": "When Kachina uses <color=#FFD780FF>\"Time to Get Serious!\"</color>, she will regain 20 Nightsoul points. If there is no <color=#FFD780FF>Turbo Twirly</color> belonging to her on the field, she will enter Nightsoul's Blessing and summon one.",
+            "icon": "UI_Talent_S_Kachina_02",
+            "name": "Never Leave Home Without... Turbo Twirly"
+        },
+        "const3": {
+            "description": "Increases the Level of <color=#FFD780FF>Go, Go Turbo Twirly!</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Kachina_01",
+            "name": "Improved Stabilizer"
+        },
+        "const4": {
+            "description": "When there are 1/2/3/4 (or more) opponents within the Turbo Drill Field created by <color=#FFD780FF>\"Time to Get Serious!\"</color>, the active character within the field gains 8%/12%/16%/20% increased DEF.",
+            "icon": "UI_Talent_S_Kachina_03",
+            "name": "More Foes, More Caution"
+        },
+        "const5": {
+            "description": "Increases the Level of <color=#FFD780FF>Time to Get Serious!</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Kachina_02",
+            "name": "All I've Collected Till Now"
+        },
+        "const6": {
+            "description": "When your active character's Shield is replaced or destroyed for any reason, Kachina will deal 200% of her DEF as <color=#FFE699FF>AoE Geo DMG</color>. This effect can be triggered once every 5s.",
+            "icon": "UI_Talent_S_Kachina_04",
+            "name": "This Time, I've Gotta Win"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.2s",
+            "chance": "66%",
+            "particles": "1",
+            "source": "ElementalArt_DropBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Kachina",
+        "forward": "UI_AvatarIcon_Kachina"
+    },
+    "info": {
+        "attributes": [
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 18,
+                "def": 66,
+                "hp": 989,
+                "level": 1
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 72,
+                "hp": 1071,
+                "level": 2
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 77,
+                "hp": 1153,
+                "level": 3
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 23,
+                "def": 83,
+                "hp": 1235,
+                "level": 4
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 88,
+                "hp": 1316,
+                "level": 5
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 94,
+                "hp": 1398,
+                "level": 6
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 99,
+                "hp": 1479,
+                "level": 7
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 105,
+                "hp": 1561,
+                "level": 8
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 110,
+                "hp": 1643,
+                "level": 9
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 116,
+                "hp": 1724,
+                "level": 10
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 121,
+                "hp": 1806,
+                "level": 11
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 127,
+                "hp": 1888,
+                "level": 12
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 132,
+                "hp": 1970,
+                "level": 13
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 138,
+                "hp": 2051,
+                "level": 14
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 143,
+                "hp": 2133,
+                "level": 15
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 149,
+                "hp": 2215,
+                "level": 16
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 154,
+                "hp": 2296,
+                "level": 17
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 160,
+                "hp": 2378,
+                "level": 18
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 45,
+                "def": 165,
+                "hp": 2459,
+                "level": 19
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 47,
+                "def": 171,
+                "hp": 2541,
+                "level": 20
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 62,
+                "def": 226,
+                "hp": 3362,
+                "level": 21
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 63,
+                "def": 231,
+                "hp": 3444,
+                "level": 22
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 65,
+                "def": 237,
+                "hp": 3526,
+                "level": 23
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 66,
+                "def": 242,
+                "hp": 3607,
+                "level": 24
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 68,
+                "def": 248,
+                "hp": 3689,
+                "level": 25
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 69,
+                "def": 253,
+                "hp": 3770,
+                "level": 26
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 259,
+                "hp": 3852,
+                "level": 27
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 72,
+                "def": 264,
+                "hp": 3933,
+                "level": 28
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 74,
+                "def": 270,
+                "hp": 4016,
+                "level": 29
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 75,
+                "def": 275,
+                "hp": 4097,
+                "level": 30
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 77,
+                "def": 281,
+                "hp": 4179,
+                "level": 31
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 78,
+                "def": 286,
+                "hp": 4261,
+                "level": 32
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 80,
+                "def": 292,
+                "hp": 4342,
+                "level": 33
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 81,
+                "def": 297,
+                "hp": 4424,
+                "level": 34
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 83,
+                "def": 303,
+                "hp": 4505,
+                "level": 35
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 84,
+                "def": 308,
+                "hp": 4587,
+                "level": 36
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 86,
+                "def": 314,
+                "hp": 4669,
+                "level": 37
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 87,
+                "def": 319,
+                "hp": 4751,
+                "level": 38
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 89,
+                "def": 325,
+                "hp": 4833,
+                "level": 39
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 90,
+                "def": 330,
+                "hp": 4914,
+                "level": 40
+            },
+            {
+                "Geo%": "6",
+                "ascension": 2,
+                "atk": 101,
+                "def": 371,
+                "hp": 5521,
+                "level": 41
+            },
+            {
+                "Geo%": "6",
+                "ascension": 2,
+                "atk": 103,
+                "def": 376,
+                "hp": 5602,
+                "level": 42
+            },
+            {
+                "Geo%": "6",
+                "ascension": 2,
+                "atk": 104,
+                "def": 382,
+                "hp": 5684,
+                "level": 43
+            },
+            {
+                "Geo%": "6",
+                "ascension": 2,
+                "atk": 106,
+                "def": 387,
+                "hp": 5765,
+                "level": 44
+            },
+            {
+                "Geo%": "6",
+                "ascension": 2,
+                "atk": 107,
+                "def": 393,
+                "hp": 5848,
+                "level": 45
+            },
+            {
+                "Geo%": "6",
+                "ascension": 2,
+                "atk": 109,
+                "def": 398,
+                "hp": 5930,
+                "level": 46
+            },
+            {
+                "Geo%": "6",
+                "ascension": 2,
+                "atk": 110,
+                "def": 404,
+                "hp": 6011,
+                "level": 47
+            },
+            {
+                "Geo%": "6",
+                "ascension": 2,
+                "atk": 112,
+                "def": 409,
+                "hp": 6093,
+                "level": 48
+            },
+            {
+                "Geo%": "6",
+                "ascension": 2,
+                "atk": 113,
+                "def": 415,
+                "hp": 6174,
+                "level": 49
+            },
+            {
+                "Geo%": "6",
+                "ascension": 2,
+                "atk": 115,
+                "def": 420,
+                "hp": 6256,
+                "level": 50
+            },
+            {
+                "Geo%": "12",
+                "ascension": 3,
+                "atk": 129,
+                "def": 473,
+                "hp": 7037,
+                "level": 51
+            },
+            {
+                "Geo%": "12",
+                "ascension": 3,
+                "atk": 131,
+                "def": 478,
+                "hp": 7120,
+                "level": 52
+            },
+            {
+                "Geo%": "12",
+                "ascension": 3,
+                "atk": 132,
+                "def": 484,
+                "hp": 7202,
+                "level": 53
+            },
+            {
+                "Geo%": "12",
+                "ascension": 3,
+                "atk": 134,
+                "def": 489,
+                "hp": 7283,
+                "level": 54
+            },
+            {
+                "Geo%": "12",
+                "ascension": 3,
+                "atk": 135,
+                "def": 495,
+                "hp": 7365,
+                "level": 55
+            },
+            {
+                "Geo%": "12",
+                "ascension": 3,
+                "atk": 137,
+                "def": 500,
+                "hp": 7446,
+                "level": 56
+            },
+            {
+                "Geo%": "12",
+                "ascension": 3,
+                "atk": 138,
+                "def": 506,
+                "hp": 7528,
+                "level": 57
+            },
+            {
+                "Geo%": "12",
+                "ascension": 3,
+                "atk": 140,
+                "def": 511,
+                "hp": 7609,
+                "level": 58
+            },
+            {
+                "Geo%": "12",
+                "ascension": 3,
+                "atk": 141,
+                "def": 517,
+                "hp": 7691,
+                "level": 59
+            },
+            {
+                "Geo%": "12",
+                "ascension": 3,
+                "atk": 143,
+                "def": 522,
+                "hp": 7773,
+                "level": 60
+            },
+            {
+                "Geo%": "12",
+                "ascension": 4,
+                "atk": 154,
+                "def": 563,
+                "hp": 8380,
+                "level": 61
+            },
+            {
+                "Geo%": "12",
+                "ascension": 4,
+                "atk": 155,
+                "def": 568,
+                "hp": 8462,
+                "level": 62
+            },
+            {
+                "Geo%": "12",
+                "ascension": 4,
+                "atk": 157,
+                "def": 574,
+                "hp": 8543,
+                "level": 63
+            },
+            {
+                "Geo%": "12",
+                "ascension": 4,
+                "atk": 158,
+                "def": 579,
+                "hp": 8625,
+                "level": 64
+            },
+            {
+                "Geo%": "12",
+                "ascension": 4,
+                "atk": 160,
+                "def": 585,
+                "hp": 8706,
+                "level": 65
+            },
+            {
+                "Geo%": "12",
+                "ascension": 4,
+                "atk": 161,
+                "def": 590,
+                "hp": 8788,
+                "level": 66
+            },
+            {
+                "Geo%": "12",
+                "ascension": 4,
+                "atk": 163,
+                "def": 596,
+                "hp": 8870,
+                "level": 67
+            },
+            {
+                "Geo%": "12",
+                "ascension": 4,
+                "atk": 164,
+                "def": 601,
+                "hp": 8952,
+                "level": 68
+            },
+            {
+                "Geo%": "12",
+                "ascension": 4,
+                "atk": 166,
+                "def": 607,
+                "hp": 9034,
+                "level": 69
+            },
+            {
+                "Geo%": "12",
+                "ascension": 4,
+                "atk": 167,
+                "def": 612,
+                "hp": 9115,
+                "level": 70
+            },
+            {
+                "Geo%": "18",
+                "ascension": 5,
+                "atk": 179,
+                "def": 653,
+                "hp": 9722,
+                "level": 71
+            },
+            {
+                "Geo%": "18",
+                "ascension": 5,
+                "atk": 180,
+                "def": 658,
+                "hp": 9803,
+                "level": 72
+            },
+            {
+                "Geo%": "18",
+                "ascension": 5,
+                "atk": 182,
+                "def": 664,
+                "hp": 9885,
+                "level": 73
+            },
+            {
+                "Geo%": "18",
+                "ascension": 5,
+                "atk": 183,
+                "def": 669,
+                "hp": 9967,
+                "level": 74
+            },
+            {
+                "Geo%": "18",
+                "ascension": 5,
+                "atk": 184,
+                "def": 675,
+                "hp": 10048,
+                "level": 75
+            },
+            {
+                "Geo%": "18",
+                "ascension": 5,
+                "atk": 186,
+                "def": 680,
+                "hp": 10131,
+                "level": 76
+            },
+            {
+                "Geo%": "18",
+                "ascension": 5,
+                "atk": 187,
+                "def": 686,
+                "hp": 10212,
+                "level": 77
+            },
+            {
+                "Geo%": "18",
+                "ascension": 5,
+                "atk": 189,
+                "def": 691,
+                "hp": 10294,
+                "level": 78
+            },
+            {
+                "Geo%": "18",
+                "ascension": 5,
+                "atk": 190,
+                "def": 697,
+                "hp": 10375,
+                "level": 79
+            },
+            {
+                "Geo%": "18",
+                "ascension": 5,
+                "atk": 192,
+                "def": 702,
+                "hp": 10457,
+                "level": 80
+            },
+            {
+                "Geo%": "24",
+                "ascension": 6,
+                "atk": 203,
+                "def": 743,
+                "hp": 11064,
+                "level": 81
+            },
+            {
+                "Geo%": "24",
+                "ascension": 6,
+                "atk": 205,
+                "def": 748,
+                "hp": 11145,
+                "level": 82
+            },
+            {
+                "Geo%": "24",
+                "ascension": 6,
+                "atk": 206,
+                "def": 754,
+                "hp": 11227,
+                "level": 83
+            },
+            {
+                "Geo%": "24",
+                "ascension": 6,
+                "atk": 208,
+                "def": 759,
+                "hp": 11309,
+                "level": 84
+            },
+            {
+                "Geo%": "24",
+                "ascension": 6,
+                "atk": 209,
+                "def": 765,
+                "hp": 11391,
+                "level": 85
+            },
+            {
+                "Geo%": "24",
+                "ascension": 6,
+                "atk": 211,
+                "def": 770,
+                "hp": 11472,
+                "level": 86
+            },
+            {
+                "Geo%": "24",
+                "ascension": 6,
+                "atk": 212,
+                "def": 776,
+                "hp": 11554,
+                "level": 87
+            },
+            {
+                "Geo%": "24",
+                "ascension": 6,
+                "atk": 214,
+                "def": 781,
+                "hp": 11635,
+                "level": 88
+            },
+            {
+                "Geo%": "24",
+                "ascension": 6,
+                "atk": 215,
+                "def": 787,
+                "hp": 11717,
+                "level": 89
+            },
+            {
+                "Geo%": "24",
+                "ascension": 6,
+                "atk": 217,
+                "def": 792,
+                "hp": 11799,
+                "level": 90
+            },
+            {
+                "Geo%": "24",
+                "ascension": 6,
+                "atk": 244,
+                "def": 820,
+                "hp": 12207,
+                "level": 95
+            },
+            {
+                "Geo%": "24",
+                "ascension": 6,
+                "atk": 272,
+                "def": 847,
+                "hp": 12615,
+                "level": 100
+            }
+        ],
+        "birthday": "April 22nd",
+        "constellation": "Ochotona Princeps",
+        "description": "A young warrior of the Nanatzcayan, given the Ancient Name of \"Uthabiti.\" Kind-hearted and insatiably persistent, she grows stronger and more capable with each setback she faces.",
+        "element": "Geo",
+        "name": "Kachina",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_POLE"
+    },
+    "passives": {
+        "p1": {
+            "description": "After nearby party members trigger a Nightsoul Burst, Kachina's <color=#FFE699FF>Geo DMG Bonus</color> increases by 20% for 12s.",
+            "icon": "UI_Talent_S_Kachina_05",
+            "name": "Mountain Echoes"
+        },
+        "p2": {
+            "description": "<color=#FFD780FF>Turbo Twirly</color>'s DMG is increased by 20% of Kachina's DEF.",
+            "icon": "UI_Talent_S_Kachina_06",
+            "name": "The Weight of Stone"
+        },
+        "p3": {
+            "description": "After her Nightsoul points are depleted, Kachina will switch to consuming Phlogiston to maintain her Nightsoul's Blessing.\\nWhile in an area with Phlogiston Mechanics within Natlan, she can use Nightsoul Transmission: Kachina. When the active character is currently sprinting, climbing, in a movement mode caused by certain Talents, or at a certain height in the air, the following will trigger when switching to Kachina: Kachina will enter the Nightsoul's Blessing state and ride <color=#FFD780FF>Turbo Twirly</color> when taking the field while gaining 30 Nightsoul points. Nightsoul Transmission can be triggered once every 10s by your own team.\\n\\nAdditionally, while in Natlan, Kachina will consume 90% less Stamina when climbing while riding <color=#FFD780FF>Turbo Twirly</color>.",
+            "icon": "UI_Talent_S_Kachina_07",
+            "name": "Night Realm's Gift: Heart of Unity"
+        },
+        "p4": {
+            "description": "While in an area with Phlogiston Mechanics within Natlan, 20 Stamina will be restored when interacting with some harvestable items. Additionally, the location of nearby <color=#FFD780FF>resources unique to Natlan</color> will appear on your mini-map.",
+            "icon": "UI_Talent_S_Kachina_08",
+            "name": "Boon of Crystal Flame"
+        }
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Striking the ground, Kachina deals <color=#FFE699FF>AoE Geo DMG</color> based on her DEF and creates a Turbo Drill Field.\\nThe Field increases Turbo Twirly's attack AoE and its Movement SPD when Kachina is riding it.\\n\\nIf Kachina's own Turbo Twirly is present when this is used, the Turbo Twirly will be summoned to her side.\\n\\n<i>Just as nervous performers might imagine audience members as wooden puppets, Kachina imagines that her opponents are the loveliest of gem-bearing ores — the kind you'd be proud to bring home and hoard.</i>",
+            "icon": "Skill_E_Kachina_01",
+            "multipliers": {
+                "CD": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ],
+                "Energy Cost": [
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70"
+                ],
+                "Field Duration": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "Skill DMG": [
+                    "380.57% DEF",
+                    "413.66% DEF",
+                    "442.52% DEF",
+                    "481% DEF",
+                    "509.86% DEF",
+                    "538.72% DEF",
+                    "577.2% DEF",
+                    "615.68% DEF",
+                    "654.16% DEF",
+                    "692.64% DEF",
+                    "731.12% DEF",
+                    "769.6% DEF",
+                    "817.7% DEF",
+                    "865.8% DEF",
+                    "913.9% DEF"
+                ]
+            },
+            "name": "Time to Get Serious!"
+        },
+        "elementalskill": {
+            "description": "Fight alongside the turbo trusty Turbo Twirly!\\nSummons Turbo Twirly. When the skill is Held and released, Kachina will summon and ride Turbo Twirly.\\nAfter the Skill is used, Kachina will gain 60 Nightsoul points and enter the Nightsoul's Blessing state.\\n\\n<color=#FFD780FF>Nightsoul's Blessing: Kachina</color>\\nTurbo Twirly's various actions consume Kachina's Nightsoul points.\\nThe Nightsoul's Blessing state will end when these points have been depleted.\\n\\n<color=#FFD780FF>Turbo Twirly</color>\\nCan exist independently or be ridden and operated by Kachina. When Turbo Twirly is present, Kachina's Elemental Skill, \"Go, Go Turbo Twirly!\", will change to an option to Mount/Dismount Turbo Twirly.\\n·When present independent of Kachina, it will slam the ground at intervals, dealing Nightsoul-aligned <color=#FFE699FF>AoE Geo DMG</color> based on Kachina's DEF.\\n·When Kachina is riding Turbo Twirly, she can control it to move and climb swiftly, and use Normal Attacks to slam the ground, dealing Nightsoul-aligned <color=#FFE699FF>AoE Geo DMG</color> based on Kachina's DEF.\\n\\nTurbo Twirly will disappear once Kachina's Nightsoul's Blessing state ends, and it is considered a Geo Construct. Only 1 Turbo Twirly created by Kachina herself can exist on the field at any one time.\\n\\n<i>Turbo Twirly only looks like a top — it is, in fact, a drill that can split even the strongest rock asunder!</i>",
+            "icon": "Skill_S_Kachina_01",
+            "multipliers": {
+                "CD": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ],
+                "Nightsoul Point Limit": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "Turbo Twirly Independent DMG": [
+                    "63.76% DEF",
+                    "68.54% DEF",
+                    "73.32% DEF",
+                    "79.7% DEF",
+                    "84.48% DEF",
+                    "89.26% DEF",
+                    "95.64% DEF",
+                    "102.02% DEF",
+                    "108.39% DEF",
+                    "114.77% DEF",
+                    "121.14% DEF",
+                    "127.52% DEF",
+                    "135.49% DEF",
+                    "143.46% DEF",
+                    "151.43% DEF"
+                ],
+                "Turbo Twirly Mounted DMG": [
+                    "87.76% DEF",
+                    "94.34% DEF",
+                    "100.92% DEF",
+                    "109.7% DEF",
+                    "116.28% DEF",
+                    "122.86% DEF",
+                    "131.64% DEF",
+                    "140.42% DEF",
+                    "149.19% DEF",
+                    "157.97% DEF",
+                    "166.74% DEF",
+                    "175.52% DEF",
+                    "186.49% DEF",
+                    "197.46% DEF",
+                    "208.43% DEF"
+                ]
+            },
+            "name": "Go, Go Turbo Twirly!"
+        },
+        "leveling": {
+            "books": {
+                "104353": 9,
+                "104354": 63,
+                "104355": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113060": 18
+            },
+            "worldmonster": {
+                "112104": 18,
+                "112105": 66,
+                "112106": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 consecutive spear strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+            "icon": "Skill_A_03",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "49.4%",
+                    "53.42%",
+                    "57.44%",
+                    "63.18%",
+                    "67.2%",
+                    "71.8%",
+                    "78.12%",
+                    "84.44%",
+                    "90.76%",
+                    "97.65%",
+                    "104.54%",
+                    "111.43%",
+                    "118.33%",
+                    "125.22%",
+                    "132.11%"
+                ],
+                "2-Hit DMG": [
+                    "27.57%+30.63%",
+                    "29.81%+33.13%",
+                    "32.06%+35.62%",
+                    "35.26%+39.18%",
+                    "37.51%+41.67%",
+                    "40.07%+44.52%",
+                    "43.6%+48.44%",
+                    "47.12%+52.36%",
+                    "50.65%+56.28%",
+                    "54.5%+60.55%",
+                    "58.34%+64.83%",
+                    "62.19%+69.1%",
+                    "66.04%+73.38%",
+                    "69.88%+77.65%",
+                    "73.73%+81.92%"
+                ],
+                "3-Hit DMG": [
+                    "70.43%",
+                    "76.16%",
+                    "81.89%",
+                    "90.08%",
+                    "95.81%",
+                    "102.37%",
+                    "111.37%",
+                    "120.38%",
+                    "129.39%",
+                    "139.22%",
+                    "149.04%",
+                    "158.87%",
+                    "168.7%",
+                    "178.52%",
+                    "188.35%"
+                ],
+                "4-Hit DMG": [
+                    "77.44%",
+                    "83.74%",
+                    "90.04%",
+                    "99.05%",
+                    "105.35%",
+                    "112.55%",
+                    "122.46%",
+                    "132.36%",
+                    "142.27%",
+                    "153.07%",
+                    "163.88%",
+                    "174.68%",
+                    "185.49%",
+                    "196.29%",
+                    "207.1%"
+                ],
+                "Charged Attack DMG": [
+                    "112.66%",
+                    "121.83%",
+                    "131%",
+                    "144.1%",
+                    "153.27%",
+                    "163.75%",
+                    "178.16%",
+                    "192.57%",
+                    "206.98%",
+                    "222.7%",
+                    "238.42%",
+                    "254.14%",
+                    "269.86%",
+                    "285.58%",
+                    "301.3%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25"
+                ],
+                "Low/High Plunge DMG": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Plunge DMG": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ]
+            },
+            "name": "Cragbiter"
+        }
+    }
+}

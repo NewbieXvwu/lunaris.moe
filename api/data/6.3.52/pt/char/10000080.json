@@ -1,0 +1,1315 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104161": 1,
+            "104162": 9,
+            "104163": 9,
+            "104164": 6
+        },
+        "elitemonster": {
+            "113044": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100021": 168
+        },
+        "worldmonster": {
+            "112032": 18,
+            "112033": 30,
+            "112034": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "ExtraAttack_Bullet",
+            "poise": "LV5/120"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "ExtraAttack_Bullet",
+            "poise": "LV6/120"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_NoChargeShoot",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_NoCharge_Bullet_Main",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Charge_Bullet_Main",
+            "poise": "LV2/100"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Charge_Bullet_Sub",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "O estado Alma do Vento criado por <color=#FFD780FF>Redemoinho Estelar Gelado</color> reduzirá o intervalo de regeneração de Vida do estado Pena do Falcão de <color=#FFD780FF>Canção da Pena do Céu</color>. A proporção da redução será equivalente a proporção de aumento de Vel. de ATQ do estado Alma do Vento.",
+            "icon": "UI_Talent_S_Mika_01",
+            "name": "Contingência Inesperada"
+        },
+        "const2": {
+            "description": "Quando a Flecha Gélida de <color=#FFD780FF>Redemoinho Estelar Gelado</color> atinge o primeiro inimigo, ou quando o Sinal Estelar Gélido atinge um inimigo, gerará 1 acúmulo do efeito Detector do Talento de Ascensão \"Supressão de Disparo Rápido\".\\nÉ necessário desbloquear o Talento de Ascensão \"Supressão de Disparo Rápido\".",
+            "icon": "UI_Talent_S_Mika_02",
+            "name": "Jornada Acompanhada"
+        },
+        "const3": {
+            "description": "Aumenta o nível de <color=#FFD780FF>Canção da Pena do Céu</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Mika_01",
+            "name": "Batedor Veterano"
+        },
+        "const4": {
+            "description": "Quando o estado Pena do Falcão de <color=#FFD780FF>Canção da Pena do Céu</color> de Mika cura os outros personagens da equipe, regenerará 3 de Energia Elemental para Mika. É possível regenerar Energia Elemental em um estado Pena do Falcão de Canção da Pena do Céu até 5 vezes.",
+            "icon": "UI_Talent_S_Mika_03",
+            "name": "Bênção do Sol Gelado"
+        },
+        "const5": {
+            "description": "Aumenta o nível do <color=#FFD780FF>Redemoinho Estelar Gelado</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Mika_02",
+            "name": "Flecha Sinalizadora"
+        },
+        "const6": {
+            "description": "Aumenta em 1 o número máximo de acúmulos do efeito Detector do estado Alma do Vento de <color=#FFD780FF>Redemoinho Estelar Gelado</color>. É necessário desbloquear o Talento de Ascensão \"Supressão de Disparo Rápido\".\\nAlém disso, personagens ativos sob o estado Alma do Vento obterão 60% de aumento de Dano Físico CRIT.",
+            "icon": "UI_Talent_S_Mika_04",
+            "name": "Conselheiro Acompanhante"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.15s",
+            "chance": "100%",
+            "particles": "4",
+            "source": "Ice_ElemBall_1"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Mika",
+        "forward": "UI_AvatarIcon_Mika"
+    },
+    "info": {
+        "attributes": [
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 60,
+                "hp": 1049,
+                "level": 1
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 65,
+                "hp": 1136,
+                "level": 2
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 70,
+                "hp": 1222,
+                "level": 3
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 23,
+                "def": 75,
+                "hp": 1309,
+                "level": 4
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 80,
+                "hp": 1395,
+                "level": 5
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 84,
+                "hp": 1482,
+                "level": 6
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 89,
+                "hp": 1568,
+                "level": 7
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 94,
+                "hp": 1655,
+                "level": 8
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 99,
+                "hp": 1742,
+                "level": 9
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 104,
+                "hp": 1828,
+                "level": 10
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 109,
+                "hp": 1915,
+                "level": 11
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 114,
+                "hp": 2001,
+                "level": 12
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 119,
+                "hp": 2088,
+                "level": 13
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 124,
+                "hp": 2174,
+                "level": 14
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 40,
+                "def": 129,
+                "hp": 2261,
+                "level": 15
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 134,
+                "hp": 2348,
+                "level": 16
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 43,
+                "def": 139,
+                "hp": 2434,
+                "level": 17
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 45,
+                "def": 144,
+                "hp": 2521,
+                "level": 18
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 46,
+                "def": 149,
+                "hp": 2607,
+                "level": 19
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 48,
+                "def": 154,
+                "hp": 2694,
+                "level": 20
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 64,
+                "def": 203,
+                "hp": 3563,
+                "level": 21
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 65,
+                "def": 208,
+                "hp": 3650,
+                "level": 22
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 67,
+                "def": 213,
+                "hp": 3737,
+                "level": 23
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 68,
+                "def": 218,
+                "hp": 3823,
+                "level": 24
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 70,
+                "def": 223,
+                "hp": 3910,
+                "level": 25
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 228,
+                "hp": 3996,
+                "level": 26
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 73,
+                "def": 233,
+                "hp": 4083,
+                "level": 27
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 74,
+                "def": 238,
+                "hp": 4169,
+                "level": 28
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 76,
+                "def": 243,
+                "hp": 4256,
+                "level": 29
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 77,
+                "def": 248,
+                "hp": 4342,
+                "level": 30
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 79,
+                "def": 253,
+                "hp": 4429,
+                "level": 31
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 81,
+                "def": 258,
+                "hp": 4516,
+                "level": 32
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 82,
+                "def": 262,
+                "hp": 4602,
+                "level": 33
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 84,
+                "def": 267,
+                "hp": 4689,
+                "level": 34
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 85,
+                "def": 272,
+                "hp": 4775,
+                "level": 35
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 87,
+                "def": 277,
+                "hp": 4862,
+                "level": 36
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 88,
+                "def": 282,
+                "hp": 4948,
+                "level": 37
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 90,
+                "def": 287,
+                "hp": 5035,
+                "level": 38
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 91,
+                "def": 292,
+                "hp": 5122,
+                "level": 39
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 93,
+                "def": 297,
+                "hp": 5208,
+                "level": 40
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 104,
+                "def": 334,
+                "hp": 5852,
+                "level": 41
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 106,
+                "def": 339,
+                "hp": 5938,
+                "level": 42
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 107,
+                "def": 344,
+                "hp": 6025,
+                "level": 43
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 109,
+                "def": 349,
+                "hp": 6111,
+                "level": 44
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 111,
+                "def": 353,
+                "hp": 6198,
+                "level": 45
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 112,
+                "def": 358,
+                "hp": 6285,
+                "level": 46
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 114,
+                "def": 363,
+                "hp": 6371,
+                "level": 47
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 115,
+                "def": 368,
+                "hp": 6458,
+                "level": 48
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 117,
+                "def": 373,
+                "hp": 6544,
+                "level": 49
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 118,
+                "def": 378,
+                "hp": 6631,
+                "level": 50
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 133,
+                "def": 425,
+                "hp": 7459,
+                "level": 51
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 135,
+                "def": 430,
+                "hp": 7546,
+                "level": 52
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 136,
+                "def": 435,
+                "hp": 7633,
+                "level": 53
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 138,
+                "def": 440,
+                "hp": 7719,
+                "level": 54
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 139,
+                "def": 445,
+                "hp": 7806,
+                "level": 55
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 141,
+                "def": 450,
+                "hp": 7892,
+                "level": 56
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 142,
+                "def": 455,
+                "hp": 7979,
+                "level": 57
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 144,
+                "def": 460,
+                "hp": 8065,
+                "level": 58
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 145,
+                "def": 465,
+                "hp": 8152,
+                "level": 59
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 147,
+                "def": 470,
+                "hp": 8239,
+                "level": 60
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 158,
+                "def": 507,
+                "hp": 8882,
+                "level": 61
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 160,
+                "def": 511,
+                "hp": 8969,
+                "level": 62
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 161,
+                "def": 516,
+                "hp": 9055,
+                "level": 63
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 163,
+                "def": 521,
+                "hp": 9142,
+                "level": 64
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 165,
+                "def": 526,
+                "hp": 9228,
+                "level": 65
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 166,
+                "def": 531,
+                "hp": 9315,
+                "level": 66
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 168,
+                "def": 536,
+                "hp": 9402,
+                "level": 67
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 169,
+                "def": 541,
+                "hp": 9488,
+                "level": 68
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 171,
+                "def": 546,
+                "hp": 9575,
+                "level": 69
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 172,
+                "def": 551,
+                "hp": 9661,
+                "level": 70
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 184,
+                "def": 588,
+                "hp": 10304,
+                "level": 71
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 185,
+                "def": 593,
+                "hp": 10390,
+                "level": 72
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 187,
+                "def": 598,
+                "hp": 10477,
+                "level": 73
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 188,
+                "def": 602,
+                "hp": 10564,
+                "level": 74
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 190,
+                "def": 607,
+                "hp": 10650,
+                "level": 75
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 191,
+                "def": 612,
+                "hp": 10737,
+                "level": 76
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 193,
+                "def": 617,
+                "hp": 10823,
+                "level": 77
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 195,
+                "def": 622,
+                "hp": 10910,
+                "level": 78
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 196,
+                "def": 627,
+                "hp": 10996,
+                "level": 79
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 198,
+                "def": 632,
+                "hp": 11083,
+                "level": 80
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 209,
+                "def": 669,
+                "hp": 11727,
+                "level": 81
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 211,
+                "def": 674,
+                "hp": 11813,
+                "level": 82
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 212,
+                "def": 679,
+                "hp": 11900,
+                "level": 83
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 214,
+                "def": 684,
+                "hp": 11986,
+                "level": 84
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 215,
+                "def": 689,
+                "hp": 12073,
+                "level": 85
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 217,
+                "def": 693,
+                "hp": 12159,
+                "level": 86
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 218,
+                "def": 698,
+                "hp": 12246,
+                "level": 87
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 220,
+                "def": 703,
+                "hp": 12332,
+                "level": 88
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 221,
+                "def": 708,
+                "hp": 12419,
+                "level": 89
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 223,
+                "def": 713,
+                "hp": 12506,
+                "level": 90
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 251,
+                "def": 738,
+                "hp": 12938,
+                "level": 95
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 280,
+                "def": 763,
+                "hp": 13371,
+                "level": 100
+            }
+        ],
+        "birthday": "August 11th",
+        "constellation": "Palumbus",
+        "description": "Um jovem cavaleiro nascido em uma família comum. Ele serve como Topógrafo da Linha de Frente na sua companhia. É tímido e cauteloso.",
+        "element": "Cryo",
+        "name": "Mika",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_POLE"
+    },
+    "passives": {
+        "p1": {
+            "description": "O estado Alma do Vento de <color=#FFD780FF>Redemoinho Estelar Gelado</color> concederá nas seguintes circunstâncias aos personagens ativos o efeito Detector, aumentando o Dano Físico causado em 10%:\\n· Quando a Flecha Gélida atinge mais de um inimigo, gera 1 acúmulo do efeito Detector para cada inimigo adicional atingido;\\n· Quando um Fragmento Estelar Gélido atinge um inimigo, gera 1 acúmulo do efeito Detector. Cada Fragmento Estelar Gélido só pode desencadear este efeito uma vez.\\n\\nÉ possível ter até 3 acúmulos do efeito Detector no estado Alma do Vento. Lançar Redemoinho Estelar Gelado novamente nessa duração removerá o estado Alma do Vento original e os seus acúmulos de efeito Detector.",
+            "icon": "UI_Talent_S_Mika_05",
+            "name": "Supressão de Disparo Rápido"
+        },
+        "p2": {
+            "description": "Personagens ativos que estiverem simultaneamente no estado Pena do Falcão de <color=#FFD780FF>Canção da Pena do Céu</color> e Alma do Vento de <color=#FFD780FF>Redemoinho Estelar Gelado</color>, ao causarem Dano CRIT com um ataque farão o estado Alma do Vento gerar 1 acúmulo do efeito Detector do Talento de Ascensão \"Supressão de Disparo Rápido\". É possível gerar até 1 acúmulo do efeito Detector em uma duração do estado Alma do Vento.\\nAlém disso, o número máximo de acúmulos do efeito Detector que podem ser obtidos no estado Alma do Vento é aumentado em 1.\\nÉ necessário desbloquear o Talento de Ascensão \"Supressão de Disparo Rápido\".",
+            "icon": "UI_Talent_S_Mika_06",
+            "name": "Mapeamento Topográfico"
+        },
+        "p3": {
+            "description": "Mostra a localização de <color=#FFD780FF>Especialidades de Mondstadt</color> próximas no mapa.",
+            "icon": "UI_Talent_Collect_Local_Mengde",
+            "name": "Demarcação"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Eleva a moral dos companheiros através das orações dos Cavaleiros de Favonius, regenerando Vida para todos os personagens próximos baseada na Vida Máxima de Mika e concedendo a eles o estado Pena do Falcão.\\n\\n<color=#FFD780FF>Pena do Falcão</color>\\nQuando os Ataques Normais de personagens ativos sob o estado Pena do Falcão atingem um inimigo, Mika regenerará Vida para esses personagens baseada na Vida Máxima de Mika.\\nOs personagens nesse estado só podem regenerar Vida desta maneira uma vez em um curto intervalo de tempo.\\n\\n<i>\"Leve a esperança nos momentos difíceis e não baixe a guarda que tudo ficará bem... Pois aquela pena branca pura guiará os errantes perdidos.\"</i>",
+            "icon": "Skill_E_Mika_01",
+            "multipliers": {
+                "Cura ao lançar Habilidade": [
+                    "12.17% da Vida Máxima + 1172",
+                    "13.08% da Vida Máxima + 1289",
+                    "13.99% da Vida Máxima + 1416",
+                    "15.21% da Vida Máxima + 1553",
+                    "16.12% da Vida Máxima + 1700",
+                    "17.04% da Vida Máxima + 1856",
+                    "18.25% da Vida Máxima + 2022",
+                    "19.47% da Vida Máxima + 2198",
+                    "20.69% da Vida Máxima + 2383",
+                    "21.9% da Vida Máxima + 2579",
+                    "23.12% da Vida Máxima + 2784",
+                    "24.34% da Vida Máxima + 2999",
+                    "25.86% da Vida Máxima + 3223",
+                    "27.38% da Vida Máxima + 3458",
+                    "28.9% da Vida Máxima + 3702"
+                ],
+                "Cura de Pena do Falcão": [
+                    "2.43% da Vida Máxima + 234",
+                    "2.61% da Vida Máxima + 257",
+                    "2.8% da Vida Máxima + 283",
+                    "3.04% da Vida Máxima + 310",
+                    "3.22% da Vida Máxima + 339",
+                    "3.4% da Vida Máxima + 370",
+                    "3.65% da Vida Máxima + 404",
+                    "3.89% da Vida Máxima + 439",
+                    "4.13% da Vida Máxima + 476",
+                    "4.38% da Vida Máxima + 515",
+                    "4.62% da Vida Máxima + 556",
+                    "4.86% da Vida Máxima + 599",
+                    "5.17% da Vida Máxima + 643",
+                    "5.47% da Vida Máxima + 690",
+                    "5.78% da Vida Máxima + 739"
+                ],
+                "Duração da Pena do Falcão": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Energia Elemental": [
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70"
+                ],
+                "Intervalo de Cura de Pena do Falcão": [
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s"
+                ],
+                "Tempo de Recarga": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ]
+            },
+            "name": "Canção da Pena do Céu"
+        },
+        "elementalskill": {
+            "description": "Usa sua besta para atacar os inimigos, e concede aos personagens próximos o estado Alma do Vento. Quando um personagem no estado Alma do Vento está ativo no campo de batalha, aumenta a sua a Vel. de ATQ.\\nGera efeitos diferentes se for lançado Pressionando ou Mantendo Pressionado.\\n\\n<color=#FFD780FF>Pressionar</color>\\nDispara uma Flecha Gélida rapidamente que penetra os inimigos, causando <color=#99FFFFFF>Dano Cryo</color>.\\n\\n<color=#FFD780FF>Manter Pressionado</color>\\nEntra no modo de mira, e dispara um Sinal Estelar Gélido contra o inimigo fixado na mira, causando <color=#99FFFFFF>Dano Cryo</color>. Quando o Sinal Estelar Gélido atinge o inimigo, ascenderá e explodirá, disparando Fragmentos Estelares Gélidos contra até 3 inimigos próximos, causando <color=#99FFFFFF>Dano Cryo</color>.\\n\\n<i>As estrelas explodem sob os céus congelados.</i>",
+            "icon": "Skill_S_Mika_01",
+            "multipliers": {
+                "Aumento de Vel. de ATQ": [
+                    "13%",
+                    "14%",
+                    "15%",
+                    "16%",
+                    "17%",
+                    "18%",
+                    "19%",
+                    "20%",
+                    "21%",
+                    "22%",
+                    "23%",
+                    "24%",
+                    "25%",
+                    "25%",
+                    "25%"
+                ],
+                "Dano da Flecha Gélida": [
+                    "67.2%",
+                    "72.24%",
+                    "77.28%",
+                    "84%",
+                    "89.04%",
+                    "94.08%",
+                    "100.8%",
+                    "107.52%",
+                    "114.24%",
+                    "120.96%",
+                    "127.68%",
+                    "134.4%",
+                    "142.8%",
+                    "151.2%",
+                    "159.6%"
+                ],
+                "Dano de Fragmentos Estelares Gélidos": [
+                    "25.2%",
+                    "27.09%",
+                    "28.98%",
+                    "31.5%",
+                    "33.39%",
+                    "35.28%",
+                    "37.8%",
+                    "40.32%",
+                    "42.84%",
+                    "45.36%",
+                    "47.88%",
+                    "50.4%",
+                    "53.55%",
+                    "56.7%",
+                    "59.85%"
+                ],
+                "Dano do Sinal Estelar Gélido": [
+                    "84%",
+                    "90.3%",
+                    "96.6%",
+                    "105%",
+                    "111.3%",
+                    "117.6%",
+                    "126%",
+                    "134.4%",
+                    "142.8%",
+                    "151.2%",
+                    "159.6%",
+                    "168%",
+                    "178.5%",
+                    "189%",
+                    "199.5%"
+                ],
+                "Duração de Alma do Vento": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "Tempo de Recarga": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ]
+            },
+            "name": "Redemoinho Estelar Gelado"
+        },
+        "leveling": {
+            "books": {
+                "104307": 9,
+                "104308": 63,
+                "104309": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113042": 18
+            },
+            "worldmonster": {
+                "112032": 18,
+                "112033": 66,
+                "112034": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 5 golpes com a sua lança e besta de mão.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome uma certa quantidade de Stamina para se lançar para frente, infligindo Dano em seu trajeto.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+            "icon": "Skill_A_03",
+            "multipliers": {
+                "Consumo de Stamina de Ataque Carregado": [
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25"
+                ],
+                "Dano Durante a Queda": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ],
+                "Dano de Ataque Carregado": [
+                    "112.75%",
+                    "121.92%",
+                    "131.1%",
+                    "144.21%",
+                    "153.39%",
+                    "163.87%",
+                    "178.3%",
+                    "192.72%",
+                    "207.14%",
+                    "222.87%",
+                    "238.6%",
+                    "254.33%",
+                    "270.07%",
+                    "285.8%",
+                    "301.53%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Dano do 1° Golpe": [
+                    "43.26%",
+                    "46.78%",
+                    "50.31%",
+                    "55.34%",
+                    "58.86%",
+                    "62.88%",
+                    "68.42%",
+                    "73.95%",
+                    "79.48%",
+                    "85.52%",
+                    "91.56%",
+                    "97.59%",
+                    "103.63%",
+                    "109.67%",
+                    "115.7%"
+                ],
+                "Dano do 2° Golpe": [
+                    "41.5%",
+                    "44.88%",
+                    "48.26%",
+                    "53.08%",
+                    "56.46%",
+                    "60.32%",
+                    "65.63%",
+                    "70.94%",
+                    "76.25%",
+                    "82.04%",
+                    "87.83%",
+                    "93.62%",
+                    "99.41%",
+                    "105.2%",
+                    "110.99%"
+                ],
+                "Dano do 3° Golpe": [
+                    "54.5%",
+                    "58.94%",
+                    "63.38%",
+                    "69.71%",
+                    "74.15%",
+                    "79.22%",
+                    "86.19%",
+                    "93.16%",
+                    "100.13%",
+                    "107.74%",
+                    "115.34%",
+                    "122.95%",
+                    "130.55%",
+                    "138.16%",
+                    "145.76%"
+                ],
+                "Dano do 4° Golpe": [
+                    "27.61%+27.61%",
+                    "29.86%+29.86%",
+                    "32.11%+32.11%",
+                    "35.32%+35.32%",
+                    "37.57%+37.57%",
+                    "40.14%+40.14%",
+                    "43.67%+43.67%",
+                    "47.2%+47.2%",
+                    "50.73%+50.73%",
+                    "54.59%+54.59%",
+                    "58.44%+58.44%",
+                    "62.29%+62.29%",
+                    "66.15%+66.15%",
+                    "70%+70%",
+                    "73.85%+73.85%"
+                ],
+                "Dano do 5° Golpe": [
+                    "70.87%",
+                    "76.64%",
+                    "82.41%",
+                    "90.65%",
+                    "96.42%",
+                    "103.02%",
+                    "112.08%",
+                    "121.15%",
+                    "130.21%",
+                    "140.1%",
+                    "149.99%",
+                    "159.88%",
+                    "169.77%",
+                    "179.66%",
+                    "189.55%"
+                ]
+            },
+            "name": "Lança de Favonius — Ponto de Passagem"
+        }
+    }
+}

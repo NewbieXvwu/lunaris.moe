@@ -1,0 +1,1295 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104131": 1,
+            "104132": 9,
+            "104133": 9,
+            "104134": 6
+        },
+        "elitemonster": {
+            "113059": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101238": 168
+        },
+        "worldmonster": {
+            "112083": 18,
+            "112084": 30,
+            "112085": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Grass",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "SkillObj_ElementalArt_Ousia_Gadget",
+            "poise": "LV3/20"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Emilie_PermanentSkill_1 (!)",
+            "name": "SkillObj_ArtGadget",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_BurstGadget",
+            "poise": "LV3/40"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_BurstGadget",
+            "poise": "LV3/40"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "2 hits / 2s",
+            "icd_source": "Tag: Emilie_ElementalArt_Bullet",
+            "name": "SkillObj_ArtGadget_Bullet_Material",
+            "poise": "LV1/30"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "2 hits / 2s",
+            "icd_source": "Tag: Emilie_ElementalArt_Bullet",
+            "name": "SkillObj_ArtGadget_Bullet2_Material",
+            "poise": "LV1/30"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/25"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "<color=#FFD780FF>撷萃调香</color>与突破天赋「余薰」的清露香氛造成的伤害提升20%，后者需要解锁突破天赋「余薰」。\\n此外，队伍中附近的角色对敌人触发燃烧反应或对处于燃烧状态下的敌人造成<color=#99FF88FF>草元素伤害</color>时，会额外生成一枚<color=#FFD780FF>香韵</color>。此效果每2.9秒至多触发一次。",
+            "icon": "UI_Talent_S_Emilie_01",
+            "name": "淡香浸析"
+        },
+        "const2": {
+            "description": "<color=#FFD780FF>撷萃调香</color>、<color=#FFD780FF>香氛演绎</color>或突破天赋「余薰」的清露香氛（需解锁该突破天赋）命中敌人时，该敌人的<color=#99FF88FF>草元素抗性</color>降低30%，持续10秒。",
+            "icon": "UI_Talent_S_Emilie_02",
+            "name": "湖光顶调"
+        },
+        "const3": {
+            "description": "<color=#FFD780FF>撷萃调香</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Emilie_01",
+            "name": "郁馥臻萃"
+        },
+        "const4": {
+            "description": "<color=#FFD780FF>香氛演绎</color>的持续时间延长2秒，且每名敌人被香露选为目标的间隔降低0.3秒。",
+            "icon": "UI_Talent_S_Emilie_03",
+            "name": "柔灯心韵"
+        },
+        "const5": {
+            "description": "<color=#FFD780FF>香氛演绎</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Emilie_02",
+            "name": "纯露凝芳"
+        },
+        "const6": {
+            "description": "施放<color=#FFD780FF>撷萃调香</color>或<color=#FFD780FF>香氛演绎</color>时，艾梅莉埃将获得「香迹留驻」，持续5秒。\\n持续期间，艾梅莉埃进行普通攻击或重击后，将会产生一枚香韵，且艾梅莉埃的普通攻击与重击将转为无法被附魔覆盖的<color=#99FF88FF>草元素伤害</color>，并提升造成的伤害，提升值相当于艾梅莉埃攻击力的300%。\\n\\n「香迹留驻」效果将在通过这种方式产生4枚香韵或持续时间结束时解除。每12秒至多获得一次「香迹留驻」效果。",
+            "icon": "UI_Talent_S_Emilie_04",
+            "name": "茉洁香迹"
+        }
+    },
+    "energy": [
+        {
+            "cd": "Instant",
+            "chance": "100%",
+            "particles": "1",
+            "source": "Ball"
+        },
+        {
+            "cd": "Instant",
+            "chance": "100%",
+            "particles": "1",
+            "source": "Ball"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Emilie",
+        "forward": "UI_AvatarIcon_Emilie"
+    },
+    "info": {
+        "attributes": [
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 57,
+                "hp": 1056,
+                "level": 1
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 62,
+                "hp": 1144,
+                "level": 2
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 66,
+                "hp": 1232,
+                "level": 3
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 71,
+                "hp": 1320,
+                "level": 4
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 76,
+                "hp": 1408,
+                "level": 5
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 81,
+                "hp": 1497,
+                "level": 6
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 85,
+                "hp": 1584,
+                "level": 7
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 90,
+                "hp": 1673,
+                "level": 8
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 43,
+                "def": 95,
+                "hp": 1762,
+                "level": 9
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 46,
+                "def": 100,
+                "hp": 1850,
+                "level": 10
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 48,
+                "def": 104,
+                "hp": 1938,
+                "level": 11
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 50,
+                "def": 109,
+                "hp": 2027,
+                "level": 12
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 52,
+                "def": 114,
+                "hp": 2116,
+                "level": 13
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 54,
+                "def": 119,
+                "hp": 2206,
+                "level": 14
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 57,
+                "def": 123,
+                "hp": 2294,
+                "level": 15
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 59,
+                "def": 128,
+                "hp": 2383,
+                "level": 16
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 61,
+                "def": 133,
+                "hp": 2473,
+                "level": 17
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 63,
+                "def": 138,
+                "hp": 2561,
+                "level": 18
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 65,
+                "def": 143,
+                "hp": 2651,
+                "level": 19
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 68,
+                "def": 147,
+                "hp": 2740,
+                "level": 20
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 92,
+                "def": 201,
+                "hp": 3735,
+                "level": 21
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 94,
+                "def": 206,
+                "hp": 3825,
+                "level": 22
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 97,
+                "def": 211,
+                "hp": 3915,
+                "level": 23
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 99,
+                "def": 215,
+                "hp": 4005,
+                "level": 24
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 101,
+                "def": 220,
+                "hp": 4095,
+                "level": 25
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 103,
+                "def": 225,
+                "hp": 4185,
+                "level": 26
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 106,
+                "def": 230,
+                "hp": 4275,
+                "level": 27
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 108,
+                "def": 235,
+                "hp": 4365,
+                "level": 28
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 110,
+                "def": 240,
+                "hp": 4456,
+                "level": 29
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 112,
+                "def": 245,
+                "hp": 4546,
+                "level": 30
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 114,
+                "def": 249,
+                "hp": 4636,
+                "level": 31
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 117,
+                "def": 254,
+                "hp": 4727,
+                "level": 32
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 119,
+                "def": 259,
+                "hp": 4818,
+                "level": 33
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 121,
+                "def": 264,
+                "hp": 4908,
+                "level": 34
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 123,
+                "def": 269,
+                "hp": 4999,
+                "level": 35
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 126,
+                "def": 274,
+                "hp": 5091,
+                "level": 36
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 128,
+                "def": 279,
+                "hp": 5181,
+                "level": 37
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 130,
+                "def": 284,
+                "hp": 5272,
+                "level": 38
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 132,
+                "def": 289,
+                "hp": 5363,
+                "level": 39
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 135,
+                "def": 294,
+                "hp": 5455,
+                "level": 40
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 153,
+                "def": 333,
+                "hp": 6189,
+                "level": 41
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 155,
+                "def": 338,
+                "hp": 6281,
+                "level": 42
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 157,
+                "def": 343,
+                "hp": 6373,
+                "level": 43
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 160,
+                "def": 348,
+                "hp": 6464,
+                "level": 44
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 162,
+                "def": 353,
+                "hp": 6556,
+                "level": 45
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 164,
+                "def": 358,
+                "hp": 6648,
+                "level": 46
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 166,
+                "def": 363,
+                "hp": 6740,
+                "level": 47
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 169,
+                "def": 368,
+                "hp": 6832,
+                "level": 48
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 171,
+                "def": 373,
+                "hp": 6925,
+                "level": 49
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 173,
+                "def": 378,
+                "hp": 7016,
+                "level": 50
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 197,
+                "def": 429,
+                "hp": 7966,
+                "level": 51
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 199,
+                "def": 434,
+                "hp": 8059,
+                "level": 52
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 201,
+                "def": 439,
+                "hp": 8151,
+                "level": 53
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 203,
+                "def": 444,
+                "hp": 8244,
+                "level": 54
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 206,
+                "def": 449,
+                "hp": 8337,
+                "level": 55
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 208,
+                "def": 454,
+                "hp": 8430,
+                "level": 56
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 210,
+                "def": 459,
+                "hp": 8523,
+                "level": 57
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 213,
+                "def": 464,
+                "hp": 8616,
+                "level": 58
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 215,
+                "def": 469,
+                "hp": 8709,
+                "level": 59
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 217,
+                "def": 474,
+                "hp": 8802,
+                "level": 60
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 235,
+                "def": 513,
+                "hp": 9538,
+                "level": 61
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 238,
+                "def": 518,
+                "hp": 9631,
+                "level": 62
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 240,
+                "def": 523,
+                "hp": 9725,
+                "level": 63
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 242,
+                "def": 528,
+                "hp": 9818,
+                "level": 64
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 245,
+                "def": 533,
+                "hp": 9912,
+                "level": 65
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 247,
+                "def": 538,
+                "hp": 10006,
+                "level": 66
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 249,
+                "def": 543,
+                "hp": 10099,
+                "level": 67
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 252,
+                "def": 549,
+                "hp": 10193,
+                "level": 68
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 254,
+                "def": 554,
+                "hp": 10287,
+                "level": 69
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 256,
+                "def": 559,
+                "hp": 10381,
+                "level": 70
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 274,
+                "def": 598,
+                "hp": 11119,
+                "level": 71
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 277,
+                "def": 603,
+                "hp": 11214,
+                "level": 72
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 279,
+                "def": 608,
+                "hp": 11308,
+                "level": 73
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 281,
+                "def": 614,
+                "hp": 11402,
+                "level": 74
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 284,
+                "def": 619,
+                "hp": 11497,
+                "level": 75
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 286,
+                "def": 624,
+                "hp": 11591,
+                "level": 76
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 288,
+                "def": 629,
+                "hp": 11686,
+                "level": 77
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 291,
+                "def": 634,
+                "hp": 11781,
+                "level": 78
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 293,
+                "def": 639,
+                "hp": 11876,
+                "level": 79
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 295,
+                "def": 644,
+                "hp": 11971,
+                "level": 80
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 314,
+                "def": 684,
+                "hp": 12710,
+                "level": 81
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 316,
+                "def": 689,
+                "hp": 12805,
+                "level": 82
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 318,
+                "def": 694,
+                "hp": 12900,
+                "level": 83
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 321,
+                "def": 699,
+                "hp": 12995,
+                "level": 84
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 323,
+                "def": 704,
+                "hp": 13090,
+                "level": 85
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 325,
+                "def": 710,
+                "hp": 13186,
+                "level": 86
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 328,
+                "def": 715,
+                "hp": 13281,
+                "level": 87
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 330,
+                "def": 720,
+                "hp": 13377,
+                "level": 88
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 333,
+                "def": 725,
+                "hp": 13473,
+                "level": 89
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 335,
+                "def": 730,
+                "hp": 13568,
+                "level": 90
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 373,
+                "def": 756,
+                "hp": 14050,
+                "level": 95
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 410,
+                "def": 782,
+                "hp": 14533,
+                "level": 100
+            }
+        ],
+        "birthday": "September 22nd",
+        "constellation": "香氛瓶座",
+        "description": "枫丹香水设计师，将秘密藏于瓶中之人。",
+        "element": "Dendro",
+        "name": "艾梅莉埃",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_POLE"
+    },
+    "passives": {
+        "p1": {
+            "description": "每萃集两枚<color=#FFD780FF>香韵</color>，柔灯之匣·二阶将消耗香韵，并浸析出「清露香氛」，对敌人造成相当于艾梅莉埃攻击力600%的<color=#99FF88FF>草元素范围伤害</color>。该伤害不被视为元素战技伤害。",
+            "icon": "UI_Talent_S_Emilie_05",
+            "name": "余薰"
+        },
+        "p2": {
+            "description": "基于艾梅莉埃的攻击力，提升艾梅莉埃对处于燃烧状态下的敌人造成的伤害：每1000点攻击力都将提升15%伤害，至多通过这种方式提升36%伤害。",
+            "icon": "UI_Talent_S_Emilie_06",
+            "name": "精馏"
+        },
+        "p3": {
+            "description": "场上存在艾梅莉埃自己创造的柔灯之匣时，队伍中附近的所有角色对燃烧伤害的<color=#FF9999FF>火元素抗性</color>提升85%。",
+            "icon": "UI_Talent_S_Emilie_07",
+            "name": "顶空集香"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "引导匣中萃集的香氛，将其化作纯粹的草元素之力，创造柔灯之匣·三阶，并收存已有的柔灯之匣。\\n存在期间内，柔灯之匣·三阶不会萃集附近的香韵，而是会持续降下香露，攻击范围内的敌人，造成<color=#99FF88FF>草元素伤害</color>。持续期间，每0.3秒将会降下一枚香露，且每名敌人每0.7秒只能被选为一次目标。\\n持续时间结束时，将重新创造柔灯之匣·一阶；若施放香氛演绎时收存了柔灯之匣，则改为放置已收存的柔灯之匣，并重置其持续时间。\\n<color=#FFD780FF>香氛演绎</color>持续期间，元素战技「撷萃调香」不会生成柔灯之匣。\\n\\n<i>无论是什么样的香水，自接触空气的那一刻开始，其香调便会随着时间推移而改变，最终消溶在风与草木的低语中。某种意义上，人们永远也无法欣赏同一瓶香水。\\n众生的轨迹也是这样。因此，或许可以说，香水便是人生的演绎。</i>",
+            "icon": "Skill_E_Emilie_01",
+            "multipliers": {
+                "元素能量": [
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50"
+                ],
+                "冷却时间": [
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒"
+                ],
+                "柔灯之匣·三阶持续时间": [
+                    "2.8秒",
+                    "2.8秒",
+                    "2.8秒",
+                    "2.8秒",
+                    "2.8秒",
+                    "2.8秒",
+                    "2.8秒",
+                    "2.8秒",
+                    "2.8秒",
+                    "2.8秒",
+                    "2.8秒",
+                    "2.8秒",
+                    "2.8秒",
+                    "2.8秒",
+                    "2.8秒"
+                ],
+                "柔灯之匣·三阶攻击伤害": [
+                    "217.2%",
+                    "233.49%",
+                    "249.78%",
+                    "271.5%",
+                    "287.79%",
+                    "304.08%",
+                    "325.8%",
+                    "347.52%",
+                    "369.24%",
+                    "390.96%",
+                    "412.68%",
+                    "434.4%",
+                    "461.55%",
+                    "488.7%",
+                    "515.85%"
+                ]
+            },
+            "name": "香氛演绎"
+        },
+        "elementalskill": {
+            "description": "创造柔灯之匣，造成<color=#99FF88FF>草元素范围伤害</color>。\\n\\n<color=#FFD780FF>柔灯之匣</color>\\n·间歇性对附近的敌人发射「纯露芳息」，造成<color=#99FF88FF>草元素伤害</color>；\\n·附近的敌人处于燃烧状态下时，将间歇性产生「香韵」，每2秒至多通过这种方式产生一枚香韵。柔灯之匣会萃集附近的香韵，萃集两枚香韵后，其品阶将会提升，发射纯露芳息时，将额外发射一枚纯露芳息，且提高上述攻击的攻击范围与造成的伤害。\\n·同时至多存在一个艾梅莉埃自己创造的柔灯之匣。柔灯之匣创造时的初始品阶为一阶，至多提升至二阶。处于场上时，若8秒内未萃集香韵，则柔灯之匣的品阶将会回到一阶。\\n\\n<color=#FFD780FF>始基力：芒性</color>\\n每隔一段时间，艾梅莉埃通过这种方式创造柔灯之匣后，将在前方降下穿透敌人的灵息之刺，造成具有芒性的<color=#99FF88FF>草元素伤害</color>。\\n\\n<i>「世间之景，正如无数芬芳、色彩与歌声悠长的应和。」</i>",
+            "icon": "Skill_S_Emilie_01",
+            "multipliers": {
+                "技能伤害": [
+                    "47.08%",
+                    "50.61%",
+                    "54.14%",
+                    "58.85%",
+                    "62.38%",
+                    "65.91%",
+                    "70.62%",
+                    "75.33%",
+                    "80.04%",
+                    "84.74%",
+                    "89.45%",
+                    "94.16%",
+                    "100.05%",
+                    "105.93%",
+                    "111.81%"
+                ],
+                "技能冷却时间": [
+                    "14秒",
+                    "14秒",
+                    "14秒",
+                    "14秒",
+                    "14秒",
+                    "14秒",
+                    "14秒",
+                    "14秒",
+                    "14秒",
+                    "14秒",
+                    "14秒",
+                    "14秒",
+                    "14秒",
+                    "14秒",
+                    "14秒"
+                ],
+                "柔灯之匣·一阶攻击伤害": [
+                    "39.6%",
+                    "42.57%",
+                    "45.54%",
+                    "49.5%",
+                    "52.47%",
+                    "55.44%",
+                    "59.4%",
+                    "63.36%",
+                    "67.32%",
+                    "71.28%",
+                    "75.24%",
+                    "79.2%",
+                    "84.15%",
+                    "89.1%",
+                    "94.05%"
+                ],
+                "柔灯之匣·二阶攻击伤害": [
+                    "84%*2",
+                    "90.3%*2",
+                    "96.6%*2",
+                    "105%*2",
+                    "111.3%*2",
+                    "117.6%*2",
+                    "126%*2",
+                    "134.4%*2",
+                    "142.8%*2",
+                    "151.2%*2",
+                    "159.6%*2",
+                    "168%*2",
+                    "178.5%*2",
+                    "189%*2",
+                    "199.5%*2"
+                ],
+                "柔灯之匣持续时间": [
+                    "22秒",
+                    "22秒",
+                    "22秒",
+                    "22秒",
+                    "22秒",
+                    "22秒",
+                    "22秒",
+                    "22秒",
+                    "22秒",
+                    "22秒",
+                    "22秒",
+                    "22秒",
+                    "22秒",
+                    "22秒",
+                    "22秒"
+                ],
+                "灵息之刺伤害": [
+                    "38.52%",
+                    "41.41%",
+                    "44.3%",
+                    "48.15%",
+                    "51.04%",
+                    "53.93%",
+                    "57.78%",
+                    "61.63%",
+                    "65.48%",
+                    "69.34%",
+                    "73.19%",
+                    "77.04%",
+                    "81.85%",
+                    "86.67%",
+                    "91.48%"
+                ],
+                "灵息之刺冷却间隔": [
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒"
+                ]
+            },
+            "name": "撷萃调香"
+        },
+        "leveling": {
+            "books": {
+                "104344": 9,
+                "104345": 63,
+                "104346": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113061": 18
+            },
+            "worldmonster": {
+                "112083": 18,
+                "112084": 66,
+                "112085": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>普通攻击</color>\\n进行至多四段的连续枪击。\\n\\n<color=#FFD780FF>重击</color>\\n消耗一定体力，进行向上的挑斩攻击。\\n\\n<color=#FFD780FF>下落攻击</color>\\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+            "icon": "Skill_A_03",
+            "multipliers": {
+                "一段伤害": [
+                    "48.56%",
+                    "52.51%",
+                    "56.47%",
+                    "62.11%",
+                    "66.07%",
+                    "70.58%",
+                    "76.79%",
+                    "83%",
+                    "89.22%",
+                    "95.99%",
+                    "102.77%",
+                    "109.54%",
+                    "116.32%",
+                    "123.1%",
+                    "129.87%"
+                ],
+                "三段伤害": [
+                    "59.3%",
+                    "64.13%",
+                    "68.95%",
+                    "75.85%",
+                    "80.68%",
+                    "86.19%",
+                    "93.78%",
+                    "101.36%",
+                    "108.95%",
+                    "117.22%",
+                    "125.5%",
+                    "133.77%",
+                    "142.05%",
+                    "150.32%",
+                    "158.59%"
+                ],
+                "下坠期间伤害": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ],
+                "二段伤害": [
+                    "44.9%",
+                    "48.55%",
+                    "52.2%",
+                    "57.42%",
+                    "61.08%",
+                    "65.25%",
+                    "71%",
+                    "76.74%",
+                    "82.48%",
+                    "88.75%",
+                    "95.01%",
+                    "101.28%",
+                    "107.54%",
+                    "113.8%",
+                    "120.07%"
+                ],
+                "低空/高空坠地冲击伤害": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "四段伤害": [
+                    "75.1%",
+                    "81.22%",
+                    "87.33%",
+                    "96.06%",
+                    "102.17%",
+                    "109.16%",
+                    "118.77%",
+                    "128.37%",
+                    "137.98%",
+                    "148.46%",
+                    "158.94%",
+                    "169.42%",
+                    "179.9%",
+                    "190.38%",
+                    "200.86%"
+                ],
+                "重击伤害": [
+                    "91.33%",
+                    "98.77%",
+                    "106.2%",
+                    "116.82%",
+                    "124.25%",
+                    "132.75%",
+                    "144.43%",
+                    "156.11%",
+                    "167.8%",
+                    "180.54%",
+                    "193.28%",
+                    "206.03%",
+                    "218.77%",
+                    "231.52%",
+                    "244.26%"
+                ],
+                "重击体力消耗": [
+                    "25点",
+                    "25点",
+                    "25点",
+                    "25点",
+                    "25点",
+                    "25点",
+                    "25点",
+                    "25点",
+                    "25点",
+                    "25点",
+                    "25点",
+                    "25点",
+                    "25点",
+                    "25点",
+                    "25点"
+                ]
+            },
+            "name": "逐影枪术·改"
+        }
+    }
+}

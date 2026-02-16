@@ -1,0 +1,1484 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104161": 1,
+            "104162": 9,
+            "104163": 9,
+            "104164": 6
+        },
+        "elitemonster": {
+            "113052": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101232": 168
+        },
+        "worldmonster": {
+            "112083": 18,
+            "112084": 30,
+            "112085": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Attack01",
+            "poise": "LV1/9"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Attack01",
+            "poise": "LV1/9"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Attack01",
+            "poise": "LV1/9"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Attack02",
+            "poise": "LV1/8"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Attack02",
+            "poise": "LV1/8"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Attack02",
+            "poise": "LV1/8"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "SkillObj_NormalAttack_03",
+            "poise": "LV2/12"
+        },
+        {
+            "element": "Ice",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "ExtraAttack_Gadget",
+            "poise": "LV1/20"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "ExtraAttack_Gadget",
+            "poise": "LV3/80"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Click",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArtHold_RayCast",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "2 hits / 12s",
+            "icd_source": "Tag: Charlotte_ArtDot",
+            "name": "ElementalArtHold_RayCast",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "2 hits / 12s",
+            "icd_source": "Tag: Charlotte_ArtDot",
+            "name": "ElementalArtHold_RayCast",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 4s",
+            "icd_source": "Tag: Charlotte_BurstCamera",
+            "name": "SkillObj_ElementalBurst_Stage",
+            "poise": "LV1/25"
+        },
+        {
+            "element": "Ice",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_ElementalBurst_Stage",
+            "poise": "LV2/200"
+        },
+        {
+            "element": "Ice",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/5"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "Constellation_ExtraCamera_Gadget",
+            "poise": "LV2/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "After <color=#FFD780FF>Still Photo: Comprehensive Confirmation</color> heals a character, it will mark them with Verification, which will heal them once every 2s for 80% of Charlotte's ATK. This effect lasts 6s.",
+            "icon": "UI_Talent_S_Charlotte_01",
+            "name": "A Need to Verify Facts"
+        },
+        "const2": {
+            "description": "When using <color=#FFD780FF>Framing: Freezing Point Composition</color>, when Monsieur Verite hits 1/2/3 (or more) opponents, Charlotte's own ATK will be increased by 10%/20%/30% for 12s.",
+            "icon": "UI_Talent_S_Charlotte_02",
+            "name": "A Duty to Pursue Truth"
+        },
+        "const3": {
+            "description": "Increases the Level of <color=#FFD780FF>Still Photo: Comprehensive Confirmation</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Charlotte_01",
+            "name": "An Imperative to Independence"
+        },
+        "const4": {
+            "description": "When <color=#FFD780FF>Still Photo: Comprehensive Confirmation</color> hits an opponent marked by Snappy Silhouette or Focused Impression, it will deal 10% more DMG and restore 2 Energy to Charlotte. This restoration can be triggered 5 times every 20s.",
+            "icon": "UI_Talent_S_Charlotte_03",
+            "name": "A Responsibility to Oversee"
+        },
+        "const5": {
+            "description": "Increases the Level of <color=#FFD780FF>Framing: Freezing Point Composition</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Charlotte_02",
+            "name": "A Principle of Conscience"
+        },
+        "const6": {
+            "description": "When the active character's Normal and Charged Attacks hit an opponent marked by <color=#FFD780FF>Framing: Freezing Point Composition</color>'s Focused Impression, Monsieur Verite will initiate a coordinated attack that deals 180% of Charlotte's ATK as <color=#99FFFFFF>AoE Cryo DMG</color> and heals active character(s) within the AoE for 42% of Charlotte's ATK. This effect can be triggered once every 6s and both DMG and healing dealt in this way will be considered as having been done by Charlotte's Elemental Burst.",
+            "icon": "UI_Talent_S_Charlotte_04",
+            "name": "A Summation of Interest"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.3s",
+            "chance": "100%",
+            "particles": "3",
+            "source": "UNIQUE_DropBall_Click"
+        },
+        {
+            "cd": "0.3s",
+            "chance": "100%",
+            "particles": "5",
+            "source": "UNIQUE_DropBall_Hold"
+        },
+        {
+            "cd": "0.3s",
+            "chance": "100%",
+            "particles": "3",
+            "source": "UNIQUE_DropBall_Hold"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Charlotte",
+        "forward": "UI_AvatarIcon_Charlotte"
+    },
+    "info": {
+        "attributes": [
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 15,
+                "def": 46,
+                "hp": 903,
+                "level": 1
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 16,
+                "def": 50,
+                "hp": 978,
+                "level": 2
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 17,
+                "def": 53,
+                "hp": 1052,
+                "level": 3
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 18,
+                "def": 57,
+                "hp": 1127,
+                "level": 4
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 61,
+                "hp": 1201,
+                "level": 5
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 65,
+                "hp": 1275,
+                "level": 6
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 68,
+                "hp": 1349,
+                "level": 7
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 23,
+                "def": 72,
+                "hp": 1424,
+                "level": 8
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 76,
+                "hp": 1499,
+                "level": 9
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 80,
+                "hp": 1573,
+                "level": 10
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 84,
+                "hp": 1648,
+                "level": 11
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 87,
+                "hp": 1722,
+                "level": 12
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 91,
+                "hp": 1797,
+                "level": 13
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 95,
+                "hp": 1871,
+                "level": 14
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 99,
+                "hp": 1946,
+                "level": 15
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 103,
+                "hp": 2021,
+                "level": 16
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 106,
+                "hp": 2095,
+                "level": 17
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 110,
+                "hp": 2170,
+                "level": 18
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 114,
+                "hp": 2244,
+                "level": 19
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 118,
+                "hp": 2319,
+                "level": 20
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 49,
+                "def": 156,
+                "hp": 3067,
+                "level": 21
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 51,
+                "def": 159,
+                "hp": 3142,
+                "level": 22
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 52,
+                "def": 163,
+                "hp": 3217,
+                "level": 23
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 53,
+                "def": 167,
+                "hp": 3291,
+                "level": 24
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 54,
+                "def": 171,
+                "hp": 3366,
+                "level": 25
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 55,
+                "def": 174,
+                "hp": 3440,
+                "level": 26
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 57,
+                "def": 178,
+                "hp": 3515,
+                "level": 27
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 58,
+                "def": 182,
+                "hp": 3589,
+                "level": 28
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 59,
+                "def": 186,
+                "hp": 3664,
+                "level": 29
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 60,
+                "def": 190,
+                "hp": 3738,
+                "level": 30
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 61,
+                "def": 193,
+                "hp": 3813,
+                "level": 31
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 63,
+                "def": 197,
+                "hp": 3888,
+                "level": 32
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 64,
+                "def": 201,
+                "hp": 3962,
+                "level": 33
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 65,
+                "def": 205,
+                "hp": 4037,
+                "level": 34
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 66,
+                "def": 208,
+                "hp": 4111,
+                "level": 35
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 67,
+                "def": 212,
+                "hp": 4186,
+                "level": 36
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 68,
+                "def": 216,
+                "hp": 4260,
+                "level": 37
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 70,
+                "def": 220,
+                "hp": 4335,
+                "level": 38
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 224,
+                "hp": 4410,
+                "level": 39
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 72,
+                "def": 227,
+                "hp": 4484,
+                "level": 40
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 81,
+                "def": 255,
+                "hp": 5038,
+                "level": 41
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 82,
+                "def": 259,
+                "hp": 5112,
+                "level": 42
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 83,
+                "def": 263,
+                "hp": 5187,
+                "level": 43
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 85,
+                "def": 267,
+                "hp": 5261,
+                "level": 44
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 86,
+                "def": 271,
+                "hp": 5336,
+                "level": 45
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 87,
+                "def": 274,
+                "hp": 5410,
+                "level": 46
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 88,
+                "def": 278,
+                "hp": 5485,
+                "level": 47
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 89,
+                "def": 282,
+                "hp": 5559,
+                "level": 48
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 91,
+                "def": 286,
+                "hp": 5633,
+                "level": 49
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 92,
+                "def": 290,
+                "hp": 5708,
+                "level": 50
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 103,
+                "def": 326,
+                "hp": 6421,
+                "level": 51
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 104,
+                "def": 329,
+                "hp": 6496,
+                "level": 52
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 106,
+                "def": 333,
+                "hp": 6571,
+                "level": 53
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 107,
+                "def": 337,
+                "hp": 6645,
+                "level": 54
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 108,
+                "def": 341,
+                "hp": 6720,
+                "level": 55
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 109,
+                "def": 345,
+                "hp": 6794,
+                "level": 56
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 110,
+                "def": 348,
+                "hp": 6869,
+                "level": 57
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 112,
+                "def": 352,
+                "hp": 6943,
+                "level": 58
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 113,
+                "def": 356,
+                "hp": 7018,
+                "level": 59
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 114,
+                "def": 360,
+                "hp": 7093,
+                "level": 60
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 123,
+                "def": 388,
+                "hp": 7646,
+                "level": 61
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 124,
+                "def": 392,
+                "hp": 7721,
+                "level": 62
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 125,
+                "def": 395,
+                "hp": 7795,
+                "level": 63
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 127,
+                "def": 399,
+                "hp": 7870,
+                "level": 64
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 128,
+                "def": 403,
+                "hp": 7944,
+                "level": 65
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 129,
+                "def": 407,
+                "hp": 8019,
+                "level": 66
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 130,
+                "def": 410,
+                "hp": 8094,
+                "level": 67
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 131,
+                "def": 414,
+                "hp": 8168,
+                "level": 68
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 133,
+                "def": 418,
+                "hp": 8243,
+                "level": 69
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 134,
+                "def": 422,
+                "hp": 8317,
+                "level": 70
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 143,
+                "def": 450,
+                "hp": 8871,
+                "level": 71
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 144,
+                "def": 454,
+                "hp": 8945,
+                "level": 72
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 145,
+                "def": 457,
+                "hp": 9020,
+                "level": 73
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 146,
+                "def": 461,
+                "hp": 9095,
+                "level": 74
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 147,
+                "def": 465,
+                "hp": 9169,
+                "level": 75
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 149,
+                "def": 469,
+                "hp": 9244,
+                "level": 76
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 150,
+                "def": 473,
+                "hp": 9318,
+                "level": 77
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 151,
+                "def": 476,
+                "hp": 9392,
+                "level": 78
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 152,
+                "def": 480,
+                "hp": 9466,
+                "level": 79
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 153,
+                "def": 484,
+                "hp": 9541,
+                "level": 80
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 162,
+                "def": 512,
+                "hp": 10095,
+                "level": 81
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 164,
+                "def": 516,
+                "hp": 10169,
+                "level": 82
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 165,
+                "def": 520,
+                "hp": 10244,
+                "level": 83
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 166,
+                "def": 523,
+                "hp": 10318,
+                "level": 84
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 167,
+                "def": 527,
+                "hp": 10393,
+                "level": 85
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 168,
+                "def": 531,
+                "hp": 10467,
+                "level": 86
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 170,
+                "def": 535,
+                "hp": 10542,
+                "level": 87
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 171,
+                "def": 538,
+                "hp": 10616,
+                "level": 88
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 172,
+                "def": 542,
+                "hp": 10691,
+                "level": 89
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 173,
+                "def": 546,
+                "hp": 10766,
+                "level": 90
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 195,
+                "def": 565,
+                "hp": 11138,
+                "level": 95
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 217,
+                "def": 584,
+                "hp": 11511,
+                "level": 100
+            }
+        ],
+        "birthday": "April 10th",
+        "constellation": "Hualina Veritas",
+        "description": "Indefatigable reporter of The Steambird, constantly on the hunt for the \"truth.\"",
+        "element": "Cryo",
+        "name": "Charlotte",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_CATALYST"
+    },
+    "passives": {
+        "p1": {
+            "description": "When opponents marked by \"Focused Impression\" are defeated, <color=#FFD780FF>Framing: Freezing Point Composition</color>'s CD will be decreased by 2s. This CD decrease can be triggered 4 times every 12s.",
+            "icon": "UI_Talent_S_Charlotte_05",
+            "name": "Moment of Impact"
+        },
+        "p2": {
+            "description": "When the party contains 1/2/3 Fontainians other than herself, Charlotte gains a 5%/10%/15% Healing Bonus. When the party contains 1/2/3 non-Fontainians, Charlotte gains a 5%/10%/15% Cryo DMG Bonus.",
+            "icon": "UI_Talent_S_Charlotte_06",
+            "name": "Diversified Investigation"
+        },
+        "p3": {
+            "description": "After activating the Special Analysis Zoom Lens, Charlotte's \"Framing: Freezing Point Composition\" Hold Mode cannot trigger its original effects, but instead enables her to take photos in a rather unique manner...",
+            "icon": "UI_Talent_S_Charlotte_07",
+            "name": "First-Person Shutter"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Condensing ice to create The Steambird's signature, Charlotte creates a Newsflash Field that will deal <color=#99FFFFFF>AoE Cryo DMG</color> and restores HP for all nearby party members based on Charlotte's ATK.\\n<color=#FFD780FF>Newsflash Field</color>\\n·While the ability is active, Monsieur Verite will deal <color=#99FFFFFF>Cryo DMG</color> at intervals to opponents within its AoE.\\n·Will continuously restore HP to active character(s) within its AoE based on Charlotte's ATK.\\n\\n<i>\"Hearing stories from multiple perspectives to recreate what really happened is key to a good report... I mean, that's how you can pick the best angle for your article!\"</i>",
+            "icon": "Skill_E_Charlotte_01",
+            "multipliers": {
+                "CD": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ],
+                "Cast Healing": [
+                    "256.57% ATK+1608",
+                    "275.82% ATK+1769",
+                    "295.06% ATK+1944",
+                    "320.72% ATK+2131",
+                    "339.96% ATK+2332",
+                    "359.2% ATK+2547",
+                    "384.86% ATK+2775",
+                    "410.52% ATK+3016",
+                    "436.17% ATK+3271",
+                    "461.83% ATK+3539",
+                    "487.49% ATK+3820",
+                    "513.15% ATK+4115",
+                    "545.22% ATK+4424",
+                    "577.29% ATK+4745",
+                    "609.36% ATK+5081"
+                ],
+                "Energy Cost": [
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80"
+                ],
+                "Kamera Continuous Regeneration": [
+                    "9.22% ATK+57",
+                    "9.91% ATK+63",
+                    "10.6% ATK+69",
+                    "11.52% ATK+76",
+                    "12.21% ATK+83",
+                    "12.9% ATK+91",
+                    "13.82% ATK+99",
+                    "14.75% ATK+108",
+                    "15.67% ATK+117",
+                    "16.59% ATK+126",
+                    "17.51% ATK+136",
+                    "18.43% ATK+147",
+                    "19.58% ATK+158",
+                    "20.74% ATK+169",
+                    "21.89% ATK+181"
+                ],
+                "Kamera DMG": [
+                    "6.47%",
+                    "6.95%",
+                    "7.44%",
+                    "8.08%",
+                    "8.57%",
+                    "9.06%",
+                    "9.7%",
+                    "10.35%",
+                    "11%",
+                    "11.64%",
+                    "12.29%",
+                    "12.94%",
+                    "13.74%",
+                    "14.55%",
+                    "15.36%"
+                ],
+                "Newsflash Field Duration": [
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s"
+                ],
+                "Skill DMG": [
+                    "77.62%",
+                    "83.44%",
+                    "89.26%",
+                    "97.02%",
+                    "102.84%",
+                    "108.66%",
+                    "116.42%",
+                    "124.19%",
+                    "131.95%",
+                    "139.71%",
+                    "147.47%",
+                    "155.23%",
+                    "164.93%",
+                    "174.64%",
+                    "184.34%"
+                ]
+            },
+            "name": "Still Photo: Comprehensive Confirmation"
+        },
+        "elementalskill": {
+            "description": "Using the keen instincts of an ace reporter, Charlotte uses her photography skills to produce different effects based on whether the ability is Tapped or Held.\\n\\n<color=#FFD780FF>Tap</color>\\nTakes a snapshot using Monsieur Verite, dealing <color=#99FFFFFF>AoE Cryo DMG</color> to opponents in front of her and applying Snappy Silhouette to a maximum of 5 opponents. During this effect's duration, it will deal <color=#99FFFFFF>Cryo DMG</color> to affected opponents at intervals.\\n\\n<color=#FFD780FF>Hold</color>\\nPopping Monsieur Verite's viewfinder open, Charlotte enters Composition Mode, and during this time, the viewfinder will expand as you hold until you reach a Finisher Frame state. In this state, Charlotte can move and change direction freely.\\nWhen the hold state ends, Monsieur Verite will deal <color=#99FFFFFF>Cryo DMG</color> to all opponents locked on within the viewfinder, and apply the same Snappy Silhouette as Tap Mode does to them. If you unleash this ability only after reaching Finisher Frame, you will instead apply Focused Impression, which lasts longer and deals more DMG, although the Skill CD will be longer.\\nComposition Mode lasts a maximum of 15s and allows a maximum of 5 opponents to be selected.\\n\\n<i>\"Press photography requires simple shots with exceptional theming, but most of all, you need to have a knack for capturing the moment!\"</i>",
+            "icon": "Skill_S_Charlotte_01",
+            "multipliers": {
+                "\"Focused Impression\" Mark DMG": [
+                    "40.6%",
+                    "43.65%",
+                    "46.69%",
+                    "50.75%",
+                    "53.79%",
+                    "56.84%",
+                    "60.9%",
+                    "64.96%",
+                    "69.02%",
+                    "73.08%",
+                    "77.14%",
+                    "81.2%",
+                    "86.27%",
+                    "91.35%",
+                    "96.43%"
+                ],
+                "\"Focused Impression\" Mark Duration": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "\"Focused Impression\" Mark Trigger Interval": [
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s"
+                ],
+                "\"Snappy Silhouette\" Mark DMG": [
+                    "39.2%",
+                    "42.14%",
+                    "45.08%",
+                    "49%",
+                    "51.94%",
+                    "54.88%",
+                    "58.8%",
+                    "62.72%",
+                    "66.64%",
+                    "70.56%",
+                    "74.48%",
+                    "78.4%",
+                    "83.3%",
+                    "88.2%",
+                    "93.1%"
+                ],
+                "\"Snappy Silhouette\" Mark Duration": [
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s"
+                ],
+                "\"Snappy Silhouette\" Mark Trigger Interval": [
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s"
+                ],
+                "#Photo DMG (Press)": [
+                    "67.2%",
+                    "72.24%",
+                    "77.28%",
+                    "84%",
+                    "89.04%",
+                    "94.08%",
+                    "100.8%",
+                    "107.52%",
+                    "114.24%",
+                    "120.96%",
+                    "127.68%",
+                    "134.4%",
+                    "142.8%",
+                    "151.2%",
+                    "159.6%"
+                ],
+                "CD": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "Finisher Frame Cast CD": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ],
+                "Photo DMG (Hold)": [
+                    "139.2%",
+                    "149.64%",
+                    "160.08%",
+                    "174%",
+                    "184.44%",
+                    "194.88%",
+                    "208.8%",
+                    "222.72%",
+                    "236.64%",
+                    "250.56%",
+                    "264.48%",
+                    "278.4%",
+                    "295.8%",
+                    "313.2%",
+                    "330.6%"
+                ]
+            },
+            "name": "Framing: Freezing Point Composition"
+        },
+        "leveling": {
+            "books": {
+                "104341": 9,
+                "104342": 63,
+                "104343": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113054": 18
+            },
+            "worldmonster": {
+                "112083": 18,
+                "112084": 66,
+                "112085": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nTaking aim at targets using Monsieur Verite, her custom Kamera, Charlotte performs up to 3 consecutive attacks, dealing <color=#99FFFFFF>Cryo DMG</color>.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a fixed amount of Stamina, and after a moment's preparation, will deploy Monsieur Verite to deal <color=#99FFFFFF>AoE Cryo DMG</color>.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nGathering the power of Cryo, Charlotte plunges toward the ground, dealing DMG to all opponents in her path and dealing <color=#99FFFFFF>AoE Cryo DMG</color> upon landing.\\n\\n<color=#FFD780FF>Arkhe: Pneuma</color>\\nAt certain intervals, upon using a Charged Attack, Charlotte will cause a Spiritbreath Thorn to descend and pierce opponents, dealing Pneuma-aligned <color=#99FFFFFF>AoE Cryo DMG</color>.",
+            "icon": "Skill_A_Catalyst_MD",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "49.85%",
+                    "53.58%",
+                    "57.32%",
+                    "62.31%",
+                    "66.05%",
+                    "69.78%",
+                    "74.77%",
+                    "79.75%",
+                    "84.74%",
+                    "89.72%",
+                    "94.71%",
+                    "99.69%",
+                    "105.92%",
+                    "112.15%",
+                    "118.38%"
+                ],
+                "2-Hit DMG": [
+                    "43.38%",
+                    "46.63%",
+                    "49.88%",
+                    "54.22%",
+                    "57.47%",
+                    "60.73%",
+                    "65.06%",
+                    "69.4%",
+                    "73.74%",
+                    "78.08%",
+                    "82.41%",
+                    "86.75%",
+                    "92.17%",
+                    "97.59%",
+                    "103.02%"
+                ],
+                "3-Hit DMG": [
+                    "64.6%",
+                    "69.45%",
+                    "74.29%",
+                    "80.75%",
+                    "85.6%",
+                    "90.44%",
+                    "96.9%",
+                    "103.36%",
+                    "109.82%",
+                    "116.28%",
+                    "122.74%",
+                    "129.2%",
+                    "137.28%",
+                    "145.35%",
+                    "153.43%"
+                ],
+                "Charged Attack DMG": [
+                    "100.51%",
+                    "108.05%",
+                    "115.59%",
+                    "125.64%",
+                    "133.18%",
+                    "140.72%",
+                    "150.77%",
+                    "160.82%",
+                    "170.87%",
+                    "180.92%",
+                    "190.97%",
+                    "201.02%",
+                    "213.59%",
+                    "226.15%",
+                    "238.72%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50"
+                ],
+                "Low/High Plunge DMG": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "Plunge DMG": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "Spiritbreath Thorn DMG": [
+                    "11.17%",
+                    "12.01%",
+                    "12.84%",
+                    "13.96%",
+                    "14.8%",
+                    "15.64%",
+                    "16.75%",
+                    "17.87%",
+                    "18.99%",
+                    "20.1%",
+                    "21.22%",
+                    "22.34%",
+                    "23.73%",
+                    "25.13%",
+                    "26.52%"
+                ],
+                "Spiritbreath Thorn DMG Interval": [
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s"
+                ]
+            },
+            "name": "Cool-Color Capture"
+        }
+    }
+}

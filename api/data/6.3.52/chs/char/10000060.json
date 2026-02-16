@@ -1,0 +1,1271 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104121": 1,
+            "104122": 9,
+            "104123": 9,
+            "104124": 6
+        },
+        "elitemonster": {
+            "113035": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100033": 168
+        },
+        "worldmonster": {
+            "112032": 18,
+            "112033": 30,
+            "112034": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "4U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "ShootArrow_Enchanted_WithOutWater",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "ShootArrow_Enchanted_WithWater",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 0.3s",
+            "icd_source": "Tag: Yelan_ExtraAttack",
+            "name": "SneakArrow",
+            "poise": "LV5/100"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 0.3s",
+            "icd_source": "Tag: Yelan_ExtraAttack",
+            "name": "SneakArrow",
+            "poise": "LV5/100"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_TriggerCollision",
+            "poise": "LV5/120"
+        },
+        {
+            "element": "Water",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Dice",
+            "poise": "LV5/100"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "3 hits / 2s",
+            "icd_source": "Grp: Yelan_ElementalBurst (Tag Miss)",
+            "name": "ElementalBurst_Dice_Bullet_01",
+            "poise": "LV1/30"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Dice_Bullet_Extra",
+            "poise": "LV1/30"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "SneakArrow_Extra_Before",
+            "poise": "LV2/100"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "SneakArrow_Extra_After",
+            "poise": "LV2/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "<color=#FFD780FF>萦络纵命索</color>的可使用次数增加1次。",
+            "icon": "UI_Talent_S_Yelan_01",
+            "name": "与谋者，以局入局"
+        },
+        "const2": {
+            "description": "<color=#FFD780FF>「玄掷玲珑」</color>协同攻击时，会发射一枚额外的水箭，造成相当于夜兰生命值上限14%的水元素伤害。\\n该效果每1.8秒至多触发一次。",
+            "icon": "UI_Talent_S_Yelan_02",
+            "name": "入彀者，多多益善"
+        },
+        "const3": {
+            "description": "<color=#FFD780FF>渊图玲珑骰</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Yelan_01",
+            "name": "晃盅者，琼畟药骰"
+        },
+        "const4": {
+            "description": "依照<color=#FFD780FF>「络命丝」</color>标记敌人的数量，每次标记将在爆发时使队伍中所有角色的生命值上限提升10%，持续25秒。通过这种方式，生命值上限至多获得40%提升。",
+            "icon": "UI_Talent_S_Yelan_03",
+            "name": "诓惑者，接树移花"
+        },
+        "const5": {
+            "description": "<color=#FFD780FF>萦络纵命索</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Yelan_02",
+            "name": "坐庄者，三仙戏法"
+        },
+        "const6": {
+            "description": "施放<color=#FFD780FF>渊图玲珑骰</color>后，夜兰将进入「运筹帷幄」状态：\\n夜兰的普通攻击将转为发射特殊的「破局矢」。这种箭矢具有与破局矢近似的特性，造成的伤害视为重击伤害，能造成破局矢156%的伤害。\\n\\n「运筹帷幄」状态至多持续20秒，将在夜兰发射5枚箭矢后移除。",
+            "icon": "UI_Talent_S_Yelan_04",
+            "name": "取胜者，大小通吃"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.3s",
+            "chance": "100%",
+            "particles": "4",
+            "source": "UNIQUE_Strike_DropBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Yelan",
+        "forward": "UI_AvatarIcon_Yelan"
+    },
+    "info": {
+        "attributes": [
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 43,
+                "hp": 1125,
+                "level": 1
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 46,
+                "hp": 1218,
+                "level": 2
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 50,
+                "hp": 1312,
+                "level": 3
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 53,
+                "hp": 1406,
+                "level": 4
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 57,
+                "hp": 1500,
+                "level": 5
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 60,
+                "hp": 1594,
+                "level": 6
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 64,
+                "hp": 1687,
+                "level": 7
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 68,
+                "hp": 1782,
+                "level": 8
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 71,
+                "hp": 1876,
+                "level": 9
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 75,
+                "hp": 1970,
+                "level": 10
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 78,
+                "hp": 2064,
+                "level": 11
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 82,
+                "hp": 2159,
+                "level": 12
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 85,
+                "hp": 2253,
+                "level": 13
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 40,
+                "def": 89,
+                "hp": 2349,
+                "level": 14
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 93,
+                "hp": 2443,
+                "level": 15
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 43,
+                "def": 96,
+                "hp": 2538,
+                "level": 16
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 100,
+                "hp": 2633,
+                "level": 17
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 46,
+                "def": 103,
+                "hp": 2728,
+                "level": 18
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 48,
+                "def": 107,
+                "hp": 2824,
+                "level": 19
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 49,
+                "def": 111,
+                "hp": 2918,
+                "level": 20
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 67,
+                "def": 151,
+                "hp": 3978,
+                "level": 21
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 69,
+                "def": 154,
+                "hp": 4074,
+                "level": 22
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 70,
+                "def": 158,
+                "hp": 4169,
+                "level": 23
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 72,
+                "def": 162,
+                "hp": 4265,
+                "level": 24
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 74,
+                "def": 165,
+                "hp": 4361,
+                "level": 25
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 75,
+                "def": 169,
+                "hp": 4457,
+                "level": 26
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 77,
+                "def": 173,
+                "hp": 4553,
+                "level": 27
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 78,
+                "def": 176,
+                "hp": 4649,
+                "level": 28
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 80,
+                "def": 180,
+                "hp": 4745,
+                "level": 29
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 82,
+                "def": 184,
+                "hp": 4841,
+                "level": 30
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 83,
+                "def": 187,
+                "hp": 4938,
+                "level": 31
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 85,
+                "def": 191,
+                "hp": 5034,
+                "level": 32
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 87,
+                "def": 195,
+                "hp": 5131,
+                "level": 33
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 88,
+                "def": 198,
+                "hp": 5227,
+                "level": 34
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 90,
+                "def": 202,
+                "hp": 5324,
+                "level": 35
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 92,
+                "def": 206,
+                "hp": 5421,
+                "level": 36
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 93,
+                "def": 209,
+                "hp": 5518,
+                "level": 37
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 95,
+                "def": 213,
+                "hp": 5615,
+                "level": 38
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 96,
+                "def": 217,
+                "hp": 5712,
+                "level": 39
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 98,
+                "def": 220,
+                "hp": 5810,
+                "level": 40
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 111,
+                "def": 250,
+                "hp": 6592,
+                "level": 41
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 113,
+                "def": 254,
+                "hp": 6689,
+                "level": 42
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 115,
+                "def": 257,
+                "hp": 6787,
+                "level": 43
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 116,
+                "def": 261,
+                "hp": 6884,
+                "level": 44
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 118,
+                "def": 265,
+                "hp": 6982,
+                "level": 45
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 120,
+                "def": 268,
+                "hp": 7080,
+                "level": 46
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 121,
+                "def": 272,
+                "hp": 7178,
+                "level": 47
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 123,
+                "def": 276,
+                "hp": 7276,
+                "level": 48
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 125,
+                "def": 280,
+                "hp": 7375,
+                "level": 49
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 126,
+                "def": 283,
+                "hp": 7472,
+                "level": 50
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 143,
+                "def": 322,
+                "hp": 8484,
+                "level": 51
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 145,
+                "def": 325,
+                "hp": 8583,
+                "level": 52
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 147,
+                "def": 329,
+                "hp": 8681,
+                "level": 53
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 148,
+                "def": 333,
+                "hp": 8780,
+                "level": 54
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 150,
+                "def": 337,
+                "hp": 8879,
+                "level": 55
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 152,
+                "def": 340,
+                "hp": 8978,
+                "level": 56
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 153,
+                "def": 344,
+                "hp": 9077,
+                "level": 57
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 155,
+                "def": 348,
+                "hp": 9176,
+                "level": 58
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 157,
+                "def": 352,
+                "hp": 9275,
+                "level": 59
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 158,
+                "def": 355,
+                "hp": 9374,
+                "level": 60
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 171,
+                "def": 385,
+                "hp": 10158,
+                "level": 61
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 173,
+                "def": 389,
+                "hp": 10257,
+                "level": 62
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 175,
+                "def": 393,
+                "hp": 10357,
+                "level": 63
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 177,
+                "def": 397,
+                "hp": 10456,
+                "level": 64
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 178,
+                "def": 400,
+                "hp": 10556,
+                "level": 65
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 180,
+                "def": 404,
+                "hp": 10656,
+                "level": 66
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 182,
+                "def": 408,
+                "hp": 10755,
+                "level": 67
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 183,
+                "def": 412,
+                "hp": 10856,
+                "level": 68
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 185,
+                "def": 415,
+                "hp": 10956,
+                "level": 69
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 187,
+                "def": 419,
+                "hp": 11056,
+                "level": 70
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 200,
+                "def": 449,
+                "hp": 11841,
+                "level": 71
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 202,
+                "def": 453,
+                "hp": 11942,
+                "level": 72
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 203,
+                "def": 457,
+                "hp": 12043,
+                "level": 73
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 205,
+                "def": 460,
+                "hp": 12143,
+                "level": 74
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 207,
+                "def": 464,
+                "hp": 12244,
+                "level": 75
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 208,
+                "def": 468,
+                "hp": 12344,
+                "level": 76
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 210,
+                "def": 472,
+                "hp": 12445,
+                "level": 77
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 212,
+                "def": 476,
+                "hp": 12547,
+                "level": 78
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 214,
+                "def": 480,
+                "hp": 12648,
+                "level": 79
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 215,
+                "def": 483,
+                "hp": 12749,
+                "level": 80
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 229,
+                "def": 513,
+                "hp": 13536,
+                "level": 81
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 230,
+                "def": 517,
+                "hp": 13637,
+                "level": 82
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 232,
+                "def": 521,
+                "hp": 13738,
+                "level": 83
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 234,
+                "def": 525,
+                "hp": 13839,
+                "level": 84
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 235,
+                "def": 529,
+                "hp": 13941,
+                "level": 85
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 237,
+                "def": 533,
+                "hp": 14043,
+                "level": 86
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 239,
+                "def": 536,
+                "hp": 14144,
+                "level": 87
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 241,
+                "def": 540,
+                "hp": 14247,
+                "level": 88
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 242,
+                "def": 544,
+                "hp": 14349,
+                "level": 89
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 244,
+                "def": 548,
+                "hp": 14450,
+                "level": 90
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 271,
+                "def": 567,
+                "hp": 14963,
+                "level": 95
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 299,
+                "def": 587,
+                "hp": 15477,
+                "level": 100
+            }
+        ],
+        "birthday": "April 20th",
+        "constellation": "幽客座",
+        "description": "自称供职于总务司的神秘人士，却又是总务司名录里的「不存在之人」。",
+        "element": "Hydro",
+        "name": "夜兰",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_BOW"
+    },
+    "passives": {
+        "p1": {
+            "description": "队伍存在1/2/3/4种元素类型的角色时，夜兰的生命值上限提升6%/12%/18%/30%。",
+            "icon": "UI_Talent_S_Yelan_05",
+            "name": "猜先有方"
+        },
+        "p2": {
+            "description": "<color=#FFD780FF>「玄掷玲珑」</color>存在期间，能使队伍中自己的当前场上角色造成的伤害提高1%，并且每1秒进一步提高3.5%，至多使角色造成的伤害提高50%。\\n效果存在期间重新施放渊图玲珑骰，将移除原有的上述效果。",
+            "icon": "UI_Talent_S_Yelan_06",
+            "name": "妙转随心"
+        },
+        "p3": {
+            "description": "在璃月执行时长为20小时的探索派遣任务时，获得的奖励增加25%。",
+            "icon": "UI_Talent_Expedition_Liyue",
+            "name": "长考一着"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "造成<color=#80C0FFFF>水元素范围伤害</color>，并凝聚出「玄掷玲珑」，协助进行战斗。\\n\\n<color=#FFD780FF>玄掷玲珑</color>\\n将跟随角色，并在以下情况下，进行协同攻击，基于夜兰的生命值上限造成<color=#80C0FFFF>水元素伤害</color>：\\n·队伍中自己的当前场上角色进行普通攻击时，每1秒至多触发一次；\\n·夜兰自己的「络命丝」爆发并命中敌人时，将进行一次协同攻击。\\n\\n<i>「嗜赌可不行哦。作为大庄家，我拿比大小来比喻一下吧。你用一个骰子，怎么赢得过我的七个骰子呢？」</i>",
+            "icon": "Skill_E_Yelan_01",
+            "multipliers": {
+                "元素能量": [
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70"
+                ],
+                "冷却时间": [
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒"
+                ],
+                "技能伤害": [
+                    "7.31%生命值上限",
+                    "7.86%生命值上限",
+                    "8.4%生命值上限",
+                    "9.13%生命值上限",
+                    "9.68%生命值上限",
+                    "10.23%生命值上限",
+                    "10.96%生命值上限",
+                    "11.69%生命值上限",
+                    "12.42%生命值上限",
+                    "13.15%生命值上限",
+                    "13.89%生命值上限",
+                    "14.62%生命值上限",
+                    "15.53%生命值上限",
+                    "16.44%生命值上限",
+                    "17.36%生命值上限"
+                ],
+                "持续时间": [
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒"
+                ],
+                "玄掷玲珑伤害": [
+                    "4.87%生命值上限*3",
+                    "5.24%生命值上限*3",
+                    "5.6%生命值上限*3",
+                    "6.09%生命值上限*3",
+                    "6.46%生命值上限*3",
+                    "6.82%生命值上限*3",
+                    "7.31%生命值上限*3",
+                    "7.8%生命值上限*3",
+                    "8.28%生命值上限*3",
+                    "8.77%生命值上限*3",
+                    "9.26%生命值上限*3",
+                    "9.74%生命值上限*3",
+                    "10.35%生命值上限*3",
+                    "10.96%生命值上限*3",
+                    "11.57%生命值上限*3"
+                ]
+            },
+            "name": "渊图玲珑骰"
+        },
+        "elementalskill": {
+            "description": "牵引「络命丝」疾走，缠络标记途径的敌人。\\n疾走结束时，「络命丝」将会爆发，基于夜兰的生命值上限，对标记的敌人造成<color=#80C0FFFF>水元素伤害</color>。\\n\\n<color=#FFD780FF>点按</color>\\n快速向前疾走一段距离。\\n\\n<color=#FFD780FF>长按</color>\\n持续疾走，并在该状态下提高夜兰的抗打断能力。\\n期间，夜兰可以控制疾走的方向，并能通过再次施放技能，提前结束疾走状态。\\n\\n此外，「络命丝」爆发时，依照标记敌人的数量，夜兰将有概率获得「破局」状态：每个标记的敌人能使概率提升34%。\\n\\n<i>直到她钩指扯线，恶党贼寇之辈、阴谋诡计之徒才会发现，自己已是在劫难逃。</i>",
+            "icon": "Skill_S_Yelan_01",
+            "multipliers": {
+                "冷却时间": [
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒"
+                ],
+                "技能伤害": [
+                    "22.61%生命值上限",
+                    "24.31%生命值上限",
+                    "26.01%生命值上限",
+                    "28.27%生命值上限",
+                    "29.96%生命值上限",
+                    "31.66%生命值上限",
+                    "33.92%生命值上限",
+                    "36.18%生命值上限",
+                    "38.44%生命值上限",
+                    "40.7%生命值上限",
+                    "42.97%生命值上限",
+                    "45.23%生命值上限",
+                    "48.05%生命值上限",
+                    "50.88%生命值上限",
+                    "53.71%生命值上限"
+                ],
+                "长按最大持续时间": [
+                    "3秒",
+                    "3秒",
+                    "3秒",
+                    "3秒",
+                    "3秒",
+                    "3秒",
+                    "3秒",
+                    "3秒",
+                    "3秒",
+                    "3秒",
+                    "3秒",
+                    "3秒",
+                    "3秒",
+                    "3秒",
+                    "3秒"
+                ]
+            },
+            "name": "萦络纵命索"
+        },
+        "leveling": {
+            "books": {
+                "104310": 9,
+                "104311": 63,
+                "104312": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113019": 18
+            },
+            "worldmonster": {
+                "112032": 18,
+                "112033": 66,
+                "112034": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>普通攻击</color>\\n进行至多四段的连续弓箭射击。\\n\\n<color=#FFD780FF>重击</color>\\n进行伤害更高、更为精准的<color=#FFD780FF>瞄准射击</color>。\\n瞄准时，流水会在箭矢上持续积聚。聚满了激流的箭矢会造成<color=#80C0FFFF>水元素伤害</color>。\\n\\n<color=#FFD780FF>破局</color>\\n脱离战斗状态5秒后，夜兰将获得「破局」状态，使下一次满蓄力瞄准射击所需的蓄力时间减少80%，并将在满蓄力时转为发射「破局矢」。破局矢将基于夜兰的生命值上限造成<color=#80C0FFFF>水元素范围伤害</color>。\\n\\n<color=#FFD780FF>下落攻击</color>\\n从空中射出箭雨，并迅速下坠冲击地面，在落地时造成范围伤害。",
+            "icon": "Skill_A_02",
+            "multipliers": {
+                "一段伤害": [
+                    "40.68%",
+                    "43.99%",
+                    "47.3%",
+                    "52.03%",
+                    "55.34%",
+                    "59.13%",
+                    "64.33%",
+                    "69.53%",
+                    "74.73%",
+                    "80.41%",
+                    "86.09%",
+                    "91.76%",
+                    "97.44%",
+                    "103.11%",
+                    "108.79%"
+                ],
+                "三段伤害": [
+                    "51.6%",
+                    "55.8%",
+                    "60%",
+                    "66%",
+                    "70.2%",
+                    "75%",
+                    "81.6%",
+                    "88.2%",
+                    "94.8%",
+                    "102%",
+                    "109.2%",
+                    "116.4%",
+                    "123.6%",
+                    "130.8%",
+                    "138%"
+                ],
+                "下坠期间伤害": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "二段伤害": [
+                    "39.04%",
+                    "42.22%",
+                    "45.4%",
+                    "49.94%",
+                    "53.12%",
+                    "56.75%",
+                    "61.74%",
+                    "66.74%",
+                    "71.73%",
+                    "77.18%",
+                    "82.63%",
+                    "88.08%",
+                    "93.52%",
+                    "98.97%",
+                    "104.42%"
+                ],
+                "低空/高空坠地冲击伤害": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "四段伤害": [
+                    "32.51%+32.51%",
+                    "35.15%+35.15%",
+                    "37.8%+37.8%",
+                    "41.58%+41.58%",
+                    "44.23%+44.23%",
+                    "47.25%+47.25%",
+                    "51.41%+51.41%",
+                    "55.57%+55.57%",
+                    "59.72%+59.72%",
+                    "64.26%+64.26%",
+                    "68.8%+68.8%",
+                    "73.33%+73.33%",
+                    "77.87%+77.87%",
+                    "82.4%+82.4%",
+                    "86.94%+86.94%"
+                ],
+                "满蓄力瞄准射击": [
+                    "124%",
+                    "133.3%",
+                    "142.6%",
+                    "155%",
+                    "164.3%",
+                    "173.6%",
+                    "186%",
+                    "198.4%",
+                    "210.8%",
+                    "223.2%",
+                    "235.6%",
+                    "248%",
+                    "263.5%",
+                    "279%",
+                    "294.5%"
+                ],
+                "瞄准射击": [
+                    "43.86%",
+                    "47.43%",
+                    "51%",
+                    "56.1%",
+                    "59.67%",
+                    "63.75%",
+                    "69.36%",
+                    "74.97%",
+                    "80.58%",
+                    "86.7%",
+                    "92.82%",
+                    "98.94%",
+                    "105.06%",
+                    "111.18%",
+                    "117.3%"
+                ],
+                "破局矢伤害": [
+                    "11.58%生命值上限",
+                    "12.44%生命值上限",
+                    "13.31%生命值上限",
+                    "14.47%生命值上限",
+                    "15.34%生命值上限",
+                    "16.21%生命值上限",
+                    "17.36%生命值上限",
+                    "18.52%生命值上限",
+                    "19.68%生命值上限",
+                    "20.84%生命值上限",
+                    "21.99%生命值上限",
+                    "23.15%生命值上限",
+                    "24.6%生命值上限",
+                    "26.05%生命值上限",
+                    "27.49%生命值上限"
+                ]
+            },
+            "name": "潜形隐曜弓"
+        }
+    }
+}

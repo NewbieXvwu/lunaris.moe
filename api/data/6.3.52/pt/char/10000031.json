@@ -1,0 +1,1274 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104141": 1,
+            "104142": 9,
+            "104143": 9,
+            "104144": 6
+        },
+        "elitemonster": {
+            "113002": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100055": 168
+        },
+        "worldmonster": {
+            "112011": 18,
+            "112012": 30,
+            "112013": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "ExtraAttack_Element_Hit",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "-",
+            "gauge": "4U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "ExtraAttack_WithoutElement_Hit",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 5s",
+            "icd_source": "Grp: Fischl (Tag Miss)",
+            "name": "Ability_Skill_S_CrowSummon",
+            "poise": "LV2/80"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 5s",
+            "icd_source": "Grp: Fischl (Tag Miss)",
+            "name": "Ability_Skill_S_CrowSummon",
+            "poise": "LV2/80"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 5s",
+            "icd_source": "Grp: Fischl (Tag Miss)",
+            "name": "Talent_D_Crow_NormalAttack_01",
+            "poise": "LV0/10"
+        },
+        {
+            "element": "-",
+            "gauge": "4U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack_01 (!)",
+            "name": "Talent_A_NormalAttack_Hit",
+            "poise": "LV0/30"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "Talent_ExteaAttackThunder_Hit",
+            "poise": "LV1/40"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 5s",
+            "icd_source": "Grp: Fischl (Tag Miss)",
+            "name": "ProudSkill_ElementReactionAttackThunder",
+            "poise": "LV1/40"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 5s",
+            "icd_source": "Grp: Fischl (Tag Miss)",
+            "name": "Talent_ElementReactionAttackThunder_Hit",
+            "poise": "LV1/40"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 5s",
+            "icd_source": "Grp: Fischl (Tag Miss)",
+            "name": "Skill_S_Crow_AutoAttack_Hit_01",
+            "poise": "LV1/10"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 5s",
+            "icd_source": "Grp: Fischl (Tag Miss)",
+            "name": "Ability_Skill_E_CrowQueen",
+            "poise": "LV3/150"
+        },
+        {
+            "element": "Electric",
+            "gauge": "2U",
+            "icd_rule": "4 hits / 5s",
+            "icd_source": "Grp: Fischl (Tag Miss)",
+            "name": "Ability_Skill_E_CrowQueen",
+            "poise": "LV2/500"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Mesmo que Oz não esteja presente no combate, ele ainda pode proteger Fischl através de seus Olhos de Corvo. Quando Fishl ataca um inimigo, Oz atacará simultaneamente, causando 22% de Dano de ATQ.",
+            "icon": "UI_Talent_S_Fischl_01",
+            "name": "Olhar das Profundezas"
+        },
+        "const2": {
+            "description": "Quando as <color=#FFD780FF>Asas da Vigilância Noturna</color> são usadas, causa um adicional de 200% de ATQ como Dano e a sua AdE é aumentada em 50%.",
+            "icon": "UI_Talent_S_Fischl_02",
+            "name": "Devorador de Todos os Pecados"
+        },
+        "const3": {
+            "description": "Aumenta o nível das <color=#FFD780FF>Asas da Vigilância Noturna</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Fischl_01",
+            "name": "Asas do Pesadelo"
+        },
+        "const4": {
+            "description": "Quando <color=#FFD780FF>Ilusão Noturna</color> é usada, causa 222% de ATQ como <color=#FFACFFFF>Dano Electro</color> nos inimigos próximos.\\nQuando a habilidade termina, Fischl regenera 20% de sua Vida.",
+            "icon": "UI_Talent_S_Fischl_03",
+            "name": "Fantasia da Rainha"
+        },
+        "const5": {
+            "description": "Aumenta o nível da <color=#FFD780FF>Ilusão Noturna</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Fischl_02",
+            "name": "Noite Silenciosa"
+        },
+        "const6": {
+            "description": "Aumenta a duração da evocação de Oz por 2 segundos. Adicionalmente, Oz ataca juntamente com o seu próprio personagem quando presente, causando 30% do ATQ de Fischl como <color=#FFACFFFF>Dano Electro</color>.",
+            "icon": "UI_Talent_S_Fischl_04",
+            "name": "Corvo da Noite Eterna"
+        }
+    },
+    "energy": [
+        {
+            "cd": "Instant",
+            "chance": "67%",
+            "particles": "1",
+            "source": "AttackElementBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Fischl",
+        "forward": "UI_AvatarIcon_Fischl"
+    },
+    "info": {
+        "attributes": [
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 50,
+                "hp": 770,
+                "level": 1
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 54,
+                "hp": 834,
+                "level": 2
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 58,
+                "hp": 898,
+                "level": 3
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 62,
+                "hp": 962,
+                "level": 4
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 66,
+                "hp": 1025,
+                "level": 5
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 70,
+                "hp": 1089,
+                "level": 6
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 74,
+                "hp": 1152,
+                "level": 7
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 79,
+                "hp": 1216,
+                "level": 8
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 83,
+                "hp": 1280,
+                "level": 9
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 87,
+                "hp": 1343,
+                "level": 10
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 91,
+                "hp": 1407,
+                "level": 11
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 95,
+                "hp": 1470,
+                "level": 12
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 99,
+                "hp": 1534,
+                "level": 13
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 103,
+                "hp": 1597,
+                "level": 14
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 107,
+                "hp": 1661,
+                "level": 15
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 46,
+                "def": 111,
+                "hp": 1725,
+                "level": 16
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 48,
+                "def": 116,
+                "hp": 1788,
+                "level": 17
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 49,
+                "def": 120,
+                "hp": 1852,
+                "level": 18
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 51,
+                "def": 124,
+                "hp": 1915,
+                "level": 19
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 53,
+                "def": 128,
+                "hp": 1979,
+                "level": 20
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 70,
+                "def": 169,
+                "hp": 2618,
+                "level": 21
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 173,
+                "hp": 2682,
+                "level": 22
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 73,
+                "def": 177,
+                "hp": 2746,
+                "level": 23
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 75,
+                "def": 182,
+                "hp": 2809,
+                "level": 24
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 76,
+                "def": 186,
+                "hp": 2873,
+                "level": 25
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 78,
+                "def": 190,
+                "hp": 2936,
+                "level": 26
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 80,
+                "def": 194,
+                "hp": 3000,
+                "level": 27
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 81,
+                "def": 198,
+                "hp": 3063,
+                "level": 28
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 83,
+                "def": 202,
+                "hp": 3127,
+                "level": 29
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 85,
+                "def": 206,
+                "hp": 3191,
+                "level": 30
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 87,
+                "def": 210,
+                "hp": 3254,
+                "level": 31
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 88,
+                "def": 214,
+                "hp": 3318,
+                "level": 32
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 90,
+                "def": 219,
+                "hp": 3382,
+                "level": 33
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 92,
+                "def": 223,
+                "hp": 3446,
+                "level": 34
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 93,
+                "def": 227,
+                "hp": 3509,
+                "level": 35
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 95,
+                "def": 231,
+                "hp": 3573,
+                "level": 36
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 97,
+                "def": 235,
+                "hp": 3636,
+                "level": 37
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 98,
+                "def": 239,
+                "hp": 3700,
+                "level": 38
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 100,
+                "def": 243,
+                "hp": 3764,
+                "level": 39
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 102,
+                "def": 247,
+                "hp": 3827,
+                "level": 40
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 114,
+                "def": 278,
+                "hp": 4300,
+                "level": 41
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 116,
+                "def": 282,
+                "hp": 4363,
+                "level": 42
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 118,
+                "def": 286,
+                "hp": 4427,
+                "level": 43
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 119,
+                "def": 290,
+                "hp": 4490,
+                "level": 44
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 121,
+                "def": 294,
+                "hp": 4554,
+                "level": 45
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 123,
+                "def": 298,
+                "hp": 4618,
+                "level": 46
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 124,
+                "def": 302,
+                "hp": 4681,
+                "level": 47
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 126,
+                "def": 307,
+                "hp": 4745,
+                "level": 48
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 128,
+                "def": 311,
+                "hp": 4808,
+                "level": 49
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 130,
+                "def": 315,
+                "hp": 4872,
+                "level": 50
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 146,
+                "def": 354,
+                "hp": 5481,
+                "level": 51
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 147,
+                "def": 358,
+                "hp": 5545,
+                "level": 52
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 149,
+                "def": 362,
+                "hp": 5609,
+                "level": 53
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 151,
+                "def": 367,
+                "hp": 5672,
+                "level": 54
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 152,
+                "def": 371,
+                "hp": 5736,
+                "level": 55
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 154,
+                "def": 375,
+                "hp": 5799,
+                "level": 56
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 156,
+                "def": 379,
+                "hp": 5863,
+                "level": 57
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 158,
+                "def": 383,
+                "hp": 5926,
+                "level": 58
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 159,
+                "def": 387,
+                "hp": 5990,
+                "level": 59
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 161,
+                "def": 391,
+                "hp": 6054,
+                "level": 60
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 173,
+                "def": 422,
+                "hp": 6526,
+                "level": 61
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 175,
+                "def": 426,
+                "hp": 6590,
+                "level": 62
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 177,
+                "def": 430,
+                "hp": 6653,
+                "level": 63
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 179,
+                "def": 434,
+                "hp": 6717,
+                "level": 64
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 180,
+                "def": 438,
+                "hp": 6780,
+                "level": 65
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 182,
+                "def": 442,
+                "hp": 6844,
+                "level": 66
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 184,
+                "def": 446,
+                "hp": 6908,
+                "level": 67
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 185,
+                "def": 450,
+                "hp": 6971,
+                "level": 68
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 187,
+                "def": 455,
+                "hp": 7035,
+                "level": 69
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 189,
+                "def": 459,
+                "hp": 7099,
+                "level": 70
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 201,
+                "def": 489,
+                "hp": 7571,
+                "level": 71
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 203,
+                "def": 493,
+                "hp": 7635,
+                "level": 72
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 205,
+                "def": 497,
+                "hp": 7699,
+                "level": 73
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 206,
+                "def": 502,
+                "hp": 7763,
+                "level": 74
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 208,
+                "def": 506,
+                "hp": 7826,
+                "level": 75
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 210,
+                "def": 510,
+                "hp": 7890,
+                "level": 76
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 211,
+                "def": 514,
+                "hp": 7953,
+                "level": 77
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 213,
+                "def": 518,
+                "hp": 8017,
+                "level": 78
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 215,
+                "def": 522,
+                "hp": 8080,
+                "level": 79
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 216,
+                "def": 526,
+                "hp": 8144,
+                "level": 80
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 229,
+                "def": 557,
+                "hp": 8617,
+                "level": 81
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 231,
+                "def": 561,
+                "hp": 8680,
+                "level": 82
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 232,
+                "def": 565,
+                "hp": 8744,
+                "level": 83
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 234,
+                "def": 569,
+                "hp": 8807,
+                "level": 84
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 236,
+                "def": 573,
+                "hp": 8871,
+                "level": 85
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 237,
+                "def": 577,
+                "hp": 8934,
+                "level": 86
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 239,
+                "def": 581,
+                "hp": 8998,
+                "level": 87
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 241,
+                "def": 586,
+                "hp": 9061,
+                "level": 88
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 243,
+                "def": 590,
+                "hp": 9125,
+                "level": 89
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 244,
+                "def": 594,
+                "hp": 9189,
+                "level": 90
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 275,
+                "def": 614,
+                "hp": 9507,
+                "level": 95
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 307,
+                "def": 635,
+                "hp": 9825,
+                "level": 100
+            }
+        ],
+        "birthday": "May 27th",
+        "constellation": "Corvus",
+        "description": "Uma mulher misteriosa que se autointitula \"Princesa dos Pecados\" e viaja com um corvo chamado Oz.",
+        "element": "Electro",
+        "name": "Fischl",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_BOW"
+    },
+    "passives": {
+        "p1": {
+            "description": "Quando Fischl atinge Oz com um Disparo com Mira totalmente carregado, Oz traz a Retribuição Trovejante, causando <color=#FFACFFFF>Dano Electro AdE</color> igual a 152.7% do Dano da flecha.",
+            "icon": "UI_Talent_S_Fischl_05",
+            "name": "Predador Estelar"
+        },
+        "p2": {
+            "description": "Se o seu próprio personagem desencadeia uma <color=#FFACFFFF>Reação Elemental do tipo Electro</color> quando Oz está em campo, o inimigo será infligido com Retribuição Trovejante, causando <color=#FFACFFFF>Dano Electro</color> igual a 80% do ATQ de Fischl.",
+            "icon": "UI_Talent_S_Fischl_06",
+            "name": "Desfeito Seja Teu Feitiço Pecaminoso"
+        },
+        "p3": {
+            "description": "Quando despachada em uma expedição em Mondstadt, o tempo consumido é reduzido em 25%",
+            "icon": "UI_Talent_Expedition_Mengde",
+            "name": "Meu Jardim Secreto"
+        },
+        "p4": {
+            "description": "Depois de completar a <color=#FFD780FF>Tarefa da Bruxa: Do Inesperado</color>, Fischl se tornará uma personagem <color=#FFD780FF>Mágica</color>. Quando a equipe possuir pelo menos 2 personagens Mágicos, obtém o efeito <color=#FFD780FF>Mágico: Ritual Secreto</color>, fazendo com que os personagens Mágicos sejam fortalecidos.\\n\\n<color=#FFD780FF>Mágico: Ritual Secreto</color>\\nVejam, o Príncipe Corvo da Noite Ozvaldo Hrafnavines, aquele que testemunhou a queda de incontáveis mundos. Cantem o septeto estelar para seu soberano, pois esse é o momento do mais profundo pecado, quando as almas reunidos no fim da causalidade destroem a escuridão do destino.\\nAlém disso, quando Oz está ativo, os personagens da equipe obtêm os seguintes fortalecimentos adicionais:\\n· Aumenta o ATQ de Fischl e dos outros membros personagens ativos próximos em 22.5% nos 10s após um personagem próximo desencadear Sobrecarga.\\n· Aumenta a Proficiência Elemental de Fischl e dos outros personagens próximos ativos da equipe em 90 por 10s após um personagem próximo desencadear Eletricamente Carregado ou Carga Lunar.",
+            "icon": "UI_Talent_S_Fischl_07",
+            "name": "Presente da Noite da Bruxa: Concerto da Noite"
+        }
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Evoca Oz para estender suas asas gêmeas do crepúsculo e defender Fischl.\\nTem as seguintes propriedades ao longo da duração da habilidade:\\nFischl se transforma na forma de Oz, aumentando incrivelmente sua Velocidade de Movimento.\\nAtaca inimigos próximos com relâmpago, infligindo <color=#FFACFFFF>Dano Electro</color> em inimigos que ela entra em contato. Cada inimigo pode ser atingido apenas uma vez.\\nQuando o efeito dessa habilidade acaba, Oz continuará em campo, então reiniciará a duração de sua presença.\\n\\n<i>\"...Nas hordas de feras que perseguem o sangue amaldiçoado, apenas o Príncipe Nachtraben, que foi testemunha da extinção de milhares de mundos, sabe sua verdadeira grandeza. Assim, as asas noturnas que ele estende são suas eternas promessas em proteger Sua Alteza Real.\"</i>\\n<i>—Flores para a Princesa Fischl Volume (I): Decomposição, fim dos tempos.</i>",
+            "icon": "Skill_E_Fischl_01",
+            "multipliers": {
+                "Dano de Eletrocutamento": [
+                    "208%",
+                    "223.6%",
+                    "239.2%",
+                    "260%",
+                    "275.6%",
+                    "291.2%",
+                    "312%",
+                    "332.8%",
+                    "353.6%",
+                    "374.4%",
+                    "395.2%",
+                    "416%",
+                    "442%",
+                    "468%",
+                    "494%"
+                ],
+                "Energia Elemental": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "Tempo de Recarga": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ]
+            },
+            "name": "Ilusão Noturna"
+        },
+        "elementalskill": {
+            "description": "Evoca o Oz. O corvo da noite moldado pela escuridão e relâmpagos desce à terra, infligindo <color=#FFACFFFF>Dano Electro</color> em uma pequena AdE.\\nAo longo da duração da habilidade, Oz irá continuamente atacar inimigos próximos com <color=#FFACFFFF>Bolas Eletrificantes</color>.\\n\\nMantenha pressionado para ajustar a localização de onde o Oz será evocado.\\nPressione a qualquer momento ao longo da duração da habilidade para chamá-lo novamente para o lado de Fischl.\\n\\n<i>\"Meu tempo é muito precioso, e eu não o desperdiçarei com tipos como você... Vá Oz, recaia sobre eles, e traga-os até seu Relâmpago Vingativo, que dilacera a longa noite.\"</i>\\n<i>—Flores para a Princesa Fischl Volume (IV) Adeus Frau Welt</i>",
+            "icon": "Skill_S_Fischl_01",
+            "multipliers": {
+                "Dano de ATQ de Oz": [
+                    "88.8%",
+                    "95.46%",
+                    "102.12%",
+                    "111%",
+                    "117.66%",
+                    "124.32%",
+                    "133.2%",
+                    "142.08%",
+                    "150.96%",
+                    "159.84%",
+                    "168.72%",
+                    "177.6%",
+                    "188.7%",
+                    "199.8%",
+                    "210.9%"
+                ],
+                "Dano de Invocação": [
+                    "115.44%",
+                    "124.1%",
+                    "132.76%",
+                    "144.3%",
+                    "152.96%",
+                    "161.62%",
+                    "173.16%",
+                    "184.7%",
+                    "196.25%",
+                    "207.79%",
+                    "219.34%",
+                    "230.88%",
+                    "245.31%",
+                    "259.74%",
+                    "274.17%"
+                ],
+                "Duração de Oz": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ],
+                "Tempo de Recarga": [
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s"
+                ]
+            },
+            "name": "Asas da Vigilância Noturna"
+        },
+        "leveling": {
+            "books": {
+                "104307": 9,
+                "104308": 63,
+                "104309": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113008": 18
+            },
+            "worldmonster": {
+                "112011": 18,
+                "112012": 66,
+                "112013": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Ataque Normal</color> Realiza até 5 tiros consecutivos com um arco.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nRealiza um <color=#FFD780FF>Disparo com Mira</color> mais preciso e com Dano aumentado.\\nDurante a mira, espíritos sombrios dos relâmpagos da escuridão atenderão o chamado de sua Princesa e residirão na ponta encantada de sua flecha. Quando estiver completamente incorporado, o relâmpago vingativo irá infligir um imenso <color=#FFACFFFF>Dano Electro</color>.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nAtira uma chuva de flechas em pleno ar antes de atingir o chão, infligindo Dano em uma AdE durante o impacto.",
+            "icon": "Skill_A_02",
+            "multipliers": {
+                "Dano Durante a Queda": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "Dano do 1° Golpe": [
+                    "44.12%",
+                    "47.71%",
+                    "51.3%",
+                    "56.43%",
+                    "60.02%",
+                    "64.13%",
+                    "69.77%",
+                    "75.41%",
+                    "81.05%",
+                    "87.21%",
+                    "93.37%",
+                    "99.52%",
+                    "105.68%",
+                    "111.83%",
+                    "117.99%"
+                ],
+                "Dano do 2° Golpe": [
+                    "46.78%",
+                    "50.59%",
+                    "54.4%",
+                    "59.84%",
+                    "63.65%",
+                    "68%",
+                    "73.98%",
+                    "79.97%",
+                    "85.95%",
+                    "92.48%",
+                    "99.01%",
+                    "105.54%",
+                    "112.06%",
+                    "118.59%",
+                    "125.12%"
+                ],
+                "Dano do 3° Golpe": [
+                    "58.14%",
+                    "62.87%",
+                    "67.6%",
+                    "74.36%",
+                    "79.09%",
+                    "84.5%",
+                    "91.94%",
+                    "99.37%",
+                    "106.81%",
+                    "114.92%",
+                    "123.03%",
+                    "131.14%",
+                    "139.26%",
+                    "147.37%",
+                    "155.48%"
+                ],
+                "Dano do 4° Golpe": [
+                    "57.71%",
+                    "62.4%",
+                    "67.1%",
+                    "73.81%",
+                    "78.51%",
+                    "83.88%",
+                    "91.26%",
+                    "98.64%",
+                    "106.02%",
+                    "114.07%",
+                    "122.12%",
+                    "130.17%",
+                    "138.23%",
+                    "146.28%",
+                    "154.33%"
+                ],
+                "Dano do 5° Golpe": [
+                    "72.07%",
+                    "77.93%",
+                    "83.8%",
+                    "92.18%",
+                    "98.05%",
+                    "104.75%",
+                    "113.97%",
+                    "123.19%",
+                    "132.4%",
+                    "142.46%",
+                    "152.52%",
+                    "162.57%",
+                    "172.63%",
+                    "182.68%",
+                    "192.74%"
+                ],
+                "Disparo com Mira": [
+                    "43.86%",
+                    "47.43%",
+                    "51%",
+                    "56.1%",
+                    "59.67%",
+                    "63.75%",
+                    "69.36%",
+                    "74.97%",
+                    "80.58%",
+                    "86.7%",
+                    "92.82%",
+                    "98.94%",
+                    "105.06%",
+                    "111.18%",
+                    "117.3%"
+                ],
+                "Disparo com Mira com Energização Completa": [
+                    "124%",
+                    "133.3%",
+                    "142.6%",
+                    "155%",
+                    "164.3%",
+                    "173.6%",
+                    "186%",
+                    "198.4%",
+                    "210.8%",
+                    "223.2%",
+                    "235.6%",
+                    "248%",
+                    "263.5%",
+                    "279%",
+                    "294.5%"
+                ]
+            },
+            "name": "Flechas da Culpa"
+        }
+    }
+}

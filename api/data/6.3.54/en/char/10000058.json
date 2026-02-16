@@ -1,0 +1,1360 @@
+{
+    "info": {
+        "name": "Yae Miko",
+        "description": "Lady Guuji of the Grand Narukami Shrine. Also serves as the editor-in-chief of Yae Publishing House. Unimaginable intelligence and cunning are hidden under her beautiful appearance.",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_CATALYST",
+        "birthday": "June 27th",
+        "element": "Electro",
+        "constellation": "Divina Vulpes",
+        "attributes": [
+            {
+                "level": 1,
+                "ascension": 0,
+                "hp": 807,
+                "atk": 26,
+                "def": 44,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 2,
+                "ascension": 0,
+                "hp": 874,
+                "atk": 29,
+                "def": 48,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 3,
+                "ascension": 0,
+                "hp": 942,
+                "atk": 31,
+                "def": 52,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 4,
+                "ascension": 0,
+                "hp": 1009,
+                "atk": 33,
+                "def": 55,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 5,
+                "ascension": 0,
+                "hp": 1076,
+                "atk": 35,
+                "def": 59,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 6,
+                "ascension": 0,
+                "hp": 1144,
+                "atk": 37,
+                "def": 63,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 7,
+                "ascension": 0,
+                "hp": 1211,
+                "atk": 40,
+                "def": 66,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 8,
+                "ascension": 0,
+                "hp": 1279,
+                "atk": 42,
+                "def": 70,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 9,
+                "ascension": 0,
+                "hp": 1347,
+                "atk": 44,
+                "def": 74,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 10,
+                "ascension": 0,
+                "hp": 1414,
+                "atk": 46,
+                "def": 78,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 11,
+                "ascension": 0,
+                "hp": 1482,
+                "atk": 49,
+                "def": 81,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 12,
+                "ascension": 0,
+                "hp": 1550,
+                "atk": 51,
+                "def": 85,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 13,
+                "ascension": 0,
+                "hp": 1617,
+                "atk": 53,
+                "def": 89,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 14,
+                "ascension": 0,
+                "hp": 1686,
+                "atk": 55,
+                "def": 92,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 15,
+                "ascension": 0,
+                "hp": 1754,
+                "atk": 57,
+                "def": 96,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 16,
+                "ascension": 0,
+                "hp": 1822,
+                "atk": 60,
+                "def": 100,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 17,
+                "ascension": 0,
+                "hp": 1890,
+                "atk": 62,
+                "def": 104,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 18,
+                "ascension": 0,
+                "hp": 1958,
+                "atk": 64,
+                "def": 107,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 19,
+                "ascension": 0,
+                "hp": 2027,
+                "atk": 66,
+                "def": 111,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 20,
+                "ascension": 0,
+                "hp": 2095,
+                "atk": 69,
+                "def": 115,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 21,
+                "ascension": 1,
+                "hp": 2856,
+                "atk": 94,
+                "def": 157,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 22,
+                "ascension": 1,
+                "hp": 2924,
+                "atk": 96,
+                "def": 160,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 23,
+                "ascension": 1,
+                "hp": 2993,
+                "atk": 98,
+                "def": 164,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 24,
+                "ascension": 1,
+                "hp": 3061,
+                "atk": 100,
+                "def": 168,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 25,
+                "ascension": 1,
+                "hp": 3130,
+                "atk": 102,
+                "def": 172,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 26,
+                "ascension": 1,
+                "hp": 3199,
+                "atk": 105,
+                "def": 175,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 27,
+                "ascension": 1,
+                "hp": 3268,
+                "atk": 107,
+                "def": 179,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 28,
+                "ascension": 1,
+                "hp": 3337,
+                "atk": 109,
+                "def": 183,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 29,
+                "ascension": 1,
+                "hp": 3406,
+                "atk": 112,
+                "def": 187,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 30,
+                "ascension": 1,
+                "hp": 3475,
+                "atk": 114,
+                "def": 191,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 31,
+                "ascension": 1,
+                "hp": 3544,
+                "atk": 116,
+                "def": 194,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 32,
+                "ascension": 1,
+                "hp": 3614,
+                "atk": 118,
+                "def": 198,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 33,
+                "ascension": 1,
+                "hp": 3683,
+                "atk": 121,
+                "def": 202,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 34,
+                "ascension": 1,
+                "hp": 3752,
+                "atk": 123,
+                "def": 206,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 35,
+                "ascension": 1,
+                "hp": 3821,
+                "atk": 125,
+                "def": 210,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 36,
+                "ascension": 1,
+                "hp": 3891,
+                "atk": 127,
+                "def": 213,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 37,
+                "ascension": 1,
+                "hp": 3961,
+                "atk": 130,
+                "def": 217,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 38,
+                "ascension": 1,
+                "hp": 4030,
+                "atk": 132,
+                "def": 221,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 39,
+                "ascension": 1,
+                "hp": 4100,
+                "atk": 134,
+                "def": 225,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 40,
+                "ascension": 1,
+                "hp": 4170,
+                "atk": 137,
+                "def": 229,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 41,
+                "ascension": 2,
+                "hp": 4731,
+                "atk": 155,
+                "def": 259,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 42,
+                "ascension": 2,
+                "hp": 4802,
+                "atk": 157,
+                "def": 263,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 43,
+                "ascension": 2,
+                "hp": 4872,
+                "atk": 160,
+                "def": 267,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 44,
+                "ascension": 2,
+                "hp": 4941,
+                "atk": 162,
+                "def": 271,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 45,
+                "ascension": 2,
+                "hp": 5012,
+                "atk": 164,
+                "def": 275,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 46,
+                "ascension": 2,
+                "hp": 5082,
+                "atk": 166,
+                "def": 279,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 47,
+                "ascension": 2,
+                "hp": 5152,
+                "atk": 169,
+                "def": 282,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 48,
+                "ascension": 2,
+                "hp": 5222,
+                "atk": 171,
+                "def": 286,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 49,
+                "ascension": 2,
+                "hp": 5293,
+                "atk": 173,
+                "def": 290,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 50,
+                "ascension": 2,
+                "hp": 5364,
+                "atk": 176,
+                "def": 294,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 51,
+                "ascension": 3,
+                "hp": 6090,
+                "atk": 199,
+                "def": 334,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 52,
+                "ascension": 3,
+                "hp": 6161,
+                "atk": 202,
+                "def": 338,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 53,
+                "ascension": 3,
+                "hp": 6231,
+                "atk": 204,
+                "def": 342,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 54,
+                "ascension": 3,
+                "hp": 6302,
+                "atk": 206,
+                "def": 346,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 55,
+                "ascension": 3,
+                "hp": 6373,
+                "atk": 209,
+                "def": 349,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 56,
+                "ascension": 3,
+                "hp": 6444,
+                "atk": 211,
+                "def": 353,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 57,
+                "ascension": 3,
+                "hp": 6515,
+                "atk": 213,
+                "def": 357,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 58,
+                "ascension": 3,
+                "hp": 6586,
+                "atk": 216,
+                "def": 361,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 59,
+                "ascension": 3,
+                "hp": 6657,
+                "atk": 218,
+                "def": 365,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 60,
+                "ascension": 3,
+                "hp": 6729,
+                "atk": 220,
+                "def": 369,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 61,
+                "ascension": 4,
+                "hp": 7291,
+                "atk": 239,
+                "def": 400,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 62,
+                "ascension": 4,
+                "hp": 7363,
+                "atk": 241,
+                "def": 404,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 63,
+                "ascension": 4,
+                "hp": 7434,
+                "atk": 243,
+                "def": 408,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 64,
+                "ascension": 4,
+                "hp": 7505,
+                "atk": 246,
+                "def": 412,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 65,
+                "ascension": 4,
+                "hp": 7577,
+                "atk": 248,
+                "def": 415,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 66,
+                "ascension": 4,
+                "hp": 7649,
+                "atk": 250,
+                "def": 419,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 67,
+                "ascension": 4,
+                "hp": 7720,
+                "atk": 253,
+                "def": 423,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 68,
+                "ascension": 4,
+                "hp": 7792,
+                "atk": 255,
+                "def": 427,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 69,
+                "ascension": 4,
+                "hp": 7864,
+                "atk": 258,
+                "def": 431,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 70,
+                "ascension": 4,
+                "hp": 7936,
+                "atk": 260,
+                "def": 435,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 71,
+                "ascension": 5,
+                "hp": 8500,
+                "atk": 278,
+                "def": 466,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 72,
+                "ascension": 5,
+                "hp": 8572,
+                "atk": 281,
+                "def": 470,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 73,
+                "ascension": 5,
+                "hp": 8644,
+                "atk": 283,
+                "def": 474,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 74,
+                "ascension": 5,
+                "hp": 8716,
+                "atk": 285,
+                "def": 478,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 75,
+                "ascension": 5,
+                "hp": 8789,
+                "atk": 288,
+                "def": 482,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 76,
+                "ascension": 5,
+                "hp": 8861,
+                "atk": 290,
+                "def": 486,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 77,
+                "ascension": 5,
+                "hp": 8933,
+                "atk": 293,
+                "def": 490,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 78,
+                "ascension": 5,
+                "hp": 9006,
+                "atk": 295,
+                "def": 494,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 79,
+                "ascension": 5,
+                "hp": 9079,
+                "atk": 297,
+                "def": 498,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 80,
+                "ascension": 5,
+                "hp": 9151,
+                "atk": 300,
+                "def": 502,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 81,
+                "ascension": 6,
+                "hp": 9716,
+                "atk": 318,
+                "def": 533,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 82,
+                "ascension": 6,
+                "hp": 9788,
+                "atk": 321,
+                "def": 537,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 83,
+                "ascension": 6,
+                "hp": 9861,
+                "atk": 323,
+                "def": 541,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 84,
+                "ascension": 6,
+                "hp": 9934,
+                "atk": 325,
+                "def": 545,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 85,
+                "ascension": 6,
+                "hp": 10007,
+                "atk": 328,
+                "def": 549,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 86,
+                "ascension": 6,
+                "hp": 10080,
+                "atk": 330,
+                "def": 553,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 87,
+                "ascension": 6,
+                "hp": 10153,
+                "atk": 332,
+                "def": 557,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 88,
+                "ascension": 6,
+                "hp": 10226,
+                "atk": 335,
+                "def": 561,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 89,
+                "ascension": 6,
+                "hp": 10300,
+                "atk": 337,
+                "def": 565,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 90,
+                "ascension": 6,
+                "hp": 10372,
+                "atk": 340,
+                "def": 569,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 95,
+                "ascension": 6,
+                "hp": 10740,
+                "atk": 378,
+                "def": 589,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 100,
+                "ascension": 6,
+                "hp": 11109,
+                "atk": 416,
+                "def": 609,
+                "CRIT Rate%": "19.2"
+            }
+        ]
+    },
+    "icons": {
+        "forward": "UI_AvatarIcon_Yae",
+        "coop_img": "UI_CoopImg_Yae"
+    },
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101206": 168
+        },
+        "elemental": {
+            "104141": 1,
+            "104142": 9,
+            "104143": 9,
+            "104144": 6
+        },
+        "worldmonster": {
+            "112044": 18,
+            "112045": 30,
+            "112046": 36
+        },
+        "elitemonster": {
+            "113031": 46
+        }
+    },
+    "skills": {
+        "normalattack": {
+            "name": "Spiritfox Sin-Eater",
+            "icon": "Skill_A_Catalyst_MD",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "39.66%",
+                    "42.63%",
+                    "45.61%",
+                    "49.57%",
+                    "52.55%",
+                    "55.52%",
+                    "59.49%",
+                    "63.45%",
+                    "67.42%",
+                    "71.39%",
+                    "75.35%",
+                    "79.32%",
+                    "84.27%",
+                    "89.23%",
+                    "94.19%"
+                ],
+                "2-Hit DMG": [
+                    "38.52%",
+                    "41.41%",
+                    "44.3%",
+                    "48.15%",
+                    "51.04%",
+                    "53.93%",
+                    "57.78%",
+                    "61.63%",
+                    "65.48%",
+                    "69.33%",
+                    "73.19%",
+                    "77.04%",
+                    "81.85%",
+                    "86.67%",
+                    "91.48%"
+                ],
+                "3-Hit DMG": [
+                    "56.89%",
+                    "61.16%",
+                    "65.42%",
+                    "71.11%",
+                    "75.38%",
+                    "79.64%",
+                    "85.33%",
+                    "91.02%",
+                    "96.71%",
+                    "102.4%",
+                    "108.09%",
+                    "113.78%",
+                    "120.89%",
+                    "128%",
+                    "135.11%"
+                ],
+                "Charged Attack DMG": [
+                    "142.89%",
+                    "153.61%",
+                    "164.33%",
+                    "178.62%",
+                    "189.34%",
+                    "200.05%",
+                    "214.34%",
+                    "228.63%",
+                    "242.92%",
+                    "257.21%",
+                    "271.5%",
+                    "285.79%",
+                    "303.65%",
+                    "321.51%",
+                    "339.38%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50"
+                ],
+                "Plunge DMG": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "Low/High Plunge DMG": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ]
+            },
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nSummons forth kitsune spirits, initiating a maximum of 3 attacks that deal <color=#FFACFFFF>Electro DMG</color>.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to deal <color=#FFACFFFF>AoE Electro DMG</color> after a short casting time.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges towards the ground from mid-air, damaging all opponents in her path with thunderous might. Deals <color=#FFACFFFF>AoE Electro DMG</color> upon impact with the ground."
+        },
+        "elementalskill": {
+            "name": "Yakan Evocation: Sesshou Sakura",
+            "icon": "Skill_S_Yae_01",
+            "multipliers": {
+                "Sesshou Sakura DMG: Level 1": [
+                    "60.67%",
+                    "65.22%",
+                    "69.77%",
+                    "75.84%",
+                    "80.39%",
+                    "84.94%",
+                    "91.01%",
+                    "97.08%",
+                    "103.14%",
+                    "109.21%",
+                    "115.28%",
+                    "121.34%",
+                    "128.93%",
+                    "136.51%",
+                    "144.1%"
+                ],
+                "Sesshou Sakura DMG: Level 2": [
+                    "75.84%",
+                    "81.53%",
+                    "87.22%",
+                    "94.8%",
+                    "100.49%",
+                    "106.18%",
+                    "113.76%",
+                    "121.34%",
+                    "128.93%",
+                    "136.51%",
+                    "144.1%",
+                    "151.68%",
+                    "161.16%",
+                    "170.64%",
+                    "180.12%"
+                ],
+                "Sesshou Sakura DMG: Level 3": [
+                    "94.8%",
+                    "101.91%",
+                    "109.02%",
+                    "118.5%",
+                    "125.61%",
+                    "132.72%",
+                    "142.2%",
+                    "151.68%",
+                    "161.16%",
+                    "170.64%",
+                    "180.12%",
+                    "189.6%",
+                    "201.45%",
+                    "213.3%",
+                    "225.15%"
+                ],
+                "Sesshou Sakura DMG: Level 4": [
+                    "118.5%",
+                    "127.39%",
+                    "136.28%",
+                    "148.13%",
+                    "157.01%",
+                    "165.9%",
+                    "177.75%",
+                    "189.6%",
+                    "201.45%",
+                    "213.3%",
+                    "225.15%",
+                    "237%",
+                    "251.81%",
+                    "266.62%",
+                    "281.44%"
+                ],
+                "Duration": [
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s"
+                ],
+                "CD": [
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s"
+                ]
+            },
+            "description": "To Yae, such dull tasks as can be accomplished by driving spirits out need not be done personally.\\nMoves swiftly, leaving a Sesshou Sakura behind.\\n\\n<color=#FFD780FF>Sesshou Sakura</color>\\nHas the following properties:\\n· Periodically strikes one nearby opponent with lightning, dealing <color=#FFACFFFF>Electro DMG</color>\\n· When there are other Sesshou Sakura nearby, their level will increase, boosting the DMG dealt by these lightning strikes.\\n\\nThis skill has three charges.\\nA maximum of 3 Sesshou Sakura can exist simultaneously. The initial level of each Sesshou Sakura is 1, and the initial highest level each sakura can reach is 3. If a new Sesshou Sakura is created too close to an existing one, the existing one will be destroyed.\\n\\n<i>\"The kitsune spirits sealed in the branches are all yakan who stooped to preying upon humans. The yakan are two grades lower than us Sky Kitsune, and so, I hardly see the problem with... asking that they do my bidding. Now, this doesn't mean that you humans should go learning from our grading systems, no indeed — and as for which of us, kitsune or human, is higher up in the pecking order... Heh, wouldn't you like to know?\"</i>"
+        },
+        "elementalburst": {
+            "name": "Great Secret Art: Tenko Kenshin",
+            "icon": "Skill_E_Yae_01",
+            "multipliers": {
+                "Skill DMG": [
+                    "260%",
+                    "279.5%",
+                    "299%",
+                    "325%",
+                    "344.5%",
+                    "364%",
+                    "390%",
+                    "416%",
+                    "442%",
+                    "468%",
+                    "494%",
+                    "520%",
+                    "552.5%",
+                    "585%",
+                    "617.5%"
+                ],
+                "Tenko Thunderbolt DMG": [
+                    "333.82%",
+                    "358.85%",
+                    "383.89%",
+                    "417.27%",
+                    "442.31%",
+                    "467.34%",
+                    "500.72%",
+                    "534.11%",
+                    "567.49%",
+                    "600.87%",
+                    "634.25%",
+                    "667.63%",
+                    "709.36%",
+                    "751.09%",
+                    "792.81%"
+                ],
+                "CD": [
+                    "22s",
+                    "22s",
+                    "22s",
+                    "22s",
+                    "22s",
+                    "22s",
+                    "22s",
+                    "22s",
+                    "22s",
+                    "22s",
+                    "22s",
+                    "22s",
+                    "22s",
+                    "22s",
+                    "22s"
+                ],
+                "Energy Cost": [
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90"
+                ]
+            },
+            "description": "Legends of \"kitsunetsuki,\" or the manifestation of a kitsune's might, are common in Inazuma's folktales. One that particularly captures the imagination is that of the Sky Kitsune, said to cause lightning to fall down upon the foes of the Grand Narukami Shrine. Summons a lightning strike, dealing <color=#FFACFFFF>AoE Electro DMG</color>.\\nWhen she uses this skill, Yae Miko will unseal nearby Sesshou Sakura, destroying their outer forms and transforming them into Tenko Thunderbolts that descend from the skies, dealing <color=#FFACFFFF>AoE Electro DMG</color>. Each Sesshou Sakura destroyed in this way will create one Tenko Thunderbolt.\\n\\n<i>Only at times like these will Yae reveal her Sky Kitsune form and wield lightning itself. None have seen the Lady Guuji's tails and lived to tell the story... so remember, as far as you are concerned, Lady Yae does not have a tail.</i>"
+        },
+        "leveling": {
+            "crown": {
+                "104319": 3
+            },
+            "books": {
+                "104326": 9,
+                "104327": 63,
+                "104328": 114
+            },
+            "worldmonster": {
+                "112044": 18,
+                "112045": 66,
+                "112046": 93
+            },
+            "weekly": {
+                "113034": 18
+            }
+        }
+    },
+    "passives": {
+        "p1": {
+            "name": "The Shrine's Sacred Shade",
+            "description": "When casting <color=#FFD780FF>Great Secret Art: Tenko Kenshin</color>, each Sesshou Sakura destroyed resets the cooldown for 1 charge of <color=#FFD780FF>Yakan Evocation: Sesshou Sakura</color>.",
+            "icon": "UI_Talent_S_Yae_05"
+        },
+        "p2": {
+            "name": "Enlightened Blessing",
+            "description": "Every point of Elemental Mastery Yae Miko possesses will increase <color=#FFD780FF>Sesshou Sakura</color> DMG by 0.15%.",
+            "icon": "UI_Talent_S_Yae_06"
+        },
+        "p3": {
+            "name": "Meditations of a Yako",
+            "description": "Has a 25% chance to get 1 regional Character Talent Material (base material excluded) when crafting. The rarity is that of the base material.",
+            "icon": "UI_Talent_S_Yae_07"
+        },
+        "p4": ""
+    },
+    "constellations": {
+        "const1": {
+            "name": "Yakan Offering",
+            "description": "Each time <color=#FFD780FF>Great Secret Art: Tenko Kenshin</color> activates a Tenko Thunderbolt, Yae Miko will restore 8 Elemental Energy for herself.",
+            "icon": "UI_Talent_S_Yae_01"
+        },
+        "const2": {
+            "name": "Fox's Mooncall",
+            "description": "<color=#FFD780FF>Sesshou Sakura</color> start at Level 2 when created, their max level is increased to 4, and their attack range is increased by 60%.",
+            "icon": "UI_Talent_S_Yae_02"
+        },
+        "const3": {
+            "name": "The Seven Glamours",
+            "description": "Increases the Level of <color=#FFD780FF>Yakan Evocation: Sesshou Sakura</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Yae_01"
+        },
+        "const4": {
+            "name": "Sakura Channeling",
+            "description": "When <color=#FFD780FF>Sesshou Sakura</color> lightning hits opponents, the <color=#FFACFFFF>Electro DMG Bonus</color> of all nearby party members is increased by 20% for 5s.",
+            "icon": "UI_Talent_S_Yae_03"
+        },
+        "const5": {
+            "name": "Mischievous Teasing",
+            "description": "Increases the Level of <color=#FFD780FF>Great Secret Art: Tenko Kenshin</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Yae_02"
+        },
+        "const6": {
+            "name": "Forbidden Art: Daisesshou",
+            "description": "<color=#FFD780FF>The Sesshou Sakura's</color> attacks will ignore 60% of the opponents' DEF.",
+            "icon": "UI_Talent_S_Yae_04"
+        }
+    },
+    "energy": [
+        {
+            "source": "UNIQUE_ElementBall",
+            "particles": "1",
+            "chance": "100%",
+            "cd": "2.5s (Tick)"
+        }
+    ],
+    "attacks": [
+        {
+            "name": "ExtraAttack_Bullet_Material",
+            "icd_source": "Grp: Yae_ExtraAttack (Tag Miss)",
+            "icd_rule": "7 hits / 0.5s",
+            "gauge": "1U",
+            "poise": "LV2/80",
+            "element": "Electric"
+        },
+        {
+            "name": "ExtraAttack_Bullet_Material",
+            "icd_source": "Grp: Yae_ExtraAttack (Tag Miss)",
+            "icd_rule": "7 hits / 0.5s",
+            "gauge": "1U",
+            "poise": "LV2/80",
+            "element": "Electric"
+        },
+        {
+            "name": "ExtraAttack_Bullet_Material",
+            "icd_source": "Grp: Yae_ExtraAttack (Tag Miss)",
+            "icd_rule": "7 hits / 0.5s",
+            "gauge": "1U",
+            "poise": "LV2/80",
+            "element": "Electric"
+        },
+        {
+            "name": "ExtraAttack_Bullet_Material",
+            "icd_source": "Grp: Yae_ExtraAttack (Tag Miss)",
+            "icd_rule": "7 hits / 0.5s",
+            "gauge": "1U",
+            "poise": "LV2/80",
+            "element": "Electric"
+        },
+        {
+            "name": "ExtraAttack_Bullet_Material",
+            "icd_source": "Grp: Yae_ExtraAttack (Tag Miss)",
+            "icd_rule": "7 hits / 0.5s",
+            "gauge": "1U",
+            "poise": "LV2/80",
+            "element": "Electric"
+        },
+        {
+            "name": "ExtraAttack_Bullet_Material",
+            "icd_source": "Grp: Yae_ExtraAttack (Tag Miss)",
+            "icd_rule": "7 hits / 0.5s",
+            "gauge": "1U",
+            "poise": "LV2/80",
+            "element": "Electric"
+        },
+        {
+            "name": "Attack01_Bullet_Material",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV1/7",
+            "element": "Electric"
+        },
+        {
+            "name": "Attack02_Bullet_Material",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV1/7",
+            "element": "Electric"
+        },
+        {
+            "name": "Attack03_Bullet_Material",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV1/10",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalArt_Bullet_HasTarget_Material",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/100",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalArt_Bullet_Material",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/100",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalArt_Aim_Bullet_Material",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/100",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalArt_Bullet_Air_Material",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/100",
+            "element": "Electric"
+        },
+        {
+            "name": "FoxTower_ThunderFall_Level1",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/25",
+            "element": "Electric"
+        },
+        {
+            "name": "FoxTower_ThunderFall_Level2",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/25",
+            "element": "Electric"
+        },
+        {
+            "name": "FoxTower_ThunderFall_Level3",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/25",
+            "element": "Electric"
+        },
+        {
+            "name": "FoxTower_ThunderFall_Level4",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/25",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalBurst_TowerExplosion_Material",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/75",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalBurst_TowerExplosion_Material",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/75",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalBurst_TowerExplosion_Material",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/75",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalBurst_TowerExplosion_Material",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/75",
+            "element": "Electric"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/5",
+            "element": "Electric"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/50",
+            "element": "Electric"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/100",
+            "element": "Electric"
+        }
+    ],
+    "hyperlinks": []
+}

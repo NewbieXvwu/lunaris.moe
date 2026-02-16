@@ -1,0 +1,1238 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104161": 1,
+            "104162": 9,
+            "104163": 9,
+            "104164": 6
+        },
+        "elitemonster": {
+            "113010": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100022": 168
+        },
+        "worldmonster": {
+            "112032": 18,
+            "112033": 30,
+            "112034": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "ExtraAttack_Bullet",
+            "poise": "LV5/120"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "ExtraAttack_Bullet",
+            "poise": "LV5/120"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Strike_01",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Strike_02",
+            "poise": "LV5/100"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Strike_01",
+            "poise": "LV5/50"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Gadget_Material",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Gadget_Material",
+            "poise": "LV5/100"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Depois do ataque de Rosaria causar Dano CRIT, sua Vel. de ATQ aumenta em 10% e o Dano do Ataque Normal aumenta em 10%. Esse efeito dura por 4s.",
+            "icon": "UI_Talent_S_Rosaria_01",
+            "name": "Guia do Pecado"
+        },
+        "const2": {
+            "description": "O Dano causado pela Lança de Gelo de <color=#FFD780FF>Ritos de Terminação</color> é estendido em 4s.",
+            "icon": "UI_Talent_S_Rosaria_02",
+            "name": "Terra Profana"
+        },
+        "const3": {
+            "description": "Aumenta o nível da habilidade <color=#FFD780FF>Confissão Desoladora</color> em 3.\\nO nível máximo é 15.",
+            "icon": "UI_Talent_U_Rosaria_01",
+            "name": "Ritual de Confissão"
+        },
+        "const4": {
+            "description": "Quando a habilidade <color=#FFD780FF>Confissão Desoladora</color> causa um golpe CRIT, Rosaria regenera 5 pontos de Energia Elemental.\\nEsse efeito só pode ocorrer uma vez quando a Confissão Desoladora é lançada.",
+            "icon": "UI_Talent_S_Rosaria_03",
+            "name": "Graça do Sofrimento"
+        },
+        "const5": {
+            "description": "Aumenta o nível da habilidade <color=#FFD780FF>Ritos de Terminação</color> em 3.\\nO nível máximo é 15.",
+            "icon": "UI_Talent_U_Rosaria_02",
+            "name": "Oração do Decesso"
+        },
+        "const6": {
+            "description": "Os ataques de <color=#FFD780FF>Ritos de Terminação</color> reduzirão a RES Física dos Inimigos em 20% por 10s.",
+            "icon": "UI_Talent_S_Rosaria_04",
+            "name": "Julgamento Divino"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.6s",
+            "chance": "100%",
+            "particles": "3",
+            "source": "Ball"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Rosaria",
+        "forward": "UI_AvatarIcon_Rosaria"
+    },
+    "info": {
+        "attributes": [
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 60,
+                "hp": 1030,
+                "level": 1
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 64,
+                "hp": 1116,
+                "level": 2
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 23,
+                "def": 69,
+                "hp": 1200,
+                "level": 3
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 74,
+                "hp": 1286,
+                "level": 4
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 79,
+                "hp": 1370,
+                "level": 5
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 84,
+                "hp": 1456,
+                "level": 6
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 89,
+                "hp": 1540,
+                "level": 7
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 94,
+                "hp": 1626,
+                "level": 8
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 99,
+                "hp": 1711,
+                "level": 9
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 104,
+                "hp": 1796,
+                "level": 10
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 109,
+                "hp": 1881,
+                "level": 11
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 114,
+                "hp": 1966,
+                "level": 12
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 40,
+                "def": 118,
+                "hp": 2051,
+                "level": 13
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 123,
+                "hp": 2136,
+                "level": 14
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 43,
+                "def": 128,
+                "hp": 2221,
+                "level": 15
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 45,
+                "def": 133,
+                "hp": 2307,
+                "level": 16
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 47,
+                "def": 138,
+                "hp": 2391,
+                "level": 17
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 48,
+                "def": 143,
+                "hp": 2477,
+                "level": 18
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 50,
+                "def": 148,
+                "hp": 2561,
+                "level": 19
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 52,
+                "def": 153,
+                "hp": 2647,
+                "level": 20
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 68,
+                "def": 202,
+                "hp": 3501,
+                "level": 21
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 70,
+                "def": 207,
+                "hp": 3587,
+                "level": 22
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 72,
+                "def": 212,
+                "hp": 3672,
+                "level": 23
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 73,
+                "def": 217,
+                "hp": 3757,
+                "level": 24
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 75,
+                "def": 222,
+                "hp": 3842,
+                "level": 25
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 77,
+                "def": 227,
+                "hp": 3927,
+                "level": 26
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 78,
+                "def": 232,
+                "hp": 4012,
+                "level": 27
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 80,
+                "def": 237,
+                "hp": 4097,
+                "level": 28
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 82,
+                "def": 242,
+                "hp": 4182,
+                "level": 29
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 83,
+                "def": 246,
+                "hp": 4267,
+                "level": 30
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 85,
+                "def": 251,
+                "hp": 4352,
+                "level": 31
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 87,
+                "def": 256,
+                "hp": 4438,
+                "level": 32
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 88,
+                "def": 261,
+                "hp": 4522,
+                "level": 33
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 90,
+                "def": 266,
+                "hp": 4608,
+                "level": 34
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 92,
+                "def": 271,
+                "hp": 4692,
+                "level": 35
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 93,
+                "def": 276,
+                "hp": 4778,
+                "level": 36
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 95,
+                "def": 281,
+                "hp": 4862,
+                "level": 37
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 97,
+                "def": 286,
+                "hp": 4948,
+                "level": 38
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 98,
+                "def": 291,
+                "hp": 5033,
+                "level": 39
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 100,
+                "def": 296,
+                "hp": 5118,
+                "level": 40
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 112,
+                "def": 332,
+                "hp": 5750,
+                "level": 41
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 114,
+                "def": 337,
+                "hp": 5835,
+                "level": 42
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 116,
+                "def": 342,
+                "hp": 5920,
+                "level": 43
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 117,
+                "def": 347,
+                "hp": 6005,
+                "level": 44
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 119,
+                "def": 352,
+                "hp": 6090,
+                "level": 45
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 121,
+                "def": 357,
+                "hp": 6176,
+                "level": 46
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 122,
+                "def": 362,
+                "hp": 6260,
+                "level": 47
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 124,
+                "def": 367,
+                "hp": 6346,
+                "level": 48
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 126,
+                "def": 371,
+                "hp": 6430,
+                "level": 49
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 127,
+                "def": 376,
+                "hp": 6516,
+                "level": 50
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 143,
+                "def": 423,
+                "hp": 7329,
+                "level": 51
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 145,
+                "def": 428,
+                "hp": 7415,
+                "level": 52
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 146,
+                "def": 433,
+                "hp": 7500,
+                "level": 53
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 148,
+                "def": 438,
+                "hp": 7585,
+                "level": 54
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 150,
+                "def": 443,
+                "hp": 7670,
+                "level": 55
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 151,
+                "def": 448,
+                "hp": 7755,
+                "level": 56
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 153,
+                "def": 453,
+                "hp": 7840,
+                "level": 57
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 155,
+                "def": 458,
+                "hp": 7925,
+                "level": 58
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 156,
+                "def": 463,
+                "hp": 8010,
+                "level": 59
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 158,
+                "def": 468,
+                "hp": 8096,
+                "level": 60
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 170,
+                "def": 504,
+                "hp": 8727,
+                "level": 61
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 172,
+                "def": 509,
+                "hp": 8813,
+                "level": 62
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 174,
+                "def": 514,
+                "hp": 8897,
+                "level": 63
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 175,
+                "def": 519,
+                "hp": 8983,
+                "level": 64
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 177,
+                "def": 524,
+                "hp": 9067,
+                "level": 65
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 179,
+                "def": 529,
+                "hp": 9153,
+                "level": 66
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 180,
+                "def": 534,
+                "hp": 9238,
+                "level": 67
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 182,
+                "def": 539,
+                "hp": 9323,
+                "level": 68
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 184,
+                "def": 543,
+                "hp": 9408,
+                "level": 69
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 185,
+                "def": 548,
+                "hp": 9493,
+                "level": 70
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 198,
+                "def": 585,
+                "hp": 10125,
+                "level": 71
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 199,
+                "def": 590,
+                "hp": 10210,
+                "level": 72
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 201,
+                "def": 595,
+                "hp": 10295,
+                "level": 73
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 203,
+                "def": 600,
+                "hp": 10381,
+                "level": 74
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 204,
+                "def": 604,
+                "hp": 10465,
+                "level": 75
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 206,
+                "def": 609,
+                "hp": 10551,
+                "level": 76
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 208,
+                "def": 614,
+                "hp": 10635,
+                "level": 77
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 209,
+                "def": 619,
+                "hp": 10721,
+                "level": 78
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 211,
+                "def": 624,
+                "hp": 10805,
+                "level": 79
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 213,
+                "def": 629,
+                "hp": 10891,
+                "level": 80
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 225,
+                "def": 666,
+                "hp": 11523,
+                "level": 81
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 227,
+                "def": 670,
+                "hp": 11608,
+                "level": 82
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 228,
+                "def": 675,
+                "hp": 11693,
+                "level": 83
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 230,
+                "def": 680,
+                "hp": 11778,
+                "level": 84
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 232,
+                "def": 685,
+                "hp": 11863,
+                "level": 85
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 233,
+                "def": 690,
+                "hp": 11948,
+                "level": 86
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 235,
+                "def": 695,
+                "hp": 12033,
+                "level": 87
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 237,
+                "def": 700,
+                "hp": 12118,
+                "level": 88
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 238,
+                "def": 705,
+                "hp": 12203,
+                "level": 89
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 240,
+                "def": 710,
+                "hp": 12289,
+                "level": 90
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 271,
+                "def": 734,
+                "hp": 12713,
+                "level": 95
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 301,
+                "def": 759,
+                "hp": 13139,
+                "level": 100
+            }
+        ],
+        "birthday": "January 24th",
+        "constellation": "Spinea Corona",
+        "description": "Uma freira que, além das suas vestes, não se parece em nada com uma pessoa do clero. Conhecida por seus modos e palavras diretos e frios, ela costuma trabalhar sozinha.",
+        "element": "Cryo",
+        "name": "Rosaria",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_POLE"
+    },
+    "passives": {
+        "p1": {
+            "description": "Quando a habilidade <color=#FFD780FF>Confissão Desoladora</color> ataca por trás de um inimigo, a Taxa CRIT de Rosaria aumenta em 12% por 5s.",
+            "icon": "UI_Talent_S_Rosaria_05",
+            "name": "Confissões Forçadas"
+        },
+        "p2": {
+            "description": "Ao lançar <color=#FFD780FF>Ritos de Terminação</color>, a Taxa CRIT de todos os membros da Equipe (exceto Rosaria) é aumentada em 15% com base na Taxa CRIT de Rosaria por 10s.\\nO aumento da Taxa CRIT obtido dessa maneira não pode ultrapassar 15%.",
+            "icon": "UI_Talent_S_Rosaria_06",
+            "name": "Samaritana da Escuridão"
+        },
+        "p3": {
+            "description": "Durante a noite (18:00 - 06:00), os membros do seu grupo ganham o efeito Passos Ágeis: Veloc. Mov. aumenta em 10%.\\nNão tem efeito em Domínios, Domínios Dizimados ou Abismo Espiral. O efeito Passos Ágeis não se acumula.",
+            "icon": "UI_Talent_Rosaria_NightRunner",
+            "name": "Caminhada Noturna"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "A oração característica de Rosaria. Após brandir sua arma para cortar os inimigos próximos, ela invoca uma Lança de Gelo frígida e golpeia o solo, infligindo <color=#99FFFFFF>Dano Cryo</color> ambas as vezes.\\nEnquanto ativa, a Lança de Gelo emite ar frio de forma intermitente, infligindo <color=#99FFFFFF>Dano Cryo</color> aos inimigos ao redor.\\n\\n<i>O julgamento é algo muito incômodo. Sugiro que pulemos isso e passemos diretamente para a Oração do Decesso. Devido à minha falta de devoção ao Arconte Anemo, é muito fácil fazer isso.</i>",
+            "icon": "Skill_E_Rosaria_01",
+            "multipliers": {
+                "Dano Contínuo da Lança de Gelo": [
+                    "132%",
+                    "141.9%",
+                    "151.8%",
+                    "165%",
+                    "174.9%",
+                    "184.8%",
+                    "198%",
+                    "211.2%",
+                    "224.4%",
+                    "237.6%",
+                    "250.8%",
+                    "264%",
+                    "280.5%",
+                    "297%",
+                    "313.5%"
+                ],
+                "Dano de Habilidade": [
+                    "104%+152%",
+                    "111.8%+163.4%",
+                    "119.6%+174.8%",
+                    "130%+190%",
+                    "137.8%+201.4%",
+                    "145.6%+212.8%",
+                    "156%+228%",
+                    "166.4%+243.2%",
+                    "176.8%+258.4%",
+                    "187.2%+273.6%",
+                    "197.6%+288.8%",
+                    "208%+304%",
+                    "221%+323%",
+                    "234%+342%",
+                    "247%+361%"
+                ],
+                "Duração": [
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s"
+                ],
+                "Energia Elemental": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "Tempo de Recarga": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ]
+            },
+            "name": "Ritos de Terminação"
+        },
+        "elementalskill": {
+            "description": "Rosaria muda rapidamente de posição e aparece atrás de seu alvo. Ela o perfura e corta com sua arma, infligindo <color=#99FFFFFF>Dano Cryo</color>.\\nNão é possível deslocar-se para trás de inimigos de tamanho grande com esta habilidade.\\n\\n<i>A Freira Rosaria não perdoa os pecados daqueles que não se confessam a ela. Todos os pecadores serão castigados com o frio penetrante de uma punição proporcional à gravidade de seus pecados.</i>",
+            "icon": "Skill_S_Rosaria_01",
+            "multipliers": {
+                "Dano de Habilidade": [
+                    "58.4%+136%",
+                    "62.78%+146.2%",
+                    "67.16%+156.4%",
+                    "73%+170%",
+                    "77.38%+180.2%",
+                    "81.76%+190.4%",
+                    "87.6%+204%",
+                    "93.44%+217.6%",
+                    "99.28%+231.2%",
+                    "105.12%+244.8%",
+                    "110.96%+258.4%",
+                    "116.8%+272%",
+                    "124.1%+289%",
+                    "131.4%+306%",
+                    "138.7%+323%"
+                ],
+                "Tempo de Recarga": [
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s"
+                ]
+            },
+            "name": "Confissão Desoladora"
+        },
+        "leveling": {
+            "books": {
+                "104307": 9,
+                "104308": 63,
+                "104309": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113015": 18
+            },
+            "worldmonster": {
+                "112032": 18,
+                "112033": 66,
+                "112034": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 5 golpes com a lança.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome uma certa quantidade de Stamina para se lançar para frente, infligindo Dano em seu trajeto.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+            "icon": "Skill_A_03",
+            "multipliers": {
+                "Consumo de Stamina de Ataque Carregado": [
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25"
+                ],
+                "Dano Durante a Queda": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ],
+                "Dano de Ataque Carregado": [
+                    "136.74%",
+                    "147.87%",
+                    "159%",
+                    "174.9%",
+                    "186.03%",
+                    "198.75%",
+                    "216.24%",
+                    "233.73%",
+                    "251.22%",
+                    "270.3%",
+                    "289.38%",
+                    "308.46%",
+                    "327.54%",
+                    "346.62%",
+                    "365.7%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Dano do 1° Golpe": [
+                    "52.46%",
+                    "56.73%",
+                    "61%",
+                    "67.1%",
+                    "71.37%",
+                    "76.25%",
+                    "82.96%",
+                    "89.67%",
+                    "96.38%",
+                    "103.7%",
+                    "111.02%",
+                    "118.34%",
+                    "125.66%",
+                    "132.98%",
+                    "140.3%"
+                ],
+                "Dano do 2° Golpe": [
+                    "51.6%",
+                    "55.8%",
+                    "60%",
+                    "66%",
+                    "70.2%",
+                    "75%",
+                    "81.6%",
+                    "88.2%",
+                    "94.8%",
+                    "102%",
+                    "109.2%",
+                    "116.4%",
+                    "123.6%",
+                    "130.8%",
+                    "138%"
+                ],
+                "Dano do 3° Golpe": [
+                    "31.82%*2",
+                    "34.41%*2",
+                    "37%*2",
+                    "40.7%*2",
+                    "43.29%*2",
+                    "46.25%*2",
+                    "50.32%*2",
+                    "54.39%*2",
+                    "58.46%*2",
+                    "62.9%*2",
+                    "67.34%*2",
+                    "71.78%*2",
+                    "76.22%*2",
+                    "80.66%*2",
+                    "85.1%*2"
+                ],
+                "Dano do 4° Golpe": [
+                    "69.66%",
+                    "75.33%",
+                    "81%",
+                    "89.1%",
+                    "94.77%",
+                    "101.25%",
+                    "110.16%",
+                    "119.07%",
+                    "127.98%",
+                    "137.7%",
+                    "147.42%",
+                    "157.14%",
+                    "166.86%",
+                    "176.58%",
+                    "186.3%"
+                ],
+                "Dano do 5° Golpe": [
+                    "41.62%+43%",
+                    "45.01%+46.5%",
+                    "48.4%+50%",
+                    "53.24%+55%",
+                    "56.63%+58.5%",
+                    "60.5%+62.5%",
+                    "65.82%+68%",
+                    "71.15%+73.5%",
+                    "76.47%+79%",
+                    "82.28%+85%",
+                    "88.09%+91%",
+                    "93.9%+97%",
+                    "99.7%+103%",
+                    "105.51%+109%",
+                    "111.32%+115%"
+                ]
+            },
+            "name": "Lança Eclesiástica"
+        }
+    }
+}

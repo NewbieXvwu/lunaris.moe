@@ -1,0 +1,1339 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104171": 1,
+            "104172": 9,
+            "104173": 9,
+            "104174": 6
+        },
+        "elitemonster": {
+            "113009": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100023": 168
+        },
+        "worldmonster": {
+            "112008": 18,
+            "112009": 30,
+            "112010": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "SkillObj_FuriousMonolith",
+            "poise": "LV4/50"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "SkillObj_FuriousMonolith_Field",
+            "poise": "LV1/50"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_FuriousMonolith_FullBloom",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_FuriousMonolith_FullBloom",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_FuriousMonolith_FullBloom",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_FuriousMonolith_FullBloom",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_FuriousMonolith_FullBloom",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_FuriousMonolith_FullBloom",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_FuriousMonolith_FullBloom",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_FuriousMonolith_FullBloom",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_FuriousMonolith_FullBloom",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "AlchemicalBreakOut",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "4U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Grp: default",
+            "name": "AlchemicalBreakOut",
+            "poise": "-/400"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "SkillObj_FuriousMonolith_Hexenzirkel",
+            "poise": "LV1/50"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "HexenzirkelSkill",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "HexenzirkelSkill",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "HexenzirkelSkill",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "HexenzirkelSkill",
+            "poise": "LV2/30"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Transient Blossoms generated by Albedo's <color=#FFD780FF>Abiogenesis: Solar Isotoma</color> regenerate 1.2 Energy for Albedo.",
+            "icon": "UI_Talent_S_Albedo_01",
+            "name": "Flower of Eden"
+        },
+        "const2": {
+            "description": "Transient Blossoms generated by <color=#FFD780FF>Abiogenesis: Solar Isotoma</color> grant Albedo Fatal Reckoning for 30s:\\n·Unleashing <color=#FFD780FF>Rite of Progeniture: Tectonic Tide</color> consumes all stacks of Fatal Reckoning. Each stack of Fatal Reckoning consumed increases the DMG dealt by Fatal Blossoms and Rite of Progeniture: Tectonic Tide's burst DMG by 30% of Albedo's DEF.\\n·This effect stacks up to 4 times.",
+            "icon": "UI_Talent_S_Albedo_02",
+            "name": "Opening of Phanerozoic"
+        },
+        "const3": {
+            "description": "Increases the Level of <color=#FFD780FF>Abiogenesis: Solar Isotoma</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Albedo_01",
+            "name": "Grace of Helios"
+        },
+        "const4": {
+            "description": "Active party members within the Solar Isotoma field have their Plunging Attack DMG increased by 30%.",
+            "icon": "UI_Talent_S_Albedo_03",
+            "name": "Descent of Divinity"
+        },
+        "const5": {
+            "description": "Increases the Level of <color=#FFD780FF>Rite of Progeniture: Tectonic Tide</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Albedo_02",
+            "name": "Tide of Hadean"
+        },
+        "const6": {
+            "description": "Active party members within the Solar Isotoma field who are protected by a shield created by Crystallize, or when Moondrifts are present within the Solar Isotoma field, have their DMG increased by 17%.",
+            "icon": "UI_Talent_S_Albedo_04",
+            "name": "Dust of Purification"
+        }
+    },
+    "energy": [
+        {
+            "cd": "1s",
+            "chance": "67%",
+            "particles": "1",
+            "source": "AlchemyTrap_BloomElemBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Albedo",
+        "forward": "UI_AvatarIcon_Albedo"
+    },
+    "info": {
+        "attributes": [
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 68,
+                "hp": 1030,
+                "level": 1
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 74,
+                "hp": 1115,
+                "level": 2
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 23,
+                "def": 80,
+                "hp": 1200,
+                "level": 3
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 85,
+                "hp": 1287,
+                "level": 4
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 91,
+                "hp": 1372,
+                "level": 5
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 97,
+                "hp": 1459,
+                "level": 6
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 102,
+                "hp": 1544,
+                "level": 7
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 108,
+                "hp": 1631,
+                "level": 8
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 114,
+                "hp": 1717,
+                "level": 9
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 119,
+                "hp": 1803,
+                "level": 10
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 125,
+                "hp": 1889,
+                "level": 11
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 131,
+                "hp": 1976,
+                "level": 12
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 137,
+                "hp": 2062,
+                "level": 13
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 142,
+                "hp": 2150,
+                "level": 14
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 148,
+                "hp": 2236,
+                "level": 15
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 154,
+                "hp": 2323,
+                "level": 16
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 46,
+                "def": 160,
+                "hp": 2410,
+                "level": 17
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 47,
+                "def": 165,
+                "hp": 2497,
+                "level": 18
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 49,
+                "def": 171,
+                "hp": 2584,
+                "level": 19
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 51,
+                "def": 177,
+                "hp": 2671,
+                "level": 20
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 69,
+                "def": 241,
+                "hp": 3641,
+                "level": 21
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 247,
+                "hp": 3729,
+                "level": 22
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 72,
+                "def": 253,
+                "hp": 3816,
+                "level": 23
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 74,
+                "def": 259,
+                "hp": 3904,
+                "level": 24
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 76,
+                "def": 264,
+                "hp": 3991,
+                "level": 25
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 77,
+                "def": 270,
+                "hp": 4080,
+                "level": 26
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 79,
+                "def": 276,
+                "hp": 4167,
+                "level": 27
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 81,
+                "def": 282,
+                "hp": 4255,
+                "level": 28
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 82,
+                "def": 288,
+                "hp": 4343,
+                "level": 29
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 84,
+                "def": 294,
+                "hp": 4431,
+                "level": 30
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 86,
+                "def": 299,
+                "hp": 4519,
+                "level": 31
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 87,
+                "def": 305,
+                "hp": 4608,
+                "level": 32
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 89,
+                "def": 311,
+                "hp": 4696,
+                "level": 33
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 91,
+                "def": 317,
+                "hp": 4784,
+                "level": 34
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 93,
+                "def": 323,
+                "hp": 4872,
+                "level": 35
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 94,
+                "def": 329,
+                "hp": 4962,
+                "level": 36
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 96,
+                "def": 335,
+                "hp": 5051,
+                "level": 37
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 98,
+                "def": 340,
+                "hp": 5139,
+                "level": 38
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 99,
+                "def": 346,
+                "hp": 5228,
+                "level": 39
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 101,
+                "def": 352,
+                "hp": 5317,
+                "level": 40
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 115,
+                "def": 400,
+                "hp": 6033,
+                "level": 41
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 116,
+                "def": 406,
+                "hp": 6123,
+                "level": 42
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 118,
+                "def": 412,
+                "hp": 6212,
+                "level": 43
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 120,
+                "def": 417,
+                "hp": 6301,
+                "level": 44
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 121,
+                "def": 423,
+                "hp": 6390,
+                "level": 45
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 123,
+                "def": 429,
+                "hp": 6480,
+                "level": 46
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 125,
+                "def": 435,
+                "hp": 6569,
+                "level": 47
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 126,
+                "def": 441,
+                "hp": 6659,
+                "level": 48
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 128,
+                "def": 447,
+                "hp": 6750,
+                "level": 49
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 130,
+                "def": 453,
+                "hp": 6839,
+                "level": 50
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 147,
+                "def": 514,
+                "hp": 7765,
+                "level": 51
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 149,
+                "def": 520,
+                "hp": 7856,
+                "level": 52
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 151,
+                "def": 526,
+                "hp": 7945,
+                "level": 53
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 153,
+                "def": 532,
+                "hp": 8036,
+                "level": 54
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 154,
+                "def": 538,
+                "hp": 8126,
+                "level": 55
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 156,
+                "def": 544,
+                "hp": 8217,
+                "level": 56
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 158,
+                "def": 550,
+                "hp": 8308,
+                "level": 57
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 159,
+                "def": 556,
+                "hp": 8398,
+                "level": 58
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 161,
+                "def": 562,
+                "hp": 8489,
+                "level": 59
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 163,
+                "def": 568,
+                "hp": 8579,
+                "level": 60
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 177,
+                "def": 616,
+                "hp": 9297,
+                "level": 61
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 178,
+                "def": 622,
+                "hp": 9388,
+                "level": 62
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 180,
+                "def": 628,
+                "hp": 9480,
+                "level": 63
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 182,
+                "def": 634,
+                "hp": 9570,
+                "level": 64
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 183,
+                "def": 640,
+                "hp": 9662,
+                "level": 65
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 185,
+                "def": 646,
+                "hp": 9753,
+                "level": 66
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 187,
+                "def": 652,
+                "hp": 9844,
+                "level": 67
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 189,
+                "def": 658,
+                "hp": 9936,
+                "level": 68
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 190,
+                "def": 664,
+                "hp": 10027,
+                "level": 69
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 192,
+                "def": 670,
+                "hp": 10119,
+                "level": 70
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 206,
+                "def": 718,
+                "hp": 10838,
+                "level": 71
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 208,
+                "def": 724,
+                "hp": 10930,
+                "level": 72
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 209,
+                "def": 730,
+                "hp": 11022,
+                "level": 73
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 211,
+                "def": 736,
+                "hp": 11114,
+                "level": 74
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 213,
+                "def": 742,
+                "hp": 11206,
+                "level": 75
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 215,
+                "def": 748,
+                "hp": 11298,
+                "level": 76
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 216,
+                "def": 755,
+                "hp": 11391,
+                "level": 77
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 218,
+                "def": 761,
+                "hp": 11483,
+                "level": 78
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 220,
+                "def": 767,
+                "hp": 11576,
+                "level": 79
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 222,
+                "def": 773,
+                "hp": 11669,
+                "level": 80
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 235,
+                "def": 821,
+                "hp": 12389,
+                "level": 81
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 237,
+                "def": 827,
+                "hp": 12481,
+                "level": 82
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 239,
+                "def": 833,
+                "hp": 12574,
+                "level": 83
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 241,
+                "def": 839,
+                "hp": 12667,
+                "level": 84
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 242,
+                "def": 845,
+                "hp": 12759,
+                "level": 85
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 244,
+                "def": 851,
+                "hp": 12853,
+                "level": 86
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 246,
+                "def": 858,
+                "hp": 12946,
+                "level": 87
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 248,
+                "def": 864,
+                "hp": 13039,
+                "level": 88
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 249,
+                "def": 870,
+                "hp": 13133,
+                "level": 89
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 251,
+                "def": 876,
+                "hp": 13226,
+                "level": 90
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 279,
+                "def": 907,
+                "hp": 13695,
+                "level": 95
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 308,
+                "def": 938,
+                "hp": 14166,
+                "level": 100
+            }
+        ],
+        "birthday": "September 13th",
+        "constellation": "Princeps Cretaceus",
+        "description": "A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.",
+        "element": "Geo",
+        "name": "Albedo",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_SWORD_ONE_HAND"
+    },
+    "passives": {
+        "p1": {
+            "description": "Transient Blossoms generated by <color=#FFD780FF>Abiogenesis: Solar Isotoma</color> deal 25% more DMG to opponents whose HP is below 50%.",
+            "icon": "UI_Talent_S_Albedo_05",
+            "name": "Calcite Might"
+        },
+        "p2": {
+            "description": "Using <color=#FFD780FF>Rite of Progeniture: Tectonic Tide</color> increases the Elemental Mastery of nearby party members by 125 for 10s.",
+            "icon": "UI_Talent_S_Albedo_06",
+            "name": "Homuncular Nature"
+        },
+        "p3": {
+            "description": "When Albedo crafts Weapon Ascension Materials, he has a 10% chance to receive double the product.",
+            "icon": "UI_Talent_Combine_Weapon_Double",
+            "name": "Flash of Genius"
+        },
+        "p4": {
+            "description": "After completing <color=#FFD780FF>Witch's Homework: Beyond the Lesson</color>, Albedo will become a <color=#FFD780FF>Hexerei</color> character. When the party includes at least 2 Hexerei characters, you will gain the <color=#FFD780FF>Hexerei: Secret Rite</color> effect, which enhances Hexerei characters.\\n\\n<color=#FFD780FF>Hexerei: Secret Rite</color>\\n· When Albedo hits an opponent with his Elemental Skill within 20s of using an Elemental Skill, it will generate a <color=#FFD780FF>Silver Isotoma</color> near the opponent that lasts for 10s. When there are no Solar Isotomas created by Albedo on the field, and as long as Albedo is not downed, a single Silver Isotoma will begin generating Transient Blossoms, just as Solar Isotomas would. There can be up to two Silver Isotomas generated by Albedo on the field at any one time.\\n· After creating a Solar Isotoma, nearby party members' Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, and Elemental Burst DMG are increased by 4% for every 1,000 DEF Albedo has for 20s. The maximum increase that can be achieved this way is 12%.\\n· After generating a Silver Isotoma, nearby Hexerei party members' Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, and Elemental Burst DMG are increased by 10% for every 1,000 DEF Albedo has for 20s. The maximum increase that can be achieved this way is 30%.",
+            "icon": "UI_Talent_S_Albedo_07",
+            "name": "Witch's Eve Rite: Book of Blinding Light"
+        }
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Under Albedo's command, Geo crystals surge and burst forth, dealing <color=#FFE699FF>AoE Geo DMG</color> in front of him.\\nIf a Solar Isotoma created by Albedo himself is on the field, 7 Fatal Blossoms will be generated in the Solar Isotoma field, bursting violently into bloom and dealing <color=#FFE699FF>AoE Geo DMG</color>.\\n\\nTectonic Tide DMG and Fatal Blossom DMG will not generate Transient Blossoms.\\n\\n<i>Under the Kreideprinz's command, the tectonic tide of creation seethes into life.</i>",
+            "icon": "Skill_E_Albedo_01",
+            "multipliers": {
+                "Burst DMG": [
+                    "367.2%",
+                    "394.74%",
+                    "422.28%",
+                    "459%",
+                    "486.54%",
+                    "514.08%",
+                    "550.8%",
+                    "587.52%",
+                    "624.24%",
+                    "660.96%",
+                    "697.68%",
+                    "734.4%",
+                    "780.3%",
+                    "826.2%",
+                    "872.1%"
+                ],
+                "CD": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "Energy Cost": [
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40"
+                ],
+                "Fatal Blossom DMG": [
+                    "72% each",
+                    "77.4% each",
+                    "82.8% each",
+                    "90% each",
+                    "95.4% each",
+                    "100.8% each",
+                    "108% each",
+                    "115.2% each",
+                    "122.4% each",
+                    "129.6% each",
+                    "136.8% each",
+                    "144% each",
+                    "153% each",
+                    "162% each",
+                    "171% each"
+                ]
+            },
+            "name": "Rite of Progeniture: Tectonic Tide"
+        },
+        "elementalskill": {
+            "description": "Albedo creates a Solar Isotoma using alchemy, which deals <color=#FFE699FF>AoE Geo DMG</color> on appearance.\\n\\n<color=#FFD780FF>Solar Isotoma</color>\\nhas the following properties:\\n·When opponents within the Solar Isotoma field take DMG, the Solar Isotoma will generate Transient Blossoms which deal <color=#FFE699FF>AoE Geo DMG</color>. DMG dealt scales off Albedo's DEF. \\n·Transient Blossoms can only be generated once every 2s.\\n·When a character is located at the locus of the Solar Isotoma, the Solar Isotoma will accumulate Geo power to form a crystallized platform that lifts the character up to a certain height. Only one crystallized platform can exist at a time.\\n·Solar Isotoma is considered a <color=#FFE699FF>Geo construct</color>. Only one Solar Isotoma created by Albedo himself can exist at a time. \\n\\n<color=#FFD780FF>Hold</color> to designate the location of the skill.\\n\\n<i>This Geo bloom has an unusual property mirrored in the aim of alchemy. To rise from the earth, soar into the sky, and become the sun.</i>",
+            "icon": "Skill_S_Albedo_01",
+            "multipliers": {
+                "Duration": [
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s"
+                ],
+                "Skill CD": [
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s"
+                ],
+                "Skill DMG": [
+                    "130.4%",
+                    "140.18%",
+                    "149.96%",
+                    "163%",
+                    "172.78%",
+                    "182.56%",
+                    "195.6%",
+                    "208.64%",
+                    "221.68%",
+                    "234.72%",
+                    "247.76%",
+                    "260.8%",
+                    "277.1%",
+                    "293.4%",
+                    "309.7%"
+                ],
+                "Transient Blossom DMG": [
+                    "133.6% DEF",
+                    "143.62% DEF",
+                    "153.64% DEF",
+                    "167% DEF",
+                    "177.02% DEF",
+                    "187.04% DEF",
+                    "200.4% DEF",
+                    "213.76% DEF",
+                    "227.12% DEF",
+                    "240.48% DEF",
+                    "253.84% DEF",
+                    "267.2% DEF",
+                    "283.9% DEF",
+                    "300.6% DEF",
+                    "317.3% DEF"
+                ]
+            },
+            "name": "Abiogenesis: Solar Isotoma"
+        },
+        "leveling": {
+            "books": {
+                "104307": 9,
+                "104308": 63,
+                "104309": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113013": 18
+            },
+            "worldmonster": {
+                "112008": 18,
+                "112009": 66,
+                "112010": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 5 rapid strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+            "icon": "Skill_A_01",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "36.74%",
+                    "39.73%",
+                    "42.72%",
+                    "46.99%",
+                    "49.98%",
+                    "53.4%",
+                    "58.1%",
+                    "62.8%",
+                    "67.5%",
+                    "72.62%",
+                    "78.5%",
+                    "85.41%",
+                    "92.31%",
+                    "99.22%",
+                    "106.76%"
+                ],
+                "2-Hit DMG": [
+                    "36.74%",
+                    "39.73%",
+                    "42.72%",
+                    "46.99%",
+                    "49.98%",
+                    "53.4%",
+                    "58.1%",
+                    "62.8%",
+                    "67.5%",
+                    "72.62%",
+                    "78.5%",
+                    "85.41%",
+                    "92.31%",
+                    "99.22%",
+                    "106.76%"
+                ],
+                "3-Hit DMG": [
+                    "47.45%",
+                    "51.32%",
+                    "55.18%",
+                    "60.7%",
+                    "64.56%",
+                    "68.98%",
+                    "75.04%",
+                    "81.11%",
+                    "87.18%",
+                    "93.81%",
+                    "101.39%",
+                    "110.32%",
+                    "119.24%",
+                    "128.16%",
+                    "137.89%"
+                ],
+                "4-Hit DMG": [
+                    "49.75%",
+                    "53.8%",
+                    "57.85%",
+                    "63.63%",
+                    "67.68%",
+                    "72.31%",
+                    "78.68%",
+                    "85.04%",
+                    "91.4%",
+                    "98.34%",
+                    "106.3%",
+                    "115.65%",
+                    "125.01%",
+                    "134.36%",
+                    "144.57%"
+                ],
+                "5-Hit DMG": [
+                    "62.07%",
+                    "67.13%",
+                    "72.18%",
+                    "79.4%",
+                    "84.45%",
+                    "90.22%",
+                    "98.16%",
+                    "106.1%",
+                    "114.04%",
+                    "122.7%",
+                    "132.63%",
+                    "144.3%",
+                    "155.97%",
+                    "167.64%",
+                    "180.38%"
+                ],
+                "Charged Attack DMG": [
+                    "47.3%+60.2%",
+                    "51.15%+65.1%",
+                    "55%+70%",
+                    "60.5%+77%",
+                    "64.35%+81.9%",
+                    "68.75%+87.5%",
+                    "74.8%+95.2%",
+                    "80.85%+102.9%",
+                    "86.9%+110.6%",
+                    "93.5%+119%",
+                    "101.06%+128.62%",
+                    "109.96%+139.94%",
+                    "118.85%+151.26%",
+                    "127.74%+162.58%",
+                    "137.44%+174.93%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20"
+                ],
+                "Low/High Plunge DMG": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Plunge DMG": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ]
+            },
+            "name": "Favonius Bladework - Weiss"
+        }
+    }
+}

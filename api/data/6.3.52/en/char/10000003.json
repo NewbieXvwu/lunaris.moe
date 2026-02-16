@@ -1,0 +1,1279 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104151": 1,
+            "104152": 9,
+            "104153": 9,
+            "104154": 6
+        },
+        "elitemonster": {
+            "113001": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100057": 168
+        },
+        "worldmonster": {
+            "112005": 18,
+            "112006": 30,
+            "112007": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: VortexSmash_Detect_Short (!)",
+            "name": "VortexSmash",
+            "poise": "LV0/0"
+        },
+        {
+            "element": "-",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: VortexSmash_Detect (!)",
+            "name": "VortexSmash",
+            "poise": "LV0/0"
+        },
+        {
+            "element": "Wind",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "VortexSmash",
+            "poise": "LV9/250"
+        },
+        {
+            "element": "-",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Qin_VortexSmash (!)",
+            "name": "VortexSmash",
+            "poise": "LV9/250"
+        },
+        {
+            "element": "Wind",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "DandelionWind_Harm",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "Wind",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "DandelionWind_Push",
+            "poise": "LV4/400"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Increases the pulling speed of <color=#FFD780FF>Gale Blade</color> after holding for more than 1s, and increases the DMG dealt by 40%.",
+            "icon": "UI_Talent_S_Qin_01",
+            "name": "Spiraling Tempest"
+        },
+        "const2": {
+            "description": "When Jean picks up an Elemental Orb/Particle, all party members have their Movement SPD and ATK SPD increased by 15% for 15s.",
+            "icon": "UI_Talent_S_Qin_02",
+            "name": "People's Aegis"
+        },
+        "const3": {
+            "description": "Increases the Level of <color=#FFD780FF>Dandelion Breeze</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Qin_02",
+            "name": "When the West Wind Arises"
+        },
+        "const4": {
+            "description": "Within the Field created by <color=#FFD780FF>Dandelion Breeze</color>, all opponents have their <color=#80FFD7FF>Anemo RES</color> decreased by 40%.",
+            "icon": "UI_Talent_S_Qin_03",
+            "name": "Lands of Dandelion"
+        },
+        "const5": {
+            "description": "Increases the Level of <color=#FFD780FF>Gale Blade</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Qin_01",
+            "name": "Outbursting Gust"
+        },
+        "const6": {
+            "description": "Incoming DMG is decreased by 35% within the Field created by <color=#FFD780FF>Dandelion Breeze</color>. Upon leaving the Dandelion Field, this effect lasts for 3 attacks or 10s.",
+            "icon": "UI_Talent_S_Qin_04",
+            "name": "Lion's Fang, Fair Protector of Mondstadt"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.3s",
+            "chance": "100%",
+            "particles": "2",
+            "source": "Ball"
+        },
+        {
+            "cd": "1s",
+            "chance": "67%",
+            "particles": "1",
+            "source": "Ball_Extra"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Qin",
+        "forward": "UI_AvatarIcon_Qin"
+    },
+    "info": {
+        "attributes": [
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 60,
+                "hp": 1144,
+                "level": 1
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 65,
+                "hp": 1239,
+                "level": 2
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 70,
+                "hp": 1334,
+                "level": 3
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 23,
+                "def": 75,
+                "hp": 1430,
+                "level": 4
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 80,
+                "hp": 1525,
+                "level": 5
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 85,
+                "hp": 1621,
+                "level": 6
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 90,
+                "hp": 1716,
+                "level": 7
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 95,
+                "hp": 1812,
+                "level": 8
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 100,
+                "hp": 1908,
+                "level": 9
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 105,
+                "hp": 2003,
+                "level": 10
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 110,
+                "hp": 2099,
+                "level": 11
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 115,
+                "hp": 2195,
+                "level": 12
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 120,
+                "hp": 2291,
+                "level": 13
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 125,
+                "hp": 2389,
+                "level": 14
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 40,
+                "def": 130,
+                "hp": 2485,
+                "level": 15
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 135,
+                "hp": 2581,
+                "level": 16
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 140,
+                "hp": 2678,
+                "level": 17
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 45,
+                "def": 145,
+                "hp": 2774,
+                "level": 18
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 47,
+                "def": 150,
+                "hp": 2871,
+                "level": 19
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 48,
+                "def": 155,
+                "hp": 2967,
+                "level": 20
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 66,
+                "def": 212,
+                "hp": 4046,
+                "level": 21
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 67,
+                "def": 217,
+                "hp": 4143,
+                "level": 22
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 69,
+                "def": 222,
+                "hp": 4240,
+                "level": 23
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 227,
+                "hp": 4337,
+                "level": 24
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 72,
+                "def": 232,
+                "hp": 4435,
+                "level": 25
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 74,
+                "def": 237,
+                "hp": 4533,
+                "level": 26
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 75,
+                "def": 242,
+                "hp": 4630,
+                "level": 27
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 77,
+                "def": 247,
+                "hp": 4727,
+                "level": 28
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 79,
+                "def": 252,
+                "hp": 4826,
+                "level": 29
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 80,
+                "def": 257,
+                "hp": 4923,
+                "level": 30
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 82,
+                "def": 263,
+                "hp": 5021,
+                "level": 31
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 83,
+                "def": 268,
+                "hp": 5120,
+                "level": 32
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 85,
+                "def": 273,
+                "hp": 5218,
+                "level": 33
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 87,
+                "def": 278,
+                "hp": 5315,
+                "level": 34
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 88,
+                "def": 283,
+                "hp": 5414,
+                "level": 35
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 90,
+                "def": 288,
+                "hp": 5513,
+                "level": 36
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 91,
+                "def": 293,
+                "hp": 5612,
+                "level": 37
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 93,
+                "def": 299,
+                "hp": 5710,
+                "level": 38
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 95,
+                "def": 304,
+                "hp": 5808,
+                "level": 39
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 96,
+                "def": 309,
+                "hp": 5908,
+                "level": 40
+            },
+            {
+                "Healing%": "5.5",
+                "ascension": 2,
+                "atk": 109,
+                "def": 351,
+                "hp": 6703,
+                "level": 41
+            },
+            {
+                "Healing%": "5.5",
+                "ascension": 2,
+                "atk": 111,
+                "def": 356,
+                "hp": 6803,
+                "level": 42
+            },
+            {
+                "Healing%": "5.5",
+                "ascension": 2,
+                "atk": 112,
+                "def": 361,
+                "hp": 6902,
+                "level": 43
+            },
+            {
+                "Healing%": "5.5",
+                "ascension": 2,
+                "atk": 114,
+                "def": 366,
+                "hp": 7001,
+                "level": 44
+            },
+            {
+                "Healing%": "5.5",
+                "ascension": 2,
+                "atk": 116,
+                "def": 371,
+                "hp": 7100,
+                "level": 45
+            },
+            {
+                "Healing%": "5.5",
+                "ascension": 2,
+                "atk": 117,
+                "def": 377,
+                "hp": 7200,
+                "level": 46
+            },
+            {
+                "Healing%": "5.5",
+                "ascension": 2,
+                "atk": 119,
+                "def": 382,
+                "hp": 7299,
+                "level": 47
+            },
+            {
+                "Healing%": "5.5",
+                "ascension": 2,
+                "atk": 120,
+                "def": 387,
+                "hp": 7399,
+                "level": 48
+            },
+            {
+                "Healing%": "5.5",
+                "ascension": 2,
+                "atk": 122,
+                "def": 392,
+                "hp": 7500,
+                "level": 49
+            },
+            {
+                "Healing%": "5.5",
+                "ascension": 2,
+                "atk": 124,
+                "def": 397,
+                "hp": 7599,
+                "level": 50
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 3,
+                "atk": 140,
+                "def": 451,
+                "hp": 8628,
+                "level": 51
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 3,
+                "atk": 142,
+                "def": 457,
+                "hp": 8728,
+                "level": 52
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 3,
+                "atk": 144,
+                "def": 462,
+                "hp": 8828,
+                "level": 53
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 3,
+                "atk": 145,
+                "def": 467,
+                "hp": 8929,
+                "level": 54
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 3,
+                "atk": 147,
+                "def": 472,
+                "hp": 9029,
+                "level": 55
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 3,
+                "atk": 149,
+                "def": 478,
+                "hp": 9130,
+                "level": 56
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 3,
+                "atk": 150,
+                "def": 483,
+                "hp": 9231,
+                "level": 57
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 3,
+                "atk": 152,
+                "def": 488,
+                "hp": 9331,
+                "level": 58
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 3,
+                "atk": 154,
+                "def": 493,
+                "hp": 9432,
+                "level": 59
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 3,
+                "atk": 155,
+                "def": 499,
+                "hp": 9533,
+                "level": 60
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 4,
+                "atk": 168,
+                "def": 540,
+                "hp": 10330,
+                "level": 61
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 4,
+                "atk": 170,
+                "def": 546,
+                "hp": 10431,
+                "level": 62
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 4,
+                "atk": 171,
+                "def": 551,
+                "hp": 10533,
+                "level": 63
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 4,
+                "atk": 173,
+                "def": 556,
+                "hp": 10633,
+                "level": 64
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 4,
+                "atk": 175,
+                "def": 561,
+                "hp": 10735,
+                "level": 65
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 4,
+                "atk": 176,
+                "def": 567,
+                "hp": 10837,
+                "level": 66
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 4,
+                "atk": 178,
+                "def": 572,
+                "hp": 10938,
+                "level": 67
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 4,
+                "atk": 180,
+                "def": 577,
+                "hp": 11040,
+                "level": 68
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 4,
+                "atk": 181,
+                "def": 583,
+                "hp": 11141,
+                "level": 69
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 4,
+                "atk": 183,
+                "def": 588,
+                "hp": 11243,
+                "level": 70
+            },
+            {
+                "Healing%": "16.6",
+                "ascension": 5,
+                "atk": 196,
+                "def": 630,
+                "hp": 12042,
+                "level": 71
+            },
+            {
+                "Healing%": "16.6",
+                "ascension": 5,
+                "atk": 198,
+                "def": 635,
+                "hp": 12145,
+                "level": 72
+            },
+            {
+                "Healing%": "16.6",
+                "ascension": 5,
+                "atk": 199,
+                "def": 641,
+                "hp": 12247,
+                "level": 73
+            },
+            {
+                "Healing%": "16.6",
+                "ascension": 5,
+                "atk": 201,
+                "def": 646,
+                "hp": 12349,
+                "level": 74
+            },
+            {
+                "Healing%": "16.6",
+                "ascension": 5,
+                "atk": 203,
+                "def": 651,
+                "hp": 12451,
+                "level": 75
+            },
+            {
+                "Healing%": "16.6",
+                "ascension": 5,
+                "atk": 204,
+                "def": 657,
+                "hp": 12553,
+                "level": 76
+            },
+            {
+                "Healing%": "16.6",
+                "ascension": 5,
+                "atk": 206,
+                "def": 662,
+                "hp": 12656,
+                "level": 77
+            },
+            {
+                "Healing%": "16.6",
+                "ascension": 5,
+                "atk": 208,
+                "def": 667,
+                "hp": 12759,
+                "level": 78
+            },
+            {
+                "Healing%": "16.6",
+                "ascension": 5,
+                "atk": 209,
+                "def": 673,
+                "hp": 12862,
+                "level": 79
+            },
+            {
+                "Healing%": "16.6",
+                "ascension": 5,
+                "atk": 211,
+                "def": 678,
+                "hp": 12965,
+                "level": 80
+            },
+            {
+                "Healing%": "22.1",
+                "ascension": 6,
+                "atk": 224,
+                "def": 720,
+                "hp": 13765,
+                "level": 81
+            },
+            {
+                "Healing%": "22.1",
+                "ascension": 6,
+                "atk": 226,
+                "def": 725,
+                "hp": 13868,
+                "level": 82
+            },
+            {
+                "Healing%": "22.1",
+                "ascension": 6,
+                "atk": 227,
+                "def": 731,
+                "hp": 13971,
+                "level": 83
+            },
+            {
+                "Healing%": "22.1",
+                "ascension": 6,
+                "atk": 229,
+                "def": 736,
+                "hp": 14074,
+                "level": 84
+            },
+            {
+                "Healing%": "22.1",
+                "ascension": 6,
+                "atk": 231,
+                "def": 741,
+                "hp": 14177,
+                "level": 85
+            },
+            {
+                "Healing%": "22.1",
+                "ascension": 6,
+                "atk": 232,
+                "def": 747,
+                "hp": 14281,
+                "level": 86
+            },
+            {
+                "Healing%": "22.1",
+                "ascension": 6,
+                "atk": 234,
+                "def": 752,
+                "hp": 14384,
+                "level": 87
+            },
+            {
+                "Healing%": "22.1",
+                "ascension": 6,
+                "atk": 236,
+                "def": 758,
+                "hp": 14488,
+                "level": 88
+            },
+            {
+                "Healing%": "22.1",
+                "ascension": 6,
+                "atk": 238,
+                "def": 763,
+                "hp": 14592,
+                "level": 89
+            },
+            {
+                "Healing%": "22.1",
+                "ascension": 6,
+                "atk": 239,
+                "def": 769,
+                "hp": 14695,
+                "level": 90
+            },
+            {
+                "Healing%": "22.1",
+                "ascension": 6,
+                "atk": 266,
+                "def": 796,
+                "hp": 15217,
+                "level": 95
+            },
+            {
+                "Healing%": "22.1",
+                "ascension": 6,
+                "atk": 293,
+                "def": 823,
+                "hp": 15740,
+                "level": 100
+            }
+        ],
+        "birthday": "March 14th",
+        "constellation": "Leo Minor",
+        "description": "The righteous and rigorous Dandelion Knight, and Acting Grand Master of Mondstadt's Knights of Favonius.",
+        "element": "Anemo",
+        "name": "Jean",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_SWORD_ONE_HAND"
+    },
+    "passives": {
+        "p1": {
+            "description": "On hit, Jean's Normal Attacks have a 50% chance to regenerate HP equal to 15% of Jean's ATK for all party members.",
+            "icon": "UI_Talent_S_Qin_05",
+            "name": "Wind Companion"
+        },
+        "p2": {
+            "description": "Using <color=#FFD780FF>Dandelion Breeze</color> will regenerate 20% of its Energy.",
+            "icon": "UI_Talent_S_Qin_06",
+            "name": "Let the Wind Lead"
+        },
+        "p3": {
+            "description": "When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.",
+            "icon": "UI_Talent_Cook_Heal",
+            "name": "Guiding Breeze"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Calling upon the wind's protection, Jean creates a swirling Dandelion Field, launching surrounding opponents and dealing <color=#80FFD7FF>Anemo DMG</color>.\\nAt the same time, she instantly regenerates a large amount of HP for all party members. The amount of HP restored scales off Jean's ATK.\\n\\n<color=#FFD780FF>Dandelion Field</color>\\n·Continuously regenerates HP of characters within the AoE and continuously imbues them with <color=#80FFD7FF>Anemo</color>.\\n·Deals <color=#80FFD7FF>Anemo DMG</color> to opponents entering or exiting the Dandelion Field.\\n\\n<i>Jean's magnanimity is as vast as the dandelion fields, and it is the root of her wish to protect others.</i>",
+            "icon": "Skill_E_Qin_01",
+            "multipliers": {
+                "Burst DMG": [
+                    "424.8%",
+                    "456.66%",
+                    "488.52%",
+                    "531%",
+                    "562.86%",
+                    "594.72%",
+                    "637.2%",
+                    "679.68%",
+                    "722.16%",
+                    "764.64%",
+                    "807.12%",
+                    "849.6%",
+                    "902.7%",
+                    "955.8%",
+                    "1008.9%"
+                ],
+                "CD": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ],
+                "Continuous Regeneration": [
+                    "25.12% ATK+154/s",
+                    "27% ATK+169/s",
+                    "28.89% ATK+186/s",
+                    "31.4% ATK+204/s",
+                    "33.28% ATK+223/s",
+                    "35.17% ATK+244/s",
+                    "37.68% ATK+266/s",
+                    "40.19% ATK+289/s",
+                    "42.7% ATK+313/s",
+                    "45.22% ATK+339/s",
+                    "47.73% ATK+366/s",
+                    "50.24% ATK+394/s",
+                    "53.38% ATK+424/s",
+                    "56.52% ATK+454/s",
+                    "59.66% ATK+487/s"
+                ],
+                "Energy Cost": [
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80"
+                ],
+                "Field Activation Healing": [
+                    "251.2% ATK+1540",
+                    "270.04% ATK+1694",
+                    "288.88% ATK+1861",
+                    "314% ATK+2041",
+                    "332.84% ATK+2234",
+                    "351.68% ATK+2439",
+                    "376.8% ATK+2657",
+                    "401.92% ATK+2888",
+                    "427.04% ATK+3132",
+                    "452.16% ATK+3389",
+                    "477.28% ATK+3659",
+                    "502.4% ATK+3941",
+                    "533.8% ATK+4236",
+                    "565.2% ATK+4544",
+                    "596.6% ATK+4865"
+                ],
+                "Field Entering/Exiting DMG": [
+                    "78.4%",
+                    "84.28%",
+                    "90.16%",
+                    "98%",
+                    "103.88%",
+                    "109.76%",
+                    "117.6%",
+                    "125.44%",
+                    "133.28%",
+                    "141.12%",
+                    "148.96%",
+                    "156.8%",
+                    "166.6%",
+                    "176.4%",
+                    "186.2%"
+                ]
+            },
+            "name": "Dandelion Breeze"
+        },
+        "elementalskill": {
+            "description": "Focusing the might of the formless wind around her blade, Jean releases a miniature storm, launching opponents in the direction she aims at, dealing massive <color=#80FFD7FF>Anemo DMG</color>.\\n\\n<color=#FFD780FF>Hold</color>\\nAt the cost of continued stamina consumption, Jean can command the whirlwind to pull surrounding opponents and objects towards her front.\\nDirection can be adjusted.\\nCharacter is immobile during skill duration.\\n\\n<i>That which follows Jean, the wholehearted defender, is a guardian wind that can banish danger from her comrades' presence.</i>",
+            "icon": "Skill_S_Qin_02",
+            "multipliers": {
+                "CD": [
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s"
+                ],
+                "Max Duration": [
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s"
+                ],
+                "Skill DMG": [
+                    "292%",
+                    "313.9%",
+                    "335.8%",
+                    "365%",
+                    "386.9%",
+                    "408.8%",
+                    "438%",
+                    "467.2%",
+                    "496.4%",
+                    "525.6%",
+                    "554.8%",
+                    "584%",
+                    "620.5%",
+                    "657%",
+                    "693.5%"
+                ],
+                "Stamina Consumption": [
+                    "20/s",
+                    "20/s",
+                    "20/s",
+                    "20/s",
+                    "20/s",
+                    "20/s",
+                    "20/s",
+                    "20/s",
+                    "20/s",
+                    "20/s",
+                    "20/s",
+                    "20/s",
+                    "20/s",
+                    "20/s",
+                    "20/s"
+                ]
+            },
+            "name": "Gale Blade"
+        },
+        "leveling": {
+            "books": {
+                "104304": 9,
+                "104305": 63,
+                "104306": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113003": 18
+            },
+            "worldmonster": {
+                "112005": 18,
+                "112006": 66,
+                "112007": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 5 consecutive strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of stamina to launch an opponent using the power of wind.\\nLaunched opponents will slowly fall to the ground.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+            "icon": "Skill_A_01",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "48.33%",
+                    "52.27%",
+                    "56.2%",
+                    "61.82%",
+                    "65.75%",
+                    "70.25%",
+                    "76.43%",
+                    "82.61%",
+                    "88.8%",
+                    "95.54%",
+                    "103.27%",
+                    "112.36%",
+                    "121.44%",
+                    "130.53%",
+                    "140.44%"
+                ],
+                "2-Hit DMG": [
+                    "45.58%",
+                    "49.29%",
+                    "53%",
+                    "58.3%",
+                    "62.01%",
+                    "66.25%",
+                    "72.08%",
+                    "77.91%",
+                    "83.74%",
+                    "90.1%",
+                    "97.39%",
+                    "105.96%",
+                    "114.53%",
+                    "123.1%",
+                    "132.45%"
+                ],
+                "3-Hit DMG": [
+                    "60.29%",
+                    "65.19%",
+                    "70.1%",
+                    "77.11%",
+                    "82.02%",
+                    "87.63%",
+                    "95.34%",
+                    "103.05%",
+                    "110.76%",
+                    "119.17%",
+                    "128.81%",
+                    "140.14%",
+                    "151.48%",
+                    "162.81%",
+                    "175.18%"
+                ],
+                "4-Hit DMG": [
+                    "65.88%",
+                    "71.24%",
+                    "76.6%",
+                    "84.26%",
+                    "89.62%",
+                    "95.75%",
+                    "104.18%",
+                    "112.6%",
+                    "121.03%",
+                    "130.22%",
+                    "140.75%",
+                    "153.14%",
+                    "165.52%",
+                    "177.91%",
+                    "191.42%"
+                ],
+                "5-Hit DMG": [
+                    "79.21%",
+                    "85.65%",
+                    "92.1%",
+                    "101.31%",
+                    "107.76%",
+                    "115.13%",
+                    "125.26%",
+                    "135.39%",
+                    "145.52%",
+                    "156.57%",
+                    "169.23%",
+                    "184.13%",
+                    "199.02%",
+                    "213.91%",
+                    "230.16%"
+                ],
+                "Charged Attack DMG": [
+                    "162.02%",
+                    "175.21%",
+                    "188.4%",
+                    "207.24%",
+                    "220.43%",
+                    "235.5%",
+                    "256.22%",
+                    "276.95%",
+                    "297.67%",
+                    "320.28%",
+                    "346.18%",
+                    "376.65%",
+                    "407.11%",
+                    "437.58%",
+                    "470.81%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20"
+                ],
+                "Low/High Plunge DMG": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Plunge DMG": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ]
+            },
+            "name": "Favonius Bladework"
+        }
+    }
+}

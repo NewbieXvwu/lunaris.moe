@@ -1,0 +1,1408 @@
+{
+    "info": {
+        "name": "娜维娅",
+        "description": "刺玫会现任会长，一位可爱、尽责的好老板。",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_CLAYMORE",
+        "birthday": "August 16th",
+        "element": "Geo",
+        "constellation": "野蔷薇座",
+        "attributes": [
+            {
+                "level": 1,
+                "ascension": 0,
+                "hp": 985,
+                "atk": 27,
+                "def": 62,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 2,
+                "ascension": 0,
+                "hp": 1067,
+                "atk": 30,
+                "def": 67,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 3,
+                "ascension": 0,
+                "hp": 1148,
+                "atk": 32,
+                "def": 72,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 4,
+                "ascension": 0,
+                "hp": 1231,
+                "atk": 34,
+                "def": 77,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 5,
+                "ascension": 0,
+                "hp": 1313,
+                "atk": 36,
+                "def": 82,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 6,
+                "ascension": 0,
+                "hp": 1395,
+                "atk": 39,
+                "def": 87,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 7,
+                "ascension": 0,
+                "hp": 1477,
+                "atk": 41,
+                "def": 93,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 8,
+                "ascension": 0,
+                "hp": 1560,
+                "atk": 43,
+                "def": 98,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 9,
+                "ascension": 0,
+                "hp": 1643,
+                "atk": 46,
+                "def": 103,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 10,
+                "ascension": 0,
+                "hp": 1724,
+                "atk": 48,
+                "def": 108,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 11,
+                "ascension": 0,
+                "hp": 1807,
+                "atk": 50,
+                "def": 113,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 12,
+                "ascension": 0,
+                "hp": 1890,
+                "atk": 53,
+                "def": 118,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 13,
+                "ascension": 0,
+                "hp": 1973,
+                "atk": 55,
+                "def": 124,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 14,
+                "ascension": 0,
+                "hp": 2056,
+                "atk": 57,
+                "def": 129,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 15,
+                "ascension": 0,
+                "hp": 2139,
+                "atk": 59,
+                "def": 134,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 16,
+                "ascension": 0,
+                "hp": 2222,
+                "atk": 62,
+                "def": 139,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 17,
+                "ascension": 0,
+                "hp": 2305,
+                "atk": 64,
+                "def": 145,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 18,
+                "ascension": 0,
+                "hp": 2388,
+                "atk": 66,
+                "def": 150,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 19,
+                "ascension": 0,
+                "hp": 2472,
+                "atk": 69,
+                "def": 155,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 20,
+                "ascension": 0,
+                "hp": 2555,
+                "atk": 71,
+                "def": 160,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 21,
+                "ascension": 1,
+                "hp": 3483,
+                "atk": 97,
+                "def": 218,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 22,
+                "ascension": 1,
+                "hp": 3566,
+                "atk": 99,
+                "def": 224,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 23,
+                "ascension": 1,
+                "hp": 3650,
+                "atk": 101,
+                "def": 229,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 24,
+                "ascension": 1,
+                "hp": 3734,
+                "atk": 104,
+                "def": 234,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 25,
+                "ascension": 1,
+                "hp": 3817,
+                "atk": 106,
+                "def": 239,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 26,
+                "ascension": 1,
+                "hp": 3902,
+                "atk": 108,
+                "def": 245,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 27,
+                "ascension": 1,
+                "hp": 3986,
+                "atk": 111,
+                "def": 250,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 28,
+                "ascension": 1,
+                "hp": 4070,
+                "atk": 113,
+                "def": 255,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 29,
+                "ascension": 1,
+                "hp": 4154,
+                "atk": 115,
+                "def": 260,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 30,
+                "ascension": 1,
+                "hp": 4238,
+                "atk": 118,
+                "def": 266,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 31,
+                "ascension": 1,
+                "hp": 4323,
+                "atk": 120,
+                "def": 271,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 32,
+                "ascension": 1,
+                "hp": 4407,
+                "atk": 122,
+                "def": 276,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 33,
+                "ascension": 1,
+                "hp": 4492,
+                "atk": 125,
+                "def": 282,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 34,
+                "ascension": 1,
+                "hp": 4576,
+                "atk": 127,
+                "def": 287,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 35,
+                "ascension": 1,
+                "hp": 4660,
+                "atk": 130,
+                "def": 292,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 36,
+                "ascension": 1,
+                "hp": 4746,
+                "atk": 132,
+                "def": 298,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 37,
+                "ascension": 1,
+                "hp": 4831,
+                "atk": 134,
+                "def": 303,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 38,
+                "ascension": 1,
+                "hp": 4915,
+                "atk": 137,
+                "def": 308,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 39,
+                "ascension": 1,
+                "hp": 5000,
+                "atk": 139,
+                "def": 314,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 40,
+                "ascension": 1,
+                "hp": 5086,
+                "atk": 141,
+                "def": 319,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 41,
+                "ascension": 2,
+                "hp": 5770,
+                "atk": 160,
+                "def": 362,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 42,
+                "ascension": 2,
+                "hp": 5856,
+                "atk": 163,
+                "def": 367,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 43,
+                "ascension": 2,
+                "hp": 5942,
+                "atk": 165,
+                "def": 373,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 44,
+                "ascension": 2,
+                "hp": 6026,
+                "atk": 167,
+                "def": 378,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 45,
+                "ascension": 2,
+                "hp": 6112,
+                "atk": 170,
+                "def": 383,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 46,
+                "ascension": 2,
+                "hp": 6198,
+                "atk": 172,
+                "def": 389,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 47,
+                "ascension": 2,
+                "hp": 6284,
+                "atk": 175,
+                "def": 394,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 48,
+                "ascension": 2,
+                "hp": 6369,
+                "atk": 177,
+                "def": 399,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 49,
+                "ascension": 2,
+                "hp": 6456,
+                "atk": 179,
+                "def": 405,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 50,
+                "ascension": 2,
+                "hp": 6542,
+                "atk": 182,
+                "def": 410,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 51,
+                "ascension": 3,
+                "hp": 7427,
+                "atk": 206,
+                "def": 466,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 52,
+                "ascension": 3,
+                "hp": 7514,
+                "atk": 209,
+                "def": 471,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 53,
+                "ascension": 3,
+                "hp": 7599,
+                "atk": 211,
+                "def": 476,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 54,
+                "ascension": 3,
+                "hp": 7686,
+                "atk": 214,
+                "def": 482,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 55,
+                "ascension": 3,
+                "hp": 7773,
+                "atk": 216,
+                "def": 487,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 56,
+                "ascension": 3,
+                "hp": 7859,
+                "atk": 218,
+                "def": 493,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 57,
+                "ascension": 3,
+                "hp": 7946,
+                "atk": 221,
+                "def": 498,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 58,
+                "ascension": 3,
+                "hp": 8033,
+                "atk": 223,
+                "def": 504,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 59,
+                "ascension": 3,
+                "hp": 8119,
+                "atk": 226,
+                "def": 509,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 60,
+                "ascension": 3,
+                "hp": 8206,
+                "atk": 228,
+                "def": 515,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 61,
+                "ascension": 4,
+                "hp": 8893,
+                "atk": 247,
+                "def": 558,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 62,
+                "ascension": 4,
+                "hp": 8979,
+                "atk": 250,
+                "def": 563,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 63,
+                "ascension": 4,
+                "hp": 9067,
+                "atk": 252,
+                "def": 568,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 64,
+                "ascension": 4,
+                "hp": 9154,
+                "atk": 254,
+                "def": 574,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 65,
+                "ascension": 4,
+                "hp": 9241,
+                "atk": 257,
+                "def": 579,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 66,
+                "ascension": 4,
+                "hp": 9329,
+                "atk": 259,
+                "def": 585,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 67,
+                "ascension": 4,
+                "hp": 9416,
+                "atk": 262,
+                "def": 590,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 68,
+                "ascension": 4,
+                "hp": 9503,
+                "atk": 264,
+                "def": 596,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 69,
+                "ascension": 4,
+                "hp": 9591,
+                "atk": 267,
+                "def": 601,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 70,
+                "ascension": 4,
+                "hp": 9679,
+                "atk": 269,
+                "def": 607,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 71,
+                "ascension": 5,
+                "hp": 10366,
+                "atk": 288,
+                "def": 650,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 72,
+                "ascension": 5,
+                "hp": 10455,
+                "atk": 291,
+                "def": 656,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 73,
+                "ascension": 5,
+                "hp": 10542,
+                "atk": 293,
+                "def": 661,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 74,
+                "ascension": 5,
+                "hp": 10630,
+                "atk": 295,
+                "def": 666,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 75,
+                "ascension": 5,
+                "hp": 10719,
+                "atk": 298,
+                "def": 672,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 76,
+                "ascension": 5,
+                "hp": 10806,
+                "atk": 300,
+                "def": 678,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 77,
+                "ascension": 5,
+                "hp": 10895,
+                "atk": 303,
+                "def": 683,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 78,
+                "ascension": 5,
+                "hp": 10984,
+                "atk": 305,
+                "def": 689,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 79,
+                "ascension": 5,
+                "hp": 11072,
+                "atk": 308,
+                "def": 694,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 80,
+                "ascension": 5,
+                "hp": 11161,
+                "atk": 310,
+                "def": 700,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 81,
+                "ascension": 6,
+                "hp": 11849,
+                "atk": 329,
+                "def": 743,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 82,
+                "ascension": 6,
+                "hp": 11938,
+                "atk": 332,
+                "def": 749,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 83,
+                "ascension": 6,
+                "hp": 12027,
+                "atk": 334,
+                "def": 754,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 84,
+                "ascension": 6,
+                "hp": 12115,
+                "atk": 337,
+                "def": 760,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 85,
+                "ascension": 6,
+                "hp": 12204,
+                "atk": 339,
+                "def": 765,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 86,
+                "ascension": 6,
+                "hp": 12294,
+                "atk": 342,
+                "def": 771,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 87,
+                "ascension": 6,
+                "hp": 12382,
+                "atk": 344,
+                "def": 776,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 88,
+                "ascension": 6,
+                "hp": 12472,
+                "atk": 347,
+                "def": 782,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 89,
+                "ascension": 6,
+                "hp": 12561,
+                "atk": 349,
+                "def": 788,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 90,
+                "ascension": 6,
+                "hp": 12650,
+                "atk": 352,
+                "def": 793,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 95,
+                "ascension": 6,
+                "hp": 13099,
+                "atk": 391,
+                "def": 821,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 100,
+                "ascension": 6,
+                "hp": 13549,
+                "atk": 431,
+                "def": 850,
+                "CRIT DMG%": "38.4"
+            }
+        ]
+    },
+    "icons": {
+        "forward": "UI_AvatarIcon_Navia",
+        "coop_img": "UI_CoopImg_Navia"
+    },
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101240": 168
+        },
+        "elemental": {
+            "104171": 1,
+            "104172": 9,
+            "104173": 9,
+            "104174": 6
+        },
+        "worldmonster": {
+            "112080": 18,
+            "112081": 30,
+            "112082": 36
+        },
+        "elitemonster": {
+            "113050": 46
+        }
+    },
+    "skills": {
+        "normalattack": {
+            "name": "直率的辞绝",
+            "icon": "Skill_A_04",
+            "multipliers": {
+                "一段伤害": [
+                    "93.52%",
+                    "101.13%",
+                    "108.74%",
+                    "119.62%",
+                    "127.23%",
+                    "135.93%",
+                    "147.89%",
+                    "159.85%",
+                    "171.81%",
+                    "184.86%",
+                    "197.91%",
+                    "210.96%",
+                    "224.01%",
+                    "237.06%",
+                    "250.11%"
+                ],
+                "二段伤害": [
+                    "86.51%",
+                    "93.55%",
+                    "100.59%",
+                    "110.65%",
+                    "117.69%",
+                    "125.74%",
+                    "136.8%",
+                    "147.87%",
+                    "158.93%",
+                    "171%",
+                    "183.07%",
+                    "195.14%",
+                    "207.21%",
+                    "219.28%",
+                    "231.35%"
+                ],
+                "三段伤害": [
+                    "34.89%*3",
+                    "37.73%*3",
+                    "40.56%*3",
+                    "44.62%*3",
+                    "47.46%*3",
+                    "50.71%*3",
+                    "55.17%*3",
+                    "59.63%*3",
+                    "64.09%*3",
+                    "68.96%*3",
+                    "73.83%*3",
+                    "78.7%*3",
+                    "83.56%*3",
+                    "88.43%*3",
+                    "93.3%*3"
+                ],
+                "四段伤害": [
+                    "133.43%",
+                    "144.29%",
+                    "155.15%",
+                    "170.67%",
+                    "181.53%",
+                    "193.94%",
+                    "211.01%",
+                    "228.07%",
+                    "245.14%",
+                    "263.76%",
+                    "282.38%",
+                    "301%",
+                    "319.62%",
+                    "338.23%",
+                    "356.85%"
+                ],
+                "重击循环伤害": [
+                    "62.52%",
+                    "67.61%",
+                    "72.7%",
+                    "79.97%",
+                    "85.06%",
+                    "90.87%",
+                    "98.87%",
+                    "106.87%",
+                    "114.87%",
+                    "123.59%",
+                    "132.31%",
+                    "141.04%",
+                    "149.76%",
+                    "158.49%",
+                    "167.21%"
+                ],
+                "重击终结伤害": [
+                    "113.09%",
+                    "122.29%",
+                    "131.5%",
+                    "144.65%",
+                    "153.86%",
+                    "164.37%",
+                    "178.84%",
+                    "193.31%",
+                    "207.77%",
+                    "223.55%",
+                    "239.33%",
+                    "255.11%",
+                    "270.89%",
+                    "286.67%",
+                    "302.45%"
+                ],
+                "重击体力消耗": [
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点"
+                ],
+                "最大持续时间": [
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒"
+                ],
+                "下坠期间伤害": [
+                    "74.59%",
+                    "80.66%",
+                    "86.73%",
+                    "95.4%",
+                    "101.47%",
+                    "108.41%",
+                    "117.95%",
+                    "127.49%",
+                    "137.03%",
+                    "147.44%",
+                    "157.85%",
+                    "168.26%",
+                    "178.66%",
+                    "189.07%",
+                    "199.48%"
+                ],
+                "低空/高空坠地冲击伤害": [
+                    "149.14%/186.29%",
+                    "161.28%/201.45%",
+                    "173.42%/216.62%",
+                    "190.77%/238.28%",
+                    "202.91%/253.44%",
+                    "216.78%/270.77%",
+                    "235.86%/294.6%",
+                    "254.93%/318.42%",
+                    "274.01%/342.25%",
+                    "294.82%/368.25%",
+                    "315.63%/394.24%",
+                    "336.44%/420.23%",
+                    "357.25%/446.23%",
+                    "378.06%/472.22%",
+                    "398.87%/498.21%"
+                ]
+            },
+            "description": "<color=#FFD780FF>普通攻击</color>\\n进行至多四段的连续挥砍。\\n\\n<color=#FFD780FF>重击</color>\\n持续消耗体力，旋转大剑攻击周围的敌人。\\n停止旋转时，会进行一次格外有力的挥砍。\\n\\n<color=#FFD780FF>下落攻击</color>\\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。"
+        },
+        "elementalskill": {
+            "name": "典仪式晶火",
+            "icon": "Skill_S_Navia_01",
+            "multipliers": {
+                "玫瑰晶弹基础伤害": [
+                    "394.8%",
+                    "424.41%",
+                    "454.02%",
+                    "493.5%",
+                    "523.11%",
+                    "552.72%",
+                    "592.2%",
+                    "631.68%",
+                    "671.16%",
+                    "710.64%",
+                    "750.12%",
+                    "789.6%",
+                    "838.95%",
+                    "888.3%",
+                    "937.65%"
+                ],
+                "裂晶弹片持续时间": [
+                    "300秒",
+                    "300秒",
+                    "300秒",
+                    "300秒",
+                    "300秒",
+                    "300秒",
+                    "300秒",
+                    "300秒",
+                    "300秒",
+                    "300秒",
+                    "300秒",
+                    "300秒",
+                    "300秒",
+                    "300秒",
+                    "300秒"
+                ],
+                "流涌之刃伤害": [
+                    "36%",
+                    "38.7%",
+                    "41.4%",
+                    "45%",
+                    "47.7%",
+                    "50.4%",
+                    "54%",
+                    "57.6%",
+                    "61.2%",
+                    "64.8%",
+                    "68.4%",
+                    "72%",
+                    "76.5%",
+                    "81%",
+                    "85.5%"
+                ],
+                "流涌之刃间隔": [
+                    "7秒",
+                    "7秒",
+                    "7秒",
+                    "7秒",
+                    "7秒",
+                    "7秒",
+                    "7秒",
+                    "7秒",
+                    "7秒",
+                    "7秒",
+                    "7秒",
+                    "7秒",
+                    "7秒",
+                    "7秒",
+                    "7秒"
+                ],
+                "冷却时间": [
+                    "9秒",
+                    "9秒",
+                    "9秒",
+                    "9秒",
+                    "9秒",
+                    "9秒",
+                    "9秒",
+                    "9秒",
+                    "9秒",
+                    "9秒",
+                    "9秒",
+                    "9秒",
+                    "9秒",
+                    "9秒",
+                    "9秒"
+                ]
+            },
+            "description": "队伍中的角色获取结晶反应产生的晶片或触发月结晶反应时，将为娜维娅积攒1枚「裂晶弹片」，至多积攒6枚「裂晶弹片」，每次触发都会刷新已有的「裂晶弹片」持续时间。通过月结晶反应的方式，每1秒至多为娜维娅积攒1枚「裂晶弹片」。\\n施放时，娜维娅将消耗所有的「裂晶弹片」，展开优雅而致命的铳柄伞，打出多枚能够穿透敌人的「玫瑰晶弹」，对命中的敌人造成<color=#FFE699FF>岩元素伤害</color>。\\n消耗0/1/2/3枚及以上的「裂晶弹片」时，将分别打出5/7/9/11枚「玫瑰晶弹」。命中同一个敌人的「玫瑰晶弹」越多，对这名敌人造成的伤害越高；11枚「玫瑰晶弹」全部命中时，将造成原本200%的伤害。\\n此外，消耗的「裂晶弹片」超过3枚时，超过3枚的每枚「裂晶弹片」都将使本次射击造成的伤害额外提升15%。\\n\\n<color=#FFD780FF>长按</color>\\n进入瞄准状态，持续获取附近的结晶反应产生的晶片，并在结束长按时打出与点按相同的「玫瑰晶弹」。\\n\\n初始拥有2次可用次数。\\n\\n<color=#FFD780FF>始基力：荒性</color>\\n每隔一段时间，娜维娅以铳柄伞进行射击时，将唤出流涌之刃，造成具有荒性的<color=#FFE699FF>岩元素伤害</color>。\\n\\n<i>「对应保持距离的人保持应有的距离，也是社交礼仪的一部分，不过，手段毕竟也有很多种啦…」</i>"
+        },
+        "elementalburst": {
+            "name": "如霰澄天的鸣礼",
+            "icon": "Skill_E_Navia_01",
+            "multipliers": {
+                "技能伤害": [
+                    "75.2%",
+                    "80.84%",
+                    "86.48%",
+                    "94%",
+                    "99.64%",
+                    "105.28%",
+                    "112.8%",
+                    "120.32%",
+                    "127.84%",
+                    "135.36%",
+                    "142.88%",
+                    "150.4%",
+                    "159.8%",
+                    "169.2%",
+                    "178.6%"
+                ],
+                "支援炮击伤害": [
+                    "43.15%",
+                    "46.39%",
+                    "49.62%",
+                    "53.94%",
+                    "57.17%",
+                    "60.41%",
+                    "64.72%",
+                    "69.04%",
+                    "73.36%",
+                    "77.67%",
+                    "81.99%",
+                    "86.3%",
+                    "91.69%",
+                    "97.09%",
+                    "102.48%"
+                ],
+                "支援炮击持续时间": [
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒"
+                ],
+                "冷却时间": [
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒"
+                ],
+                "元素能量": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ]
+            },
+            "description": "以刺玫会会长之令，召唤华丽的「金花礼炮」，猛烈炮击前方的敌人，造成<color=#FFE699FF>岩元素范围伤害</color>，并在接下来的一段时间内持续进行「支援炮击」，间歇性对附近的敌人造成<color=#FFE699FF>岩元素伤害</color>。\\n炮击命中敌人时，将为娜维娅积攒1枚「裂晶弹片」，此效果每2.4秒至多触发一次。\\n\\n<i>「刺玫会的礼炮，会为了预先庆祝谈判成功而在谈判前稍稍开火，别误会，一点都没有威吓的意思哦。」</i>"
+        },
+        "leveling": {
+            "crown": {
+                "104319": 3
+            },
+            "books": {
+                "104338": 9,
+                "104339": 63,
+                "104340": 114
+            },
+            "worldmonster": {
+                "112080": 18,
+                "112081": 66,
+                "112082": 93
+            },
+            "weekly": {
+                "113054": 18
+            }
+        }
+    },
+    "passives": {
+        "p1": {
+            "name": "不明流通渠道",
+            "description": "施放<color=#FFD780FF>典仪式晶火</color>后的4秒内，娜维娅的普通攻击、重击与下落攻击造成的伤害转为无法被附魔覆盖的<color=#FFE699FF>岩元素伤害</color>，且娜维娅的普通攻击、重击与下落攻击造成的伤害提升40%。",
+            "icon": "UI_Talent_S_Navia_05"
+        },
+        "p2": {
+            "name": "互助关系网",
+            "description": "队伍中每存在一位<color=#FF9999FF>火元素</color>/<color=#FFACFFFF>雷元素</color>/<color=#99FFFFFF>冰元素</color>/<color=#80C0FFFF>水元素</color>角色，娜维娅的攻击力提升20%，此效果至多叠加2层。",
+            "icon": "UI_Talent_S_Navia_06"
+        },
+        "p3": {
+            "name": "流程细致的交易",
+            "description": "在枫丹执行时长为20小时的探索派遣任务时，获得的奖励增加25%。",
+            "icon": "UI_Talent_S_Navia_07"
+        },
+        "p4": ""
+    },
+    "constellations": {
+        "const1": {
+            "name": "淑女的距离感守则",
+            "description": "施放<color=#FFD780FF>典仪式晶火</color>时，每消耗1枚「裂晶弹片」，都将为娜维娅恢复3点元素能量，并使<color=#FFD780FF>如霰澄天的鸣礼</color>的冷却时间减少1秒。至多通过这种方式恢复9点元素能量，使「如霰澄天的鸣礼」的冷却时间减少3秒。",
+            "icon": "UI_Talent_S_Navia_01"
+        },
+        "const2": {
+            "name": "总指挥的乘胜追击",
+            "description": "施放<color=#FFD780FF>典仪式晶火</color>时，每消耗1枚「裂晶弹片」，都将使本次典仪式晶火的暴击率提升12%，至多通过这种方式使其暴击率提高36%。\\n此外，典仪式晶火的射击命中敌人时，将在命中的敌人附近降下一次<color=#FFD780FF>如霰澄天的鸣礼</color>的「支援炮击」。每次施放典仪式晶火至多降下一次支援炮击，通过这种方式触发的支援炮击的伤害视为元素爆发伤害。",
+            "icon": "UI_Talent_S_Navia_02"
+        },
+        "const3": {
+            "name": "经营家的开阔视野",
+            "description": "<color=#FFD780FF>典仪式晶火</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Navia_01"
+        },
+        "const4": {
+            "name": "铭誓者的绝不姑息",
+            "description": "<color=#FFD780FF>如霰澄天的鸣礼</color>命中敌人时，将使该敌人的<color=#FFE699FF>岩元素抗性</color>降低20%，持续8秒。",
+            "icon": "UI_Talent_S_Navia_03"
+        },
+        "const5": {
+            "name": "协商人的坚决谈判",
+            "description": "<color=#FFD780FF>如霰澄天的鸣礼</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Navia_02"
+        },
+        "const6": {
+            "name": "刺玫会长的灵活手腕",
+            "description": "施放<color=#FFD780FF>典仪式晶火</color>时，若消耗的「裂晶弹片」超过3枚，超过3枚的每枚「裂晶弹片」都将使本次典仪式晶火的暴击伤害提升45%，且消耗的超过3枚的部分将在施放后返还。",
+            "icon": "UI_Talent_S_Navia_04"
+        }
+    },
+    "energy": [
+        {
+            "source": "Rock_ElemBall",
+            "particles": "3",
+            "chance": "100%",
+            "cd": "0.2s"
+        },
+        {
+            "source": "Rock_ElemBall",
+            "particles": "1",
+            "chance": "50%",
+            "cd": "0.2s"
+        }
+    ],
+    "attacks": [
+        {
+            "name": "NormalAttack_3_Claymore",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/50",
+            "element": "-"
+        },
+        {
+            "name": "NormalAttack_3_Claymore",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/50",
+            "element": "Rock"
+        },
+        {
+            "name": "NormalAttack_3_Claymore",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/50",
+            "element": "-"
+        },
+        {
+            "name": "NormalAttack_3_Claymore",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/50",
+            "element": "Rock"
+        },
+        {
+            "name": "ElementalArt",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/150",
+            "element": "Rock"
+        },
+        {
+            "name": "ElementalArt",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/150",
+            "element": "Rock"
+        },
+        {
+            "name": "ElementalArt",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/150",
+            "element": "Rock"
+        },
+        {
+            "name": "ElementalArt",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/150",
+            "element": "Rock"
+        },
+        {
+            "name": "ElementalArt",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/150",
+            "element": "Rock"
+        },
+        {
+            "name": "ElementalArt",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/150",
+            "element": "Rock"
+        },
+        {
+            "name": "ElementalArt",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/150",
+            "element": "Rock"
+        },
+        {
+            "name": "ElementalArt",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/150",
+            "element": "Rock"
+        },
+        {
+            "name": "ElementalArt_Pneuma",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/20",
+            "element": "Rock"
+        },
+        {
+            "name": "ElementalArt_ShotGun_Bullet",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/30",
+            "element": "Rock"
+        },
+        {
+            "name": "ElementalBurst",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "2U",
+            "poise": "LV4/100",
+            "element": "Rock"
+        },
+        {
+            "name": "Burst_Follow_Gadget",
+            "icd_source": "Grp: Avatar_Navia_Burst (Tag Miss)",
+            "icd_rule": "3 hits / 12s",
+            "gauge": "1U",
+            "poise": "LV1/50",
+            "element": "Rock"
+        },
+        {
+            "name": "Talent_2_Driver",
+            "icd_source": "Grp: Avatar_Navia_Burst (Tag Miss)",
+            "icd_rule": "3 hits / 12s",
+            "gauge": "1U",
+            "poise": "LV1/50",
+            "element": "Rock"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/35",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/35",
+            "element": "Rock"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/150",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/150",
+            "element": "Rock"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/200",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/200",
+            "element": "Rock"
+        }
+    ]
+}

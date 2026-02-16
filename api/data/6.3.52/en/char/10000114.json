@@ -1,0 +1,1624 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104161": 1,
+            "104162": 9,
+            "104163": 9,
+            "104164": 6
+        },
+        "elitemonster": {
+            "113067": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101254": 168
+        },
+        "worldmonster": {
+            "112083": 18,
+            "112084": 30,
+            "112085": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "ExtraAttack_Bullet",
+            "poise": "LV3/60"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "ExtraAttack_Enhanced_Bullet",
+            "poise": "LV3/40"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "ExtraAttack_Enhanced_Bullet",
+            "poise": "LV3/40"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "ExtraAttack_Enhanced_Bullet",
+            "poise": "LV3/40"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack",
+            "poise": "LV3/57"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack",
+            "poise": "LV3/52"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack",
+            "poise": "LV3/33"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack",
+            "poise": "LV3/33"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack",
+            "poise": "LV3/63"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack",
+            "poise": "LV6/86"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack",
+            "poise": "LV3/66"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack",
+            "poise": "LV4/60"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack",
+            "poise": "LV3/38"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack",
+            "poise": "LV3/38"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack",
+            "poise": "LV4/40"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack",
+            "poise": "LV3/40"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack",
+            "poise": "LV6/98"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: SkirkNew_Constellation_Attack",
+            "name": "Pickable_Collidor",
+            "poise": "LV3/75"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Bullet",
+            "poise": "LV2/40"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Bullet",
+            "poise": "LV2/40"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Bullet",
+            "poise": "LV2/40"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Bullet",
+            "poise": "LV2/40"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Bullet",
+            "poise": "LV7/100"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: SkirkNew_Constellation_Attack",
+            "name": "Constellation_6",
+            "poise": "LV3/40"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: SkirkNew_Constellation_Attack",
+            "name": "Constellation_6",
+            "poise": "LV3/40"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: SkirkNew_Constellation_Attack",
+            "name": "Constellation_6",
+            "poise": "LV3/40"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Constellation_6",
+            "poise": "LV3/40"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Constellation_6",
+            "poise": "LV3/40"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Constellation_6",
+            "poise": "LV3/40"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Constellation_6",
+            "poise": "LV3/40"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Constellation_6",
+            "poise": "LV3/40"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Constellation_6",
+            "poise": "LV3/40"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "Ice",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Enhances the effects of the Ascension Talent {LINK#N11130007}<color=#FFD780FF>Reason Beyond Reason</color>{/LINK}: Every Void Rift absorbed will summon a crystal blade to attack nearby opponents, dealing 500% of Skirk's ATK as <color=#99FFFFFF>Cryo DMG</color>. This DMG is considered Charged Attack DMG.\\nYou must first unlock the Ascension Talent Reason Beyond Reason.",
+            "icon": "UI_Talent_S_SkirkNew_01",
+            "name": "Far to Fall"
+        },
+        "const2": {
+            "description": "After unleashing her Elemental Skill <color=#FFD780FF>Havoc: Warp</color>, Skirk will gain 10 additional {LINK#N11130005}<color=#FFD780FF>Serpent's Subtlety</color>{/LINK} points.\\nWhen using her Elemental Burst <color=#FFD780FF>Havoc: Ruin</color>, the DMG of this Elemental Burst instance will be increased by taking up to 10 more Serpent's Subtlety points into account.\\nAdditionally, within 12.5s after Skirk unleashes the special Elemental Burst <color=#FFD780FF>Havoc: Extinction</color> while in her {LINK#N11130006}<color=#FFD780FF>Seven-Phase Flash</color>{/LINK} mode, her ATK is increased by 70%. This effect will be canceled when she leaves the Seven-Phase Flash mode.",
+            "icon": "UI_Talent_S_SkirkNew_02",
+            "name": "Into the Abyss"
+        },
+        "const3": {
+            "description": "Increases the Level of {LINK#S11145}<color=#FFD780FF>Havoc: Ruin</color>{/LINK} by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_SkirkNew_01",
+            "name": "Serendipitous Sin"
+        },
+        "const4": {
+            "description": "Enhances the effects of the Ascension Talent {LINK#N11130008}<color=#FFD780FF>Return to Oblivion</color>{/LINK}: Each Death's Crossing stack also increases Skirk's ATK by 10%/20%/40%.\\nYou must first unlock the Ascension Talent Return to Oblivion.",
+            "icon": "UI_Talent_S_SkirkNew_03",
+            "name": "Fractured Flow"
+        },
+        "const5": {
+            "description": "Increases the Level of {LINK#S11142}<color=#FFD780FF>Havoc: Warp</color>{/LINK} by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_SkirkNew_02",
+            "name": "End of Wishes"
+        },
+        "const6": {
+            "description": "Each Void Rift Skirk absorbs via the effects of the Ascension Talent {LINK#N11130007}<color=#FFD780FF>Reason Beyond Reason</color>{/LINK} will grant her 1 Havoc: Sever stack. She can consume such stacks to initiate coordinated attacks and decrease the DMG she takes while in {LINK#N11130006}<color=#FFD780FF>Seven-Phase Flash</color>{/LINK} mode. These stacks last for 15s, and each stack's duration is counted independently (max 3 stacks).\\nYou must first unlock the Ascension Talent \"Reason Beyond Reason.\"\\n\\n<color=#FFD780FF>Havoc: Sever</color>\\n· When Skirk uses the Elemental Burst <color=#FFD780FF>Havoc: Ruin</color>, she will consume all <color=#FFD780FF>Havoc: Sever</color> stacks to initiate a coordinated attack in which each <color=#FFD780FF>Havoc: Sever</color> stack will deal 750% of Skirk's ATK as <color=#99FFFFFF>Cryo DMG</color>. This DMG is considered Elemental Burst DMG.\\n· When she uses Normal Attacks while in Seven-Phase Flash mode, 1 <color=#FFD780FF>Havoc: Sever</color> stack will be consumed when her third or fifth sequenced attacks hit an opponent to launch 3 coordinated attacks. Each coordinated attack deals 180% of Skirk's ATK as <color=#99FFFFFF>Cryo DMG</color>. This damage is considered Normal Attack DMG.\\n· When Skirk takes DMG while in Seven-Phase Flash mode, 1 <color=#FFD780FF>Havoc: Sever</color> stack will be consumed to decrease this DMG instance by 80% and attack nearby opponents 3 times, with each attack dealing 180% of Skirk's ATK as <color=#99FFFFFF>Cryo DMG</color>. This DMG is considered Charged Attack DMG.",
+            "icon": "UI_Talent_S_SkirkNew_04",
+            "name": "To the Source"
+        }
+    },
+    "energy": [
+        {
+            "cd": "15s",
+            "chance": "100%",
+            "particles": "4",
+            "source": "ElementalBall_GenerateEnergy"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_SkirkNew",
+        "forward": "UI_AvatarIcon_SkirkNew"
+    },
+    "info": {
+        "attributes": [
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 63,
+                "hp": 967,
+                "level": 1
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 68,
+                "hp": 1047,
+                "level": 2
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 73,
+                "hp": 1127,
+                "level": 3
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 78,
+                "hp": 1208,
+                "level": 4
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 84,
+                "hp": 1289,
+                "level": 5
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 40,
+                "def": 89,
+                "hp": 1370,
+                "level": 6
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 94,
+                "hp": 1450,
+                "level": 7
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 99,
+                "hp": 1531,
+                "level": 8
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 47,
+                "def": 105,
+                "hp": 1612,
+                "level": 9
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 49,
+                "def": 110,
+                "hp": 1693,
+                "level": 10
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 51,
+                "def": 115,
+                "hp": 1774,
+                "level": 11
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 54,
+                "def": 120,
+                "hp": 1855,
+                "level": 12
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 56,
+                "def": 126,
+                "hp": 1936,
+                "level": 13
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 58,
+                "def": 131,
+                "hp": 2018,
+                "level": 14
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 61,
+                "def": 136,
+                "hp": 2100,
+                "level": 15
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 63,
+                "def": 142,
+                "hp": 2181,
+                "level": 16
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 65,
+                "def": 147,
+                "hp": 2263,
+                "level": 17
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 68,
+                "def": 152,
+                "hp": 2344,
+                "level": 18
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 70,
+                "def": 158,
+                "hp": 2426,
+                "level": 19
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 72,
+                "def": 163,
+                "hp": 2508,
+                "level": 20
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 99,
+                "def": 222,
+                "hp": 3419,
+                "level": 21
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 101,
+                "def": 227,
+                "hp": 3501,
+                "level": 22
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 104,
+                "def": 233,
+                "hp": 3583,
+                "level": 23
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 106,
+                "def": 238,
+                "hp": 3665,
+                "level": 24
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 108,
+                "def": 243,
+                "hp": 3747,
+                "level": 25
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 111,
+                "def": 249,
+                "hp": 3830,
+                "level": 26
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 113,
+                "def": 254,
+                "hp": 3912,
+                "level": 27
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 115,
+                "def": 259,
+                "hp": 3995,
+                "level": 28
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 118,
+                "def": 265,
+                "hp": 4078,
+                "level": 29
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 120,
+                "def": 270,
+                "hp": 4160,
+                "level": 30
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 123,
+                "def": 275,
+                "hp": 4243,
+                "level": 31
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 125,
+                "def": 281,
+                "hp": 4326,
+                "level": 32
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 127,
+                "def": 286,
+                "hp": 4409,
+                "level": 33
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 130,
+                "def": 292,
+                "hp": 4492,
+                "level": 34
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 132,
+                "def": 297,
+                "hp": 4575,
+                "level": 35
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 135,
+                "def": 302,
+                "hp": 4659,
+                "level": 36
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 137,
+                "def": 308,
+                "hp": 4742,
+                "level": 37
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 139,
+                "def": 313,
+                "hp": 4825,
+                "level": 38
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 142,
+                "def": 319,
+                "hp": 4908,
+                "level": 39
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 144,
+                "def": 324,
+                "hp": 4992,
+                "level": 40
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 164,
+                "def": 368,
+                "hp": 5664,
+                "level": 41
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 166,
+                "def": 373,
+                "hp": 5748,
+                "level": 42
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 169,
+                "def": 379,
+                "hp": 5832,
+                "level": 43
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 171,
+                "def": 384,
+                "hp": 5916,
+                "level": 44
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 173,
+                "def": 390,
+                "hp": 6000,
+                "level": 45
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 176,
+                "def": 395,
+                "hp": 6084,
+                "level": 46
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 178,
+                "def": 400,
+                "hp": 6168,
+                "level": 47
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 181,
+                "def": 406,
+                "hp": 6252,
+                "level": 48
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 183,
+                "def": 411,
+                "hp": 6337,
+                "level": 49
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 186,
+                "def": 417,
+                "hp": 6421,
+                "level": 50
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 211,
+                "def": 473,
+                "hp": 7291,
+                "level": 51
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 213,
+                "def": 479,
+                "hp": 7376,
+                "level": 52
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 216,
+                "def": 484,
+                "hp": 7460,
+                "level": 53
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 218,
+                "def": 490,
+                "hp": 7545,
+                "level": 54
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 220,
+                "def": 495,
+                "hp": 7630,
+                "level": 55
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 223,
+                "def": 501,
+                "hp": 7715,
+                "level": 56
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 225,
+                "def": 506,
+                "hp": 7800,
+                "level": 57
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 228,
+                "def": 512,
+                "hp": 7885,
+                "level": 58
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 230,
+                "def": 517,
+                "hp": 7970,
+                "level": 59
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 233,
+                "def": 523,
+                "hp": 8055,
+                "level": 60
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 252,
+                "def": 567,
+                "hp": 8729,
+                "level": 61
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 255,
+                "def": 572,
+                "hp": 8814,
+                "level": 62
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 257,
+                "def": 578,
+                "hp": 8900,
+                "level": 63
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 260,
+                "def": 583,
+                "hp": 8985,
+                "level": 64
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 262,
+                "def": 589,
+                "hp": 9071,
+                "level": 65
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 265,
+                "def": 595,
+                "hp": 9157,
+                "level": 66
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 267,
+                "def": 600,
+                "hp": 9242,
+                "level": 67
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 270,
+                "def": 606,
+                "hp": 9328,
+                "level": 68
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 272,
+                "def": 611,
+                "hp": 9414,
+                "level": 69
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 274,
+                "def": 617,
+                "hp": 9501,
+                "level": 70
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 294,
+                "def": 661,
+                "hp": 10175,
+                "level": 71
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 297,
+                "def": 666,
+                "hp": 10262,
+                "level": 72
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 299,
+                "def": 672,
+                "hp": 10348,
+                "level": 73
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 301,
+                "def": 677,
+                "hp": 10435,
+                "level": 74
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 304,
+                "def": 683,
+                "hp": 10522,
+                "level": 75
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 306,
+                "def": 689,
+                "hp": 10608,
+                "level": 76
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 309,
+                "def": 694,
+                "hp": 10695,
+                "level": 77
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 312,
+                "def": 700,
+                "hp": 10782,
+                "level": 78
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 314,
+                "def": 706,
+                "hp": 10869,
+                "level": 79
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 317,
+                "def": 711,
+                "hp": 10956,
+                "level": 80
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 336,
+                "def": 755,
+                "hp": 11631,
+                "level": 81
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 339,
+                "def": 761,
+                "hp": 11718,
+                "level": 82
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 341,
+                "def": 766,
+                "hp": 11805,
+                "level": 83
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 344,
+                "def": 772,
+                "hp": 11892,
+                "level": 84
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 346,
+                "def": 778,
+                "hp": 11979,
+                "level": 85
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 349,
+                "def": 783,
+                "hp": 12067,
+                "level": 86
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 351,
+                "def": 789,
+                "hp": 12154,
+                "level": 87
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 354,
+                "def": 795,
+                "hp": 12242,
+                "level": 88
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 356,
+                "def": 801,
+                "hp": 12330,
+                "level": 89
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 359,
+                "def": 806,
+                "hp": 12417,
+                "level": 90
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 399,
+                "def": 835,
+                "hp": 12858,
+                "level": 95
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 439,
+                "def": 864,
+                "hp": 13300,
+                "level": 100
+            }
+        ],
+        "birthday": "November 5th",
+        "constellation": "Crystallina",
+        "description": "A visitor who once appeared in an Abyssal rift and the Primordial Sea, this solitary warrior mentored Tartaglia in the martial arts.",
+        "element": "Cryo",
+        "name": "Skirk",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_SWORD_ONE_HAND"
+    },
+    "passives": {
+        "p1": {
+            "description": "When nearby party members trigger Frozen, Superconduct, Cryo Swirl, or Cryo Crystallize reactions against opponents, a Void Rift will be created near this opponent. This effect can be triggered once every 2.5s. 3 Void Rifts created by Skirk herself can exist on the field at once.\\n\\nSkirk can use the following methods to absorb nearby Void Rifts:\\n· When she hits an opponent with a Charged Attack in her {LINK#N11130006}<color=#FFD780FF>Seven-Phase Flash</color>{/LINK} mode.\\n· When she uses the special Elemental Burst <color=#FFD780FF>Havoc: Extinction</color> while in Seven-Phase Flash mode.\\n· When she Holds her Elemental Skill <color=#FFD780FF>Havoc: Warp</color> to engage in rapid movement.\\n\\nEach Rift absorbed will grant her 8 {LINK#N11130005}<color=#FFD780FF>Serpent's Subtlety</color>{/LINK} points.",
+            "icon": "UI_Talent_S_SkirkNew_05",
+            "name": "Reason Beyond Reason"
+        },
+        "p2": {
+            "description": "When nearby <color=#80C0FFFF>Hydro</color> party members' <color=#80C0FFFF>Hydro</color> attacks hit opponents, or when nearby <color=#99FFFFFF>Cryo</color> party members apart from Skirk hit opponents with <color=#99FFFFFF>Cryo</color> attacks, Skirk will gain the \"Death's Crossing\" effect for 20s. Max 3 stacks, each stack's duration is counted independently.\\nEach character can grant Skirk at most 1 \"Death's Crossing\" stack by this means.\\nEach \"Death's Crossing\" stack increases the Normal Attack DMG dealt by Skirk in {LINK#N11130006}<color=#FFD780FF>Seven-Phase Flash</color>{/LINK} mode to 110%/120%/170% of its original DMG and the DMG dealt when using her Elemental Burst <color=#FFD780FF>Havoc: Ruin</color> to 105%/115%/160% of its original DMG.",
+            "icon": "UI_Talent_S_SkirkNew_06",
+            "name": "Return to Oblivion"
+        },
+        "p3": {
+            "description": "When all party members are either <color=#80C0FFFF>Hydro</color> or <color=#99FFFFFF>Cryo</color>, and if there is at least 1 Hydro and 1 Cryo character, your own party members' <color=#FFD780FF>Elemental Skill</color> Level is increased by 1.",
+            "icon": "UI_Talent_S_SkirkNew_08",
+            "name": "Mutual Weapons Mentorship"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Skirk's Elemental Burst is not reliant on Elemental Energy but instead on {LINK#N11130005}<color=#FFD780FF>Serpent's Subtlety</color>{/LINK}.\\nWhen Skirk has at least 50 Serpent's Subtlety, she can expend all her Serpent's Subtlety to unleash her Elemental Burst, ripping the space before her apart and using rapid consecutive slashes that deal <color=#99FFFFFF>AoE Cryo DMG</color>. At the same time, the DMG dealt by an instance of this Elemental Burst will be increased by every point of Serpent's Subtlety over 50 when it is unleashed. Up to 12 points can be counted for this purpose.\\n\\nWhen Skirk is in {LINK#N11130006}<color=#FFD780FF>Seven-Phase Flash</color>{/LINK} mode, Havoc: Ruin will be replaced by Havoc: Extinction.\\n\\n<color=#FFD780FF>Havoc: Extinction</color>\\nA special Elemental Burst that can be used even without consuming Serpent's Subtlety.\\nAfter using it, Skirk will gain the \"All Shall Wither\" effect, which will last until Seven-Phase Flash ends. After unlocking the Ascension Talent {LINK#N11130007}<color=#FFD780FF>Reason Beyond Reason</color>{/LINK}, she can also absorb nearby Void Rifts.\\nWhile \"All Shall Wither\" is active, every 0.1s, after Skirk's Normal Attack hits an opponent, that Normal Attack will deal increased DMG. If she absorbed any Void Rifts while using <color=#FFD780FF>Havoc: Extinction</color>, this Normal Attack's DMG will be further increased based on the number of Rifts absorbed.\\nThis effect will be canceled when it has triggered 10 times.",
+            "icon": "Skill_E_SkirkNew_01",
+            "multipliers": {
+                "0/1/2/3 Void Rift Absorption DMG Bonus": [
+                    "3.5%/6.6%/8.8%/11%",
+                    "4%/7.2%/9.6%/12%",
+                    "4.5%/7.8%/10.4%/13%",
+                    "5%/8.4%/11.2%/14%",
+                    "5.5%/9%/12%/15%",
+                    "6%/9.6%/12.8%/16%",
+                    "6.5%/10.2%/13.6%/17%",
+                    "7%/10.8%/14.4%/18%",
+                    "7.5%/11.4%/15.2%/19%",
+                    "8%/12%/16%/20%",
+                    "8.5%/12.6%/16.8%/21%",
+                    "9%/13.2%/17.6%/22%",
+                    "9.5%/13.8%/18.4%/23%",
+                    "10%/14.4%/19.2%/24%",
+                    "10.5%/15%/20%/25%"
+                ],
+                "CD": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Final Slash DMG": [
+                    "204.6%",
+                    "219.95%",
+                    "235.29%",
+                    "255.75%",
+                    "271.09%",
+                    "286.44%",
+                    "306.9%",
+                    "327.36%",
+                    "347.82%",
+                    "368.28%",
+                    "388.74%",
+                    "409.2%",
+                    "434.78%",
+                    "460.35%",
+                    "485.93%"
+                ],
+                "Serpent's Subtlety Bonus": [
+                    "19.32% ATK Per Point",
+                    "20.77% ATK Per Point",
+                    "22.22% ATK Per Point",
+                    "24.15% ATK Per Point",
+                    "25.6% ATK Per Point",
+                    "27.05% ATK Per Point",
+                    "28.98% ATK Per Point",
+                    "30.92% ATK Per Point",
+                    "32.85% ATK Per Point",
+                    "34.78% ATK Per Point",
+                    "36.71% ATK Per Point",
+                    "38.65% ATK Per Point",
+                    "41.06% ATK Per Point",
+                    "43.48% ATK Per Point",
+                    "45.89% ATK Per Point"
+                ],
+                "Slash DMG": [
+                    "122.76% ×5",
+                    "131.97% ×5",
+                    "141.17% ×5",
+                    "153.45% ×5",
+                    "162.66% ×5",
+                    "171.86% ×5",
+                    "184.14% ×5",
+                    "196.42% ×5",
+                    "208.69% ×5",
+                    "220.97% ×5",
+                    "233.24% ×5",
+                    "245.52% ×5",
+                    "260.86% ×5",
+                    "276.21% ×5",
+                    "291.55% ×5"
+                ]
+            },
+            "name": "Havoc: Ruin"
+        },
+        "elementalskill": {
+            "description": "Imitates the combat style of \"The Foul.\" Produces different effects depending on whether you Tap or Hold.\\n\\n<color=#FFD780FF>Tap</color>\\nSkirk gains 45 {LINK#N11130005}<color=#FFD780FF>Serpent's Subtlety</color>{/LINK} and switches to {LINK#N11130006}<color=#FFD780FF>Seven-Phase Flash</color>{/LINK} mode.\\n\\n<color=#FFD780FF>Hold</color>\\nSkirk gains 45 Serpent's Subtlety and will continuously move at high speed. Her interruption resistance is increased in this state.\\nDuring this time, Skirk can control her movement direction and move atop water. She can also use this Skill again to end rapid movement prematurely.",
+            "icon": "Skill_S_SkirkNew_01",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "132.82%",
+                    "143.64%",
+                    "154.45%",
+                    "169.89%",
+                    "180.7%",
+                    "193.06%",
+                    "210.05%",
+                    "227.04%",
+                    "244.03%",
+                    "262.56%",
+                    "281.09%",
+                    "299.63%",
+                    "318.16%",
+                    "336.69%",
+                    "355.23%"
+                ],
+                "2-Hit DMG": [
+                    "119.8%",
+                    "129.55%",
+                    "139.3%",
+                    "153.23%",
+                    "162.98%",
+                    "174.13%",
+                    "189.45%",
+                    "204.77%",
+                    "220.1%",
+                    "236.81%",
+                    "253.53%",
+                    "270.25%",
+                    "286.96%",
+                    "303.68%",
+                    "320.39%"
+                ],
+                "3-Hit DMG": [
+                    "75.72%+75.72%",
+                    "81.89%+81.89%",
+                    "88.05%+88.05%",
+                    "96.86%+96.86%",
+                    "103.02%+103.02%",
+                    "110.06%+110.06%",
+                    "119.75%+119.75%",
+                    "129.43%+129.43%",
+                    "139.12%+139.12%",
+                    "149.69%+149.69%",
+                    "160.25%+160.25%",
+                    "170.82%+170.82%",
+                    "181.38%+181.38%",
+                    "191.95%+191.95%",
+                    "202.52%+202.52%"
+                ],
+                "4-Hit DMG": [
+                    "80.54%+80.54%",
+                    "87.09%+87.09%",
+                    "93.65%+93.65%",
+                    "103.02%+103.02%",
+                    "109.57%+109.57%",
+                    "117.06%+117.06%",
+                    "127.36%+127.36%",
+                    "137.67%+137.67%",
+                    "147.97%+147.97%",
+                    "159.2%+159.2%",
+                    "170.44%+170.44%",
+                    "181.68%+181.68%",
+                    "192.92%+192.92%",
+                    "204.16%+204.16%",
+                    "215.39%+215.39%"
+                ],
+                "5-Hit DMG": [
+                    "196.62%",
+                    "212.63%",
+                    "228.63%",
+                    "251.5%",
+                    "267.5%",
+                    "285.79%",
+                    "310.94%",
+                    "336.09%",
+                    "361.24%",
+                    "388.68%",
+                    "416.11%",
+                    "443.55%",
+                    "470.98%",
+                    "498.42%",
+                    "525.86%"
+                ],
+                "CD": [
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s"
+                ],
+                "Charged Attack DMG": [
+                    "44.55%×3",
+                    "48.17%×3",
+                    "51.8%×3",
+                    "56.98%×3",
+                    "60.61%×3",
+                    "64.75%×3",
+                    "70.45%×3",
+                    "76.15%×3",
+                    "81.84%×3",
+                    "88.06%×3",
+                    "94.28%×3",
+                    "100.49%×3",
+                    "106.71%×3",
+                    "112.92%×3",
+                    "119.14%×3"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20"
+                ],
+                "Low/High Plunge DMG": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Max Serpent's Subtlety": [
+                    "100",
+                    "100",
+                    "100",
+                    "100",
+                    "100",
+                    "100",
+                    "100",
+                    "100",
+                    "100",
+                    "100",
+                    "100",
+                    "100",
+                    "100",
+                    "100",
+                    "100"
+                ],
+                "Plunge DMG": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ],
+                "Seven-Phase Flash Mode Duration": [
+                    "12.5s",
+                    "12.5s",
+                    "12.5s",
+                    "12.5s",
+                    "12.5s",
+                    "12.5s",
+                    "12.5s",
+                    "12.5s",
+                    "12.5s",
+                    "12.5s",
+                    "12.5s",
+                    "12.5s",
+                    "12.5s",
+                    "12.5s",
+                    "12.5s"
+                ]
+            },
+            "name": "Havoc: Warp"
+        },
+        "leveling": {
+            "books": {
+                "104347": 9,
+                "104348": 63,
+                "104349": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113073": 18
+            },
+            "worldmonster": {
+                "112083": 18,
+                "112084": 66,
+                "112085": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 5 consecutive attacks.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to hurl a spinning crystal spear, dealing DMG to opponents ahead.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+            "icon": "Skill_A_01",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "54.52%",
+                    "58.96%",
+                    "63.4%",
+                    "69.74%",
+                    "74.18%",
+                    "79.25%",
+                    "86.22%",
+                    "93.2%",
+                    "100.17%",
+                    "107.78%",
+                    "115.39%",
+                    "123%",
+                    "130.6%",
+                    "138.21%",
+                    "145.82%"
+                ],
+                "2-Hit DMG": [
+                    "49.79%",
+                    "53.85%",
+                    "57.9%",
+                    "63.69%",
+                    "67.74%",
+                    "72.37%",
+                    "78.74%",
+                    "85.11%",
+                    "91.48%",
+                    "98.43%",
+                    "105.38%",
+                    "112.33%",
+                    "119.27%",
+                    "126.22%",
+                    "133.17%"
+                ],
+                "3-Hit DMG": [
+                    "32.42%+32.42%",
+                    "35.06%+35.06%",
+                    "37.7%+37.7%",
+                    "41.47%+41.47%",
+                    "44.11%+44.11%",
+                    "47.12%+47.12%",
+                    "51.27%+51.27%",
+                    "55.42%+55.42%",
+                    "59.57%+59.57%",
+                    "64.09%+64.09%",
+                    "68.61%+68.61%",
+                    "73.14%+73.14%",
+                    "77.66%+77.66%",
+                    "82.19%+82.19%",
+                    "86.71%+86.71%"
+                ],
+                "4-Hit DMG": [
+                    "60.8%",
+                    "65.75%",
+                    "70.7%",
+                    "77.77%",
+                    "82.72%",
+                    "88.38%",
+                    "96.15%",
+                    "103.93%",
+                    "111.71%",
+                    "120.19%",
+                    "128.67%",
+                    "137.16%",
+                    "145.64%",
+                    "154.13%",
+                    "162.61%"
+                ],
+                "5-Hit DMG": [
+                    "82.9%",
+                    "89.65%",
+                    "96.4%",
+                    "106.04%",
+                    "112.79%",
+                    "120.5%",
+                    "131.1%",
+                    "141.71%",
+                    "152.31%",
+                    "163.88%",
+                    "175.45%",
+                    "187.02%",
+                    "198.58%",
+                    "210.15%",
+                    "221.72%"
+                ],
+                "Charged Attack DMG": [
+                    "66.82%×2",
+                    "72.26%×2",
+                    "77.7%×2",
+                    "85.47%×2",
+                    "90.91%×2",
+                    "97.12%×2",
+                    "105.67%×2",
+                    "114.22%×2",
+                    "122.77%×2",
+                    "132.09%×2",
+                    "141.41%×2",
+                    "150.74%×2",
+                    "160.06%×2",
+                    "169.39%×2",
+                    "178.71%×2"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20"
+                ],
+                "Low/High Plunge DMG": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Plunge DMG": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ]
+            },
+            "name": "Havoc: Sunder"
+        }
+    }
+}

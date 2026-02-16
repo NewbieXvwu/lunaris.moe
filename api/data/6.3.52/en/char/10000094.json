@@ -1,0 +1,1268 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104171": 1,
+            "104172": 9,
+            "104173": 9,
+            "104174": 6
+        },
+        "elitemonster": {
+            "113049": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101204": 168
+        },
+        "worldmonster": {
+            "112053": 18,
+            "112054": 30,
+            "112055": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack_04",
+            "poise": "LV5/78"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "5 hits / 1.9s",
+            "icd_source": "Tag: Chiori_ElementArt",
+            "name": "SkillObj_ElementalArt_Turret",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "5 hits / 1.9s",
+            "icd_source": "Tag: Chiori_ElementArt",
+            "name": "SkillObj_ElementalArt_Turret",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "5 hits / 1.9s",
+            "icd_source": "Tag: Chiori_ElementArt",
+            "name": "SkillObj_ElementalArt_RockGadget_Turret",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "5 hits / 1.9s",
+            "icd_source": "Tag: Chiori_ElementArt",
+            "name": "SkillObj_ElementalArt_RockGadget_Turret",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "5 hits / 1.9s",
+            "icd_source": "Tag: Chiori_ElementArt",
+            "name": "ElementalArt_Blink",
+            "poise": "LV5/50"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "5 hits / 1.9s",
+            "icd_source": "Tag: Chiori_ElementArt",
+            "name": "ElementalArt_JumpSwitch",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "-",
+            "gauge": "4U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Grp: default",
+            "name": "ElementalBurst",
+            "poise": "-/400"
+        },
+        {
+            "element": "Rock",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "Bullet_ElementalBurst_RockBomb",
+            "poise": "LV4/200"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "5 hits / 1.9s",
+            "icd_source": "Tag: Chiori_ElementArt",
+            "name": "SkillObj_Turret_Constellation",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "5 hits / 1.9s",
+            "icd_source": "Tag: Chiori_ElementArt",
+            "name": "SkillObj_Turret_Constellation",
+            "poise": "LV2/30"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "The AoE of the automaton doll \"Tamoto\" summoned by <color=#FFD780FF>Fluttering Hasode</color> is increased by 50%.\\nAdditionally, if there is a <color=#FFE699FF>Geo</color> party member other than Chiori, Fluttering Hasode will trigger the following after the dash is completed:\\n· Summon an additional Tamoto. Only one additional Tamoto can exist at the same time, whether summoned by Chiori this way or through the presence of a Geo Construct.\\n· Triggers the Ascension Talent \"The Finishing Touch.\" You must first unlock the Ascension Talent \"The Finishing Touch.\"",
+            "icon": "UI_Talent_S_Chiori_01",
+            "name": "Six Paths of Sage Silkcraft"
+        },
+        "const2": {
+            "description": "For 10s after using <color=#FFD780FF>Hiyoku: Twin Blades</color>, a simplified automaton doll, \"Kinu,\" will be summoned next to your active character every 3s. Kinu will attack nearby opponents, dealing <color=#FFE699FF>AoE Geo DMG</color> equivalent to 170% of Tamoto's DMG. DMG dealt this way is considered Elemental Skill DMG.\\nKinu will leave the field after 1 attack or after lasting 3s.",
+            "icon": "UI_Talent_S_Chiori_03",
+            "name": "In Five Colors Dyed"
+        },
+        "const3": {
+            "description": "Increases the Level of <color=#FFD780FF>Fluttering Hasode</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Chiori_01",
+            "name": "Four Brocade Embellishments"
+        },
+        "const4": {
+            "description": "For 8s after triggering either follow-up effect of the Ascension Talent \"Tailor-Made,\" when your current active character's Normal, Charged, or Plunging Attacks hit a nearby opponent, a simplified automaton doll, \"Kinu,\" will be summoned near this opponent. You can summon 1 Kinu every 1s in this way, and up to 3 Kinu may be summoned this way during each instance of \"Tailor-Made\"'s Seize the Moment or Tailoring effect. The above effect can be triggered up to once every 15s.\\nYou must first unlock the Ascension Talent \"Tailor-Made.\"",
+            "icon": "UI_Talent_S_Chiori_02",
+            "name": "A Tailor's Three Courtesies"
+        },
+        "const5": {
+            "description": "Increases the Level of <color=#FFD780FF>Hiyoku: Twin Blades</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Chiori_02",
+            "name": "Two Silken Plumules"
+        },
+        "const6": {
+            "description": "After triggering a follow-up effect of the Ascension Talent \"Tailor-Made,\" Chiori's own <color=#FFD780FF>Fluttering Hasode</color>'s CD is decreased by 12s. You must first unlock the Ascension Talent \"Tailor-Made.\".\\nIn addition, the DMG dealt by Chiori's own Normal Attacks is increased by an amount equal to 235% of her own DEF.",
+            "icon": "UI_Talent_S_Chiori_04",
+            "name": "Sole Principle Pursuit"
+        }
+    },
+    "energy": [
+        {
+            "cd": "3s",
+            "chance": "80%",
+            "particles": "1",
+            "source": "ElementalArt_DropBall"
+        },
+        {
+            "cd": "3s",
+            "chance": "19%",
+            "particles": "2",
+            "source": "ElementalArt_DropBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Chiori",
+        "forward": "UI_AvatarIcon_Chiori"
+    },
+    "info": {
+        "attributes": [
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 74,
+                "hp": 890,
+                "level": 1
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 80,
+                "hp": 964,
+                "level": 2
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 87,
+                "hp": 1038,
+                "level": 3
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 93,
+                "hp": 1113,
+                "level": 4
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 99,
+                "hp": 1187,
+                "level": 5
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 105,
+                "hp": 1262,
+                "level": 6
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 111,
+                "hp": 1336,
+                "level": 7
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 40,
+                "def": 118,
+                "hp": 1410,
+                "level": 8
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 124,
+                "hp": 1485,
+                "level": 9
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 130,
+                "hp": 1559,
+                "level": 10
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 46,
+                "def": 136,
+                "hp": 1634,
+                "level": 11
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 48,
+                "def": 142,
+                "hp": 1709,
+                "level": 12
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 50,
+                "def": 149,
+                "hp": 1783,
+                "level": 13
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 52,
+                "def": 155,
+                "hp": 1859,
+                "level": 14
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 55,
+                "def": 161,
+                "hp": 1934,
+                "level": 15
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 57,
+                "def": 167,
+                "hp": 2009,
+                "level": 16
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 59,
+                "def": 174,
+                "hp": 2084,
+                "level": 17
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 61,
+                "def": 180,
+                "hp": 2159,
+                "level": 18
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 63,
+                "def": 186,
+                "hp": 2235,
+                "level": 19
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 65,
+                "def": 192,
+                "hp": 2310,
+                "level": 20
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 89,
+                "def": 262,
+                "hp": 3149,
+                "level": 21
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 91,
+                "def": 269,
+                "hp": 3225,
+                "level": 22
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 93,
+                "def": 275,
+                "hp": 3300,
+                "level": 23
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 95,
+                "def": 281,
+                "hp": 3376,
+                "level": 24
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 97,
+                "def": 288,
+                "hp": 3452,
+                "level": 25
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 100,
+                "def": 294,
+                "hp": 3528,
+                "level": 26
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 102,
+                "def": 300,
+                "hp": 3604,
+                "level": 27
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 104,
+                "def": 307,
+                "hp": 3680,
+                "level": 28
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 106,
+                "def": 313,
+                "hp": 3756,
+                "level": 29
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 108,
+                "def": 319,
+                "hp": 3832,
+                "level": 30
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 110,
+                "def": 326,
+                "hp": 3908,
+                "level": 31
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 112,
+                "def": 332,
+                "hp": 3985,
+                "level": 32
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 115,
+                "def": 338,
+                "hp": 4061,
+                "level": 33
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 117,
+                "def": 345,
+                "hp": 4137,
+                "level": 34
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 119,
+                "def": 351,
+                "hp": 4214,
+                "level": 35
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 121,
+                "def": 358,
+                "hp": 4291,
+                "level": 36
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 123,
+                "def": 364,
+                "hp": 4368,
+                "level": 37
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 125,
+                "def": 370,
+                "hp": 4444,
+                "level": 38
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 128,
+                "def": 377,
+                "hp": 4521,
+                "level": 39
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 130,
+                "def": 383,
+                "hp": 4598,
+                "level": 40
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 147,
+                "def": 435,
+                "hp": 5217,
+                "level": 41
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 149,
+                "def": 441,
+                "hp": 5295,
+                "level": 42
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 152,
+                "def": 448,
+                "hp": 5372,
+                "level": 43
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 154,
+                "def": 454,
+                "hp": 5449,
+                "level": 44
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 156,
+                "def": 460,
+                "hp": 5526,
+                "level": 45
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 158,
+                "def": 467,
+                "hp": 5604,
+                "level": 46
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 160,
+                "def": 473,
+                "hp": 5681,
+                "level": 47
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 163,
+                "def": 480,
+                "hp": 5759,
+                "level": 48
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 165,
+                "def": 486,
+                "hp": 5837,
+                "level": 49
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 167,
+                "def": 493,
+                "hp": 5915,
+                "level": 50
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 190,
+                "def": 560,
+                "hp": 6715,
+                "level": 51
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 192,
+                "def": 566,
+                "hp": 6794,
+                "level": 52
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 194,
+                "def": 573,
+                "hp": 6871,
+                "level": 53
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 196,
+                "def": 579,
+                "hp": 6949,
+                "level": 54
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 198,
+                "def": 586,
+                "hp": 7028,
+                "level": 55
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 201,
+                "def": 592,
+                "hp": 7106,
+                "level": 56
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 203,
+                "def": 599,
+                "hp": 7185,
+                "level": 57
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 205,
+                "def": 605,
+                "hp": 7263,
+                "level": 58
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 207,
+                "def": 612,
+                "hp": 7341,
+                "level": 59
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 209,
+                "def": 618,
+                "hp": 7420,
+                "level": 60
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 227,
+                "def": 670,
+                "hp": 8040,
+                "level": 61
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 229,
+                "def": 676,
+                "hp": 8119,
+                "level": 62
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 231,
+                "def": 683,
+                "hp": 8198,
+                "level": 63
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 234,
+                "def": 690,
+                "hp": 8276,
+                "level": 64
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 236,
+                "def": 696,
+                "hp": 8356,
+                "level": 65
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 238,
+                "def": 703,
+                "hp": 8435,
+                "level": 66
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 240,
+                "def": 709,
+                "hp": 8513,
+                "level": 67
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 243,
+                "def": 716,
+                "hp": 8592,
+                "level": 68
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 245,
+                "def": 723,
+                "hp": 8672,
+                "level": 69
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 247,
+                "def": 729,
+                "hp": 8751,
+                "level": 70
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 265,
+                "def": 781,
+                "hp": 9373,
+                "level": 71
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 267,
+                "def": 788,
+                "hp": 9453,
+                "level": 72
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 269,
+                "def": 794,
+                "hp": 9532,
+                "level": 73
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 271,
+                "def": 801,
+                "hp": 9611,
+                "level": 74
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 274,
+                "def": 808,
+                "hp": 9691,
+                "level": 75
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 276,
+                "def": 814,
+                "hp": 9771,
+                "level": 76
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 278,
+                "def": 821,
+                "hp": 9851,
+                "level": 77
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 280,
+                "def": 827,
+                "hp": 9931,
+                "level": 78
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 283,
+                "def": 834,
+                "hp": 10011,
+                "level": 79
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 285,
+                "def": 841,
+                "hp": 10091,
+                "level": 80
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 302,
+                "def": 893,
+                "hp": 10714,
+                "level": 81
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 305,
+                "def": 899,
+                "hp": 10794,
+                "level": 82
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 307,
+                "def": 906,
+                "hp": 10874,
+                "level": 83
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 309,
+                "def": 913,
+                "hp": 10954,
+                "level": 84
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 312,
+                "def": 919,
+                "hp": 11034,
+                "level": 85
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 314,
+                "def": 926,
+                "hp": 11115,
+                "level": 86
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 316,
+                "def": 933,
+                "hp": 11195,
+                "level": 87
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 318,
+                "def": 940,
+                "hp": 11277,
+                "level": 88
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 321,
+                "def": 946,
+                "hp": 11358,
+                "level": 89
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 323,
+                "def": 953,
+                "hp": 11438,
+                "level": 90
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 359,
+                "def": 987,
+                "hp": 11844,
+                "level": 95
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 396,
+                "def": 1021,
+                "hp": 12251,
+                "level": 100
+            }
+        ],
+        "birthday": "August 17th",
+        "constellation": "Cisoria",
+        "description": "The owner of Chioriya Boutique. A tailor renowned throughout Fontaine.",
+        "element": "Geo",
+        "name": "Chiori",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_SWORD_ONE_HAND"
+    },
+    "passives": {
+        "p1": {
+            "description": "#Gain different effects depending on the next action you take within a short duration after using <color=#FFD780FF>Fluttering Hasode</color>'s upward sweep. If you Press the Elemental Skill, you will trigger the Tapestry effect. If you Press your Normal Attack, the Tailoring effect will be triggered instead.\\n\\n<color=#FFD780FF>Tapestry</color>\\n· Switches to the next character in your roster.\\n· Grants all your party members \"Seize the Moment\": When your active party member's Normal Attacks, Charged Attacks, and Plunging Attacks hit a nearby opponent, \"Tamoto\" will execute a coordinated attack, dealing 100% of Fluttering Hasode's upward sweep DMG as <color=#FFE699FF>AoE Geo DMG</color> at the opponent's location. DMG dealt this way is considered Elemental Skill DMG.\\n· \"Seize the Moment\" lasts 8s, and 1 of \"Tamoto\"'s coordinated attack can be unleashed every 2s. 2 such coordinated attacks can occur per \"Seize the Moment\" effect duration.\\n\\n<color=#FFD780FF>Tailoring</color>\\n· Chiori gains <color=#FFE699FF>Geo infusion</color> for 5s.\\n\\nWhen on the field, if Chiori does not either Press her Elemental Skill or use a Normal Attack within a short time after using Fluttering Hasode's upward sweep, the Tailoring effect will be triggered by default.",
+            "icon": "UI_Talent_S_Chiori_05",
+            "name": "Tailor-Made"
+        },
+        "p2": {
+            "description": "When a nearby party member creates a <color=#FFE699FF>Geo Construct</color>, Chiori will gain 20% <color=#FFE699FF>Geo DMG Bonus</color> for 20s.",
+            "icon": "UI_Talent_S_Chiori_06",
+            "name": "The Finishing Touch"
+        },
+        "p3": {
+            "description": "When any party member is wearing an outfit apart from their default outfit, or is wearing a wind glider other than the Wings of First Flight, your party members will obtain the Swift Stride effect: Movement SPD is increased by 10%.\\nThis effect does not take effect in Domains, Trounce Domains, and the Spiral Abyss. Swift Stride does not stack.",
+            "icon": "UI_Talent_S_Chiori_07",
+            "name": "Brocaded Collar's Beauteous Silhouette"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Twin blades leave their sheaths as Chiori slices with the clean cuts of a master tailor, dealing <color=#FFE699FF>AoE Geo DMG</color> based on her ATK and DEF.\\n\\n<i>\"Master one principle, and the path to all others shall open to you.\"</i>",
+            "icon": "Skill_E_Chiori_01",
+            "multipliers": {
+                "CD": [
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s"
+                ],
+                "Energy Cost": [
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50"
+                ],
+                "Skill DMG": [
+                    "256.32% ATK+320.4% DEF",
+                    "275.54% ATK+344.43% DEF",
+                    "294.77% ATK+368.46% DEF",
+                    "320.4% ATK+400.5% DEF",
+                    "339.62% ATK+424.53% DEF",
+                    "358.85% ATK+448.56% DEF",
+                    "384.48% ATK+480.6% DEF",
+                    "410.11% ATK+512.64% DEF",
+                    "435.74% ATK+544.68% DEF",
+                    "461.38% ATK+576.72% DEF",
+                    "487.01% ATK+608.76% DEF",
+                    "512.64% ATK+640.8% DEF",
+                    "544.68% ATK+680.85% DEF",
+                    "576.72% ATK+720.9% DEF",
+                    "608.76% ATK+760.95% DEF"
+                ]
+            },
+            "name": "Hiyoku: Twin Blades"
+        },
+        "elementalskill": {
+            "description": "Dashes nimbly forward with silken steps. Once this dash ends, Chiori will summon the automaton doll \"Tamoto\" beside her and sweep her blade upward, dealing <color=#FFE699FF>AoE Geo DMG</color> to nearby opponents based on her ATK and DEF.\\nHolding the Skill will cause it to behave differently.\\n\\n<color=#FFD780FF>Hold</color>\\nEnter Aiming Mode to adjust the dash direction.\\n\\n<color=#FFD780FF>Tamoto</color>\\n· Will slash at nearby opponents at intervals, dealing <color=#FFE699FF>AoE Geo DMG</color> based on Chiori's ATK and DEF.\\n· While active, if there are nearby <color=#FFE699FF>Geo Construct(s)</color> or <color=#FFE699FF>Geo Construct(s)</color> are created nearby, an additional Tamoto will be summoned next to your active character. Only 1 additional Tamoto can be summoned in this manner, and its duration is independently counted.\\n\\n<i>\"Sakura red dyes the brocade, the fragrance suffuses the sleeves, the orioles intoxicated.\"</i>",
+            "icon": "Skill_S_Chiori_01",
+            "multipliers": {
+                "CD": [
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s"
+                ],
+                "Tamoto Attack Interval": [
+                    "3.6s",
+                    "3.6s",
+                    "3.6s",
+                    "3.6s",
+                    "3.6s",
+                    "3.6s",
+                    "3.6s",
+                    "3.6s",
+                    "3.6s",
+                    "3.6s",
+                    "3.6s",
+                    "3.6s",
+                    "3.6s",
+                    "3.6s",
+                    "3.6s"
+                ],
+                "Tamoto DMG": [
+                    "82.08% ATK+102.6% DEF",
+                    "88.24% ATK+110.29% DEF",
+                    "94.39% ATK+117.99% DEF",
+                    "102.6% ATK+128.25% DEF",
+                    "108.76% ATK+135.94% DEF",
+                    "114.91% ATK+143.64% DEF",
+                    "123.12% ATK+153.9% DEF",
+                    "131.33% ATK+164.16% DEF",
+                    "139.54% ATK+174.42% DEF",
+                    "147.74% ATK+184.68% DEF",
+                    "155.95% ATK+194.94% DEF",
+                    "164.16% ATK+205.2% DEF",
+                    "174.42% ATK+218.02% DEF",
+                    "184.68% ATK+230.85% DEF",
+                    "194.94% ATK+243.67% DEF"
+                ],
+                "Tamoto Duration": [
+                    "17s",
+                    "17s",
+                    "17s",
+                    "17s",
+                    "17s",
+                    "17s",
+                    "17s",
+                    "17s",
+                    "17s",
+                    "17s",
+                    "17s",
+                    "17s",
+                    "17s",
+                    "17s",
+                    "17s"
+                ],
+                "Upward Sweep Attack DMG": [
+                    "149.28% ATK+186.6% DEF",
+                    "160.48% ATK+200.59% DEF",
+                    "171.67% ATK+214.59% DEF",
+                    "186.6% ATK+233.25% DEF",
+                    "197.8% ATK+247.25% DEF",
+                    "208.99% ATK+261.24% DEF",
+                    "223.92% ATK+279.9% DEF",
+                    "238.85% ATK+298.56% DEF",
+                    "253.78% ATK+317.22% DEF",
+                    "268.7% ATK+335.88% DEF",
+                    "283.63% ATK+354.54% DEF",
+                    "298.56% ATK+373.2% DEF",
+                    "317.22% ATK+396.53% DEF",
+                    "335.88% ATK+419.85% DEF",
+                    "354.54% ATK+443.17% DEF"
+                ]
+            },
+            "name": "Fluttering Hasode"
+        },
+        "leveling": {
+            "books": {
+                "104326": 9,
+                "104327": 63,
+                "104328": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113054": 18
+            },
+            "worldmonster": {
+                "112053": 18,
+                "112054": 66,
+                "112055": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 rapid strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+            "icon": "Skill_A_01",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "49.41%",
+                    "53.43%",
+                    "57.45%",
+                    "63.2%",
+                    "67.22%",
+                    "71.82%",
+                    "78.14%",
+                    "84.46%",
+                    "90.78%",
+                    "97.67%",
+                    "104.57%",
+                    "111.46%",
+                    "118.36%",
+                    "125.25%",
+                    "132.14%"
+                ],
+                "2-Hit DMG": [
+                    "46.83%",
+                    "50.65%",
+                    "54.46%",
+                    "59.9%",
+                    "63.72%",
+                    "68.07%",
+                    "74.06%",
+                    "80.05%",
+                    "86.04%",
+                    "92.58%",
+                    "99.11%",
+                    "105.65%",
+                    "112.18%",
+                    "118.72%",
+                    "125.25%"
+                ],
+                "3-Hit DMG": [
+                    "30.42%+30.42%",
+                    "32.89%+32.89%",
+                    "35.37%+35.37%",
+                    "38.9%+38.9%",
+                    "41.38%+41.38%",
+                    "44.21%+44.21%",
+                    "48.1%+48.1%",
+                    "51.99%+51.99%",
+                    "55.88%+55.88%",
+                    "60.13%+60.13%",
+                    "64.37%+64.37%",
+                    "68.61%+68.61%",
+                    "72.86%+72.86%",
+                    "77.1%+77.1%",
+                    "81.35%+81.35%"
+                ],
+                "4-Hit DMG": [
+                    "75.12%",
+                    "81.24%",
+                    "87.35%",
+                    "96.09%",
+                    "102.2%",
+                    "109.19%",
+                    "118.8%",
+                    "128.41%",
+                    "138.02%",
+                    "148.5%",
+                    "158.98%",
+                    "169.46%",
+                    "179.95%",
+                    "190.43%",
+                    "200.91%"
+                ],
+                "Charged Attack DMG": [
+                    "54.31%+54.31%",
+                    "58.73%+58.73%",
+                    "63.15%+63.15%",
+                    "69.46%+69.46%",
+                    "73.89%+73.89%",
+                    "78.94%+78.94%",
+                    "85.88%+85.88%",
+                    "92.83%+92.83%",
+                    "99.78%+99.78%",
+                    "107.35%+107.35%",
+                    "114.93%+114.93%",
+                    "122.51%+122.51%",
+                    "130.09%+130.09%",
+                    "137.67%+137.67%",
+                    "145.25%+145.25%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20"
+                ],
+                "Low/High Plunge DMG": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Plunge DMG": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ]
+            },
+            "name": "Weaving Blade"
+        }
+    }
+}

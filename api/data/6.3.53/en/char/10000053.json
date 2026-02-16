@@ -1,0 +1,1468 @@
+{
+    "info": {
+        "name": "Sayu",
+        "description": "A pint-sized ninja attached to the Shuumatsuban, who always seems sleep-deprived.",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_CLAYMORE",
+        "birthday": "October 19th",
+        "element": "Anemo",
+        "constellation": "Nyctereutes Minor",
+        "attributes": [
+            {
+                "level": 1,
+                "ascension": 0,
+                "hp": 994,
+                "atk": 20,
+                "def": 62,
+                "EM": 0
+            },
+            {
+                "level": 2,
+                "ascension": 0,
+                "hp": 1076,
+                "atk": 22,
+                "def": 68,
+                "EM": 0
+            },
+            {
+                "level": 3,
+                "ascension": 0,
+                "hp": 1158,
+                "atk": 24,
+                "def": 73,
+                "EM": 0
+            },
+            {
+                "level": 4,
+                "ascension": 0,
+                "hp": 1240,
+                "atk": 26,
+                "def": 78,
+                "EM": 0
+            },
+            {
+                "level": 5,
+                "ascension": 0,
+                "hp": 1322,
+                "atk": 27,
+                "def": 83,
+                "EM": 0
+            },
+            {
+                "level": 6,
+                "ascension": 0,
+                "hp": 1404,
+                "atk": 29,
+                "def": 88,
+                "EM": 0
+            },
+            {
+                "level": 7,
+                "ascension": 0,
+                "hp": 1486,
+                "atk": 31,
+                "def": 93,
+                "EM": 0
+            },
+            {
+                "level": 8,
+                "ascension": 0,
+                "hp": 1568,
+                "atk": 32,
+                "def": 99,
+                "EM": 0
+            },
+            {
+                "level": 9,
+                "ascension": 0,
+                "hp": 1651,
+                "atk": 34,
+                "def": 104,
+                "EM": 0
+            },
+            {
+                "level": 10,
+                "ascension": 0,
+                "hp": 1732,
+                "atk": 36,
+                "def": 109,
+                "EM": 0
+            },
+            {
+                "level": 11,
+                "ascension": 0,
+                "hp": 1815,
+                "atk": 37,
+                "def": 114,
+                "EM": 0
+            },
+            {
+                "level": 12,
+                "ascension": 0,
+                "hp": 1896,
+                "atk": 39,
+                "def": 119,
+                "EM": 0
+            },
+            {
+                "level": 13,
+                "ascension": 0,
+                "hp": 1979,
+                "atk": 41,
+                "def": 124,
+                "EM": 0
+            },
+            {
+                "level": 14,
+                "ascension": 0,
+                "hp": 2060,
+                "atk": 42,
+                "def": 129,
+                "EM": 0
+            },
+            {
+                "level": 15,
+                "ascension": 0,
+                "hp": 2143,
+                "atk": 44,
+                "def": 135,
+                "EM": 0
+            },
+            {
+                "level": 16,
+                "ascension": 0,
+                "hp": 2225,
+                "atk": 46,
+                "def": 140,
+                "EM": 0
+            },
+            {
+                "level": 17,
+                "ascension": 0,
+                "hp": 2307,
+                "atk": 48,
+                "def": 145,
+                "EM": 0
+            },
+            {
+                "level": 18,
+                "ascension": 0,
+                "hp": 2389,
+                "atk": 49,
+                "def": 150,
+                "EM": 0
+            },
+            {
+                "level": 19,
+                "ascension": 0,
+                "hp": 2471,
+                "atk": 51,
+                "def": 155,
+                "EM": 0
+            },
+            {
+                "level": 20,
+                "ascension": 0,
+                "hp": 2553,
+                "atk": 53,
+                "def": 160,
+                "EM": 0
+            },
+            {
+                "level": 21,
+                "ascension": 1,
+                "hp": 3377,
+                "atk": 70,
+                "def": 212,
+                "EM": 0
+            },
+            {
+                "level": 22,
+                "ascension": 1,
+                "hp": 3460,
+                "atk": 71,
+                "def": 217,
+                "EM": 0
+            },
+            {
+                "level": 23,
+                "ascension": 1,
+                "hp": 3542,
+                "atk": 73,
+                "def": 223,
+                "EM": 0
+            },
+            {
+                "level": 24,
+                "ascension": 1,
+                "hp": 3624,
+                "atk": 75,
+                "def": 228,
+                "EM": 0
+            },
+            {
+                "level": 25,
+                "ascension": 1,
+                "hp": 3706,
+                "atk": 76,
+                "def": 233,
+                "EM": 0
+            },
+            {
+                "level": 26,
+                "ascension": 1,
+                "hp": 3788,
+                "atk": 78,
+                "def": 238,
+                "EM": 0
+            },
+            {
+                "level": 27,
+                "ascension": 1,
+                "hp": 3870,
+                "atk": 80,
+                "def": 243,
+                "EM": 0
+            },
+            {
+                "level": 28,
+                "ascension": 1,
+                "hp": 3952,
+                "atk": 81,
+                "def": 248,
+                "EM": 0
+            },
+            {
+                "level": 29,
+                "ascension": 1,
+                "hp": 4034,
+                "atk": 83,
+                "def": 253,
+                "EM": 0
+            },
+            {
+                "level": 30,
+                "ascension": 1,
+                "hp": 4116,
+                "atk": 85,
+                "def": 259,
+                "EM": 0
+            },
+            {
+                "level": 31,
+                "ascension": 1,
+                "hp": 4198,
+                "atk": 87,
+                "def": 264,
+                "EM": 0
+            },
+            {
+                "level": 32,
+                "ascension": 1,
+                "hp": 4281,
+                "atk": 88,
+                "def": 269,
+                "EM": 0
+            },
+            {
+                "level": 33,
+                "ascension": 1,
+                "hp": 4362,
+                "atk": 90,
+                "def": 274,
+                "EM": 0
+            },
+            {
+                "level": 34,
+                "ascension": 1,
+                "hp": 4445,
+                "atk": 92,
+                "def": 279,
+                "EM": 0
+            },
+            {
+                "level": 35,
+                "ascension": 1,
+                "hp": 4526,
+                "atk": 93,
+                "def": 284,
+                "EM": 0
+            },
+            {
+                "level": 36,
+                "ascension": 1,
+                "hp": 4609,
+                "atk": 95,
+                "def": 290,
+                "EM": 0
+            },
+            {
+                "level": 37,
+                "ascension": 1,
+                "hp": 4690,
+                "atk": 97,
+                "def": 295,
+                "EM": 0
+            },
+            {
+                "level": 38,
+                "ascension": 1,
+                "hp": 4773,
+                "atk": 98,
+                "def": 300,
+                "EM": 0
+            },
+            {
+                "level": 39,
+                "ascension": 1,
+                "hp": 4855,
+                "atk": 100,
+                "def": 305,
+                "EM": 0
+            },
+            {
+                "level": 40,
+                "ascension": 1,
+                "hp": 4937,
+                "atk": 102,
+                "def": 310,
+                "EM": 0
+            },
+            {
+                "level": 41,
+                "ascension": 2,
+                "hp": 5547,
+                "atk": 114,
+                "def": 348,
+                "EM": 24
+            },
+            {
+                "level": 42,
+                "ascension": 2,
+                "hp": 5628,
+                "atk": 116,
+                "def": 354,
+                "EM": 24
+            },
+            {
+                "level": 43,
+                "ascension": 2,
+                "hp": 5711,
+                "atk": 118,
+                "def": 359,
+                "EM": 24
+            },
+            {
+                "level": 44,
+                "ascension": 2,
+                "hp": 5792,
+                "atk": 119,
+                "def": 364,
+                "EM": 24
+            },
+            {
+                "level": 45,
+                "ascension": 2,
+                "hp": 5875,
+                "atk": 121,
+                "def": 369,
+                "EM": 24
+            },
+            {
+                "level": 46,
+                "ascension": 2,
+                "hp": 5957,
+                "atk": 123,
+                "def": 374,
+                "EM": 24
+            },
+            {
+                "level": 47,
+                "ascension": 2,
+                "hp": 6038,
+                "atk": 124,
+                "def": 379,
+                "EM": 24
+            },
+            {
+                "level": 48,
+                "ascension": 2,
+                "hp": 6121,
+                "atk": 126,
+                "def": 385,
+                "EM": 24
+            },
+            {
+                "level": 49,
+                "ascension": 2,
+                "hp": 6202,
+                "atk": 128,
+                "def": 390,
+                "EM": 24
+            },
+            {
+                "level": 50,
+                "ascension": 2,
+                "hp": 6285,
+                "atk": 130,
+                "def": 395,
+                "EM": 24
+            },
+            {
+                "level": 51,
+                "ascension": 3,
+                "hp": 7070,
+                "atk": 146,
+                "def": 444,
+                "EM": 48
+            },
+            {
+                "level": 52,
+                "ascension": 3,
+                "hp": 7152,
+                "atk": 147,
+                "def": 449,
+                "EM": 48
+            },
+            {
+                "level": 53,
+                "ascension": 3,
+                "hp": 7235,
+                "atk": 149,
+                "def": 454,
+                "EM": 48
+            },
+            {
+                "level": 54,
+                "ascension": 3,
+                "hp": 7316,
+                "atk": 151,
+                "def": 460,
+                "EM": 48
+            },
+            {
+                "level": 55,
+                "ascension": 3,
+                "hp": 7399,
+                "atk": 152,
+                "def": 465,
+                "EM": 48
+            },
+            {
+                "level": 56,
+                "ascension": 3,
+                "hp": 7480,
+                "atk": 154,
+                "def": 470,
+                "EM": 48
+            },
+            {
+                "level": 57,
+                "ascension": 3,
+                "hp": 7563,
+                "atk": 156,
+                "def": 475,
+                "EM": 48
+            },
+            {
+                "level": 58,
+                "ascension": 3,
+                "hp": 7644,
+                "atk": 158,
+                "def": 480,
+                "EM": 48
+            },
+            {
+                "level": 59,
+                "ascension": 3,
+                "hp": 7727,
+                "atk": 159,
+                "def": 485,
+                "EM": 48
+            },
+            {
+                "level": 60,
+                "ascension": 3,
+                "hp": 7809,
+                "atk": 161,
+                "def": 491,
+                "EM": 48
+            },
+            {
+                "level": 61,
+                "ascension": 4,
+                "hp": 8418,
+                "atk": 173,
+                "def": 529,
+                "EM": 48
+            },
+            {
+                "level": 62,
+                "ascension": 4,
+                "hp": 8501,
+                "atk": 175,
+                "def": 534,
+                "EM": 48
+            },
+            {
+                "level": 63,
+                "ascension": 4,
+                "hp": 8582,
+                "atk": 177,
+                "def": 539,
+                "EM": 48
+            },
+            {
+                "level": 64,
+                "ascension": 4,
+                "hp": 8665,
+                "atk": 179,
+                "def": 544,
+                "EM": 48
+            },
+            {
+                "level": 65,
+                "ascension": 4,
+                "hp": 8746,
+                "atk": 180,
+                "def": 549,
+                "EM": 48
+            },
+            {
+                "level": 66,
+                "ascension": 4,
+                "hp": 8829,
+                "atk": 182,
+                "def": 555,
+                "EM": 48
+            },
+            {
+                "level": 67,
+                "ascension": 4,
+                "hp": 8911,
+                "atk": 184,
+                "def": 560,
+                "EM": 48
+            },
+            {
+                "level": 68,
+                "ascension": 4,
+                "hp": 8993,
+                "atk": 185,
+                "def": 565,
+                "EM": 48
+            },
+            {
+                "level": 69,
+                "ascension": 4,
+                "hp": 9075,
+                "atk": 187,
+                "def": 570,
+                "EM": 48
+            },
+            {
+                "level": 70,
+                "ascension": 4,
+                "hp": 9157,
+                "atk": 189,
+                "def": 575,
+                "EM": 48
+            },
+            {
+                "level": 71,
+                "ascension": 5,
+                "hp": 9767,
+                "atk": 201,
+                "def": 614,
+                "EM": 72
+            },
+            {
+                "level": 72,
+                "ascension": 5,
+                "hp": 9848,
+                "atk": 203,
+                "def": 619,
+                "EM": 72
+            },
+            {
+                "level": 73,
+                "ascension": 5,
+                "hp": 9931,
+                "atk": 205,
+                "def": 624,
+                "EM": 72
+            },
+            {
+                "level": 74,
+                "ascension": 5,
+                "hp": 10013,
+                "atk": 206,
+                "def": 629,
+                "EM": 72
+            },
+            {
+                "level": 75,
+                "ascension": 5,
+                "hp": 10095,
+                "atk": 208,
+                "def": 634,
+                "EM": 72
+            },
+            {
+                "level": 76,
+                "ascension": 5,
+                "hp": 10177,
+                "atk": 210,
+                "def": 639,
+                "EM": 72
+            },
+            {
+                "level": 77,
+                "ascension": 5,
+                "hp": 10259,
+                "atk": 211,
+                "def": 644,
+                "EM": 72
+            },
+            {
+                "level": 78,
+                "ascension": 5,
+                "hp": 10341,
+                "atk": 213,
+                "def": 650,
+                "EM": 72
+            },
+            {
+                "level": 79,
+                "ascension": 5,
+                "hp": 10423,
+                "atk": 215,
+                "def": 655,
+                "EM": 72
+            },
+            {
+                "level": 80,
+                "ascension": 5,
+                "hp": 10505,
+                "atk": 216,
+                "def": 660,
+                "EM": 72
+            },
+            {
+                "level": 81,
+                "ascension": 6,
+                "hp": 11115,
+                "atk": 229,
+                "def": 698,
+                "EM": 96
+            },
+            {
+                "level": 82,
+                "ascension": 6,
+                "hp": 11197,
+                "atk": 231,
+                "def": 703,
+                "EM": 96
+            },
+            {
+                "level": 83,
+                "ascension": 6,
+                "hp": 11279,
+                "atk": 232,
+                "def": 709,
+                "EM": 96
+            },
+            {
+                "level": 84,
+                "ascension": 6,
+                "hp": 11361,
+                "atk": 234,
+                "def": 714,
+                "EM": 96
+            },
+            {
+                "level": 85,
+                "ascension": 6,
+                "hp": 11443,
+                "atk": 236,
+                "def": 719,
+                "EM": 96
+            },
+            {
+                "level": 86,
+                "ascension": 6,
+                "hp": 11525,
+                "atk": 237,
+                "def": 724,
+                "EM": 96
+            },
+            {
+                "level": 87,
+                "ascension": 6,
+                "hp": 11607,
+                "atk": 239,
+                "def": 729,
+                "EM": 96
+            },
+            {
+                "level": 88,
+                "ascension": 6,
+                "hp": 11689,
+                "atk": 241,
+                "def": 734,
+                "EM": 96
+            },
+            {
+                "level": 89,
+                "ascension": 6,
+                "hp": 11771,
+                "atk": 243,
+                "def": 739,
+                "EM": 96
+            },
+            {
+                "level": 90,
+                "ascension": 6,
+                "hp": 11854,
+                "atk": 244,
+                "def": 745,
+                "EM": 96
+            },
+            {
+                "level": 95,
+                "ascension": 6,
+                "hp": 12263,
+                "atk": 275,
+                "def": 770,
+                "EM": 96
+            },
+            {
+                "level": 100,
+                "ascension": 6,
+                "hp": 12674,
+                "atk": 307,
+                "def": 796,
+                "EM": 96
+            }
+        ]
+    },
+    "icons": {
+        "forward": "UI_AvatarIcon_Sayu",
+        "coop_img": "UI_CoopImg_Sayu"
+    },
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101203": 168
+        },
+        "elemental": {
+            "104151": 1,
+            "104152": 9,
+            "104153": 9,
+            "104154": 6
+        },
+        "worldmonster": {
+            "112038": 18,
+            "112039": 30,
+            "112040": 36
+        },
+        "elitemonster": {
+            "113022": 46
+        }
+    },
+    "skills": {
+        "normalattack": {
+            "name": "Shuumatsuban Ninja Blade",
+            "icon": "Skill_A_04",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "72.24%",
+                    "78.12%",
+                    "84%",
+                    "92.4%",
+                    "98.28%",
+                    "105%",
+                    "114.24%",
+                    "123.48%",
+                    "132.72%",
+                    "142.8%",
+                    "154.35%",
+                    "167.93%",
+                    "181.52%",
+                    "195.1%",
+                    "209.92%"
+                ],
+                "2-Hit DMG": [
+                    "71.38%",
+                    "77.19%",
+                    "83%",
+                    "91.3%",
+                    "97.11%",
+                    "103.75%",
+                    "112.88%",
+                    "122.01%",
+                    "131.14%",
+                    "141.1%",
+                    "152.51%",
+                    "165.93%",
+                    "179.35%",
+                    "192.78%",
+                    "207.42%"
+                ],
+                "3-Hit DMG": [
+                    "43.43%+43.43%",
+                    "46.97%+46.97%",
+                    "50.5%+50.5%",
+                    "55.55%+55.55%",
+                    "59.08%+59.08%",
+                    "63.13%+63.13%",
+                    "68.68%+68.68%",
+                    "74.23%+74.23%",
+                    "79.79%+79.79%",
+                    "85.85%+85.85%",
+                    "92.79%+92.79%",
+                    "100.96%+100.96%",
+                    "109.13%+109.13%",
+                    "117.29%+117.29%",
+                    "126.2%+126.2%"
+                ],
+                "4-Hit DMG": [
+                    "98.13%",
+                    "106.11%",
+                    "114.1%",
+                    "125.51%",
+                    "133.5%",
+                    "142.62%",
+                    "155.18%",
+                    "167.73%",
+                    "180.28%",
+                    "193.97%",
+                    "209.66%",
+                    "228.11%",
+                    "246.56%",
+                    "265.01%",
+                    "285.14%"
+                ],
+                "Charged Attack Spinning DMG": [
+                    "62.55%",
+                    "67.64%",
+                    "72.73%",
+                    "80%",
+                    "85.09%",
+                    "90.91%",
+                    "98.91%",
+                    "106.91%",
+                    "114.91%",
+                    "123.64%",
+                    "133.64%",
+                    "145.4%",
+                    "157.16%",
+                    "168.92%",
+                    "181.75%"
+                ],
+                "Charged Attack Final DMG": [
+                    "113.09%",
+                    "122.29%",
+                    "131.5%",
+                    "144.65%",
+                    "153.86%",
+                    "164.37%",
+                    "178.84%",
+                    "193.31%",
+                    "207.77%",
+                    "223.55%",
+                    "241.63%",
+                    "262.89%",
+                    "284.16%",
+                    "305.42%",
+                    "328.62%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s"
+                ],
+                "Max Duration": [
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s"
+                ],
+                "Plunge DMG": [
+                    "74.59%",
+                    "80.66%",
+                    "86.73%",
+                    "95.4%",
+                    "101.47%",
+                    "108.41%",
+                    "117.95%",
+                    "127.49%",
+                    "137.03%",
+                    "147.44%",
+                    "157.85%",
+                    "168.26%",
+                    "178.66%",
+                    "189.07%",
+                    "199.48%"
+                ],
+                "Low/High Plunge DMG": [
+                    "149.14%/186.29%",
+                    "161.28%/201.45%",
+                    "173.42%/216.62%",
+                    "190.77%/238.28%",
+                    "202.91%/253.44%",
+                    "216.78%/270.77%",
+                    "235.86%/294.6%",
+                    "254.93%/318.42%",
+                    "274.01%/342.25%",
+                    "294.82%/368.25%",
+                    "315.63%/394.24%",
+                    "336.44%/420.23%",
+                    "357.25%/446.23%",
+                    "378.06%/472.22%",
+                    "398.87%/498.21%"
+                ]
+            },
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 consecutive strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nDrains Stamina over time to perform continuous spinning attacks against all nearby opponents.\\nAt the end of the sequence, performs a more powerful slash. \\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
+        },
+        "elementalskill": {
+            "name": "Yoohoo Art: Fuuin Dash",
+            "icon": "Skill_S_Sayu_01",
+            "multipliers": {
+                "Fuufuu Windwheel DMG": [
+                    "36%",
+                    "38.7%",
+                    "41.4%",
+                    "45%",
+                    "47.7%",
+                    "50.4%",
+                    "54%",
+                    "57.6%",
+                    "61.2%",
+                    "64.8%",
+                    "68.4%",
+                    "72%",
+                    "76.5%",
+                    "81%",
+                    "85.5%"
+                ],
+                "#Fuufuu Whirlwind Kick Press DMG": [
+                    "158.4%",
+                    "170.28%",
+                    "182.16%",
+                    "198%",
+                    "209.88%",
+                    "221.76%",
+                    "237.6%",
+                    "253.44%",
+                    "269.28%",
+                    "285.12%",
+                    "300.96%",
+                    "316.8%",
+                    "336.6%",
+                    "356.4%",
+                    "376.2%"
+                ],
+                "Fuufuu Whirlwind Kick Hold DMG": [
+                    "217.6%",
+                    "233.92%",
+                    "250.24%",
+                    "272%",
+                    "288.32%",
+                    "304.64%",
+                    "326.4%",
+                    "348.16%",
+                    "369.92%",
+                    "391.68%",
+                    "413.44%",
+                    "435.2%",
+                    "462.4%",
+                    "489.6%",
+                    "516.8%"
+                ],
+                "Fuufuu Windwheel Elemental DMG": [
+                    "16.8%",
+                    "18.06%",
+                    "19.32%",
+                    "21%",
+                    "22.26%",
+                    "23.52%",
+                    "25.2%",
+                    "26.88%",
+                    "28.56%",
+                    "30.24%",
+                    "31.92%",
+                    "33.6%",
+                    "35.7%",
+                    "37.8%",
+                    "39.9%"
+                ],
+                "Fuufuu Whirlwind Kick Elemental DMG": [
+                    "76.16%",
+                    "81.87%",
+                    "87.58%",
+                    "95.2%",
+                    "100.91%",
+                    "106.62%",
+                    "114.24%",
+                    "121.86%",
+                    "129.47%",
+                    "137.09%",
+                    "144.7%",
+                    "152.32%",
+                    "161.84%",
+                    "171.36%",
+                    "180.88%"
+                ],
+                "Max Duration (Hold)": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ],
+                "CD": [
+                    "6 to 11s",
+                    "6 to 11s",
+                    "6 to 11s",
+                    "6 to 11s",
+                    "6 to 11s",
+                    "6 to 11s",
+                    "6 to 11s",
+                    "6 to 11s",
+                    "6 to 11s",
+                    "6 to 11s",
+                    "6 to 11s",
+                    "6 to 11s",
+                    "6 to 11s",
+                    "6 to 11s",
+                    "6 to 11s"
+                ]
+            },
+            "description": "#The special technique of the Yoohoo Ninja Arts!\\nSayu curls up into a rolling Fuufuu Windwheel and smashes into opponents at high speed, dealing <color=#80FFD7FF>Anemo DMG</color>. When the duration ends, she unleashes a Fuufuu Whirlwind Kick, dealing <color=#80FFD7FF>AoE Anemo DMG</color>.\\n\\n<color=#FFD780FF>Press</color>\\nEnters the Fuufuu Windwheel state, rolling forward a short distance before using the Fuufuu Whirlwind Kick.\\n\\n<color=#FFD780FF>Hold</color>\\nRolls about continuously in the Fuufuu Windwheel state, increasing Sayu's resistance to interruption while within that state.\\nDuring this time, Sayu can control the direction of her roll, and can use the skill again to end her Windwheel state early and unleash a stronger version of the Fuufuu Whirlwind Kick.\\nThe Hold version of this skill can trigger Elemental Absorption.\\n\\nThis skill has a maximum duration of 10s and enters CD once its effects end. The longer Sayu remains in her Windwheel state, the longer the CD.\\n\\n<color=#FFD780FF>Elemental Absorption</color>\\nIf Sayu comes into contact with <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color> while in her Windwheel state, she will deal additional elemental DMG of that type.\\nElemental Absorption may only occur once per use of this skill.\\n\\n<i>Sayu can pull this skill off with her eyes closed. This technique was originally created for escaping, but now that she's got a Vision, might as well make her foes eat dirt while she's at it.</i>"
+        },
+        "elementalburst": {
+            "name": "Yoohoo Art: Mujina Flurry",
+            "icon": "Skill_E_Sayu_01",
+            "multipliers": {
+                "Skill Activation DMG": [
+                    "116.8%",
+                    "125.56%",
+                    "134.32%",
+                    "146%",
+                    "154.76%",
+                    "163.52%",
+                    "175.2%",
+                    "186.88%",
+                    "198.56%",
+                    "210.24%",
+                    "221.92%",
+                    "233.6%",
+                    "248.2%",
+                    "262.8%",
+                    "277.4%"
+                ],
+                "Skill Activation Healing": [
+                    "92.16% ATK+577",
+                    "99.07% ATK+635",
+                    "105.98% ATK+698",
+                    "115.2% ATK+765",
+                    "122.11% ATK+837",
+                    "129.02% ATK+914",
+                    "138.24% ATK+996",
+                    "147.46% ATK+1083",
+                    "156.67% ATK+1174",
+                    "165.89% ATK+1270",
+                    "175.1% ATK+1371",
+                    "184.32% ATK+1477",
+                    "195.84% ATK+1588",
+                    "207.36% ATK+1703",
+                    "218.88% ATK+1824"
+                ],
+                "Muji-Muji Daruma DMG": [
+                    "52%",
+                    "55.9%",
+                    "59.8%",
+                    "65%",
+                    "68.9%",
+                    "72.8%",
+                    "78%",
+                    "83.2%",
+                    "88.4%",
+                    "93.6%",
+                    "98.8%",
+                    "104%",
+                    "110.5%",
+                    "117%",
+                    "123.5%"
+                ],
+                "Muji-Muji Daruma Healing": [
+                    "79.87% ATK+500",
+                    "85.86% ATK+550",
+                    "91.85% ATK+605",
+                    "99.84% ATK+663",
+                    "105.83% ATK+726",
+                    "111.82% ATK+792",
+                    "119.81% ATK+863",
+                    "127.8% ATK+938",
+                    "135.78% ATK+1017",
+                    "143.77% ATK+1101",
+                    "151.76% ATK+1188",
+                    "159.74% ATK+1280",
+                    "169.73% ATK+1376",
+                    "179.71% ATK+1476",
+                    "189.7% ATK+1580"
+                ],
+                "Duration": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "CD": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ],
+                "Energy Cost": [
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80"
+                ]
+            },
+            "description": "The other super special technique of the Yoohoo Ninja Arts! It summons a pair of helping hands for Sayu.\\nDeals <color=#80FFD7FF>Anemo DMG</color> to nearby opponents and heals all nearby party members. The amount of HP restored is based on Sayu's ATK. This skill then summons a Muji-Muji Daruma.\\n\\n<color=#FFD780FF>Muji-Muji Daruma</color>\\nAt specific intervals, the Daruma will take one of several actions based on the situation around it:\\n·If the HP of nearby characters is above 70%, it will attack a nearby opponent, dealing <color=#80FFD7FF>Anemo DMG</color>.\\n·If there are active characters with 70% or less HP nearby, it will heal the active character with the lowest percentage HP left. If there are no opponents nearby, it will heal active characters nearby even if they have 70% HP or more.\\n\\n<i>People who don't know the first thing about ninjutsu love to watch Sayu show off this skill, and some have tried to learn it from her. But Sayu just wants to sleep and not be disturbed.</i>"
+        },
+        "leveling": {
+            "crown": {
+                "104319": 3
+            },
+            "books": {
+                "104326": 9,
+                "104327": 63,
+                "104328": 114
+            },
+            "worldmonster": {
+                "112038": 18,
+                "112039": 66,
+                "112040": 93
+            },
+            "weekly": {
+                "113019": 18
+            }
+        }
+    },
+    "passives": {
+        "p1": {
+            "name": "Someone More Capable",
+            "description": "When Sayu triggers a Swirl reaction while active, she heals all your characters and nearby allies for 300 HP. She will also heal an additional 1.2 HP for every point of Elemental Mastery she has.\\nThis effect can be triggered once every 2s.",
+            "icon": "UI_Talent_S_Sayu_05"
+        },
+        "p2": {
+            "name": "No Work Today!",
+            "description": "The Muji-Muji Daruma created by <color=#FFD780FF>Yoohoo Art: Mujina Flurry</color> gains the following effects:\\n·When healing a character, it will also heal characters near that healed character for 20% the amount of HP.\\n·Increases the AoE of its attack against opponents.",
+            "icon": "UI_Talent_S_Sayu_06"
+        },
+        "p3": {
+            "name": "Yoohoo Art: Silencer's Secret",
+            "description": "When Sayu is in the party, your characters will not startle Crystalflies and certain other animals when getting near them.\\nCheck the \"Other\" sub-category of the \"Living Beings / Wildlife\" section in the Archive for creatures this skill works on.",
+            "icon": "UI_Talent_S_Sayu_07"
+        },
+        "p4": ""
+    },
+    "constellations": {
+        "const1": {
+            "name": "Multi-Task no Jutsu",
+            "description": "The Muji-Muji Daruma created by <color=#FFD780FF>Yoohoo Art: Mujina Flurry</color> will ignore HP limits and can simultaneously attack nearby opponents and heal characters.",
+            "icon": "UI_Talent_S_Sayu_01"
+        },
+        "const2": {
+            "name": "Egress Prep",
+            "description": "#<color=#FFD780FF>Yoohoo Art: Fuuin Dash</color> gains the following effects:\\n·DMG of Fuufuu Whirlwind Kick in Press Mode increased by 3.3%.\\n·Every 0.5s in the Fuufuu Windwheel state will increase the DMG of this Fuufuu Whirlwind Kick by 3.3%. The maximum DMG increase possible through this method is 66%.",
+            "icon": "UI_Talent_S_Sayu_02"
+        },
+        "const3": {
+            "name": "Eh, the Bunshin Can Handle It",
+            "description": "Increases the Level of <color=#FFD780FF>Yoohoo Art: Mujina Flurry</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Sayu_02"
+        },
+        "const4": {
+            "name": "Skiving: New and Improved",
+            "description": "Sayu recovers 1.2 Energy when she triggers a Swirl reaction.\\nThis effect occurs once every 2s.",
+            "icon": "UI_Talent_S_Sayu_03"
+        },
+        "const5": {
+            "name": "Speed Comes First",
+            "description": "Increases the Level of <color=#FFD780FF>Yoohoo Art: Fuuin Dash</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Sayu_01"
+        },
+        "const6": {
+            "name": "Sleep O'Clock",
+            "description": "The Muji-Muji Daruma created by Sayu's <color=#FFD780FF>Yoohoo Art: Mujina Flurry</color> will now also benefit from her Elemental Mastery. Each point of Sayu's Elemental Mastery will produce the following effects:\\n·Increases the damage dealt by the Muji-Muji Daruma's attacks by 0.2% ATK. A maximum DMG increase of 400% ATK can be gained via this method.\\n·Increases the HP restored by the Muji-Muji Daruma by 3. A maximum of 6,000 additional HP can be restored in this manner.",
+            "icon": "UI_Talent_S_Sayu_04"
+        }
+    },
+    "energy": [
+        {
+            "source": "UNIQUE_Roll_DropBall",
+            "particles": "1",
+            "chance": "100%",
+            "cd": "3s"
+        },
+        {
+            "source": "UNIQUE_Strike_DropBall",
+            "particles": "2",
+            "chance": "100%",
+            "cd": "0.5s"
+        }
+    ],
+    "attacks": [
+        {
+            "name": "ElementalArt_Click",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/120",
+            "element": "Wind"
+        },
+        {
+            "name": "ElementalArt_Bullet",
+            "icd_source": "Tag: Elemental_Art_Wind (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/25",
+            "element": "Wind"
+        },
+        {
+            "name": "ElementalArt_Hold",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/200",
+            "element": "Wind"
+        },
+        {
+            "name": "ElementalArt_Hold",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/0",
+            "element": "Fire"
+        },
+        {
+            "name": "ElementalArt_Hold",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/0",
+            "element": "Water"
+        },
+        {
+            "name": "ElementalArt_Hold",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/0",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalArt_Hold",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/0",
+            "element": "Ice"
+        },
+        {
+            "name": "ElementalArt_Roll_Bullet",
+            "icd_source": "Tag: Elemental_Art_Wind (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/25",
+            "element": "Wind"
+        },
+        {
+            "name": "ElementalArt_Roll_Bullet",
+            "icd_source": "Tag: Elemental_Art_Fire (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/0",
+            "element": "Fire"
+        },
+        {
+            "name": "ElementalArt_Roll_Bullet",
+            "icd_source": "Tag: Elemental_Art_Water (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/0",
+            "element": "Water"
+        },
+        {
+            "name": "ElementalArt_Roll_Bullet",
+            "icd_source": "Tag: Elemental_Art_Electric (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/0",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalArt_Roll_Bullet",
+            "icd_source": "Tag: Elemental_Art_Ice (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/0",
+            "element": "Ice"
+        },
+        {
+            "name": "ElementalArt_Roll_Mix",
+            "icd_source": "Grp: default",
+            "icd_rule": "Standard (3h/2.5s)",
+            "gauge": "1U",
+            "poise": "LV0/0",
+            "element": "Fire"
+        },
+        {
+            "name": "ElementalArt_Roll_Mix",
+            "icd_source": "Grp: default",
+            "icd_rule": "Standard (3h/2.5s)",
+            "gauge": "2U",
+            "poise": "LV0/0",
+            "element": "Ice"
+        },
+        {
+            "name": "ElementalArt_Roll_Mix",
+            "icd_source": "Grp: default",
+            "icd_rule": "Standard (3h/2.5s)",
+            "gauge": "1U",
+            "poise": "LV0/0",
+            "element": "Water"
+        },
+        {
+            "name": "ElementalArt_Roll_Mix",
+            "icd_source": "Tag: Sayu_ElementalArt_Mix_Detect (!)",
+            "icd_rule": "Independent",
+            "gauge": "0.0U",
+            "poise": "-/0",
+            "element": "AntiFire"
+        },
+        {
+            "name": "ElementalBurst",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/200",
+            "element": "Wind"
+        },
+        {
+            "name": "ElementalBurst_Phantom",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/50",
+            "element": "Wind"
+        },
+        {
+            "name": "ElementalBurst_Phantom",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/50",
+            "element": "Wind"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/35",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/150",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/200",
+            "element": "-"
+        }
+    ]
+}

@@ -1,0 +1,1325 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104141": 1,
+            "104142": 9,
+            "104143": 9,
+            "104144": 6
+        },
+        "elitemonster": {
+            "113002": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100021": 168
+        },
+        "worldmonster": {
+            "112005": 18,
+            "112006": 30,
+            "112007": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Electric",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ClawMark_Click",
+            "poise": "LV3/140"
+        },
+        {
+            "element": "Electric",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ClawMark_Click",
+            "poise": "LV3/140"
+        },
+        {
+            "element": "Electric",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ClawMark_Burst",
+            "poise": "LV5/300"
+        },
+        {
+            "element": "Electric",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ClawMark_Burst",
+            "poise": "LV3/300"
+        },
+        {
+            "element": "Electric",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "LycanMode",
+            "poise": "LV3/51"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ChargedBlade (!)",
+            "name": "Talent_ChargedBlade",
+            "poise": "LV2/69"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/35"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/150"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/200"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Grp: default",
+            "name": "HexenzirkelSkill",
+            "poise": "LV3/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "雷泽获取元素晶球或元素微粒后的8秒内，造成的伤害提高10%。",
+            "icon": "UI_Talent_S_Razor_01",
+            "name": "狼性"
+        },
+        "const2": {
+            "description": "雷泽攻击生命值低于30%的敌人时，暴击率提高10%。",
+            "icon": "UI_Talent_S_Razor_02",
+            "name": "压制"
+        },
+        "const3": {
+            "description": "<color=#FFD780FF>雷牙</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Razor_02",
+            "name": "兽魂"
+        },
+        "const4": {
+            "description": "<color=#FFD780FF>利爪与苍雷</color>点按时，会使命中的敌人防御力降低15%，持续7秒。",
+            "icon": "UI_Talent_S_Razor_03",
+            "name": "撕咬"
+        },
+        "const5": {
+            "description": "<color=#FFD780FF>利爪与苍雷</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Razor_01",
+            "name": "利爪"
+        },
+        "const6": {
+            "description": "每10秒，雷泽的大剑将自动充能，使下一次普通攻击引发落雷，造成100%攻击力的<color=#FFACFFFF>雷元素伤害</color>。\\n不处于<color=#FFD780FF>雷牙</color>状态下时，若落雷击中敌人，会为雷泽积攒一个<color=#FFD780FF>利爪与苍雷</color>的雷之印。",
+            "icon": "UI_Talent_S_Razor_04",
+            "name": "天狼"
+        }
+    },
+    "energy": [
+        {
+            "cd": "1s",
+            "chance": "100%",
+            "particles": "3",
+            "source": "ClawMark_Click_DropBall_Base"
+        },
+        {
+            "cd": "1s",
+            "chance": "100%",
+            "particles": "4",
+            "source": "ClawMark_Burst_DropBall_Base"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Razor",
+        "forward": "UI_AvatarIcon_Razor"
+    },
+    "info": {
+        "attributes": [
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 63,
+                "hp": 1003,
+                "level": 1
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 68,
+                "hp": 1086,
+                "level": 2
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 23,
+                "def": 73,
+                "hp": 1168,
+                "level": 3
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 79,
+                "hp": 1252,
+                "level": 4
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 84,
+                "hp": 1334,
+                "level": 5
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 89,
+                "hp": 1417,
+                "level": 6
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 94,
+                "hp": 1499,
+                "level": 7
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 99,
+                "hp": 1583,
+                "level": 8
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 105,
+                "hp": 1666,
+                "level": 9
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 110,
+                "hp": 1748,
+                "level": 10
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 115,
+                "hp": 1831,
+                "level": 11
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 120,
+                "hp": 1914,
+                "level": 12
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 125,
+                "hp": 1997,
+                "level": 13
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 130,
+                "hp": 2079,
+                "level": 14
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 136,
+                "hp": 2162,
+                "level": 15
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 141,
+                "hp": 2246,
+                "level": 16
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 45,
+                "def": 146,
+                "hp": 2328,
+                "level": 17
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 47,
+                "def": 151,
+                "hp": 2411,
+                "level": 18
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 49,
+                "def": 156,
+                "hp": 2493,
+                "level": 19
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 50,
+                "def": 162,
+                "hp": 2577,
+                "level": 20
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 67,
+                "def": 214,
+                "hp": 3408,
+                "level": 21
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 68,
+                "def": 219,
+                "hp": 3491,
+                "level": 22
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 70,
+                "def": 224,
+                "hp": 3575,
+                "level": 23
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 230,
+                "hp": 3657,
+                "level": 24
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 73,
+                "def": 235,
+                "hp": 3740,
+                "level": 25
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 75,
+                "def": 240,
+                "hp": 3822,
+                "level": 26
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 76,
+                "def": 245,
+                "hp": 3906,
+                "level": 27
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 78,
+                "def": 250,
+                "hp": 3988,
+                "level": 28
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 80,
+                "def": 256,
+                "hp": 4071,
+                "level": 29
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 81,
+                "def": 261,
+                "hp": 4153,
+                "level": 30
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 83,
+                "def": 266,
+                "hp": 4237,
+                "level": 31
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 84,
+                "def": 271,
+                "hp": 4320,
+                "level": 32
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 86,
+                "def": 276,
+                "hp": 4402,
+                "level": 33
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 88,
+                "def": 282,
+                "hp": 4485,
+                "level": 34
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 89,
+                "def": 287,
+                "hp": 4568,
+                "level": 35
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 91,
+                "def": 292,
+                "hp": 4651,
+                "level": 36
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 92,
+                "def": 297,
+                "hp": 4733,
+                "level": 37
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 94,
+                "def": 302,
+                "hp": 4816,
+                "level": 38
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 96,
+                "def": 308,
+                "hp": 4900,
+                "level": 39
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 97,
+                "def": 313,
+                "hp": 4982,
+                "level": 40
+            },
+            {
+                "Physical%": "7.5",
+                "ascension": 2,
+                "atk": 109,
+                "def": 351,
+                "hp": 5597,
+                "level": 41
+            },
+            {
+                "Physical%": "7.5",
+                "ascension": 2,
+                "atk": 111,
+                "def": 356,
+                "hp": 5680,
+                "level": 42
+            },
+            {
+                "Physical%": "7.5",
+                "ascension": 2,
+                "atk": 113,
+                "def": 362,
+                "hp": 5763,
+                "level": 43
+            },
+            {
+                "Physical%": "7.5",
+                "ascension": 2,
+                "atk": 114,
+                "def": 367,
+                "hp": 5845,
+                "level": 44
+            },
+            {
+                "Physical%": "7.5",
+                "ascension": 2,
+                "atk": 116,
+                "def": 372,
+                "hp": 5928,
+                "level": 45
+            },
+            {
+                "Physical%": "7.5",
+                "ascension": 2,
+                "atk": 117,
+                "def": 377,
+                "hp": 6012,
+                "level": 46
+            },
+            {
+                "Physical%": "7.5",
+                "ascension": 2,
+                "atk": 119,
+                "def": 382,
+                "hp": 6094,
+                "level": 47
+            },
+            {
+                "Physical%": "7.5",
+                "ascension": 2,
+                "atk": 121,
+                "def": 388,
+                "hp": 6177,
+                "level": 48
+            },
+            {
+                "Physical%": "7.5",
+                "ascension": 2,
+                "atk": 122,
+                "def": 393,
+                "hp": 6259,
+                "level": 49
+            },
+            {
+                "Physical%": "7.5",
+                "ascension": 2,
+                "atk": 124,
+                "def": 398,
+                "hp": 6343,
+                "level": 50
+            },
+            {
+                "Physical%": "15",
+                "ascension": 3,
+                "atk": 139,
+                "def": 448,
+                "hp": 7135,
+                "level": 51
+            },
+            {
+                "Physical%": "15",
+                "ascension": 3,
+                "atk": 141,
+                "def": 453,
+                "hp": 7218,
+                "level": 52
+            },
+            {
+                "Physical%": "15",
+                "ascension": 3,
+                "atk": 143,
+                "def": 458,
+                "hp": 7301,
+                "level": 53
+            },
+            {
+                "Physical%": "15",
+                "ascension": 3,
+                "atk": 144,
+                "def": 463,
+                "hp": 7383,
+                "level": 54
+            },
+            {
+                "Physical%": "15",
+                "ascension": 3,
+                "atk": 146,
+                "def": 469,
+                "hp": 7467,
+                "level": 55
+            },
+            {
+                "Physical%": "15",
+                "ascension": 3,
+                "atk": 147,
+                "def": 474,
+                "hp": 7549,
+                "level": 56
+            },
+            {
+                "Physical%": "15",
+                "ascension": 3,
+                "atk": 149,
+                "def": 479,
+                "hp": 7632,
+                "level": 57
+            },
+            {
+                "Physical%": "15",
+                "ascension": 3,
+                "atk": 151,
+                "def": 484,
+                "hp": 7714,
+                "level": 58
+            },
+            {
+                "Physical%": "15",
+                "ascension": 3,
+                "atk": 152,
+                "def": 489,
+                "hp": 7798,
+                "level": 59
+            },
+            {
+                "Physical%": "15",
+                "ascension": 3,
+                "atk": 154,
+                "def": 495,
+                "hp": 7881,
+                "level": 60
+            },
+            {
+                "Physical%": "15",
+                "ascension": 4,
+                "atk": 166,
+                "def": 533,
+                "hp": 8496,
+                "level": 61
+            },
+            {
+                "Physical%": "15",
+                "ascension": 4,
+                "atk": 168,
+                "def": 538,
+                "hp": 8579,
+                "level": 62
+            },
+            {
+                "Physical%": "15",
+                "ascension": 4,
+                "atk": 169,
+                "def": 544,
+                "hp": 8661,
+                "level": 63
+            },
+            {
+                "Physical%": "15",
+                "ascension": 4,
+                "atk": 171,
+                "def": 549,
+                "hp": 8744,
+                "level": 64
+            },
+            {
+                "Physical%": "15",
+                "ascension": 4,
+                "atk": 172,
+                "def": 554,
+                "hp": 8827,
+                "level": 65
+            },
+            {
+                "Physical%": "15",
+                "ascension": 4,
+                "atk": 174,
+                "def": 559,
+                "hp": 8910,
+                "level": 66
+            },
+            {
+                "Physical%": "15",
+                "ascension": 4,
+                "atk": 176,
+                "def": 564,
+                "hp": 8993,
+                "level": 67
+            },
+            {
+                "Physical%": "15",
+                "ascension": 4,
+                "atk": 177,
+                "def": 570,
+                "hp": 9075,
+                "level": 68
+            },
+            {
+                "Physical%": "15",
+                "ascension": 4,
+                "atk": 179,
+                "def": 575,
+                "hp": 9159,
+                "level": 69
+            },
+            {
+                "Physical%": "15",
+                "ascension": 4,
+                "atk": 180,
+                "def": 580,
+                "hp": 9241,
+                "level": 70
+            },
+            {
+                "Physical%": "22.5",
+                "ascension": 5,
+                "atk": 193,
+                "def": 619,
+                "hp": 9856,
+                "level": 71
+            },
+            {
+                "Physical%": "22.5",
+                "ascension": 5,
+                "atk": 194,
+                "def": 624,
+                "hp": 9939,
+                "level": 72
+            },
+            {
+                "Physical%": "22.5",
+                "ascension": 5,
+                "atk": 196,
+                "def": 629,
+                "hp": 10022,
+                "level": 73
+            },
+            {
+                "Physical%": "22.5",
+                "ascension": 5,
+                "atk": 197,
+                "def": 634,
+                "hp": 10105,
+                "level": 74
+            },
+            {
+                "Physical%": "22.5",
+                "ascension": 5,
+                "atk": 199,
+                "def": 639,
+                "hp": 10187,
+                "level": 75
+            },
+            {
+                "Physical%": "22.5",
+                "ascension": 5,
+                "atk": 201,
+                "def": 645,
+                "hp": 10271,
+                "level": 76
+            },
+            {
+                "Physical%": "22.5",
+                "ascension": 5,
+                "atk": 202,
+                "def": 650,
+                "hp": 10353,
+                "level": 77
+            },
+            {
+                "Physical%": "22.5",
+                "ascension": 5,
+                "atk": 204,
+                "def": 655,
+                "hp": 10436,
+                "level": 78
+            },
+            {
+                "Physical%": "22.5",
+                "ascension": 5,
+                "atk": 205,
+                "def": 660,
+                "hp": 10518,
+                "level": 79
+            },
+            {
+                "Physical%": "22.5",
+                "ascension": 5,
+                "atk": 207,
+                "def": 665,
+                "hp": 10602,
+                "level": 80
+            },
+            {
+                "Physical%": "30",
+                "ascension": 6,
+                "atk": 219,
+                "def": 704,
+                "hp": 11217,
+                "level": 81
+            },
+            {
+                "Physical%": "30",
+                "ascension": 6,
+                "atk": 221,
+                "def": 709,
+                "hp": 11299,
+                "level": 82
+            },
+            {
+                "Physical%": "30",
+                "ascension": 6,
+                "atk": 222,
+                "def": 714,
+                "hp": 11383,
+                "level": 83
+            },
+            {
+                "Physical%": "30",
+                "ascension": 6,
+                "atk": 224,
+                "def": 720,
+                "hp": 11465,
+                "level": 84
+            },
+            {
+                "Physical%": "30",
+                "ascension": 6,
+                "atk": 226,
+                "def": 725,
+                "hp": 11548,
+                "level": 85
+            },
+            {
+                "Physical%": "30",
+                "ascension": 6,
+                "atk": 227,
+                "def": 730,
+                "hp": 11630,
+                "level": 86
+            },
+            {
+                "Physical%": "30",
+                "ascension": 6,
+                "atk": 229,
+                "def": 735,
+                "hp": 11714,
+                "level": 87
+            },
+            {
+                "Physical%": "30",
+                "ascension": 6,
+                "atk": 230,
+                "def": 740,
+                "hp": 11796,
+                "level": 88
+            },
+            {
+                "Physical%": "30",
+                "ascension": 6,
+                "atk": 232,
+                "def": 746,
+                "hp": 11879,
+                "level": 89
+            },
+            {
+                "Physical%": "30",
+                "ascension": 6,
+                "atk": 234,
+                "def": 751,
+                "hp": 11962,
+                "level": 90
+            },
+            {
+                "Physical%": "30",
+                "ascension": 6,
+                "atk": 263,
+                "def": 777,
+                "hp": 12376,
+                "level": 95
+            },
+            {
+                "Physical%": "30",
+                "ascension": 6,
+                "atk": 293,
+                "def": 803,
+                "hp": 12790,
+                "level": 100
+            }
+        ],
+        "birthday": "September 9th",
+        "constellation": "小狼座",
+        "description": "住在蒙德地区奔狼领，远离城市与人群，和狼一同生活的少年。直觉锐利，身姿迅捷。",
+        "element": "Electro",
+        "name": "雷泽",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_CLAYMORE"
+    },
+    "passives": {
+        "p1": {
+            "description": "<color=#FFD780FF>利爪与苍雷</color>的冷却时间减少18%。\\n施放<color=#FFD780FF>雷牙</color>时，重置<color=#FFD780FF>利爪与苍雷</color>的冷却时间。",
+            "icon": "UI_Talent_S_Razor_05",
+            "name": "觉醒"
+        },
+        "p2": {
+            "description": "雷泽的元素能量在50%以下时，元素充能效率提高30%。",
+            "icon": "UI_Talent_S_Razor_06",
+            "name": "饥饿"
+        },
+        "p3": {
+            "description": "队伍中自己的角色冲刺消耗的体力降低20%。\\n无法与效果完全相同的固有天赋叠加。",
+            "icon": "UI_Talent_Explosion_Sprint",
+            "name": "奔狼"
+        },
+        "p4": {
+            "description": "完成<color=#FFD780FF>魔女的课业·小狼众之题</color>后，雷泽将成为<color=#FFD780FF>魔导</color>角色。队伍中编入至少2名魔导角色时，将获得<color=#FFD780FF>魔导·秘仪</color>效果，使魔导角色获得强化。\\n此外，雷泽的元素爆发<color=#FFD780FF>雷牙</color>获得强化：<color=#FFD780FF>雷狼</color>造成的伤害提升，提升值相当于雷泽的攻击力的70%。\\n\\n<color=#FFD780FF>魔导·秘仪</color>\\n元素爆发<color=#FFD780FF>雷牙</color>唤醒的雷狼存在期间，如果雷泽积攒元素战技<color=#FFD780FF>利爪与苍雷</color>中的雷之印时发生溢出，雷狼将会引下落雷攻击附近的敌人，造成相当于雷泽150%攻击力的雷元素范围伤害，并为雷泽恢复7点元素能量。每1秒至多触发一次该效果。",
+            "icon": "UI_Talent_S_Razor_07",
+            "name": "魔女的前夜礼·苍雷奔涌"
+        }
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "重云挥动巨剑猛击地面，在前方圆形范围内引发冰爆，并对敌人造成<color=#99FFFFFF>冰元素伤害</color>。\\n短暂延迟后，冰爆引发的寒气汇聚成重华叠霜领域，其中的单手剑、大剑、长柄武器角色获得<color=#99FFFFFF>冰元素附魔</color>。\\n\\n<i>「琳琅振响，十方静默。江河不动，重云凝霜。如法开坛，诸邪退散。」</i>",
+            "icon": "Skill_S_Chongyun_01",
+            "multipliers": {
+                "冷却时间": [
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒"
+                ],
+                "技能伤害": [
+                    "172.04%",
+                    "184.94%",
+                    "197.85%",
+                    "215.05%",
+                    "227.95%",
+                    "240.86%",
+                    "258.06%",
+                    "275.26%",
+                    "292.47%",
+                    "309.67%",
+                    "326.88%",
+                    "344.08%",
+                    "365.58%",
+                    "387.09%",
+                    "408.59%"
+                ],
+                "附魔持续时间": [
+                    "2秒",
+                    "2.1秒",
+                    "2.2秒",
+                    "2.3秒",
+                    "2.4秒",
+                    "2.5秒",
+                    "2.6秒",
+                    "2.7秒",
+                    "2.8秒",
+                    "2.9秒",
+                    "3秒",
+                    "3秒",
+                    "3秒",
+                    "3秒",
+                    "3秒"
+                ],
+                "领域持续时间": [
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒"
+                ]
+            },
+            "name": "灵刃·重华叠霜"
+        },
+        "elementalskill": {
+            "description": "用师父与他的「家人」教他的方法，来解决猎物。\\n\\n<color=#FFD780FF>点按</color>\\n向前挥动雷狼之爪，对前方的敌人造成<color=#FFACFFFF>雷元素伤害</color>。\\n若命中敌人，则会为雷泽积攒一个雷之印，提高雷泽的元素充能效率。\\n最多同时存在3个雷之印，叠加刷新持续时间。\\n\\n<color=#FFD780FF>长按</color>\\n积聚雷电力量引发小范围的雷爆，造成大量<color=#FFACFFFF>雷元素伤害</color>，并清除已有的雷之印。\\n每个因此被清除的雷之印，都会转为雷泽的元素能量。\\n\\n<i>雷击落下的一瞬，偶尔能瞥见雷泽灵魂深处那头狼打量猎物的眼神。</i>",
+            "icon": "Skill_S_Razor_01",
+            "multipliers": {
+                "点按冷却时间": [
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒"
+                ],
+                "点按技能伤害": [
+                    "199.2%",
+                    "214.14%",
+                    "229.08%",
+                    "249%",
+                    "263.94%",
+                    "278.88%",
+                    "298.8%",
+                    "318.72%",
+                    "338.64%",
+                    "358.56%",
+                    "378.48%",
+                    "398.4%",
+                    "423.3%",
+                    "448.2%",
+                    "473.1%"
+                ],
+                "长按冷却时间": [
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒"
+                ],
+                "长按技能伤害": [
+                    "295.2%",
+                    "317.34%",
+                    "339.48%",
+                    "369%",
+                    "391.14%",
+                    "413.28%",
+                    "442.8%",
+                    "472.32%",
+                    "501.84%",
+                    "531.36%",
+                    "560.88%",
+                    "590.4%",
+                    "627.3%",
+                    "664.2%",
+                    "701.1%"
+                ],
+                "雷之印充能效率提升": [
+                    "每个20%",
+                    "每个20%",
+                    "每个20%",
+                    "每个20%",
+                    "每个20%",
+                    "每个20%",
+                    "每个20%",
+                    "每个20%",
+                    "每个20%",
+                    "每个20%",
+                    "每个20%",
+                    "每个20%",
+                    "每个20%",
+                    "每个20%",
+                    "每个20%"
+                ],
+                "雷之印吸收恢复能量": [
+                    "每个5点",
+                    "每个5点",
+                    "每个5点",
+                    "每个5点",
+                    "每个5点",
+                    "每个5点",
+                    "每个5点",
+                    "每个5点",
+                    "每个5点",
+                    "每个5点",
+                    "每个5点",
+                    "每个5点",
+                    "每个5点",
+                    "每个5点",
+                    "每个5点"
+                ],
+                "雷之印持续时间": [
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒"
+                ]
+            },
+            "name": "利爪与苍雷"
+        },
+        "leveling": {
+            "books": {
+                "104304": 9,
+                "104305": 63,
+                "104306": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113004": 18
+            },
+            "worldmonster": {
+                "112005": 18,
+                "112006": 66,
+                "112007": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>普通攻击</color>\\n进行至多四段的连续挥砍。\\n\\n<color=#FFD780FF>重击</color>\\n持续消耗体力，旋转大剑攻击周围的敌人。\\n停止旋转时，会进行一次格外有力的挥砍。\\n\\n<color=#FFD780FF>下落攻击</color>\\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+            "icon": "Skill_A_04",
+            "multipliers": {
+                "一段伤害": [
+                    "95.92%",
+                    "102.46%",
+                    "109%",
+                    "117.72%",
+                    "124.26%",
+                    "131.89%",
+                    "141.7%",
+                    "151.51%",
+                    "161.32%",
+                    "171.13%",
+                    "180.94%",
+                    "190.75%",
+                    "200.56%",
+                    "210.37%",
+                    "220.18%"
+                ],
+                "三段伤害": [
+                    "103.31%",
+                    "110.36%",
+                    "117.4%",
+                    "126.79%",
+                    "133.84%",
+                    "142.05%",
+                    "152.62%",
+                    "163.19%",
+                    "173.75%",
+                    "184.32%",
+                    "194.88%",
+                    "205.45%",
+                    "216.02%",
+                    "226.58%",
+                    "237.15%"
+                ],
+                "下坠期间伤害": [
+                    "82.05%",
+                    "88.72%",
+                    "95.4%",
+                    "104.94%",
+                    "111.62%",
+                    "119.25%",
+                    "129.75%",
+                    "140.24%",
+                    "150.74%",
+                    "162.19%",
+                    "173.63%",
+                    "185.08%",
+                    "196.53%",
+                    "207.98%",
+                    "219.43%"
+                ],
+                "二段伤害": [
+                    "82.63%",
+                    "88.27%",
+                    "93.9%",
+                    "101.41%",
+                    "107.05%",
+                    "113.62%",
+                    "122.07%",
+                    "130.52%",
+                    "138.97%",
+                    "147.42%",
+                    "155.87%",
+                    "164.32%",
+                    "172.78%",
+                    "181.23%",
+                    "189.68%"
+                ],
+                "低空/高空坠地冲击伤害": [
+                    "164.06%/204.92%",
+                    "177.41%/221.6%",
+                    "190.77%/238.28%",
+                    "209.84%/262.1%",
+                    "223.2%/278.78%",
+                    "238.46%/297.85%",
+                    "259.44%/324.06%",
+                    "280.43%/350.27%",
+                    "301.41%/376.48%",
+                    "324.3%/405.07%",
+                    "347.19%/433.66%",
+                    "370.09%/462.26%",
+                    "392.98%/490.85%",
+                    "415.87%/519.44%",
+                    "438.76%/548.04%"
+                ],
+                "四段伤害": [
+                    "136.05%",
+                    "145.32%",
+                    "154.6%",
+                    "166.97%",
+                    "176.24%",
+                    "187.07%",
+                    "200.98%",
+                    "214.89%",
+                    "228.81%",
+                    "242.72%",
+                    "256.64%",
+                    "270.55%",
+                    "284.46%",
+                    "298.38%",
+                    "312.29%"
+                ],
+                "最大持续时间": [
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒"
+                ],
+                "重击体力消耗": [
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点"
+                ],
+                "重击循环伤害": [
+                    "62.54%",
+                    "67.63%",
+                    "72.72%",
+                    "79.99%",
+                    "85.08%",
+                    "90.9%",
+                    "98.9%",
+                    "106.9%",
+                    "114.9%",
+                    "123.62%",
+                    "132.35%",
+                    "141.08%",
+                    "149.8%",
+                    "158.53%",
+                    "167.26%"
+                ],
+                "重击终结伤害": [
+                    "113.09%",
+                    "122.29%",
+                    "131.5%",
+                    "144.65%",
+                    "153.86%",
+                    "164.37%",
+                    "178.84%",
+                    "193.31%",
+                    "207.77%",
+                    "223.55%",
+                    "239.33%",
+                    "255.11%",
+                    "270.89%",
+                    "286.67%",
+                    "302.45%"
+                ]
+            },
+            "name": "钢脊"
+        }
+    }
+}

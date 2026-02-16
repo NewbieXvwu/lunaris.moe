@@ -1,0 +1,1264 @@
+{
+    "info": {
+        "name": "Escoffier",
+        "description": "The ex-head chef of Hotel Debord, renowned throughout Fontaine as the Patissiere Supreme and vanguard of precision gastronomy. Has incomparably strict standards when it comes to cooking.",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_POLE",
+        "birthday": "June 8th",
+        "element": "Cryo",
+        "constellation": "Dulciaria Structura",
+        "attributes": [
+            {
+                "level": 1,
+                "ascension": 0,
+                "hp": 1039,
+                "atk": 27,
+                "def": 57,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 2,
+                "ascension": 0,
+                "hp": 1125,
+                "atk": 29,
+                "def": 62,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 3,
+                "ascension": 0,
+                "hp": 1212,
+                "atk": 31,
+                "def": 66,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 4,
+                "ascension": 0,
+                "hp": 1299,
+                "atk": 34,
+                "def": 71,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 5,
+                "ascension": 0,
+                "hp": 1385,
+                "atk": 36,
+                "def": 76,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 6,
+                "ascension": 0,
+                "hp": 1472,
+                "atk": 38,
+                "def": 81,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 7,
+                "ascension": 0,
+                "hp": 1559,
+                "atk": 40,
+                "def": 85,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 8,
+                "ascension": 0,
+                "hp": 1646,
+                "atk": 43,
+                "def": 90,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 9,
+                "ascension": 0,
+                "hp": 1733,
+                "atk": 45,
+                "def": 95,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 10,
+                "ascension": 0,
+                "hp": 1819,
+                "atk": 47,
+                "def": 100,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 11,
+                "ascension": 0,
+                "hp": 1907,
+                "atk": 50,
+                "def": 105,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 12,
+                "ascension": 0,
+                "hp": 1994,
+                "atk": 52,
+                "def": 109,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 13,
+                "ascension": 0,
+                "hp": 2081,
+                "atk": 54,
+                "def": 114,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 14,
+                "ascension": 0,
+                "hp": 2170,
+                "atk": 56,
+                "def": 119,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 15,
+                "ascension": 0,
+                "hp": 2257,
+                "atk": 59,
+                "def": 124,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 16,
+                "ascension": 0,
+                "hp": 2344,
+                "atk": 61,
+                "def": 128,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 17,
+                "ascension": 0,
+                "hp": 2433,
+                "atk": 63,
+                "def": 133,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 18,
+                "ascension": 0,
+                "hp": 2520,
+                "atk": 65,
+                "def": 138,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 19,
+                "ascension": 0,
+                "hp": 2608,
+                "atk": 68,
+                "def": 143,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 20,
+                "ascension": 0,
+                "hp": 2695,
+                "atk": 70,
+                "def": 148,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 21,
+                "ascension": 1,
+                "hp": 3675,
+                "atk": 95,
+                "def": 201,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 22,
+                "ascension": 1,
+                "hp": 3763,
+                "atk": 98,
+                "def": 206,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 23,
+                "ascension": 1,
+                "hp": 3851,
+                "atk": 100,
+                "def": 211,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 24,
+                "ascension": 1,
+                "hp": 3940,
+                "atk": 102,
+                "def": 216,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 25,
+                "ascension": 1,
+                "hp": 4028,
+                "atk": 105,
+                "def": 221,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 26,
+                "ascension": 1,
+                "hp": 4117,
+                "atk": 107,
+                "def": 226,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 27,
+                "ascension": 1,
+                "hp": 4206,
+                "atk": 109,
+                "def": 231,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 28,
+                "ascension": 1,
+                "hp": 4294,
+                "atk": 112,
+                "def": 235,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 29,
+                "ascension": 1,
+                "hp": 4383,
+                "atk": 114,
+                "def": 240,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 30,
+                "ascension": 1,
+                "hp": 4472,
+                "atk": 116,
+                "def": 245,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 31,
+                "ascension": 1,
+                "hp": 4561,
+                "atk": 119,
+                "def": 250,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 32,
+                "ascension": 1,
+                "hp": 4650,
+                "atk": 121,
+                "def": 255,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 33,
+                "ascension": 1,
+                "hp": 4740,
+                "atk": 123,
+                "def": 260,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 34,
+                "ascension": 1,
+                "hp": 4828,
+                "atk": 125,
+                "def": 265,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 35,
+                "ascension": 1,
+                "hp": 4918,
+                "atk": 128,
+                "def": 270,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 36,
+                "ascension": 1,
+                "hp": 5008,
+                "atk": 130,
+                "def": 275,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 37,
+                "ascension": 1,
+                "hp": 5097,
+                "atk": 132,
+                "def": 279,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 38,
+                "ascension": 1,
+                "hp": 5187,
+                "atk": 135,
+                "def": 284,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 39,
+                "ascension": 1,
+                "hp": 5276,
+                "atk": 137,
+                "def": 289,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 40,
+                "ascension": 1,
+                "hp": 5366,
+                "atk": 139,
+                "def": 294,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 41,
+                "ascension": 2,
+                "hp": 6089,
+                "atk": 158,
+                "def": 334,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 42,
+                "ascension": 2,
+                "hp": 6179,
+                "atk": 161,
+                "def": 339,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 43,
+                "ascension": 2,
+                "hp": 6270,
+                "atk": 163,
+                "def": 344,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 44,
+                "ascension": 2,
+                "hp": 6359,
+                "atk": 165,
+                "def": 349,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 45,
+                "ascension": 2,
+                "hp": 6449,
+                "atk": 168,
+                "def": 354,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 46,
+                "ascension": 2,
+                "hp": 6540,
+                "atk": 170,
+                "def": 358,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 47,
+                "ascension": 2,
+                "hp": 6630,
+                "atk": 172,
+                "def": 363,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 48,
+                "ascension": 2,
+                "hp": 6721,
+                "atk": 175,
+                "def": 368,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 49,
+                "ascension": 2,
+                "hp": 6812,
+                "atk": 177,
+                "def": 373,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 50,
+                "ascension": 2,
+                "hp": 6902,
+                "atk": 179,
+                "def": 378,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 51,
+                "ascension": 3,
+                "hp": 7837,
+                "atk": 204,
+                "def": 430,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 52,
+                "ascension": 3,
+                "hp": 7928,
+                "atk": 206,
+                "def": 435,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 53,
+                "ascension": 3,
+                "hp": 8019,
+                "atk": 208,
+                "def": 440,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 54,
+                "ascension": 3,
+                "hp": 8110,
+                "atk": 211,
+                "def": 445,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 55,
+                "ascension": 3,
+                "hp": 8202,
+                "atk": 213,
+                "def": 450,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 56,
+                "ascension": 3,
+                "hp": 8293,
+                "atk": 215,
+                "def": 455,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 57,
+                "ascension": 3,
+                "hp": 8385,
+                "atk": 218,
+                "def": 460,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 58,
+                "ascension": 3,
+                "hp": 8476,
+                "atk": 220,
+                "def": 465,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 59,
+                "ascension": 3,
+                "hp": 8567,
+                "atk": 223,
+                "def": 470,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 60,
+                "ascension": 3,
+                "hp": 8659,
+                "atk": 225,
+                "def": 475,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 61,
+                "ascension": 4,
+                "hp": 9383,
+                "atk": 244,
+                "def": 514,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 62,
+                "ascension": 4,
+                "hp": 9475,
+                "atk": 246,
+                "def": 519,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 63,
+                "ascension": 4,
+                "hp": 9567,
+                "atk": 249,
+                "def": 524,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 64,
+                "ascension": 4,
+                "hp": 9659,
+                "atk": 251,
+                "def": 529,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 65,
+                "ascension": 4,
+                "hp": 9751,
+                "atk": 253,
+                "def": 535,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 66,
+                "ascension": 4,
+                "hp": 9844,
+                "atk": 256,
+                "def": 540,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 67,
+                "ascension": 4,
+                "hp": 9935,
+                "atk": 258,
+                "def": 545,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 68,
+                "ascension": 4,
+                "hp": 10028,
+                "atk": 261,
+                "def": 550,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 69,
+                "ascension": 4,
+                "hp": 10120,
+                "atk": 263,
+                "def": 555,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 70,
+                "ascension": 4,
+                "hp": 10213,
+                "atk": 265,
+                "def": 560,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 71,
+                "ascension": 5,
+                "hp": 10938,
+                "atk": 284,
+                "def": 600,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 72,
+                "ascension": 5,
+                "hp": 11032,
+                "atk": 287,
+                "def": 605,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 73,
+                "ascension": 5,
+                "hp": 11124,
+                "atk": 289,
+                "def": 610,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 74,
+                "ascension": 5,
+                "hp": 11217,
+                "atk": 291,
+                "def": 615,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 75,
+                "ascension": 5,
+                "hp": 11310,
+                "atk": 294,
+                "def": 620,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 76,
+                "ascension": 5,
+                "hp": 11403,
+                "atk": 296,
+                "def": 625,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 77,
+                "ascension": 5,
+                "hp": 11496,
+                "atk": 299,
+                "def": 630,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 78,
+                "ascension": 5,
+                "hp": 11590,
+                "atk": 301,
+                "def": 635,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 79,
+                "ascension": 5,
+                "hp": 11683,
+                "atk": 304,
+                "def": 640,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 80,
+                "ascension": 5,
+                "hp": 11777,
+                "atk": 306,
+                "def": 646,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 81,
+                "ascension": 6,
+                "hp": 12503,
+                "atk": 325,
+                "def": 685,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 82,
+                "ascension": 6,
+                "hp": 12597,
+                "atk": 327,
+                "def": 690,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 83,
+                "ascension": 6,
+                "hp": 12690,
+                "atk": 330,
+                "def": 696,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 84,
+                "ascension": 6,
+                "hp": 12784,
+                "atk": 332,
+                "def": 701,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 85,
+                "ascension": 6,
+                "hp": 12877,
+                "atk": 335,
+                "def": 706,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 86,
+                "ascension": 6,
+                "hp": 12972,
+                "atk": 337,
+                "def": 711,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 87,
+                "ascension": 6,
+                "hp": 13065,
+                "atk": 339,
+                "def": 716,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 88,
+                "ascension": 6,
+                "hp": 13160,
+                "atk": 342,
+                "def": 721,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 89,
+                "ascension": 6,
+                "hp": 13255,
+                "atk": 344,
+                "def": 727,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 90,
+                "ascension": 6,
+                "hp": 13348,
+                "atk": 347,
+                "def": 732,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 95,
+                "ascension": 6,
+                "hp": 13822,
+                "atk": 386,
+                "def": 758,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 100,
+                "ascension": 6,
+                "hp": 14297,
+                "atk": 425,
+                "def": 784,
+                "CRIT Rate%": "19.2"
+            }
+        ]
+    },
+    "icons": {
+        "forward": "UI_AvatarIcon_Escoffier",
+        "coop_img": "UI_CoopImg_Escoffier"
+    },
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101232": 168
+        },
+        "elemental": {
+            "104161": 1,
+            "104162": 9,
+            "104163": 9,
+            "104164": 6
+        },
+        "worldmonster": {
+            "112083": 18,
+            "112084": 30,
+            "112085": 36
+        },
+        "elitemonster": {
+            "113076": 46
+        }
+    },
+    "skills": {
+        "normalattack": {
+            "name": "Kitchen Skills",
+            "icon": "Skill_A_03",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "51.55%",
+                    "55.75%",
+                    "59.94%",
+                    "65.94%",
+                    "70.13%",
+                    "74.93%",
+                    "81.52%",
+                    "88.12%",
+                    "94.71%",
+                    "101.9%",
+                    "109.1%",
+                    "116.29%",
+                    "123.48%",
+                    "130.68%",
+                    "137.87%"
+                ],
+                "2-Hit DMG": [
+                    "47.59%",
+                    "51.47%",
+                    "55.34%",
+                    "60.88%",
+                    "64.75%",
+                    "69.18%",
+                    "75.26%",
+                    "81.35%",
+                    "87.44%",
+                    "94.08%",
+                    "100.72%",
+                    "107.36%",
+                    "114%",
+                    "120.64%",
+                    "127.28%"
+                ],
+                "3-Hit DMG": [
+                    "33%+40.33%",
+                    "35.69%+43.62%",
+                    "38.37%+46.9%",
+                    "42.21%+51.59%",
+                    "44.89%+54.87%",
+                    "47.96%+58.62%",
+                    "52.19%+63.78%",
+                    "56.41%+68.94%",
+                    "60.63%+74.1%",
+                    "65.23%+79.73%",
+                    "69.84%+85.36%",
+                    "74.44%+90.98%",
+                    "79.05%+96.61%",
+                    "83.65%+102.24%",
+                    "88.25%+107.87%"
+                ],
+                "Charged Attack DMG": [
+                    "115.41%",
+                    "124.81%",
+                    "134.2%",
+                    "147.62%",
+                    "157.01%",
+                    "167.75%",
+                    "182.51%",
+                    "197.27%",
+                    "212.04%",
+                    "228.14%",
+                    "244.24%",
+                    "260.35%",
+                    "276.45%",
+                    "292.56%",
+                    "308.66%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25"
+                ],
+                "Plunge DMG": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ],
+                "Low/High Plunge DMG": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ]
+            },
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 3 consecutive spear strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to perform an upward thrust.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
+        },
+        "elementalskill": {
+            "name": "Low-Temperature Cooking",
+            "icon": "Skill_S_Escoffier_01",
+            "multipliers": {
+                "Skill DMG": [
+                    "50.4%",
+                    "54.18%",
+                    "57.96%",
+                    "63%",
+                    "66.78%",
+                    "70.56%",
+                    "75.6%",
+                    "80.64%",
+                    "85.68%",
+                    "90.72%",
+                    "95.76%",
+                    "100.8%",
+                    "107.1%",
+                    "113.4%",
+                    "119.7%"
+                ],
+                "Frosty Parfait DMG": [
+                    "120%",
+                    "129%",
+                    "138%",
+                    "150%",
+                    "159%",
+                    "168%",
+                    "180%",
+                    "192%",
+                    "204%",
+                    "216%",
+                    "228%",
+                    "240%",
+                    "255%",
+                    "270%",
+                    "285%"
+                ],
+                "Cold Storage Mode Duration": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ],
+                "Surging Blade DMG": [
+                    "33.6%",
+                    "36.12%",
+                    "38.64%",
+                    "42%",
+                    "44.52%",
+                    "47.04%",
+                    "50.4%",
+                    "53.76%",
+                    "57.12%",
+                    "60.48%",
+                    "63.84%",
+                    "67.2%",
+                    "71.4%",
+                    "75.6%",
+                    "79.8%"
+                ],
+                "Surging Blade CD Interval": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ],
+                "Press CD": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Hold CD": [
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s"
+                ]
+            },
+            "description": "Behold the true meaning of \"cooking\"! Escoffier will demonstrate different cooking techniques when you Tap or Hold this skill, but rest assured, each of them is Fontaine's pride and joy.\\n\\n<color=#FFD780FF>Tap</color>\\nActivates her All-Spectrum Multi-Use Cooking Mek in its Cold Storage mode and deals <color=#99FFFFFF>AoE Cryo DMG</color> to nearby opponents.\\n\\n<color=#FFD780FF>Cooking Mek: Cold Storage Mode</color>\\nFollows the current active character and fires Frosty Parfaits at nearby opponents at intervals, dealing <color=#99FFFFFF>Cryo DMG</color>.\\n\\n<color=#FFD780FF>Arkhe: Ousia</color>\\nAt intervals, Escoffier will summon a Surging Blade when activating her Cooking Mek in Cold Storage mode, dealing Ousia-aligned <color=#99FFFFFF>AoE Cryo DMG</color>.\\n\\n<color=#FFD780FF>Hold</color>\\nActivates her All-Spectrum Multi-Use Cooking Mek's {LINK#N11120002}<color=#FFD780FF>Off-the-Cuff Cookery Mode</color>{/LINK}."
+        },
+        "elementalburst": {
+            "name": "Scoring Cuts",
+            "icon": "Skill_E_Escoffier_01",
+            "multipliers": {
+                "Skill DMG": [
+                    "592.8%",
+                    "637.26%",
+                    "681.72%",
+                    "741%",
+                    "785.46%",
+                    "829.92%",
+                    "889.2%",
+                    "948.48%",
+                    "1007.76%",
+                    "1067.04%",
+                    "1126.32%",
+                    "1185.6%",
+                    "1259.7%",
+                    "1333.8%",
+                    "1407.9%"
+                ],
+                "Healing": [
+                    "172.03% ATK+1079",
+                    "184.93% ATK+1186",
+                    "197.84% ATK+1303",
+                    "215.04% ATK+1429",
+                    "227.94% ATK+1564",
+                    "240.84% ATK+1708",
+                    "258.05% ATK+1861",
+                    "275.25% ATK+2022",
+                    "292.45% ATK+2193",
+                    "309.66% ATK+2373",
+                    "326.86% ATK+2562",
+                    "344.06% ATK+2759",
+                    "365.57% ATK+2966",
+                    "387.07% ATK+3182",
+                    "408.58% ATK+3407"
+                ],
+                "CD": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Energy Cost": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ]
+            },
+            "description": "Displaying her exceptional knife skills, Escoffier deals <color=#99FFFFFF>AoE Cryo DMG</color> and restores HP to all nearby party members based on her ATK."
+        },
+        "leveling": {
+            "crown": {
+                "104319": 3
+            },
+            "books": {
+                "104341": 9,
+                "104342": 63,
+                "104343": 114
+            },
+            "worldmonster": {
+                "112083": 18,
+                "112084": 66,
+                "112085": 93
+            },
+            "weekly": {
+                "113068": 18
+            }
+        }
+    },
+    "passives": {
+        "p1": {
+            "name": "Better to Salivate Than Medicate",
+            "description": "After using the Elemental Burst <color=#FFD780FF>{LINK#S11125}Scoring Cuts{/LINK}</color>, Escoffier will obtain the Rehab Diet effect for 9s: Restores HP for nearby active characters every 1s based on 138.24% of Escoffier's ATK.",
+            "icon": "UI_Talent_S_Escoffier_05"
+        },
+        "p2": {
+            "name": "Inspiration-Immersed Seasoning",
+            "description": "When there are 1/2/3/4 <color=#80C0FFFF>Hydro</color> or <color=#99FFFFFF>Cryo</color> characters in the party, Escoffier will decrease the <color=#80C0FFFF>Hydro RES</color> and <color=#99FFFFFF>Cryo RES</color> of any opponents hit by her Elemental Skill, <color=#FFD780FF>{LINK#S11122}Low-Temperature Cooking{/LINK}</color>, or her Elemental Burst, <color=#FFD780FF>{LINK#S11125}Scoring Cuts{/LINK}</color>, by 5%/10%/15%/55% for 12s.",
+            "icon": "UI_Talent_S_Escoffier_06"
+        },
+        "p3": {
+            "name": "Constant Off-the-Cuff Cookery",
+            "description": "#When using the Hold form of her Elemental Skill <color=#FFD780FF>{LINK#S11122}Low-Temperature Cooking{/LINK}</color>, Escoffier will activate her All-Spectrum Multi-Use Cooking Mek in its Off-the-Cuff Cookery mode.\\n\\n<color=#FFD780FF>Cooking Mek: Off-the-Cuff Cookery Mode</color>\\n· Places the Cooking Mek on the field. The Cooking Mek can absorb elemental attacks. When the absorbed elemental energy hits a certain limit, Escoffier can convert the ingredients placed within it into wonderful food.\\n· Escoffier needs time to purchase new ingredients, so she can only make a certain number of dishes like this each week. The number of dishes Escoffier can make resets every Monday at 4:00 AM {TIMEZONE}.",
+            "icon": "UI_Talent_S_Escoffier_08"
+        },
+        "p4": ""
+    },
+    "constellations": {
+        "const1": {
+            "name": "Pre-Dinner Dance for Your Taste Buds",
+            "description": "When 4 party members are <color=#80C0FFFF>Hydro</color> or <color=#99FFFFFF>Cryo</color>, all nearby party members will have their <color=#99FFFFFF>Cryo DMG</color> CRIT DMG increased by 60% for 15s after Escoffier uses her Elemental Skill <color=#FFD780FF>{LINK#S11122}Low-Temperature Cooking{/LINK}</color> or Elemental Burst <color=#FFD780FF>{LINK#S11125}Scoring Cuts{/LINK}</color>.\\nYou must first unlock the Ascension Talent \"Inspiration-Immersed Seasoning.\"",
+            "icon": "UI_Talent_S_Escoffier_01"
+        },
+        "const2": {
+            "name": "Fresh, Fragrant Stew Is an Art",
+            "description": "When Escoffier activates her Cooking Mek in its {LINK#N11120001}<color=#FFD780FF>Cold Storage Mode</color>{/LINK}, she will gain the \"Freshly-Prepped Delicacy\" effect for 15s. During this time, Escoffier will gain 5 Cold Dish stacks. When nearby active characters apart from Escoffier deal <color=#99FFFFFF>Cryo DMG</color> with a Normal, Charged, or Plunging Attack, or an Elemental Skill or Elemental Burst, they will expend 1 Cold Dish stack to increase their DMG dealt by 240% of Escoffier's ATK.\\nIf you hit multiple opponents with a single instance of <color=#99FFFFFF>Cryo DMG</color>, Cold Dish stacks will be consumed based on the number of opponents hit.",
+            "icon": "UI_Talent_S_Escoffier_02"
+        },
+        "const3": {
+            "name": "The Bakery Magic of Caramel Browning",
+            "description": "Increases the Level of <color=#FFD780FF>{LINK#S11122}Low-Temperature Cooking{/LINK}</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Escoffier_01"
+        },
+        "const4": {
+            "name": "Secret Rosemary Recipe",
+            "description": "{LINK#P1122101}<color=#FFD780FF>Rehab Diet</color>{/LINK} lasts 6 more seconds. While it is active, you have a chance of healing 100% extra HP and restoring 2 Energy to Escoffier when you trigger healing through <color=#FFD780FF>Rehab Diet</color>. This chance corresponds to Escoffier's CRIT Rate. You can trigger this effect 7 times during any one <color=#FFD780FF>Rehab Diet</color>'s duration.\\nYou must first unlock the Ascension Talent \"Better to Salivate Than Medicate.\"",
+            "icon": "UI_Talent_S_Escoffier_03"
+        },
+        "const5": {
+            "name": "Symphony of a Thousand Sauces",
+            "description": "Increases the Level of <color=#FFD780FF>{LINK#S11125}Scoring Cuts{/LINK}</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Escoffier_02"
+        },
+        "const6": {
+            "name": "Tea Parties Bursting With Color",
+            "description": "{LINK#N11120001}<color=#FFD780FF>Cooking Mek: Cold Storage Mode</color>{/LINK} is enhanced:\\n· When your party's active character's Normal, Charged, or Plunging Attacks hit opponents, Cooking Mek: Cold Storage Mode will fire off another Special-Grade Frosty Parfait, dealing 500% of Escoffier's ATK as <color=#99FFFFFF>AoE Cryo DMG</color>. This DMG is considered Elemental Skill DMG.\\nThis effect can be triggered once every 0.5s, and this effect can be triggered 6 times within the duration of one Cooking Mek: Cold Storage Mode.",
+            "icon": "UI_Talent_S_Escoffier_04"
+        }
+    },
+    "energy": [
+        {
+            "source": "GenerateBall",
+            "particles": "4",
+            "chance": "100%",
+            "cd": "0.3s"
+        }
+    ],
+    "attacks": [
+        {
+            "name": "ElementalArt",
+            "icd_source": "Grp: Escoffier_ElementalArt (Tag Miss)",
+            "icd_rule": "6 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV1/100",
+            "element": "Ice"
+        },
+        {
+            "name": "Bullet_ElementalArt_Attacker_01",
+            "icd_source": "Grp: Escoffier_ElementalArt (Tag Miss)",
+            "icd_rule": "6 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV1/30",
+            "element": "Ice"
+        },
+        {
+            "name": "Bullet_Constellation_Split",
+            "icd_source": "Grp: Escoffier_ElementalArt (Tag Miss)",
+            "icd_rule": "6 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV1/30",
+            "element": "Ice"
+        },
+        {
+            "name": "Bullet_ElementalArt_Attacker_02",
+            "icd_source": "Grp: Escoffier_ElementalArt (Tag Miss)",
+            "icd_rule": "6 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV1/30",
+            "element": "Ice"
+        },
+        {
+            "name": "SkillObj_Pneuma_Attack",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV3/20",
+            "element": "Ice"
+        },
+        {
+            "name": "ElementalBurst",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "2U",
+            "poise": "LV5/150",
+            "element": "Ice"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/25",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV4/25",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/100",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/150",
+            "element": "-"
+        }
+    ]
+}

@@ -1,0 +1,1310 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104171": 1,
+            "104172": 9,
+            "104173": 9,
+            "104174": 6
+        },
+        "elitemonster": {
+            "113030": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100030": 168
+        },
+        "worldmonster": {
+            "112005": 18,
+            "112006": 30,
+            "112007": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "ExtraAttack_Bullet",
+            "poise": "LV5/120"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "ExtraAttack_Bullet",
+            "poise": "LV6/120"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/25"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        },
+        {
+            "element": "Rock",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Strike",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "Rock",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Strike",
+            "poise": "LV4/200"
+        },
+        {
+            "element": "Rock",
+            "gauge": "4U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Strike",
+            "poise": "LV6/300"
+        },
+        {
+            "element": "Rock",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Cast",
+            "poise": "LV4/200"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "O Tempo de Recarga de <color=#FFD780FF>Abertura Deslumbrante</color> é reduzido em 18%.",
+            "icon": "UI_Talent_S_Yunjin_01",
+            "name": "Galope Veloz"
+        },
+        "const2": {
+            "description": "Quando a <color=#FFD780FF>Bandeira Quebra-Rochas</color> é usada, o Dano do Ataque Normal de todos os membros da equipe próximos é aumentado em 15% por 12s.",
+            "icon": "UI_Talent_S_Yunjin_02",
+            "name": "Miríade de Adereços"
+        },
+        "const3": {
+            "description": "Aumenta o nível de <color=#FFD780FF>Bandeira Quebra-rochas</color> em 3.\\nNível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Yunjin_01",
+            "name": "Bandeira Marítima"
+        },
+        "const4": {
+            "description": "Quando Yunjin desencadeia Cristalização ou Cristalização Lunar, sua DEF aumenta 20% por 12s.",
+            "icon": "UI_Talent_S_Yunjin_03",
+            "name": "Flor e Lutadora"
+        },
+        "const5": {
+            "description": "Aumenta o nível de <color=#FFD780FF>Abertura Deslumbrante</color> em 3.\\nNível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Yunjin_02",
+            "name": "Fama Mundial"
+        },
+        "const6": {
+            "description": "Personagens sob o efeito de <color=#FFD780FF>Formação da Bandeira das Nuvens</color> terão a Vel. de ATQ de seus Ataques Normais aumentada em 12%.",
+            "icon": "UI_Talent_S_Yunjin_04",
+            "name": "Harmonia e Decoro"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.3s",
+            "chance": "100%",
+            "particles": "2",
+            "source": "ElementalArt_ElementalBall"
+        },
+        {
+            "cd": "0.3s",
+            "chance": "50%",
+            "particles": "1",
+            "source": "ElementalArt_ElementalBall"
+        },
+        {
+            "cd": "0.3s",
+            "chance": "100%",
+            "particles": "1",
+            "source": "ElementalArt_ElementalBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Yunjin",
+        "forward": "UI_AvatarIcon_Yunjin"
+    },
+    "info": {
+        "attributes": [
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 16,
+                "def": 62,
+                "hp": 894,
+                "level": 1
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 17,
+                "def": 67,
+                "hp": 968,
+                "level": 2
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 72,
+                "hp": 1041,
+                "level": 3
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 77,
+                "hp": 1115,
+                "level": 4
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 82,
+                "hp": 1188,
+                "level": 5
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 23,
+                "def": 87,
+                "hp": 1263,
+                "level": 6
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 92,
+                "hp": 1336,
+                "level": 7
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 97,
+                "hp": 1410,
+                "level": 8
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 102,
+                "hp": 1484,
+                "level": 9
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 107,
+                "hp": 1557,
+                "level": 10
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 112,
+                "hp": 1632,
+                "level": 11
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 117,
+                "hp": 1705,
+                "level": 12
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 123,
+                "hp": 1779,
+                "level": 13
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 128,
+                "hp": 1852,
+                "level": 14
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 133,
+                "hp": 1927,
+                "level": 15
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 138,
+                "hp": 2001,
+                "level": 16
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 143,
+                "hp": 2074,
+                "level": 17
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 148,
+                "hp": 2148,
+                "level": 18
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 40,
+                "def": 153,
+                "hp": 2221,
+                "level": 19
+            },
+            {
+                "ER": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 158,
+                "hp": 2296,
+                "level": 20
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 54,
+                "def": 209,
+                "hp": 3036,
+                "level": 21
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 56,
+                "def": 214,
+                "hp": 3111,
+                "level": 22
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 57,
+                "def": 219,
+                "hp": 3185,
+                "level": 23
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 58,
+                "def": 225,
+                "hp": 3258,
+                "level": 24
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 60,
+                "def": 230,
+                "hp": 3332,
+                "level": 25
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 61,
+                "def": 235,
+                "hp": 3405,
+                "level": 26
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 62,
+                "def": 240,
+                "hp": 3480,
+                "level": 27
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 64,
+                "def": 245,
+                "hp": 3553,
+                "level": 28
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 65,
+                "def": 250,
+                "hp": 3627,
+                "level": 29
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 66,
+                "def": 255,
+                "hp": 3700,
+                "level": 30
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 68,
+                "def": 260,
+                "hp": 3774,
+                "level": 31
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 69,
+                "def": 265,
+                "hp": 3849,
+                "level": 32
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 70,
+                "def": 270,
+                "hp": 3922,
+                "level": 33
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 72,
+                "def": 275,
+                "hp": 3996,
+                "level": 34
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 73,
+                "def": 280,
+                "hp": 4069,
+                "level": 35
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 74,
+                "def": 286,
+                "hp": 4143,
+                "level": 36
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 76,
+                "def": 291,
+                "hp": 4217,
+                "level": 37
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 77,
+                "def": 296,
+                "hp": 4291,
+                "level": 38
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 78,
+                "def": 301,
+                "hp": 4365,
+                "level": 39
+            },
+            {
+                "ER": "0",
+                "ascension": 1,
+                "atk": 80,
+                "def": 306,
+                "hp": 4438,
+                "level": 40
+            },
+            {
+                "ER": "6.7",
+                "ascension": 2,
+                "atk": 89,
+                "def": 344,
+                "hp": 4987,
+                "level": 41
+            },
+            {
+                "ER": "6.7",
+                "ascension": 2,
+                "atk": 91,
+                "def": 349,
+                "hp": 5060,
+                "level": 42
+            },
+            {
+                "ER": "6.7",
+                "ascension": 2,
+                "atk": 92,
+                "def": 354,
+                "hp": 5134,
+                "level": 43
+            },
+            {
+                "ER": "6.7",
+                "ascension": 2,
+                "atk": 93,
+                "def": 359,
+                "hp": 5208,
+                "level": 44
+            },
+            {
+                "ER": "6.7",
+                "ascension": 2,
+                "atk": 95,
+                "def": 364,
+                "hp": 5282,
+                "level": 45
+            },
+            {
+                "ER": "6.7",
+                "ascension": 2,
+                "atk": 96,
+                "def": 369,
+                "hp": 5356,
+                "level": 46
+            },
+            {
+                "ER": "6.7",
+                "ascension": 2,
+                "atk": 97,
+                "def": 374,
+                "hp": 5429,
+                "level": 47
+            },
+            {
+                "ER": "6.7",
+                "ascension": 2,
+                "atk": 99,
+                "def": 379,
+                "hp": 5503,
+                "level": 48
+            },
+            {
+                "ER": "6.7",
+                "ascension": 2,
+                "atk": 100,
+                "def": 384,
+                "hp": 5577,
+                "level": 49
+            },
+            {
+                "ER": "6.7",
+                "ascension": 2,
+                "atk": 101,
+                "def": 389,
+                "hp": 5651,
+                "level": 50
+            },
+            {
+                "ER": "13.3",
+                "ascension": 3,
+                "atk": 114,
+                "def": 438,
+                "hp": 6356,
+                "level": 51
+            },
+            {
+                "ER": "13.3",
+                "ascension": 3,
+                "atk": 115,
+                "def": 443,
+                "hp": 6431,
+                "level": 52
+            },
+            {
+                "ER": "13.3",
+                "ascension": 3,
+                "atk": 117,
+                "def": 448,
+                "hp": 6505,
+                "level": 53
+            },
+            {
+                "ER": "13.3",
+                "ascension": 3,
+                "atk": 118,
+                "def": 453,
+                "hp": 6578,
+                "level": 54
+            },
+            {
+                "ER": "13.3",
+                "ascension": 3,
+                "atk": 119,
+                "def": 458,
+                "hp": 6652,
+                "level": 55
+            },
+            {
+                "ER": "13.3",
+                "ascension": 3,
+                "atk": 121,
+                "def": 463,
+                "hp": 6725,
+                "level": 56
+            },
+            {
+                "ER": "13.3",
+                "ascension": 3,
+                "atk": 122,
+                "def": 469,
+                "hp": 6800,
+                "level": 57
+            },
+            {
+                "ER": "13.3",
+                "ascension": 3,
+                "atk": 123,
+                "def": 474,
+                "hp": 6873,
+                "level": 58
+            },
+            {
+                "ER": "13.3",
+                "ascension": 3,
+                "atk": 125,
+                "def": 479,
+                "hp": 6947,
+                "level": 59
+            },
+            {
+                "ER": "13.3",
+                "ascension": 3,
+                "atk": 126,
+                "def": 484,
+                "hp": 7021,
+                "level": 60
+            },
+            {
+                "ER": "13.3",
+                "ascension": 4,
+                "atk": 136,
+                "def": 522,
+                "hp": 7569,
+                "level": 61
+            },
+            {
+                "ER": "13.3",
+                "ascension": 4,
+                "atk": 137,
+                "def": 527,
+                "hp": 7643,
+                "level": 62
+            },
+            {
+                "ER": "13.3",
+                "ascension": 4,
+                "atk": 138,
+                "def": 532,
+                "hp": 7716,
+                "level": 63
+            },
+            {
+                "ER": "13.3",
+                "ascension": 4,
+                "atk": 140,
+                "def": 537,
+                "hp": 7790,
+                "level": 64
+            },
+            {
+                "ER": "13.3",
+                "ascension": 4,
+                "atk": 141,
+                "def": 542,
+                "hp": 7864,
+                "level": 65
+            },
+            {
+                "ER": "13.3",
+                "ascension": 4,
+                "atk": 142,
+                "def": 547,
+                "hp": 7938,
+                "level": 66
+            },
+            {
+                "ER": "13.3",
+                "ascension": 4,
+                "atk": 144,
+                "def": 552,
+                "hp": 8012,
+                "level": 67
+            },
+            {
+                "ER": "13.3",
+                "ascension": 4,
+                "atk": 145,
+                "def": 557,
+                "hp": 8085,
+                "level": 68
+            },
+            {
+                "ER": "13.3",
+                "ascension": 4,
+                "atk": 146,
+                "def": 562,
+                "hp": 8159,
+                "level": 69
+            },
+            {
+                "ER": "13.3",
+                "ascension": 4,
+                "atk": 148,
+                "def": 567,
+                "hp": 8233,
+                "level": 70
+            },
+            {
+                "ER": "20",
+                "ascension": 5,
+                "atk": 158,
+                "def": 605,
+                "hp": 8781,
+                "level": 71
+            },
+            {
+                "ER": "20",
+                "ascension": 5,
+                "atk": 159,
+                "def": 610,
+                "hp": 8854,
+                "level": 72
+            },
+            {
+                "ER": "20",
+                "ascension": 5,
+                "atk": 160,
+                "def": 615,
+                "hp": 8929,
+                "level": 73
+            },
+            {
+                "ER": "20",
+                "ascension": 5,
+                "atk": 161,
+                "def": 620,
+                "hp": 9003,
+                "level": 74
+            },
+            {
+                "ER": "20",
+                "ascension": 5,
+                "atk": 163,
+                "def": 625,
+                "hp": 9076,
+                "level": 75
+            },
+            {
+                "ER": "20",
+                "ascension": 5,
+                "atk": 164,
+                "def": 631,
+                "hp": 9150,
+                "level": 76
+            },
+            {
+                "ER": "20",
+                "ascension": 5,
+                "atk": 165,
+                "def": 636,
+                "hp": 9223,
+                "level": 77
+            },
+            {
+                "ER": "20",
+                "ascension": 5,
+                "atk": 167,
+                "def": 641,
+                "hp": 9298,
+                "level": 78
+            },
+            {
+                "ER": "20",
+                "ascension": 5,
+                "atk": 168,
+                "def": 646,
+                "hp": 9371,
+                "level": 79
+            },
+            {
+                "ER": "20",
+                "ascension": 5,
+                "atk": 169,
+                "def": 651,
+                "hp": 9445,
+                "level": 80
+            },
+            {
+                "ER": "26.7",
+                "ascension": 6,
+                "atk": 179,
+                "def": 689,
+                "hp": 9994,
+                "level": 81
+            },
+            {
+                "ER": "26.7",
+                "ascension": 6,
+                "atk": 181,
+                "def": 694,
+                "hp": 10067,
+                "level": 82
+            },
+            {
+                "ER": "26.7",
+                "ascension": 6,
+                "atk": 182,
+                "def": 699,
+                "hp": 10141,
+                "level": 83
+            },
+            {
+                "ER": "26.7",
+                "ascension": 6,
+                "atk": 183,
+                "def": 704,
+                "hp": 10214,
+                "level": 84
+            },
+            {
+                "ER": "26.7",
+                "ascension": 6,
+                "atk": 185,
+                "def": 709,
+                "hp": 10288,
+                "level": 85
+            },
+            {
+                "ER": "26.7",
+                "ascension": 6,
+                "atk": 186,
+                "def": 714,
+                "hp": 10362,
+                "level": 86
+            },
+            {
+                "ER": "26.7",
+                "ascension": 6,
+                "atk": 187,
+                "def": 719,
+                "hp": 10436,
+                "level": 87
+            },
+            {
+                "ER": "26.7",
+                "ascension": 6,
+                "atk": 188,
+                "def": 724,
+                "hp": 10509,
+                "level": 88
+            },
+            {
+                "ER": "26.7",
+                "ascension": 6,
+                "atk": 190,
+                "def": 729,
+                "hp": 10583,
+                "level": 89
+            },
+            {
+                "ER": "26.7",
+                "ascension": 6,
+                "atk": 191,
+                "def": 734,
+                "hp": 10657,
+                "level": 90
+            },
+            {
+                "ER": "26.7",
+                "ascension": 6,
+                "atk": 216,
+                "def": 760,
+                "hp": 11026,
+                "level": 95
+            },
+            {
+                "ER": "26.7",
+                "ascension": 6,
+                "atk": 240,
+                "def": 785,
+                "hp": 11395,
+                "level": 100
+            }
+        ],
+        "birthday": "May 21st",
+        "constellation": "Opera Grandis",
+        "description": "Uma renomada cantora de ópera de Liyue, hábil tanto em dramaturgia quanto em canto. Seu estilo é único, requintado e delicado, exatamente como ela.",
+        "element": "Geo",
+        "name": "Yunjin",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_POLE"
+    },
+    "passives": {
+        "p1": {
+            "description": "Usar <color=#FFD780FF>Abertura Deslumbrante</color> no momento correto em que estiver sendo atacada fará com que a Carga Nível 2 de Manter Pressionado seja lançada.",
+            "icon": "UI_Talent_S_Yunjin_05",
+            "name": "Fiel a si mesma"
+        },
+        "p2": {
+            "description": "Quando a equipe contém personagens de 1/2/3/4 Tipos Elementais diferentes, o Bônus de Dano do Ataque Normal de <color=#FFD780FF>Formação da Bandeira das Nuvens</color> é aumentado em 2.5%/5%/7.5%/11.5% com base na DEF de Yunjin.",
+            "icon": "UI_Talent_S_Yunjin_06",
+            "name": "Quebradora de Convenções"
+        },
+        "p3": {
+            "description": "Ao fazer uma comida Perfeita relacionada a efeitos de Aventura, há 12% de chance de se obter o dobro de produção.",
+            "icon": "UI_Talent_S_Yunjin_07",
+            "name": "Alimentação Leve"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Causa <color=#FFE699FF>Dano Geo em uma AdE</color> e dá a todos os personagens da equipe a \"Formação da Bandeira das Nuvens\".\\n\\n<color=#FFD780FF>Formação da Bandeira das Nuvens</color>\\nQuando causa Dano de Ataque Normal, aumenta o Dano causado com base na DEF da própria Yunjin.\\n\\nO efeito \"Formação da Bandeira das Nuvens\" desaparece após o fim da sua duração ou após ser ativado um determinado número de vezes.\\nQuando um Ataque Normal atinge vários inimigos simultaneamente, irá consumir vezes de ativação de acordo com o número de inimigos atingidos; as vezes de ativação de \"Formação de Bandeira das Nuvens\" é contada separadamente entre os personagens que a possuem.\\n\\n<i>\"Com o ressoar dos tambores, espadas e alabardas balançando, uma bela mulher general segura uma bandeira.\"</i>\\n<i>\"Com os instrumentos soando em uníssono, podemos ver ela limpando todos os demônios.\"</i>",
+            "icon": "Skill_E_Yunjin_01",
+            "multipliers": {
+                "Aumento de Dano": [
+                    "32.16% DEF",
+                    "34.57% DEF",
+                    "36.98% DEF",
+                    "40.2% DEF",
+                    "42.61% DEF",
+                    "45.02% DEF",
+                    "48.24% DEF",
+                    "51.46% DEF",
+                    "54.67% DEF",
+                    "57.89% DEF",
+                    "61.1% DEF",
+                    "64.32% DEF",
+                    "68.34% DEF",
+                    "72.36% DEF",
+                    "76.38% DEF"
+                ],
+                "Cargas": [
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30"
+                ],
+                "Dano de Habilidade": [
+                    "244%",
+                    "262.3%",
+                    "280.6%",
+                    "305%",
+                    "323.3%",
+                    "341.6%",
+                    "366%",
+                    "390.4%",
+                    "414.8%",
+                    "439.2%",
+                    "463.6%",
+                    "488%",
+                    "518.5%",
+                    "549%",
+                    "579.5%"
+                ],
+                "Duração": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "Energia Elemental": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "Tempo de Recarga": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ]
+            },
+            "name": "Bandeira Quebra-Rochas"
+        },
+        "elementalskill": {
+            "description": "A Srta. Yun apenas atua no palco, mas realmente sabe usar uma lança.\\n\\n<color=#FFD780FF>Pressionar</color>\\nBrande sua lança na Forma de Corte das Nuvens, infligindo <color=#FFE699FF>Dano Geo</color>.\\n\\n<color=#FFD780FF>Manter Pressionado</color>\\nAssume a posição de Abertura Deslumbrante e inicia um carregamento, formando um escudo. A absorção de Dano do Escudo é baseado na Vida Máxima de Yunjin, e é 150% eficaz contra Dano de todos os elementos e Dano Físico. O escudo dura até o final da Habilidade.\\nQuando a Habilidade é lançada, sua duração encerrar ou o escudo for destruído, Yunjin brande a lança, lançando seu poder acumulado, infligindo <color=#FFE699FF>Dano Geo</color>.\\nDe acordo com o tempo de carregamento, a Habilidade ao ser lançada pode ser dividida em Carga Nível 1 e Carga Nível 2.\\n\\n<i>Um momento glorioso no palco é uma década de preparação por detrás dele.</i>",
+            "icon": "Skill_S_Yunjin_01",
+            "multipliers": {
+                "Absorção de Dano de Escudo": [
+                    "12% da Vida Máxima + 1155",
+                    "12.9% da Vida Máxima + 1271",
+                    "13.8% da Vida Máxima + 1396",
+                    "15% da Vida Máxima + 1531",
+                    "15.9% da Vida Máxima + 1675",
+                    "16.8% da Vida Máxima + 1830",
+                    "18% da Vida Máxima + 1993",
+                    "19.2% da Vida Máxima + 2167",
+                    "20.4% da Vida Máxima + 2350",
+                    "21.6% da Vida Máxima + 2542",
+                    "22.8% da Vida Máxima + 2744",
+                    "24% da Vida Máxima + 2956",
+                    "25.5% da Vida Máxima + 3178",
+                    "27% da Vida Máxima + 3409",
+                    "28.5% da Vida Máxima + 3650"
+                ],
+                "Dano ao Pressionar": [
+                    "149.12% da DEF",
+                    "160.3% da DEF",
+                    "171.49% da DEF",
+                    "186.4% da DEF",
+                    "197.58% da DEF",
+                    "208.77% da DEF",
+                    "223.68% da DEF",
+                    "238.59% da DEF",
+                    "253.5% da DEF",
+                    "268.42% da DEF",
+                    "283.33% da DEF",
+                    "298.24% da DEF",
+                    "316.88% da DEF",
+                    "335.52% da DEF",
+                    "354.16% da DEF"
+                ],
+                "Dano de 1 Carga": [
+                    "260.96% da DEF",
+                    "280.53% da DEF",
+                    "300.1% da DEF",
+                    "326.2% da DEF",
+                    "345.77% da DEF",
+                    "365.34% da DEF",
+                    "391.44% da DEF",
+                    "417.54% da DEF",
+                    "443.63% da DEF",
+                    "469.73% da DEF",
+                    "495.82% da DEF",
+                    "521.92% da DEF",
+                    "554.54% da DEF",
+                    "587.16% da DEF",
+                    "619.78% da DEF"
+                ],
+                "Dano de 2 Cargas": [
+                    "372.8% da DEF",
+                    "400.76% da DEF",
+                    "428.72% da DEF",
+                    "466% da DEF",
+                    "493.96% da DEF",
+                    "521.92% da DEF",
+                    "559.2% da DEF",
+                    "596.48% da DEF",
+                    "633.76% da DEF",
+                    "671.04% da DEF",
+                    "708.32% da DEF",
+                    "745.6% da DEF",
+                    "792.2% da DEF",
+                    "838.8% da DEF",
+                    "885.4% da DEF"
+                ],
+                "Tempo de Recarga": [
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s"
+                ]
+            },
+            "name": "Abertura Deslumbrante"
+        },
+        "leveling": {
+            "books": {
+                "104313": 9,
+                "104314": 63,
+                "104315": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113027": 18
+            },
+            "worldmonster": {
+                "112005": 18,
+                "112006": 66,
+                "112007": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 5 golpes com a lança.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome uma certa quantidade de Stamina para se lançar para frente, infligindo Dano em seu trajeto.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+            "icon": "Skill_A_03",
+            "multipliers": {
+                "Consumo de Stamina de Ataque Carregado": [
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25"
+                ],
+                "Dano Durante a Queda": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ],
+                "Dano de Ataque Carregado": [
+                    "121.69%",
+                    "131.6%",
+                    "141.5%",
+                    "155.65%",
+                    "165.56%",
+                    "176.87%",
+                    "192.44%",
+                    "208%",
+                    "223.57%",
+                    "240.55%",
+                    "260.01%",
+                    "282.89%",
+                    "305.77%",
+                    "328.65%",
+                    "353.61%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Dano do 1° Golpe": [
+                    "40.51%",
+                    "43.8%",
+                    "47.1%",
+                    "51.81%",
+                    "55.11%",
+                    "58.88%",
+                    "64.06%",
+                    "69.24%",
+                    "74.42%",
+                    "80.07%",
+                    "85.72%",
+                    "91.37%",
+                    "97.03%",
+                    "102.68%",
+                    "108.33%"
+                ],
+                "Dano do 2° Golpe": [
+                    "40.25%",
+                    "43.52%",
+                    "46.8%",
+                    "51.48%",
+                    "54.76%",
+                    "58.5%",
+                    "63.65%",
+                    "68.8%",
+                    "73.94%",
+                    "79.56%",
+                    "85.18%",
+                    "90.79%",
+                    "96.41%",
+                    "102.02%",
+                    "107.64%"
+                ],
+                "Dano do 3° Golpe": [
+                    "22.96%+27.52%",
+                    "24.83%+29.76%",
+                    "26.7%+32%",
+                    "29.37%+35.2%",
+                    "31.24%+37.44%",
+                    "33.38%+40%",
+                    "36.31%+43.52%",
+                    "39.25%+47.04%",
+                    "42.19%+50.56%",
+                    "45.39%+54.4%",
+                    "48.59%+58.24%",
+                    "51.8%+62.08%",
+                    "55%+65.92%",
+                    "58.21%+69.76%",
+                    "61.41%+73.6%"
+                ],
+                "Dano do 4° Golpe": [
+                    "23.99%+28.81%",
+                    "25.95%+31.15%",
+                    "27.9%+33.5%",
+                    "30.69%+36.85%",
+                    "32.64%+39.2%",
+                    "34.87%+41.87%",
+                    "37.94%+45.56%",
+                    "41.01%+49.24%",
+                    "44.08%+52.93%",
+                    "47.43%+56.95%",
+                    "50.78%+60.97%",
+                    "54.13%+64.99%",
+                    "57.47%+69.01%",
+                    "60.82%+73.03%",
+                    "64.17%+77.05%"
+                ],
+                "Dano do 5° Golpe": [
+                    "67.34%",
+                    "72.82%",
+                    "78.3%",
+                    "86.13%",
+                    "91.61%",
+                    "97.87%",
+                    "106.49%",
+                    "115.1%",
+                    "123.71%",
+                    "133.11%",
+                    "142.51%",
+                    "151.9%",
+                    "161.3%",
+                    "170.69%",
+                    "180.09%"
+                ]
+            },
+            "name": "Golpe das Nuvens"
+        }
+    }
+}

@@ -1,0 +1,1326 @@
+{
+    "info": {
+        "name": "Noelle",
+        "description": "A maid who faithfully serves the Knights of Favonius. She dreams of joining their ranks someday.",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_CLAYMORE",
+        "birthday": "March 21st",
+        "element": "Geo",
+        "constellation": "Parma Cordis",
+        "attributes": [
+            {
+                "level": 1,
+                "ascension": 0,
+                "hp": 1012,
+                "atk": 16,
+                "def": 67,
+                "DEF%": "0"
+            },
+            {
+                "level": 2,
+                "ascension": 0,
+                "hp": 1096,
+                "atk": 17,
+                "def": 73,
+                "DEF%": "0"
+            },
+            {
+                "level": 3,
+                "ascension": 0,
+                "hp": 1179,
+                "atk": 19,
+                "def": 78,
+                "DEF%": "0"
+            },
+            {
+                "level": 4,
+                "ascension": 0,
+                "hp": 1263,
+                "atk": 20,
+                "def": 84,
+                "DEF%": "0"
+            },
+            {
+                "level": 5,
+                "ascension": 0,
+                "hp": 1346,
+                "atk": 21,
+                "def": 89,
+                "DEF%": "0"
+            },
+            {
+                "level": 6,
+                "ascension": 0,
+                "hp": 1430,
+                "atk": 23,
+                "def": 95,
+                "DEF%": "0"
+            },
+            {
+                "level": 7,
+                "ascension": 0,
+                "hp": 1513,
+                "atk": 24,
+                "def": 100,
+                "DEF%": "0"
+            },
+            {
+                "level": 8,
+                "ascension": 0,
+                "hp": 1597,
+                "atk": 25,
+                "def": 106,
+                "DEF%": "0"
+            },
+            {
+                "level": 9,
+                "ascension": 0,
+                "hp": 1681,
+                "atk": 27,
+                "def": 111,
+                "DEF%": "0"
+            },
+            {
+                "level": 10,
+                "ascension": 0,
+                "hp": 1764,
+                "atk": 28,
+                "def": 117,
+                "DEF%": "0"
+            },
+            {
+                "level": 11,
+                "ascension": 0,
+                "hp": 1848,
+                "atk": 29,
+                "def": 122,
+                "DEF%": "0"
+            },
+            {
+                "level": 12,
+                "ascension": 0,
+                "hp": 1931,
+                "atk": 31,
+                "def": 128,
+                "DEF%": "0"
+            },
+            {
+                "level": 13,
+                "ascension": 0,
+                "hp": 2015,
+                "atk": 32,
+                "def": 133,
+                "DEF%": "0"
+            },
+            {
+                "level": 14,
+                "ascension": 0,
+                "hp": 2098,
+                "atk": 33,
+                "def": 139,
+                "DEF%": "0"
+            },
+            {
+                "level": 15,
+                "ascension": 0,
+                "hp": 2182,
+                "atk": 35,
+                "def": 144,
+                "DEF%": "0"
+            },
+            {
+                "level": 16,
+                "ascension": 0,
+                "hp": 2266,
+                "atk": 36,
+                "def": 150,
+                "DEF%": "0"
+            },
+            {
+                "level": 17,
+                "ascension": 0,
+                "hp": 2349,
+                "atk": 37,
+                "def": 155,
+                "DEF%": "0"
+            },
+            {
+                "level": 18,
+                "ascension": 0,
+                "hp": 2433,
+                "atk": 39,
+                "def": 161,
+                "DEF%": "0"
+            },
+            {
+                "level": 19,
+                "ascension": 0,
+                "hp": 2516,
+                "atk": 40,
+                "def": 166,
+                "DEF%": "0"
+            },
+            {
+                "level": 20,
+                "ascension": 0,
+                "hp": 2600,
+                "atk": 41,
+                "def": 172,
+                "DEF%": "0"
+            },
+            {
+                "level": 21,
+                "ascension": 1,
+                "hp": 3439,
+                "atk": 54,
+                "def": 228,
+                "DEF%": "0"
+            },
+            {
+                "level": 22,
+                "ascension": 1,
+                "hp": 3523,
+                "atk": 56,
+                "def": 233,
+                "DEF%": "0"
+            },
+            {
+                "level": 23,
+                "ascension": 1,
+                "hp": 3607,
+                "atk": 57,
+                "def": 239,
+                "DEF%": "0"
+            },
+            {
+                "level": 24,
+                "ascension": 1,
+                "hp": 3690,
+                "atk": 58,
+                "def": 244,
+                "DEF%": "0"
+            },
+            {
+                "level": 25,
+                "ascension": 1,
+                "hp": 3774,
+                "atk": 60,
+                "def": 250,
+                "DEF%": "0"
+            },
+            {
+                "level": 26,
+                "ascension": 1,
+                "hp": 3857,
+                "atk": 61,
+                "def": 255,
+                "DEF%": "0"
+            },
+            {
+                "level": 27,
+                "ascension": 1,
+                "hp": 3941,
+                "atk": 62,
+                "def": 261,
+                "DEF%": "0"
+            },
+            {
+                "level": 28,
+                "ascension": 1,
+                "hp": 4024,
+                "atk": 64,
+                "def": 266,
+                "DEF%": "0"
+            },
+            {
+                "level": 29,
+                "ascension": 1,
+                "hp": 4108,
+                "atk": 65,
+                "def": 272,
+                "DEF%": "0"
+            },
+            {
+                "level": 30,
+                "ascension": 1,
+                "hp": 4191,
+                "atk": 66,
+                "def": 277,
+                "DEF%": "0"
+            },
+            {
+                "level": 31,
+                "ascension": 1,
+                "hp": 4275,
+                "atk": 68,
+                "def": 283,
+                "DEF%": "0"
+            },
+            {
+                "level": 32,
+                "ascension": 1,
+                "hp": 4359,
+                "atk": 69,
+                "def": 288,
+                "DEF%": "0"
+            },
+            {
+                "level": 33,
+                "ascension": 1,
+                "hp": 4442,
+                "atk": 70,
+                "def": 294,
+                "DEF%": "0"
+            },
+            {
+                "level": 34,
+                "ascension": 1,
+                "hp": 4526,
+                "atk": 72,
+                "def": 299,
+                "DEF%": "0"
+            },
+            {
+                "level": 35,
+                "ascension": 1,
+                "hp": 4609,
+                "atk": 73,
+                "def": 305,
+                "DEF%": "0"
+            },
+            {
+                "level": 36,
+                "ascension": 1,
+                "hp": 4693,
+                "atk": 74,
+                "def": 310,
+                "DEF%": "0"
+            },
+            {
+                "level": 37,
+                "ascension": 1,
+                "hp": 4776,
+                "atk": 76,
+                "def": 316,
+                "DEF%": "0"
+            },
+            {
+                "level": 38,
+                "ascension": 1,
+                "hp": 4860,
+                "atk": 77,
+                "def": 322,
+                "DEF%": "0"
+            },
+            {
+                "level": 39,
+                "ascension": 1,
+                "hp": 4944,
+                "atk": 78,
+                "def": 327,
+                "DEF%": "0"
+            },
+            {
+                "level": 40,
+                "ascension": 1,
+                "hp": 5027,
+                "atk": 80,
+                "def": 333,
+                "DEF%": "0"
+            },
+            {
+                "level": 41,
+                "ascension": 2,
+                "hp": 5648,
+                "atk": 89,
+                "def": 374,
+                "DEF%": "7.5"
+            },
+            {
+                "level": 42,
+                "ascension": 2,
+                "hp": 5731,
+                "atk": 91,
+                "def": 379,
+                "DEF%": "7.5"
+            },
+            {
+                "level": 43,
+                "ascension": 2,
+                "hp": 5815,
+                "atk": 92,
+                "def": 385,
+                "DEF%": "7.5"
+            },
+            {
+                "level": 44,
+                "ascension": 2,
+                "hp": 5898,
+                "atk": 93,
+                "def": 390,
+                "DEF%": "7.5"
+            },
+            {
+                "level": 45,
+                "ascension": 2,
+                "hp": 5982,
+                "atk": 95,
+                "def": 396,
+                "DEF%": "7.5"
+            },
+            {
+                "level": 46,
+                "ascension": 2,
+                "hp": 6066,
+                "atk": 96,
+                "def": 401,
+                "DEF%": "7.5"
+            },
+            {
+                "level": 47,
+                "ascension": 2,
+                "hp": 6149,
+                "atk": 97,
+                "def": 407,
+                "DEF%": "7.5"
+            },
+            {
+                "level": 48,
+                "ascension": 2,
+                "hp": 6233,
+                "atk": 99,
+                "def": 412,
+                "DEF%": "7.5"
+            },
+            {
+                "level": 49,
+                "ascension": 2,
+                "hp": 6316,
+                "atk": 100,
+                "def": 418,
+                "DEF%": "7.5"
+            },
+            {
+                "level": 50,
+                "ascension": 2,
+                "hp": 6400,
+                "atk": 101,
+                "def": 423,
+                "DEF%": "7.5"
+            },
+            {
+                "level": 51,
+                "ascension": 3,
+                "hp": 7200,
+                "atk": 114,
+                "def": 476,
+                "DEF%": "15"
+            },
+            {
+                "level": 52,
+                "ascension": 3,
+                "hp": 7284,
+                "atk": 115,
+                "def": 482,
+                "DEF%": "15"
+            },
+            {
+                "level": 53,
+                "ascension": 3,
+                "hp": 7368,
+                "atk": 117,
+                "def": 487,
+                "DEF%": "15"
+            },
+            {
+                "level": 54,
+                "ascension": 3,
+                "hp": 7451,
+                "atk": 118,
+                "def": 493,
+                "DEF%": "15"
+            },
+            {
+                "level": 55,
+                "ascension": 3,
+                "hp": 7535,
+                "atk": 119,
+                "def": 498,
+                "DEF%": "15"
+            },
+            {
+                "level": 56,
+                "ascension": 3,
+                "hp": 7618,
+                "atk": 121,
+                "def": 504,
+                "DEF%": "15"
+            },
+            {
+                "level": 57,
+                "ascension": 3,
+                "hp": 7702,
+                "atk": 122,
+                "def": 509,
+                "DEF%": "15"
+            },
+            {
+                "level": 58,
+                "ascension": 3,
+                "hp": 7785,
+                "atk": 123,
+                "def": 515,
+                "DEF%": "15"
+            },
+            {
+                "level": 59,
+                "ascension": 3,
+                "hp": 7869,
+                "atk": 125,
+                "def": 521,
+                "DEF%": "15"
+            },
+            {
+                "level": 60,
+                "ascension": 3,
+                "hp": 7953,
+                "atk": 126,
+                "def": 526,
+                "DEF%": "15"
+            },
+            {
+                "level": 61,
+                "ascension": 4,
+                "hp": 8573,
+                "atk": 136,
+                "def": 567,
+                "DEF%": "15"
+            },
+            {
+                "level": 62,
+                "ascension": 4,
+                "hp": 8657,
+                "atk": 137,
+                "def": 573,
+                "DEF%": "15"
+            },
+            {
+                "level": 63,
+                "ascension": 4,
+                "hp": 8740,
+                "atk": 138,
+                "def": 578,
+                "DEF%": "15"
+            },
+            {
+                "level": 64,
+                "ascension": 4,
+                "hp": 8824,
+                "atk": 140,
+                "def": 584,
+                "DEF%": "15"
+            },
+            {
+                "level": 65,
+                "ascension": 4,
+                "hp": 8907,
+                "atk": 141,
+                "def": 589,
+                "DEF%": "15"
+            },
+            {
+                "level": 66,
+                "ascension": 4,
+                "hp": 8991,
+                "atk": 142,
+                "def": 595,
+                "DEF%": "15"
+            },
+            {
+                "level": 67,
+                "ascension": 4,
+                "hp": 9075,
+                "atk": 144,
+                "def": 600,
+                "DEF%": "15"
+            },
+            {
+                "level": 68,
+                "ascension": 4,
+                "hp": 9158,
+                "atk": 145,
+                "def": 606,
+                "DEF%": "15"
+            },
+            {
+                "level": 69,
+                "ascension": 4,
+                "hp": 9242,
+                "atk": 146,
+                "def": 611,
+                "DEF%": "15"
+            },
+            {
+                "level": 70,
+                "ascension": 4,
+                "hp": 9325,
+                "atk": 148,
+                "def": 617,
+                "DEF%": "15"
+            },
+            {
+                "level": 71,
+                "ascension": 5,
+                "hp": 9946,
+                "atk": 158,
+                "def": 658,
+                "DEF%": "22.5"
+            },
+            {
+                "level": 72,
+                "ascension": 5,
+                "hp": 10029,
+                "atk": 159,
+                "def": 663,
+                "DEF%": "22.5"
+            },
+            {
+                "level": 73,
+                "ascension": 5,
+                "hp": 10113,
+                "atk": 160,
+                "def": 669,
+                "DEF%": "22.5"
+            },
+            {
+                "level": 74,
+                "ascension": 5,
+                "hp": 10197,
+                "atk": 161,
+                "def": 675,
+                "DEF%": "22.5"
+            },
+            {
+                "level": 75,
+                "ascension": 5,
+                "hp": 10280,
+                "atk": 163,
+                "def": 680,
+                "DEF%": "22.5"
+            },
+            {
+                "level": 76,
+                "ascension": 5,
+                "hp": 10364,
+                "atk": 164,
+                "def": 686,
+                "DEF%": "22.5"
+            },
+            {
+                "level": 77,
+                "ascension": 5,
+                "hp": 10447,
+                "atk": 165,
+                "def": 691,
+                "DEF%": "22.5"
+            },
+            {
+                "level": 78,
+                "ascension": 5,
+                "hp": 10531,
+                "atk": 167,
+                "def": 697,
+                "DEF%": "22.5"
+            },
+            {
+                "level": 79,
+                "ascension": 5,
+                "hp": 10614,
+                "atk": 168,
+                "def": 702,
+                "DEF%": "22.5"
+            },
+            {
+                "level": 80,
+                "ascension": 5,
+                "hp": 10698,
+                "atk": 169,
+                "def": 708,
+                "DEF%": "22.5"
+            },
+            {
+                "level": 81,
+                "ascension": 6,
+                "hp": 11319,
+                "atk": 179,
+                "def": 749,
+                "DEF%": "30"
+            },
+            {
+                "level": 82,
+                "ascension": 6,
+                "hp": 11402,
+                "atk": 181,
+                "def": 754,
+                "DEF%": "30"
+            },
+            {
+                "level": 83,
+                "ascension": 6,
+                "hp": 11486,
+                "atk": 182,
+                "def": 760,
+                "DEF%": "30"
+            },
+            {
+                "level": 84,
+                "ascension": 6,
+                "hp": 11569,
+                "atk": 183,
+                "def": 765,
+                "DEF%": "30"
+            },
+            {
+                "level": 85,
+                "ascension": 6,
+                "hp": 11653,
+                "atk": 185,
+                "def": 771,
+                "DEF%": "30"
+            },
+            {
+                "level": 86,
+                "ascension": 6,
+                "hp": 11736,
+                "atk": 186,
+                "def": 776,
+                "DEF%": "30"
+            },
+            {
+                "level": 87,
+                "ascension": 6,
+                "hp": 11820,
+                "atk": 187,
+                "def": 782,
+                "DEF%": "30"
+            },
+            {
+                "level": 88,
+                "ascension": 6,
+                "hp": 11903,
+                "atk": 188,
+                "def": 787,
+                "DEF%": "30"
+            },
+            {
+                "level": 89,
+                "ascension": 6,
+                "hp": 11987,
+                "atk": 190,
+                "def": 793,
+                "DEF%": "30"
+            },
+            {
+                "level": 90,
+                "ascension": 6,
+                "hp": 12071,
+                "atk": 191,
+                "def": 799,
+                "DEF%": "30"
+            },
+            {
+                "level": 95,
+                "ascension": 6,
+                "hp": 12488,
+                "atk": 216,
+                "def": 826,
+                "DEF%": "30"
+            },
+            {
+                "level": 100,
+                "ascension": 6,
+                "hp": 12906,
+                "atk": 240,
+                "def": 854,
+                "DEF%": "30"
+            }
+        ]
+    },
+    "icons": {
+        "forward": "UI_AvatarIcon_Noel",
+        "coop_img": "UI_CoopImg_Noel"
+    },
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100022": 168
+        },
+        "elemental": {
+            "104171": 1,
+            "104172": 9,
+            "104173": 9,
+            "104174": 6
+        },
+        "worldmonster": {
+            "112005": 18,
+            "112006": 30,
+            "112007": 36
+        },
+        "elitemonster": {
+            "113009": 46
+        }
+    },
+    "skills": {
+        "normalattack": {
+            "name": "Favonius Bladework - Maid",
+            "icon": "Skill_A_04",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "79.12%",
+                    "85.56%",
+                    "92%",
+                    "101.2%",
+                    "107.64%",
+                    "115%",
+                    "125.12%",
+                    "135.24%",
+                    "145.36%",
+                    "156.4%",
+                    "167.44%",
+                    "178.48%",
+                    "189.52%",
+                    "200.56%",
+                    "211.6%"
+                ],
+                "2-Hit DMG": [
+                    "73.36%",
+                    "79.33%",
+                    "85.3%",
+                    "93.83%",
+                    "99.8%",
+                    "106.62%",
+                    "116.01%",
+                    "125.39%",
+                    "134.77%",
+                    "145.01%",
+                    "155.25%",
+                    "165.48%",
+                    "175.72%",
+                    "185.95%",
+                    "196.19%"
+                ],
+                "3-Hit DMG": [
+                    "86.26%",
+                    "93.28%",
+                    "100.3%",
+                    "110.33%",
+                    "117.35%",
+                    "125.37%",
+                    "136.41%",
+                    "147.44%",
+                    "158.47%",
+                    "170.51%",
+                    "182.55%",
+                    "194.58%",
+                    "206.62%",
+                    "218.65%",
+                    "230.69%"
+                ],
+                "4-Hit DMG": [
+                    "113.43%",
+                    "122.67%",
+                    "131.9%",
+                    "145.09%",
+                    "154.32%",
+                    "164.87%",
+                    "179.38%",
+                    "193.89%",
+                    "208.4%",
+                    "224.23%",
+                    "240.06%",
+                    "255.89%",
+                    "271.71%",
+                    "287.54%",
+                    "303.37%"
+                ],
+                "Charged Attack Cyclic DMG": [
+                    "50.74%",
+                    "54.87%",
+                    "59%",
+                    "64.9%",
+                    "69.03%",
+                    "73.75%",
+                    "80.24%",
+                    "86.73%",
+                    "93.22%",
+                    "100.3%",
+                    "107.38%",
+                    "114.46%",
+                    "121.54%",
+                    "128.62%",
+                    "135.7%"
+                ],
+                "Charged Attack Final DMG": [
+                    "90.47%",
+                    "97.84%",
+                    "105.2%",
+                    "115.72%",
+                    "123.08%",
+                    "131.5%",
+                    "143.07%",
+                    "154.64%",
+                    "166.22%",
+                    "178.84%",
+                    "191.46%",
+                    "204.09%",
+                    "216.71%",
+                    "229.34%",
+                    "241.96%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s"
+                ],
+                "Max Duration": [
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s"
+                ],
+                "Plunge DMG": [
+                    "74.59%",
+                    "80.66%",
+                    "86.73%",
+                    "95.4%",
+                    "101.47%",
+                    "108.41%",
+                    "117.95%",
+                    "127.49%",
+                    "137.03%",
+                    "147.44%",
+                    "157.85%",
+                    "168.26%",
+                    "178.66%",
+                    "189.07%",
+                    "199.48%"
+                ],
+                "Low/High Plunge DMG": [
+                    "149.14%/186.29%",
+                    "161.28%/201.45%",
+                    "173.42%/216.62%",
+                    "190.77%/238.28%",
+                    "202.91%/253.44%",
+                    "216.78%/270.77%",
+                    "235.86%/294.6%",
+                    "254.93%/318.42%",
+                    "274.01%/342.25%",
+                    "294.82%/368.25%",
+                    "315.63%/394.24%",
+                    "336.44%/420.23%",
+                    "357.25%/446.23%",
+                    "378.06%/472.22%",
+                    "398.87%/498.21%"
+                ]
+            },
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 consecutive strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nDrains Stamina over time to perform continuous spinning attacks against all nearby opponents.\\nAt the end of the sequence, performs a more powerful slash. \\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
+        },
+        "elementalskill": {
+            "name": "Breastplate",
+            "icon": "Skill_S_Noel_01",
+            "multipliers": {
+                "Skill DMG": [
+                    "120% DEF",
+                    "129% DEF",
+                    "138% DEF",
+                    "150% DEF",
+                    "159% DEF",
+                    "168% DEF",
+                    "180% DEF",
+                    "192% DEF",
+                    "204% DEF",
+                    "216% DEF",
+                    "228% DEF",
+                    "240% DEF",
+                    "255% DEF",
+                    "270% DEF",
+                    "285% DEF"
+                ],
+                "DMG Absorption": [
+                    "160% DEF+770",
+                    "172% DEF+847",
+                    "184% DEF+930",
+                    "200% DEF+1020",
+                    "212% DEF+1116",
+                    "224% DEF+1219",
+                    "240% DEF+1328",
+                    "256% DEF+1443",
+                    "272% DEF+1565",
+                    "288% DEF+1694",
+                    "304% DEF+1828",
+                    "320% DEF+1970",
+                    "340% DEF+2117",
+                    "360% DEF+2271",
+                    "380% DEF+2431"
+                ],
+                "Healing": [
+                    "21.28% DEF+103",
+                    "22.88% DEF+113",
+                    "24.47% DEF+124",
+                    "26.6% DEF+136",
+                    "28.2% DEF+149",
+                    "29.79% DEF+163",
+                    "31.92% DEF+177",
+                    "34.05% DEF+193",
+                    "36.18% DEF+209",
+                    "38.3% DEF+226",
+                    "40.43% DEF+244",
+                    "42.56% DEF+263",
+                    "45.22% DEF+282",
+                    "47.88% DEF+303",
+                    "50.54% DEF+324"
+                ],
+                "Healing Triggering Chance": [
+                    "50%",
+                    "51%",
+                    "52%",
+                    "53%",
+                    "54%",
+                    "55%",
+                    "56%",
+                    "57%",
+                    "58%",
+                    "59%",
+                    "59%",
+                    "60%",
+                    "60%",
+                    "60%",
+                    "60%"
+                ],
+                "Duration": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "CD": [
+                    "24s",
+                    "24s",
+                    "24s",
+                    "24s",
+                    "24s",
+                    "24s",
+                    "24s",
+                    "24s",
+                    "24s",
+                    "24s",
+                    "24s",
+                    "24s",
+                    "24s",
+                    "24s",
+                    "24s"
+                ]
+            },
+            "description": "Summons protective stone armor, dealing <color=#FFE699FF>Geo DMG</color> to surrounding opponents and creating a shield. The shield's DMG Absorption scales based on Noelle's DEF.\\nThe shield has the following properties:\\n·When Noelle's Normal and Charged Attacks hit a target, they have a certain chance to regenerate HP for all characters.\\n·Possesses 150% DMG Absorption efficiency against all Elemental and Physical DMG.\\n\\nThe amount of HP healed when regeneration is triggered scales based on Noelle's DEF.\\n\\n<i>Noelle is both a dutiful maid and a valiant knight.</i>"
+        },
+        "elementalburst": {
+            "name": "Sweeping Time",
+            "icon": "Skill_E_Noel_01",
+            "multipliers": {
+                "Burst DMG": [
+                    "67.2%",
+                    "72.24%",
+                    "77.28%",
+                    "84%",
+                    "89.04%",
+                    "94.08%",
+                    "100.8%",
+                    "107.52%",
+                    "114.24%",
+                    "120.96%",
+                    "127.68%",
+                    "134.4%",
+                    "142.8%",
+                    "151.2%",
+                    "159.6%"
+                ],
+                "Skill DMG": [
+                    "92.8%",
+                    "99.76%",
+                    "106.72%",
+                    "116%",
+                    "122.96%",
+                    "129.92%",
+                    "139.2%",
+                    "148.48%",
+                    "157.76%",
+                    "167.04%",
+                    "176.32%",
+                    "185.6%",
+                    "197.2%",
+                    "208.8%",
+                    "220.4%"
+                ],
+                "ATK Bonus": [
+                    "40% DEF",
+                    "43% DEF",
+                    "46% DEF",
+                    "50% DEF",
+                    "53% DEF",
+                    "56% DEF",
+                    "60% DEF",
+                    "64% DEF",
+                    "68% DEF",
+                    "72% DEF",
+                    "76% DEF",
+                    "80% DEF",
+                    "85% DEF",
+                    "90% DEF",
+                    "95% DEF"
+                ],
+                "Duration": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "CD": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Energy Cost": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ]
+            },
+            "description": "Gathering the strength of stone around her weapon, Noelle strikes the opponents surrounding her within a large AoE, dealing <color=#FFE699FF>Geo DMG</color>.\\nAfterwards, Noelle gains the following effects:\\n·Larger attack AoE.\\n·Converts attack DMG to <color=#FFE699FF>Geo DMG</color> that cannot be overridden by any other elemental infusion.\\n·Increased ATK that scales based on her DEF.\\n\\n<i>Sometimes, it's not just dust that needs sweeping...</i>"
+        },
+        "leveling": {
+            "books": {
+                "104304": 9,
+                "104305": 63,
+                "104306": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "worldmonster": {
+                "112005": 18,
+                "112006": 66,
+                "112007": 93
+            },
+            "weekly": {
+                "113004": 18
+            }
+        }
+    },
+    "passives": {
+        "p1": {
+            "name": "Devotion",
+            "description": "When Noelle is in the party but not on the field, this ability triggers automatically when your active character's HP falls below 30%:\\nCreates a shield for your active character that lasts for 20s and absorbs DMG equal to 400% of Noelle's DEF.\\nThe shield has a 150% DMG Absorption effectiveness against all Elemental and Physical DMG.\\nThis effect can only occur once every 60s.",
+            "icon": "UI_Talent_S_Noel_05"
+        },
+        "p2": {
+            "name": "Nice and Clean",
+            "description": "Noelle will decrease the CD of <color=#FFD780FF>Breastplate</color> by 1s for every 4 Normal or Charged Attack hits she scores on opponents.\\nOne hit may be counted every 0.1s.",
+            "icon": "UI_Talent_S_Noel_06"
+        },
+        "p3": {
+            "name": "Maid's Knighthood",
+            "description": "When a Perfect Cooking is achieved on a DEF-boosting dish, Noelle has a 12% chance to obtain double the product.",
+            "icon": "UI_Talent_Cook_Defense"
+        },
+        "p4": ""
+    },
+    "constellations": {
+        "const1": {
+            "name": "I Got Your Back",
+            "description": "While <color=#FFD780FF>Sweeping Time</color> and <color=#FFD780FF>Breastplate</color> are both in effect, the chance of Breastplate's healing effects activating is increased to 100%.",
+            "icon": "UI_Talent_S_Noel_01"
+        },
+        "const2": {
+            "name": "Combat Maid",
+            "description": "Decreases the Stamina Consumption of Noelle's Charged Attacks by 20% and increases her Charged Attack DMG by 15%.",
+            "icon": "UI_Talent_S_Noel_02"
+        },
+        "const3": {
+            "name": "Invulnerable Maid",
+            "description": "Increases the Level of <color=#FFD780FF>Breastplate</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Noel_01"
+        },
+        "const4": {
+            "name": "To Be Cleaned",
+            "description": "When <color=#FFD780FF>Breastplate</color>'s duration expires or it is destroyed by DMG, it will deal 400% of Noelle's ATK as <color=#FFE699FF>Geo DMG</color> to surrounding opponents.",
+            "icon": "UI_Talent_S_Noel_03"
+        },
+        "const5": {
+            "name": "Favonius Sweeper Master",
+            "description": "Increases the Level of <color=#FFD780FF>Sweeping Time</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Noel_02"
+        },
+        "const6": {
+            "name": "Must Be Spotless",
+            "description": "<color=#FFD780FF>Sweeping Time</color> increases Noelle's ATK by an additional 50% of her DEF.\\nAdditionally, every opponent defeated during the skill's duration adds 1s to the duration, up to 10s.",
+            "icon": "UI_Talent_S_Noel_04"
+        }
+    },
+    "energy": [],
+    "attacks": [
+        {
+            "name": "Skill_S",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "2U",
+            "poise": "LV3/100",
+            "element": "Rock"
+        },
+        {
+            "name": "Skill_S",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "2U",
+            "poise": "LV3/100",
+            "element": "Rock"
+        },
+        {
+            "name": "Skill_E",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/150",
+            "element": "Rock"
+        },
+        {
+            "name": "Skill_E",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/150",
+            "element": "Rock"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/35",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/35",
+            "element": "Rock"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/150",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/200",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/150",
+            "element": "Rock"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/200",
+            "element": "Rock"
+        }
+    ],
+    "hyperlinks": []
+}

@@ -1,0 +1,1208 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104141": 1,
+            "104142": 9,
+            "104143": 9,
+            "104144": 6
+        },
+        "elitemonster": {
+            "113064": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101252": 168
+        },
+        "worldmonster": {
+            "112101": 18,
+            "112102": 30,
+            "112103": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "4U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "Bullet_ShootArrow_Enchanted_WithoutElec",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "Bullet_ShootArrow_WithElec",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: default",
+            "name": "Bullet_ElementalArt",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV2/100"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "7 hits / 3s",
+            "icd_source": "Tag: Olorun_ElementalBurst",
+            "name": "SkillObj_ElementalBurst_Rotate",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "7 hits / 3s",
+            "icd_source": "Tag: Olorun_ElementalBurst",
+            "name": "SkillObj_ElementalBurst_Rotate_Constellation",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: default",
+            "name": "NyxState",
+            "poise": "LV2/15"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: default",
+            "name": "Constellation_AttackUp",
+            "poise": "LV2/15"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "The Elemental Skill <color=#FFD780FF>Night's Sling</color>'s <color=#FFD780FF>Spirit Orb</color> can bounce 2 additional times.\\nAdditionally, after the <color=#FFD780FF>Spirit Orb</color> hits an opponent, it will apply the Nighttide effect to them for 12s. Opponents affected by Nighttide take 50% increased DMG from Hypersense triggered by the Ascension Talent, \"Nightshade Synesthesia.\" You must first unlock the Ascension Talent \"Nightshade Synesthesia.\"",
+            "icon": "UI_Talent_S_Olorun_01",
+            "name": "Trails Amidst the Forest Fog"
+        },
+        "const2": {
+            "description": "After using his Elemental Burst, <color=#FFD780FF>Dark Voices Echo</color>, Ororon will obtain the Spiritual Supersense effect for 9s.\\n\\n<color=#FFD780FF>Spiritual Supersense</color>\\nGain 8% <color=#FFACFFFF>Electro DMG Bonus</color>.\\nAdditionally, during this time, every additional opponent hit by the Elemental Burst <color=#FFD780FF>Dark Voices Echo</color> or <color=#FFD780FF>Supersonic Oculus</color> will grant Ororon a further 8% <color=#FFACFFFF>Electro DMG Bonus</color>. The maximum that can be gained this way is 32% <color=#FFACFFFF>Electro DMG Bonus</color>.",
+            "icon": "UI_Talent_S_Olorun_02",
+            "name": "King Bee of the Hidden Honeyed Wine"
+        },
+        "const3": {
+            "description": "Increases the Level of <color=#FFD780FF>Dark Voices Echo</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Olorun_01",
+            "name": "Roosting Bat's Spiritcage"
+        },
+        "const4": {
+            "description": "The <color=#FFD780FF>Supersonic Oculus</color> summoned by the Elemental Burst <color=#FFD780FF>Dark Voices Echo</color> rotates 25% faster.\\nAdditionally, Ororon will restore 8 Energy to himself after using <color=#FFD780FF>Dark Voices Echo</color>.",
+            "icon": "UI_Talent_S_Olorun_03",
+            "name": "As the Mysteries of the Night Wind"
+        },
+        "const5": {
+            "description": "Increases the Level of <color=#FFD780FF>Night's Sling</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Olorun_02",
+            "name": "A Gift For the Soul"
+        },
+        "const6": {
+            "description": "After triggering Hypersense through the Ascension Talent, Nightshade Synesthesia, your current active character's ATK is increased by 10% for 9s. Max 3 stacks, each stack is counted independently.\\nAdditionally, when you use the Elemental Burst <color=#FFD780FF>Dark Voices Echo</color>, you will trigger one instance of an effect equivalent to Hypersense, dealing 200% of its original DMG.\\nYou must first unlock the Ascension Talent \"Nightshade Synesthesia.\"",
+            "icon": "UI_Talent_S_Olorun_04",
+            "name": "Ode to Deep Springs"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.3s",
+            "chance": "100%",
+            "particles": "3",
+            "source": "ElementalArt_DropBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Olorun",
+        "forward": "UI_AvatarIcon_Olorun"
+    },
+    "info": {
+        "attributes": [
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 49,
+                "hp": 775,
+                "level": 1
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 53,
+                "hp": 839,
+                "level": 2
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 57,
+                "hp": 903,
+                "level": 3
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 61,
+                "hp": 967,
+                "level": 4
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 65,
+                "hp": 1031,
+                "level": 5
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 70,
+                "hp": 1095,
+                "level": 6
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 74,
+                "hp": 1159,
+                "level": 7
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 78,
+                "hp": 1223,
+                "level": 8
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 82,
+                "hp": 1287,
+                "level": 9
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 86,
+                "hp": 1351,
+                "level": 10
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 90,
+                "hp": 1415,
+                "level": 11
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 94,
+                "hp": 1479,
+                "level": 12
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 98,
+                "hp": 1543,
+                "level": 13
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 102,
+                "hp": 1607,
+                "level": 14
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 106,
+                "hp": 1671,
+                "level": 15
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 46,
+                "def": 110,
+                "hp": 1735,
+                "level": 16
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 48,
+                "def": 114,
+                "hp": 1799,
+                "level": 17
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 49,
+                "def": 118,
+                "hp": 1863,
+                "level": 18
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 51,
+                "def": 122,
+                "hp": 1927,
+                "level": 19
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 53,
+                "def": 126,
+                "hp": 1991,
+                "level": 20
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 70,
+                "def": 167,
+                "hp": 2634,
+                "level": 21
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 171,
+                "hp": 2698,
+                "level": 22
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 73,
+                "def": 175,
+                "hp": 2762,
+                "level": 23
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 75,
+                "def": 179,
+                "hp": 2826,
+                "level": 24
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 76,
+                "def": 184,
+                "hp": 2890,
+                "level": 25
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 78,
+                "def": 188,
+                "hp": 2954,
+                "level": 26
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 80,
+                "def": 192,
+                "hp": 3018,
+                "level": 27
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 81,
+                "def": 196,
+                "hp": 3082,
+                "level": 28
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 83,
+                "def": 200,
+                "hp": 3146,
+                "level": 29
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 85,
+                "def": 204,
+                "hp": 3209,
+                "level": 30
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 87,
+                "def": 208,
+                "hp": 3274,
+                "level": 31
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 88,
+                "def": 212,
+                "hp": 3338,
+                "level": 32
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 90,
+                "def": 216,
+                "hp": 3402,
+                "level": 33
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 92,
+                "def": 220,
+                "hp": 3466,
+                "level": 34
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 93,
+                "def": 224,
+                "hp": 3529,
+                "level": 35
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 95,
+                "def": 228,
+                "hp": 3594,
+                "level": 36
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 97,
+                "def": 232,
+                "hp": 3657,
+                "level": 37
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 98,
+                "def": 236,
+                "hp": 3722,
+                "level": 38
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 100,
+                "def": 240,
+                "hp": 3786,
+                "level": 39
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 102,
+                "def": 244,
+                "hp": 3850,
+                "level": 40
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 114,
+                "def": 275,
+                "hp": 4325,
+                "level": 41
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 116,
+                "def": 279,
+                "hp": 4389,
+                "level": 42
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 118,
+                "def": 283,
+                "hp": 4453,
+                "level": 43
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 119,
+                "def": 287,
+                "hp": 4517,
+                "level": 44
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 121,
+                "def": 291,
+                "hp": 4581,
+                "level": 45
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 123,
+                "def": 295,
+                "hp": 4645,
+                "level": 46
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 124,
+                "def": 299,
+                "hp": 4709,
+                "level": 47
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 126,
+                "def": 303,
+                "hp": 4773,
+                "level": 48
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 128,
+                "def": 307,
+                "hp": 4837,
+                "level": 49
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 130,
+                "def": 311,
+                "hp": 4901,
+                "level": 50
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 146,
+                "def": 350,
+                "hp": 5513,
+                "level": 51
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 147,
+                "def": 354,
+                "hp": 5578,
+                "level": 52
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 149,
+                "def": 358,
+                "hp": 5642,
+                "level": 53
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 151,
+                "def": 362,
+                "hp": 5705,
+                "level": 54
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 152,
+                "def": 366,
+                "hp": 5770,
+                "level": 55
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 154,
+                "def": 370,
+                "hp": 5833,
+                "level": 56
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 156,
+                "def": 374,
+                "hp": 5898,
+                "level": 57
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 158,
+                "def": 379,
+                "hp": 5961,
+                "level": 58
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 159,
+                "def": 383,
+                "hp": 6025,
+                "level": 59
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 161,
+                "def": 387,
+                "hp": 6090,
+                "level": 60
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 173,
+                "def": 417,
+                "hp": 6565,
+                "level": 61
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 175,
+                "def": 421,
+                "hp": 6629,
+                "level": 62
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 177,
+                "def": 425,
+                "hp": 6693,
+                "level": 63
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 179,
+                "def": 429,
+                "hp": 6757,
+                "level": 64
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 180,
+                "def": 433,
+                "hp": 6820,
+                "level": 65
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 182,
+                "def": 437,
+                "hp": 6885,
+                "level": 66
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 184,
+                "def": 441,
+                "hp": 6949,
+                "level": 67
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 185,
+                "def": 445,
+                "hp": 7013,
+                "level": 68
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 187,
+                "def": 449,
+                "hp": 7077,
+                "level": 69
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 189,
+                "def": 453,
+                "hp": 7141,
+                "level": 70
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 201,
+                "def": 484,
+                "hp": 7616,
+                "level": 71
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 203,
+                "def": 488,
+                "hp": 7680,
+                "level": 72
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 205,
+                "def": 492,
+                "hp": 7744,
+                "level": 73
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 206,
+                "def": 496,
+                "hp": 7808,
+                "level": 74
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 208,
+                "def": 500,
+                "hp": 7872,
+                "level": 75
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 210,
+                "def": 504,
+                "hp": 7936,
+                "level": 76
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 211,
+                "def": 508,
+                "hp": 8000,
+                "level": 77
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 213,
+                "def": 512,
+                "hp": 8064,
+                "level": 78
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 215,
+                "def": 516,
+                "hp": 8128,
+                "level": 79
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 216,
+                "def": 520,
+                "hp": 8192,
+                "level": 80
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 229,
+                "def": 550,
+                "hp": 8668,
+                "level": 81
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 231,
+                "def": 554,
+                "hp": 8731,
+                "level": 82
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 232,
+                "def": 559,
+                "hp": 8796,
+                "level": 83
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 234,
+                "def": 563,
+                "hp": 8859,
+                "level": 84
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 236,
+                "def": 567,
+                "hp": 8924,
+                "level": 85
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 237,
+                "def": 571,
+                "hp": 8987,
+                "level": 86
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 239,
+                "def": 575,
+                "hp": 9051,
+                "level": 87
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 241,
+                "def": 579,
+                "hp": 9115,
+                "level": 88
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 243,
+                "def": 583,
+                "hp": 9179,
+                "level": 89
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 244,
+                "def": 587,
+                "hp": 9244,
+                "level": 90
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 275,
+                "def": 607,
+                "hp": 9563,
+                "level": 95
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 307,
+                "def": 628,
+                "hp": 9883,
+                "level": 100
+            }
+        ],
+        "birthday": "October 14th",
+        "constellation": "Vampyrum Spectrum",
+        "description": "A young man from the Masters of the Night-Wind who instead lives in the wild alongside all manner of life.",
+        "element": "Electro",
+        "name": "Ororon",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_BOW"
+    },
+    "passives": {
+        "p1": {
+            "description": "After a nearby party member triggers Nightsoul Burst, Ororon will gain 40 Nightsoul points. Within 15s after using his Elemental Skill, when other party members' <color=#80C0FFFF>Hydro</color> or <color=#FFACFFFF>Electro</color> attacks hit opponents, Ororon will gain 5 Nightsoul points, an effect that can occur every 0.3s for a maximum of 10 times during this 15s duration.\\nOroron can have a maximum of 80 Nightsoul points.\\n\\nAlso, when nearby opponents take <color=#FFACFFFF>Electro-Charged or Lunar-Charged</color> reaction DMG or Nightsoul-aligned DMG dealt by other nearby characters, Ororon will consume 10 Nightsoul points (provided he has at least that amount), entering the Nightsoul's Blessing state and triggering the Hypersense effect: Deal Nightsoul-aligned <color=#FFACFFFF>Electro DMG</color> based on 160% of Ororon's ATK to at most 4 nearby opponents. The aforementioned effect can trigger once every 1.8s.\\n\\n<color=#FFD780FF>Nightsoul's Blessing: Ororon</color>\\nOroron's Nightsoul's Blessing state lasts 6s.",
+            "icon": "UI_Talent_S_Olorun_05",
+            "name": "Nightshade Synesthesia"
+        },
+        "p2": {
+            "description": "After the Elemental Skill <color=#FFD780FF>Night's Sling</color>'s <color=#FFD780FF>Spirit Orb</color> hits an opponent, Ororon will gain the Aspect Sigil effect for 15s.\\n\\n<color=#FFD780FF>Aspect Sigil</color>\\nWhen a nearby active party member hits an opponent with Normal, Charged, or Plunging Attacks, that character will restore 3 Energy. If Ororon is off-field, Ororon will also restore 3 Energy. This effect can trigger once every 1s, and can trigger 3 times per duration.",
+            "icon": "UI_Talent_S_Olorun_06",
+            "name": "Aspect Catalyst"
+        },
+        "p3": {
+            "description": "While in an area with Phlogiston Mechanics within Natlan, he can use Nightsoul Transmission: Ororon. When the active character is currently in the air, the following will trigger when switching to Ororon: Ororon will leap up high. Nightsoul Transmission can be triggered once every 10s by your party.\\n\\nHolding Aiming Mode will cause Ororon to enter the \"Spiritspeaker\" state, which will allow him to interact with \"Nightspirit Graffiti\" and \"Nightspirit Sigils,\" extracting information and power from them. The rules for interacting with these objects follow the same rules as those governing Iktomisaurus interactions.\\n\\nAdditionally, holding the jump button will cause Ororon to consume 75 Stamina and leap. In areas within Natlan where Phlogiston mechanics are present, Ororon will prioritize consuming 5 Phlogiston to leap to a height higher still.\\nWhen in the air, Ororon can Hold his Normal Attack to consume Phlogiston or Stamina and enter Aiming Mode.",
+            "icon": "UI_Talent_S_Olorun_07",
+            "name": "Night Realm's Gift: Flowing Fog, Spritely Shadows"
+        },
+        "p4": {
+            "description": "Increases gliding SPD for your own party members by 15%.\\nNot stackable with Passive Talents that provide the exact same effects.",
+            "icon": "UI_Talent_S_Olorun_08",
+            "name": "The Art of Skinchanging"
+        }
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Ororon works an ancient ritual, dealing Nightsoul-aligned <color=#FFACFFFF>AoE Electro DMG</color>, summoning forth a Supersonic Oculus.\\n\\n<color=#FFD780FF>Supersonic Oculus</color>\\n·Continuously taunts nearby opponents and attracts attacks from them.\\n·Continuously rotates and fires off sonic waves that deal Nightsoul-aligned <color=#FFACFFFF>Electro DMG</color>.\\n\\n<i>Those with sharp enough senses can hear the minute voices with which all things speak. That way, they will never lose their way — not even on long, lightless nights.</i>",
+            "icon": "Skill_E_Olorun_01",
+            "multipliers": {
+                "CD": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Duration": [
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s"
+                ],
+                "Energy Cost": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "Ritual DMG": [
+                    "174.38%",
+                    "187.46%",
+                    "200.54%",
+                    "217.98%",
+                    "231.06%",
+                    "244.14%",
+                    "261.58%",
+                    "279.01%",
+                    "296.45%",
+                    "313.89%",
+                    "331.33%",
+                    "348.77%",
+                    "370.57%",
+                    "392.36%",
+                    "414.16%"
+                ],
+                "Soundwave Collision DMG": [
+                    "33.2%",
+                    "35.69%",
+                    "38.18%",
+                    "41.5%",
+                    "43.99%",
+                    "46.48%",
+                    "49.8%",
+                    "53.12%",
+                    "56.44%",
+                    "59.76%",
+                    "63.08%",
+                    "66.4%",
+                    "70.55%",
+                    "74.7%",
+                    "78.85%"
+                ]
+            },
+            "name": "Dark Voices Echo"
+        },
+        "elementalskill": {
+            "description": "Ororon manifests an ancient mystical technique from the Masters of the Night-Wind as a <color=#FFD780FF>Spirit Orb</color> of midnight shade and throws it at his foe, dealing Nightsoul-aligned <color=#FFACFFFF>Electro DMG</color>.\\nWhen other opponents are nearby, the Spirit Orb will bounce between them, dealing Nightsoul-aligned <color=#FFACFFFF>Electro DMG</color>. Each time Night's Sling is used, each opponent can only be selected as a target once.\\nAfter 3 bounces, or if there are no eligible targets left, the Orb will disappear.\\n\\n<i>\"People always wish to foretell the future, but that might be because they have yet to discover that which they must do... Sorry, I'm saying complicated things again, aren't I...\"</i>",
+            "icon": "Skill_S_Olorun_01",
+            "multipliers": {
+                "CD": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Spirit Orb DMG": [
+                    "197.6%",
+                    "212.42%",
+                    "227.24%",
+                    "247%",
+                    "261.82%",
+                    "276.64%",
+                    "296.4%",
+                    "316.16%",
+                    "335.92%",
+                    "355.68%",
+                    "375.44%",
+                    "395.2%",
+                    "419.9%",
+                    "444.6%",
+                    "469.3%"
+                ]
+            },
+            "name": "Night's Sling"
+        },
+        "leveling": {
+            "books": {
+                "104350": 9,
+                "104351": 63,
+                "104352": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113054": 18
+            },
+            "worldmonster": {
+                "112101": 18,
+                "112102": 66,
+                "112103": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 3 consecutive shots with a bow.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nPerforms a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG.\\nWhile aiming, Electro energy will accumulate on the arrowhead. A fully charged arrow will deal <color=#FFACFFFF>Electro DMG</color>.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+            "icon": "Skill_A_02",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "50.64%",
+                    "54.76%",
+                    "58.89%",
+                    "64.77%",
+                    "68.9%",
+                    "73.61%",
+                    "80.08%",
+                    "86.56%",
+                    "93.04%",
+                    "100.11%",
+                    "107.17%",
+                    "114.24%",
+                    "121.31%",
+                    "128.37%",
+                    "135.44%"
+                ],
+                "2-Hit DMG": [
+                    "44.37%",
+                    "47.99%",
+                    "51.6%",
+                    "56.76%",
+                    "60.37%",
+                    "64.5%",
+                    "70.17%",
+                    "75.85%",
+                    "81.52%",
+                    "87.71%",
+                    "93.91%",
+                    "100.1%",
+                    "106.29%",
+                    "112.48%",
+                    "118.67%"
+                ],
+                "3-Hit DMG": [
+                    "69.82%",
+                    "75.5%",
+                    "81.19%",
+                    "89.31%",
+                    "94.99%",
+                    "101.48%",
+                    "110.41%",
+                    "119.34%",
+                    "128.28%",
+                    "138.02%",
+                    "147.76%",
+                    "157.5%",
+                    "167.25%",
+                    "176.99%",
+                    "186.73%"
+                ],
+                "Aimed Shot": [
+                    "43.86%",
+                    "47.43%",
+                    "51%",
+                    "56.1%",
+                    "59.67%",
+                    "63.75%",
+                    "69.36%",
+                    "74.97%",
+                    "80.58%",
+                    "86.7%",
+                    "92.82%",
+                    "98.94%",
+                    "105.06%",
+                    "111.18%",
+                    "117.3%"
+                ],
+                "Fully-Charged Aimed Shot": [
+                    "124%",
+                    "133.3%",
+                    "142.6%",
+                    "155%",
+                    "164.3%",
+                    "173.6%",
+                    "186%",
+                    "198.4%",
+                    "210.8%",
+                    "223.2%",
+                    "235.6%",
+                    "248%",
+                    "263.5%",
+                    "279%",
+                    "294.5%"
+                ],
+                "Low/High Plunge DMG": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "Plunge DMG": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ]
+            },
+            "name": "Spiritvessel Snapshot"
+        }
+    }
+}

@@ -1,0 +1,1343 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104101": 1,
+            "104102": 9,
+            "104103": 9,
+            "104104": 6
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100024": 168
+        },
+        "worldmonster": {
+            "112005": 18,
+            "112006": 30,
+            "112007": 36
+        }
+    },
+    "attacks": [],
+    "constellations": null,
+    "energy": [],
+    "icons": {
+        "coop_img": "UI_CoopImg_PlayerBoy",
+        "forward": "UI_AvatarIcon_PlayerBoy"
+    },
+    "info": {
+        "attributes": [
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 18,
+                "def": 57,
+                "hp": 912,
+                "level": 1
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 62,
+                "hp": 987,
+                "level": 2
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 67,
+                "hp": 1062,
+                "level": 3
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 71,
+                "hp": 1138,
+                "level": 4
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 76,
+                "hp": 1213,
+                "level": 5
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 81,
+                "hp": 1288,
+                "level": 6
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 86,
+                "hp": 1363,
+                "level": 7
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 90,
+                "hp": 1439,
+                "level": 8
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 95,
+                "hp": 1514,
+                "level": 9
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 100,
+                "hp": 1589,
+                "level": 10
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 104,
+                "hp": 1665,
+                "level": 11
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 109,
+                "hp": 1740,
+                "level": 12
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 114,
+                "hp": 1815,
+                "level": 13
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 119,
+                "hp": 1890,
+                "level": 14
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 123,
+                "hp": 1966,
+                "level": 15
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 40,
+                "def": 128,
+                "hp": 2042,
+                "level": 16
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 133,
+                "hp": 2116,
+                "level": 17
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 43,
+                "def": 138,
+                "hp": 2192,
+                "level": 18
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 142,
+                "hp": 2267,
+                "level": 19
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 46,
+                "def": 147,
+                "hp": 2342,
+                "level": 20
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 61,
+                "def": 194,
+                "hp": 3098,
+                "level": 21
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 62,
+                "def": 199,
+                "hp": 3174,
+                "level": 22
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 63,
+                "def": 204,
+                "hp": 3250,
+                "level": 23
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 65,
+                "def": 209,
+                "hp": 3324,
+                "level": 24
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 66,
+                "def": 213,
+                "hp": 3400,
+                "level": 25
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 68,
+                "def": 218,
+                "hp": 3475,
+                "level": 26
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 69,
+                "def": 223,
+                "hp": 3551,
+                "level": 27
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 228,
+                "hp": 3625,
+                "level": 28
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 72,
+                "def": 232,
+                "hp": 3701,
+                "level": 29
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 74,
+                "def": 237,
+                "hp": 3776,
+                "level": 30
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 75,
+                "def": 242,
+                "hp": 3851,
+                "level": 31
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 77,
+                "def": 246,
+                "hp": 3927,
+                "level": 32
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 78,
+                "def": 251,
+                "hp": 4002,
+                "level": 33
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 80,
+                "def": 256,
+                "hp": 4078,
+                "level": 34
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 81,
+                "def": 261,
+                "hp": 4152,
+                "level": 35
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 83,
+                "def": 265,
+                "hp": 4228,
+                "level": 36
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 84,
+                "def": 270,
+                "hp": 4303,
+                "level": 37
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 86,
+                "def": 275,
+                "hp": 4378,
+                "level": 38
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 87,
+                "def": 280,
+                "hp": 4454,
+                "level": 39
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 88,
+                "def": 284,
+                "hp": 4529,
+                "level": 40
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 99,
+                "def": 319,
+                "hp": 5089,
+                "level": 41
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 101,
+                "def": 324,
+                "hp": 5163,
+                "level": 42
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 102,
+                "def": 329,
+                "hp": 5239,
+                "level": 43
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 104,
+                "def": 333,
+                "hp": 5314,
+                "level": 44
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 105,
+                "def": 338,
+                "hp": 5389,
+                "level": 45
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 107,
+                "def": 343,
+                "hp": 5465,
+                "level": 46
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 108,
+                "def": 348,
+                "hp": 5540,
+                "level": 47
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 110,
+                "def": 352,
+                "hp": 5616,
+                "level": 48
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 111,
+                "def": 357,
+                "hp": 5690,
+                "level": 49
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 113,
+                "def": 362,
+                "hp": 5766,
+                "level": 50
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 127,
+                "def": 407,
+                "hp": 6486,
+                "level": 51
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 128,
+                "def": 412,
+                "hp": 6562,
+                "level": 52
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 130,
+                "def": 417,
+                "hp": 6637,
+                "level": 53
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 131,
+                "def": 421,
+                "hp": 6712,
+                "level": 54
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 133,
+                "def": 426,
+                "hp": 6788,
+                "level": 55
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 134,
+                "def": 431,
+                "hp": 6863,
+                "level": 56
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 136,
+                "def": 435,
+                "hp": 6938,
+                "level": 57
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 137,
+                "def": 440,
+                "hp": 7013,
+                "level": 58
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 138,
+                "def": 445,
+                "hp": 7089,
+                "level": 59
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 140,
+                "def": 450,
+                "hp": 7164,
+                "level": 60
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 151,
+                "def": 485,
+                "hp": 7723,
+                "level": 61
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 152,
+                "def": 489,
+                "hp": 7799,
+                "level": 62
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 154,
+                "def": 494,
+                "hp": 7874,
+                "level": 63
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 155,
+                "def": 499,
+                "hp": 7949,
+                "level": 64
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 157,
+                "def": 504,
+                "hp": 8024,
+                "level": 65
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 158,
+                "def": 508,
+                "hp": 8100,
+                "level": 66
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 160,
+                "def": 513,
+                "hp": 8175,
+                "level": 67
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 161,
+                "def": 518,
+                "hp": 8250,
+                "level": 68
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 163,
+                "def": 523,
+                "hp": 8326,
+                "level": 69
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 164,
+                "def": 527,
+                "hp": 8401,
+                "level": 70
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 175,
+                "def": 562,
+                "hp": 8960,
+                "level": 71
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 176,
+                "def": 567,
+                "hp": 9035,
+                "level": 72
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 178,
+                "def": 572,
+                "hp": 9111,
+                "level": 73
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 179,
+                "def": 577,
+                "hp": 9186,
+                "level": 74
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 181,
+                "def": 581,
+                "hp": 9261,
+                "level": 75
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 182,
+                "def": 586,
+                "hp": 9337,
+                "level": 76
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 184,
+                "def": 591,
+                "hp": 9412,
+                "level": 77
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 185,
+                "def": 595,
+                "hp": 9487,
+                "level": 78
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 187,
+                "def": 600,
+                "hp": 9562,
+                "level": 79
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 188,
+                "def": 605,
+                "hp": 9638,
+                "level": 80
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 199,
+                "def": 640,
+                "hp": 10197,
+                "level": 81
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 201,
+                "def": 645,
+                "hp": 10272,
+                "level": 82
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 202,
+                "def": 649,
+                "hp": 10348,
+                "level": 83
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 204,
+                "def": 654,
+                "hp": 10423,
+                "level": 84
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 205,
+                "def": 659,
+                "hp": 10498,
+                "level": 85
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 207,
+                "def": 664,
+                "hp": 10573,
+                "level": 86
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 208,
+                "def": 668,
+                "hp": 10649,
+                "level": 87
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 209,
+                "def": 673,
+                "hp": 10724,
+                "level": 88
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 211,
+                "def": 678,
+                "hp": 10799,
+                "level": 89
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 212,
+                "def": 683,
+                "hp": 10875,
+                "level": 90
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 239,
+                "def": 706,
+                "hp": 11251,
+                "level": 95
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 267,
+                "def": 730,
+                "hp": 11627,
+                "level": 100
+            }
+        ],
+        "birthday": "",
+        "constellation": "Viator",
+        "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+        "element": "",
+        "name": "Traveler",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_SWORD_ONE_HAND"
+    },
+    "passives": {
+        "p1": {
+            "description": "When the Traveler has over 20 Nightsoul points, the attack AoE of the Blazing and Scorching Thresholds from the Elemental Skill <color=#FFD780FF>Flowfire Blade</color> after they hit opponents is increased.",
+            "icon": "UI_Talent_S_PlayerFire_05",
+            "name": "True Flame of Incineration"
+        },
+        "p2": {
+            "description": "After the current active character inside a <color=#FFD780FF>Blazing Threshold</color> or <color=#FFD780FF>Scorching Threshold</color> triggers a <color=#FF9999FF>Pyro-related reaction</color>, the Traveler will regain 5 Energy. This can occur once every 12s. Additionally, when a nearby party member triggers a Nightsoul Burst, the Traveler will regain 4 Energy.",
+            "icon": "UI_Talent_S_PlayerFire_06",
+            "name": "Embers Unspent"
+        },
+        "p3": {
+            "description": "Draw new strength from journeys past. For every element you have resonated with, you gain additional {LINK#N10050001}<color=#FFD780FF>buffs</color>{/LINK}.\\n\\nAdditionally, when nearby party members trigger Nightsoul Burst, Traveler will receive 1 stack of Blade of the Sacred Flame, max 2 stacks. After obtaining 2 stacks of Blade of the Sacred Flame, performing a Charged Attack will consume all stacks of Blade of the Sacred Flame and transform into a special <color=#FFD780FF>Charged Attack: Inferno</color>.\\n\\n<color=#FFD780FF>Charged Attack: Inferno</color>\\n· Each Charged Attack hit deals increased, Nightsoul-aligned <color=#FF9999FF>Pyro DMG</color>. Increase in DMG is equal to 200% of Traveler's ATK.\\n· <color=#FFD780FF>Charged Attack: Inferno</color> can be triggered up to once every 15s.",
+            "icon": "UI_Talent_S_PlayerFire_07",
+            "name": "Foreign Starfire"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 5 rapid strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+            "icon": "Skill_A_01",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "44.46%",
+                    "48.08%",
+                    "51.7%",
+                    "56.87%",
+                    "60.49%",
+                    "64.63%",
+                    "70.31%",
+                    "76%",
+                    "81.69%",
+                    "87.89%",
+                    "94.09%",
+                    "100.3%",
+                    "106.5%",
+                    "112.71%",
+                    "118.91%"
+                ],
+                "2-Hit DMG": [
+                    "43.43%",
+                    "46.97%",
+                    "50.5%",
+                    "55.55%",
+                    "59.08%",
+                    "63.13%",
+                    "68.68%",
+                    "74.23%",
+                    "79.79%",
+                    "85.85%",
+                    "91.91%",
+                    "97.97%",
+                    "104.03%",
+                    "110.09%",
+                    "116.15%"
+                ],
+                "3-Hit DMG": [
+                    "52.98%",
+                    "57.29%",
+                    "61.6%",
+                    "67.76%",
+                    "72.07%",
+                    "77%",
+                    "83.78%",
+                    "90.55%",
+                    "97.33%",
+                    "104.72%",
+                    "112.11%",
+                    "119.5%",
+                    "126.9%",
+                    "134.29%",
+                    "141.68%"
+                ],
+                "4-Hit DMG": [
+                    "58.31%",
+                    "63.05%",
+                    "67.8%",
+                    "74.58%",
+                    "79.33%",
+                    "84.75%",
+                    "92.21%",
+                    "99.67%",
+                    "107.12%",
+                    "115.26%",
+                    "123.4%",
+                    "131.53%",
+                    "139.67%",
+                    "147.8%",
+                    "155.94%"
+                ],
+                "5-Hit DMG": [
+                    "70.78%",
+                    "76.54%",
+                    "82.3%",
+                    "90.53%",
+                    "96.29%",
+                    "102.87%",
+                    "111.93%",
+                    "120.98%",
+                    "130.03%",
+                    "139.91%",
+                    "149.79%",
+                    "159.66%",
+                    "169.54%",
+                    "179.41%",
+                    "189.29%"
+                ],
+                "Charged Attack DMG": [
+                    "55.9%+60.72%",
+                    "60.45%+65.66%",
+                    "65%+70.6%",
+                    "71.5%+77.66%",
+                    "76.05%+82.6%",
+                    "81.25%+88.25%",
+                    "88.4%+96.02%",
+                    "95.55%+103.78%",
+                    "102.7%+111.55%",
+                    "110.5%+120.02%",
+                    "118.3%+128.49%",
+                    "126.1%+136.96%",
+                    "133.9%+145.44%",
+                    "141.7%+153.91%",
+                    "149.5%+162.38%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20"
+                ],
+                "Low/High Plunge DMG": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Plunge DMG": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ]
+            },
+            "name": "Foreign Stream"
+        },
+        "elementalskill": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 5 rapid strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+            "icon": "Skill_A_01",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "44.46%",
+                    "48.08%",
+                    "51.7%",
+                    "56.87%",
+                    "60.49%",
+                    "64.63%",
+                    "70.31%",
+                    "76%",
+                    "81.69%",
+                    "87.89%",
+                    "94.09%",
+                    "100.3%",
+                    "106.5%",
+                    "112.71%",
+                    "118.91%"
+                ],
+                "2-Hit DMG": [
+                    "43.43%",
+                    "46.97%",
+                    "50.5%",
+                    "55.55%",
+                    "59.08%",
+                    "63.13%",
+                    "68.68%",
+                    "74.23%",
+                    "79.79%",
+                    "85.85%",
+                    "91.91%",
+                    "97.97%",
+                    "104.03%",
+                    "110.09%",
+                    "116.15%"
+                ],
+                "3-Hit DMG": [
+                    "52.98%",
+                    "57.29%",
+                    "61.6%",
+                    "67.76%",
+                    "72.07%",
+                    "77%",
+                    "83.78%",
+                    "90.55%",
+                    "97.33%",
+                    "104.72%",
+                    "112.11%",
+                    "119.5%",
+                    "126.9%",
+                    "134.29%",
+                    "141.68%"
+                ],
+                "4-Hit DMG": [
+                    "58.31%",
+                    "63.05%",
+                    "67.8%",
+                    "74.58%",
+                    "79.33%",
+                    "84.75%",
+                    "92.21%",
+                    "99.67%",
+                    "107.12%",
+                    "115.26%",
+                    "123.4%",
+                    "131.53%",
+                    "139.67%",
+                    "147.8%",
+                    "155.94%"
+                ],
+                "5-Hit DMG": [
+                    "70.78%",
+                    "76.54%",
+                    "82.3%",
+                    "90.53%",
+                    "96.29%",
+                    "102.87%",
+                    "111.93%",
+                    "120.98%",
+                    "130.03%",
+                    "139.91%",
+                    "149.79%",
+                    "159.66%",
+                    "169.54%",
+                    "179.41%",
+                    "189.29%"
+                ],
+                "Charged Attack DMG": [
+                    "55.9%+60.72%",
+                    "60.45%+65.66%",
+                    "65%+70.6%",
+                    "71.5%+77.66%",
+                    "76.05%+82.6%",
+                    "81.25%+88.25%",
+                    "88.4%+96.02%",
+                    "95.55%+103.78%",
+                    "102.7%+111.55%",
+                    "110.5%+120.02%",
+                    "118.3%+128.49%",
+                    "126.1%+136.96%",
+                    "133.9%+145.44%",
+                    "141.7%+153.91%",
+                    "149.5%+162.38%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20"
+                ],
+                "Low/High Plunge DMG": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Plunge DMG": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ]
+            },
+            "name": "Foreign Blaze"
+        },
+        "leveling": {
+            "books": {
+                "104301": 3,
+                "104302": 6,
+                "104303": 6,
+                "104305": 11,
+                "104306": 12,
+                "104308": 4,
+                "104309": 20,
+                "104320": 3,
+                "104321": 6,
+                "104322": 6,
+                "104324": 11,
+                "104325": 12,
+                "104327": 4,
+                "104328": 20,
+                "104329": 3,
+                "104330": 6,
+                "104331": 6,
+                "104333": 11,
+                "104334": 12,
+                "104336": 4,
+                "104337": 20,
+                "104338": 3,
+                "104339": 6,
+                "104340": 6,
+                "104342": 11,
+                "104343": 12,
+                "104345": 4,
+                "104346": 20,
+                "104347": 3,
+                "104348": 6,
+                "104349": 6,
+                "104351": 11,
+                "104352": 12,
+                "104354": 4,
+                "104355": 20
+            },
+            "crown": {
+                "104319": 5
+            },
+            "weekly": {
+                "113005": 6,
+                "113017": 6,
+                "113032": 6,
+                "113046": 6,
+                "113063": 4
+            },
+            "worldmonster": {
+                "112008": 6,
+                "112009": 22,
+                "112010": 31,
+                "112044": 6,
+                "112045": 22,
+                "112046": 31,
+                "112059": 6,
+                "112060": 22,
+                "112061": 31,
+                "112080": 6,
+                "112081": 22,
+                "112082": 31,
+                "112104": 6,
+                "112105": 22,
+                "112106": 31
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 5 rapid strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+            "icon": "Skill_A_01",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "44.46%",
+                    "48.08%",
+                    "51.7%",
+                    "56.87%",
+                    "60.49%",
+                    "64.63%",
+                    "70.31%",
+                    "76%",
+                    "81.69%",
+                    "87.89%",
+                    "94.09%",
+                    "100.3%",
+                    "106.5%",
+                    "112.71%",
+                    "118.91%"
+                ],
+                "2-Hit DMG": [
+                    "43.43%",
+                    "46.97%",
+                    "50.5%",
+                    "55.55%",
+                    "59.08%",
+                    "63.13%",
+                    "68.68%",
+                    "74.23%",
+                    "79.79%",
+                    "85.85%",
+                    "91.91%",
+                    "97.97%",
+                    "104.03%",
+                    "110.09%",
+                    "116.15%"
+                ],
+                "3-Hit DMG": [
+                    "52.98%",
+                    "57.29%",
+                    "61.6%",
+                    "67.76%",
+                    "72.07%",
+                    "77%",
+                    "83.78%",
+                    "90.55%",
+                    "97.33%",
+                    "104.72%",
+                    "112.11%",
+                    "119.5%",
+                    "126.9%",
+                    "134.29%",
+                    "141.68%"
+                ],
+                "4-Hit DMG": [
+                    "58.31%",
+                    "63.05%",
+                    "67.8%",
+                    "74.58%",
+                    "79.33%",
+                    "84.75%",
+                    "92.21%",
+                    "99.67%",
+                    "107.12%",
+                    "115.26%",
+                    "123.4%",
+                    "131.53%",
+                    "139.67%",
+                    "147.8%",
+                    "155.94%"
+                ],
+                "5-Hit DMG": [
+                    "70.78%",
+                    "76.54%",
+                    "82.3%",
+                    "90.53%",
+                    "96.29%",
+                    "102.87%",
+                    "111.93%",
+                    "120.98%",
+                    "130.03%",
+                    "139.91%",
+                    "149.79%",
+                    "159.66%",
+                    "169.54%",
+                    "179.41%",
+                    "189.29%"
+                ],
+                "Charged Attack DMG": [
+                    "55.9%+60.72%",
+                    "60.45%+65.66%",
+                    "65%+70.6%",
+                    "71.5%+77.66%",
+                    "76.05%+82.6%",
+                    "81.25%+88.25%",
+                    "88.4%+96.02%",
+                    "95.55%+103.78%",
+                    "102.7%+111.55%",
+                    "110.5%+120.02%",
+                    "118.3%+128.49%",
+                    "126.1%+136.96%",
+                    "133.9%+145.44%",
+                    "141.7%+153.91%",
+                    "149.5%+162.38%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20"
+                ],
+                "Low/High Plunge DMG": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Plunge DMG": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ]
+            },
+            "name": "Past Memories"
+        }
+    }
+}

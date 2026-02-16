@@ -1,0 +1,1748 @@
+{
+    "info": {
+        "name": "Venti",
+        "description": "Um dos muitos bardos de Mondstadt que vagueia livremente pelas ruas e becos da cidade.",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_BOW",
+        "birthday": "June 16th",
+        "element": "Anemo",
+        "constellation": "Carmen Dei",
+        "attributes": [
+            {
+                "level": 1,
+                "ascension": 0,
+                "hp": 820,
+                "atk": 20,
+                "def": 52,
+                "ER": "0"
+            },
+            {
+                "level": 2,
+                "ascension": 0,
+                "hp": 888,
+                "atk": 22,
+                "def": 56,
+                "ER": "0"
+            },
+            {
+                "level": 3,
+                "ascension": 0,
+                "hp": 956,
+                "atk": 24,
+                "def": 61,
+                "ER": "0"
+            },
+            {
+                "level": 4,
+                "ascension": 0,
+                "hp": 1025,
+                "atk": 26,
+                "def": 65,
+                "ER": "0"
+            },
+            {
+                "level": 5,
+                "ascension": 0,
+                "hp": 1093,
+                "atk": 27,
+                "def": 69,
+                "ER": "0"
+            },
+            {
+                "level": 6,
+                "ascension": 0,
+                "hp": 1162,
+                "atk": 29,
+                "def": 74,
+                "ER": "0"
+            },
+            {
+                "level": 7,
+                "ascension": 0,
+                "hp": 1230,
+                "atk": 31,
+                "def": 78,
+                "ER": "0"
+            },
+            {
+                "level": 8,
+                "ascension": 0,
+                "hp": 1299,
+                "atk": 32,
+                "def": 82,
+                "ER": "0"
+            },
+            {
+                "level": 9,
+                "ascension": 0,
+                "hp": 1368,
+                "atk": 34,
+                "def": 87,
+                "ER": "0"
+            },
+            {
+                "level": 10,
+                "ascension": 0,
+                "hp": 1436,
+                "atk": 36,
+                "def": 91,
+                "ER": "0"
+            },
+            {
+                "level": 11,
+                "ascension": 0,
+                "hp": 1504,
+                "atk": 38,
+                "def": 96,
+                "ER": "0"
+            },
+            {
+                "level": 12,
+                "ascension": 0,
+                "hp": 1573,
+                "atk": 39,
+                "def": 100,
+                "ER": "0"
+            },
+            {
+                "level": 13,
+                "ascension": 0,
+                "hp": 1642,
+                "atk": 41,
+                "def": 104,
+                "ER": "0"
+            },
+            {
+                "level": 14,
+                "ascension": 0,
+                "hp": 1712,
+                "atk": 43,
+                "def": 109,
+                "ER": "0"
+            },
+            {
+                "level": 15,
+                "ascension": 0,
+                "hp": 1781,
+                "atk": 44,
+                "def": 113,
+                "ER": "0"
+            },
+            {
+                "level": 16,
+                "ascension": 0,
+                "hp": 1850,
+                "atk": 46,
+                "def": 117,
+                "ER": "0"
+            },
+            {
+                "level": 17,
+                "ascension": 0,
+                "hp": 1919,
+                "atk": 48,
+                "def": 122,
+                "ER": "0"
+            },
+            {
+                "level": 18,
+                "ascension": 0,
+                "hp": 1988,
+                "atk": 50,
+                "def": 126,
+                "ER": "0"
+            },
+            {
+                "level": 19,
+                "ascension": 0,
+                "hp": 2058,
+                "atk": 51,
+                "def": 131,
+                "ER": "0"
+            },
+            {
+                "level": 20,
+                "ascension": 0,
+                "hp": 2127,
+                "atk": 53,
+                "def": 135,
+                "ER": "0"
+            },
+            {
+                "level": 21,
+                "ascension": 1,
+                "hp": 2899,
+                "atk": 72,
+                "def": 184,
+                "ER": "0"
+            },
+            {
+                "level": 22,
+                "ascension": 1,
+                "hp": 2969,
+                "atk": 74,
+                "def": 189,
+                "ER": "0"
+            },
+            {
+                "level": 23,
+                "ascension": 1,
+                "hp": 3039,
+                "atk": 76,
+                "def": 193,
+                "ER": "0"
+            },
+            {
+                "level": 24,
+                "ascension": 1,
+                "hp": 3108,
+                "atk": 78,
+                "def": 197,
+                "ER": "0"
+            },
+            {
+                "level": 25,
+                "ascension": 1,
+                "hp": 3178,
+                "atk": 79,
+                "def": 202,
+                "ER": "0"
+            },
+            {
+                "level": 26,
+                "ascension": 1,
+                "hp": 3249,
+                "atk": 81,
+                "def": 206,
+                "ER": "0"
+            },
+            {
+                "level": 27,
+                "ascension": 1,
+                "hp": 3318,
+                "atk": 83,
+                "def": 211,
+                "ER": "0"
+            },
+            {
+                "level": 28,
+                "ascension": 1,
+                "hp": 3388,
+                "atk": 85,
+                "def": 215,
+                "ER": "0"
+            },
+            {
+                "level": 29,
+                "ascension": 1,
+                "hp": 3458,
+                "atk": 86,
+                "def": 220,
+                "ER": "0"
+            },
+            {
+                "level": 30,
+                "ascension": 1,
+                "hp": 3528,
+                "atk": 88,
+                "def": 224,
+                "ER": "0"
+            },
+            {
+                "level": 31,
+                "ascension": 1,
+                "hp": 3599,
+                "atk": 90,
+                "def": 228,
+                "ER": "0"
+            },
+            {
+                "level": 32,
+                "ascension": 1,
+                "hp": 3669,
+                "atk": 92,
+                "def": 233,
+                "ER": "0"
+            },
+            {
+                "level": 33,
+                "ascension": 1,
+                "hp": 3740,
+                "atk": 93,
+                "def": 237,
+                "ER": "0"
+            },
+            {
+                "level": 34,
+                "ascension": 1,
+                "hp": 3809,
+                "atk": 95,
+                "def": 242,
+                "ER": "0"
+            },
+            {
+                "level": 35,
+                "ascension": 1,
+                "hp": 3880,
+                "atk": 97,
+                "def": 246,
+                "ER": "0"
+            },
+            {
+                "level": 36,
+                "ascension": 1,
+                "hp": 3951,
+                "atk": 99,
+                "def": 251,
+                "ER": "0"
+            },
+            {
+                "level": 37,
+                "ascension": 1,
+                "hp": 4022,
+                "atk": 100,
+                "def": 255,
+                "ER": "0"
+            },
+            {
+                "level": 38,
+                "ascension": 1,
+                "hp": 4092,
+                "atk": 102,
+                "def": 260,
+                "ER": "0"
+            },
+            {
+                "level": 39,
+                "ascension": 1,
+                "hp": 4163,
+                "atk": 104,
+                "def": 264,
+                "ER": "0"
+            },
+            {
+                "level": 40,
+                "ascension": 1,
+                "hp": 4234,
+                "atk": 106,
+                "def": 269,
+                "ER": "0"
+            },
+            {
+                "level": 41,
+                "ascension": 2,
+                "hp": 4804,
+                "atk": 120,
+                "def": 305,
+                "ER": "8"
+            },
+            {
+                "level": 42,
+                "ascension": 2,
+                "hp": 4875,
+                "atk": 122,
+                "def": 310,
+                "ER": "8"
+            },
+            {
+                "level": 43,
+                "ascension": 2,
+                "hp": 4947,
+                "atk": 124,
+                "def": 314,
+                "ER": "8"
+            },
+            {
+                "level": 44,
+                "ascension": 2,
+                "hp": 5017,
+                "atk": 125,
+                "def": 319,
+                "ER": "8"
+            },
+            {
+                "level": 45,
+                "ascension": 2,
+                "hp": 5089,
+                "atk": 127,
+                "def": 323,
+                "ER": "8"
+            },
+            {
+                "level": 46,
+                "ascension": 2,
+                "hp": 5160,
+                "atk": 129,
+                "def": 328,
+                "ER": "8"
+            },
+            {
+                "level": 47,
+                "ascension": 2,
+                "hp": 5231,
+                "atk": 131,
+                "def": 332,
+                "ER": "8"
+            },
+            {
+                "level": 48,
+                "ascension": 2,
+                "hp": 5303,
+                "atk": 132,
+                "def": 337,
+                "ER": "8"
+            },
+            {
+                "level": 49,
+                "ascension": 2,
+                "hp": 5375,
+                "atk": 134,
+                "def": 341,
+                "ER": "8"
+            },
+            {
+                "level": 50,
+                "ascension": 2,
+                "hp": 5446,
+                "atk": 136,
+                "def": 346,
+                "ER": "8"
+            },
+            {
+                "level": 51,
+                "ascension": 3,
+                "hp": 6183,
+                "atk": 154,
+                "def": 393,
+                "ER": "16"
+            },
+            {
+                "level": 52,
+                "ascension": 3,
+                "hp": 6255,
+                "atk": 156,
+                "def": 397,
+                "ER": "16"
+            },
+            {
+                "level": 53,
+                "ascension": 3,
+                "hp": 6327,
+                "atk": 158,
+                "def": 402,
+                "ER": "16"
+            },
+            {
+                "level": 54,
+                "ascension": 3,
+                "hp": 6399,
+                "atk": 160,
+                "def": 406,
+                "ER": "16"
+            },
+            {
+                "level": 55,
+                "ascension": 3,
+                "hp": 6471,
+                "atk": 162,
+                "def": 411,
+                "ER": "16"
+            },
+            {
+                "level": 56,
+                "ascension": 3,
+                "hp": 6543,
+                "atk": 163,
+                "def": 415,
+                "ER": "16"
+            },
+            {
+                "level": 57,
+                "ascension": 3,
+                "hp": 6615,
+                "atk": 165,
+                "def": 420,
+                "ER": "16"
+            },
+            {
+                "level": 58,
+                "ascension": 3,
+                "hp": 6687,
+                "atk": 167,
+                "def": 425,
+                "ER": "16"
+            },
+            {
+                "level": 59,
+                "ascension": 3,
+                "hp": 6760,
+                "atk": 169,
+                "def": 429,
+                "ER": "16"
+            },
+            {
+                "level": 60,
+                "ascension": 3,
+                "hp": 6832,
+                "atk": 171,
+                "def": 434,
+                "ER": "16"
+            },
+            {
+                "level": 61,
+                "ascension": 4,
+                "hp": 7403,
+                "atk": 185,
+                "def": 470,
+                "ER": "16"
+            },
+            {
+                "level": 62,
+                "ascension": 4,
+                "hp": 7476,
+                "atk": 187,
+                "def": 475,
+                "ER": "16"
+            },
+            {
+                "level": 63,
+                "ascension": 4,
+                "hp": 7549,
+                "atk": 189,
+                "def": 479,
+                "ER": "16"
+            },
+            {
+                "level": 64,
+                "ascension": 4,
+                "hp": 7621,
+                "atk": 190,
+                "def": 484,
+                "ER": "16"
+            },
+            {
+                "level": 65,
+                "ascension": 4,
+                "hp": 7694,
+                "atk": 192,
+                "def": 488,
+                "ER": "16"
+            },
+            {
+                "level": 66,
+                "ascension": 4,
+                "hp": 7767,
+                "atk": 194,
+                "def": 493,
+                "ER": "16"
+            },
+            {
+                "level": 67,
+                "ascension": 4,
+                "hp": 7839,
+                "atk": 196,
+                "def": 498,
+                "ER": "16"
+            },
+            {
+                "level": 68,
+                "ascension": 4,
+                "hp": 7912,
+                "atk": 198,
+                "def": 502,
+                "ER": "16"
+            },
+            {
+                "level": 69,
+                "ascension": 4,
+                "hp": 7985,
+                "atk": 199,
+                "def": 507,
+                "ER": "16"
+            },
+            {
+                "level": 70,
+                "ascension": 4,
+                "hp": 8058,
+                "atk": 201,
+                "def": 512,
+                "ER": "16"
+            },
+            {
+                "level": 71,
+                "ascension": 5,
+                "hp": 8630,
+                "atk": 216,
+                "def": 548,
+                "ER": "24"
+            },
+            {
+                "level": 72,
+                "ascension": 5,
+                "hp": 8704,
+                "atk": 217,
+                "def": 553,
+                "ER": "24"
+            },
+            {
+                "level": 73,
+                "ascension": 5,
+                "hp": 8777,
+                "atk": 219,
+                "def": 557,
+                "ER": "24"
+            },
+            {
+                "level": 74,
+                "ascension": 5,
+                "hp": 8850,
+                "atk": 221,
+                "def": 562,
+                "ER": "24"
+            },
+            {
+                "level": 75,
+                "ascension": 5,
+                "hp": 8924,
+                "atk": 223,
+                "def": 567,
+                "ER": "24"
+            },
+            {
+                "level": 76,
+                "ascension": 5,
+                "hp": 8997,
+                "atk": 225,
+                "def": 571,
+                "ER": "24"
+            },
+            {
+                "level": 77,
+                "ascension": 5,
+                "hp": 9070,
+                "atk": 227,
+                "def": 576,
+                "ER": "24"
+            },
+            {
+                "level": 78,
+                "ascension": 5,
+                "hp": 9144,
+                "atk": 228,
+                "def": 581,
+                "ER": "24"
+            },
+            {
+                "level": 79,
+                "ascension": 5,
+                "hp": 9218,
+                "atk": 230,
+                "def": 585,
+                "ER": "24"
+            },
+            {
+                "level": 80,
+                "ascension": 5,
+                "hp": 9292,
+                "atk": 232,
+                "def": 590,
+                "ER": "24"
+            },
+            {
+                "level": 81,
+                "ascension": 6,
+                "hp": 9865,
+                "atk": 246,
+                "def": 626,
+                "ER": "32"
+            },
+            {
+                "level": 82,
+                "ascension": 6,
+                "hp": 9939,
+                "atk": 248,
+                "def": 631,
+                "ER": "32"
+            },
+            {
+                "level": 83,
+                "ascension": 6,
+                "hp": 10013,
+                "atk": 250,
+                "def": 636,
+                "ER": "32"
+            },
+            {
+                "level": 84,
+                "ascension": 6,
+                "hp": 10086,
+                "atk": 252,
+                "def": 640,
+                "ER": "32"
+            },
+            {
+                "level": 85,
+                "ascension": 6,
+                "hp": 10160,
+                "atk": 254,
+                "def": 645,
+                "ER": "32"
+            },
+            {
+                "level": 86,
+                "ascension": 6,
+                "hp": 10235,
+                "atk": 256,
+                "def": 650,
+                "ER": "32"
+            },
+            {
+                "level": 87,
+                "ascension": 6,
+                "hp": 10308,
+                "atk": 258,
+                "def": 654,
+                "ER": "32"
+            },
+            {
+                "level": 88,
+                "ascension": 6,
+                "hp": 10383,
+                "atk": 259,
+                "def": 659,
+                "ER": "32"
+            },
+            {
+                "level": 89,
+                "ascension": 6,
+                "hp": 10458,
+                "atk": 261,
+                "def": 664,
+                "ER": "32"
+            },
+            {
+                "level": 90,
+                "ascension": 6,
+                "hp": 10531,
+                "atk": 263,
+                "def": 669,
+                "ER": "32"
+            },
+            {
+                "level": 95,
+                "ascension": 6,
+                "hp": 10905,
+                "atk": 293,
+                "def": 692,
+                "ER": "32"
+            },
+            {
+                "level": 100,
+                "ascension": 6,
+                "hp": 11280,
+                "atk": 322,
+                "def": 716,
+                "ER": "32"
+            }
+        ]
+    },
+    "icons": {
+        "forward": "UI_AvatarIcon_Venti",
+        "coop_img": "UI_CoopImg_Venti"
+    },
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100023": 168
+        },
+        "elemental": {
+            "104151": 1,
+            "104152": 9,
+            "104153": 9,
+            "104154": 6
+        },
+        "worldmonster": {
+            "112002": 18,
+            "112003": 30,
+            "112004": 36
+        },
+        "elitemonster": {
+            "113001": 46
+        }
+    },
+    "skills": {
+        "normalattack": {
+            "name": "Tiro com Arco Divino",
+            "icon": "Skill_A_02",
+            "multipliers": {
+                "Dano do 1° Golpe": [
+                    "20.38%+20.38%",
+                    "22.04%+22.04%",
+                    "23.7%+23.7%",
+                    "26.07%+26.07%",
+                    "27.73%+27.73%",
+                    "29.62%+29.62%",
+                    "32.23%+32.23%",
+                    "34.84%+34.84%",
+                    "37.45%+37.45%",
+                    "40.29%+40.29%",
+                    "43.55%+43.55%",
+                    "47.38%+47.38%",
+                    "51.21%+51.21%",
+                    "55.05%+55.05%",
+                    "59.23%+59.23%"
+                ],
+                "Dano do 2° Golpe": [
+                    "44.38%",
+                    "47.99%",
+                    "51.6%",
+                    "56.76%",
+                    "60.37%",
+                    "64.5%",
+                    "70.18%",
+                    "75.85%",
+                    "81.53%",
+                    "87.72%",
+                    "94.81%",
+                    "103.16%",
+                    "111.5%",
+                    "119.85%",
+                    "128.95%"
+                ],
+                "Dano do 3° Golpe": [
+                    "52.37%",
+                    "56.64%",
+                    "60.9%",
+                    "66.99%",
+                    "71.25%",
+                    "76.13%",
+                    "82.82%",
+                    "89.52%",
+                    "96.22%",
+                    "103.53%",
+                    "111.9%",
+                    "121.75%",
+                    "131.6%",
+                    "141.45%",
+                    "152.19%"
+                ],
+                "Dano do 4° Golpe": [
+                    "26.06%+26.06%",
+                    "28.18%+28.18%",
+                    "30.3%+30.3%",
+                    "33.33%+33.33%",
+                    "35.45%+35.45%",
+                    "37.87%+37.87%",
+                    "41.21%+41.21%",
+                    "44.54%+44.54%",
+                    "47.87%+47.87%",
+                    "51.51%+51.51%",
+                    "55.68%+55.68%",
+                    "60.58%+60.58%",
+                    "65.48%+65.48%",
+                    "70.37%+70.37%",
+                    "75.72%+75.72%"
+                ],
+                "Dano do 5° Golpe": [
+                    "50.65%",
+                    "54.78%",
+                    "58.9%",
+                    "64.79%",
+                    "68.91%",
+                    "73.62%",
+                    "80.1%",
+                    "86.58%",
+                    "93.06%",
+                    "100.13%",
+                    "108.23%",
+                    "117.75%",
+                    "127.28%",
+                    "136.8%",
+                    "147.19%"
+                ],
+                "Dano do 6° Golpe": [
+                    "70.95%",
+                    "76.73%",
+                    "82.5%",
+                    "90.75%",
+                    "96.53%",
+                    "103.12%",
+                    "112.2%",
+                    "121.27%",
+                    "130.35%",
+                    "140.25%",
+                    "151.59%",
+                    "164.93%",
+                    "178.27%",
+                    "191.61%",
+                    "206.17%"
+                ],
+                "Disparo com Mira": [
+                    "43.86%",
+                    "47.43%",
+                    "51%",
+                    "56.1%",
+                    "59.67%",
+                    "63.75%",
+                    "69.36%",
+                    "74.97%",
+                    "80.58%",
+                    "86.7%",
+                    "93.71%",
+                    "101.96%",
+                    "110.21%",
+                    "118.45%",
+                    "127.45%"
+                ],
+                "Disparo com Mira com Energização Completa": [
+                    "124%",
+                    "133.3%",
+                    "142.6%",
+                    "155%",
+                    "164.3%",
+                    "173.6%",
+                    "186%",
+                    "198.4%",
+                    "210.8%",
+                    "223.2%",
+                    "236.1%",
+                    "252.96%",
+                    "269.82%",
+                    "286.69%",
+                    "303.55%"
+                ],
+                "Dano Durante a Queda": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "Dano da Flecha Furacão": [
+                    "160% de Dano de Ataque Normal",
+                    "170% de Dano de Ataque Normal",
+                    "180% de Dano de Ataque Normal",
+                    "190% de Dano de Ataque Normal",
+                    "200% de Dano de Ataque Normal",
+                    "210% de Dano de Ataque Normal",
+                    "220% de Dano de Ataque Normal",
+                    "230% de Dano de Ataque Normal",
+                    "240% de Dano de Ataque Normal",
+                    "250% de Dano de Ataque Normal",
+                    "260% de Dano de Ataque Normal",
+                    "270% de Dano de Ataque Normal",
+                    "280% de Dano de Ataque Normal",
+                    "290% de Dano de Ataque Normal",
+                    "300% de Dano de Ataque Normal"
+                ]
+            },
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 6 tiros consecutivos com o arco.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nRealiza um <color=#FFD780FF>Tiro com Mira</color> mais preciso com Dano aumentado.\\nEnquanto estiver mirando, ventos favoráveis irão se acumular na ponta da flecha. Uma flecha completamente carregada com o vento irá infligir <color=#80FFD7FF>Dano Anemo</color>.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nDispara uma chuva de flechas em pleno ar antes de atingir o chão, infligindo Dano em uma AdE durante o impacto."
+        },
+        "elementalskill": {
+            "name": "Sonata Celestial",
+            "icon": "Skill_S_Venti_01",
+            "multipliers": {
+                "Dano de Toque": [
+                    "276%",
+                    "296.7%",
+                    "317.4%",
+                    "345%",
+                    "365.7%",
+                    "386.4%",
+                    "414%",
+                    "441.6%",
+                    "469.2%",
+                    "496.8%",
+                    "524.4%",
+                    "552%",
+                    "586.5%",
+                    "621%",
+                    "655.5%"
+                ],
+                "Recarga de Toque": [
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s"
+                ],
+                "Dano ao Manter Pressionado": [
+                    "380%",
+                    "408.5%",
+                    "437%",
+                    "475%",
+                    "503.5%",
+                    "532%",
+                    "570%",
+                    "608%",
+                    "646%",
+                    "684%",
+                    "722%",
+                    "760%",
+                    "807.5%",
+                    "855%",
+                    "902.5%"
+                ],
+                "Recarga ao Manter Pressionado": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ]
+            },
+            "description": "Ó vento no qual voam todos os hinos e canções pelo ar, leve estes peregrinos terrestres aos céus!\\n\\n<color=#FFD780FF>Pressionar</color>\\nEvoca um Domínio dos Ventos na localização do inimigo, causando <color=#80FFD7FF>Dano Anemo em uma AdE</color> e lançando inimigos pelo ar.\\n\\n<color=#FFD780FF>Manter pressionado</color>\\nEvoca um Domínio dos Ventos ainda maior com um Venti em seu centro, causando <color=#80FFD7FF>Dano Anemo em AdE</color> e lançando inimigos afetados pelo ar.\\nApós liberar a versão de Manter Pressionado dessa habilidade, Venti monta o vento pelo ar.\\n\\nInimigos atingidos pelo Soneto dos Céus cairão lentamente ao chão.\\n\\n<i>Nos dias em que deuses e homens andaram na terra juntos, os céus eram cheios de infinitas canções. Essa melodia foi esquecida há muito tempo.</i>"
+        },
+        "elementalburst": {
+            "name": "Grande Ode do Vento",
+            "icon": "Skill_E_Venti_01",
+            "multipliers": {
+                "Dano de Contínuo": [
+                    "37.6%",
+                    "40.42%",
+                    "43.24%",
+                    "47%",
+                    "49.82%",
+                    "52.64%",
+                    "56.4%",
+                    "60.16%",
+                    "63.92%",
+                    "67.68%",
+                    "71.44%",
+                    "75.2%",
+                    "79.9%",
+                    "84.6%",
+                    "89.3%"
+                ],
+                "Adição de Dano Elemental": [
+                    "18.8%",
+                    "20.21%",
+                    "21.62%",
+                    "23.5%",
+                    "24.91%",
+                    "26.32%",
+                    "28.2%",
+                    "30.08%",
+                    "31.96%",
+                    "33.84%",
+                    "35.72%",
+                    "37.6%",
+                    "39.95%",
+                    "42.3%",
+                    "44.65%"
+                ],
+                "Duração": [
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8"
+                ],
+                "Tempo de Recarga": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Energia Elemental": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ]
+            },
+            "description": "Dispara uma flecha energizada com vento, criando um grande Olho da Tempestade que suga inimigos, causando <color=#80FFD7FF>Dano Anemo</color> contínuo.\\n\\n<color=#FFD780FF>Absorção Elemental</color>\\nSe o Olho da Tempestade entrar em contato com os elementos <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color>, causará Dano elemental adicional daquele tipo.\\nA Absorção Elemental pode ocorrer uma vez a cada uso.\\n\\n<i>Muitos hinos escritos para elogiar o Arconte Anemo não existem mais. Essa é a sua compreensão do vento.</i>"
+        },
+        "leveling": {
+            "books": {
+                "104307": 9,
+                "104308": 63,
+                "104309": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "worldmonster": {
+                "112002": 18,
+                "112003": 66,
+                "112004": 93
+            },
+            "weekly": {
+                "113006": 18
+            }
+        }
+    },
+    "passives": {
+        "p1": {
+            "name": "Abrace os Ventos",
+            "description": "Ao manter pressionado a <color=#FFD780FF>Sonata Celestial</color> cria uma corrente de vento que dura por 20s.",
+            "icon": "UI_Talent_S_Venti_05"
+        },
+        "p2": {
+            "name": "Olho da Tempestade",
+            "description": "Regenera 15 de Energia para Venti após o efeito do <color=#FFD780FF>Grande Ode do Vento</color> terminar.\\nSe ocorrer uma Absorção Elemental, também irá restaurar 15 de Energia a todos os personagens da equipe do elemento correspondente.",
+            "icon": "UI_Talent_S_Venti_06"
+        },
+        "p3": {
+            "name": "Viajante do Vento",
+            "description": "Diminui o consumo de Stamina ao Planar de todos os seus personagens em 20%.\\nNão acumulável com Talentos Passivos que concedem exatamente os mesmos efeitos.",
+            "icon": "UI_Talent_Explosion_Glide"
+        },
+        "p4": {
+            "name": "Presente da Noite da Bruxa: Ode ao Vento",
+            "description": "Depois de completar <color=#FFD780FF>Tarefa da Bruxa: No Despertar do Vento</color>, Venti se tornará um personagem <color=#FFD780FF>Mágico</color>. Quando a equipe possuir pelo menos 2 personagens Mágicos, obterá o efeito <color=#FFD780FF>Mágico: Ritual Secreto</color>, fortalecendo os personagens Mágicos.\\n\\n<color=#FFD780FF>Mágico: Ritual Secreto</color>\\nEnquanto o Olho da Tempestade criado pelo Supremo <color=#FFD780FF>Grande Ode do Vento</color> existir, e nos 4s após o personagem ativo causar Redemoinho, aumentará o Dano desse personagem em 50% e o Dano do Olho da Tempestade de Venti em 135% de seu valor original.",
+            "icon": "UI_Talent_S_Venti_07"
+        }
+    },
+    "constellations": {
+        "const1": {
+            "name": "Vento Dividido",
+            "description": "Dispara 2 flechas adicionais por cada <color=#FFD780FF>Disparo com Mira</color>, cada flecha causa 33% do Dano original da flecha.",
+            "icon": "UI_Talent_S_Venti_01"
+        },
+        "const2": {
+            "name": "Brisa da Reminiscência",
+            "description": "<color=#FFD780FF>Sonata Celestial</color> diminui a <color=#80FFD7FF>RES Anemo</color> e RES Física do inimigo em 12% por 10s.\\nOs inimigos lançados pela <color=#FFD780FF>Sonata Celestial</color> sofrem uma penalidade adicional de <color=#80FFD7FF>RES Anemo</color> de 12% e RES física quando estiverem no ar.",
+            "icon": "UI_Talent_S_Venti_02"
+        },
+        "const3": {
+            "name": "Ode aos Ventos Milenares",
+            "description": "Aumenta o nível do <color=#FFD780FF>Grande Ode do Vento</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Venti_02"
+        },
+        "const4": {
+            "name": "Furacão da Liberdade",
+            "description": "Quando Venti obtém um Orbe ou uma Partícula Elemental, ele recebe 25% de <color=#80FFD7FF>Dano Anemo Bônus</color> por 10s.",
+            "icon": "UI_Talent_S_Venti_03"
+        },
+        "const5": {
+            "name": "Concerto Celestial",
+            "description": "Aumenta o nível da <color=#FFD780FF>Sonata Celestial</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Venti_01"
+        },
+        "const6": {
+            "name": "Tempestade do Desafio",
+            "description": "Alvos que levarem Dano da <color=#FFD780FF>Grande Ode do Vento</color> terão sua <color=#80FFD7FF>RES Anemo</color> reduzida em 20%.\\nSe uma Absorção Elemental ocorrer, então sua RES ao Elemento correspondente também é reduzida em 20%.",
+            "icon": "UI_Talent_S_Venti_04"
+        }
+    },
+    "energy": [
+        {
+            "source": "WindBladeElementBall_Base",
+            "particles": "4",
+            "chance": "100%",
+            "cd": "Instant"
+        },
+        {
+            "source": "WindBladeLand_ElementBall_Base",
+            "particles": "3",
+            "chance": "100%",
+            "cd": "Instant"
+        }
+    ],
+    "attacks": [
+        {
+            "name": "ShootArrow_Enchanted_Wind",
+            "icd_source": "Grp: Venti (Tag Miss)",
+            "icd_rule": "3 hits / 1s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Wind"
+        },
+        {
+            "name": "ShootArrow_Enchanted_WithoutWind",
+            "icd_source": "Grp: Venti (Tag Miss)",
+            "icd_rule": "3 hits / 1s",
+            "gauge": "4U",
+            "poise": "LV2/10",
+            "element": "-"
+        },
+        {
+            "name": "WindBlade_FX",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "2U",
+            "poise": "LV7/150",
+            "element": "Wind"
+        },
+        {
+            "name": "WindBlade_FX_Land",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "2U",
+            "poise": "LV7/150",
+            "element": "Wind"
+        },
+        {
+            "name": "WindBlade_FX_Land",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "2U",
+            "poise": "LV7/150",
+            "element": "Wind"
+        },
+        {
+            "name": "Hurricane_FX",
+            "icd_source": "Grp: Venti (Tag Miss)",
+            "icd_rule": "3 hits / 1s",
+            "gauge": "1U",
+            "poise": "LV2/4",
+            "element": "Wind"
+        },
+        {
+            "name": "Hurricane_FX",
+            "icd_source": "Grp: Venti (Tag Miss)",
+            "icd_rule": "3 hits / 1s",
+            "gauge": "1U",
+            "poise": "LV2/4",
+            "element": "Wind"
+        },
+        {
+            "name": "Hurricane_Mix",
+            "icd_source": "Tag: Hurricane_Mix_Detect (!)",
+            "icd_rule": "Independent",
+            "gauge": "0.0U",
+            "poise": "-/0",
+            "element": "AntiFire"
+        },
+        {
+            "name": "Hurricane_Mix",
+            "icd_source": "Grp: Venti (Tag Miss)",
+            "icd_rule": "3 hits / 1s",
+            "gauge": "1U",
+            "poise": "-/0",
+            "element": "Electric"
+        },
+        {
+            "name": "Hurricane_Mix",
+            "icd_source": "Grp: Venti (Tag Miss)",
+            "icd_rule": "3 hits / 1s",
+            "gauge": "1U",
+            "poise": "-/0",
+            "element": "Electric"
+        },
+        {
+            "name": "Hurricane_Mix",
+            "icd_source": "Grp: Venti (Tag Miss)",
+            "icd_rule": "3 hits / 1s",
+            "gauge": "1U",
+            "poise": "-/0",
+            "element": "Fire"
+        },
+        {
+            "name": "Hurricane_Mix",
+            "icd_source": "Grp: Venti (Tag Miss)",
+            "icd_rule": "3 hits / 1s",
+            "gauge": "1U",
+            "poise": "-/0",
+            "element": "Fire"
+        },
+        {
+            "name": "Hurricane_Mix",
+            "icd_source": "Grp: Venti (Tag Miss)",
+            "icd_rule": "3 hits / 1s",
+            "gauge": "1U",
+            "poise": "-/0",
+            "element": "Ice"
+        },
+        {
+            "name": "Hurricane_Mix",
+            "icd_source": "Grp: Venti (Tag Miss)",
+            "icd_rule": "3 hits / 1s",
+            "gauge": "1U",
+            "poise": "-/0",
+            "element": "Ice"
+        },
+        {
+            "name": "Hurricane_Mix",
+            "icd_source": "Grp: Venti (Tag Miss)",
+            "icd_rule": "3 hits / 1s",
+            "gauge": "1U",
+            "poise": "-/0",
+            "element": "Water"
+        },
+        {
+            "name": "Hurricane_Mix",
+            "icd_source": "Grp: Venti (Tag Miss)",
+            "icd_rule": "3 hits / 1s",
+            "gauge": "1U",
+            "poise": "-/0",
+            "element": "Water"
+        },
+        {
+            "name": "Talnet_ShootArrow_Enchanted_Wind",
+            "icd_source": "Grp: Venti (Tag Miss)",
+            "icd_rule": "3 hits / 1s",
+            "gauge": "1U",
+            "poise": "LV2/2",
+            "element": "Wind"
+        },
+        {
+            "name": "Talnet_ShootArrow_Enchanted_WithoutWind",
+            "icd_source": "Grp: Venti (Tag Miss)",
+            "icd_rule": "3 hits / 1s",
+            "gauge": "4U",
+            "poise": "LV2/1",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/10",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/50",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/100",
+            "element": "-"
+        },
+        {
+            "name": "Bullet_HexenzirkelArrow_Burst_01",
+            "icd_source": "Tag: Hexenzirkel_NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/6",
+            "element": "Wind"
+        },
+        {
+            "name": "Bullet_HexenzirkelArrow_Burst_02",
+            "icd_source": "Tag: Hexenzirkel_NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/13",
+            "element": "Wind"
+        },
+        {
+            "name": "Bullet_HexenzirkelArrow_Burst_03",
+            "icd_source": "Tag: Hexenzirkel_NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/15",
+            "element": "Wind"
+        },
+        {
+            "name": "Bullet_HexenzirkelArrow_Burst_04",
+            "icd_source": "Tag: Hexenzirkel_NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/7",
+            "element": "Wind"
+        },
+        {
+            "name": "Bullet_HexenzirkelArrow_Burst_05",
+            "icd_source": "Tag: Hexenzirkel_NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/15",
+            "element": "Wind"
+        },
+        {
+            "name": "Bullet_HexenzirkelArrow_Burst_06",
+            "icd_source": "Tag: Hexenzirkel_NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Wind"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Wind"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Wind"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Wind"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Wind"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Wind"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Wind"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow_Fire",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Fire"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow_Fire",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Fire"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow_Fire",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Fire"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow_Fire",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Fire"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow_Fire",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Fire"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow_Fire",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Fire"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow_Electric",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Electric"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow_Electric",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Electric"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow_Electric",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Electric"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow_Electric",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Electric"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow_Electric",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Electric"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow_Electric",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Electric"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow_Water",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Water"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow_Water",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Water"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow_Water",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Water"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow_Water",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Water"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow_Water",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Water"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow_Water",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Water"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow_Ice",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Ice"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow_Ice",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Ice"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow_Ice",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Ice"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow_Ice",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Ice"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow_Ice",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Ice"
+        },
+        {
+            "name": "Bullet_Constellation01_Arrow_Ice",
+            "icd_source": "Grp: Venti_Hexenzirkel_Constellation01 (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Ice"
+        },
+        {
+            "name": "HexenzirkelSkill",
+            "icd_source": "Grp: Venti (Tag Miss)",
+            "icd_rule": "3 hits / 1s",
+            "gauge": "1U",
+            "poise": "-/0",
+            "element": "Electric"
+        },
+        {
+            "name": "HexenzirkelSkill",
+            "icd_source": "Grp: Venti (Tag Miss)",
+            "icd_rule": "3 hits / 1s",
+            "gauge": "1U",
+            "poise": "-/0",
+            "element": "Electric"
+        },
+        {
+            "name": "HexenzirkelSkill",
+            "icd_source": "Grp: Venti (Tag Miss)",
+            "icd_rule": "3 hits / 1s",
+            "gauge": "1U",
+            "poise": "-/0",
+            "element": "Fire"
+        },
+        {
+            "name": "HexenzirkelSkill",
+            "icd_source": "Grp: Venti (Tag Miss)",
+            "icd_rule": "3 hits / 1s",
+            "gauge": "1U",
+            "poise": "-/0",
+            "element": "Fire"
+        },
+        {
+            "name": "HexenzirkelSkill",
+            "icd_source": "Grp: Venti (Tag Miss)",
+            "icd_rule": "3 hits / 1s",
+            "gauge": "1U",
+            "poise": "-/0",
+            "element": "Ice"
+        },
+        {
+            "name": "HexenzirkelSkill",
+            "icd_source": "Grp: Venti (Tag Miss)",
+            "icd_rule": "3 hits / 1s",
+            "gauge": "1U",
+            "poise": "-/0",
+            "element": "Ice"
+        },
+        {
+            "name": "HexenzirkelSkill",
+            "icd_source": "Grp: Venti (Tag Miss)",
+            "icd_rule": "3 hits / 1s",
+            "gauge": "1U",
+            "poise": "-/0",
+            "element": "Water"
+        },
+        {
+            "name": "HexenzirkelSkill",
+            "icd_source": "Grp: Venti (Tag Miss)",
+            "icd_rule": "3 hits / 1s",
+            "gauge": "1U",
+            "poise": "-/0",
+            "element": "Water"
+        }
+    ]
+}

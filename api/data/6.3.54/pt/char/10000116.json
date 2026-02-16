@@ -1,0 +1,1273 @@
+{
+    "info": {
+        "name": "Ineffa",
+        "description": "Um robô multifuncional que contém componentes mecânicos de várias nações. O Núcleo da Fonte em seu peito persistiu a passagem de incontáveis anos.",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_POLE",
+        "birthday": "April 2nd",
+        "element": "Electro",
+        "constellation": "Vanilla Planifolia",
+        "attributes": [
+            {
+                "level": 1,
+                "ascension": 0,
+                "hp": 982,
+                "atk": 26,
+                "def": 64,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 2,
+                "ascension": 0,
+                "hp": 1063,
+                "atk": 28,
+                "def": 70,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 3,
+                "ascension": 0,
+                "hp": 1145,
+                "atk": 30,
+                "def": 75,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 4,
+                "ascension": 0,
+                "hp": 1227,
+                "atk": 32,
+                "def": 81,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 5,
+                "ascension": 0,
+                "hp": 1309,
+                "atk": 34,
+                "def": 86,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 6,
+                "ascension": 0,
+                "hp": 1391,
+                "atk": 36,
+                "def": 91,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 7,
+                "ascension": 0,
+                "hp": 1473,
+                "atk": 39,
+                "def": 97,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 8,
+                "ascension": 0,
+                "hp": 1555,
+                "atk": 41,
+                "def": 102,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 9,
+                "ascension": 0,
+                "hp": 1638,
+                "atk": 43,
+                "def": 107,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 10,
+                "ascension": 0,
+                "hp": 1719,
+                "atk": 45,
+                "def": 113,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 11,
+                "ascension": 0,
+                "hp": 1802,
+                "atk": 47,
+                "def": 118,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 12,
+                "ascension": 0,
+                "hp": 1884,
+                "atk": 49,
+                "def": 124,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 13,
+                "ascension": 0,
+                "hp": 1967,
+                "atk": 51,
+                "def": 129,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 14,
+                "ascension": 0,
+                "hp": 2050,
+                "atk": 54,
+                "def": 135,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 15,
+                "ascension": 0,
+                "hp": 2133,
+                "atk": 56,
+                "def": 140,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 16,
+                "ascension": 0,
+                "hp": 2215,
+                "atk": 58,
+                "def": 145,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 17,
+                "ascension": 0,
+                "hp": 2299,
+                "atk": 60,
+                "def": 151,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 18,
+                "ascension": 0,
+                "hp": 2381,
+                "atk": 62,
+                "def": 156,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 19,
+                "ascension": 0,
+                "hp": 2465,
+                "atk": 64,
+                "def": 162,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 20,
+                "ascension": 0,
+                "hp": 2547,
+                "atk": 67,
+                "def": 167,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 21,
+                "ascension": 1,
+                "hp": 3472,
+                "atk": 91,
+                "def": 228,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 22,
+                "ascension": 1,
+                "hp": 3556,
+                "atk": 93,
+                "def": 233,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 23,
+                "ascension": 1,
+                "hp": 3639,
+                "atk": 95,
+                "def": 239,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 24,
+                "ascension": 1,
+                "hp": 3723,
+                "atk": 97,
+                "def": 244,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 25,
+                "ascension": 1,
+                "hp": 3806,
+                "atk": 100,
+                "def": 250,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 26,
+                "ascension": 1,
+                "hp": 3891,
+                "atk": 102,
+                "def": 255,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 27,
+                "ascension": 1,
+                "hp": 3974,
+                "atk": 104,
+                "def": 261,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 28,
+                "ascension": 1,
+                "hp": 4058,
+                "atk": 106,
+                "def": 266,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 29,
+                "ascension": 1,
+                "hp": 4142,
+                "atk": 108,
+                "def": 272,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 30,
+                "ascension": 1,
+                "hp": 4226,
+                "atk": 111,
+                "def": 277,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 31,
+                "ascension": 1,
+                "hp": 4310,
+                "atk": 113,
+                "def": 283,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 32,
+                "ascension": 1,
+                "hp": 4394,
+                "atk": 115,
+                "def": 288,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 33,
+                "ascension": 1,
+                "hp": 4479,
+                "atk": 117,
+                "def": 294,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 34,
+                "ascension": 1,
+                "hp": 4562,
+                "atk": 119,
+                "def": 299,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 35,
+                "ascension": 1,
+                "hp": 4647,
+                "atk": 122,
+                "def": 305,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 36,
+                "ascension": 1,
+                "hp": 4732,
+                "atk": 124,
+                "def": 311,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 37,
+                "ascension": 1,
+                "hp": 4817,
+                "atk": 126,
+                "def": 316,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 38,
+                "ascension": 1,
+                "hp": 4901,
+                "atk": 128,
+                "def": 322,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 39,
+                "ascension": 1,
+                "hp": 4986,
+                "atk": 130,
+                "def": 327,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 40,
+                "ascension": 1,
+                "hp": 5071,
+                "atk": 133,
+                "def": 333,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 41,
+                "ascension": 2,
+                "hp": 5754,
+                "atk": 151,
+                "def": 378,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 42,
+                "ascension": 2,
+                "hp": 5839,
+                "atk": 153,
+                "def": 383,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 43,
+                "ascension": 2,
+                "hp": 5925,
+                "atk": 155,
+                "def": 389,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 44,
+                "ascension": 2,
+                "hp": 6009,
+                "atk": 157,
+                "def": 394,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 45,
+                "ascension": 2,
+                "hp": 6094,
+                "atk": 159,
+                "def": 400,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 46,
+                "ascension": 2,
+                "hp": 6180,
+                "atk": 162,
+                "def": 406,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 47,
+                "ascension": 2,
+                "hp": 6265,
+                "atk": 164,
+                "def": 411,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 48,
+                "ascension": 2,
+                "hp": 6351,
+                "atk": 166,
+                "def": 417,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 49,
+                "ascension": 2,
+                "hp": 6437,
+                "atk": 168,
+                "def": 422,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 50,
+                "ascension": 2,
+                "hp": 6523,
+                "atk": 171,
+                "def": 428,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 51,
+                "ascension": 3,
+                "hp": 7406,
+                "atk": 194,
+                "def": 486,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 52,
+                "ascension": 3,
+                "hp": 7492,
+                "atk": 196,
+                "def": 492,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 53,
+                "ascension": 3,
+                "hp": 7577,
+                "atk": 198,
+                "def": 497,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 54,
+                "ascension": 3,
+                "hp": 7664,
+                "atk": 201,
+                "def": 503,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 55,
+                "ascension": 3,
+                "hp": 7750,
+                "atk": 203,
+                "def": 509,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 56,
+                "ascension": 3,
+                "hp": 7837,
+                "atk": 205,
+                "def": 514,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 57,
+                "ascension": 3,
+                "hp": 7923,
+                "atk": 207,
+                "def": 520,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 58,
+                "ascension": 3,
+                "hp": 8009,
+                "atk": 210,
+                "def": 526,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 59,
+                "ascension": 3,
+                "hp": 8096,
+                "atk": 212,
+                "def": 531,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 60,
+                "ascension": 3,
+                "hp": 8182,
+                "atk": 214,
+                "def": 537,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 61,
+                "ascension": 4,
+                "hp": 8867,
+                "atk": 232,
+                "def": 582,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 62,
+                "ascension": 4,
+                "hp": 8953,
+                "atk": 234,
+                "def": 588,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 63,
+                "ascension": 4,
+                "hp": 9041,
+                "atk": 237,
+                "def": 593,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 64,
+                "ascension": 4,
+                "hp": 9127,
+                "atk": 239,
+                "def": 599,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 65,
+                "ascension": 4,
+                "hp": 9214,
+                "atk": 241,
+                "def": 605,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 66,
+                "ascension": 4,
+                "hp": 9302,
+                "atk": 243,
+                "def": 610,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 67,
+                "ascension": 4,
+                "hp": 9388,
+                "atk": 246,
+                "def": 616,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 68,
+                "ascension": 4,
+                "hp": 9476,
+                "atk": 248,
+                "def": 622,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 69,
+                "ascension": 4,
+                "hp": 9563,
+                "atk": 250,
+                "def": 628,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 70,
+                "ascension": 4,
+                "hp": 9650,
+                "atk": 253,
+                "def": 633,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 71,
+                "ascension": 5,
+                "hp": 10336,
+                "atk": 270,
+                "def": 678,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 72,
+                "ascension": 5,
+                "hp": 10424,
+                "atk": 273,
+                "def": 684,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 73,
+                "ascension": 5,
+                "hp": 10512,
+                "atk": 275,
+                "def": 690,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 74,
+                "ascension": 5,
+                "hp": 10599,
+                "atk": 277,
+                "def": 696,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 75,
+                "ascension": 5,
+                "hp": 10688,
+                "atk": 280,
+                "def": 701,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 76,
+                "ascension": 5,
+                "hp": 10775,
+                "atk": 282,
+                "def": 707,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 77,
+                "ascension": 5,
+                "hp": 10863,
+                "atk": 284,
+                "def": 713,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 78,
+                "ascension": 5,
+                "hp": 10952,
+                "atk": 287,
+                "def": 719,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 79,
+                "ascension": 5,
+                "hp": 11040,
+                "atk": 289,
+                "def": 724,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 80,
+                "ascension": 5,
+                "hp": 11128,
+                "atk": 291,
+                "def": 730,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 81,
+                "ascension": 6,
+                "hp": 11815,
+                "atk": 309,
+                "def": 775,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 82,
+                "ascension": 6,
+                "hp": 11903,
+                "atk": 311,
+                "def": 781,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 83,
+                "ascension": 6,
+                "hp": 11992,
+                "atk": 314,
+                "def": 787,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 84,
+                "ascension": 6,
+                "hp": 12080,
+                "atk": 316,
+                "def": 793,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 85,
+                "ascension": 6,
+                "hp": 12168,
+                "atk": 318,
+                "def": 799,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 86,
+                "ascension": 6,
+                "hp": 12258,
+                "atk": 321,
+                "def": 804,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 87,
+                "ascension": 6,
+                "hp": 12346,
+                "atk": 323,
+                "def": 810,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 88,
+                "ascension": 6,
+                "hp": 12436,
+                "atk": 325,
+                "def": 816,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 89,
+                "ascension": 6,
+                "hp": 12525,
+                "atk": 328,
+                "def": 822,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 90,
+                "ascension": 6,
+                "hp": 12613,
+                "atk": 330,
+                "def": 828,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 95,
+                "ascension": 6,
+                "hp": 13061,
+                "atk": 367,
+                "def": 857,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 100,
+                "ascension": 6,
+                "hp": 13510,
+                "atk": 404,
+                "def": 887,
+                "CRIT Rate%": "19.2"
+            }
+        ]
+    },
+    "icons": {
+        "forward": "UI_AvatarIcon_Ineffa",
+        "coop_img": "UI_CoopImg_Ineffa"
+    },
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101252": 168
+        },
+        "elemental": {
+            "104141": 1,
+            "104142": 9,
+            "104143": 9,
+            "104144": 6
+        },
+        "worldmonster": {
+            "112104": 18,
+            "112105": 30,
+            "112106": 36
+        },
+        "elitemonster": {
+            "113076": 46
+        }
+    },
+    "skills": {
+        "normalattack": {
+            "name": "Lâmina do Redemoinho de Poeira",
+            "icon": "Skill_A_03",
+            "multipliers": {
+                "Dano do 1° Golpe": [
+                    "34.84%",
+                    "37.67%",
+                    "40.51%",
+                    "44.56%",
+                    "47.39%",
+                    "50.63%",
+                    "55.09%",
+                    "59.54%",
+                    "64%",
+                    "68.86%",
+                    "73.72%",
+                    "78.58%",
+                    "83.44%",
+                    "88.3%",
+                    "93.16%"
+                ],
+                "Dano do 2° Golpe": [
+                    "34.22%",
+                    "37.01%",
+                    "39.79%",
+                    "43.77%",
+                    "46.56%",
+                    "49.74%",
+                    "54.12%",
+                    "58.49%",
+                    "62.87%",
+                    "67.65%",
+                    "72.42%",
+                    "77.2%",
+                    "81.97%",
+                    "86.75%",
+                    "91.52%"
+                ],
+                "Dano do 3° Golpe": [
+                    "22.76%+22.76%",
+                    "24.61%+24.61%",
+                    "26.46%+26.46%",
+                    "29.11%+29.11%",
+                    "30.96%+30.96%",
+                    "33.07%+33.07%",
+                    "35.99%+35.99%",
+                    "38.9%+38.9%",
+                    "41.81%+41.81%",
+                    "44.98%+44.98%",
+                    "48.16%+48.16%",
+                    "51.33%+51.33%",
+                    "54.51%+54.51%",
+                    "57.68%+57.68%",
+                    "60.86%+60.86%"
+                ],
+                "Dano do 4° Golpe": [
+                    "56.07%",
+                    "60.63%",
+                    "65.2%",
+                    "71.71%",
+                    "76.28%",
+                    "81.49%",
+                    "88.67%",
+                    "95.84%",
+                    "103.01%",
+                    "110.83%",
+                    "118.65%",
+                    "126.48%",
+                    "134.3%",
+                    "142.13%",
+                    "149.95%"
+                ],
+                "Dano de Ataque Carregado": [
+                    "94.94%",
+                    "102.67%",
+                    "110.4%",
+                    "121.44%",
+                    "129.17%",
+                    "138%",
+                    "150.14%",
+                    "162.29%",
+                    "174.43%",
+                    "187.68%",
+                    "200.93%",
+                    "214.18%",
+                    "227.42%",
+                    "240.67%",
+                    "253.92%"
+                ],
+                "Consumo de Stamina do Ataque Carregado": [
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25"
+                ],
+                "Dano Durante a Queda": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ]
+            },
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 4 golpes rápidos.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome uma certa quantidade de Stamina para desferir um ataque rodopiante.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto."
+        },
+        "elementalskill": {
+            "name": "Modo de Limpeza: Frequência Estável",
+            "icon": "Skill_S_Ineffa_01",
+            "multipliers": {
+                "Dano de Habilidade": [
+                    "86.4%",
+                    "92.88%",
+                    "99.36%",
+                    "108%",
+                    "114.48%",
+                    "120.96%",
+                    "129.6%",
+                    "138.24%",
+                    "146.88%",
+                    "155.52%",
+                    "164.16%",
+                    "172.8%",
+                    "183.6%",
+                    "194.4%",
+                    "205.2%"
+                ],
+                "Absorção de Dano do Escudo": [
+                    "221.18% do ATQ + 1387",
+                    "237.77% do ATQ + 1525",
+                    "254.36% do ATQ + 1676",
+                    "276.48% do ATQ + 1837",
+                    "293.07% do ATQ + 2011",
+                    "309.66% do ATQ + 2196",
+                    "331.78% do ATQ + 2392",
+                    "353.89% do ATQ + 2600",
+                    "376.01% do ATQ + 2820",
+                    "398.13% do ATQ + 3051",
+                    "420.25% do ATQ + 3294",
+                    "442.37% do ATQ + 3548",
+                    "470.02% do ATQ + 3814",
+                    "497.66% do ATQ + 4091",
+                    "525.31% do ATQ + 4380"
+                ],
+                "Duração do Escudo": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ],
+                "Dano de descarga elétrica de Birgitta": [
+                    "96%",
+                    "103.2%",
+                    "110.4%",
+                    "120%",
+                    "127.2%",
+                    "134.4%",
+                    "144%",
+                    "153.6%",
+                    "163.2%",
+                    "172.8%",
+                    "182.4%",
+                    "192%",
+                    "204%",
+                    "216%",
+                    "228%"
+                ],
+                "Duração de Birgitta": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ],
+                "Tempo de Recarga": [
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s"
+                ]
+            },
+            "description": "Ineffa ativa seu Módulo de Limpeza Melhorada, causando uma instância de <color=#FFACFFFF>Dano Electro em AdE</color> contra os inimigos próximos, ativando seu Escudo do Fluxo Óptico e invocando a Unidade Multiúso Inteligente {LINK#N11160001}<color=#FFD780FF>Birgitta</color>{/LINK}.\\nO Dano absorvido pelo Escudo do Fluxo Óptico é baseado no ATQ de Ineffa, e possui 250% de eficácia contra <color=#FFACFFFF>Dano Electro</color>."
+        },
+        "elementalburst": {
+            "name": "Ordem Suprema: Exterminador Ciclônico",
+            "icon": "Skill_E_Ineffa_01",
+            "multipliers": {
+                "Dano de Habilidade": [
+                    "676.8%",
+                    "727.56%",
+                    "778.32%",
+                    "846%",
+                    "896.76%",
+                    "947.52%",
+                    "1015.2%",
+                    "1082.88%",
+                    "1150.56%",
+                    "1218.24%",
+                    "1285.92%",
+                    "1353.6%",
+                    "1438.2%",
+                    "1522.8%",
+                    "1607.4%"
+                ],
+                "Tempo de Recarga": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Energia Elemental": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ]
+            },
+            "description": "Com a ajuda da Unidade Multiúso Inteligente, {LINK#N11160001}<color=#FFD780FF>Birgitta</color>{/LINK}, ela pode usar Socos Foguetes para eliminar os inimigos rapidamente! Ineffa dispara Birgitta, causando <color=#FFACFFFF>Dano Electro em AdE</color>, e faz Birgitta ficar no campo por um tempo.\\nSe já houver uma Birgitta criada por Ineffa invocada, muda a posição alvo e invoca Birgitta novamente, e redefine a duração."
+        },
+        "leveling": {
+            "crown": {
+                "104319": 3
+            },
+            "books": {
+                "104353": 9,
+                "104354": 63,
+                "104355": 114
+            },
+            "worldmonster": {
+                "112104": 18,
+                "112105": 66,
+                "112106": 93
+            },
+            "weekly": {
+                "113069": 18
+            }
+        }
+    },
+    "passives": {
+        "p1": {
+            "name": "Sobrecarga de Circuito",
+            "description": "Se houver Nuvens Trovejantes criadas por reações de Carga Lunar nas proximidades quando {LINK#N11160001}<color=#FFD780FF>Birgitta</color>{/LINK} lançar descargas elétricas, ela realizará um ataque adicional, causando Dano equivalente a 65% do ATQ de Ineffa como <color=#FFACFFFF>Dano Electro em AdE</color>. Esse Dano é considerado como Dano de Carga Lunar.",
+            "icon": "UI_Talent_S_Ineffa_05"
+        },
+        "p2": {
+            "name": "Protocolo de Permutação Panorâmica",
+            "description": "Ao lançar o Supremo <color=#FFD780FF>{LINK#S11165}Ordem Suprema: Exterminador Ciclônico{/LINK}</color>, concede o efeito Parâmetro de Permutação para todos os seus membros próximos da equipe: aumenta a Proficiência Elemental de Ineffa e do personagem ativo da equipe com base em 6% do ATQ de Ineffa por 20s.",
+            "icon": "UI_Talent_S_Ineffa_06"
+        },
+        "p3": {
+            "name": "Bênção do Presságio Lunar: Repetidor de Simulações",
+            "description": "Quando um membro da equipe desencadeia uma Reação Eletricamente Carregada, ela será convertida em Carga Lunar. A cada 100 de ATQ que Ineffa possuir, o Dano Base de Carga Lunar será aumentado em 0,7%, até um máximo de 14%.\\nAlém disso, quando Ineffa está na equipe, aumenta o <color=#FFD780FF>Presságio Lunar</color> da equipe em 1 nível.",
+            "icon": "UI_Talent_S_Ineffa_07"
+        },
+        "p4": {
+            "name": "Unidade de Síntese de Sabor",
+            "description": "Quando Ineffa usa uma comida, possui 30% de chance de obter um tempero como ingrediente.\\nAlém disso, quando está em Nod-Krai, é possível mudar a aparência de Birgitta através de uma certa forma...",
+            "icon": "UI_Talent_S_Ineffa_08"
+        }
+    },
+    "constellations": {
+        "const1": {
+            "name": "Processador Retificador",
+            "description": "Quando Ineffa ativa seu Escudo do Fluxo Óptico, concede para todos os membros próximos da equipe o efeito \"Composto de Fluxo Carregador\" por 20s, aumentando o Dano causado por Carga Lunar com base no ATQ de Ineffa: cada 100 de ATQ aumentam o Dano em 2.5%. É possível aumentar o Dano até 50% dessa forma.",
+            "icon": "UI_Talent_S_Ineffa_01"
+        },
+        "const2": {
+            "name": "Módulo Auxiliar de Limpeza",
+            "description": "Quando o Supremo <color=#FFD780FF>{LINK#S11165}Ordem Suprema: Exterminador Ciclônico{/LINK}</color> atinge um inimigo, aplica nele o estado Édito Punitivo: depois de um certo tempo, ou quando esse inimigo for derrotado, causa 300% do ATQ de Ineffa como <color=#FFACFFFF>Dano Electro em AdE</color> contra os inimigos próximos. Esse Dano é considerado Dano de Carga Lunar.\\nAlém disso, ao lançar o Supremo <color=#FFD780FF>Ordem Suprema: Exterminador Ciclônico</color>, também concede um Escudo do Fluxo Óptico para o personagem ativo próximo da equipe.",
+            "icon": "UI_Talent_S_Ineffa_02"
+        },
+        "const3": {
+            "name": "Emulador Melhorado de Emoções",
+            "description": "Aumenta o nível da Habilidade Elemental <color=#FFD780FF>{LINK#S11162}Modo de Limpeza: Frequência Estável{/LINK}</color> em 3 níveis. \\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Ineffa_01"
+        },
+        "const4": {
+            "name": "Caminho Sem Éditos",
+            "description": "Quando um membro da equipe desencadeia Carga Lunar, regenera 5 de Energia Elemental. Esse efeito pode ser ativado uma vez a cada 4s.",
+            "icon": "UI_Talent_S_Ineffa_03"
+        },
+        "const5": {
+            "name": "Sonho do Espelho Transcendental",
+            "description": "Aumenta o nível do Supremo <color=#FFD780FF>{LINK#S11165}Ordem Suprema: Exterminador Ciclônico{/LINK}</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Ineffa_02"
+        },
+        "const6": {
+            "name": "Uma Manhã Abençoada para Você",
+            "description": "Quando Ineffa está sob o efeito Composto de Fluxo Carregador e a Nuvem Trovejante próxima realizar um ataque elétrico contra um inimigo, Ineffa causará 135% de seu ATQ como <color=#FFACFFFF>Dano Electro em AdE</color> contra os inimigos próximos ao redor do personagem ativo. Esse Dano é considerado Dano de Carga Lunar, e esse efeito pode ser desencadeado uma vez a cada 3.5s.",
+            "icon": "UI_Talent_S_Ineffa_04"
+        }
+    },
+    "energy": [
+        {
+            "source": "DropElemBall",
+            "particles": "1",
+            "chance": "66%",
+            "cd": "0.5s"
+        }
+    ],
+    "attacks": [
+        {
+            "name": "ElementalArt_Relay",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/50",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalArt_Relay_MoveController",
+            "icd_source": "Tag: MoonShockDamage (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/50",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalArt_Relay_MoveController",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/30",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalArt_Relay_MoveController",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/30",
+            "element": "Electric"
+        },
+        {
+            "name": "Burst_Bullet",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/200",
+            "element": "Electric"
+        },
+        {
+            "name": "Burst_T2_Attacker",
+            "icd_source": "Tag: MoonShockDamage (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/100",
+            "element": "Electric"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/25",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV4/25",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/100",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/150",
+            "element": "-"
+        },
+        {
+            "name": "Talent_6",
+            "icd_source": "Tag: MoonShockDamage (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/50",
+            "element": "Electric"
+        }
+    ],
+    "hyperlinks": [
+        {
+            "id": 11160001,
+            "name": "Birgitta",
+            "description": "Luta ao lado de Ineffa, pode ser invocada para o campo de batalha através da Habilidade Elemental ou do Supremo.\\nSe houver inimigos por perto, Birgitta se moverá rapidamente para perto de um deles a cada 2s, e realizará um ataque elétrico que causa Dano Electro em AdE.\\nÉ possível existir uma Birgitta criada por Ineffa simultaneamente.\\nAlém disso, em Nod-Krai, parece ser possível mudar a aparência de Birgitta de alguma forma...",
+            "params": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1302 @@
+{
+    "info": {
+        "name": "Andarilho",
+        "description": "Um jovem andarilho de identidade misteriosa. Se veste como um shugenja, mas com certeza não age como um.",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_CATALYST",
+        "birthday": "January 3rd",
+        "element": "Anemo",
+        "constellation": "Peregrinus",
+        "attributes": [
+            {
+                "level": 1,
+                "ascension": 0,
+                "hp": 791,
+                "atk": 26,
+                "def": 47,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 2,
+                "ascension": 0,
+                "hp": 857,
+                "atk": 28,
+                "def": 51,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 3,
+                "ascension": 0,
+                "hp": 923,
+                "atk": 30,
+                "def": 55,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 4,
+                "ascension": 0,
+                "hp": 989,
+                "atk": 32,
+                "def": 59,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 5,
+                "ascension": 0,
+                "hp": 1055,
+                "atk": 34,
+                "def": 63,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 6,
+                "ascension": 0,
+                "hp": 1121,
+                "atk": 36,
+                "def": 67,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 7,
+                "ascension": 0,
+                "hp": 1187,
+                "atk": 38,
+                "def": 71,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 8,
+                "ascension": 0,
+                "hp": 1253,
+                "atk": 40,
+                "def": 75,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 9,
+                "ascension": 0,
+                "hp": 1320,
+                "atk": 43,
+                "def": 79,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 10,
+                "ascension": 0,
+                "hp": 1385,
+                "atk": 45,
+                "def": 83,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 11,
+                "ascension": 0,
+                "hp": 1452,
+                "atk": 47,
+                "def": 87,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 12,
+                "ascension": 0,
+                "hp": 1518,
+                "atk": 49,
+                "def": 91,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 13,
+                "ascension": 0,
+                "hp": 1585,
+                "atk": 51,
+                "def": 95,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 14,
+                "ascension": 0,
+                "hp": 1652,
+                "atk": 53,
+                "def": 99,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 15,
+                "ascension": 0,
+                "hp": 1719,
+                "atk": 55,
+                "def": 103,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 16,
+                "ascension": 0,
+                "hp": 1785,
+                "atk": 58,
+                "def": 107,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 17,
+                "ascension": 0,
+                "hp": 1852,
+                "atk": 60,
+                "def": 111,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 18,
+                "ascension": 0,
+                "hp": 1919,
+                "atk": 62,
+                "def": 115,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 19,
+                "ascension": 0,
+                "hp": 1986,
+                "atk": 64,
+                "def": 119,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 20,
+                "ascension": 0,
+                "hp": 2053,
+                "atk": 66,
+                "def": 123,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 21,
+                "ascension": 1,
+                "hp": 2798,
+                "atk": 90,
+                "def": 167,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 22,
+                "ascension": 1,
+                "hp": 2865,
+                "atk": 92,
+                "def": 171,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 23,
+                "ascension": 1,
+                "hp": 2933,
+                "atk": 95,
+                "def": 175,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 24,
+                "ascension": 1,
+                "hp": 3000,
+                "atk": 97,
+                "def": 179,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 25,
+                "ascension": 1,
+                "hp": 3067,
+                "atk": 99,
+                "def": 183,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 26,
+                "ascension": 1,
+                "hp": 3135,
+                "atk": 101,
+                "def": 187,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 27,
+                "ascension": 1,
+                "hp": 3203,
+                "atk": 103,
+                "def": 191,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 28,
+                "ascension": 1,
+                "hp": 3270,
+                "atk": 105,
+                "def": 195,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 29,
+                "ascension": 1,
+                "hp": 3338,
+                "atk": 108,
+                "def": 199,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 30,
+                "ascension": 1,
+                "hp": 3405,
+                "atk": 110,
+                "def": 203,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 31,
+                "ascension": 1,
+                "hp": 3473,
+                "atk": 112,
+                "def": 207,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 32,
+                "ascension": 1,
+                "hp": 3541,
+                "atk": 114,
+                "def": 212,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 33,
+                "ascension": 1,
+                "hp": 3609,
+                "atk": 116,
+                "def": 216,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 34,
+                "ascension": 1,
+                "hp": 3676,
+                "atk": 119,
+                "def": 220,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 35,
+                "ascension": 1,
+                "hp": 3745,
+                "atk": 121,
+                "def": 224,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 36,
+                "ascension": 1,
+                "hp": 3813,
+                "atk": 123,
+                "def": 228,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 37,
+                "ascension": 1,
+                "hp": 3881,
+                "atk": 125,
+                "def": 232,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 38,
+                "ascension": 1,
+                "hp": 3949,
+                "atk": 127,
+                "def": 236,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 39,
+                "ascension": 1,
+                "hp": 4018,
+                "atk": 130,
+                "def": 240,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 40,
+                "ascension": 1,
+                "hp": 4086,
+                "atk": 132,
+                "def": 244,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 41,
+                "ascension": 2,
+                "hp": 4636,
+                "atk": 149,
+                "def": 277,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 42,
+                "ascension": 2,
+                "hp": 4705,
+                "atk": 152,
+                "def": 281,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 43,
+                "ascension": 2,
+                "hp": 4774,
+                "atk": 154,
+                "def": 285,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 44,
+                "ascension": 2,
+                "hp": 4842,
+                "atk": 156,
+                "def": 289,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 45,
+                "ascension": 2,
+                "hp": 4911,
+                "atk": 158,
+                "def": 293,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 46,
+                "ascension": 2,
+                "hp": 4980,
+                "atk": 161,
+                "def": 297,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 47,
+                "ascension": 2,
+                "hp": 5049,
+                "atk": 163,
+                "def": 302,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 48,
+                "ascension": 2,
+                "hp": 5118,
+                "atk": 165,
+                "def": 306,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 49,
+                "ascension": 2,
+                "hp": 5187,
+                "atk": 167,
+                "def": 310,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 50,
+                "ascension": 2,
+                "hp": 5256,
+                "atk": 169,
+                "def": 314,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 51,
+                "ascension": 3,
+                "hp": 5968,
+                "atk": 192,
+                "def": 356,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 52,
+                "ascension": 3,
+                "hp": 6037,
+                "atk": 195,
+                "def": 361,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 53,
+                "ascension": 3,
+                "hp": 6106,
+                "atk": 197,
+                "def": 365,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 54,
+                "ascension": 3,
+                "hp": 6176,
+                "atk": 199,
+                "def": 369,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 55,
+                "ascension": 3,
+                "hp": 6245,
+                "atk": 201,
+                "def": 373,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 56,
+                "ascension": 3,
+                "hp": 6315,
+                "atk": 204,
+                "def": 377,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 57,
+                "ascension": 3,
+                "hp": 6385,
+                "atk": 206,
+                "def": 381,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 58,
+                "ascension": 3,
+                "hp": 6454,
+                "atk": 208,
+                "def": 386,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 59,
+                "ascension": 3,
+                "hp": 6524,
+                "atk": 210,
+                "def": 390,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 60,
+                "ascension": 3,
+                "hp": 6593,
+                "atk": 213,
+                "def": 394,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 61,
+                "ascension": 4,
+                "hp": 7145,
+                "atk": 230,
+                "def": 427,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 62,
+                "ascension": 4,
+                "hp": 7215,
+                "atk": 233,
+                "def": 431,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 63,
+                "ascension": 4,
+                "hp": 7285,
+                "atk": 235,
+                "def": 435,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 64,
+                "ascension": 4,
+                "hp": 7355,
+                "atk": 237,
+                "def": 439,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 65,
+                "ascension": 4,
+                "hp": 7425,
+                "atk": 239,
+                "def": 444,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 66,
+                "ascension": 4,
+                "hp": 7496,
+                "atk": 242,
+                "def": 448,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 67,
+                "ascension": 4,
+                "hp": 7565,
+                "atk": 244,
+                "def": 452,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 68,
+                "ascension": 4,
+                "hp": 7636,
+                "atk": 246,
+                "def": 456,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 69,
+                "ascension": 4,
+                "hp": 7706,
+                "atk": 248,
+                "def": 460,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 70,
+                "ascension": 4,
+                "hp": 7777,
+                "atk": 251,
+                "def": 465,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 71,
+                "ascension": 5,
+                "hp": 8329,
+                "atk": 269,
+                "def": 498,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 72,
+                "ascension": 5,
+                "hp": 8400,
+                "atk": 271,
+                "def": 502,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 73,
+                "ascension": 5,
+                "hp": 8471,
+                "atk": 273,
+                "def": 506,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 74,
+                "ascension": 5,
+                "hp": 8541,
+                "atk": 275,
+                "def": 510,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 75,
+                "ascension": 5,
+                "hp": 8612,
+                "atk": 278,
+                "def": 514,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 76,
+                "ascension": 5,
+                "hp": 8683,
+                "atk": 280,
+                "def": 519,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 77,
+                "ascension": 5,
+                "hp": 8754,
+                "atk": 282,
+                "def": 523,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 78,
+                "ascension": 5,
+                "hp": 8825,
+                "atk": 285,
+                "def": 527,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 79,
+                "ascension": 5,
+                "hp": 8896,
+                "atk": 287,
+                "def": 531,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 80,
+                "ascension": 5,
+                "hp": 8968,
+                "atk": 289,
+                "def": 536,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 81,
+                "ascension": 6,
+                "hp": 9521,
+                "atk": 307,
+                "def": 569,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 82,
+                "ascension": 6,
+                "hp": 9592,
+                "atk": 309,
+                "def": 573,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 83,
+                "ascension": 6,
+                "hp": 9663,
+                "atk": 312,
+                "def": 577,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 84,
+                "ascension": 6,
+                "hp": 9734,
+                "atk": 314,
+                "def": 581,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 85,
+                "ascension": 6,
+                "hp": 9806,
+                "atk": 316,
+                "def": 586,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 86,
+                "ascension": 6,
+                "hp": 9878,
+                "atk": 318,
+                "def": 590,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 87,
+                "ascension": 6,
+                "hp": 9949,
+                "atk": 321,
+                "def": 594,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 88,
+                "ascension": 6,
+                "hp": 10021,
+                "atk": 323,
+                "def": 599,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 89,
+                "ascension": 6,
+                "hp": 10093,
+                "atk": 325,
+                "def": 603,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 90,
+                "ascension": 6,
+                "hp": 10164,
+                "atk": 328,
+                "def": 607,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 95,
+                "ascension": 6,
+                "hp": 10525,
+                "atk": 365,
+                "def": 629,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 100,
+                "ascension": 6,
+                "hp": 10887,
+                "atk": 401,
+                "def": 650,
+                "CRIT Rate%": "19.2"
+            }
+        ]
+    },
+    "icons": {
+        "forward": "UI_AvatarIcon_Wanderer",
+        "coop_img": "UI_CoopImg_Wanderer"
+    },
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101213": 168
+        },
+        "elemental": {
+            "104151": 1,
+            "104152": 9,
+            "104153": 9,
+            "104154": 6
+        },
+        "worldmonster": {
+            "112044": 18,
+            "112045": 30,
+            "112046": 36
+        },
+        "elitemonster": {
+            "113038": 46
+        }
+    },
+    "skills": {
+        "normalattack": {
+            "name": "Tocar da Bandeira Trêmula",
+            "icon": "Skill_A_Catalyst_MD",
+            "multipliers": {
+                "Dano do 1° Golpe": [
+                    "68.71%",
+                    "74.31%",
+                    "79.9%",
+                    "87.89%",
+                    "93.48%",
+                    "99.87%",
+                    "108.66%",
+                    "117.45%",
+                    "126.24%",
+                    "135.83%",
+                    "145.42%",
+                    "155.01%",
+                    "164.59%",
+                    "174.18%",
+                    "183.77%"
+                ],
+                "Dano do 2° Golpe": [
+                    "65.02%",
+                    "70.31%",
+                    "75.6%",
+                    "83.16%",
+                    "88.45%",
+                    "94.5%",
+                    "102.82%",
+                    "111.13%",
+                    "119.45%",
+                    "128.52%",
+                    "137.59%",
+                    "146.66%",
+                    "155.74%",
+                    "164.81%",
+                    "173.88%"
+                ],
+                "Dano do 3° Golpe": [
+                    "47.64%+47.64%",
+                    "51.52%+51.52%",
+                    "55.4%+55.4%",
+                    "60.94%+60.94%",
+                    "64.82%+64.82%",
+                    "69.25%+69.25%",
+                    "75.34%+75.34%",
+                    "81.44%+81.44%",
+                    "87.53%+87.53%",
+                    "94.18%+94.18%",
+                    "100.83%+100.83%",
+                    "107.48%+107.48%",
+                    "114.12%+114.12%",
+                    "120.77%+120.77%",
+                    "127.42%+127.42%"
+                ],
+                "Dano de Ataque Carregado": [
+                    "132.08%",
+                    "141.99%",
+                    "151.89%",
+                    "165.1%",
+                    "175.01%",
+                    "184.91%",
+                    "198.12%",
+                    "211.33%",
+                    "224.54%",
+                    "237.74%",
+                    "250.95%",
+                    "264.16%",
+                    "280.67%",
+                    "297.18%",
+                    "313.69%"
+                ],
+                "Consumo de Stamina de Ataque Carregado": [
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50"
+                ],
+                "Dano Durante a Queda": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ]
+            },
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 3 ataques lançando Lâminas de Vento, infligindo <color=#80FFD7FF>Dano Anemo</color>.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome uma certa quantidade de Stamina criando um campo de alta pressão, infligindo <color=#80FFD7FF>Dano Anemo em uma AdE</color> após um curto período de canalização.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nConvocando os poderes do Anemo para si, mergulha em direção ao chão a partir do ar, causando dano a todos os inimigos em seu caminho. Inflige <color=#80FFD7FF>Dano Anemo em uma AdE</color> quando atinge o chão."
+        },
+        "elementalskill": {
+            "name": "Pluma Ilustrada: Canção Graciosa",
+            "icon": "Skill_S_Wanderer_01",
+            "multipliers": {
+                "Dano de Habilidade": [
+                    "95.2%",
+                    "102.34%",
+                    "109.48%",
+                    "119%",
+                    "126.14%",
+                    "133.28%",
+                    "142.8%",
+                    "152.32%",
+                    "161.84%",
+                    "171.36%",
+                    "180.88%",
+                    "190.4%",
+                    "202.3%",
+                    "214.2%",
+                    "226.1%"
+                ],
+                "Dano de Vazio: Obliteração": [
+                    "132.98% do Dano de Ataque Normal",
+                    "134.96% do Dano de Ataque Normal",
+                    "136.93% do Dano de Ataque Normal",
+                    "139.5% do Dano de Ataque Normal",
+                    "141.47% do Dano de Ataque Normal",
+                    "143.45% do Dano de Ataque Normal",
+                    "146.02% do Dano de Ataque Normal",
+                    "148.58% do Dano de Ataque Normal",
+                    "151.15% do Dano de Ataque Normal",
+                    "153.72% do Dano de Ataque Normal",
+                    "156.29% do Dano de Ataque Normal",
+                    "158.85% do Dano de Ataque Normal",
+                    "161.42% do Dano de Ataque Normal",
+                    "163.99% do Dano de Ataque Normal",
+                    "166.56% do Dano de Ataque Normal"
+                ],
+                "Dano de Vazio: Lâmina de Vento": [
+                    "126.39% do Dano de Ataque Carregado",
+                    "127.97% do Dano de Ataque Carregado",
+                    "129.55% do Dano de Ataque Carregado",
+                    "131.6% do Dano de Ataque Carregado",
+                    "133.18% do Dano de Ataque Carregado",
+                    "134.76% do Dano de Ataque Carregado",
+                    "136.81% do Dano de Ataque Carregado",
+                    "138.87% do Dano de Ataque Carregado",
+                    "140.92% do Dano de Ataque Carregado",
+                    "142.98% do Dano de Ataque Carregado",
+                    "145.03% do Dano de Ataque Carregado",
+                    "147.08% do Dano de Ataque Carregado",
+                    "149.14% do Dano de Ataque Carregado",
+                    "151.19% do Dano de Ataque Carregado",
+                    "153.25% do Dano de Ataque Carregado"
+                ],
+                "Poder Vazio Inicial": [
+                    "100 pontos",
+                    "100 pontos",
+                    "100 pontos",
+                    "100 pontos",
+                    "100 pontos",
+                    "100 pontos",
+                    "100 pontos",
+                    "100 pontos",
+                    "100 pontos",
+                    "100 pontos",
+                    "100 pontos",
+                    "100 pontos",
+                    "100 pontos",
+                    "100 pontos",
+                    "100 pontos"
+                ],
+                "Tempo de Recarga": [
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s"
+                ]
+            },
+            "description": "Condensa uma atmosfera poderosa para quebrar as correntes da terra. Inflige <color=#80FFD7FF>Dano Anemo</color> contra os inimigos próximos e salta no ar, entrando no estado \"Postura do Vento\".\\n\\n<color=#FFD780FF>Postura do Vento</color>\\nQuando o Andarilho está nesse estado, não consegue realizar Ataques Imersivos, e ao realizar Ataques Normais ou Carregados, eles serão convertidos em Vazio: Obliteração e Vazio: Lâmina de Vento respectivamente, aumentando o Dano causado e a AdE. Esses Danos são considerados Dano de Ataque Normal e Dano de Ataque Carregado respectivamente. Ao realizar Vazio: Lâmina de Vento, não consumirá Stamina.\\nQuando o Andarilho estiver nesse estado, flutuará continuamente no ar, e seus movimentos possuirão as seguintes características:\\n· Enquanto estiver flutuando, consumirá continuamente \"Poder Vazio\";\\n· Ao correr, consumirá Poder Vazio adicional para acelerar no ar; ao Manter Pressionado para correr, consumirá continuamente Poder Vazio para se mover rapidamente. Esse efeito substituirá a corrida;\\n· Ao saltar, consumirá Poder do Vazio adicional para flutuar mais alto; ao Manter Pressionado para saltar, consumirá continuamente Poder Vazio para aumentar sua altitude.\\n\\nQuando Poder Vazio for exaurido, esse estado terminará.\\nLançar a habilidade novamente durante a duração da Postura do Vento também encerrará esse estado.\\n\\n<i>\"O mundo dança enquanto os segredos desabrocham como flores.\"</i>"
+        },
+        "elementalburst": {
+            "name": "Kyogen: Cinco Atos",
+            "icon": "Skill_E_Wanderer_01",
+            "multipliers": {
+                "Dano de Habilidade": [
+                    "147.2% x5",
+                    "158.24% x5",
+                    "169.28% x5",
+                    "184% x5",
+                    "195.04% x5",
+                    "206.08% x5",
+                    "220.8% x5",
+                    "235.52% x5",
+                    "250.24% x5",
+                    "264.96% x5",
+                    "279.68% x5",
+                    "294.4% x5",
+                    "312.8% x5",
+                    "331.2% x5",
+                    "349.6% x5"
+                ],
+                "Tempo de Recarga": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Energia Elemental": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ]
+            },
+            "description": "Comprime o ar, criando um vácuo para esmagar todas as suas preocupações, infligindo <color=#80FFD7FF>Dano Anemo em AdE</color> várias vezes.\\nSe for lançado durante o estado Postura do Vento da Habilidade Elemental \"Pluma Ilustrada: Canção Graciosa\", encerrará esse estado.\\n\\n<i>\"O céu lentamente se iluminará, os sonhos do presente e do passado serão como o pó a flutuar no ar.\"</i>"
+        },
+        "leveling": {
+            "crown": {
+                "104319": 3
+            },
+            "books": {
+                "104335": 9,
+                "104336": 63,
+                "104337": 114
+            },
+            "worldmonster": {
+                "112044": 18,
+                "112045": 66,
+                "112046": 93
+            },
+            "weekly": {
+                "113043": 18
+            }
+        }
+    },
+    "passives": {
+        "p1": {
+            "name": "Flores de Jade",
+            "description": "Ao lançar <color=#FFD780FF>Pluma Ilustrada: Canção Graciosa</color> e entrar em contato com <color=#80C0FFFF>Hydro</color>, <color=#FF9999FF>Pyro</color>, <color=#99FFFFFF>Cryo</color> ou <color=#FFACFFFF>Electro</color>, o estado atual de Postura do Vento obterá os seguintes bônus, de acordo com o elemento interagido: \\n· <color=#80C0FFFF>Hydro</color>: aumenta 20 de limite do Poder Vazio;\\n· <color=#FF9999FF>Pyro</color>: aumenta o ATQ em 30%;\\n· <color=#99FFFFFF>Cryo</color>: aumenta a Taxa CRIT em 20%;\\n· <color=#FFACFFFF>Electro</color>: após atingir o inimigo com Ataque Normal e Carregado, recupera 0.8 de Energia Elemental. É possível restaurar Energia Elemental até 1 vez a cada 0.2s desta maneira.\\n\\nÉ possível obter até 2 tipos de bônus de diferentes elementos simultaneamente.",
+            "icon": "UI_Talent_S_Wanderer_05"
+        },
+        "p2": {
+            "name": "Brisa dos Sonhos Remanescentes",
+            "description": "Quando o Andarilho atinge o inimigo com Vazio: Obliteração ou Vazio: Lâmina de Vento no estado <color=#FFD780FF>Postura do Vento</color>, há 16% de chance de se obter o efeito \"Descida\": ao acelerar no ar sob o estado Postura do Vento, o efeito \"Descida\" será eliminado, não consumindo Poder Vazio para essa aceleração no ar, disparando também 4 Flechas de Vento que causarão <color=#80FFD7FF>Dano Anemo</color> com base em 35% de seu ATQ.\\nPara cada Vazio: Obliteração e Vazio: Lâmina de Vento que não gerarem \"Descida\", a probabilidade de produção do efeito durante o próximo ataque será aumentada em 12%. O cálculo da produção do efeito é feito 1 vez a cada 0.1s.",
+            "icon": "UI_Talent_S_Wanderer_06"
+        },
+        "p3": {
+            "name": "Tocar dos Ventos Rodopiantes",
+            "description": "Reduz o consumo de Mora necessário para ascender Arcos e Catalisadores em 50%.",
+            "icon": "UI_Talent_S_Wanderer_07"
+        },
+        "p4": ""
+    },
+    "constellations": {
+        "const1": {
+            "name": "Primeiro Ato: Asas do Vento da Sorte",
+            "description": "Quando estiver no estado <color=#FFD780FF>Postura do Vento</color>, aumenta a Vel. de ATQ de Vazio: Obliteração e Vazio: Lâmina de Vento do Andarilho em 10%.\\nAlém disso, as flechas de vento adicionais lançadas pelo Talento de Ascensão \"Brisa dos Sonhos Remanescentes\" causam 25% a mais de Dano com base em seu ATQ. É necessário desbloquear o Talento de Ascensão \"Brisa dos Sonhos Remanescentes\" para ativar este efeito.",
+            "icon": "UI_Talent_S_Wanderer_01"
+        },
+        "const2": {
+            "name": "Segundo Ato: Ilha em meio a Ondas Brancas",
+            "description": "Enquanto estiver no estado <color=#FFD780FF>Postura do Vento</color>, aumentará o Dano de <color=#FFD780FF>Kyogen: Cinco Atos</color> em 4% para cada ponto de diferença entre a quantidade máxima e atual de Poder Vazio quando usar Kyogen: Cinco Atos.\\nÉ possível aumentar o Dano de Kyogen: Cinco Atos em até 200% dessa forma.",
+            "icon": "UI_Talent_S_Wanderer_02"
+        },
+        "const3": {
+            "name": "Terceiro Ato: Duelo no Crepúsculo",
+            "description": "Aumenta o nível do <color=#FFD780FF>Kyogen: Cinco Atos</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Wanderer_02"
+        },
+        "const4": {
+            "name": "Quarto Ato: Flutuar das Flores da Lua",
+            "description": "Ao lançar <color=#FFD780FF>Pluma Ilustrada: Canção Graciosa</color>, se tiver desencadeado o efeito de Fortalecimento de Tipo Elemental do Talento de Ascensão \"Flores de Jade\", obterá aleatoriamente um dos tipos de efeito de Fortalecimento não desencadeado. É possível obter até três tipos de efeito de Fortalecimento Elemental.\\nÉ necessário ter desbloqueado o Talento de Ascensão \"Flores de Jade\".",
+            "icon": "UI_Talent_S_Wanderer_03"
+        },
+        "const5": {
+            "name": "Quinto Ato: Passado Sobre o Presente",
+            "description": "Aumenta o nível da <color=#FFD780FF>Pluma Ilustrada: Canção Graciosa</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Wanderer_01"
+        },
+        "const6": {
+            "name": "Agradecimentos: Ventos Neblinosos Entre os Pinheiros",
+            "description": "Quando o Andarilho estiver no estado <color=#FFD780FF>Postura do Vento</color> e seu Vazio: Obliteração atingir o inimigo, gerará os seguintes efeitos:\\n· Realiza um Vazio: Obliteração adicional na posição atingida, causando 40% do Dano original, esse Dano é considerado Dano de Ataque Normal;\\n· Quando o Poder Vazio do Andarilho é inferior a 40, regenera 4 de Poder Vazio para ele. É possível regenerar Poder Vazio dessa forma uma vez a cada 0.2s, e pode ser desencadeado até 5 vezes na duração de Postura do Vento.",
+            "icon": "UI_Talent_S_Wanderer_04"
+        }
+    },
+    "energy": [
+        {
+            "source": "ElementalArt_ElementalBall",
+            "particles": "1",
+            "chance": "100%",
+            "cd": "2s"
+        }
+    ],
+    "attacks": [
+        {
+            "name": "ExtraAttack_Initiate",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV5/100",
+            "element": "Wind"
+        },
+        {
+            "name": "ExtraAttack_Air_Initiate",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV5/100",
+            "element": "Wind"
+        },
+        {
+            "name": "NormalAttack_Bullet_1",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/13",
+            "element": "Wind"
+        },
+        {
+            "name": "NormalAttack_Bullet_2",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/12",
+            "element": "Wind"
+        },
+        {
+            "name": "NormalAttack_Bullet_3",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/9",
+            "element": "Wind"
+        },
+        {
+            "name": "NormalAttack_Bullet_4",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/9",
+            "element": "Wind"
+        },
+        {
+            "name": "ElementalArt_Launch",
+            "icd_source": "Tag: Elemental_Art_Detect (!)",
+            "icd_rule": "Independent",
+            "gauge": "0.0U",
+            "poise": "-/0",
+            "element": "AntiFire"
+        },
+        {
+            "name": "ElementalArt_Launch",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/100",
+            "element": "Wind"
+        },
+        {
+            "name": "ElementalArt_Bullet_1",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/13",
+            "element": "Wind"
+        },
+        {
+            "name": "ElementalArt_Bullet_2",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/12",
+            "element": "Wind"
+        },
+        {
+            "name": "ElementalArt_Bullet_3",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/9",
+            "element": "Wind"
+        },
+        {
+            "name": "ElementalArt_Bullet_4",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/9",
+            "element": "Wind"
+        },
+        {
+            "name": "ElementalArt_Bullet_1_Extra",
+            "icd_source": "Tag: Wanderer_Constellation_6",
+            "icd_rule": "20 hits / 2s",
+            "gauge": "1U",
+            "poise": "LV1/15",
+            "element": "Wind"
+        },
+        {
+            "name": "ElementalArt_Bullet_2_Extra",
+            "icd_source": "Tag: Wanderer_Constellation_6",
+            "icd_rule": "20 hits / 2s",
+            "gauge": "1U",
+            "poise": "LV1/15",
+            "element": "Wind"
+        },
+        {
+            "name": "ElementalArt_Bullet_3_Extra",
+            "icd_source": "Tag: Wanderer_Constellation_6",
+            "icd_rule": "20 hits / 2s",
+            "gauge": "1U",
+            "poise": "LV1/15",
+            "element": "Wind"
+        },
+        {
+            "name": "ElementalArt_Bullet_4_Extra",
+            "icd_source": "Tag: Wanderer_Constellation_6",
+            "icd_rule": "20 hits / 2s",
+            "gauge": "1U",
+            "poise": "LV1/15",
+            "element": "Wind"
+        },
+        {
+            "name": "ElementalBurst_Bullet",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/50",
+            "element": "Wind"
+        },
+        {
+            "name": "ElementalArt_Bullet_HoverDash",
+            "icd_source": "Tag: Wanderer_PermanentSkill_2",
+            "icd_rule": "20 hits / 1s",
+            "gauge": "1U",
+            "poise": "LV1/15",
+            "element": "Wind"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/5",
+            "element": "Wind"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/50",
+            "element": "Wind"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/100",
+            "element": "Wind"
+        }
+    ],
+    "hyperlinks": []
+}

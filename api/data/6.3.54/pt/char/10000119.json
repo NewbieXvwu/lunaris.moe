@@ -1,0 +1,1569 @@
+{
+    "info": {
+        "name": "Lauma",
+        "description": "A santa que recebeu a bênção da luz do luar e da floresta, a esperança nascida dos Filhos da Lua Gelada.",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_CATALYST",
+        "birthday": "March 1st",
+        "element": "Dendro",
+        "constellation": "Cerva Nivea",
+        "attributes": [
+            {
+                "level": 1,
+                "ascension": 0,
+                "hp": 829,
+                "atk": 20,
+                "def": 52,
+                "EM": 0
+            },
+            {
+                "level": 2,
+                "ascension": 0,
+                "hp": 898,
+                "atk": 21,
+                "def": 56,
+                "EM": 0
+            },
+            {
+                "level": 3,
+                "ascension": 0,
+                "hp": 967,
+                "atk": 23,
+                "def": 61,
+                "EM": 0
+            },
+            {
+                "level": 4,
+                "ascension": 0,
+                "hp": 1037,
+                "atk": 25,
+                "def": 65,
+                "EM": 0
+            },
+            {
+                "level": 5,
+                "ascension": 0,
+                "hp": 1106,
+                "atk": 26,
+                "def": 69,
+                "EM": 0
+            },
+            {
+                "level": 6,
+                "ascension": 0,
+                "hp": 1175,
+                "atk": 28,
+                "def": 74,
+                "EM": 0
+            },
+            {
+                "level": 7,
+                "ascension": 0,
+                "hp": 1244,
+                "atk": 30,
+                "def": 78,
+                "EM": 0
+            },
+            {
+                "level": 8,
+                "ascension": 0,
+                "hp": 1314,
+                "atk": 31,
+                "def": 82,
+                "EM": 0
+            },
+            {
+                "level": 9,
+                "ascension": 0,
+                "hp": 1383,
+                "atk": 33,
+                "def": 87,
+                "EM": 0
+            },
+            {
+                "level": 10,
+                "ascension": 0,
+                "hp": 1452,
+                "atk": 35,
+                "def": 91,
+                "EM": 0
+            },
+            {
+                "level": 11,
+                "ascension": 0,
+                "hp": 1522,
+                "atk": 36,
+                "def": 96,
+                "EM": 0
+            },
+            {
+                "level": 12,
+                "ascension": 0,
+                "hp": 1592,
+                "atk": 38,
+                "def": 100,
+                "EM": 0
+            },
+            {
+                "level": 13,
+                "ascension": 0,
+                "hp": 1661,
+                "atk": 40,
+                "def": 104,
+                "EM": 0
+            },
+            {
+                "level": 14,
+                "ascension": 0,
+                "hp": 1732,
+                "atk": 41,
+                "def": 109,
+                "EM": 0
+            },
+            {
+                "level": 15,
+                "ascension": 0,
+                "hp": 1801,
+                "atk": 43,
+                "def": 113,
+                "EM": 0
+            },
+            {
+                "level": 16,
+                "ascension": 0,
+                "hp": 1871,
+                "atk": 45,
+                "def": 117,
+                "EM": 0
+            },
+            {
+                "level": 17,
+                "ascension": 0,
+                "hp": 1942,
+                "atk": 46,
+                "def": 122,
+                "EM": 0
+            },
+            {
+                "level": 18,
+                "ascension": 0,
+                "hp": 2011,
+                "atk": 48,
+                "def": 126,
+                "EM": 0
+            },
+            {
+                "level": 19,
+                "ascension": 0,
+                "hp": 2082,
+                "atk": 50,
+                "def": 131,
+                "EM": 0
+            },
+            {
+                "level": 20,
+                "ascension": 0,
+                "hp": 2151,
+                "atk": 51,
+                "def": 135,
+                "EM": 0
+            },
+            {
+                "level": 21,
+                "ascension": 1,
+                "hp": 2933,
+                "atk": 70,
+                "def": 184,
+                "EM": 0
+            },
+            {
+                "level": 22,
+                "ascension": 1,
+                "hp": 3004,
+                "atk": 72,
+                "def": 189,
+                "EM": 0
+            },
+            {
+                "level": 23,
+                "ascension": 1,
+                "hp": 3074,
+                "atk": 74,
+                "def": 193,
+                "EM": 0
+            },
+            {
+                "level": 24,
+                "ascension": 1,
+                "hp": 3145,
+                "atk": 75,
+                "def": 197,
+                "EM": 0
+            },
+            {
+                "level": 25,
+                "ascension": 1,
+                "hp": 3215,
+                "atk": 77,
+                "def": 202,
+                "EM": 0
+            },
+            {
+                "level": 26,
+                "ascension": 1,
+                "hp": 3286,
+                "atk": 79,
+                "def": 206,
+                "EM": 0
+            },
+            {
+                "level": 27,
+                "ascension": 1,
+                "hp": 3357,
+                "atk": 80,
+                "def": 211,
+                "EM": 0
+            },
+            {
+                "level": 28,
+                "ascension": 1,
+                "hp": 3427,
+                "atk": 82,
+                "def": 215,
+                "EM": 0
+            },
+            {
+                "level": 29,
+                "ascension": 1,
+                "hp": 3499,
+                "atk": 84,
+                "def": 220,
+                "EM": 0
+            },
+            {
+                "level": 30,
+                "ascension": 1,
+                "hp": 3569,
+                "atk": 85,
+                "def": 224,
+                "EM": 0
+            },
+            {
+                "level": 31,
+                "ascension": 1,
+                "hp": 3641,
+                "atk": 87,
+                "def": 228,
+                "EM": 0
+            },
+            {
+                "level": 32,
+                "ascension": 1,
+                "hp": 3712,
+                "atk": 89,
+                "def": 233,
+                "EM": 0
+            },
+            {
+                "level": 33,
+                "ascension": 1,
+                "hp": 3783,
+                "atk": 91,
+                "def": 237,
+                "EM": 0
+            },
+            {
+                "level": 34,
+                "ascension": 1,
+                "hp": 3854,
+                "atk": 92,
+                "def": 242,
+                "EM": 0
+            },
+            {
+                "level": 35,
+                "ascension": 1,
+                "hp": 3925,
+                "atk": 94,
+                "def": 246,
+                "EM": 0
+            },
+            {
+                "level": 36,
+                "ascension": 1,
+                "hp": 3997,
+                "atk": 96,
+                "def": 251,
+                "EM": 0
+            },
+            {
+                "level": 37,
+                "ascension": 1,
+                "hp": 4068,
+                "atk": 97,
+                "def": 255,
+                "EM": 0
+            },
+            {
+                "level": 38,
+                "ascension": 1,
+                "hp": 4140,
+                "atk": 99,
+                "def": 260,
+                "EM": 0
+            },
+            {
+                "level": 39,
+                "ascension": 1,
+                "hp": 4211,
+                "atk": 101,
+                "def": 264,
+                "EM": 0
+            },
+            {
+                "level": 40,
+                "ascension": 1,
+                "hp": 4283,
+                "atk": 103,
+                "def": 269,
+                "EM": 0
+            },
+            {
+                "level": 41,
+                "ascension": 2,
+                "hp": 4860,
+                "atk": 116,
+                "def": 305,
+                "EM": 29
+            },
+            {
+                "level": 42,
+                "ascension": 2,
+                "hp": 4932,
+                "atk": 118,
+                "def": 310,
+                "EM": 29
+            },
+            {
+                "level": 43,
+                "ascension": 2,
+                "hp": 5004,
+                "atk": 120,
+                "def": 314,
+                "EM": 29
+            },
+            {
+                "level": 44,
+                "ascension": 2,
+                "hp": 5076,
+                "atk": 121,
+                "def": 319,
+                "EM": 29
+            },
+            {
+                "level": 45,
+                "ascension": 2,
+                "hp": 5148,
+                "atk": 123,
+                "def": 323,
+                "EM": 29
+            },
+            {
+                "level": 46,
+                "ascension": 2,
+                "hp": 5220,
+                "atk": 125,
+                "def": 328,
+                "EM": 29
+            },
+            {
+                "level": 47,
+                "ascension": 2,
+                "hp": 5292,
+                "atk": 127,
+                "def": 332,
+                "EM": 29
+            },
+            {
+                "level": 48,
+                "ascension": 2,
+                "hp": 5364,
+                "atk": 128,
+                "def": 337,
+                "EM": 29
+            },
+            {
+                "level": 49,
+                "ascension": 2,
+                "hp": 5437,
+                "atk": 130,
+                "def": 341,
+                "EM": 29
+            },
+            {
+                "level": 50,
+                "ascension": 2,
+                "hp": 5509,
+                "atk": 132,
+                "def": 346,
+                "EM": 29
+            },
+            {
+                "level": 51,
+                "ascension": 3,
+                "hp": 6255,
+                "atk": 150,
+                "def": 393,
+                "EM": 58
+            },
+            {
+                "level": 52,
+                "ascension": 3,
+                "hp": 6328,
+                "atk": 151,
+                "def": 397,
+                "EM": 58
+            },
+            {
+                "level": 53,
+                "ascension": 3,
+                "hp": 6400,
+                "atk": 153,
+                "def": 402,
+                "EM": 58
+            },
+            {
+                "level": 54,
+                "ascension": 3,
+                "hp": 6473,
+                "atk": 155,
+                "def": 406,
+                "EM": 58
+            },
+            {
+                "level": 55,
+                "ascension": 3,
+                "hp": 6546,
+                "atk": 157,
+                "def": 411,
+                "EM": 58
+            },
+            {
+                "level": 56,
+                "ascension": 3,
+                "hp": 6619,
+                "atk": 158,
+                "def": 415,
+                "EM": 58
+            },
+            {
+                "level": 57,
+                "ascension": 3,
+                "hp": 6692,
+                "atk": 160,
+                "def": 420,
+                "EM": 58
+            },
+            {
+                "level": 58,
+                "ascension": 3,
+                "hp": 6765,
+                "atk": 162,
+                "def": 425,
+                "EM": 58
+            },
+            {
+                "level": 59,
+                "ascension": 3,
+                "hp": 6838,
+                "atk": 164,
+                "def": 429,
+                "EM": 58
+            },
+            {
+                "level": 60,
+                "ascension": 3,
+                "hp": 6911,
+                "atk": 165,
+                "def": 434,
+                "EM": 58
+            },
+            {
+                "level": 61,
+                "ascension": 4,
+                "hp": 7489,
+                "atk": 179,
+                "def": 470,
+                "EM": 58
+            },
+            {
+                "level": 62,
+                "ascension": 4,
+                "hp": 7562,
+                "atk": 181,
+                "def": 475,
+                "EM": 58
+            },
+            {
+                "level": 63,
+                "ascension": 4,
+                "hp": 7636,
+                "atk": 183,
+                "def": 479,
+                "EM": 58
+            },
+            {
+                "level": 64,
+                "ascension": 4,
+                "hp": 7709,
+                "atk": 184,
+                "def": 484,
+                "EM": 58
+            },
+            {
+                "level": 65,
+                "ascension": 4,
+                "hp": 7783,
+                "atk": 186,
+                "def": 488,
+                "EM": 58
+            },
+            {
+                "level": 66,
+                "ascension": 4,
+                "hp": 7857,
+                "atk": 188,
+                "def": 493,
+                "EM": 58
+            },
+            {
+                "level": 67,
+                "ascension": 4,
+                "hp": 7930,
+                "atk": 190,
+                "def": 498,
+                "EM": 58
+            },
+            {
+                "level": 68,
+                "ascension": 4,
+                "hp": 8004,
+                "atk": 192,
+                "def": 502,
+                "EM": 58
+            },
+            {
+                "level": 69,
+                "ascension": 4,
+                "hp": 8078,
+                "atk": 193,
+                "def": 507,
+                "EM": 58
+            },
+            {
+                "level": 70,
+                "ascension": 4,
+                "hp": 8151,
+                "atk": 195,
+                "def": 512,
+                "EM": 58
+            },
+            {
+                "level": 71,
+                "ascension": 5,
+                "hp": 8730,
+                "atk": 209,
+                "def": 548,
+                "EM": 86
+            },
+            {
+                "level": 72,
+                "ascension": 5,
+                "hp": 8805,
+                "atk": 211,
+                "def": 553,
+                "EM": 86
+            },
+            {
+                "level": 73,
+                "ascension": 5,
+                "hp": 8879,
+                "atk": 212,
+                "def": 557,
+                "EM": 86
+            },
+            {
+                "level": 74,
+                "ascension": 5,
+                "hp": 8953,
+                "atk": 214,
+                "def": 562,
+                "EM": 86
+            },
+            {
+                "level": 75,
+                "ascension": 5,
+                "hp": 9027,
+                "atk": 216,
+                "def": 567,
+                "EM": 86
+            },
+            {
+                "level": 76,
+                "ascension": 5,
+                "hp": 9101,
+                "atk": 218,
+                "def": 571,
+                "EM": 86
+            },
+            {
+                "level": 77,
+                "ascension": 5,
+                "hp": 9176,
+                "atk": 220,
+                "def": 576,
+                "EM": 86
+            },
+            {
+                "level": 78,
+                "ascension": 5,
+                "hp": 9250,
+                "atk": 221,
+                "def": 581,
+                "EM": 86
+            },
+            {
+                "level": 79,
+                "ascension": 5,
+                "hp": 9325,
+                "atk": 223,
+                "def": 585,
+                "EM": 86
+            },
+            {
+                "level": 80,
+                "ascension": 5,
+                "hp": 9400,
+                "atk": 225,
+                "def": 590,
+                "EM": 86
+            },
+            {
+                "level": 81,
+                "ascension": 6,
+                "hp": 9980,
+                "atk": 239,
+                "def": 626,
+                "EM": 115
+            },
+            {
+                "level": 82,
+                "ascension": 6,
+                "hp": 10054,
+                "atk": 241,
+                "def": 631,
+                "EM": 115
+            },
+            {
+                "level": 83,
+                "ascension": 6,
+                "hp": 10129,
+                "atk": 242,
+                "def": 636,
+                "EM": 115
+            },
+            {
+                "level": 84,
+                "ascension": 6,
+                "hp": 10204,
+                "atk": 244,
+                "def": 640,
+                "EM": 115
+            },
+            {
+                "level": 85,
+                "ascension": 6,
+                "hp": 10278,
+                "atk": 246,
+                "def": 645,
+                "EM": 115
+            },
+            {
+                "level": 86,
+                "ascension": 6,
+                "hp": 10354,
+                "atk": 248,
+                "def": 650,
+                "EM": 115
+            },
+            {
+                "level": 87,
+                "ascension": 6,
+                "hp": 10428,
+                "atk": 250,
+                "def": 654,
+                "EM": 115
+            },
+            {
+                "level": 88,
+                "ascension": 6,
+                "hp": 10504,
+                "atk": 251,
+                "def": 659,
+                "EM": 115
+            },
+            {
+                "level": 89,
+                "ascension": 6,
+                "hp": 10579,
+                "atk": 253,
+                "def": 664,
+                "EM": 115
+            },
+            {
+                "level": 90,
+                "ascension": 6,
+                "hp": 10654,
+                "atk": 255,
+                "def": 669,
+                "EM": 115
+            },
+            {
+                "level": 95,
+                "ascension": 6,
+                "hp": 11032,
+                "atk": 284,
+                "def": 692,
+                "EM": 115
+            },
+            {
+                "level": 100,
+                "ascension": 6,
+                "hp": 11411,
+                "atk": 312,
+                "def": 716,
+                "EM": 115
+            }
+        ]
+    },
+    "icons": {
+        "forward": "UI_AvatarIcon_Lauma",
+        "coop_img": "UI_CoopImg_Lauma"
+    },
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101263": 168
+        },
+        "elemental": {
+            "104131": 1,
+            "104132": 9,
+            "104133": 9,
+            "104134": 6
+        },
+        "worldmonster": {
+            "112125": 18,
+            "112126": 30,
+            "112127": 36
+        },
+        "elitemonster": {
+            "113078": 46
+        }
+    },
+    "skills": {
+        "normalattack": {
+            "name": "Trilha Verdejante",
+            "icon": "Skill_A_Catalyst_MD",
+            "multipliers": {
+                "Dano do 1° Golpe": [
+                    "33.7%",
+                    "36.23%",
+                    "38.76%",
+                    "42.13%",
+                    "44.66%",
+                    "47.18%",
+                    "50.55%",
+                    "53.92%",
+                    "57.29%",
+                    "60.66%",
+                    "64.03%",
+                    "67.4%",
+                    "71.62%",
+                    "75.83%",
+                    "80.04%"
+                ],
+                "Dano do 2° Golpe": [
+                    "31.8%",
+                    "34.19%",
+                    "36.58%",
+                    "39.76%",
+                    "42.14%",
+                    "44.53%",
+                    "47.71%",
+                    "50.89%",
+                    "54.07%",
+                    "57.25%",
+                    "60.43%",
+                    "63.61%",
+                    "67.59%",
+                    "71.56%",
+                    "75.54%"
+                ],
+                "Dano do 3° Golpe": [
+                    "44.5%",
+                    "47.83%",
+                    "51.17%",
+                    "55.62%",
+                    "58.96%",
+                    "62.3%",
+                    "66.75%",
+                    "71.19%",
+                    "75.64%",
+                    "80.09%",
+                    "84.54%",
+                    "88.99%",
+                    "94.56%",
+                    "100.12%",
+                    "105.68%"
+                ],
+                "Consumo de Stamina de Movimento da Forma de Emissária Espiritual": [
+                    "25/s",
+                    "25/s",
+                    "25/s",
+                    "25/s",
+                    "25/s",
+                    "25/s",
+                    "25/s",
+                    "25/s",
+                    "25/s",
+                    "25/s",
+                    "25/s",
+                    "25/s",
+                    "25/s",
+                    "25/s",
+                    "25/s"
+                ],
+                "Custo de Stamina de Salto da Forma de Emissária Espiritual": [
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10"
+                ],
+                "Duração Máxima da Forma de Emissária Espiritual": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ],
+                "Tempo de Recarga da Metamorfose da Emissária Espiritual": [
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s"
+                ],
+                "Custo de Stamina da Oração Invoca-Espírito": [
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50"
+                ],
+                "Dano de Oração Invoca-Espírito": [
+                    "129.04%",
+                    "138.72%",
+                    "148.4%",
+                    "161.3%",
+                    "170.98%",
+                    "180.66%",
+                    "193.56%",
+                    "206.46%",
+                    "219.37%",
+                    "232.27%",
+                    "245.18%",
+                    "258.08%",
+                    "274.21%",
+                    "290.34%",
+                    "306.47%"
+                ],
+                "Dano Durante a Queda": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ]
+            },
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 3 golpes, causando <color=#99FF88FF>Dano Dendro</color>.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nLança Metamorfose da Emissária Espiritual. Lauma se transforma em uma Emissária Espiritual da floresta tranquila, consome uma certa quantidade de Stamina e avança em frente por até 10s. Nesse estado, aumenta a RES contra interrupção de Lauma, e pode consumir Stamina adicional para fazer até dois saltos consecutivos.\\nQuando sair do estado Emissária Espiritual, entrará na recarga, e nesse período os Ataques Carregados de Lauma serão convertidos em Oração Invoca-Espírito, que após um curto tempo de canalização, causa <color=#99FF88FF>Dano Dendro em AdE</color> contra os inimigos em frente.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nReunindo o poder do Dendro, mergulha em direção ao chão em pleno ar, infligindo dano a todos os inimigos em seu caminho. Inflige <color=#99FF88FF>Dano Dendro em uma AdE</color> durante o impacto com o chão."
+        },
+        "elementalskill": {
+            "name": "Runo: Descanso da Noite Eterna",
+            "icon": "Skill_S_Lauma_01",
+            "multipliers": {
+                "Dano de Pressionar": [
+                    "121.6%",
+                    "130.72%",
+                    "139.84%",
+                    "152%",
+                    "161.12%",
+                    "170.24%",
+                    "182.4%",
+                    "194.56%",
+                    "206.72%",
+                    "218.88%",
+                    "231.04%",
+                    "243.2%",
+                    "258.4%",
+                    "273.6%",
+                    "288.8%"
+                ],
+                "Dano de 1° Golpe ao Manter Pressionado": [
+                    "158.08%",
+                    "169.94%",
+                    "181.79%",
+                    "197.6%",
+                    "209.46%",
+                    "221.31%",
+                    "237.12%",
+                    "252.93%",
+                    "268.74%",
+                    "284.54%",
+                    "300.35%",
+                    "316.16%",
+                    "335.92%",
+                    "355.68%",
+                    "375.44%"
+                ],
+                "Dano do 2° Golpe de Manter Pressionado": [
+                    "152% da Proficiência Elemental por cada Orvalho Verdejante",
+                    "163.4% da Proficiência Elemental por cada Orvalho Verdejante",
+                    "174.8% da Proficiência Elemental por cada Orvalho Verdejante",
+                    "190% da Proficiência Elemental por cada Orvalho Verdejante",
+                    "201.4% da Proficiência Elemental por cada Orvalho Verdejante",
+                    "212.8% da Proficiência Elemental por cada Orvalho Verdejante",
+                    "228% da Proficiência Elemental por cada Orvalho Verdejante",
+                    "243.2% da Proficiência Elemental por cada Orvalho Verdejante",
+                    "258.4% da Proficiência Elemental por cada Orvalho Verdejante",
+                    "273.6% da Proficiência Elemental por cada Orvalho Verdejante",
+                    "288.8% da Proficiência Elemental por cada Orvalho Verdejante",
+                    "304% da Proficiência Elemental por cada Orvalho Verdejante",
+                    "323% da Proficiência Elemental por cada Orvalho Verdejante",
+                    "342% da Proficiência Elemental por cada Orvalho Verdejante",
+                    "361% da Proficiência Elemental por cada Orvalho Verdejante"
+                ],
+                "Dano do Ataque do Santuário da Floresta Congelada": [
+                    "96% do ATQ + 192% da Proficiência Elemental",
+                    "103.2% do ATQ + 206.4% da Proficiência Elemental",
+                    "110.4% do ATQ + 220.8% da Proficiência Elemental",
+                    "120% do ATQ + 240% da Proficiência Elemental",
+                    "127.2% do ATQ + 254.4% da Proficiência Elemental",
+                    "134.4% do ATQ + 268.8% da Proficiência Elemental",
+                    "144% do ATQ + 288% da Proficiência Elemental",
+                    "153.6% do ATQ + 307.2% da Proficiência Elemental",
+                    "163.2% do ATQ + 326.4% da Proficiência Elemental",
+                    "172.8% do ATQ + 345.6% da Proficiência Elemental",
+                    "182.4% do ATQ + 364.8% da Proficiência Elemental",
+                    "192% do ATQ + 384% da Proficiência Elemental",
+                    "204% do ATQ + 408% da Proficiência Elemental",
+                    "216% do ATQ + 432% da Proficiência Elemental",
+                    "228% do ATQ + 456% da Proficiência Elemental"
+                ],
+                "Duração do Santuário da Floresta Congelada": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Duração da Canção Lunar": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Diminuição de RES Elemental": [
+                    "2.5%",
+                    "5%",
+                    "7.5%",
+                    "10%",
+                    "12.5%",
+                    "15%",
+                    "17.5%",
+                    "20%",
+                    "22.5%",
+                    "25%",
+                    "28%",
+                    "31%",
+                    "34%",
+                    "37%",
+                    "40%"
+                ],
+                "Duração de Diminuição da RES Elemental": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ],
+                "Recarga": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ]
+            },
+            "description": "Recita uma oração, revelando o {LINK#N11190001}<color=#FFD780FF>Santuário da Floresta Congelada</color>{/LINK}, e gera efeitos diferentes se pressionar ou manter pressionado.\\n\\n<color=#FFD780FF>Pressionar</color>\\nRecita uma oração, causando <color=#99FF88FF>Dano Dendro em AdE</color>.\\n\\n<color=#FFD780FF>Manter pressionado</color>\\nSe possuir pelo menos 1 {LINK#N11190008}<color=#FFD780FF>Orvalho Verdejante</color>{/LINK}, pode ser lançado. Lauma consome todos os Orvalhos Verdejantes e recita uma oração para causar uma instância de <color=#99FF88FF>Dano Dendro em AdE</color>, e uma instância de <color=#99FF88FF>Dano Dendro em AdE</color> considerado como Florescimento Lunar. De acordo com o número de Orvalhos Verdejantes consumido, cada um consumido ainda pode fornecer 1 acúmulo de {LINK#N11190002}<color=#FFD780FF>Canção Lunar</color>{/LINK} para Lauma. Consome até 3 Orvalhos por cada vez que mantém pressionado para lançar a Habilidade Elemental.\\n\\nAlém disso, quando a Habilidade Elemental ou Santuário da Floresta Congelada de Lauma atingem um inimigo, esse inimigo terá sua <color=#99FF88FF>RES Dendro</color> e <color=#80C0FFFF>RES Hydro</color> reduzidas por 10s."
+        },
+        "elementalburst": {
+            "name": "Runo: Todos os Corações se Tornam a Lua",
+            "icon": "Skill_E_Lauma_01",
+            "multipliers": {
+                "Acúmulos de Canção Azul Ganhos do Supremo": [
+                    "18",
+                    "18",
+                    "18",
+                    "18",
+                    "18",
+                    "18",
+                    "18",
+                    "18",
+                    "18",
+                    "18",
+                    "18",
+                    "18",
+                    "18",
+                    "18",
+                    "18"
+                ],
+                "Conversão de Canção Lunar para Canção Azul": [
+                    "6 acúmulos por Canção Lunar",
+                    "6 acúmulos por Canção Lunar",
+                    "6 acúmulos por Canção Lunar",
+                    "6 acúmulos por Canção Lunar",
+                    "6 acúmulos por Canção Lunar",
+                    "6 acúmulos por Canção Lunar",
+                    "6 acúmulos por Canção Lunar",
+                    "6 acúmulos por Canção Lunar",
+                    "6 acúmulos por Canção Lunar",
+                    "6 acúmulos por Canção Lunar",
+                    "6 acúmulos por Canção Lunar",
+                    "6 acúmulos por Canção Lunar",
+                    "6 acúmulos por Canção Lunar",
+                    "6 acúmulos por Canção Lunar",
+                    "6 acúmulos por Canção Lunar"
+                ],
+                "Aumento de Dano de Florescimento, Superflorescimento e Germinação": [
+                    "277.76% da Proficiência Elemental",
+                    "298.59% da Proficiência Elemental",
+                    "319.42% da Proficiência Elemental",
+                    "347.2% da Proficiência Elemental",
+                    "368.03% da Proficiência Elemental",
+                    "388.86% da Proficiência Elemental",
+                    "416.64% da Proficiência Elemental",
+                    "444.42% da Proficiência Elemental",
+                    "472.19% da Proficiência Elemental",
+                    "499.97% da Proficiência Elemental",
+                    "527.74% da Proficiência Elemental",
+                    "555.52% da Proficiência Elemental",
+                    "590.24% da Proficiência Elemental",
+                    "624.96% da Proficiência Elemental",
+                    "659.68% da Proficiência Elemental"
+                ],
+                "Aumento de Dano de Florescimento Lunar": [
+                    "222.24% da Proficiência Elemental",
+                    "238.91% da Proficiência Elemental",
+                    "255.58% da Proficiência Elemental",
+                    "277.8% da Proficiência Elemental",
+                    "294.47% da Proficiência Elemental",
+                    "311.14% da Proficiência Elemental",
+                    "333.36% da Proficiência Elemental",
+                    "355.58% da Proficiência Elemental",
+                    "377.81% da Proficiência Elemental",
+                    "400.03% da Proficiência Elemental",
+                    "422.26% da Proficiência Elemental",
+                    "444.48% da Proficiência Elemental",
+                    "472.26% da Proficiência Elemental",
+                    "500.04% da Proficiência Elemental",
+                    "527.82% da Proficiência Elemental"
+                ],
+                "Duração de Canção Azul": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Tempo de Recarga": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Energia Elemental": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ]
+            },
+            "description": "Que os desejos de todos os seres vivos se torna o luar que banha a terra. Lauma canta uma canção sagrada do norte, ganhando 18 acúmulos de {LINK#N11190003}<color=#FFD780FF>Canção Azul</color>{/LINK}.\\nAlém disso, quando Lauma está sob o estado {LINK#N11190002}<color=#FFD780FF>Canção Lunar</color>{/LINK} e lança seu Supremo, ou quando obtém Canção Lunar nos 15s após lançar o Supremo, Lauma consome todos os acúmulos de Canção Lunar, e obtém 6 acúmulos de Canção Azul para cada acúmulo consumido. Esse efeito pode ser ativado uma vez por Supremo lançado ou pelos 15s após lançar o Supremo.\\n\\n<color=#FFD780FF>Canção Azul</color>\\nQuando um membro da equipe próximo causar Dano de Florescimento, Superflorescimento, Germinação e Florescimento Lunar, consome 1 acúmulo de Canção Azul para aumentar o Dano. O aumento é baseado na Proficiência Elemental de Lauma. Quando esse Dano atinge múltiplos inimigos de uma vez só, consumirá o número de acúmulos de Canção Azul correspondente ao número de inimigos atingidos.\\nCada acúmulo de Canção Azul possui sua duração contada separadamente."
+        },
+        "leveling": {
+            "crown": {
+                "104319": 3
+            },
+            "books": {
+                "104356": 9,
+                "104357": 63,
+                "104358": 114
+            },
+            "worldmonster": {
+                "112125": 18,
+                "112126": 66,
+                "112127": 93
+            },
+            "weekly": {
+                "113070": 18
+            }
+        }
+    },
+    "passives": {
+        "p1": {
+            "name": "Brilho da Noite Gelada",
+            "description": "Nos 20s depois de Lauma lançar sua Habilidade Elemental <color=#FFD780FF>{LINK#S11192}Runo: Descanso da Noite Eterna{/LINK}</color>, gera efeitos de fortalecimento diferentes de acordo com o <color=#FFD780FF>Presságio Lunar</color>da equipe, níveis de Presságio Lunar diferentes fornecem bônus diferentes, e não acumulam.\\n\\n<color=#FFD780FF>Presságio Lunar: Reluzir Inicial</color>\\nO Dano de Florescimento, Superflorescimento e Germinação causado por todos os personagens próximos pode causar um Acerto CRIT, com Taxa CRIT fixada em 15% e o Dano CRIT fixado em 100%. A Taxa CRIT fornecida por esse efeito pode acumular com a Taxa CRIT de efeitos similares que permitem essas reações elementais a causarem Acertos CRIT.\\n\\n<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>\\nAumenta a Taxa CRIT em 10% e o Dano CRIT em 20% de todos os personagens próximos que causarem Dano de Florescimento Lunar da equipe.",
+            "icon": "UI_Talent_S_Lauma_05"
+        },
+        "p2": {
+            "name": "Batismo da Nascente Doce",
+            "description": "Cada ponto de Proficiência Elemental de Lauma pode fazer ela obter os seguintes fortalecimentos:\\n· Aumenta o Dano de sua Habilidade Elemental em 0.04%. É possível aumentar o Dano em até 32% dessa forma.\\n· Diminui o tempo de recarga do Ataque Carregado <color=#FFD780FF>Metamorfose da Emissária Espiritual</color> em 0.02%. É possível reduzir a recarga de Metamorfose da Emissária Espiritual em até 20% dessa forma.",
+            "icon": "UI_Talent_S_Lauma_06"
+        },
+        "p3": {
+            "name": "Bênção do Presságio Lunar: Graça da Cacofonia",
+            "description": "Quando um membro da equipe desencadeia Florescimento, converte para desencadear Florescimento Lunar, e aumenta o Dano Básico causado por Florescimento Lunar para o personagem da equipe com base na Proficiência Elemental de Lauma: cada ponto de Proficiência Elemental aumenta o Dano Básico de Florescimento Lunar em 0.0175%. É possível aumentar o Dano em até 14% dessa forma.\\n\\nAlém disso, quando Lauma está na equipe, aumenta o <color=#FFD780FF>Presságio Lunar</color> da equipe em um nível.",
+            "icon": "UI_Talent_S_Lauma_07"
+        },
+        "p4": {
+            "name": "Orações para a Floresta",
+            "description": "Mostra a localização de <color=#FFD780FF>Especialidades de Nod-Krai</color> próximas no mapa.\\nAlém disso, Lauma possui uma familiaridade e poder especial com alguns animais pequenos que podem ser afetados por Kuuvahki...",
+            "icon": "UI_Talent_S_Lauma_08"
+        }
+    },
+    "constellations": {
+        "const1": {
+            "name": "\"Ó, Lábios, Recitem Salmos e Canções!\"",
+            "description": "Após Lauma lançar a Habilidade Elemental <color=#FFD780FF>{LINK#S11192}Runo: Descanso da Noite Eterna{/LINK}</color> ou o Supremo <color=#FFD780FF>{LINK#S11195}Runo: Todos os Corações se Tornam a Lua{/LINK}</color>, obtém Tecimento da Vida por 20s.\\nNessa duração, quando um membro próximo da equipe desencadeia Florescimento Lunar, regenera Vida para o membro próximo ativo da equipe. A quantidade regenerada é equivalente a 500% da Proficiência Elemental de Lauma. Esse efeito pode ocorrer uma vez a cada 1.9s.\\nAlém disso, o consumo de Stamina de Forma de Emissária Espiritual é reduzido em 40%, e sua duração é prolongada em 5s.",
+            "icon": "UI_Talent_S_Lauma_01"
+        },
+        "const2": {
+            "name": "\"Avisos e Contos do Norte\"",
+            "description": "Fortalece o Supremo <color=#FFD780FF>{LINK#S11195}Runo: Todos os Corações se Tornam a Lua{/LINK}</color>:\\n· Aumenta o efeito de {LINK#N11190003}<color=#FFD780FF>Canção Azul</color>{/LINK}: aumenta o Dano de quando todos os personagens próximos da equipe desencadearem Florescimento, Superflorescimento ou Germinação. O valor do aumento é 500% da Proficiência Elemental de Lauma. Aumenta o Dano causado por Florescimento Lunar por todos os membros da equipe. O valor do aumento é 400% da Proficiência Elemental de Lauma.\\n\\n<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>: aumenta o Dano causado por Florescimento Lunar por todos os personagens da equipe em 40%.",
+            "icon": "UI_Talent_S_Lauma_02"
+        },
+        "const3": {
+            "name": "\"Não Almejo Percorrer o Caminho da Raposa Astuta\"",
+            "description": "Aumenta o nível do Supremo <color=#FFD780FF>{LINK#S11195}Runo: Todos os Corações se Tornam a Lua{/LINK}</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Lauma_01"
+        },
+        "const4": {
+            "name": "\"Nem Desejo o Poder do Grande Urso\"",
+            "description": "Quando <color=#FFD780FF>{LINK#S11192}Santuário da Floresta Congelada{/LINK}</color> da Habilidade Elemental <color=#FFD780FF>{LINK#N11190001}Runo: Descanso da Noite Eterna{/LINK}</color> atinge um inimigo, regenera 4 de Energia para Lauma. Esse efeito pode ser desencadeado uma vez a cada 5s.",
+            "icon": "UI_Talent_S_Lauma_03"
+        },
+        "const5": {
+            "name": "\"Se a Verdade Puder Testemunhar\"",
+            "description": "Aumenta o nível da Habilidade Elemental <color=#FFD780FF>{LINK#S11192}Runo: Descanso da Noite Eterna{/LINK}</color> em 3 níveis. \\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Lauma_02"
+        },
+        "const6": {
+            "name": "\"Desejo Dar o Sangue e as Lágrimas à Lua\"",
+            "description": "Quando um ataque de {LINK#N11190001}<color=#FFD780FF>Santuário da Floresta Congelada</color>{/LINK} atinge um inimigo, causa uma instância adicional de <color=#99FF88FF>Dano Dendro em AdE</color> que é considerado Dano de Florescimento Lunar. Esse Dano é baseado em 185% da Proficiência Elemental de Lauma, não consome Canção {LINK#N11190003}<color=#FFD780FF>Canção Azul</color>{/LINK}, faz Lauma obter 2 acúmulos de Canção Azul e redefine a duração da Canção Azul obtida dessa forma.\\nEsse efeito pode ser desencadeado 8 vezes na duração de uma instância de Santuário da Floresta Congelada. Ao lançar a Habilidade Elemental <color=#FFD780FF>{LINK#S11192}Runo: Descanso da Noite Eterna{/LINK}</color>, removerá a Canção Azul obtida dessa forma.\\n\\nAlém disso, se Lauma realizar um Ataque Normal enquanto possuir Canção Azul, consome 1 acúmulo de Canção Azul para converter em 150% de sua Proficiência Elemental como <color=#99FF88FF>Dano Dendro</color>. Esse Dano é considerado Dano de Florescimento Lunar.\\n\\n<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>: aumenta o Dano de Florescimento Lunar de {LINK#N11190007}<color=#FFD780FF>Elevação</color>{/LINK} de todos os membros próximos da equipe em 25%.",
+            "icon": "UI_Talent_S_Lauma_04"
+        }
+    },
+    "energy": [
+        {
+            "source": "ElementalArt_DropBall",
+            "particles": "1",
+            "chance": "66%",
+            "cd": "3.3s"
+        },
+        {
+            "source": "ElementalArt_DropBall",
+            "particles": "2",
+            "chance": "33%",
+            "cd": "3.3s"
+        }
+    ],
+    "attacks": [
+        {
+            "name": "ElementalArt",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV1/30",
+            "element": "Grass"
+        },
+        {
+            "name": "ElementalArt_Click",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/50",
+            "element": "Grass"
+        },
+        {
+            "name": "ElementalArt_Hold",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/50",
+            "element": "Grass"
+        },
+        {
+            "name": "ElementalArt_Hold",
+            "icd_source": "Tag: MoonOvergrowDamage (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV1/30",
+            "element": "Grass"
+        },
+        {
+            "name": "ElementalArt_Hold",
+            "icd_source": "Tag: MoonOvergrowDamage (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV1/30",
+            "element": "Grass"
+        },
+        {
+            "name": "ElementalArt_Hold",
+            "icd_source": "Tag: MoonOvergrowDamage (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV1/30",
+            "element": "Grass"
+        },
+        {
+            "name": "ElementalBurst",
+            "icd_source": "Tag: MoonOvergrowDamage (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV1/30",
+            "element": "Grass"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/5",
+            "element": "Grass"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/50",
+            "element": "Grass"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/100",
+            "element": "Grass"
+        },
+        {
+            "name": "Attack01",
+            "icd_source": "Tag: MoonOvergrowDamage (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/7",
+            "element": "Grass"
+        },
+        {
+            "name": "Attack01",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/7",
+            "element": "Grass"
+        },
+        {
+            "name": "Attack02",
+            "icd_source": "Tag: MoonOvergrowDamage (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/7",
+            "element": "Grass"
+        },
+        {
+            "name": "Attack02",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/7",
+            "element": "Grass"
+        },
+        {
+            "name": "Attack03",
+            "icd_source": "Tag: MoonOvergrowDamage (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/10",
+            "element": "Grass"
+        },
+        {
+            "name": "Attack03",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Grass"
+        },
+        {
+            "name": "ExtraAttack_Damage",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/80",
+            "element": "Grass"
+        }
+    ],
+    "hyperlinks": [
+        {
+            "id": 11190001,
+            "name": "Santuário da Floresta Congelada",
+            "description": "Uma formação mágica que protege os Emissários da Canção Lunar, e que é invocada pela Habilidade Elemental Runo: Descanso da Noite Eterna.\\nSantuário da Floresta Congelada acompanha o personagem ativo, e causa Dano Dendro em AdE uma vez contra inimigos que estejam na formação a cada 2s. Esse Dano é considerado Dano de Habilidade Elemental.",
+            "params": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "id": 11190002,
+            "name": "Canção Lunar",
+            "description": "Uma melodia usada para compor hinos. Pode ser convertida em uma Canção Azul para aumentar o Dano de Florescimento, Superflorescimento, Germinação e Florescimento Lunar ao lançar o Supremo ou depois de um certo tempo após lançar o Supremo.\\nQuando Lauma consome o Orvalho Verdejantes ao manter pressionado para lançar a Habilidade Elemental Runo: Descanso da Noite Eterna, obterá um acúmulo de Canção Lunar para cada acúmulo de Orvalho Verdejante consumido.",
+            "params": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "id": 11190003,
+            "name": "Canção Azul",
+            "description": "Recita o canto da Emissária da Canção Lunar, podendo aumentar o Dano causado por Florescimento, Superflorescimento, Germinação e Florescimento Lunar.\\n\\nLauma pode obter Canção Azul através das seguintes formas:\\n· Ao lançar o Supremo Runo: Todos os Corações se Tornam a Lua.\\n· Ao desencadear o efeito Canção Lunar do Supremo Runo: Todos os Corações se Tornam a Lua.\\nAo desencadear o efeito Santuário da Floresta Congelada da Constelação \"Desejo Dar o Sangue e as Lágrimas à Lua\".\\n\\nQuando um personagem da equipe causa Dano de Florescimento, Superflorescimento, Germinação e Florescimento Lunar, consome 1 acúmulo de Canção Azul para aumentar o Dano causado. O aumento de Dano é baseado na Proficiência Elemental de Lauma. Quando o Dano acima atinge muitos inimigos simultaneamente, consumirá a quantidade de acúmulos de Canção Azul de acordo com a quantidade de inimigos atingidos.\\nCada acúmulo de Canção Azul tem sua duração contada separadamente.",
+            "params": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "id": 11190004,
+            "name": "Canção Noturna",
+            "description": "O Dano de Florescimento, Superflorescimento e Germinação causado por um personagem pode causar um Acerto CRIT, com Taxa CRIT fixada em 15.0% e o Dano CRIT fixado em 100%. A Taxa CRIT fornecida por esse efeito pode acumular com a Taxa CRIT de efeitos similares que permitem essas reações elementais a causarem Acertos CRIT.",
+            "params": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "id": 11190005,
+            "name": "Elegia da Lua",
+            "description": "Aumenta a Taxa CRIT em 10.0% e o Dano CRIT em 20.0% para os personagens que causam Dano de Florescimento Lunar.",
+            "params": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "id": 11190007,
+            "name": "Elevação",
+            "description": "O efeito de aumento de Dano especial e os outros efeitos de aumento de Dano têm suas durações contadas separadamente.",
+            "params": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "id": 11190008,
+            "name": "Orvalho Verdejante",
+            "description": "Quando os membros da equipe desencadeiam Florescimento Lunar, fornece recursos para a equipe.\\nNos 2.5s após desencadear Florescimento Lunar, a cada 2.5s fornece um Orvalho Verdejante para a equipe, até o máximo de 3. Nesse período, desencadear Florescimento Lunar novamente redefinirá a duração desse efeito.",
+            "params": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ]
+}

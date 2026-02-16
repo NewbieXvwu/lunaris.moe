@@ -1,0 +1,1296 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104151": 1,
+            "104152": 9,
+            "104153": 9,
+            "104154": 6
+        },
+        "elitemonster": {
+            "113071": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101206": 168
+        },
+        "worldmonster": {
+            "112044": 18,
+            "112045": 30,
+            "112046": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "ExtraAttack_Initiate",
+            "poise": "LV1/90"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Mizuki_NormalAttack (!)",
+            "name": "NormalAttack_Bullet_1_Damage",
+            "poise": "LV1/9"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Mizuki_NormalAttack (!)",
+            "name": "NormalAttack_Bullet_2_Damage",
+            "poise": "LV1/8"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Mizuki_NormalAttack (!)",
+            "name": "NormalAttack_Bullet_3_Damage",
+            "poise": "LV1/13"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art_1 (!)",
+            "name": "Talent_1_Attacker",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_WindAttack",
+            "poise": "LV2/13"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 1.2s",
+            "icd_source": "Grp: Mizuki_Eart_Attack (Tag Miss)",
+            "name": "ElementalArt_WindAttack_Attacker",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "Wind",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV5/100"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_DreamGadget_WindAttack",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_DreamGadget_WindAttack",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Wind",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/5"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "梦见月瑞希处于梦浮状态下时，每3.5秒将对附近的敌人施加持续3秒的「二十三夜待」效果。处于二十三夜待状态下的敌人受到风元素伤害而触发扩散反应时，将移除该效果，使此次扩散反应对该敌人造成的伤害提升，提升值相当于梦见月瑞希元素精通的1100%。",
+            "icon": "UI_Talent_S_Mizuki_01",
+            "name": "宿雾若水遥"
+        },
+        "const2": {
+            "description": "进入梦浮状态时，梦见月瑞希的每点元素精通，会为附近的队伍中所有其他角色提供0.04%<color=#FF9999FF>火元素</color>、<color=#80C0FFFF>水元素</color>、<color=#99FFFFFF>冰元素</color>与<color=#FFACFFFF>雷元素</color>伤害加成，效果持续至梦浮状态结束。",
+            "icon": "UI_Talent_S_Mizuki_02",
+            "name": "缠忆君影梦相见"
+        },
+        "const3": {
+            "description": "元素战技<color=#FFD780FF>秋沙歌枕巡礼</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Mizuki_01",
+            "name": "晓月又经宵"
+        },
+        "const4": {
+            "description": "拾取元素爆发<color=#FFD780FF>安乐秘汤疗法</color>中的<color=#FFD780FF>梦见风名物点心</color>时，将同时造成伤害与治疗，并为梦见月瑞希恢复5点元素能量。一次<color=#FFD780FF>安乐秘汤疗法</color>持续期间，至多通过这种方式恢复4次元素能量。",
+            "icon": "UI_Talent_S_Mizuki_03",
+            "name": "泉轻流花暖"
+        },
+        "const5": {
+            "description": "元素爆发<color=#FFD780FF>安乐秘汤疗法</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Mizuki_02",
+            "name": "岁云暮矣待月归"
+        },
+        "const6": {
+            "description": "梦见月瑞希处于梦浮状态下时，队伍中附近的角色触发的扩散反应造成的伤害能够造成暴击，暴击率固定为30%，暴击伤害固定为100%。",
+            "icon": "UI_Talent_S_Mizuki_04",
+            "name": "慕念萦心间"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.5s",
+            "chance": "100%",
+            "particles": "1",
+            "source": "ElemBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Mizuki",
+        "forward": "UI_AvatarIcon_Mizuki"
+    },
+    "info": {
+        "attributes": [
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 17,
+                "def": 59,
+                "hp": 991,
+                "level": 1
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 18,
+                "def": 64,
+                "hp": 1074,
+                "level": 2
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 20,
+                "def": 69,
+                "hp": 1156,
+                "level": 3
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 21,
+                "def": 74,
+                "hp": 1239,
+                "level": 4
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 22,
+                "def": 79,
+                "hp": 1322,
+                "level": 5
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 24,
+                "def": 84,
+                "hp": 1405,
+                "level": 6
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 25,
+                "def": 88,
+                "hp": 1487,
+                "level": 7
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 27,
+                "def": 93,
+                "hp": 1570,
+                "level": 8
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 28,
+                "def": 98,
+                "hp": 1654,
+                "level": 9
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 29,
+                "def": 103,
+                "hp": 1736,
+                "level": 10
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 31,
+                "def": 108,
+                "hp": 1819,
+                "level": 11
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 32,
+                "def": 113,
+                "hp": 1903,
+                "level": 12
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 34,
+                "def": 118,
+                "hp": 1986,
+                "level": 13
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 35,
+                "def": 123,
+                "hp": 2070,
+                "level": 14
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 36,
+                "def": 128,
+                "hp": 2153,
+                "level": 15
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 38,
+                "def": 133,
+                "hp": 2237,
+                "level": 16
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 39,
+                "def": 138,
+                "hp": 2321,
+                "level": 17
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 41,
+                "def": 143,
+                "hp": 2404,
+                "level": 18
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 42,
+                "def": 148,
+                "hp": 2489,
+                "level": 19
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 43,
+                "def": 153,
+                "hp": 2572,
+                "level": 20
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 59,
+                "def": 208,
+                "hp": 3506,
+                "level": 21
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 61,
+                "def": 213,
+                "hp": 3590,
+                "level": 22
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 62,
+                "def": 218,
+                "hp": 3675,
+                "level": 23
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 64,
+                "def": 223,
+                "hp": 3759,
+                "level": 24
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 65,
+                "def": 228,
+                "hp": 3843,
+                "level": 25
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 66,
+                "def": 234,
+                "hp": 3929,
+                "level": 26
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 68,
+                "def": 239,
+                "hp": 4013,
+                "level": 27
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 69,
+                "def": 244,
+                "hp": 4097,
+                "level": 28
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 71,
+                "def": 249,
+                "hp": 4182,
+                "level": 29
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 72,
+                "def": 254,
+                "hp": 4267,
+                "level": 30
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 74,
+                "def": 259,
+                "hp": 4352,
+                "level": 31
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 75,
+                "def": 264,
+                "hp": 4437,
+                "level": 32
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 76,
+                "def": 269,
+                "hp": 4522,
+                "level": 33
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 78,
+                "def": 274,
+                "hp": 4607,
+                "level": 34
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 79,
+                "def": 279,
+                "hp": 4692,
+                "level": 35
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 81,
+                "def": 284,
+                "hp": 4778,
+                "level": 36
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 82,
+                "def": 289,
+                "hp": 4863,
+                "level": 37
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 84,
+                "def": 294,
+                "hp": 4949,
+                "level": 38
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 85,
+                "def": 299,
+                "hp": 5034,
+                "level": 39
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 87,
+                "def": 304,
+                "hp": 5120,
+                "level": 40
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 98,
+                "def": 345,
+                "hp": 5810,
+                "level": 41
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 100,
+                "def": 350,
+                "hp": 5896,
+                "level": 42
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 101,
+                "def": 356,
+                "hp": 5982,
+                "level": 43
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 103,
+                "def": 361,
+                "hp": 6067,
+                "level": 44
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 104,
+                "def": 366,
+                "hp": 6154,
+                "level": 45
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 105,
+                "def": 371,
+                "hp": 6240,
+                "level": 46
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 107,
+                "def": 376,
+                "hp": 6326,
+                "level": 47
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 108,
+                "def": 381,
+                "hp": 6412,
+                "level": 48
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 110,
+                "def": 386,
+                "hp": 6500,
+                "level": 49
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 111,
+                "def": 391,
+                "hp": 6586,
+                "level": 50
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 126,
+                "def": 444,
+                "hp": 7477,
+                "level": 51
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 128,
+                "def": 450,
+                "hp": 7565,
+                "level": 52
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 129,
+                "def": 455,
+                "hp": 7651,
+                "level": 53
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 131,
+                "def": 460,
+                "hp": 7738,
+                "level": 54
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 132,
+                "def": 465,
+                "hp": 7825,
+                "level": 55
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 134,
+                "def": 470,
+                "hp": 7913,
+                "level": 56
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 135,
+                "def": 476,
+                "hp": 8000,
+                "level": 57
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 137,
+                "def": 481,
+                "hp": 8087,
+                "level": 58
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 138,
+                "def": 486,
+                "hp": 8174,
+                "level": 59
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 140,
+                "def": 491,
+                "hp": 8262,
+                "level": 60
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 151,
+                "def": 532,
+                "hp": 8953,
+                "level": 61
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 153,
+                "def": 537,
+                "hp": 9040,
+                "level": 62
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 154,
+                "def": 543,
+                "hp": 9128,
+                "level": 63
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 156,
+                "def": 548,
+                "hp": 9216,
+                "level": 64
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 157,
+                "def": 553,
+                "hp": 9304,
+                "level": 65
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 159,
+                "def": 558,
+                "hp": 9392,
+                "level": 66
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 160,
+                "def": 563,
+                "hp": 9479,
+                "level": 67
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 162,
+                "def": 569,
+                "hp": 9568,
+                "level": 68
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 163,
+                "def": 574,
+                "hp": 9656,
+                "level": 69
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 165,
+                "def": 579,
+                "hp": 9744,
+                "level": 70
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 176,
+                "def": 620,
+                "hp": 10436,
+                "level": 71
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 178,
+                "def": 626,
+                "hp": 10526,
+                "level": 72
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 179,
+                "def": 631,
+                "hp": 10614,
+                "level": 73
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 181,
+                "def": 636,
+                "hp": 10702,
+                "level": 74
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 182,
+                "def": 641,
+                "hp": 10791,
+                "level": 75
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 184,
+                "def": 647,
+                "hp": 10880,
+                "level": 76
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 185,
+                "def": 652,
+                "hp": 10969,
+                "level": 77
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 187,
+                "def": 657,
+                "hp": 11058,
+                "level": 78
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 188,
+                "def": 663,
+                "hp": 11147,
+                "level": 79
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 190,
+                "def": 668,
+                "hp": 11236,
+                "level": 80
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 202,
+                "def": 709,
+                "hp": 11930,
+                "level": 81
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 203,
+                "def": 714,
+                "hp": 12019,
+                "level": 82
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 205,
+                "def": 720,
+                "hp": 12108,
+                "level": 83
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 206,
+                "def": 725,
+                "hp": 12197,
+                "level": 84
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 208,
+                "def": 730,
+                "hp": 12287,
+                "level": 85
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 209,
+                "def": 736,
+                "hp": 12377,
+                "level": 86
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 211,
+                "def": 741,
+                "hp": 12466,
+                "level": 87
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 212,
+                "def": 746,
+                "hp": 12556,
+                "level": 88
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 214,
+                "def": 752,
+                "hp": 12647,
+                "level": 89
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 215,
+                "def": 757,
+                "hp": 12736,
+                "level": 90
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 239,
+                "def": 784,
+                "hp": 13188,
+                "level": 95
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 264,
+                "def": 811,
+                "hp": 13641,
+                "level": 100
+            }
+        ],
+        "birthday": "March 16th",
+        "constellation": "貘枕座",
+        "description": "「秋沙钱汤」的股东，梦貘一族的心理诊疗师，致力于驱散噩梦，为人们带来安宁的心境。",
+        "element": "Anemo",
+        "name": "梦见月瑞希",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_CATALYST"
+    },
+    "passives": {
+        "p1": {
+            "description": "梦见月瑞希在梦浮状态下触发扩散反应时，梦浮状态的持续时间延长2.5秒。该效果每0.3秒至多触发1次，在一次梦浮状态期间至多触发2次。",
+            "icon": "UI_Talent_S_Mizuki_05",
+            "name": "名月浮声"
+        },
+        "p2": {
+            "description": "梦见月瑞希处于梦浮状态下时，队伍中附近的其他角色的元素类型为<color=#FF9999FF>火元素</color>、<color=#80C0FFFF>水元素</color>、<color=#99FFFFFF>冰元素</color>或<color=#FFACFFFF>雷元素</color>的攻击命中敌人时，梦见月瑞希的元素精通提升100点，持续4秒。",
+            "icon": "UI_Talent_S_Mizuki_06",
+            "name": "昼想夜梦"
+        },
+        "p3": {
+            "description": "梦见月瑞希在队伍中时，队伍中自己的角色使用不具备复苏功能的恢复类料理时的回复量有概率提升30%，该效果的触发概率基于对应角色的好感等级（旅行者使用时，该效果将始终触发）。",
+            "icon": "UI_Talent_S_Mizuki_07",
+            "name": "诸病无病"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "唤起无数「美梦」与「噩梦」的回忆，牵引附近的物体与敌人，造成<color=#80FFD7FF>风元素范围伤害</color>，并召唤出小貘来帮忙。\\n\\n<color=#FFD780FF>小貘</color>\\n将跟随当前场上角色。每隔一段时间，小貘将在附近制造出1枚「梦见风名物点心」。队伍中自己的角色拾取梦见风名物点心后，若拾取者的生命值高于70%，梦见风名物点心便会发生爆炸并释放梦念冲击波，对周围的敌人造成一次<color=#80FFD7FF>风元素范围伤害</color>，否则会为拾取者恢复生命值，回复量受益于梦见月瑞希的元素精通。梦见月瑞希拾取梦见风名物点心并触发治疗时，治疗量还会提升100%。如果一段时间后仍未被拾取，梦见风名物点心也会发生爆炸并释放梦念冲击波，对周围的敌人造成一次<color=#80FFD7FF>风元素范围伤害</color>。\\n\\n<i>「晦暗的情绪要是埋藏太久，就会变成『噩梦』了喔。所以呀，不妨趁着这个机会，将它们作为『美味的点心』吃掉吧？」</i>",
+            "icon": "Skill_E_Mizuki_01",
+            "multipliers": {
+                "元素能量": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "冷却时间": [
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒"
+                ],
+                "技能伤害": [
+                    "94.08%",
+                    "101.14%",
+                    "108.19%",
+                    "117.6%",
+                    "124.66%",
+                    "131.71%",
+                    "141.12%",
+                    "150.53%",
+                    "159.94%",
+                    "169.34%",
+                    "178.75%",
+                    "188.16%",
+                    "199.92%",
+                    "211.68%",
+                    "223.44%"
+                ],
+                "拾取点心回复生命值": [
+                    "130.56%元素精通+315",
+                    "140.35%元素精通+346",
+                    "150.14%元素精通+380",
+                    "163.2%元素精通+417",
+                    "172.99%元素精通+456",
+                    "182.78%元素精通+498",
+                    "195.84%元素精通+543",
+                    "208.9%元素精通+590",
+                    "221.95%元素精通+640",
+                    "235.01%元素精通+692",
+                    "248.06%元素精通+747",
+                    "261.12%元素精通+805",
+                    "277.44%元素精通+865",
+                    "293.76%元素精通+928",
+                    "310.08%元素精通+994"
+                ],
+                "持续时间": [
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒"
+                ],
+                "梦念冲击波伤害": [
+                    "70.56%",
+                    "75.85%",
+                    "81.14%",
+                    "88.2%",
+                    "93.49%",
+                    "98.78%",
+                    "105.84%",
+                    "112.9%",
+                    "119.95%",
+                    "127.01%",
+                    "134.06%",
+                    "141.12%",
+                    "149.94%",
+                    "158.76%",
+                    "167.58%"
+                ]
+            },
+            "name": "安乐秘汤疗法"
+        },
+        "elementalskill": {
+            "description": "编织出「美梦」的回忆，进入悬浮于地面之上的<color=#FFD780FF>梦浮</color>状态，并对周围的敌人造成一次<color=#80FFD7FF>风元素范围伤害</color>。\\n\\n<color=#FFD780FF>梦浮</color>\\n·处于梦浮状态下时，梦见月瑞希将持续向前浮行，并将周期性对附近的敌人造成<color=#80FFD7FF>风元素范围伤害</color>；\\n·期间，梦见月瑞希可以控制浮行的方向，并提升元素爆发<color=#FFD780FF>安乐秘汤疗法</color>中的<color=#FFD780FF>梦见风名物点心</color>的拾取距离；\\n·基于梦见月瑞希的元素精通，提升队伍中附近的角色触发的扩散反应造成的伤害；\\n·梦见月瑞希退场时，或是再次施放技能时，梦浮状态将会结束。\\n\\n<i>「宵宵夕月梦相逢，心曲缱绻绕意中。」</i>",
+            "icon": "Skill_S_Mizuki_01",
+            "multipliers": {
+                "冷却时间": [
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒"
+                ],
+                "技能伤害": [
+                    "57.74%",
+                    "62.07%",
+                    "66.41%",
+                    "72.18%",
+                    "76.51%",
+                    "80.84%",
+                    "86.62%",
+                    "92.39%",
+                    "98.16%",
+                    "103.94%",
+                    "109.71%",
+                    "115.49%",
+                    "122.71%",
+                    "129.92%",
+                    "137.14%"
+                ],
+                "持续攻击伤害": [
+                    "44.91%",
+                    "48.28%",
+                    "51.65%",
+                    "56.14%",
+                    "59.51%",
+                    "62.88%",
+                    "67.37%",
+                    "71.86%",
+                    "76.35%",
+                    "80.84%",
+                    "85.33%",
+                    "89.82%",
+                    "95.44%",
+                    "101.05%",
+                    "106.67%"
+                ],
+                "梦浮持续时间": [
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒"
+                ],
+                "每点精通提升扩散伤害百分比": [
+                    "0.18%",
+                    "0.21%",
+                    "0.24%",
+                    "0.27%",
+                    "0.3%",
+                    "0.33%",
+                    "0.36%",
+                    "0.39%",
+                    "0.42%",
+                    "0.45%",
+                    "0.48%",
+                    "0.51%",
+                    "0.54%",
+                    "0.57%",
+                    "0.6%"
+                ]
+            },
+            "name": "秋沙歌枕巡礼"
+        },
+        "leveling": {
+            "books": {
+                "104320": 9,
+                "104321": 63,
+                "104322": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113060": 18
+            },
+            "worldmonster": {
+                "112044": 18,
+                "112045": 66,
+                "112046": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>普通攻击</color>\\n进行至多三段攻击，造成<color=#80FFD7FF>风元素伤害</color>。\\n\\n<color=#FFD780FF>重击</color>\\n消耗一定体力，短暂咏唱后，造成<color=#80FFD7FF>风元素范围伤害</color>。\\n\\n<color=#FFD780FF>下落攻击</color>\\n凝聚风元素的力量，从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成<color=#80FFD7FF>风元素范围伤害</color>。",
+            "icon": "Skill_A_Catalyst_MD",
+            "multipliers": {
+                "一段伤害": [
+                    "52.28%",
+                    "56.2%",
+                    "60.12%",
+                    "65.35%",
+                    "69.27%",
+                    "73.19%",
+                    "78.42%",
+                    "83.64%",
+                    "88.87%",
+                    "94.1%",
+                    "99.33%",
+                    "104.55%",
+                    "111.09%",
+                    "117.62%",
+                    "124.16%"
+                ],
+                "三段伤害": [
+                    "71.37%",
+                    "76.72%",
+                    "82.07%",
+                    "89.21%",
+                    "94.56%",
+                    "99.92%",
+                    "107.05%",
+                    "114.19%",
+                    "121.33%",
+                    "128.46%",
+                    "135.6%",
+                    "142.74%",
+                    "151.66%",
+                    "160.58%",
+                    "169.5%"
+                ],
+                "下坠期间伤害": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "二段伤害": [
+                    "46.91%",
+                    "50.43%",
+                    "53.95%",
+                    "58.64%",
+                    "62.16%",
+                    "65.68%",
+                    "70.37%",
+                    "75.06%",
+                    "79.75%",
+                    "84.45%",
+                    "89.14%",
+                    "93.83%",
+                    "99.69%",
+                    "105.56%",
+                    "111.42%"
+                ],
+                "低空/高空坠地冲击伤害": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "重击伤害": [
+                    "130%",
+                    "139.75%",
+                    "149.5%",
+                    "162.5%",
+                    "172.25%",
+                    "182%",
+                    "195%",
+                    "208%",
+                    "221%",
+                    "234%",
+                    "247%",
+                    "260%",
+                    "276.25%",
+                    "292.5%",
+                    "308.75%"
+                ],
+                "重击体力消耗": [
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点"
+                ]
+            },
+            "name": "梦我梦心"
+        }
+    }
+}

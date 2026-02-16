@@ -1,0 +1,1621 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104151": 1,
+            "104152": 9,
+            "104153": 9,
+            "104154": 6
+        },
+        "elitemonster": {
+            "113066": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101241": 168
+        },
+        "worldmonster": {
+            "112038": 18,
+            "112039": 30,
+            "112040": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "ExtraAttack_Bullet_2",
+            "poise": "LV3/40"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "ExtraAttack_Bullet_2",
+            "poise": "LV4/40"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt",
+            "name": "ElementalArt_Bullet_Wind",
+            "poise": "LV5/50"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt",
+            "name": "ElementalArt_Bullet_Wind",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt",
+            "name": "ElementalArt_Bullet_Wind",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt",
+            "name": "ElementalArt_Bullet_Fire",
+            "poise": "LV5/50"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt_Mix",
+            "name": "ElementalArt_Bullet_Fire",
+            "poise": "LV5/50"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt",
+            "name": "ElementalArt_Bullet_Fire",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt_Mix",
+            "name": "ElementalArt_Bullet_Fire",
+            "poise": "LV3/25"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt",
+            "name": "ElementalArt_Bullet_Fire",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt_Mix",
+            "name": "ElementalArt_Bullet_Fire",
+            "poise": "LV3/25"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt",
+            "name": "ElementalArt_Bullet_Fire_Extra",
+            "poise": "LV5/50"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt_Mix",
+            "name": "ElementalArt_Bullet_Fire_Extra",
+            "poise": "LV5/50"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt",
+            "name": "ElementalArt_Bullet_Fire_Extra",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt_Mix",
+            "name": "ElementalArt_Bullet_Fire_Extra",
+            "poise": "LV3/25"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt",
+            "name": "ElementalArt_Bullet_Fire_Extra",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt_Mix",
+            "name": "ElementalArt_Bullet_Fire_Extra",
+            "poise": "LV3/25"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt",
+            "name": "ElementalArt_Bullet_Water",
+            "poise": "LV5/50"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt_Mix",
+            "name": "ElementalArt_Bullet_Water",
+            "poise": "LV5/50"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt",
+            "name": "ElementalArt_Bullet_Water",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt_Mix",
+            "name": "ElementalArt_Bullet_Water",
+            "poise": "LV3/25"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt",
+            "name": "ElementalArt_Bullet_Water",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt_Mix",
+            "name": "ElementalArt_Bullet_Water",
+            "poise": "LV3/25"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt",
+            "name": "ElementalArt_Bullet_Water_Extra",
+            "poise": "LV5/50"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt_Mix",
+            "name": "ElementalArt_Bullet_Water_Extra",
+            "poise": "LV5/50"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt",
+            "name": "ElementalArt_Bullet_Water_Extra",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt_Mix",
+            "name": "ElementalArt_Bullet_Water_Extra",
+            "poise": "LV3/25"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt",
+            "name": "ElementalArt_Bullet_Water_Extra",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt_Mix",
+            "name": "ElementalArt_Bullet_Water_Extra",
+            "poise": "LV3/25"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt",
+            "name": "ElementalArt_Bullet_Electric",
+            "poise": "LV5/50"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt_Mix",
+            "name": "ElementalArt_Bullet_Electric",
+            "poise": "LV5/50"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt",
+            "name": "ElementalArt_Bullet_Electric",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt_Mix",
+            "name": "ElementalArt_Bullet_Electric",
+            "poise": "LV3/25"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt",
+            "name": "ElementalArt_Bullet_Electric",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt_Mix",
+            "name": "ElementalArt_Bullet_Electric",
+            "poise": "LV3/25"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt",
+            "name": "ElementalArt_Bullet_Electric_Extra",
+            "poise": "LV5/50"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt_Mix",
+            "name": "ElementalArt_Bullet_Electric_Extra",
+            "poise": "LV5/50"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt",
+            "name": "ElementalArt_Bullet_Electric_Extra",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt_Mix",
+            "name": "ElementalArt_Bullet_Electric_Extra",
+            "poise": "LV3/25"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt",
+            "name": "ElementalArt_Bullet_Electric_Extra",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt_Mix",
+            "name": "ElementalArt_Bullet_Electric_Extra",
+            "poise": "LV3/25"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt",
+            "name": "ElementalArt_Bullet_Ice",
+            "poise": "LV5/50"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt_Mix",
+            "name": "ElementalArt_Bullet_Ice",
+            "poise": "LV5/50"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt",
+            "name": "ElementalArt_Bullet_Ice",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt_Mix",
+            "name": "ElementalArt_Bullet_Ice",
+            "poise": "LV3/25"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt",
+            "name": "ElementalArt_Bullet_Ice",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt_Mix",
+            "name": "ElementalArt_Bullet_Ice",
+            "poise": "LV3/25"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt",
+            "name": "ElementalArt_Bullet_Ice_Extra",
+            "poise": "LV5/50"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt_Mix",
+            "name": "ElementalArt_Bullet_Ice_Extra",
+            "poise": "LV5/50"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt",
+            "name": "ElementalArt_Bullet_Ice_Extra",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt_Mix",
+            "name": "ElementalArt_Bullet_Ice_Extra",
+            "poise": "LV3/25"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt",
+            "name": "ElementalArt_Bullet_Ice_Extra",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Lanyan_ElementalArt_Mix",
+            "name": "ElementalArt_Bullet_Ice_Extra",
+            "poise": "LV3/25"
+        },
+        {
+            "element": "AntiFire",
+            "gauge": "0.0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art_Detect (!)",
+            "name": "ElementalArt_Jump",
+            "poise": "-/0"
+        },
+        {
+            "element": "Wind",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Bullet_2",
+            "poise": "LV0/70"
+        },
+        {
+            "element": "Wind",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Bullet_2",
+            "poise": "LV0/70"
+        },
+        {
+            "element": "Wind",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Bullet_2",
+            "poise": "LV7/70"
+        },
+        {
+            "element": "Wind",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Bullet_2",
+            "poise": "LV7/70"
+        },
+        {
+            "element": "Wind",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/5"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "触发突破天赋「四戈封刀灵卜」中的元素转化后，蓝砚在这次元素战技<color=#FFD780FF>凤缕随翦舞</color>中向敌人抛出翦月环时，将额外抛出一枚翦月环。\\n需要解锁突破天赋「四戈封刀灵卜」。",
+            "icon": "UI_Talent_S_Lanyan_01",
+            "name": "「若有人兮云之际」"
+        },
+        "const2": {
+            "description": "<color=#FFD780FF>凤缕护盾</color>存在期间，队伍中自己的当前场上角色的普通攻击造成伤害时，会恢复40%凤缕护盾的伤害吸收量，至多恢复至创造护盾时的伤害吸收量，该效果每2秒至多触发一次。",
+            "icon": "UI_Talent_S_Lanyan_02",
+            "name": "「舞袂翩兮扬玉霓」"
+        },
+        "const3": {
+            "description": "元素战技<color=#FFD780FF>凤缕随翦舞</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Lanyan_01",
+            "name": "「乘白凤兮翦雾縠」"
+        },
+        "const4": {
+            "description": "施放元素爆发<color=#FFD780FF>鹍弦踏月出</color>之后的12秒内，队伍中附近所有角色的元素精通提升60点。",
+            "icon": "UI_Talent_S_Lanyan_03",
+            "name": "「揽龙鹰兮结血珠」"
+        },
+        "const5": {
+            "description": "元素爆发<color=#FFD780FF>鹍弦踏月出</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Lanyan_02",
+            "name": "「既见君兮予所欢」"
+        },
+        "const6": {
+            "description": "<color=#FFD780FF>凤缕随翦舞</color>的可使用次数增加1次。",
+            "icon": "UI_Talent_S_Lanyan_04",
+            "name": "「愿随风兮鸣银鸾」"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.2s",
+            "chance": "100%",
+            "particles": "3",
+            "source": "ElementalArt_ElementalBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Lanyan",
+        "forward": "UI_AvatarIcon_Lanyan"
+    },
+    "info": {
+        "attributes": [
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 49,
+                "hp": 775,
+                "level": 1
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 23,
+                "def": 53,
+                "hp": 839,
+                "level": 2
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 57,
+                "hp": 903,
+                "level": 3
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 61,
+                "hp": 967,
+                "level": 4
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 65,
+                "hp": 1031,
+                "level": 5
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 69,
+                "hp": 1095,
+                "level": 6
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 73,
+                "hp": 1159,
+                "level": 7
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 77,
+                "hp": 1223,
+                "level": 8
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 81,
+                "hp": 1287,
+                "level": 9
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 85,
+                "hp": 1351,
+                "level": 10
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 89,
+                "hp": 1415,
+                "level": 11
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 40,
+                "def": 93,
+                "hp": 1479,
+                "level": 12
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 97,
+                "hp": 1543,
+                "level": 13
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 101,
+                "hp": 1607,
+                "level": 14
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 45,
+                "def": 105,
+                "hp": 1671,
+                "level": 15
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 47,
+                "def": 109,
+                "hp": 1735,
+                "level": 16
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 49,
+                "def": 113,
+                "hp": 1799,
+                "level": 17
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 51,
+                "def": 117,
+                "hp": 1863,
+                "level": 18
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 52,
+                "def": 121,
+                "hp": 1927,
+                "level": 19
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 54,
+                "def": 125,
+                "hp": 1991,
+                "level": 20
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 165,
+                "hp": 2634,
+                "level": 21
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 73,
+                "def": 169,
+                "hp": 2698,
+                "level": 22
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 75,
+                "def": 173,
+                "hp": 2762,
+                "level": 23
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 77,
+                "def": 177,
+                "hp": 2826,
+                "level": 24
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 78,
+                "def": 181,
+                "hp": 2890,
+                "level": 25
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 80,
+                "def": 185,
+                "hp": 2954,
+                "level": 26
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 82,
+                "def": 189,
+                "hp": 3018,
+                "level": 27
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 84,
+                "def": 193,
+                "hp": 3082,
+                "level": 28
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 85,
+                "def": 197,
+                "hp": 3146,
+                "level": 29
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 87,
+                "def": 201,
+                "hp": 3209,
+                "level": 30
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 89,
+                "def": 205,
+                "hp": 3274,
+                "level": 31
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 91,
+                "def": 210,
+                "hp": 3338,
+                "level": 32
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 92,
+                "def": 213,
+                "hp": 3402,
+                "level": 33
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 94,
+                "def": 218,
+                "hp": 3466,
+                "level": 34
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 96,
+                "def": 222,
+                "hp": 3529,
+                "level": 35
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 97,
+                "def": 226,
+                "hp": 3594,
+                "level": 36
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 99,
+                "def": 230,
+                "hp": 3657,
+                "level": 37
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 101,
+                "def": 234,
+                "hp": 3722,
+                "level": 38
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 103,
+                "def": 238,
+                "hp": 3786,
+                "level": 39
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 104,
+                "def": 242,
+                "hp": 3850,
+                "level": 40
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 117,
+                "def": 271,
+                "hp": 4325,
+                "level": 41
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 119,
+                "def": 275,
+                "hp": 4389,
+                "level": 42
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 121,
+                "def": 279,
+                "hp": 4453,
+                "level": 43
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 122,
+                "def": 283,
+                "hp": 4517,
+                "level": 44
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 124,
+                "def": 288,
+                "hp": 4581,
+                "level": 45
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 126,
+                "def": 292,
+                "hp": 4645,
+                "level": 46
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 128,
+                "def": 296,
+                "hp": 4709,
+                "level": 47
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 129,
+                "def": 300,
+                "hp": 4773,
+                "level": 48
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 131,
+                "def": 304,
+                "hp": 4837,
+                "level": 49
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 133,
+                "def": 308,
+                "hp": 4901,
+                "level": 50
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 149,
+                "def": 346,
+                "hp": 5513,
+                "level": 51
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 151,
+                "def": 350,
+                "hp": 5578,
+                "level": 52
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 153,
+                "def": 354,
+                "hp": 5642,
+                "level": 53
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 155,
+                "def": 358,
+                "hp": 5705,
+                "level": 54
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 156,
+                "def": 362,
+                "hp": 5770,
+                "level": 55
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 158,
+                "def": 366,
+                "hp": 5833,
+                "level": 56
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 160,
+                "def": 370,
+                "hp": 5898,
+                "level": 57
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 162,
+                "def": 374,
+                "hp": 5961,
+                "level": 58
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 163,
+                "def": 378,
+                "hp": 6025,
+                "level": 59
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 165,
+                "def": 382,
+                "hp": 6090,
+                "level": 60
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 178,
+                "def": 412,
+                "hp": 6565,
+                "level": 61
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 180,
+                "def": 416,
+                "hp": 6629,
+                "level": 62
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 181,
+                "def": 420,
+                "hp": 6693,
+                "level": 63
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 183,
+                "def": 424,
+                "hp": 6757,
+                "level": 64
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 185,
+                "def": 428,
+                "hp": 6820,
+                "level": 65
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 187,
+                "def": 432,
+                "hp": 6885,
+                "level": 66
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 188,
+                "def": 436,
+                "hp": 6949,
+                "level": 67
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 190,
+                "def": 440,
+                "hp": 7013,
+                "level": 68
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 192,
+                "def": 444,
+                "hp": 7077,
+                "level": 69
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 194,
+                "def": 448,
+                "hp": 7141,
+                "level": 70
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 207,
+                "def": 478,
+                "hp": 7616,
+                "level": 71
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 208,
+                "def": 482,
+                "hp": 7680,
+                "level": 72
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 210,
+                "def": 486,
+                "hp": 7744,
+                "level": 73
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 212,
+                "def": 490,
+                "hp": 7808,
+                "level": 74
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 213,
+                "def": 494,
+                "hp": 7872,
+                "level": 75
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 215,
+                "def": 498,
+                "hp": 7936,
+                "level": 76
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 217,
+                "def": 502,
+                "hp": 8000,
+                "level": 77
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 219,
+                "def": 506,
+                "hp": 8064,
+                "level": 78
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 220,
+                "def": 510,
+                "hp": 8128,
+                "level": 79
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 222,
+                "def": 514,
+                "hp": 8192,
+                "level": 80
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 235,
+                "def": 544,
+                "hp": 8668,
+                "level": 81
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 237,
+                "def": 548,
+                "hp": 8731,
+                "level": 82
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 238,
+                "def": 552,
+                "hp": 8796,
+                "level": 83
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 240,
+                "def": 556,
+                "hp": 8859,
+                "level": 84
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 242,
+                "def": 560,
+                "hp": 8924,
+                "level": 85
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 244,
+                "def": 564,
+                "hp": 8987,
+                "level": 86
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 245,
+                "def": 568,
+                "hp": 9051,
+                "level": 87
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 247,
+                "def": 572,
+                "hp": 9115,
+                "level": 88
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 249,
+                "def": 576,
+                "hp": 9179,
+                "level": 89
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 251,
+                "def": 580,
+                "hp": 9244,
+                "level": 90
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 283,
+                "def": 600,
+                "hp": 9563,
+                "level": 95
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 315,
+                "def": 620,
+                "hp": 9883,
+                "level": 100
+            }
+        ],
+        "birthday": "January 6th",
+        "constellation": "玄燕座",
+        "description": "沉玉谷来的藤编师，神清骨秀，像山间清泉一般灵动。",
+        "element": "Anemo",
+        "name": "蓝砚",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_CATALYST"
+    },
+    "passives": {
+        "p1": {
+            "description": "元素战技<color=#FFD780FF>凤缕随翦舞</color>的突进命中目标时，如果接触了<color=#80C0FFFF>水元素</color>/<color=#FF9999FF>火元素</color>/<color=#99FFFFFF>冰元素</color>/<color=#FFACFFFF>雷元素</color>，则会使凤缕护盾发生元素转化，转化后的护盾对于对应元素伤害有250%的吸收效果。\\n此外，如果这次元素战技<color=#FFD780FF>凤缕随翦舞</color>使凤缕护盾发生了元素转化，蓝砚向敌人抛出的翦月环将附加原本50%对应元素伤害，该伤害视为元素战技伤害。",
+            "icon": "UI_Talent_S_Lanyan_05",
+            "name": "四戈封刀灵卜"
+        },
+        "p2": {
+            "description": "元素战技<color=#FFD780FF>凤缕随翦舞</color>与元素爆发<color=#FFD780FF>鹍弦踏月出</color>造成的伤害值提升，提升值分别相当于蓝砚元素精通的309%和774%。",
+            "icon": "UI_Talent_S_Lanyan_06",
+            "name": "苍翎镇邪敕符"
+        },
+        "p3": {
+            "description": "蓝砚在队伍中时，队伍中自己的角色接近晶蝶等部分生物时，不会惊动它们。\\n有效对象可参考图鉴中「生物志 / 野生动物」的「其他」分类。",
+            "icon": "UI_Talent_S_Sayu_07",
+            "name": "「心随芳兮意犹绵」"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "蓝砚踏出银燕翦月阵，牵引附近的敌人与物体，并造成数次<color=#80FFD7FF>风元素范围伤害</color>。\\n\\n<i>从字面意义上来说，如果只有蓝砚一个人，其实是不能称之为「阵」的。不过，要是把她随身携带的那些藤编小人也算在内的话，大概就能满足要求了…应该是这样吧？</i>",
+            "icon": "Skill_E_Lanyan_01",
+            "multipliers": {
+                "元素能量": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "冷却时间": [
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒"
+                ],
+                "技能伤害": [
+                    "241.06%*3",
+                    "259.14%*3",
+                    "277.22%*3",
+                    "301.33%*3",
+                    "319.41%*3",
+                    "337.49%*3",
+                    "361.6%*3",
+                    "385.7%*3",
+                    "409.81%*3",
+                    "433.92%*3",
+                    "458.02%*3",
+                    "482.13%*3",
+                    "512.26%*3",
+                    "542.39%*3",
+                    "572.53%*3"
+                ]
+            },
+            "name": "鹍弦踏月出"
+        },
+        "elementalskill": {
+            "description": "唤出世代秘传的凤缕护盾，并以雨旆先驰之姿迅捷突进，接触目标会向后腾跃至空中。\\n凤缕护盾的伤害吸收量受益于蓝砚的攻击力，对<color=#80FFD7FF>风元素伤害</color>有250%的吸收效果。\\n蓝砚因元素战技·凤缕随翦舞而腾跃至空中时，若点按元素战技或点按普通攻击，则会向敌人抛出翦月环，命中后将在附近的敌人间回旋两次，造成<color=#80FFD7FF>风元素伤害</color>。\\n长按时将以不同的方式施放。\\n\\n<color=#FFD780FF>长按</color>\\n进入瞄准状态，以调整突进的方向。\\n\\n<i>「剪云舞影月华悠，银影翩然韵盈眸。」</i>",
+            "icon": "Skill_S_Lanyan_01",
+            "multipliers": {
+                "冷却时间": [
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒"
+                ],
+                "护盾吸收量": [
+                    "276.48%攻击力+1156",
+                    "297.22%攻击力+1271",
+                    "317.95%攻击力+1396",
+                    "345.6%攻击力+1531",
+                    "366.34%攻击力+1676",
+                    "387.07%攻击力+1830",
+                    "414.72%攻击力+1993",
+                    "442.37%攻击力+2167",
+                    "470.02%攻击力+2350",
+                    "497.66%攻击力+2542",
+                    "525.31%攻击力+2745",
+                    "552.96%攻击力+2957",
+                    "587.52%攻击力+3178",
+                    "622.08%攻击力+3409",
+                    "656.64%攻击力+3650"
+                ],
+                "护盾持续时间": [
+                    "12.5秒",
+                    "12.5秒",
+                    "12.5秒",
+                    "12.5秒",
+                    "12.5秒",
+                    "12.5秒",
+                    "12.5秒",
+                    "12.5秒",
+                    "12.5秒",
+                    "12.5秒",
+                    "12.5秒",
+                    "12.5秒",
+                    "12.5秒",
+                    "12.5秒",
+                    "12.5秒"
+                ],
+                "翦月环伤害": [
+                    "96.26%",
+                    "103.48%",
+                    "110.69%",
+                    "120.32%",
+                    "127.54%",
+                    "134.76%",
+                    "144.38%",
+                    "154.01%",
+                    "163.64%",
+                    "173.26%",
+                    "182.89%",
+                    "192.51%",
+                    "204.54%",
+                    "216.58%",
+                    "228.61%"
+                ]
+            },
+            "name": "凤缕随翦舞"
+        },
+        "leveling": {
+            "books": {
+                "104313": 9,
+                "104314": 63,
+                "104315": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113069": 18
+            },
+            "worldmonster": {
+                "112038": 18,
+                "112039": 66,
+                "112040": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>普通攻击</color>\\n挥舞翦月环，进行至多四段的攻击，造成<color=#80FFD7FF>风元素伤害</color>。\\n\\n<color=#FFD780FF>重击</color>\\n消耗一定体力，抛出手中的翦月环，造成<color=#80FFD7FF>风元素伤害</color>。\\n\\n<color=#FFD780FF>下落攻击</color>\\n凝聚风元素的力量，从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成<color=#80FFD7FF>风元素范围伤害</color>。",
+            "icon": "Skill_A_Catalyst_MD",
+            "multipliers": {
+                "一段伤害": [
+                    "41.44%",
+                    "44.55%",
+                    "47.66%",
+                    "51.8%",
+                    "54.91%",
+                    "58.02%",
+                    "62.16%",
+                    "66.3%",
+                    "70.45%",
+                    "74.59%",
+                    "78.74%",
+                    "82.88%",
+                    "88.06%",
+                    "93.24%",
+                    "98.42%"
+                ],
+                "三段伤害": [
+                    "26.92%+26.92%",
+                    "28.94%+28.94%",
+                    "30.96%+30.96%",
+                    "33.65%+33.65%",
+                    "35.67%+35.67%",
+                    "37.69%+37.69%",
+                    "40.38%+40.38%",
+                    "43.07%+43.07%",
+                    "45.76%+45.76%",
+                    "48.46%+48.46%",
+                    "51.15%+51.15%",
+                    "53.84%+53.84%",
+                    "57.2%+57.2%",
+                    "60.57%+60.57%",
+                    "63.93%+63.93%"
+                ],
+                "下坠期间伤害": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "二段伤害": [
+                    "20.41%+24.95%",
+                    "21.94%+26.82%",
+                    "23.47%+28.69%",
+                    "25.51%+31.19%",
+                    "27.05%+33.06%",
+                    "28.58%+34.93%",
+                    "30.62%+37.42%",
+                    "32.66%+39.92%",
+                    "34.7%+42.41%",
+                    "36.74%+44.91%",
+                    "38.78%+47.4%",
+                    "40.82%+49.9%",
+                    "43.38%+53.01%",
+                    "45.93%+56.13%",
+                    "48.48%+59.25%"
+                ],
+                "低空/高空坠地冲击伤害": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "四段伤害": [
+                    "64.56%",
+                    "69.4%",
+                    "74.24%",
+                    "80.7%",
+                    "85.54%",
+                    "90.38%",
+                    "96.84%",
+                    "103.3%",
+                    "109.75%",
+                    "116.21%",
+                    "122.66%",
+                    "129.12%",
+                    "137.19%",
+                    "145.26%",
+                    "153.33%"
+                ],
+                "重击伤害": [
+                    "37.84%*3",
+                    "40.68%*3",
+                    "43.52%*3",
+                    "47.3%*3",
+                    "50.14%*3",
+                    "52.98%*3",
+                    "56.76%*3",
+                    "60.54%*3",
+                    "64.33%*3",
+                    "68.11%*3",
+                    "71.9%*3",
+                    "75.68%*3",
+                    "80.41%*3",
+                    "85.14%*3",
+                    "89.87%*3"
+                ],
+                "重击体力消耗": [
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点"
+                ]
+            },
+            "name": "玄鸾画水"
+        }
+    }
+}

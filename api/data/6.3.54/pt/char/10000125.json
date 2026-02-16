@@ -1,0 +1,1419 @@
+{
+    "info": {
+        "name": "Columbina",
+        "description": "A Dama da Lua nascida em Nod-Krai, além de ser a lua nova retornando para casa.",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_CATALYST",
+        "birthday": "January 14th",
+        "element": "Hydro",
+        "constellation": "???",
+        "attributes": [
+            {
+                "level": 1,
+                "ascension": 0,
+                "hp": 1144,
+                "atk": 7,
+                "def": 40,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 2,
+                "ascension": 0,
+                "hp": 1239,
+                "atk": 8,
+                "def": 43,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 3,
+                "ascension": 0,
+                "hp": 1334,
+                "atk": 9,
+                "def": 47,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 4,
+                "ascension": 0,
+                "hp": 1430,
+                "atk": 9,
+                "def": 50,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 5,
+                "ascension": 0,
+                "hp": 1525,
+                "atk": 10,
+                "def": 53,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 6,
+                "ascension": 0,
+                "hp": 1621,
+                "atk": 11,
+                "def": 57,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 7,
+                "ascension": 0,
+                "hp": 1716,
+                "atk": 11,
+                "def": 60,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 8,
+                "ascension": 0,
+                "hp": 1812,
+                "atk": 12,
+                "def": 63,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 9,
+                "ascension": 0,
+                "hp": 1908,
+                "atk": 12,
+                "def": 67,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 10,
+                "ascension": 0,
+                "hp": 2003,
+                "atk": 13,
+                "def": 70,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 11,
+                "ascension": 0,
+                "hp": 2099,
+                "atk": 14,
+                "def": 74,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 12,
+                "ascension": 0,
+                "hp": 2195,
+                "atk": 14,
+                "def": 77,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 13,
+                "ascension": 0,
+                "hp": 2291,
+                "atk": 15,
+                "def": 80,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 14,
+                "ascension": 0,
+                "hp": 2389,
+                "atk": 16,
+                "def": 84,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 15,
+                "ascension": 0,
+                "hp": 2485,
+                "atk": 16,
+                "def": 87,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 16,
+                "ascension": 0,
+                "hp": 2581,
+                "atk": 17,
+                "def": 90,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 17,
+                "ascension": 0,
+                "hp": 2678,
+                "atk": 17,
+                "def": 94,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 18,
+                "ascension": 0,
+                "hp": 2774,
+                "atk": 18,
+                "def": 97,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 19,
+                "ascension": 0,
+                "hp": 2871,
+                "atk": 19,
+                "def": 101,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 20,
+                "ascension": 0,
+                "hp": 2967,
+                "atk": 19,
+                "def": 104,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 21,
+                "ascension": 1,
+                "hp": 4046,
+                "atk": 26,
+                "def": 142,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 22,
+                "ascension": 1,
+                "hp": 4143,
+                "atk": 27,
+                "def": 145,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 23,
+                "ascension": 1,
+                "hp": 4240,
+                "atk": 28,
+                "def": 149,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 24,
+                "ascension": 1,
+                "hp": 4337,
+                "atk": 28,
+                "def": 152,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 25,
+                "ascension": 1,
+                "hp": 4435,
+                "atk": 29,
+                "def": 155,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 26,
+                "ascension": 1,
+                "hp": 4533,
+                "atk": 30,
+                "def": 159,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 27,
+                "ascension": 1,
+                "hp": 4630,
+                "atk": 30,
+                "def": 162,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 28,
+                "ascension": 1,
+                "hp": 4727,
+                "atk": 31,
+                "def": 166,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 29,
+                "ascension": 1,
+                "hp": 4826,
+                "atk": 31,
+                "def": 169,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 30,
+                "ascension": 1,
+                "hp": 4923,
+                "atk": 32,
+                "def": 173,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 31,
+                "ascension": 1,
+                "hp": 5021,
+                "atk": 33,
+                "def": 176,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 32,
+                "ascension": 1,
+                "hp": 5120,
+                "atk": 33,
+                "def": 179,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 33,
+                "ascension": 1,
+                "hp": 5218,
+                "atk": 34,
+                "def": 183,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 34,
+                "ascension": 1,
+                "hp": 5315,
+                "atk": 35,
+                "def": 186,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 35,
+                "ascension": 1,
+                "hp": 5414,
+                "atk": 35,
+                "def": 190,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 36,
+                "ascension": 1,
+                "hp": 5513,
+                "atk": 36,
+                "def": 193,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 37,
+                "ascension": 1,
+                "hp": 5612,
+                "atk": 37,
+                "def": 197,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 38,
+                "ascension": 1,
+                "hp": 5710,
+                "atk": 37,
+                "def": 200,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 39,
+                "ascension": 1,
+                "hp": 5808,
+                "atk": 38,
+                "def": 204,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 40,
+                "ascension": 1,
+                "hp": 5908,
+                "atk": 38,
+                "def": 207,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 41,
+                "ascension": 2,
+                "hp": 6703,
+                "atk": 44,
+                "def": 235,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 42,
+                "ascension": 2,
+                "hp": 6803,
+                "atk": 44,
+                "def": 238,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 43,
+                "ascension": 2,
+                "hp": 6902,
+                "atk": 45,
+                "def": 242,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 44,
+                "ascension": 2,
+                "hp": 7001,
+                "atk": 46,
+                "def": 245,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 45,
+                "ascension": 2,
+                "hp": 7100,
+                "atk": 46,
+                "def": 249,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 46,
+                "ascension": 2,
+                "hp": 7200,
+                "atk": 47,
+                "def": 252,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 47,
+                "ascension": 2,
+                "hp": 7299,
+                "atk": 48,
+                "def": 256,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 48,
+                "ascension": 2,
+                "hp": 7399,
+                "atk": 48,
+                "def": 259,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 49,
+                "ascension": 2,
+                "hp": 7500,
+                "atk": 49,
+                "def": 263,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 50,
+                "ascension": 2,
+                "hp": 7599,
+                "atk": 49,
+                "def": 266,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 51,
+                "ascension": 3,
+                "hp": 8628,
+                "atk": 56,
+                "def": 302,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 52,
+                "ascension": 3,
+                "hp": 8728,
+                "atk": 57,
+                "def": 306,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 53,
+                "ascension": 3,
+                "hp": 8828,
+                "atk": 57,
+                "def": 309,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 54,
+                "ascension": 3,
+                "hp": 8929,
+                "atk": 58,
+                "def": 313,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 55,
+                "ascension": 3,
+                "hp": 9029,
+                "atk": 59,
+                "def": 316,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 56,
+                "ascension": 3,
+                "hp": 9130,
+                "atk": 59,
+                "def": 320,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 57,
+                "ascension": 3,
+                "hp": 9231,
+                "atk": 60,
+                "def": 323,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 58,
+                "ascension": 3,
+                "hp": 9331,
+                "atk": 61,
+                "def": 327,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 59,
+                "ascension": 3,
+                "hp": 9432,
+                "atk": 61,
+                "def": 331,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 60,
+                "ascension": 3,
+                "hp": 9533,
+                "atk": 62,
+                "def": 334,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 61,
+                "ascension": 4,
+                "hp": 10330,
+                "atk": 67,
+                "def": 362,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 62,
+                "ascension": 4,
+                "hp": 10431,
+                "atk": 68,
+                "def": 366,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 63,
+                "ascension": 4,
+                "hp": 10533,
+                "atk": 69,
+                "def": 369,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 64,
+                "ascension": 4,
+                "hp": 10633,
+                "atk": 69,
+                "def": 373,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 65,
+                "ascension": 4,
+                "hp": 10735,
+                "atk": 70,
+                "def": 376,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 66,
+                "ascension": 4,
+                "hp": 10837,
+                "atk": 71,
+                "def": 380,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 67,
+                "ascension": 4,
+                "hp": 10938,
+                "atk": 71,
+                "def": 383,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 68,
+                "ascension": 4,
+                "hp": 11040,
+                "atk": 72,
+                "def": 387,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 69,
+                "ascension": 4,
+                "hp": 11141,
+                "atk": 73,
+                "def": 390,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 70,
+                "ascension": 4,
+                "hp": 11243,
+                "atk": 73,
+                "def": 394,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 71,
+                "ascension": 5,
+                "hp": 12042,
+                "atk": 78,
+                "def": 422,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 72,
+                "ascension": 5,
+                "hp": 12145,
+                "atk": 79,
+                "def": 426,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 73,
+                "ascension": 5,
+                "hp": 12247,
+                "atk": 80,
+                "def": 429,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 74,
+                "ascension": 5,
+                "hp": 12349,
+                "atk": 80,
+                "def": 433,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 75,
+                "ascension": 5,
+                "hp": 12451,
+                "atk": 81,
+                "def": 436,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 76,
+                "ascension": 5,
+                "hp": 12553,
+                "atk": 82,
+                "def": 440,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 77,
+                "ascension": 5,
+                "hp": 12656,
+                "atk": 82,
+                "def": 443,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 78,
+                "ascension": 5,
+                "hp": 12759,
+                "atk": 83,
+                "def": 447,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 79,
+                "ascension": 5,
+                "hp": 12862,
+                "atk": 84,
+                "def": 451,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 80,
+                "ascension": 5,
+                "hp": 12965,
+                "atk": 84,
+                "def": 454,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 81,
+                "ascension": 6,
+                "hp": 13765,
+                "atk": 90,
+                "def": 482,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 82,
+                "ascension": 6,
+                "hp": 13868,
+                "atk": 90,
+                "def": 486,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 83,
+                "ascension": 6,
+                "hp": 13971,
+                "atk": 91,
+                "def": 490,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 84,
+                "ascension": 6,
+                "hp": 14074,
+                "atk": 92,
+                "def": 493,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 85,
+                "ascension": 6,
+                "hp": 14177,
+                "atk": 92,
+                "def": 497,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 86,
+                "ascension": 6,
+                "hp": 14281,
+                "atk": 93,
+                "def": 500,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 87,
+                "ascension": 6,
+                "hp": 14384,
+                "atk": 94,
+                "def": 504,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 88,
+                "ascension": 6,
+                "hp": 14488,
+                "atk": 94,
+                "def": 508,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 89,
+                "ascension": 6,
+                "hp": 14592,
+                "atk": 95,
+                "def": 511,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 90,
+                "ascension": 6,
+                "hp": 14695,
+                "atk": 96,
+                "def": 515,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 95,
+                "ascension": 6,
+                "hp": 15217,
+                "atk": 106,
+                "def": 533,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 100,
+                "ascension": 6,
+                "hp": 15740,
+                "atk": 117,
+                "def": 552,
+                "CRIT Rate%": "19.2"
+            }
+        ]
+    },
+    "icons": {
+        "forward": "UI_AvatarIcon_Columbina",
+        "coop_img": "UI_CoopImg_Columbina"
+    },
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101268": 168
+        },
+        "elemental": {
+            "104121": 1,
+            "104122": 9,
+            "104123": 9,
+            "104124": 6
+        },
+        "worldmonster": {
+            "112002": 18,
+            "112003": 30,
+            "112004": 36
+        },
+        "elitemonster": {
+            "113079": 46
+        }
+    },
+    "skills": {
+        "normalattack": {
+            "name": "Cascata do Orvalho do Luar",
+            "icon": "Skill_A_Catalyst_MD",
+            "multipliers": {
+                "Dano do 1° Golpe": [
+                    "46.79%",
+                    "50.3%",
+                    "53.81%",
+                    "58.49%",
+                    "62%",
+                    "65.51%",
+                    "70.19%",
+                    "74.87%",
+                    "79.55%",
+                    "84.23%",
+                    "88.9%",
+                    "93.58%",
+                    "99.43%",
+                    "105.28%",
+                    "111.13%"
+                ],
+                "Dano do 2° Golpe": [
+                    "36.63%",
+                    "39.37%",
+                    "42.12%",
+                    "45.78%",
+                    "48.53%",
+                    "51.28%",
+                    "54.94%",
+                    "58.6%",
+                    "62.26%",
+                    "65.93%",
+                    "69.59%",
+                    "73.25%",
+                    "77.83%",
+                    "82.41%",
+                    "86.99%"
+                ],
+                "Dano do 3° Golpe": [
+                    "58.48%",
+                    "62.87%",
+                    "67.26%",
+                    "73.11%",
+                    "77.49%",
+                    "81.88%",
+                    "87.73%",
+                    "93.57%",
+                    "99.42%",
+                    "105.27%",
+                    "111.12%",
+                    "116.97%",
+                    "124.28%",
+                    "131.59%",
+                    "138.9%"
+                ],
+                "Dano de Ataque Carregado": [
+                    "116.08%",
+                    "124.79%",
+                    "133.49%",
+                    "145.1%",
+                    "153.81%",
+                    "162.51%",
+                    "174.12%",
+                    "185.73%",
+                    "197.34%",
+                    "208.94%",
+                    "220.55%",
+                    "232.16%",
+                    "246.67%",
+                    "261.18%",
+                    "275.69%"
+                ],
+                "Consumo de Stamina de Ataque Carregado": [
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50"
+                ],
+                "Dano de Lavagem do Orvalho Lunar": [
+                    "1.51% da Vida Máxima x3",
+                    "1.62% da Vida Máxima x3",
+                    "1.74% da Vida Máxima x3",
+                    "1.89% da Vida Máxima x3",
+                    "2% da Vida Máxima x3",
+                    "2.12% da Vida Máxima x3",
+                    "2.27% da Vida Máxima x3",
+                    "2.42% da Vida Máxima x3",
+                    "2.57% da Vida Máxima x3",
+                    "2.72% da Vida Máxima x3",
+                    "2.87% da Vida Máxima x3",
+                    "3.02% da Vida Máxima x3",
+                    "3.21% da Vida Máxima x3",
+                    "3.4% da Vida Máxima x3",
+                    "3.59% da Vida Máxima x3"
+                ],
+                "Dano Durante a Queda": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ]
+            },
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nInvoca uma maré do luar, realizando até 3 golpes consecutivos e causando <color=#80C0FFFF>Dano Hydro</color>.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome uma certa quantidade de Stamina e, após uma canalização, causa <color=#80C0FFFF>Dano Hydro em AdE</color>.\\nSe possuir pelo menos 1 {LINK#N11190008}<color=#FFD780FF>Orvalho Verdejante</color>{/LINK}, o Ataque Carregado de Columbina será substituído pelo Ataque Carregado especial <color=#FFD780FF>Lavagem do Orvalho Lunar</color> que não consome Stamina: consome 1 Orvalho Verdejante para causar <color=#99FF88FF>Dano Dendro em AdE</color> 3 vezes contra os inimigos em frente. Esse Dano é considerado Dano de Florescimento\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nMergulha em direção ao chão em pleno ar, infligindo dano a todos os inimigos em seu caminho. Inflige <color=#80C0FFFF>Dano Hydro em uma AdE</color> durante o impacto com o chão."
+        },
+        "elementalskill": {
+            "name": "Maré Eterna",
+            "icon": "Skill_S_Columbina_01",
+            "multipliers": {
+                "Dano de Habilidade": [
+                    "16.72% da Vida Máxima",
+                    "17.97% da Vida Máxima",
+                    "19.23% da Vida Máxima",
+                    "20.9% da Vida Máxima",
+                    "22.15% da Vida Máxima",
+                    "23.41% da Vida Máxima",
+                    "25.08% da Vida Máxima",
+                    "26.75% da Vida Máxima",
+                    "28.42% da Vida Máxima",
+                    "30.1% da Vida Máxima",
+                    "31.77% da Vida Máxima",
+                    "33.44% da Vida Máxima",
+                    "35.53% da Vida Máxima",
+                    "37.62% da Vida Máxima",
+                    "39.71% da Vida Máxima"
+                ],
+                "Dano Contínuo de Onda Gravitacional": [
+                    "9.36% da Vida Máxima",
+                    "10.06% da Vida Máxima",
+                    "10.76% da Vida Máxima",
+                    "11.7% da Vida Máxima",
+                    "12.4% da Vida Máxima",
+                    "13.1% da Vida Máxima",
+                    "14.04% da Vida Máxima",
+                    "14.98% da Vida Máxima",
+                    "15.91% da Vida Máxima",
+                    "16.85% da Vida Máxima",
+                    "17.78% da Vida Máxima",
+                    "18.72% da Vida Máxima",
+                    "19.89% da Vida Máxima",
+                    "21.06% da Vida Máxima",
+                    "22.23% da Vida Máxima"
+                ],
+                "Dano de Carga Lunar de Interferência Kuuvahki": [
+                    "4.7% da Vida Máxima",
+                    "5.06% da Vida Máxima",
+                    "5.41% da Vida Máxima",
+                    "5.88% da Vida Máxima",
+                    "6.23% da Vida Máxima",
+                    "6.59% da Vida Máxima",
+                    "7.06% da Vida Máxima",
+                    "7.53% da Vida Máxima",
+                    "8% da Vida Máxima",
+                    "8.47% da Vida Máxima",
+                    "8.94% da Vida Máxima",
+                    "9.41% da Vida Máxima",
+                    "10% da Vida Máxima",
+                    "10.58% da Vida Máxima",
+                    "11.17% da Vida Máxima"
+                ],
+                "Dano de Florescimento da Interferência Kuuvahki": [
+                    "1.41% da Vida Máxima x5",
+                    "1.51% da Vida Máxima x5",
+                    "1.62% da Vida Máxima x5",
+                    "1.76% da Vida Máxima x5",
+                    "1.87% da Vida Máxima x5",
+                    "1.97% da Vida Máxima x5",
+                    "2.11% da Vida Máxima x5",
+                    "2.25% da Vida Máxima x5",
+                    "2.39% da Vida Máxima x5",
+                    "2.53% da Vida Máxima x5",
+                    "2.68% da Vida Máxima x5",
+                    "2.82% da Vida Máxima x5",
+                    "2.99% da Vida Máxima x5",
+                    "3.17% da Vida Máxima x5",
+                    "3.34% da Vida Máxima x5"
+                ],
+                "Dano de Cristalização Lunar da Interferência Kuuvahki": [
+                    "8.82% da Vida Máxima",
+                    "9.49% da Vida Máxima",
+                    "10.15% da Vida Máxima",
+                    "11.03% da Vida Máxima",
+                    "11.69% da Vida Máxima",
+                    "12.35% da Vida Máxima",
+                    "13.24% da Vida Máxima",
+                    "14.12% da Vida Máxima",
+                    "15% da Vida Máxima",
+                    "15.88% da Vida Máxima",
+                    "16.77% da Vida Máxima",
+                    "17.65% da Vida Máxima",
+                    "18.75% da Vida Máxima",
+                    "19.85% da Vida Máxima",
+                    "20.96% da Vida Máxima"
+                ],
+                "Gravitação Máxima": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "Duração de Onda Gravitacional": [
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s"
+                ],
+                "Recarga": [
+                    "17s",
+                    "17s",
+                    "17s",
+                    "17s",
+                    "17s",
+                    "17s",
+                    "17s",
+                    "17s",
+                    "17s",
+                    "17s",
+                    "17s",
+                    "17s",
+                    "17s",
+                    "17s",
+                    "17s"
+                ]
+            },
+            "description": "Invoca as marés da Lua, causando <color=#80C0FFFF>Dano Hydro em AdE</color> e invocando a {LINK#N11250001}<color=#FFD780FF>Onda Gravitacional</color>{/LINK}.\\n<color=#FFD780FF>Onda Gravitacional</color> segue o personagem ativo e causa <color=#80C0FFFF>Dano Hydro em AdE</color> continuamente contra os inimigos próximos. Enquanto <color=#FFD780FF>Onda Gravitacional</color> existir, quando um personagem próximo desencadear Reações Lunares ou causar Dano de Reações Lunares, Columbina acumulará <color=#FFD780FF>Gravitação</color> especial. Ao acumular até o valor máximo, causará tipos de Danos diferentes contra os inimigos de acordo com o valor máximo de <color=#FFD780FF>Gravitação</color> acumulado do tipo de Reação Lunar.\\n<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>: <color=#FFD780FF>Onda Gravitacional</color> causa <color=#80C0FFFF>Dano Hydro em AdE</color> de maior alcance."
+        },
+        "elementalburst": {
+            "name": "Melancolia Sob o Luar",
+            "icon": "Skill_E_Columbina_01",
+            "multipliers": {
+                "Dano de Habilidade": [
+                    "32.24% da Vida Máxima",
+                    "34.66% da Vida Máxima",
+                    "37.08% da Vida Máxima",
+                    "40.3% da Vida Máxima",
+                    "42.72% da Vida Máxima",
+                    "45.14% da Vida Máxima",
+                    "48.36% da Vida Máxima",
+                    "51.58% da Vida Máxima",
+                    "54.81% da Vida Máxima",
+                    "58.03% da Vida Máxima",
+                    "61.26% da Vida Máxima",
+                    "64.48% da Vida Máxima",
+                    "68.51% da Vida Máxima",
+                    "72.54% da Vida Máxima",
+                    "76.57% da Vida Máxima"
+                ],
+                "Aumento de Dano das Reações Lunares": [
+                    "13%",
+                    "16%",
+                    "19%",
+                    "22%",
+                    "25%",
+                    "28%",
+                    "31%",
+                    "34%",
+                    "37%",
+                    "40%",
+                    "43%",
+                    "46%",
+                    "49%",
+                    "52%",
+                    "55%"
+                ],
+                "Duração de Domínio Lunar": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ],
+                "Tempo de Recarga": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Energia Elemental": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ]
+            },
+            "description": "Colinas e marés se unem sob o luar prateado de uma lua nova. Temporariamente transforma o terreno próximo em {LINK#N11250002}<color=#FFD780FF>Domínio Lunar</color>{/LINK} e causa <color=#80C0FFFF>Dano Hydro em AdE</color>."
+        },
+        "leveling": {
+            "crown": {
+                "104319": 3
+            },
+            "books": {
+                "104356": 9,
+                "104357": 63,
+                "104358": 114
+            },
+            "worldmonster": {
+                "112002": 18,
+                "112003": 66,
+                "112004": 93
+            },
+            "weekly": {
+                "113081": 18
+            }
+        }
+    },
+    "passives": {
+        "p1": {
+            "name": "Mania Lunar",
+            "description": "Ao desencadear{LINK#N11250001}<color=#FFD780FF>Interferência Kuuvahki</color>{/LINK}, Columbina obtém o efeito Indução Lunar, aumentando sua Taxa CRIT em 5% por 10s. Esse efeito pode acumular até 3 vezes.",
+            "icon": "UI_Talent_S_Columbina_05"
+        },
+        "p2": {
+            "name": "Regras Próprias da Lua Nova",
+            "description": "Quando o personagem que está dentro de {LINK#N11250002}<color=#FFD780FF>Domínio Lunar</color>{/LINK} causar uma Reação Lunar, pode obter os seguintes efeitos:\\n· <color=#FFD780FF>Carga Lunar</color>: reduz o intervalo de ataque de Nuvens Trovejantes em 0.5s.\\n· <color=#FFD780FF>Florescimento Lunar</color>: ao desencadear Florescimento Lunar, fornece para a equipe um Orvalho Verdejante da Montanha Lunar especial. É possível fornecer até 3 {LINK#N11250003}<color=#FFD780FF>Orvalhos Verdejantes da Montanha Lunar</color>{/LINK} para a equipe a cada 18s dessa forma.\\n· <color=#FFD780FF>Cristalização Lunar</color>: quando desencadear Sonata da Jaula Lunar, cada Jaula Lunar possui 33% de chance de fazer um ataque adicional.",
+            "icon": "UI_Talent_S_Columbina_06"
+        },
+        "p3": {
+            "name": "Bênção do Presságio Lunar: Serenata sob o Luar",
+            "description": "Quando o personagem desencadeia uma reação de Eletricamente Carregado/Florescimento/Cristalização Hydro, será convertido para Carga Lunar/Florescimento Lunar/Cristalização Lunar respectivamente, e aumenta o Dano Básico de Carga Lunar/Florescimento Lunar/Cristalização Lunar causado pelos personagens com base na Vida Máxima de Columbina: cada 1000 de Vida Máxima aumenta o Dano Básico em 0.2%. É possível aumentar o Dano até 7% dessa forma.\\n\\nAlém disso, quando Columbina está na equipe, aumenta o nível de <color=#FFD780FF>Presságio Lunar</color> em 1.",
+            "icon": "UI_Talent_S_Columbina_07"
+        },
+        "p4": {
+            "name": "Vigília Lunar",
+            "description": "Quando está em Nod-Krai e um personagem da equipe é derrotado, Columbina revive esse personagem e regenera a Vida desse personagem com base no nível de Amizade de Columbina. Esse efeito pode ser desencadeado uma vez a cada 100s.\\nAlém disso, Columbina parece possuir afinidade especial com certos animais influenciados por Kuuvahki...",
+            "icon": "UI_Talent_S_Columbina_08"
+        }
+    },
+    "constellations": {
+        "const1": {
+            "name": "Resplendor Sobre Flores e Picos",
+            "description": "Ao lançar a Habilidade Elemental <color=#FFD780FF>Maré Eterna</color>, desencadeia imediatamente um efeito equivalente a {LINK#N11250001}<color=#FFD780FF>Interferência Kuuvahki</color>{/LINK}. Esse efeito pode ser desencadeado uma vez a cada 15s.\\n<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>\\nAo desencadear Interferência Kuuvahki, se Columbina possuir o máximo de Gravitação de Reações Lunares:\\n· <color=#FFD780FF>Carga Lunar</color>: regenera 6 de Energia Elemental para o personagem ativo.\\n· <color=#FFD780FF>Florescimento Lunar</color>: aumenta a RES contra Interrupção do personagem ativo por 8s.\\n· <color=#FFD780FF>Cristalização Lunar</color>: invoca <color=#FFD780FF>Escudo da Chuva do Mar</color>, com absorção de Dano de 12% da Vida Máxima de Columbina e com 250% de eficácia contra <color=#80C0FFFF>Hydro</color> por 8s.\\n\\nO Dano de Reações Lunares de todos os membros próximos da equipe é {LINK#N11190007}<color=#FFD780FF>Elevado</color>{/LINK} em 1.5%.",
+            "icon": "UI_Talent_S_Columbina_01"
+        },
+        "const2": {
+            "name": "Esplendor Acompanhado",
+            "description": "Aumenta a velocidade de acumulação de {LINK#N11250001}<color=#FFD780FF>Gravitação</color>{/LINK} em 34%.\\nAo desencadear <color=#FFD780FF>Interferência Kuuvahki</color>, Columbina obtém o efeito <color=#FFD780FF>Brilho Branco</color> que aumenta sua Vida Máxima em 40% por 8s.\\n\\n<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>:\\nNa duração do efeito <color=#FFD780FF>Brilho Branco</color>, se desencadear<color=#FFD780FF>Interferência Kuuvahki</color>, e se o Tipo de Reação Lunar que acumulou Gravitação para Columbina for:\\n· <color=#FFD780FF>Carga Lunar</color>: aumenta o ATQ do personagem ativo. O aumento é equivalente a 1% da Vida Máxima de Columbina.\\n· <color=#FFD780FF>Florescimento Lunar</color>: aumenta a Proficiência do personagem ativo. O aumento é equivalente a 0.35% da Vida Elemental de Columbina.\\n· <color=#FFD780FF>Cristalização Lunar</color>: aumenta a DEF do personagem ativo. O aumento é equivalente a 0.7% da Vida Máxima de Columbina.\\n\\nO Dano de Reações Lunares de todos os membros próximos da equipe é {LINK#N11190007}<color=#FFD780FF>Elevado</color>{/LINK} em 7%.",
+            "icon": "UI_Talent_S_Columbina_02"
+        },
+        "const3": {
+            "name": "Brilho Onírico Sobre Águas Tranquilas",
+            "description": "Aumenta o nível da Habilidade Elemental <color=#FFD780FF>{LINK#S11252}Maré Eterna{/LINK}</color> em 3.\\nNível máximo de elevação é 15.\\n\\nDano de Reações Lunares de todos os membros próximos da equipe é {LINK#N11190007}<color=#FFD780FF>Elevado</color>{/LINK} em 1.5%.",
+            "icon": "UI_Talent_U_Columbina_01"
+        },
+        "const4": {
+            "name": "Picos Entre Névoas Florais",
+            "description": "Ao desencadear {LINK#N11250001}<color=#FFD780FF>Interferência Kuuvahki</color>{/LINK}, regenera 4 de Energia Elemental para Columbina.\\nAlém disso, de acordo com o tipo de Reação Lunar que acumulou <color=#FFD780FF>Gravitação</color>, se for Carga Lunar/Florescimento Lunar/Cristalização Lunar, aumenta o Dano da reação de Carga Lunar dessa Interferência Kuuvahki. O valor de aumento é baseado em 12.5%/2.5%/12.5% da Vida Máxima de Columbina. Esse efeito pode ser desencadeado uma vez a cada 15s.\\n\\nO Dano de Reações Lunares de todos os membros próximos da equipe é {LINK#N11190007}<color=#FFD780FF>Elevado</color>{/LINK} em 1.5%.",
+            "icon": "UI_Talent_S_Columbina_03"
+        },
+        "const5": {
+            "name": "Silêncio de uma Canção Solitária",
+            "description": "Aumenta o nível do Supremo <color=#FFD780FF>{LINK#S11255}Melancolia Sob o Luar{/LINK}</color> em 3.\\nNível máximo é 15.\\n\\nO Dano de Reações Lunares de todos os membros próximos da equipe é {LINK#N11190007}<color=#FFD780FF>Elevado</color>{/LINK} em 1.5%.",
+            "icon": "UI_Talent_U_Columbina_02"
+        },
+        "const6": {
+            "name": "Atravessando a Escuridão com o Luar",
+            "description": "Nos 8s após os personagens causarem uma Reação Lunar dentro de um {LINK#N11250002}<color=#FFD780FF>Domínio Lunar</color>{/LINK}, aumenta o Dano CRIT do Tipo Elemental correspondente de todos os membros da equipe de acordo com o Tipo Elemental participante em 80%. Aumentos de Dano CRIT de Tipos Elementais idênticos não acumularão.\\n\\nO Dano de Reações Lunares de todos os membros próximos da equipe é {LINK#N11190007}<color=#FFD780FF>Elevado</color>{/LINK} em 7%.",
+            "icon": "UI_Talent_S_Columbina_04"
+        }
+    },
+    "energy": [
+        {
+            "source": "DropBall",
+            "particles": "1",
+            "chance": "66%",
+            "cd": "3.5s (Tick)"
+        },
+        {
+            "source": "DropBall",
+            "particles": "2",
+            "chance": "33%",
+            "cd": "3.5s (Tick)"
+        }
+    ],
+    "attacks": [
+        {
+            "name": "ExtraAttack",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/8",
+            "element": "Water"
+        },
+        {
+            "name": "ExtraAttack",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/6",
+            "element": "Water"
+        },
+        {
+            "name": "ExtraAttack",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/11",
+            "element": "Water"
+        },
+        {
+            "name": "ExtraAttack",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/100",
+            "element": "Water"
+        },
+        {
+            "name": "MoonExtraAttack",
+            "icd_source": "Tag: MoonOvergrowDamage (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV3/20",
+            "element": "Grass"
+        },
+        {
+            "name": "MoonExtraAttack",
+            "icd_source": "Tag: MoonOvergrowDamage (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV3/20",
+            "element": "Grass"
+        },
+        {
+            "name": "MoonExtraAttack",
+            "icd_source": "Tag: MoonOvergrowDamage (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV3/20",
+            "element": "Grass"
+        },
+        {
+            "name": "ElementalArt",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/30",
+            "element": "Water"
+        },
+        {
+            "name": "ElementalArt",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/30",
+            "element": "Water"
+        },
+        {
+            "name": "ElementalArt",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/50",
+            "element": "Water"
+        },
+        {
+            "name": "ElementalArt_AvatarGadget",
+            "icd_source": "Tag: MoonShockDamage (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV3/50",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalArt_AvatarGadget",
+            "icd_source": "Tag: MoonCrystallizeWaterDamage (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV3/50",
+            "element": "Rock"
+        },
+        {
+            "name": "ElementalArt_Overgrow_BulletTrigger",
+            "icd_source": "Tag: MoonOvergrowDamage (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/10",
+            "element": "Grass"
+        },
+        {
+            "name": "ElementalBurst",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "2U",
+            "poise": "LV4/100",
+            "element": "Water"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/5",
+            "element": "Water"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/50",
+            "element": "Water"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/100",
+            "element": "Water"
+        }
+    ],
+    "hyperlinks": [
+        {
+            "id": 11250001,
+            "name": "Onda Gravitacional",
+            "description": "Depois de lançar a Habilidade Elemental Maré Eterna, Columbina invoca Onda Gravitacional.\\nOnda Gravitacional segue o personagem ativo, continuamente causando Dano Hydro em AdE contra os inimigos próximos.\\n\\nAlém disso, enquanto Onda Gravitacional existir e um membro próximo da equipe causar Reações Lunares, ou causar Dano de Reações Lunares, Columbina obtém o efeito Sinal da Lua Nova pelos próximos 2s, acumulando Gravitação continuamente. É possível acumular 20 de Gravitação a cada 2s.\\nO máximo de Gravitação é 60, e será removido quando a duração de Onda Gravitacional acabar.\\nQuando Gravitação atingir o limite máximo, desencadeará a especial Interferência Kuuvahki, gerando efeitos diferentes de acordo com a quantidade máxima de Gravitação acumulada dos tipos de Reações Lunares de Columbina. Se o máximo de Gravitação acumulada por Columbina for da Reação Lunar do tipo:\\n· Carga Lunar: Interferência Kuuvahki causa uma instância de Dano Electro em AdE. Esse Dano é considerado Dano de Carga Lunar.\\n· Florescimento Lunar: Interferência Lunar dispara 5 Selos Lunares contra os inimigos próximos, causando Dano Dendro. Esse Dano é considerado Dano de Florescimento.\\n· Cristalização Lunar: Interferência Kuuvahki causa uma instância de Dano Geo em AdE. Esse Dano é considerado Dano de Cristalização Lunar.",
+            "params": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "id": 11250002,
+            "name": "Domínio Lunar",
+            "description": "Depois de lançar o Supremo Melancolia Sob o Luar, Columbina invoca um domínio.\\nQuando o personagem está dentro do Domínio Lunar, aumenta o Dano de Reações Lunares causados por todos os personagens.",
+            "params": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "id": 11250003,
+            "name": "Orvalho Verdejante da Montanha Lunar",
+            "description": "Um Orvalho Verdejante especial fornecido pelo Talento Passivo Regras Próprias da Lua Nova de Columbina. Sua capacidade máxima e duração são contadas separadamente.\\nQuando o Orvalho Verdejante da equipe acabar, consumirá o Orvalho Verdejante da Montanha Lunar.\\nLimite máximo de Orvalho Verdejante da Montanha Lunar é de 3.",
+            "params": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1378 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104111": 1,
+            "104112": 9,
+            "104113": 9,
+            "104114": 6
+        },
+        "elitemonster": {
+            "113053": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101235": 168
+        },
+        "worldmonster": {
+            "112083": 18,
+            "112084": 30,
+            "112085": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "ExtraAttack_Bullet",
+            "poise": "LV5/120"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "ExtraAttack_Bullet",
+            "poise": "LV6/120"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "Skillobj_ElementalArt_Bullet0_Material",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "Skillobj_ElementalArt_Bullet1_Material",
+            "poise": "LV3/75"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "Skillobj_ElementalArt_Bullet2_Material",
+            "poise": "LV5/125"
+        },
+        {
+            "element": "Fire",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "Skillobj_ElementalArt_Pneuma_Gadget",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "Fire",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_ElementalBurst_Material",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "3 hits / 3s",
+            "icd_source": "Grp: Chevreuse_ElementalBurst (Tag Miss)",
+            "name": "ElementalBurst_Gadget_Attack1",
+            "poise": "LV5/25"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "3 hits / 3s",
+            "icd_source": "Grp: Chevreuse_ElementalBurst (Tag Miss)",
+            "name": "ElementalBurst_Gadget_Attack2",
+            "poise": "LV5/25"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "3 hits / 3s",
+            "icd_source": "Grp: Chevreuse_ElementalBurst (Tag Miss)",
+            "name": "ElementalBurst_Gadget_Attack2",
+            "poise": "LV5/25"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "3 hits / 3s",
+            "icd_source": "Grp: Chevreuse_ElementalBurst (Tag Miss)",
+            "name": "ElementalBurst_Gadget_Attack4",
+            "poise": "LV5/25"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "3 hits / 3s",
+            "icd_source": "Grp: Chevreuse_ElementalBurst (Tag Miss)",
+            "name": "ElementalBurst_Gadget_Attack4",
+            "poise": "LV5/25"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "3 hits / 3s",
+            "icd_source": "Grp: Chevreuse_ElementalBurst (Tag Miss)",
+            "name": "ElementalBurst_Gadget_Attack6",
+            "poise": "LV5/25"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "3 hits / 3s",
+            "icd_source": "Grp: Chevreuse_ElementalBurst (Tag Miss)",
+            "name": "ElementalBurst_Gadget_Attack6",
+            "poise": "LV5/25"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "3 hits / 3s",
+            "icd_source": "Grp: Chevreuse_ElementalBurst (Tag Miss)",
+            "name": "ElementalBurst_Gadget_Attack8",
+            "poise": "LV5/25"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art_Extra (!)",
+            "name": "SkillObj_ExtraBomb_Material",
+            "poise": "LV5/25"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/25"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "When the active character with the \"Coordinated Tactics\" status (not including Chevreuse herself) triggers the Overloaded reaction, they will recover 6 Energy. This effect can be triggered once every 10s.\\nYou must first unlock the Ascension Talent \"Vanguard's Coordinated Tactics.\"",
+            "icon": "UI_Talent_S_Chevreuse_01",
+            "name": "Stable Front Line's Resolve"
+        },
+        "const2": {
+            "description": "After Holding <color=#FFD780FF>Short-Range Rapid Interdiction Fire</color> and hitting a target, 2 chain explosions will be triggered near the location where said target is hit. Each explosion deals <color=#FF9999FF>Pyro DMG</color> equal to 120% of Chevreuse's ATK. This effect can be triggered up to once every 10s, and DMG dealt this way is considered Elemental Skill DMG.",
+            "icon": "UI_Talent_S_Chevreuse_02",
+            "name": "Sniper Induced Explosion"
+        },
+        "const3": {
+            "description": "Increases the Level of <color=#FFD780FF>Short-Range Rapid Interdiction Fire</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Chevreuse_01",
+            "name": "Practiced Field Stripping Technique"
+        },
+        "const4": {
+            "description": "After using <color=#FFD780FF>Ring of Bursting Grenades</color>, the Hold mode of <color=#FFD780FF>Short-Range Rapid Interdiction Fire</color> will not go on cooldown when Chevreuse uses it. This effect is removed after Short-Range Rapid Interdiction Fire has been fired twice using Hold or after 6s.",
+            "icon": "UI_Talent_S_Chevreuse_03",
+            "name": "The Secret to Rapid-Fire Multishots"
+        },
+        "const5": {
+            "description": "Increases the Level of <color=#FFD780FF>Ring of Bursting Grenades</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Chevreuse_02",
+            "name": "Enhanced Incendiary Firepower"
+        },
+        "const6": {
+            "description": "After 12s of the healing effect from <color=#FFD780FF>Short-Range Rapid Interdiction Fire</color>, all nearby party members recover HP equivalent to 10% of Chevreuse's Max HP once.\\nAfter a party member is healed by Short-Range Rapid Interdiction Fire, they gain a 20% <color=#FF9999FF>Pyro DMG Bonus</color> and <color=#FFACFFFF>Electro DMG Bonus</color> for 8s. Max 3 stacks. Each stack's duration is counted independently.",
+            "icon": "UI_Talent_S_Chevreuse_04",
+            "name": "In Pursuit of Ending Evil"
+        }
+    },
+    "energy": [
+        {
+            "cd": "10s",
+            "chance": "100%",
+            "particles": "4",
+            "source": "Ball"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Chevreuse",
+        "forward": "UI_AvatarIcon_Chevreuse"
+    },
+    "info": {
+        "attributes": [
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 16,
+                "def": 51,
+                "hp": 1003,
+                "level": 1
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 18,
+                "def": 55,
+                "hp": 1086,
+                "level": 2
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 59,
+                "hp": 1168,
+                "level": 3
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 63,
+                "hp": 1252,
+                "level": 4
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 67,
+                "hp": 1334,
+                "level": 5
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 23,
+                "def": 72,
+                "hp": 1417,
+                "level": 6
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 76,
+                "hp": 1499,
+                "level": 7
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 80,
+                "hp": 1583,
+                "level": 8
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 84,
+                "hp": 1666,
+                "level": 9
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 88,
+                "hp": 1748,
+                "level": 10
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 93,
+                "hp": 1831,
+                "level": 11
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 97,
+                "hp": 1914,
+                "level": 12
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 101,
+                "hp": 1997,
+                "level": 13
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 105,
+                "hp": 2079,
+                "level": 14
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 109,
+                "hp": 2162,
+                "level": 15
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 114,
+                "hp": 2246,
+                "level": 16
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 118,
+                "hp": 2328,
+                "level": 17
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 122,
+                "hp": 2411,
+                "level": 18
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 40,
+                "def": 126,
+                "hp": 2493,
+                "level": 19
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 130,
+                "hp": 2577,
+                "level": 20
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 55,
+                "def": 172,
+                "hp": 3408,
+                "level": 21
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 56,
+                "def": 176,
+                "hp": 3491,
+                "level": 22
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 58,
+                "def": 181,
+                "hp": 3575,
+                "level": 23
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 59,
+                "def": 185,
+                "hp": 3657,
+                "level": 24
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 60,
+                "def": 189,
+                "hp": 3740,
+                "level": 25
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 62,
+                "def": 193,
+                "hp": 3822,
+                "level": 26
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 63,
+                "def": 197,
+                "hp": 3906,
+                "level": 27
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 64,
+                "def": 202,
+                "hp": 3988,
+                "level": 28
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 66,
+                "def": 206,
+                "hp": 4071,
+                "level": 29
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 67,
+                "def": 210,
+                "hp": 4153,
+                "level": 30
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 68,
+                "def": 214,
+                "hp": 4237,
+                "level": 31
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 70,
+                "def": 218,
+                "hp": 4320,
+                "level": 32
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 223,
+                "hp": 4402,
+                "level": 33
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 72,
+                "def": 227,
+                "hp": 4485,
+                "level": 34
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 74,
+                "def": 231,
+                "hp": 4568,
+                "level": 35
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 75,
+                "def": 235,
+                "hp": 4651,
+                "level": 36
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 76,
+                "def": 239,
+                "hp": 4733,
+                "level": 37
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 78,
+                "def": 243,
+                "hp": 4816,
+                "level": 38
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 79,
+                "def": 248,
+                "hp": 4900,
+                "level": 39
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 80,
+                "def": 252,
+                "hp": 4982,
+                "level": 40
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 90,
+                "def": 283,
+                "hp": 5597,
+                "level": 41
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 92,
+                "def": 287,
+                "hp": 5680,
+                "level": 42
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 93,
+                "def": 291,
+                "hp": 5763,
+                "level": 43
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 94,
+                "def": 295,
+                "hp": 5845,
+                "level": 44
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 96,
+                "def": 300,
+                "hp": 5928,
+                "level": 45
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 97,
+                "def": 304,
+                "hp": 6012,
+                "level": 46
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 98,
+                "def": 308,
+                "hp": 6094,
+                "level": 47
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 100,
+                "def": 312,
+                "hp": 6177,
+                "level": 48
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 101,
+                "def": 316,
+                "hp": 6259,
+                "level": 49
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 102,
+                "def": 321,
+                "hp": 6343,
+                "level": 50
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 115,
+                "def": 361,
+                "hp": 7135,
+                "level": 51
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 117,
+                "def": 365,
+                "hp": 7218,
+                "level": 52
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 118,
+                "def": 369,
+                "hp": 7301,
+                "level": 53
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 119,
+                "def": 373,
+                "hp": 7383,
+                "level": 54
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 121,
+                "def": 377,
+                "hp": 7467,
+                "level": 55
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 122,
+                "def": 382,
+                "hp": 7549,
+                "level": 56
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 123,
+                "def": 386,
+                "hp": 7632,
+                "level": 57
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 125,
+                "def": 390,
+                "hp": 7714,
+                "level": 58
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 126,
+                "def": 394,
+                "hp": 7798,
+                "level": 59
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 127,
+                "def": 398,
+                "hp": 7881,
+                "level": 60
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 137,
+                "def": 429,
+                "hp": 8496,
+                "level": 61
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 139,
+                "def": 434,
+                "hp": 8579,
+                "level": 62
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 140,
+                "def": 438,
+                "hp": 8661,
+                "level": 63
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 141,
+                "def": 442,
+                "hp": 8744,
+                "level": 64
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 143,
+                "def": 446,
+                "hp": 8827,
+                "level": 65
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 144,
+                "def": 450,
+                "hp": 8910,
+                "level": 66
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 145,
+                "def": 455,
+                "hp": 8993,
+                "level": 67
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 147,
+                "def": 459,
+                "hp": 9075,
+                "level": 68
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 148,
+                "def": 463,
+                "hp": 9159,
+                "level": 69
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 149,
+                "def": 467,
+                "hp": 9241,
+                "level": 70
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 159,
+                "def": 498,
+                "hp": 9856,
+                "level": 71
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 161,
+                "def": 502,
+                "hp": 9939,
+                "level": 72
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 162,
+                "def": 507,
+                "hp": 10022,
+                "level": 73
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 163,
+                "def": 511,
+                "hp": 10105,
+                "level": 74
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 165,
+                "def": 515,
+                "hp": 10187,
+                "level": 75
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 166,
+                "def": 519,
+                "hp": 10271,
+                "level": 76
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 167,
+                "def": 523,
+                "hp": 10353,
+                "level": 77
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 169,
+                "def": 528,
+                "hp": 10436,
+                "level": 78
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 170,
+                "def": 532,
+                "hp": 10518,
+                "level": 79
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 171,
+                "def": 536,
+                "hp": 10602,
+                "level": 80
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 181,
+                "def": 567,
+                "hp": 11217,
+                "level": 81
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 183,
+                "def": 571,
+                "hp": 11299,
+                "level": 82
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 184,
+                "def": 575,
+                "hp": 11383,
+                "level": 83
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 185,
+                "def": 580,
+                "hp": 11465,
+                "level": 84
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 187,
+                "def": 584,
+                "hp": 11548,
+                "level": 85
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 188,
+                "def": 588,
+                "hp": 11630,
+                "level": 86
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 189,
+                "def": 592,
+                "hp": 11714,
+                "level": 87
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 191,
+                "def": 596,
+                "hp": 11796,
+                "level": 88
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 192,
+                "def": 601,
+                "hp": 11879,
+                "level": 89
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 193,
+                "def": 605,
+                "hp": 11962,
+                "level": 90
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 218,
+                "def": 626,
+                "hp": 12376,
+                "level": 95
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 243,
+                "def": 647,
+                "hp": 12790,
+                "level": 100
+            }
+        ],
+        "birthday": "January 10th",
+        "constellation": "Sclopetum Ensiferum",
+        "description": "The captain of the Special Security and Surveillance Patrol, who wears justice as an ever-present seal upon her heart. Her musket shall only ever point at the guilty.",
+        "element": "Pyro",
+        "name": "Chevreuse",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_POLE"
+    },
+    "passives": {
+        "p1": {
+            "description": "When all party members are <color=#FF9999FF>Pyro</color> and <color=#FFACFFFF>Electro</color> characters and there is at least one Pyro and one Electro character each in the party:\\nChevreuse grants \"Coordinated Tactics\" to nearby party members: After a character triggers the Overloaded reaction, the <color=#FF9999FF>Pyro</color> and <color=#FFACFFFF>Electro</color> RES of the opponent(s) affected by this Overloaded reaction will be decreased by 40% for 6s.\\nThe \"Coordinated Tactics\" effect will be removed when the Elemental Types of the characters in the party do not meet the basic requirements for the Ascension Talent.",
+            "icon": "UI_Talent_S_Chevreuse_05",
+            "name": "Vanguard's Coordinated Tactics"
+        },
+        "p2": {
+            "description": "After Chevreuse fires an Overcharged Ball using <color=#FFD780FF>Short-Range Rapid Interdiction Fire</color>, nearby <color=#FF9999FF>Pyro</color> and <color=#FFACFFFF>Electro</color> characters in the party gain 1% increased ATK for every 1,000 Max HP Chevreuse has for 30s. ATK can be increased by up to 40% in this way.",
+            "icon": "UI_Talent_S_Chevreuse_06",
+            "name": "Vertical Force Coordination"
+        },
+        "p3": {
+            "description": "Decreases sprinting Stamina consumption for your own party members by 20%.\\nNot stackable with Passive Talents that provide the exact same effects.",
+            "icon": "UI_Talent_Explosion_Sprint",
+            "name": "Double Time March"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Chevreuse fires an explosive grenade at opponents with her musket, dealing <color=#FF9999FF>AoE Pyro DMG.</color> After the projectile hits, it will split into many secondary explosive shells.\\nThe secondary explosive shells will burst after a short interval, dealing <color=#FF9999FF>Pyro DMG</color> to nearby opponents.\\n\\n<i>\"Theoretically, a rectangular blast would be most efficient at destroying enemy formations. Unfortunately, the cross-section of an explosive shock wave is round, like most cakes. So, the secondary explosive shells can only be arranged like the fruit on a cake, forming a ring around the edge.\"</i>",
+            "icon": "Skill_E_Chevreuse_01",
+            "multipliers": {
+                "CD": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Energy Cost": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "Explosive Grenade DMG": [
+                    "368.16%",
+                    "395.77%",
+                    "423.38%",
+                    "460.2%",
+                    "487.81%",
+                    "515.42%",
+                    "552.24%",
+                    "589.06%",
+                    "625.87%",
+                    "662.69%",
+                    "699.5%",
+                    "736.32%",
+                    "782.34%",
+                    "828.36%",
+                    "874.38%"
+                ],
+                "Secondary Explosive Shell DMG": [
+                    "49.09%",
+                    "52.77%",
+                    "56.45%",
+                    "61.36%",
+                    "65.04%",
+                    "68.72%",
+                    "73.63%",
+                    "78.54%",
+                    "83.45%",
+                    "88.36%",
+                    "93.27%",
+                    "98.18%",
+                    "104.31%",
+                    "110.45%",
+                    "116.58%"
+                ]
+            },
+            "name": "Ring of Bursting Grenades"
+        },
+        "elementalskill": {
+            "description": "Chevreuse quickly shoulders her musket and fires at her opponent(s), dealing <color=#FF9999FF>AoE Pyro DMG</color>.\\nFor a short duration after Chevreuse fires a shot, she will continuously restore HP to your active character on the field. The amount healed is based on her Max HP.\\nHold to fire in a different fashion.\\n\\n<color=#FFD780FF>Hold</color>\\nEnter Aiming Mode, locking a target in her sights to fire a precise interdiction shot. If Chevreuse has an Overcharged Ball, then she will fire the Overcharged Ball instead, dealing greater <color=#FF9999FF>Pyro DMG</color> in a larger area.\\nChevreuse gains 1 Overcharged Ball every time a nearby character in the party triggers an Overloaded reaction, and can have up to 1 Overcharged Ball at a time.\\n\\n<color=#FFD780FF>Arkhe: Ousia</color>\\nPeriodically, after Chevreuse's Short-Range Rapid Interdiction Fire hits, a Surging Blade will be called forth that deals Ousia-aligned <color=#FF9999FF>Pyro DMG</color>.\\n\\n<i>\"Actually, training regulations only had the phrase \"interdiction fire,\" but the protagonist of this novel believes that even how stylish your terminology is can affect how motivated your troops are, which can put your opponents on the back foot right from the get-go... I think that's a good point, so I changed the regulations!\"</i>",
+            "icon": "Skill_S_Chevreuse_01",
+            "multipliers": {
+                "CD": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "HP Regeneration Over Time": [
+                    "2.67% Max HP+257",
+                    "2.87% Max HP+282",
+                    "3.07% Max HP+310",
+                    "3.33% Max HP+340",
+                    "3.53% Max HP+372",
+                    "3.73% Max HP+407",
+                    "4% Max HP+443",
+                    "4.27% Max HP+482",
+                    "4.53% Max HP+522",
+                    "4.8% Max HP+565",
+                    "5.07% Max HP+610",
+                    "5.33% Max HP+657",
+                    "5.67% Max HP+706",
+                    "6% Max HP+758",
+                    "6.33% Max HP+811"
+                ],
+                "Healing Duration": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "Hold DMG": [
+                    "172.8%",
+                    "185.76%",
+                    "198.72%",
+                    "216%",
+                    "228.96%",
+                    "241.92%",
+                    "259.2%",
+                    "276.48%",
+                    "293.76%",
+                    "311.04%",
+                    "328.32%",
+                    "345.6%",
+                    "367.2%",
+                    "388.8%",
+                    "410.4%"
+                ],
+                "Overcharged Ball DMG": [
+                    "282.4%",
+                    "303.58%",
+                    "324.76%",
+                    "353%",
+                    "374.18%",
+                    "395.36%",
+                    "423.6%",
+                    "451.84%",
+                    "480.08%",
+                    "508.32%",
+                    "536.56%",
+                    "564.8%",
+                    "600.1%",
+                    "635.4%",
+                    "670.7%"
+                ],
+                "Press DMG": [
+                    "115.2%",
+                    "123.84%",
+                    "132.48%",
+                    "144%",
+                    "152.64%",
+                    "161.28%",
+                    "172.8%",
+                    "184.32%",
+                    "195.84%",
+                    "207.36%",
+                    "218.88%",
+                    "230.4%",
+                    "244.8%",
+                    "259.2%",
+                    "273.6%"
+                ],
+                "Surging Blade DMG": [
+                    "28.8%",
+                    "30.96%",
+                    "33.12%",
+                    "36%",
+                    "38.16%",
+                    "40.32%",
+                    "43.2%",
+                    "46.08%",
+                    "48.96%",
+                    "51.84%",
+                    "54.72%",
+                    "57.6%",
+                    "61.2%",
+                    "64.8%",
+                    "68.4%"
+                ],
+                "Surging Blade Interval": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ]
+            },
+            "name": "Short-Range Rapid Interdiction Fire"
+        },
+        "leveling": {
+            "books": {
+                "104344": 9,
+                "104345": 63,
+                "104346": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113055": 18
+            },
+            "worldmonster": {
+                "112083": 18,
+                "112084": 66,
+                "112085": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 consecutive spear strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+            "icon": "Skill_A_03",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "53.13%",
+                    "57.45%",
+                    "61.78%",
+                    "67.96%",
+                    "72.28%",
+                    "77.22%",
+                    "84.02%",
+                    "90.82%",
+                    "97.61%",
+                    "105.02%",
+                    "112.44%",
+                    "119.85%",
+                    "127.26%",
+                    "134.68%",
+                    "142.09%"
+                ],
+                "2-Hit DMG": [
+                    "49.31%",
+                    "53.32%",
+                    "57.34%",
+                    "63.07%",
+                    "67.09%",
+                    "71.67%",
+                    "77.98%",
+                    "84.29%",
+                    "90.59%",
+                    "97.47%",
+                    "104.36%",
+                    "111.24%",
+                    "118.12%",
+                    "125%",
+                    "131.88%"
+                ],
+                "3-Hit DMG": [
+                    "27.64%+32.45%",
+                    "29.9%+35.09%",
+                    "32.15%+37.74%",
+                    "35.36%+41.51%",
+                    "37.61%+44.15%",
+                    "40.18%+47.17%",
+                    "43.72%+51.32%",
+                    "47.25%+55.47%",
+                    "50.79%+59.62%",
+                    "54.65%+64.15%",
+                    "58.5%+68.68%",
+                    "62.36%+73.21%",
+                    "66.22%+77.74%",
+                    "70.08%+82.26%",
+                    "73.93%+86.79%"
+                ],
+                "4-Hit DMG": [
+                    "77.26%",
+                    "83.55%",
+                    "89.84%",
+                    "98.82%",
+                    "105.11%",
+                    "112.3%",
+                    "122.18%",
+                    "132.06%",
+                    "141.95%",
+                    "152.73%",
+                    "163.51%",
+                    "174.29%",
+                    "185.07%",
+                    "195.85%",
+                    "206.63%"
+                ],
+                "Charged Attack DMG": [
+                    "121.69%",
+                    "131.6%",
+                    "141.5%",
+                    "155.65%",
+                    "165.56%",
+                    "176.87%",
+                    "192.44%",
+                    "208%",
+                    "223.57%",
+                    "240.55%",
+                    "257.53%",
+                    "274.51%",
+                    "291.49%",
+                    "308.47%",
+                    "325.45%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25"
+                ],
+                "Low/High Plunge DMG": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Plunge DMG": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ]
+            },
+            "name": "Line Bayonet Thrust EX"
+        }
+    }
+}

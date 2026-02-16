@@ -1,0 +1,1354 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104131": 1,
+            "104132": 9,
+            "104133": 9,
+            "104134": 6
+        },
+        "elitemonster": {
+            "113040": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100027": 168
+        },
+        "worldmonster": {
+            "112002": 18,
+            "112003": 30,
+            "112004": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "ExtraAttack_Bullet",
+            "poise": "LV5/120"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "ExtraAttack_Bullet",
+            "poise": "LV5/120"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        },
+        {
+            "element": "AntiFire",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: PermanentSkill_2 (!)",
+            "name": "Turnip_Bullet",
+            "poise": "LV0/0"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "6 hits / 2.5s",
+            "icd_source": "Grp: Yaoyao_GrassAttack (Tag Miss)",
+            "name": "Turnip_Bullet",
+            "poise": "LV2/15"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "6 hits / 1.5s",
+            "icd_source": "Grp: Yaoyao_ElementalBurst (Tag Miss)",
+            "name": "Turnip_Bullet",
+            "poise": "LV2/15"
+        },
+        {
+            "element": "AntiFire",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Yaoyao_CheckAlliance (!)",
+            "name": "Turnip",
+            "poise": "LV0/0"
+        },
+        {
+            "element": "AntiFire",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: PermanentSkill_2 (!)",
+            "name": "Turnip",
+            "poise": "LV0/0"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "6 hits / 2.5s",
+            "icd_source": "Grp: Yaoyao_GrassAttack (Tag Miss)",
+            "name": "Turnip",
+            "poise": "LV2/15"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "6 hits / 1.5s",
+            "icd_source": "Grp: Yaoyao_ElementalBurst (Tag Miss)",
+            "name": "Turnip",
+            "poise": "LV2/15"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Yaoyao_Constellation_6 (!)",
+            "name": "Golden_Turnip_Bullet",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "AntiFire",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Yaoyao_CheckAlliance (!)",
+            "name": "Golden_Turnip",
+            "poise": "LV0/0"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Yaoyao_Constellation_6 (!)",
+            "name": "Golden_Turnip",
+            "poise": "LV2/30"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "When <color=#FFD780FF>White Jade Radishes</color> explode, active characters within their AoE will gain 15% <color=#99FF88FF>Dendro DMG Bonus</color> for 8s and have 15 Stamina restored to them. This form of Stamina Restoration can only be triggered every 5s.",
+            "icon": "UI_Talent_S_Yaoyao_01",
+            "name": "Adeptus' Tutelage"
+        },
+        "const2": {
+            "description": "While affected by the Adeptal Legacy state caused by <color=#FFD780FF>Moonjade Descent</color>, if White Jade Radish explosions hit opponents, 3 Energy will be restored to Yaoyao. This form of Energy regeneration can occur once every 0.8s.",
+            "icon": "UI_Talent_S_Yaoyao_02",
+            "name": "Innocent"
+        },
+        "const3": {
+            "description": "Increases the Level of <color=#FFD780FF>Raphanus Sky Cluster</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Yaoyao_01",
+            "name": "Loyal and Kind"
+        },
+        "const4": {
+            "description": "After using <color=#FFD780FF>Raphanus Sky Cluster</color> or <color=#FFD780FF>Moonjade Descent</color>, Yaoyao's Elemental Mastery will be increased based on 0.3% of her Max HP for 8s. The maximum Elemental Mastery she can gain this way is 120.",
+            "icon": "UI_Talent_S_Yaoyao_03",
+            "name": "Winsome"
+        },
+        "const5": {
+            "description": "Increases the Level of <color=#FFD780FF>Moonjade Descent</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Yaoyao_02",
+            "name": "Compassionate"
+        },
+        "const6": {
+            "description": "For every 2 White Jade Radishes <color=#FFD780FF>Yuegui: Throwing Mode</color> throws out, the next throw will also release a Mega Radish that will have a larger AoE than the standard White Jade Radish and have the following effects upon exploding:\\n·Deals <color=#99FF88FF>AoE Dendro DMG</color> based on 75% of Yaoyao's ATK.\\n·Restores HP for the active character based on 7.5% of Yaoyao's Max HP.\\n\\nEvery Yuegui: Throwing Mode can throw out a maximum of 2 Mega Radishes.",
+            "icon": "UI_Talent_S_Yaoyao_04",
+            "name": "Beneficent"
+        }
+    },
+    "energy": [
+        {
+            "cd": "1.5s",
+            "chance": "100%",
+            "particles": "1",
+            "source": "Ball"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Yaoyao",
+        "forward": "UI_AvatarIcon_Yaoyao"
+    },
+    "info": {
+        "attributes": [
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 18,
+                "def": 63,
+                "hp": 1030,
+                "level": 1
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 68,
+                "hp": 1116,
+                "level": 2
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 73,
+                "hp": 1200,
+                "level": 3
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 79,
+                "hp": 1286,
+                "level": 4
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 84,
+                "hp": 1370,
+                "level": 5
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 89,
+                "hp": 1456,
+                "level": 6
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 94,
+                "hp": 1540,
+                "level": 7
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 99,
+                "hp": 1626,
+                "level": 8
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 105,
+                "hp": 1711,
+                "level": 9
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 110,
+                "hp": 1796,
+                "level": 10
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 115,
+                "hp": 1881,
+                "level": 11
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 120,
+                "hp": 1966,
+                "level": 12
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 125,
+                "hp": 2051,
+                "level": 13
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 130,
+                "hp": 2136,
+                "level": 14
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 136,
+                "hp": 2221,
+                "level": 15
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 40,
+                "def": 141,
+                "hp": 2307,
+                "level": 16
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 146,
+                "hp": 2391,
+                "level": 17
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 43,
+                "def": 151,
+                "hp": 2477,
+                "level": 18
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 156,
+                "hp": 2561,
+                "level": 19
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 46,
+                "def": 162,
+                "hp": 2647,
+                "level": 20
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 61,
+                "def": 214,
+                "hp": 3501,
+                "level": 21
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 62,
+                "def": 219,
+                "hp": 3587,
+                "level": 22
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 63,
+                "def": 224,
+                "hp": 3672,
+                "level": 23
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 65,
+                "def": 230,
+                "hp": 3757,
+                "level": 24
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 66,
+                "def": 235,
+                "hp": 3842,
+                "level": 25
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 68,
+                "def": 240,
+                "hp": 3927,
+                "level": 26
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 69,
+                "def": 245,
+                "hp": 4012,
+                "level": 27
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 250,
+                "hp": 4097,
+                "level": 28
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 72,
+                "def": 256,
+                "hp": 4182,
+                "level": 29
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 74,
+                "def": 261,
+                "hp": 4267,
+                "level": 30
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 75,
+                "def": 266,
+                "hp": 4352,
+                "level": 31
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 77,
+                "def": 271,
+                "hp": 4438,
+                "level": 32
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 78,
+                "def": 276,
+                "hp": 4522,
+                "level": 33
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 80,
+                "def": 282,
+                "hp": 4608,
+                "level": 34
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 81,
+                "def": 287,
+                "hp": 4692,
+                "level": 35
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 83,
+                "def": 292,
+                "hp": 4778,
+                "level": 36
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 84,
+                "def": 297,
+                "hp": 4862,
+                "level": 37
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 86,
+                "def": 302,
+                "hp": 4948,
+                "level": 38
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 87,
+                "def": 308,
+                "hp": 5033,
+                "level": 39
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 88,
+                "def": 313,
+                "hp": 5118,
+                "level": 40
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 99,
+                "def": 351,
+                "hp": 5750,
+                "level": 41
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 101,
+                "def": 356,
+                "hp": 5835,
+                "level": 42
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 102,
+                "def": 362,
+                "hp": 5920,
+                "level": 43
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 104,
+                "def": 367,
+                "hp": 6005,
+                "level": 44
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 105,
+                "def": 372,
+                "hp": 6090,
+                "level": 45
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 107,
+                "def": 377,
+                "hp": 6176,
+                "level": 46
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 108,
+                "def": 382,
+                "hp": 6260,
+                "level": 47
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 110,
+                "def": 388,
+                "hp": 6346,
+                "level": 48
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 111,
+                "def": 393,
+                "hp": 6430,
+                "level": 49
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 113,
+                "def": 398,
+                "hp": 6516,
+                "level": 50
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 127,
+                "def": 448,
+                "hp": 7329,
+                "level": 51
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 128,
+                "def": 453,
+                "hp": 7415,
+                "level": 52
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 130,
+                "def": 458,
+                "hp": 7500,
+                "level": 53
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 131,
+                "def": 463,
+                "hp": 7585,
+                "level": 54
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 133,
+                "def": 469,
+                "hp": 7670,
+                "level": 55
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 134,
+                "def": 474,
+                "hp": 7755,
+                "level": 56
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 136,
+                "def": 479,
+                "hp": 7840,
+                "level": 57
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 137,
+                "def": 484,
+                "hp": 7925,
+                "level": 58
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 138,
+                "def": 489,
+                "hp": 8010,
+                "level": 59
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 140,
+                "def": 495,
+                "hp": 8096,
+                "level": 60
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 151,
+                "def": 533,
+                "hp": 8727,
+                "level": 61
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 152,
+                "def": 538,
+                "hp": 8813,
+                "level": 62
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 154,
+                "def": 544,
+                "hp": 8897,
+                "level": 63
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 155,
+                "def": 549,
+                "hp": 8983,
+                "level": 64
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 157,
+                "def": 554,
+                "hp": 9067,
+                "level": 65
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 158,
+                "def": 559,
+                "hp": 9153,
+                "level": 66
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 160,
+                "def": 564,
+                "hp": 9238,
+                "level": 67
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 161,
+                "def": 570,
+                "hp": 9323,
+                "level": 68
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 163,
+                "def": 575,
+                "hp": 9408,
+                "level": 69
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 164,
+                "def": 580,
+                "hp": 9493,
+                "level": 70
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 175,
+                "def": 619,
+                "hp": 10125,
+                "level": 71
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 176,
+                "def": 624,
+                "hp": 10210,
+                "level": 72
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 178,
+                "def": 629,
+                "hp": 10295,
+                "level": 73
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 179,
+                "def": 634,
+                "hp": 10381,
+                "level": 74
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 181,
+                "def": 639,
+                "hp": 10465,
+                "level": 75
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 182,
+                "def": 645,
+                "hp": 10551,
+                "level": 76
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 184,
+                "def": 650,
+                "hp": 10635,
+                "level": 77
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 185,
+                "def": 655,
+                "hp": 10721,
+                "level": 78
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 187,
+                "def": 660,
+                "hp": 10805,
+                "level": 79
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 188,
+                "def": 665,
+                "hp": 10891,
+                "level": 80
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 199,
+                "def": 704,
+                "hp": 11523,
+                "level": 81
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 201,
+                "def": 709,
+                "hp": 11608,
+                "level": 82
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 202,
+                "def": 714,
+                "hp": 11693,
+                "level": 83
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 204,
+                "def": 720,
+                "hp": 11778,
+                "level": 84
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 205,
+                "def": 725,
+                "hp": 11863,
+                "level": 85
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 207,
+                "def": 730,
+                "hp": 11948,
+                "level": 86
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 208,
+                "def": 735,
+                "hp": 12033,
+                "level": 87
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 209,
+                "def": 740,
+                "hp": 12118,
+                "level": 88
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 211,
+                "def": 746,
+                "hp": 12203,
+                "level": 89
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 212,
+                "def": 751,
+                "hp": 12289,
+                "level": 90
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 239,
+                "def": 777,
+                "hp": 12713,
+                "level": 95
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 267,
+                "def": 803,
+                "hp": 13139,
+                "level": 100
+            }
+        ],
+        "birthday": "March 6th",
+        "constellation": "Osmanthus",
+        "description": "Streetward Rambler's youngest disciple. A gentle and caring \"little adult.\"",
+        "element": "Dendro",
+        "name": "Yaoyao",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_POLE"
+    },
+    "passives": {
+        "p1": {
+            "description": "While affected by the Adeptal Legacy state caused by <color=#FFD780FF>Moonjade Descent</color>, Yaoyao will constantly throw White Jade Radishes at nearby opponents when she is sprinting, jumping, or running. She can throw 1 White Jade Radish this way once every 0.6s.",
+            "icon": "UI_Talent_S_Yaoyao_05",
+            "name": "Starscatter"
+        },
+        "p2": {
+            "description": "When <color=#FFD780FF>White Jade Radishes</color> explode, active characters within their AoE will regain HP every 1s based on 0.8% of Yaoyao's Max HP. This effect lasts 5s.",
+            "icon": "UI_Talent_S_Yaoyao_06",
+            "name": "In Others' Shoes"
+        },
+        "p3": {
+            "description": "When Yaoyao is in the party, your characters will not startle Crystalflies and certain other animals when getting near them.\\nCheck the \"Other\" sub-category of the \"Living Beings / Wildlife\" section in the Archive for creatures this skill works on.",
+            "icon": "UI_Talent_S_Yaoyao_07",
+            "name": "Tailing on Tiptoes"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "At the enjoinment of a certain adeptus, Yuegui's full potential can be unleashed in an emergency, dealing <color=#99FF88FF>Dendro DMG</color> to nearby opponents and entering an (in some sense) unsurpassed Adeptal Legacy state.\\n\\n<color=#FFD780FF>Adeptal Legacy</color>\\n·White Jade Radishes generated will be changed to heal and deal DMG according to this skill. Explosions will heal all nearby party members, and the <color=#99FF88FF>Dendro DMG</color> that they deal will be viewed as Elemental Burst DMG instead.\\n·Summons \"Yuegui: Jumping Mode\" at intervals until their limit has been reached. The behavior of this version of Yuegui is the same as that of \"Yuegui: Throwing Mode\" in the Elemental Skill, Raphanus Sky Cluster. A maximum of 3 Yuegui: Jumping Mode can exist at any one time.\\n·Yaoyao's Movement SPD is increased by 15%.\\n·Yaoyao's <color=#99FF88FF>Dendro RES</color> will be increased.\\n\\nThe Adeptal Legacy state will end once Yaoyao is off-field, and all remaining Yuegui: Jumping Mode will be cleared once this state ends.\\n\\n<i>\"Eh? Which one of these is actually Yuegui, you ask? Aren't they all Yuegui?\"</i>",
+            "icon": "Skill_E_Yaoyao_01",
+            "multipliers": {
+                "Adeptal Legacy Duration": [
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s"
+                ],
+                "Adeptal Legacy White Jade Radish DMG": [
+                    "72.16%",
+                    "77.57%",
+                    "82.98%",
+                    "90.2%",
+                    "95.61%",
+                    "101.02%",
+                    "108.24%",
+                    "115.46%",
+                    "122.67%",
+                    "129.89%",
+                    "137.1%",
+                    "144.32%",
+                    "153.34%",
+                    "162.36%",
+                    "171.38%"
+                ],
+                "Adeptal Legacy White Jade Radish Healing": [
+                    "2.02% Max HP+194",
+                    "2.17% Max HP+214",
+                    "2.32% Max HP+235",
+                    "2.52% Max HP+257",
+                    "2.67% Max HP+282",
+                    "2.82% Max HP+308",
+                    "3.03% Max HP+335",
+                    "3.23% Max HP+364",
+                    "3.43% Max HP+395",
+                    "3.63% Max HP+427",
+                    "3.83% Max HP+461",
+                    "4.03% Max HP+497",
+                    "4.29% Max HP+534",
+                    "4.54% Max HP+573",
+                    "4.79% Max HP+613"
+                ],
+                "CD": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ],
+                "Dendro RES Bonus": [
+                    "50%",
+                    "50%",
+                    "50%",
+                    "50%",
+                    "50%",
+                    "50%",
+                    "50%",
+                    "50%",
+                    "50%",
+                    "50%",
+                    "50%",
+                    "50%",
+                    "50%",
+                    "50%",
+                    "50%"
+                ],
+                "Energy Cost": [
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80"
+                ],
+                "Skill DMG": [
+                    "114.56%",
+                    "123.15%",
+                    "131.74%",
+                    "143.2%",
+                    "151.79%",
+                    "160.38%",
+                    "171.84%",
+                    "183.3%",
+                    "194.75%",
+                    "206.21%",
+                    "217.66%",
+                    "229.12%",
+                    "243.44%",
+                    "257.76%",
+                    "272.08%"
+                ]
+            },
+            "name": "Moonjade Descent"
+        },
+        "elementalskill": {
+            "description": "Calls upon \"Yuegui: Throwing Mode,\" a special device created by a certain adeptus to help Yaoyao solve her problems.\\nThis skill will be used differently in Holding Mode.\\n\\n<color=#FFD780FF>Hold</color>\\nEnters Aiming Mode to adjust the throw direction.\\n\\n<color=#FFD780FF>Yuegui: Throwing Mode</color>\\nThrows out White Jade Radishes that will explode upon hitting characters or opponents, dealing <color=#99FF88FF>Dendro DMG</color> to opponents within a certain AoE, and healing characters within that same AoE based on Yaoyao's Max HP. If a radish does not hit either an opponent or a character, the radish will remain where it is and explode on contact with a character or opponent, or will explode after its duration expires.\\nYuegui: Throwing Mode will choose its radish-throw targets.\\n·If all nearby characters have more than 70% HP remaining, then it will throw the radish at a nearby opponent.\\n·If nearby characters have 70% or less HP remaining, it will throw a radish at the character with the lowest HP percentage remaining. If no opponents exist nearby, Yuegui will also throw White Jade Radishes at characters if they all have more than 70% HP and less than 100% HP remaining. Otherwise, it will throw radishes into the area at random.\\n\\nA maximum of 2 instances of Yuegui: Throwing Mode can exist at any one time.\\n\\n<i>\"A radish a day keeps trouble away! ... Oh, this isn't about a radish's medical properties, exactly, but it does have some health benefits, yeah!\"</i>",
+            "icon": "Skill_S_Yaoyao_01",
+            "multipliers": {
+                "CD": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "White Jade Radish DMG": [
+                    "29.92%",
+                    "32.16%",
+                    "34.41%",
+                    "37.4%",
+                    "39.64%",
+                    "41.89%",
+                    "44.88%",
+                    "47.87%",
+                    "50.86%",
+                    "53.86%",
+                    "56.85%",
+                    "59.84%",
+                    "63.58%",
+                    "67.32%",
+                    "71.06%"
+                ],
+                "White Jade Radish Duration": [
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s"
+                ],
+                "White Jade Radish Healing": [
+                    "1.71% Max HP+165",
+                    "1.84% Max HP+182",
+                    "1.97% Max HP+199",
+                    "2.14% Max HP+219",
+                    "2.27% Max HP+239",
+                    "2.4% Max HP+261",
+                    "2.57% Max HP+285",
+                    "2.74% Max HP+310",
+                    "2.91% Max HP+336",
+                    "3.09% Max HP+363",
+                    "3.26% Max HP+392",
+                    "3.43% Max HP+422",
+                    "3.64% Max HP+454",
+                    "3.86% Max HP+487",
+                    "4.07% Max HP+521"
+                ],
+                "Yuegui: Throwing Mode Duration": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ]
+            },
+            "name": "Raphanus Sky Cluster"
+        },
+        "leveling": {
+            "books": {
+                "104313": 9,
+                "104314": 63,
+                "104315": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113043": 18
+            },
+            "worldmonster": {
+                "112002": 18,
+                "112003": 66,
+                "112004": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 consecutive spear strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+            "icon": "Skill_A_03",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "51%",
+                    "55.15%",
+                    "59.3%",
+                    "65.23%",
+                    "69.39%",
+                    "74.13%",
+                    "80.65%",
+                    "87.18%",
+                    "93.7%",
+                    "100.82%",
+                    "107.93%",
+                    "115.05%",
+                    "122.17%",
+                    "129.28%",
+                    "136.4%"
+                ],
+                "2-Hit DMG": [
+                    "47.44%",
+                    "51.3%",
+                    "55.17%",
+                    "60.68%",
+                    "64.54%",
+                    "68.96%",
+                    "75.03%",
+                    "81.09%",
+                    "87.16%",
+                    "93.78%",
+                    "100.4%",
+                    "107.02%",
+                    "113.64%",
+                    "120.26%",
+                    "126.88%"
+                ],
+                "3-Hit DMG": [
+                    "31.38%+32.95%",
+                    "33.93%+35.63%",
+                    "36.49%+38.31%",
+                    "40.13%+42.14%",
+                    "42.69%+44.82%",
+                    "45.61%+47.89%",
+                    "49.62%+52.1%",
+                    "53.63%+56.31%",
+                    "57.65%+60.53%",
+                    "62.02%+65.13%",
+                    "66.4%+69.72%",
+                    "70.78%+74.32%",
+                    "75.16%+78.92%",
+                    "79.54%+83.51%",
+                    "83.92%+88.11%"
+                ],
+                "4-Hit DMG": [
+                    "77.93%",
+                    "84.27%",
+                    "90.62%",
+                    "99.68%",
+                    "106.02%",
+                    "113.27%",
+                    "123.24%",
+                    "133.21%",
+                    "143.18%",
+                    "154.05%",
+                    "164.92%",
+                    "175.8%",
+                    "186.67%",
+                    "197.55%",
+                    "208.42%"
+                ],
+                "Charged Attack DMG": [
+                    "112.66%",
+                    "121.83%",
+                    "131%",
+                    "144.1%",
+                    "153.27%",
+                    "163.75%",
+                    "178.16%",
+                    "192.57%",
+                    "206.98%",
+                    "222.7%",
+                    "238.42%",
+                    "254.14%",
+                    "269.86%",
+                    "285.58%",
+                    "301.3%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25"
+                ],
+                "Low/High Plunge DMG": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Plunge DMG": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ]
+            },
+            "name": "Toss 'N' Turn Spear"
+        }
+    }
+}

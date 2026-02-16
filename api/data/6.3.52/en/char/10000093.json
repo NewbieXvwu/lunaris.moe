@@ -1,0 +1,1296 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104151": 1,
+            "104152": 9,
+            "104153": 9,
+            "104154": 6
+        },
+        "elitemonster": {
+            "113058": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101241": 168
+        },
+        "worldmonster": {
+            "112008": 18,
+            "112009": 30,
+            "112010": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "7 hits / 0.5s",
+            "icd_source": "Tag: Liuyun_ExtraAttack",
+            "name": "ExtraAttack_Bullet",
+            "poise": "LV4/90"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack_Bullet_01",
+            "poise": "LV2/7"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack_Bullet_02",
+            "poise": "LV2/7"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack_Bullet_03",
+            "poise": "LV2/9"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack_Bullet_04",
+            "poise": "LV3/12"
+        },
+        {
+            "element": "Wind",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Move_Collider",
+            "poise": "LV3/30"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "ElementalArt_ExtraFallingAttack",
+            "poise": "LV7/150"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "ElementalArt_ExtraFallingAttack",
+            "poise": "LV7/75"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "ElementalArt_ExtraFallingAttack",
+            "poise": "LV3/75"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementBurst",
+            "poise": "LV5/100"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementBurst_Drone",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "Wind",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/5"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "<color=#FFD780FF>White Clouds at Dawn</color> gains 1 additional charge.",
+            "icon": "UI_Talent_S_Liuyun_01",
+            "name": "Purifying Wind"
+        },
+        "const2": {
+            "description": "After using a Skyladder from <color=#FFD780FF>White Clouds at Dawn</color>, Xianyun's ATK will be increased by 20% for 15s.\\nAdditionally, the effects of the Ascension Talent \"Consider, the Adeptus in Her Realm\" will be enhanced: When the Starwicker created by <color=#FFD780FF>Stars Gather at Dusk</color> has Adeptal Assistance stacks, nearby active characters' Plunging Attack shockwave DMG will be increased by 400% of Xianyun's ATK. The maximum DMG increase that can be achieved this way is 18,000.\\nEach Plunging Attack shockwave DMG instance can only apply this increased DMG effect to a single opponent. Each character can trigger this effect once every 0.4s.\\nYou must first unlock the Ascension Talent \"Consider, the Adeptus in Her Realm.\"",
+            "icon": "UI_Talent_S_Liuyun_02",
+            "name": "Aloof From the World"
+        },
+        "const3": {
+            "description": "Increases the Level of <color=#FFD780FF>Stars Gather at Dusk</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Liuyun_02",
+            "name": "Creations of Star and Moon"
+        },
+        "const4": {
+            "description": "After using Skyladder 1/2/3 times during one <color=#FFD780FF>White Clouds at Dawn</color> Cloud Transmogrification state, when a Driftcloud Wave unleashed during that instance hits an opponent, it will heal all nearby party members for 50%/80%/150% of Xianyun's ATK. This effect can be triggered once every 5s.",
+            "icon": "UI_Talent_S_Liuyun_03",
+            "name": "Mystery Millet Gourmet"
+        },
+        "const5": {
+            "description": "Increases the Level of <color=#FFD780FF>White Clouds at Dawn</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Liuyun_01",
+            "name": "Astride Rose-Colored Clouds"
+        },
+        "const6": {
+            "description": "After Xianyun uses 1/2/3 Skyladders within one Cloud Transmogrification caused by <color=#FFD780FF>White Clouds at Dawn</color>, the CRIT DMG of a Driftcloud Wave created in this instance of Cloud Transmogrification will be increased by 15%/35%/70%.\\nWithin 16s after Xianyun has used <color=#FFD780FF>Stars Gather at Dusk</color>, White Clouds at Dawn will not enter CD. This effect will be canceled once she has used White Clouds at Dawn 8 times.",
+            "icon": "UI_Talent_S_Liuyun_04",
+            "name": "They Call Her Cloud Retainer"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.2s",
+            "chance": "100%",
+            "particles": "5",
+            "source": "DropBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Liuyun",
+        "forward": "UI_AvatarIcon_Liuyun"
+    },
+    "info": {
+        "attributes": [
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 45,
+                "hp": 810,
+                "level": 1
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 48,
+                "hp": 878,
+                "level": 2
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 52,
+                "hp": 945,
+                "level": 3
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 56,
+                "hp": 1013,
+                "level": 4
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 59,
+                "hp": 1080,
+                "level": 5
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 63,
+                "hp": 1148,
+                "level": 6
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 67,
+                "hp": 1215,
+                "level": 7
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 71,
+                "hp": 1284,
+                "level": 8
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 43,
+                "def": 74,
+                "hp": 1352,
+                "level": 9
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 46,
+                "def": 78,
+                "hp": 1419,
+                "level": 10
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 48,
+                "def": 82,
+                "hp": 1487,
+                "level": 11
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 50,
+                "def": 86,
+                "hp": 1555,
+                "level": 12
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 52,
+                "def": 89,
+                "hp": 1623,
+                "level": 13
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 54,
+                "def": 93,
+                "hp": 1692,
+                "level": 14
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 57,
+                "def": 97,
+                "hp": 1760,
+                "level": 15
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 59,
+                "def": 101,
+                "hp": 1828,
+                "level": 16
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 61,
+                "def": 104,
+                "hp": 1897,
+                "level": 17
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 63,
+                "def": 108,
+                "hp": 1965,
+                "level": 18
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 65,
+                "def": 112,
+                "hp": 2034,
+                "level": 19
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 68,
+                "def": 116,
+                "hp": 2102,
+                "level": 20
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 92,
+                "def": 158,
+                "hp": 2866,
+                "level": 21
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 94,
+                "def": 161,
+                "hp": 2935,
+                "level": 22
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 97,
+                "def": 165,
+                "hp": 3003,
+                "level": 23
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 99,
+                "def": 169,
+                "hp": 3072,
+                "level": 24
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 101,
+                "def": 173,
+                "hp": 3141,
+                "level": 25
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 103,
+                "def": 177,
+                "hp": 3211,
+                "level": 26
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 106,
+                "def": 180,
+                "hp": 3280,
+                "level": 27
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 108,
+                "def": 184,
+                "hp": 3349,
+                "level": 28
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 110,
+                "def": 188,
+                "hp": 3418,
+                "level": 29
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 112,
+                "def": 192,
+                "hp": 3487,
+                "level": 30
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 114,
+                "def": 196,
+                "hp": 3557,
+                "level": 31
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 117,
+                "def": 199,
+                "hp": 3627,
+                "level": 32
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 119,
+                "def": 203,
+                "hp": 3696,
+                "level": 33
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 121,
+                "def": 207,
+                "hp": 3765,
+                "level": 34
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 123,
+                "def": 211,
+                "hp": 3835,
+                "level": 35
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 126,
+                "def": 215,
+                "hp": 3905,
+                "level": 36
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 128,
+                "def": 219,
+                "hp": 3975,
+                "level": 37
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 130,
+                "def": 222,
+                "hp": 4045,
+                "level": 38
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 132,
+                "def": 226,
+                "hp": 4114,
+                "level": 39
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 135,
+                "def": 230,
+                "hp": 4185,
+                "level": 40
+            },
+            {
+                "ATK%": "7.2",
+                "ascension": 2,
+                "atk": 153,
+                "def": 261,
+                "hp": 4748,
+                "level": 41
+            },
+            {
+                "ATK%": "7.2",
+                "ascension": 2,
+                "atk": 155,
+                "def": 265,
+                "hp": 4819,
+                "level": 42
+            },
+            {
+                "ATK%": "7.2",
+                "ascension": 2,
+                "atk": 157,
+                "def": 269,
+                "hp": 4889,
+                "level": 43
+            },
+            {
+                "ATK%": "7.2",
+                "ascension": 2,
+                "atk": 160,
+                "def": 273,
+                "hp": 4959,
+                "level": 44
+            },
+            {
+                "ATK%": "7.2",
+                "ascension": 2,
+                "atk": 162,
+                "def": 277,
+                "hp": 5029,
+                "level": 45
+            },
+            {
+                "ATK%": "7.2",
+                "ascension": 2,
+                "atk": 164,
+                "def": 281,
+                "hp": 5100,
+                "level": 46
+            },
+            {
+                "ATK%": "7.2",
+                "ascension": 2,
+                "atk": 166,
+                "def": 284,
+                "hp": 5170,
+                "level": 47
+            },
+            {
+                "ATK%": "7.2",
+                "ascension": 2,
+                "atk": 169,
+                "def": 288,
+                "hp": 5241,
+                "level": 48
+            },
+            {
+                "ATK%": "7.2",
+                "ascension": 2,
+                "atk": 171,
+                "def": 292,
+                "hp": 5312,
+                "level": 49
+            },
+            {
+                "ATK%": "7.2",
+                "ascension": 2,
+                "atk": 173,
+                "def": 296,
+                "hp": 5383,
+                "level": 50
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 3,
+                "atk": 197,
+                "def": 336,
+                "hp": 6111,
+                "level": 51
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 3,
+                "atk": 199,
+                "def": 340,
+                "hp": 6183,
+                "level": 52
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 3,
+                "atk": 201,
+                "def": 344,
+                "hp": 6253,
+                "level": 53
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 3,
+                "atk": 203,
+                "def": 348,
+                "hp": 6324,
+                "level": 54
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 3,
+                "atk": 206,
+                "def": 352,
+                "hp": 6396,
+                "level": 55
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 3,
+                "atk": 208,
+                "def": 356,
+                "hp": 6467,
+                "level": 56
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 3,
+                "atk": 210,
+                "def": 360,
+                "hp": 6538,
+                "level": 57
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 3,
+                "atk": 213,
+                "def": 364,
+                "hp": 6610,
+                "level": 58
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 3,
+                "atk": 215,
+                "def": 368,
+                "hp": 6681,
+                "level": 59
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 3,
+                "atk": 217,
+                "def": 371,
+                "hp": 6752,
+                "level": 60
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 4,
+                "atk": 235,
+                "def": 403,
+                "hp": 7317,
+                "level": 61
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 4,
+                "atk": 238,
+                "def": 406,
+                "hp": 7389,
+                "level": 62
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 4,
+                "atk": 240,
+                "def": 410,
+                "hp": 7461,
+                "level": 63
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 4,
+                "atk": 242,
+                "def": 414,
+                "hp": 7532,
+                "level": 64
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 4,
+                "atk": 245,
+                "def": 418,
+                "hp": 7604,
+                "level": 65
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 4,
+                "atk": 247,
+                "def": 422,
+                "hp": 7676,
+                "level": 66
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 4,
+                "atk": 249,
+                "def": 426,
+                "hp": 7748,
+                "level": 67
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 4,
+                "atk": 252,
+                "def": 430,
+                "hp": 7820,
+                "level": 68
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 4,
+                "atk": 254,
+                "def": 434,
+                "hp": 7892,
+                "level": 69
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 4,
+                "atk": 256,
+                "def": 438,
+                "hp": 7964,
+                "level": 70
+            },
+            {
+                "ATK%": "21.6",
+                "ascension": 5,
+                "atk": 274,
+                "def": 469,
+                "hp": 8530,
+                "level": 71
+            },
+            {
+                "ATK%": "21.6",
+                "ascension": 5,
+                "atk": 277,
+                "def": 473,
+                "hp": 8603,
+                "level": 72
+            },
+            {
+                "ATK%": "21.6",
+                "ascension": 5,
+                "atk": 279,
+                "def": 477,
+                "hp": 8675,
+                "level": 73
+            },
+            {
+                "ATK%": "21.6",
+                "ascension": 5,
+                "atk": 281,
+                "def": 481,
+                "hp": 8747,
+                "level": 74
+            },
+            {
+                "ATK%": "21.6",
+                "ascension": 5,
+                "atk": 284,
+                "def": 485,
+                "hp": 8820,
+                "level": 75
+            },
+            {
+                "ATK%": "21.6",
+                "ascension": 5,
+                "atk": 286,
+                "def": 489,
+                "hp": 8892,
+                "level": 76
+            },
+            {
+                "ATK%": "21.6",
+                "ascension": 5,
+                "atk": 288,
+                "def": 493,
+                "hp": 8965,
+                "level": 77
+            },
+            {
+                "ATK%": "21.6",
+                "ascension": 5,
+                "atk": 291,
+                "def": 497,
+                "hp": 9038,
+                "level": 78
+            },
+            {
+                "ATK%": "21.6",
+                "ascension": 5,
+                "atk": 293,
+                "def": 501,
+                "hp": 9111,
+                "level": 79
+            },
+            {
+                "ATK%": "21.6",
+                "ascension": 5,
+                "atk": 295,
+                "def": 505,
+                "hp": 9184,
+                "level": 80
+            },
+            {
+                "ATK%": "28.8",
+                "ascension": 6,
+                "atk": 314,
+                "def": 536,
+                "hp": 9750,
+                "level": 81
+            },
+            {
+                "ATK%": "28.8",
+                "ascension": 6,
+                "atk": 316,
+                "def": 540,
+                "hp": 9823,
+                "level": 82
+            },
+            {
+                "ATK%": "28.8",
+                "ascension": 6,
+                "atk": 318,
+                "def": 544,
+                "hp": 9896,
+                "level": 83
+            },
+            {
+                "ATK%": "28.8",
+                "ascension": 6,
+                "atk": 321,
+                "def": 548,
+                "hp": 9969,
+                "level": 84
+            },
+            {
+                "ATK%": "28.8",
+                "ascension": 6,
+                "atk": 323,
+                "def": 552,
+                "hp": 10042,
+                "level": 85
+            },
+            {
+                "ATK%": "28.8",
+                "ascension": 6,
+                "atk": 325,
+                "def": 556,
+                "hp": 10116,
+                "level": 86
+            },
+            {
+                "ATK%": "28.8",
+                "ascension": 6,
+                "atk": 328,
+                "def": 560,
+                "hp": 10189,
+                "level": 87
+            },
+            {
+                "ATK%": "28.8",
+                "ascension": 6,
+                "atk": 330,
+                "def": 565,
+                "hp": 10262,
+                "level": 88
+            },
+            {
+                "ATK%": "28.8",
+                "ascension": 6,
+                "atk": 333,
+                "def": 569,
+                "hp": 10336,
+                "level": 89
+            },
+            {
+                "ATK%": "28.8",
+                "ascension": 6,
+                "atk": 335,
+                "def": 573,
+                "hp": 10409,
+                "level": 90
+            },
+            {
+                "ATK%": "28.8",
+                "ascension": 6,
+                "atk": 373,
+                "def": 593,
+                "hp": 10779,
+                "level": 95
+            },
+            {
+                "ATK%": "28.8",
+                "ascension": 6,
+                "atk": 410,
+                "def": 613,
+                "hp": 11149,
+                "level": 100
+            }
+        ],
+        "birthday": "April 11th",
+        "constellation": "Grus Serena",
+        "description": "One of the Mighty and Illuminated Adepti of Jueyun, known as \"Cloud Retainer.\" Expert in all kinds of mechanical contraptions, her heart now turns towards the affairs of the mortal world, through which she walks under the name \"Xianyun.\"",
+        "element": "Anemo",
+        "name": "Xianyun",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_CATALYST"
+    },
+    "passives": {
+        "p1": {
+            "description": "Each opponent hit by Driftcloud Waves from <color=#FFD780FF>White Clouds at Dawn</color> will grant all nearby party members 1 stack of Storm Pinion for 20s. Max 4 stacks. These will cause the characters' Plunging Attack CRIT Rate to increase by 4%/6%/8%/10% respectively.\\nEach Storm Pinion created by hitting an opponent has an independent duration.",
+            "icon": "UI_Talent_S_Liuyun_05",
+            "name": "Galefeather Pursuit"
+        },
+        "p2": {
+            "description": "When the Starwicker created by <color=#FFD780FF>Stars Gather at Dusk</color> has Adeptal Assistance stacks, nearby active characters' Plunging Attack shockwave DMG will be increased by 200% of Xianyun's ATK. The maximum DMG increase that can be achieved this way is 9,000.\\nEach Plunging Attack shockwave DMG instance can only apply this increased DMG effect to a single opponent. Each character can trigger this effect once every 0.4s.",
+            "icon": "UI_Talent_S_Liuyun_06",
+            "name": "Consider, the Adeptus in Her Realm"
+        },
+        "p3": {
+            "description": "Increases gliding SPD for your own party members by 15%.\\nNot stackable with Passive Talents that provide the exact same effects.",
+            "icon": "UI_Talent_S_Liuyun_07",
+            "name": "Crane Form"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Brings forth a sacred breeze that deals <color=#80FFD7FF>AoE Anemo DMG</color> and heals all nearby characters based on Xianyun's ATK. It will also summon the \"Starwicker\" mechanism.\\n\\n<color=#FFD780FF>Starwicker</color>\\n·Continuously follows the active character and periodically heals all nearby party members based on Xianyun's ATK.\\n·Starts with 8 stacks of Adeptal Assistance. While Adeptal Assistance is active, nearby active characters in the party will have their jump height increased.\\n·When the active character completes a Plunging Attack, Starwicker will consume 1 stack of Adeptal Assistance and deal <color=#80FFD7FF>AoE Anemo DMG</color>.\\nOnly 1 Starwicker can exist simultaneously.\\n\\n<i>This is the newest invention in the \"Lunastar Artifices\" series, of which previous creations include the Supreme Cuisine Machine, the Snowdrift Mechanism, the Supreme Housekeeping Machine, the Floating Toting Device, and the Bloom Pruner. This series was intended for young humans Cloud Retainer held in great esteem, and so was not designed with a certain half-adeptus in mind. However, when offered Starwicker, a certain female disciple of hers had these emotionless words to say: \"No thank you.\"\\nCloud Retainer thus had no choice but to keep it herself.</i>",
+            "icon": "Skill_E_Liuyun_01",
+            "multipliers": {
+                "CD": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ],
+                "Continuous Healing": [
+                    "43.01% ATK+270",
+                    "46.23% ATK+297",
+                    "49.46% ATK+326",
+                    "53.76% ATK+357",
+                    "56.99% ATK+391",
+                    "60.21% ATK+427",
+                    "64.51% ATK+465",
+                    "68.81% ATK+506",
+                    "73.11% ATK+548",
+                    "77.41% ATK+593",
+                    "81.72% ATK+640",
+                    "86.02% ATK+690",
+                    "91.39% ATK+742",
+                    "96.77% ATK+795",
+                    "102.14% ATK+852"
+                ],
+                "Duration": [
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s"
+                ],
+                "Energy Cost": [
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70"
+                ],
+                "Healing": [
+                    "92.16% ATK+578",
+                    "99.07% ATK+636",
+                    "105.98% ATK+698",
+                    "115.2% ATK+766",
+                    "122.11% ATK+838",
+                    "129.02% ATK+915",
+                    "138.24% ATK+997",
+                    "147.46% ATK+1083",
+                    "156.67% ATK+1175",
+                    "165.89% ATK+1271",
+                    "175.1% ATK+1372",
+                    "184.32% ATK+1478",
+                    "195.84% ATK+1589",
+                    "207.36% ATK+1705",
+                    "218.88% ATK+1825"
+                ],
+                "Skill DMG": [
+                    "108%",
+                    "116.1%",
+                    "124.2%",
+                    "135%",
+                    "143.1%",
+                    "151.2%",
+                    "162%",
+                    "172.8%",
+                    "183.6%",
+                    "194.4%",
+                    "205.2%",
+                    "216%",
+                    "229.5%",
+                    "243%",
+                    "256.5%"
+                ],
+                "Starwicker DMG": [
+                    "39.2%",
+                    "42.14%",
+                    "45.08%",
+                    "49%",
+                    "51.94%",
+                    "54.88%",
+                    "58.8%",
+                    "62.72%",
+                    "66.64%",
+                    "70.56%",
+                    "74.48%",
+                    "78.4%",
+                    "83.3%",
+                    "88.2%",
+                    "93.1%"
+                ]
+            },
+            "name": "Stars Gather at Dusk"
+        },
+        "elementalskill": {
+            "description": "Xianyun enters the Cloud Transmogrification state, in which she will not take Fall DMG, and uses Skyladder once.\\nIn this state, her Plunging Attack will be converted into Driftcloud Wave instead, which deals <color=#80FFD7FF>AoE Anemo DMG</color> and ends the Cloud Transmogrification state. This DMG is considered Plunging Attack DMG.\\nEach use of Skyladder while in this state increases the DMG and AoE of the next Driftcloud Wave used.\\n\\n<color=#FFD780FF>Skyladder</color>\\nCan be used while in mid-air. Xianyun leaps forward, dealing <color=#80FFD7FF>Anemo DMG</color> to targets along her path.\\nDuring each Cloud Transmogrification state Xianyun enters, Skyladder may be used up to 3 times and only 1 instance of Skyladder DMG can be dealt to any one opponent.\\nIf Skyladder is not used again in a short period, the Cloud Transmogrification state will be canceled.\\n\\nIf Xianyun does not use Driftcloud Wave while in this state, the next CD of White Clouds at Dawn will be decreased by 3s.\\n\\n<i>Do not shake Cloud Retainer's hand too tightly; cranes are quite adept at gripping.</i>",
+            "icon": "Skill_S_Liuyun_01",
+            "multipliers": {
+                "CD": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "Driftcloud Wave DMG": [
+                    "116%/148%/337.6%",
+                    "124.7%/159.1%/362.92%",
+                    "133.4%/170.2%/388.24%",
+                    "145%/185%/422%",
+                    "153.7%/196.1%/447.32%",
+                    "162.4%/207.2%/472.64%",
+                    "174%/222%/506.4%",
+                    "185.6%/236.8%/540.16%",
+                    "197.2%/251.6%/573.92%",
+                    "208.8%/266.4%/607.68%",
+                    "220.4%/281.2%/641.44%",
+                    "232%/296%/675.2%",
+                    "246.5%/314.5%/717.4%",
+                    "261%/333%/759.6%",
+                    "275.5%/351.5%/801.8%"
+                ],
+                "Skill DMG": [
+                    "24.8%",
+                    "26.66%",
+                    "28.52%",
+                    "31%",
+                    "32.86%",
+                    "34.72%",
+                    "37.2%",
+                    "39.68%",
+                    "42.16%",
+                    "44.64%",
+                    "47.12%",
+                    "49.6%",
+                    "52.7%",
+                    "55.8%",
+                    "58.9%"
+                ]
+            },
+            "name": "White Clouds at Dawn"
+        },
+        "leveling": {
+            "books": {
+                "104316": 9,
+                "104317": 63,
+                "104318": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113055": 18
+            },
+            "worldmonster": {
+                "112008": 18,
+                "112009": 66,
+                "112010": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nSummons swirling winds to perform up to 4 attacks, dealing <color=#80FFD7FF>Anemo DMG</color>.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina and launches a Breeze Bolt in a straight line that deals <color=#80FFD7FF>Anemo DMG</color> to opponents along its path.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nGathers the power of Anemo and plunges towards the ground from mid-air, damaging all opponents in her path. Deals <color=#80FFD7FF>AoE Anemo DMG</color> upon impact with the ground.",
+            "icon": "Skill_A_Catalyst_MD",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "40.3%",
+                    "43.33%",
+                    "46.35%",
+                    "50.38%",
+                    "53.4%",
+                    "56.42%",
+                    "60.45%",
+                    "64.48%",
+                    "68.51%",
+                    "72.54%",
+                    "76.57%",
+                    "80.6%",
+                    "85.64%",
+                    "90.68%",
+                    "95.72%"
+                ],
+                "2-Hit DMG": [
+                    "38.86%",
+                    "41.77%",
+                    "44.68%",
+                    "48.57%",
+                    "51.48%",
+                    "54.4%",
+                    "58.28%",
+                    "62.17%",
+                    "66.05%",
+                    "69.94%",
+                    "73.82%",
+                    "77.71%",
+                    "82.57%",
+                    "87.42%",
+                    "92.28%"
+                ],
+                "3-Hit DMG": [
+                    "48.88%",
+                    "52.54%",
+                    "56.21%",
+                    "61.1%",
+                    "64.76%",
+                    "68.43%",
+                    "73.32%",
+                    "78.2%",
+                    "83.09%",
+                    "87.98%",
+                    "92.87%",
+                    "97.76%",
+                    "103.86%",
+                    "109.97%",
+                    "116.08%"
+                ],
+                "4-Hit DMG": [
+                    "64.92%",
+                    "69.79%",
+                    "74.65%",
+                    "81.15%",
+                    "86.01%",
+                    "90.88%",
+                    "97.38%",
+                    "103.87%",
+                    "110.36%",
+                    "116.85%",
+                    "123.34%",
+                    "129.83%",
+                    "137.95%",
+                    "146.06%",
+                    "154.18%"
+                ],
+                "Charged Attack DMG": [
+                    "123.12%",
+                    "132.35%",
+                    "141.59%",
+                    "153.9%",
+                    "163.13%",
+                    "172.37%",
+                    "184.68%",
+                    "196.99%",
+                    "209.3%",
+                    "221.62%",
+                    "233.93%",
+                    "246.24%",
+                    "261.63%",
+                    "277.02%",
+                    "292.41%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50"
+                ],
+                "Low/High Plunge DMG": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "Plunge DMG": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ]
+            },
+            "name": "Word of Wind and Flower"
+        }
+    }
+}

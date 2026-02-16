@@ -1,0 +1,1489 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104141": 1,
+            "104142": 9,
+            "104143": 9,
+            "104144": 6
+        },
+        "elitemonster": {
+            "113072": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101254": 168
+        },
+        "worldmonster": {
+            "112101": 18,
+            "112102": 30,
+            "112103": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Combat_NormalAttack",
+            "poise": "LV3/10"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Combat_NormalAttack",
+            "poise": "LV3/9"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Combat_NormalAttack",
+            "poise": "LV4/13"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Combat_NormalAttack",
+            "poise": "LV3/8"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Combat_NormalAttack",
+            "poise": "LV3/7"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Combat_NormalAttack",
+            "poise": "LV4/10"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Varesa_CombatCycle (!)",
+            "name": "Combat_ExtraAttack",
+            "poise": "LV4/80"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Varesa_CombatCycle (!)",
+            "name": "Combat_ExtraAttack",
+            "poise": "LV4/120"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV7/150"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV7/100"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Varesa_CombatCycle (!)",
+            "name": "ElementalBurst",
+            "poise": "LV7/75"
+        },
+        {
+            "element": "Electric",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/5"
+        },
+        {
+            "element": "Electric",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/5"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/100"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/50"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/100"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/50"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Grp: default",
+            "name": "Level_Interaction_01",
+            "poise": "LV0/0"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Grp: default",
+            "name": "Level_Interaction_02",
+            "poise": "LV0/0"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Varesa_CombatCycle (!)",
+            "name": "ElementalArt_Bullet",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Varesa_CombatCycle (!)",
+            "name": "ElementalArt_Berserker_Bullet",
+            "poise": "LV3/75"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Varesa_CombatCycle (!)",
+            "name": "ElementalArt_Berserker_Bullet_NoDropBall",
+            "poise": "LV3/75"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "突破天赋「连势，三重腾跃！」的效果获得强化：\\n进行特殊下落攻击·大火山狂雷怒卷时，瓦雷莎也会获得「虹色坠击」，持续5秒；\\n「虹色坠击」持续期间，无论瓦雷莎是否处于炽热激情状态，进行下落攻击时，坠地冲击都会改为额外造成180%攻击力的伤害。该效果需要解锁突破天赋「连势，三重腾跃！」。\\n\\n此外，当瓦雷莎处于夜魂加持状态下的「突驰烈进」模式时，消耗的夜魂值或燃素降低30%。",
+            "icon": "UI_Talent_S_Varesa_01",
+            "name": "终始不熄的热诚"
+        },
+        "const2": {
+            "description": "无论是否处于炽热激情状态，瓦雷莎进行下落攻击后，都会进入极限驱动状态。\\n处于极限驱动状态下时，瓦雷莎的抗打断能力还会进一步提升。\\n此外，瓦雷莎进行下落攻击时的坠地冲击命中敌人时，会为瓦雷莎恢复11.5点元素能量。",
+            "icon": "UI_Talent_S_Varesa_02",
+            "name": "逾越天光的极限"
+        },
+        "const3": {
+            "description": "元素爆发<color=#FFD780FF>闪烈降临！</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Varesa_01",
+            "name": "百折不摧的决意"
+        },
+        "const4": {
+            "description": "施放元素爆发<color=#FFD780FF>闪烈降临！</color>时，依据瓦雷莎的状态，将分别产生对应的强化效果。若瓦雷莎：\\n·不处于炽热激情状态或极限驱动状态：瓦雷莎获得「精进勇猛」效果，持续15秒，基于瓦雷莎攻击力的500%，提升瓦雷莎进行下落攻击时坠地冲击造成的伤害，至多通过这种方式提升20000；该效果将在坠地冲击命中敌人或持续时间结束时解除。\\n·处于炽热激情状态或极限驱动状态：本次元素爆发<color=#FFD780FF>闪烈降临！</color>造成的伤害提升100%。",
+            "icon": "UI_Talent_S_Varesa_03",
+            "name": "直面前路的勇气"
+        },
+        "const5": {
+            "description": "<color=#FFD780FF>普通攻击·角力搏摔</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Varesa_02",
+            "name": "暖风浮漾的心念"
+        },
+        "const6": {
+            "description": "进入极限驱动状态时，将为瓦雷莎恢复30点元素能量。\\n瓦雷莎的下落攻击与元素爆发<color=#FFD780FF>闪烈降临！</color>的暴击率提升10%，暴击伤害提升100%。\\n此外，瓦雷莎长按施放元素战技<color=#FFD780FF>夜虹逐跃</color>时，或是在「突驰烈进」模式下点按施放元素战技时，瓦雷莎将恢复夜魂值至上限。",
+            "icon": "UI_Talent_S_Varesa_04",
+            "name": "正义英雄的凯旋"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.1s",
+            "chance": "100%",
+            "particles": "2",
+            "source": "ElementalArt_DropBall"
+        },
+        {
+            "cd": "0.1s",
+            "chance": "50%",
+            "particles": "1",
+            "source": "ElementalArt_DropBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Varesa",
+        "forward": "UI_AvatarIcon_Varesa"
+    },
+    "info": {
+        "attributes": [
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 61,
+                "hp": 989,
+                "level": 1
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 66,
+                "hp": 1071,
+                "level": 2
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 71,
+                "hp": 1153,
+                "level": 3
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 76,
+                "hp": 1236,
+                "level": 4
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 81,
+                "hp": 1318,
+                "level": 5
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 86,
+                "hp": 1401,
+                "level": 6
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 91,
+                "hp": 1483,
+                "level": 7
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 96,
+                "hp": 1566,
+                "level": 8
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 46,
+                "def": 101,
+                "hp": 1649,
+                "level": 9
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 49,
+                "def": 107,
+                "hp": 1731,
+                "level": 10
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 51,
+                "def": 112,
+                "hp": 1814,
+                "level": 11
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 53,
+                "def": 117,
+                "hp": 1897,
+                "level": 12
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 56,
+                "def": 122,
+                "hp": 1980,
+                "level": 13
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 58,
+                "def": 127,
+                "hp": 2064,
+                "level": 14
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 60,
+                "def": 132,
+                "hp": 2147,
+                "level": 15
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 63,
+                "def": 137,
+                "hp": 2230,
+                "level": 16
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 65,
+                "def": 142,
+                "hp": 2314,
+                "level": 17
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 67,
+                "def": 148,
+                "hp": 2397,
+                "level": 18
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 70,
+                "def": 153,
+                "hp": 2481,
+                "level": 19
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 72,
+                "def": 158,
+                "hp": 2564,
+                "level": 20
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 98,
+                "def": 215,
+                "hp": 3496,
+                "level": 21
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 100,
+                "def": 220,
+                "hp": 3580,
+                "level": 22
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 103,
+                "def": 226,
+                "hp": 3664,
+                "level": 23
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 105,
+                "def": 231,
+                "hp": 3748,
+                "level": 24
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 108,
+                "def": 236,
+                "hp": 3832,
+                "level": 25
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 110,
+                "def": 241,
+                "hp": 3917,
+                "level": 26
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 112,
+                "def": 246,
+                "hp": 4001,
+                "level": 27
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 115,
+                "def": 251,
+                "hp": 4085,
+                "level": 28
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 117,
+                "def": 257,
+                "hp": 4170,
+                "level": 29
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 119,
+                "def": 262,
+                "hp": 4254,
+                "level": 30
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 122,
+                "def": 267,
+                "hp": 4339,
+                "level": 31
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 124,
+                "def": 272,
+                "hp": 4424,
+                "level": 32
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 127,
+                "def": 278,
+                "hp": 4509,
+                "level": 33
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 129,
+                "def": 283,
+                "hp": 4593,
+                "level": 34
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 131,
+                "def": 288,
+                "hp": 4678,
+                "level": 35
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 134,
+                "def": 293,
+                "hp": 4764,
+                "level": 36
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 136,
+                "def": 298,
+                "hp": 4849,
+                "level": 37
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 138,
+                "def": 304,
+                "hp": 4934,
+                "level": 38
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 141,
+                "def": 309,
+                "hp": 5019,
+                "level": 39
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 143,
+                "def": 314,
+                "hp": 5105,
+                "level": 40
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 163,
+                "def": 357,
+                "hp": 5793,
+                "level": 41
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 165,
+                "def": 362,
+                "hp": 5879,
+                "level": 42
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 167,
+                "def": 367,
+                "hp": 5965,
+                "level": 43
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 170,
+                "def": 372,
+                "hp": 6050,
+                "level": 44
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 172,
+                "def": 378,
+                "hp": 6136,
+                "level": 45
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 175,
+                "def": 383,
+                "hp": 6222,
+                "level": 46
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 177,
+                "def": 388,
+                "hp": 6308,
+                "level": 47
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 179,
+                "def": 394,
+                "hp": 6394,
+                "level": 48
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 182,
+                "def": 399,
+                "hp": 6481,
+                "level": 49
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 184,
+                "def": 404,
+                "hp": 6567,
+                "level": 50
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 209,
+                "def": 459,
+                "hp": 7456,
+                "level": 51
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 212,
+                "def": 464,
+                "hp": 7543,
+                "level": 52
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 214,
+                "def": 470,
+                "hp": 7629,
+                "level": 53
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 217,
+                "def": 475,
+                "hp": 7716,
+                "level": 54
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 219,
+                "def": 480,
+                "hp": 7803,
+                "level": 55
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 221,
+                "def": 486,
+                "hp": 7890,
+                "level": 56
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 224,
+                "def": 491,
+                "hp": 7977,
+                "level": 57
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 226,
+                "def": 496,
+                "hp": 8064,
+                "level": 58
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 229,
+                "def": 502,
+                "hp": 8151,
+                "level": 59
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 231,
+                "def": 507,
+                "hp": 8238,
+                "level": 60
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 251,
+                "def": 549,
+                "hp": 8927,
+                "level": 61
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 253,
+                "def": 555,
+                "hp": 9014,
+                "level": 62
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 255,
+                "def": 560,
+                "hp": 9102,
+                "level": 63
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 258,
+                "def": 566,
+                "hp": 9189,
+                "level": 64
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 260,
+                "def": 571,
+                "hp": 9277,
+                "level": 65
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 263,
+                "def": 576,
+                "hp": 9365,
+                "level": 66
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 265,
+                "def": 582,
+                "hp": 9452,
+                "level": 67
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 268,
+                "def": 587,
+                "hp": 9540,
+                "level": 68
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 270,
+                "def": 593,
+                "hp": 9628,
+                "level": 69
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 273,
+                "def": 598,
+                "hp": 9716,
+                "level": 70
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 292,
+                "def": 641,
+                "hp": 10406,
+                "level": 71
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 295,
+                "def": 646,
+                "hp": 10495,
+                "level": 72
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 297,
+                "def": 651,
+                "hp": 10583,
+                "level": 73
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 299,
+                "def": 657,
+                "hp": 10671,
+                "level": 74
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 302,
+                "def": 662,
+                "hp": 10760,
+                "level": 75
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 304,
+                "def": 668,
+                "hp": 10848,
+                "level": 76
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 307,
+                "def": 673,
+                "hp": 10937,
+                "level": 77
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 309,
+                "def": 679,
+                "hp": 11026,
+                "level": 78
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 312,
+                "def": 684,
+                "hp": 11115,
+                "level": 79
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 314,
+                "def": 690,
+                "hp": 11204,
+                "level": 80
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 334,
+                "def": 732,
+                "hp": 11895,
+                "level": 81
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 336,
+                "def": 738,
+                "hp": 11984,
+                "level": 82
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 339,
+                "def": 743,
+                "hp": 12073,
+                "level": 83
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 341,
+                "def": 749,
+                "hp": 12162,
+                "level": 84
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 344,
+                "def": 754,
+                "hp": 12251,
+                "level": 85
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 346,
+                "def": 760,
+                "hp": 12341,
+                "level": 86
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 349,
+                "def": 765,
+                "hp": 12430,
+                "level": 87
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 351,
+                "def": 771,
+                "hp": 12520,
+                "level": 88
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 354,
+                "def": 776,
+                "hp": 12610,
+                "level": 89
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 356,
+                "def": 782,
+                "hp": 12699,
+                "level": 90
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 396,
+                "def": 809,
+                "hp": 13150,
+                "level": 95
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 437,
+                "def": 837,
+                "hp": 13602,
+                "level": 100
+            }
+        ],
+        "birthday": "November 15th",
+        "constellation": "斗士假面座",
+        "description": "悠悠哉哉，无比松弛的「沃陆之邦」战士兼果园主，喜欢充满力量的英雄，还有巨量美食！",
+        "element": "Electro",
+        "name": "瓦雷莎",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_CATALYST"
+    },
+    "passives": {
+        "p1": {
+            "description": "施放元素战技<color=#FFD780FF>夜虹逐跃</color>后，瓦雷莎获得「虹色坠击」，持续5秒。\\n持续期间，瓦雷莎进行下落攻击时，坠地冲击能额外造成50%攻击力的伤害；若瓦雷莎处于炽热激情状态，则坠地冲击改为能额外造成180%攻击力的伤害。\\n\\n「虹色坠击」效果将在坠地冲击命中敌人或持续时间结束时解除。",
+            "icon": "UI_Talent_S_Varesa_05",
+            "name": "连势，三重腾跃！"
+        },
+        "p2": {
+            "description": "队伍中的附近的角色触发「夜魂迸发」时，瓦雷莎的攻击力提升35%，持续12秒。该效果至多叠加两层，每层独立计算持续时间。",
+            "icon": "UI_Talent_S_Varesa_06",
+            "name": "英雄，二度归来！"
+        },
+        "p3": {
+            "description": "在夜魂值耗竭后，瓦雷莎将会转而消耗燃素来维持夜魂加持状态下的「突驰烈进」模式。\\n在纳塔存在燃素机制的区域时，能够进行夜魂传递·瓦雷莎。当前场上角色处于冲刺或是特定天赋赋予的移动状态下，或是位于一定高度的空中时，切换瓦雷莎登场时触发：瓦雷莎将进入夜魂加持状态，切换至「突驰烈进」模式，并获得20点夜魂值。自己的队伍每10秒可以触发一次夜魂传递。\\n此外，在纳塔存在燃素机制的区域时，瓦雷莎利用地形差进行飞跃时，不会承受坠落伤害。",
+            "icon": "UI_Talent_S_Varesa_07",
+            "name": "夜域赐礼·炬照焚恶"
+        },
+        "p4": {
+            "description": "瓦雷莎的冲刺速度获得提升，不处于战斗状态下时，冲刺消耗的体力也会提升。\\n此外，在纳塔存在燃素机制的区域时，队伍中自己的角色使用食物能恢复20点燃素，该效果每10秒至多触发一次，在秘境、征讨领域、深境螺旋中无效。",
+            "icon": "UI_Talent_S_Varesa_08",
+            "name": "炽心，一往直前！"
+        }
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "如同面向孩子们的织卷中描绘的正义英雄那般，腾跃至高空，并借助下落的冲击力使出强力的飞踢，对敌人造成具有夜魂性质的<color=#FFACFFFF>雷元素范围伤害</color>。\\n施放后，瓦雷莎将恢复夜魂值至上限，并进入炽热激情状态。\\n\\n在炽热激情状态下，瓦雷莎的元素爆发将转为对敌人造成伤害更高的、具有夜魂性质的<color=#FFACFFFF>雷元素范围伤害</color>。\\n\\n此外，瓦雷莎在炽热激情状态下进行下落攻击后，将在短暂时间内进入「极限驱动」状态。\\n\\n<color=#FFD780FF>极限驱动</color>\\n提高瓦雷莎的抗打断能力。在这种状态下，瓦雷莎将能够无视元素爆发的冷却时间，消耗更少的元素能量，施放特殊的元素爆发「闪烈降临·大火山崩落」：进行格外强力的下落攻击·大火山狂雷怒卷，在落地时造成具有夜魂性质的<color=#FFACFFFF>雷元素范围伤害</color>，并退出极限驱动状态。该伤害视为下落攻击伤害。\\n施放元素战技后，将会退出极限驱动状态。\\n\\n<i>其实瓦雷莎一开始给这一招起的名字是「最终超必杀绝技·闪电空烈正义英雄降临究极无敌音速爆裂飞踢」，只是这个名字实在是太长了，而她就算戴上面具，也不太好意思在大庭广众之下大声喊出这个名字，所以最后还是选用了现在的叫法。</i>",
+            "icon": "Skill_E_Varesa_01",
+            "multipliers": {
+                "「大火山崩落」伤害": [
+                    "402.64%",
+                    "432.84%",
+                    "463.04%",
+                    "503.3%",
+                    "533.5%",
+                    "563.7%",
+                    "603.96%",
+                    "644.22%",
+                    "684.49%",
+                    "724.75%",
+                    "765.02%",
+                    "805.28%",
+                    "855.61%",
+                    "905.94%",
+                    "956.27%"
+                ],
+                "「大火山崩落」元素能量": [
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30"
+                ],
+                "元素能量": [
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70"
+                ],
+                "冷却时间": [
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒"
+                ],
+                "炽热激情状态飞踢伤害": [
+                    "575.2%",
+                    "618.34%",
+                    "661.48%",
+                    "719%",
+                    "762.14%",
+                    "805.28%",
+                    "862.8%",
+                    "920.32%",
+                    "977.84%",
+                    "1035.36%",
+                    "1092.88%",
+                    "1150.4%",
+                    "1222.3%",
+                    "1294.2%",
+                    "1366.1%"
+                ],
+                "飞踢伤害": [
+                    "345.12%",
+                    "371%",
+                    "396.89%",
+                    "431.4%",
+                    "457.28%",
+                    "483.17%",
+                    "517.68%",
+                    "552.19%",
+                    "586.7%",
+                    "621.22%",
+                    "655.73%",
+                    "690.24%",
+                    "733.38%",
+                    "776.52%",
+                    "819.66%"
+                ]
+            },
+            "name": "闪烈降临！"
+        },
+        "elementalskill": {
+            "description": "以迅捷如电、豪烈如雷的步法，展现摔角的真意。瓦雷莎向前方突进一段距离，对路径上的敌人造成具有夜魂性质的<color=#FFACFFFF>雷元素伤害</color>。\\n施放后，瓦雷莎将获得20点夜魂值，并获得「逐击」效果：持续期间，瓦雷莎的抗打断能力提高，点按普通攻击时，瓦雷莎将快速进行重击，并且该次重击不会消耗体力；「逐击」效果将在进行重击后消除。\\n依据点按、长按，以不同的方式展现摔角的风格。\\n\\n<color=#FFD780FF>点按</color>\\n向前方迅速突进一段距离。 \\n\\n<color=#FFD780FF>长按</color>\\n瓦雷莎进入夜魂加持状态，并切换至「突驰烈进」模式。\\n\\n<color=#FFD780FF>突驰烈进</color>\\n持续消耗夜魂值。在这种状态下，瓦雷莎的移动速度与抗打断能力提高，并且可以利用地形差进行飞跃，或额外消耗夜魂值在水面与液态燃素上移动，并免疫液态燃素的伤害。\\n\\n<color=#FFD780FF>夜魂加持·瓦雷莎</color>\\n夜魂值耗尽时，瓦雷莎的夜魂加持将会结束。瓦雷莎在突驰烈进模式或炽热激情状态下时，将始终视为处于夜魂加持状态。\\n\\n拥有2次可使用次数。当瓦雷莎进入炽热激情状态时，将额外获得一次短按施放的元素战技可用次数，并提高元素战技造成的伤害。\\n\\n<color=#FFD780FF>炽热激情</color>\\n·不处于炽热激情状态下时，瓦雷莎可以通过下落攻击恢复夜魂值；通过这种方式使夜魂值达到上限时，或是施放元素爆发<color=#FFD780FF>闪烈降临！</color>时，瓦雷莎将进入炽热激情状态。\\n·在炽热激情状态下，瓦雷莎的普通攻击、元素战技和元素爆发会分别得到对应的强化，并能在进行下落攻击后的短暂时间内，施放特殊的元素爆发。\\n·炽热激情状态至多持续15秒，并将在消耗夜魂值后、或是脱离战斗状态一段时间后结束。\\n\\n<i>「现在，我便是我的英雄。」</i>",
+            "icon": "Skill_S_Varesa_01",
+            "multipliers": {
+                "冷却时间": [
+                    "9秒",
+                    "9秒",
+                    "9秒",
+                    "9秒",
+                    "9秒",
+                    "9秒",
+                    "9秒",
+                    "9秒",
+                    "9秒",
+                    "9秒",
+                    "9秒",
+                    "9秒",
+                    "9秒",
+                    "9秒",
+                    "9秒"
+                ],
+                "夜魂值上限": [
+                    "40点",
+                    "40点",
+                    "40点",
+                    "40点",
+                    "40点",
+                    "40点",
+                    "40点",
+                    "40点",
+                    "40点",
+                    "40点",
+                    "40点",
+                    "40点",
+                    "40点",
+                    "40点",
+                    "40点"
+                ],
+                "炽热激情状态突进伤害": [
+                    "106.4%",
+                    "114.38%",
+                    "122.36%",
+                    "133%",
+                    "140.98%",
+                    "148.96%",
+                    "159.6%",
+                    "170.24%",
+                    "180.88%",
+                    "191.52%",
+                    "202.16%",
+                    "212.8%",
+                    "226.1%",
+                    "239.4%",
+                    "252.7%"
+                ],
+                "突进伤害": [
+                    "74.48%",
+                    "80.07%",
+                    "85.65%",
+                    "93.1%",
+                    "98.69%",
+                    "104.27%",
+                    "111.72%",
+                    "119.17%",
+                    "126.62%",
+                    "134.06%",
+                    "141.51%",
+                    "148.96%",
+                    "158.27%",
+                    "167.58%",
+                    "176.89%"
+                ],
+                "逐击持续时间": [
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒"
+                ]
+            },
+            "name": "夜虹逐跃"
+        },
+        "leveling": {
+            "books": {
+                "104353": 9,
+                "104354": 63,
+                "104355": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113070": 18
+            },
+            "worldmonster": {
+                "112101": 18,
+                "112102": 66,
+                "112103": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>普通攻击</color>\\n要…要努力像厉害的摔角冠军那样战斗！进行至多三段的搏击，造成<color=#FFACFFFF>雷元素伤害</color>。\\n\\n<color=#FFD780FF>重击</color>\\n消耗一定体力，以头槌向前撞击敌人，造成具有夜魂性质的<color=#FFACFFFF>雷元素伤害</color>，并借势腾跃而起。\\n\\n<color=#FFD780FF>下落攻击</color>\\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成具有夜魂性质的<color=#FFACFFFF>雷元素范围伤害</color>；若此时瓦雷莎处于战斗状态，或本次坠地冲击命中了敌人，则瓦雷莎获得25点夜魂值；通过这种方式使夜魂值达到上限时，瓦雷莎将进入「炽热激情」状态。\\n\\n<color=#FFD780FF>炽热激情</color>\\n在这种状态下，瓦雷莎的普通攻击、重击和下落攻击将得到对应的强化：\\n\\n<color=#FFD780FF>普通攻击</color>\\n如同明星摔角冠军那样无畏战斗！进行至多三段的猛烈搏击，造成伤害更高的<color=#FFACFFFF>雷元素伤害</color>。\\n\\n<color=#FFD780FF>重击</color>\\n消耗一定体力，猛烈前冲撞击敌人，造成伤害更高的、具有夜魂性质的<color=#FFACFFFF>雷元素伤害</color>，并借势腾跃而起。\\n\\n<color=#FFD780FF>下落攻击</color>\\n消耗全部夜魂值，从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成伤害更高的、具有夜魂性质的<color=#FFACFFFF>雷元素范围伤害</color>。",
+            "icon": "Skill_A_Catalyst_MD",
+            "multipliers": {
+                "一段伤害": [
+                    "46.78%",
+                    "50.29%",
+                    "53.8%",
+                    "58.47%",
+                    "61.98%",
+                    "65.49%",
+                    "70.17%",
+                    "74.85%",
+                    "79.52%",
+                    "84.2%",
+                    "88.88%",
+                    "93.56%",
+                    "99.4%",
+                    "105.25%",
+                    "111.1%"
+                ],
+                "三段伤害": [
+                    "56.31%",
+                    "60.54%",
+                    "64.76%",
+                    "70.39%",
+                    "74.61%",
+                    "78.84%",
+                    "84.47%",
+                    "90.1%",
+                    "95.73%",
+                    "101.36%",
+                    "106.99%",
+                    "112.63%",
+                    "119.66%",
+                    "126.7%",
+                    "133.74%"
+                ],
+                "下坠期间伤害": [
+                    "74.59%",
+                    "80.66%",
+                    "86.73%",
+                    "95.4%",
+                    "101.47%",
+                    "108.41%",
+                    "117.95%",
+                    "127.49%",
+                    "137.03%",
+                    "147.44%",
+                    "157.85%",
+                    "168.26%",
+                    "178.66%",
+                    "189.07%",
+                    "199.48%"
+                ],
+                "二段伤害": [
+                    "40.03%",
+                    "43.03%",
+                    "46.03%",
+                    "50.03%",
+                    "53.04%",
+                    "56.04%",
+                    "60.04%",
+                    "64.04%",
+                    "68.05%",
+                    "72.05%",
+                    "76.05%",
+                    "80.06%",
+                    "85.06%",
+                    "90.06%",
+                    "95.07%"
+                ],
+                "低空/高空坠地冲击伤害": [
+                    "149.14%/186.29%",
+                    "161.28%/201.45%",
+                    "173.42%/216.62%",
+                    "190.77%/238.28%",
+                    "202.91%/253.44%",
+                    "216.78%/270.77%",
+                    "235.86%/294.6%",
+                    "254.93%/318.42%",
+                    "274.01%/342.25%",
+                    "294.82%/368.25%",
+                    "315.63%/394.24%",
+                    "336.44%/420.23%",
+                    "357.25%/446.23%",
+                    "378.06%/472.22%",
+                    "398.87%/498.21%"
+                ],
+                "炽热激情状态一段伤害": [
+                    "54.41%",
+                    "58.49%",
+                    "62.57%",
+                    "68.01%",
+                    "72.09%",
+                    "76.17%",
+                    "81.61%",
+                    "87.05%",
+                    "92.49%",
+                    "97.93%",
+                    "103.37%",
+                    "108.81%",
+                    "115.62%",
+                    "122.42%",
+                    "129.22%"
+                ],
+                "炽热激情状态三段伤害": [
+                    "73.59%",
+                    "79.11%",
+                    "84.62%",
+                    "91.98%",
+                    "97.5%",
+                    "103.02%",
+                    "110.38%",
+                    "117.74%",
+                    "125.1%",
+                    "132.46%",
+                    "139.81%",
+                    "147.17%",
+                    "156.37%",
+                    "165.57%",
+                    "174.77%"
+                ],
+                "炽热激情状态下坠期间伤害": [
+                    "74.59%",
+                    "80.66%",
+                    "86.73%",
+                    "95.4%",
+                    "101.47%",
+                    "108.41%",
+                    "117.95%",
+                    "127.49%",
+                    "137.03%",
+                    "147.44%",
+                    "157.85%",
+                    "168.26%",
+                    "178.66%",
+                    "189.07%",
+                    "199.48%"
+                ],
+                "炽热激情状态二段伤害": [
+                    "52.03%",
+                    "55.93%",
+                    "59.83%",
+                    "65.04%",
+                    "68.94%",
+                    "72.84%",
+                    "78.04%",
+                    "83.25%",
+                    "88.45%",
+                    "93.65%",
+                    "98.85%",
+                    "104.06%",
+                    "110.56%",
+                    "117.06%",
+                    "123.57%"
+                ],
+                "炽热激情状态低空/高空坠地冲击伤害": [
+                    "223.72%/279.43%",
+                    "241.93%/302.18%",
+                    "260.13%/324.92%",
+                    "286.15%/357.41%",
+                    "304.36%/380.16%",
+                    "325.17%/406.15%",
+                    "353.78%/441.89%",
+                    "382.4%/477.64%",
+                    "411.01%/513.38%",
+                    "442.23%/552.37%",
+                    "473.45%/591.36%",
+                    "504.66%/630.35%",
+                    "535.88%/669.34%",
+                    "567.09%/708.33%",
+                    "598.31%/747.32%"
+                ],
+                "炽热激情状态重击伤害": [
+                    "92.64%",
+                    "99.59%",
+                    "106.54%",
+                    "115.8%",
+                    "122.75%",
+                    "129.7%",
+                    "138.96%",
+                    "148.22%",
+                    "157.49%",
+                    "166.75%",
+                    "176.02%",
+                    "185.28%",
+                    "196.86%",
+                    "208.44%",
+                    "220.02%"
+                ],
+                "炽热激情状态重击体力消耗": [
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点"
+                ],
+                "重击伤害": [
+                    "89.28%",
+                    "95.98%",
+                    "102.67%",
+                    "111.6%",
+                    "118.3%",
+                    "124.99%",
+                    "133.92%",
+                    "142.85%",
+                    "151.78%",
+                    "160.7%",
+                    "169.63%",
+                    "178.56%",
+                    "189.72%",
+                    "200.88%",
+                    "212.04%"
+                ],
+                "重击体力消耗": [
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点"
+                ]
+            },
+            "name": "角力搏摔"
+        }
+    }
+}

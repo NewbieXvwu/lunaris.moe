@@ -1,0 +1,1233 @@
+{
+    "info": {
+        "name": "Kaeya",
+        "description": "Um espadachim dos Cavaleiros de Favonius com uma aparência única.",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_SWORD_ONE_HAND",
+        "birthday": "November 30th",
+        "element": "Cryo",
+        "constellation": "Pavo Ocellus",
+        "attributes": [
+            {
+                "level": 1,
+                "ascension": 0,
+                "hp": 976,
+                "atk": 19,
+                "def": 66,
+                "ER": "0"
+            },
+            {
+                "level": 2,
+                "ascension": 0,
+                "hp": 1057,
+                "atk": 20,
+                "def": 72,
+                "ER": "0"
+            },
+            {
+                "level": 3,
+                "ascension": 0,
+                "hp": 1137,
+                "atk": 22,
+                "def": 77,
+                "ER": "0"
+            },
+            {
+                "level": 4,
+                "ascension": 0,
+                "hp": 1218,
+                "atk": 23,
+                "def": 83,
+                "ER": "0"
+            },
+            {
+                "level": 5,
+                "ascension": 0,
+                "hp": 1298,
+                "atk": 25,
+                "def": 88,
+                "ER": "0"
+            },
+            {
+                "level": 6,
+                "ascension": 0,
+                "hp": 1379,
+                "atk": 26,
+                "def": 94,
+                "ER": "0"
+            },
+            {
+                "level": 7,
+                "ascension": 0,
+                "hp": 1459,
+                "atk": 28,
+                "def": 99,
+                "ER": "0"
+            },
+            {
+                "level": 8,
+                "ascension": 0,
+                "hp": 1540,
+                "atk": 30,
+                "def": 105,
+                "ER": "0"
+            },
+            {
+                "level": 9,
+                "ascension": 0,
+                "hp": 1620,
+                "atk": 31,
+                "def": 110,
+                "ER": "0"
+            },
+            {
+                "level": 10,
+                "ascension": 0,
+                "hp": 1700,
+                "atk": 33,
+                "def": 116,
+                "ER": "0"
+            },
+            {
+                "level": 11,
+                "ascension": 0,
+                "hp": 1781,
+                "atk": 34,
+                "def": 121,
+                "ER": "0"
+            },
+            {
+                "level": 12,
+                "ascension": 0,
+                "hp": 1861,
+                "atk": 36,
+                "def": 127,
+                "ER": "0"
+            },
+            {
+                "level": 13,
+                "ascension": 0,
+                "hp": 1942,
+                "atk": 37,
+                "def": 132,
+                "ER": "0"
+            },
+            {
+                "level": 14,
+                "ascension": 0,
+                "hp": 2022,
+                "atk": 39,
+                "def": 138,
+                "ER": "0"
+            },
+            {
+                "level": 15,
+                "ascension": 0,
+                "hp": 2103,
+                "atk": 40,
+                "def": 143,
+                "ER": "0"
+            },
+            {
+                "level": 16,
+                "ascension": 0,
+                "hp": 2184,
+                "atk": 42,
+                "def": 149,
+                "ER": "0"
+            },
+            {
+                "level": 17,
+                "ascension": 0,
+                "hp": 2264,
+                "atk": 43,
+                "def": 154,
+                "ER": "0"
+            },
+            {
+                "level": 18,
+                "ascension": 0,
+                "hp": 2345,
+                "atk": 45,
+                "def": 160,
+                "ER": "0"
+            },
+            {
+                "level": 19,
+                "ascension": 0,
+                "hp": 2425,
+                "atk": 46,
+                "def": 165,
+                "ER": "0"
+            },
+            {
+                "level": 20,
+                "ascension": 0,
+                "hp": 2506,
+                "atk": 48,
+                "def": 171,
+                "ER": "0"
+            },
+            {
+                "level": 21,
+                "ascension": 1,
+                "hp": 3315,
+                "atk": 64,
+                "def": 226,
+                "ER": "0"
+            },
+            {
+                "level": 22,
+                "ascension": 1,
+                "hp": 3396,
+                "atk": 65,
+                "def": 231,
+                "ER": "0"
+            },
+            {
+                "level": 23,
+                "ascension": 1,
+                "hp": 3477,
+                "atk": 67,
+                "def": 237,
+                "ER": "0"
+            },
+            {
+                "level": 24,
+                "ascension": 1,
+                "hp": 3557,
+                "atk": 68,
+                "def": 242,
+                "ER": "0"
+            },
+            {
+                "level": 25,
+                "ascension": 1,
+                "hp": 3638,
+                "atk": 70,
+                "def": 248,
+                "ER": "0"
+            },
+            {
+                "level": 26,
+                "ascension": 1,
+                "hp": 3718,
+                "atk": 71,
+                "def": 253,
+                "ER": "0"
+            },
+            {
+                "level": 27,
+                "ascension": 1,
+                "hp": 3799,
+                "atk": 73,
+                "def": 258,
+                "ER": "0"
+            },
+            {
+                "level": 28,
+                "ascension": 1,
+                "hp": 3879,
+                "atk": 74,
+                "def": 264,
+                "ER": "0"
+            },
+            {
+                "level": 29,
+                "ascension": 1,
+                "hp": 3960,
+                "atk": 76,
+                "def": 269,
+                "ER": "0"
+            },
+            {
+                "level": 30,
+                "ascension": 1,
+                "hp": 4040,
+                "atk": 77,
+                "def": 275,
+                "ER": "0"
+            },
+            {
+                "level": 31,
+                "ascension": 1,
+                "hp": 4121,
+                "atk": 79,
+                "def": 280,
+                "ER": "0"
+            },
+            {
+                "level": 32,
+                "ascension": 1,
+                "hp": 4202,
+                "atk": 81,
+                "def": 286,
+                "ER": "0"
+            },
+            {
+                "level": 33,
+                "ascension": 1,
+                "hp": 4282,
+                "atk": 82,
+                "def": 291,
+                "ER": "0"
+            },
+            {
+                "level": 34,
+                "ascension": 1,
+                "hp": 4363,
+                "atk": 84,
+                "def": 297,
+                "ER": "0"
+            },
+            {
+                "level": 35,
+                "ascension": 1,
+                "hp": 4443,
+                "atk": 85,
+                "def": 302,
+                "ER": "0"
+            },
+            {
+                "level": 36,
+                "ascension": 1,
+                "hp": 4524,
+                "atk": 87,
+                "def": 308,
+                "ER": "0"
+            },
+            {
+                "level": 37,
+                "ascension": 1,
+                "hp": 4604,
+                "atk": 88,
+                "def": 313,
+                "ER": "0"
+            },
+            {
+                "level": 38,
+                "ascension": 1,
+                "hp": 4685,
+                "atk": 90,
+                "def": 319,
+                "ER": "0"
+            },
+            {
+                "level": 39,
+                "ascension": 1,
+                "hp": 4766,
+                "atk": 91,
+                "def": 324,
+                "ER": "0"
+            },
+            {
+                "level": 40,
+                "ascension": 1,
+                "hp": 4846,
+                "atk": 93,
+                "def": 330,
+                "ER": "0"
+            },
+            {
+                "level": 41,
+                "ascension": 2,
+                "hp": 5445,
+                "atk": 104,
+                "def": 370,
+                "ER": "6.7"
+            },
+            {
+                "level": 42,
+                "ascension": 2,
+                "hp": 5525,
+                "atk": 106,
+                "def": 376,
+                "ER": "6.7"
+            },
+            {
+                "level": 43,
+                "ascension": 2,
+                "hp": 5606,
+                "atk": 107,
+                "def": 381,
+                "ER": "6.7"
+            },
+            {
+                "level": 44,
+                "ascension": 2,
+                "hp": 5686,
+                "atk": 109,
+                "def": 387,
+                "ER": "6.7"
+            },
+            {
+                "level": 45,
+                "ascension": 2,
+                "hp": 5767,
+                "atk": 111,
+                "def": 392,
+                "ER": "6.7"
+            },
+            {
+                "level": 46,
+                "ascension": 2,
+                "hp": 5848,
+                "atk": 112,
+                "def": 398,
+                "ER": "6.7"
+            },
+            {
+                "level": 47,
+                "ascension": 2,
+                "hp": 5928,
+                "atk": 114,
+                "def": 403,
+                "ER": "6.7"
+            },
+            {
+                "level": 48,
+                "ascension": 2,
+                "hp": 6009,
+                "atk": 115,
+                "def": 409,
+                "ER": "6.7"
+            },
+            {
+                "level": 49,
+                "ascension": 2,
+                "hp": 6089,
+                "atk": 117,
+                "def": 414,
+                "ER": "6.7"
+            },
+            {
+                "level": 50,
+                "ascension": 2,
+                "hp": 6170,
+                "atk": 118,
+                "def": 420,
+                "ER": "6.7"
+            },
+            {
+                "level": 51,
+                "ascension": 3,
+                "hp": 6940,
+                "atk": 133,
+                "def": 472,
+                "ER": "13.3"
+            },
+            {
+                "level": 52,
+                "ascension": 3,
+                "hp": 7021,
+                "atk": 135,
+                "def": 478,
+                "ER": "13.3"
+            },
+            {
+                "level": 53,
+                "ascension": 3,
+                "hp": 7102,
+                "atk": 136,
+                "def": 483,
+                "ER": "13.3"
+            },
+            {
+                "level": 54,
+                "ascension": 3,
+                "hp": 7182,
+                "atk": 138,
+                "def": 489,
+                "ER": "13.3"
+            },
+            {
+                "level": 55,
+                "ascension": 3,
+                "hp": 7263,
+                "atk": 139,
+                "def": 494,
+                "ER": "13.3"
+            },
+            {
+                "level": 56,
+                "ascension": 3,
+                "hp": 7343,
+                "atk": 141,
+                "def": 500,
+                "ER": "13.3"
+            },
+            {
+                "level": 57,
+                "ascension": 3,
+                "hp": 7424,
+                "atk": 142,
+                "def": 505,
+                "ER": "13.3"
+            },
+            {
+                "level": 58,
+                "ascension": 3,
+                "hp": 7504,
+                "atk": 144,
+                "def": 511,
+                "ER": "13.3"
+            },
+            {
+                "level": 59,
+                "ascension": 3,
+                "hp": 7585,
+                "atk": 145,
+                "def": 516,
+                "ER": "13.3"
+            },
+            {
+                "level": 60,
+                "ascension": 3,
+                "hp": 7666,
+                "atk": 147,
+                "def": 522,
+                "ER": "13.3"
+            },
+            {
+                "level": 61,
+                "ascension": 4,
+                "hp": 8264,
+                "atk": 158,
+                "def": 562,
+                "ER": "13.3"
+            },
+            {
+                "level": 62,
+                "ascension": 4,
+                "hp": 8345,
+                "atk": 160,
+                "def": 568,
+                "ER": "13.3"
+            },
+            {
+                "level": 63,
+                "ascension": 4,
+                "hp": 8425,
+                "atk": 161,
+                "def": 573,
+                "ER": "13.3"
+            },
+            {
+                "level": 64,
+                "ascension": 4,
+                "hp": 8506,
+                "atk": 163,
+                "def": 579,
+                "ER": "13.3"
+            },
+            {
+                "level": 65,
+                "ascension": 4,
+                "hp": 8586,
+                "atk": 165,
+                "def": 584,
+                "ER": "13.3"
+            },
+            {
+                "level": 66,
+                "ascension": 4,
+                "hp": 8667,
+                "atk": 166,
+                "def": 590,
+                "ER": "13.3"
+            },
+            {
+                "level": 67,
+                "ascension": 4,
+                "hp": 8748,
+                "atk": 168,
+                "def": 595,
+                "ER": "13.3"
+            },
+            {
+                "level": 68,
+                "ascension": 4,
+                "hp": 8828,
+                "atk": 169,
+                "def": 601,
+                "ER": "13.3"
+            },
+            {
+                "level": 69,
+                "ascension": 4,
+                "hp": 8909,
+                "atk": 171,
+                "def": 606,
+                "ER": "13.3"
+            },
+            {
+                "level": 70,
+                "ascension": 4,
+                "hp": 8989,
+                "atk": 172,
+                "def": 612,
+                "ER": "13.3"
+            },
+            {
+                "level": 71,
+                "ascension": 5,
+                "hp": 9588,
+                "atk": 184,
+                "def": 652,
+                "ER": "20"
+            },
+            {
+                "level": 72,
+                "ascension": 5,
+                "hp": 9668,
+                "atk": 185,
+                "def": 658,
+                "ER": "20"
+            },
+            {
+                "level": 73,
+                "ascension": 5,
+                "hp": 9749,
+                "atk": 187,
+                "def": 663,
+                "ER": "20"
+            },
+            {
+                "level": 74,
+                "ascension": 5,
+                "hp": 9830,
+                "atk": 188,
+                "def": 669,
+                "ER": "20"
+            },
+            {
+                "level": 75,
+                "ascension": 5,
+                "hp": 9910,
+                "atk": 190,
+                "def": 674,
+                "ER": "20"
+            },
+            {
+                "level": 76,
+                "ascension": 5,
+                "hp": 9990,
+                "atk": 191,
+                "def": 680,
+                "ER": "20"
+            },
+            {
+                "level": 77,
+                "ascension": 5,
+                "hp": 10070,
+                "atk": 193,
+                "def": 685,
+                "ER": "20"
+            },
+            {
+                "level": 78,
+                "ascension": 5,
+                "hp": 10151,
+                "atk": 195,
+                "def": 691,
+                "ER": "20"
+            },
+            {
+                "level": 79,
+                "ascension": 5,
+                "hp": 10231,
+                "atk": 196,
+                "def": 696,
+                "ER": "20"
+            },
+            {
+                "level": 80,
+                "ascension": 5,
+                "hp": 10312,
+                "atk": 198,
+                "def": 702,
+                "ER": "20"
+            },
+            {
+                "level": 81,
+                "ascension": 6,
+                "hp": 10911,
+                "atk": 209,
+                "def": 742,
+                "ER": "26.7"
+            },
+            {
+                "level": 82,
+                "ascension": 6,
+                "hp": 10991,
+                "atk": 211,
+                "def": 748,
+                "ER": "26.7"
+            },
+            {
+                "level": 83,
+                "ascension": 6,
+                "hp": 11072,
+                "atk": 212,
+                "def": 753,
+                "ER": "26.7"
+            },
+            {
+                "level": 84,
+                "ascension": 6,
+                "hp": 11152,
+                "atk": 214,
+                "def": 759,
+                "ER": "26.7"
+            },
+            {
+                "level": 85,
+                "ascension": 6,
+                "hp": 11233,
+                "atk": 215,
+                "def": 764,
+                "ER": "26.7"
+            },
+            {
+                "level": 86,
+                "ascension": 6,
+                "hp": 11313,
+                "atk": 217,
+                "def": 770,
+                "ER": "26.7"
+            },
+            {
+                "level": 87,
+                "ascension": 6,
+                "hp": 11394,
+                "atk": 218,
+                "def": 775,
+                "ER": "26.7"
+            },
+            {
+                "level": 88,
+                "ascension": 6,
+                "hp": 11474,
+                "atk": 220,
+                "def": 781,
+                "ER": "26.7"
+            },
+            {
+                "level": 89,
+                "ascension": 6,
+                "hp": 11555,
+                "atk": 221,
+                "def": 786,
+                "ER": "26.7"
+            },
+            {
+                "level": 90,
+                "ascension": 6,
+                "hp": 11636,
+                "atk": 223,
+                "def": 792,
+                "ER": "26.7"
+            },
+            {
+                "level": 95,
+                "ascension": 6,
+                "hp": 12038,
+                "atk": 251,
+                "def": 819,
+                "ER": "26.7"
+            },
+            {
+                "level": 100,
+                "ascension": 6,
+                "hp": 12441,
+                "atk": 280,
+                "def": 846,
+                "ER": "26.7"
+            }
+        ]
+    },
+    "icons": {
+        "forward": "UI_AvatarIcon_Kaeya",
+        "coop_img": "UI_CoopImg_Kaeya"
+    },
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100056": 168
+        },
+        "elemental": {
+            "104161": 1,
+            "104162": 9,
+            "104163": 9,
+            "104164": 6
+        },
+        "worldmonster": {
+            "112035": 18,
+            "112036": 30,
+            "112037": 36
+        },
+        "elitemonster": {
+            "113010": 46
+        }
+    },
+    "skills": {
+        "normalattack": {
+            "name": "Lâmina Cerimonial",
+            "icon": "Skill_A_01",
+            "multipliers": {
+                "Dano do 1° Golpe": [
+                    "53.75%",
+                    "58.13%",
+                    "62.5%",
+                    "68.75%",
+                    "73.12%",
+                    "78.12%",
+                    "85%",
+                    "91.87%",
+                    "98.75%",
+                    "106.25%",
+                    "114.84%",
+                    "124.95%",
+                    "135.06%",
+                    "145.16%",
+                    "156.19%"
+                ],
+                "Dano do 2° Golpe": [
+                    "51.69%",
+                    "55.89%",
+                    "60.1%",
+                    "66.11%",
+                    "70.32%",
+                    "75.13%",
+                    "81.74%",
+                    "88.35%",
+                    "94.96%",
+                    "102.17%",
+                    "110.43%",
+                    "120.15%",
+                    "129.87%",
+                    "139.59%",
+                    "150.19%"
+                ],
+                "Dano do 3° Golpe": [
+                    "65.27%",
+                    "70.59%",
+                    "75.9%",
+                    "83.49%",
+                    "88.8%",
+                    "94.88%",
+                    "103.22%",
+                    "111.57%",
+                    "119.92%",
+                    "129.03%",
+                    "139.47%",
+                    "151.74%",
+                    "164.01%",
+                    "176.29%",
+                    "189.67%"
+                ],
+                "Dano do 4° Golpe": [
+                    "70.86%",
+                    "76.63%",
+                    "82.4%",
+                    "90.64%",
+                    "96.41%",
+                    "103%",
+                    "112.06%",
+                    "121.13%",
+                    "130.19%",
+                    "140.08%",
+                    "151.41%",
+                    "164.73%",
+                    "178.06%",
+                    "191.38%",
+                    "205.92%"
+                ],
+                "Dano do 5° Golpe": [
+                    "88.24%",
+                    "95.42%",
+                    "102.6%",
+                    "112.86%",
+                    "120.04%",
+                    "128.25%",
+                    "139.54%",
+                    "150.82%",
+                    "162.11%",
+                    "174.42%",
+                    "188.53%",
+                    "205.12%",
+                    "221.71%",
+                    "238.3%",
+                    "256.4%"
+                ],
+                "Dano de Ataque Carregado": [
+                    "55.04%+73.1%",
+                    "59.52%+79.05%",
+                    "64%+85%",
+                    "70.4%+93.5%",
+                    "74.88%+99.45%",
+                    "80%+106.25%",
+                    "87.04%+115.6%",
+                    "94.08%+124.95%",
+                    "101.12%+134.3%",
+                    "108.8%+144.5%",
+                    "117.6%+156.19%",
+                    "127.95%+169.93%",
+                    "138.3%+183.68%",
+                    "148.65%+197.42%",
+                    "159.94%+212.42%"
+                ],
+                "Consumo de Stamina de Ataque Carregado": [
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20"
+                ],
+                "Dano Durante a Queda": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ]
+            },
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 5 golpes rápidos.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome uma certa quantidade de Stamina para desferir 2 golpes rápidos com a espada.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto."
+        },
+        "elementalskill": {
+            "name": "Mordida Congelante",
+            "icon": "Skill_S_Kaeya_01",
+            "multipliers": {
+                "Dano de Habilidade": [
+                    "191.2%",
+                    "205.54%",
+                    "219.88%",
+                    "239%",
+                    "253.34%",
+                    "267.68%",
+                    "286.8%",
+                    "305.92%",
+                    "325.04%",
+                    "344.16%",
+                    "363.28%",
+                    "382.4%",
+                    "406.3%",
+                    "430.2%",
+                    "454.1%"
+                ],
+                "Tempo de Recarga": [
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s"
+                ]
+            },
+            "description": "Lança uma explosão gélida, infligindo <color=#99FFFFFF>Dano Cryo</color> aos inimigos em frente ao Kaeya.\\n\\n<i>Kaeya parece afável, mas sua natureza é a do gelo inflexível.</i>"
+        },
+        "elementalburst": {
+            "name": "Valsa Glacial",
+            "icon": "Skill_E_Kaeya_01",
+            "multipliers": {
+                "Dano de Habilidade": [
+                    "77.6%",
+                    "83.42%",
+                    "89.24%",
+                    "97%",
+                    "102.82%",
+                    "108.64%",
+                    "116.4%",
+                    "124.16%",
+                    "131.92%",
+                    "139.68%",
+                    "147.44%",
+                    "155.2%",
+                    "164.9%",
+                    "174.6%",
+                    "184.3%"
+                ],
+                "Tempo de Recarga": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Duração": [
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8"
+                ],
+                "Energia Elemental": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ]
+            },
+            "description": "Coalescendo a geada no ar, Kaeya invoca 3 pontas de gelo que giram em torno dele.\\nEsses pingentes seguirão o personagem e causarão <color=#99FFFFFF>Dano Cryo</color> aos inimigos em seu caminho enquanto eles persistirem.\\n\\n<i>Um sorriso encantador, palavras gentis e a geada implacável que se esconde... Essas são todas as armas de Kaeya.</i>"
+        },
+        "leveling": {
+            "books": {
+                "104307": 9,
+                "104308": 63,
+                "104309": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "worldmonster": {
+                "112035": 18,
+                "112036": 66,
+                "112037": 93
+            },
+            "weekly": {
+                "113008": 18
+            }
+        }
+    },
+    "passives": {
+        "p1": {
+            "name": "Espada do Sangue Frio",
+            "description": "Cada golpe com <color=#FFD780FF>Mordida Congelante</color> regenera a Vida de Kaeya equivalente a 15% do seu ATQ.",
+            "icon": "UI_Talent_S_Kaeya_05"
+        },
+        "p2": {
+            "name": "Coração Glacial",
+            "description": "Os inimigos <color=#FFD780FF>Congelados</color> pela <color=#99FFFFFF>Mordida Congelante</color> irão dropar Partículas Elementais adicionais.\\nA Mordida Congelante pode produzir no máximo 2 Partículas Elementais por uso.",
+            "icon": "UI_Talent_S_Kaeya_06"
+        },
+        "p3": {
+            "name": "Força Oculta",
+            "description": "Diminui o consumo de Stamina ao Correr de todos os seus personagens em 20%.\\nNão acumulável com Talentos Passivos que concedem exatamente os mesmos efeitos.",
+            "icon": "UI_Talent_Explosion_Sprint"
+        },
+        "p4": ""
+    },
+    "constellations": {
+        "const1": {
+            "name": "Sangue Excelente",
+            "description": "A Taxa Crítica do Ataque Normal e Ataque Carregado de Kaeya contra os inimigos afetados por <color=#99FFFFFF>Cryo</color> aumentam em 15%.",
+            "icon": "UI_Talent_S_Kaeya_01"
+        },
+        "const2": {
+            "name": "Apresentação Eterna",
+            "description": "Cada <color=#FFD780FF>Valsa Glacial</color> que derrotar um inimigo aumenta sua duração em 2.5s por 15s.",
+            "icon": "UI_Talent_S_Kaeya_02"
+        },
+        "const3": {
+            "name": "Dança do Gelo",
+            "description": "Aumenta o nível do <color=#FFD780FF>Mordida Congelante</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Kaeya_01"
+        },
+        "const4": {
+            "name": "Beijo Congelante",
+            "description": "Ativa automaticamente quando a Vida de Kaeya cai para menos de 20%.\\nCria um escudo que absorve Dano igual a 30% da Vida Máxima de Kaeya. Dura 20 segundos.\\nEsse escudo absorve 250% do <color=#99FFFFFF>Dano Cryo</color> mais eficientemente. Pode ocorrer apenas uma vez a cada 60 segundos.",
+            "icon": "UI_Talent_S_Kaeya_03"
+        },
+        "const5": {
+            "name": "Abraço Congelante",
+            "description": "Aumenta o nível do <color=#FFD780FF>Valsa Glacial</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Kaeya_02"
+        },
+        "const6": {
+            "name": "Redemoinho Glacial",
+            "description": "A <color=#FFD780FF>Valsa Glacial</color> irá gerar 1 Ponta de Gelo adicional, e irá retornar 15 de Energia quando lançada.",
+            "icon": "UI_Talent_S_Kaeya_04"
+        }
+    },
+    "energy": [
+        {
+            "source": "FrozenStar_ElementBall",
+            "particles": "1",
+            "chance": "100%",
+            "cd": "0.3s"
+        },
+        {
+            "source": "IceShield_Impact_ElemBall",
+            "particles": "2",
+            "chance": "100%",
+            "cd": "0.3s"
+        },
+        {
+            "source": "IceShield_Impact_ElemBall",
+            "particles": "1",
+            "chance": "67%",
+            "cd": "0.3s"
+        }
+    ],
+    "attacks": [
+        {
+            "name": "Avatar_Keaya_IceShield_Impact",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "2U",
+            "poise": "LV4/140",
+            "element": "Ice"
+        },
+        {
+            "name": "Avatar_Keaya_IceShield_Impact",
+            "icd_source": "Grp: default",
+            "icd_rule": "Standard (3h/2.5s)",
+            "gauge": "4U",
+            "poise": "Default/0",
+            "element": "Ice"
+        },
+        {
+            "name": "Avatar_Keaya_IceShield_Impact",
+            "icd_source": "Grp: default",
+            "icd_rule": "Standard (3h/2.5s)",
+            "gauge": "2U",
+            "poise": "Default/0",
+            "element": "Ice"
+        },
+        {
+            "name": "Avatar_Keaya_FrozenTrap_BS",
+            "icd_source": "Grp: default",
+            "icd_rule": "Standard (3h/2.5s)",
+            "gauge": "4U",
+            "poise": "LV4/400",
+            "element": "-"
+        },
+        {
+            "name": "Avatar_Keaya_FrozenTrap",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/25",
+            "element": "Ice"
+        },
+        {
+            "name": "Avatar_Keaya_FrozenTrap",
+            "icd_source": "Tag: FrozenTrap_IceReact (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV0/0",
+            "element": "Ice"
+        },
+        {
+            "name": "Avatar_Keaya_FrozenTrap",
+            "icd_source": "Tag: FrozenTrap_IceReact (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV0/0",
+            "element": "Ice"
+        },
+        {
+            "name": "Avatar_Keaya_FrozenTrap",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/25",
+            "element": "Ice"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/25",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/100",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/150",
+            "element": "-"
+        }
+    ]
+}

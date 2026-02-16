@@ -1,0 +1,1423 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104151": 1,
+            "104152": 9,
+            "104153": 9,
+            "104154": 6
+        },
+        "elitemonster": {
+            "113022": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101206": 168
+        },
+        "worldmonster": {
+            "112035": 18,
+            "112036": 30,
+            "112037": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack_05",
+            "poise": "LV2/26"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack_05",
+            "poise": "LV2/26"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack_05",
+            "poise": "LV5/26"
+        },
+        {
+            "element": "AntiFire",
+            "gauge": "0.0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Kazuha_ElementalArt_Mix_Detect (!)",
+            "name": "ElementalArt_EmptyJump",
+            "poise": "-/0"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_EmptyJump",
+            "poise": "LV7/150"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_EmptyJump",
+            "poise": "LV7/150"
+        },
+        {
+            "element": "AntiFire",
+            "gauge": "0.0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Kazuha_ElementalArt_Mix_Detect (!)",
+            "name": "ElementalArt_FlyAway",
+            "poise": "-/0"
+        },
+        {
+            "element": "Wind",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_FlyAway",
+            "poise": "LV7/300"
+        },
+        {
+            "element": "Wind",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV5/250"
+        },
+        {
+            "element": "AntiFire",
+            "gauge": "0.0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Kazuha_ElementalBurst_Mix_Detect (!)",
+            "name": "ElementalBurst_Strike_Mix",
+            "poise": "-/0"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Mist",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Mist",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Mist",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Mist",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Mist",
+            "poise": "LV2/75"
+        },
+        {
+            "element": "AntiFire",
+            "gauge": "0.0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Kazuha_ElementalBurst_Mix_Detect (!)",
+            "name": "ElementalBurst_Mist_Mix",
+            "poise": "-/0"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack_WindZone (!)",
+            "name": "Avatar_Kauzha_ElementalArt_FallingAttack_WindZone",
+            "poise": "LV0/0"
+        },
+        {
+            "element": "Wind",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV1/25"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/100"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "PermanentSkill_1_ExtraDamage",
+            "poise": "LV1/20"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "PermanentSkill_1_ExtraDamage",
+            "poise": "LV1/20"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "PermanentSkill_1_ExtraDamage",
+            "poise": "LV1/20"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "PermanentSkill_1_ExtraDamage",
+            "poise": "LV1/20"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Reduz o Tempo de Recarga de <color=#FFD780FF>Chihayaburu</color> em 10%.\\nAo lançar <color=#FFD780FF>Lâmina de Kazuha</color>, redefine o Tempo de Recarga de <color=#FFD780FF>Chihayaburu</color>.",
+            "icon": "UI_Talent_S_Kazuha_01",
+            "name": "Cordilheiras Avermelhadas"
+        },
+        "const2": {
+            "description": "O campo de Redemoinho do Outono criado por <color=#FFD780FF>Lâmina de Kazuha</color> tem as seguintes propriedades:\\n·Aumenta a Proficiência Elemental de Kaedehara Kazuha em 200;\\n·Aumenta a Proficiência Elemental dos personagens no campo em 200.\\n\\nOs efeitos de aumento de Proficiência Elemental desta Constelação não se acumulam.",
+            "icon": "UI_Talent_S_Kazuha_02",
+            "name": "Vento das Montanhas"
+        },
+        "const3": {
+            "description": "Aumenta o nível do <color=#FFD780FF>Chihayaburu</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Kazuha_01",
+            "name": "Bordo Monogatari"
+        },
+        "const4": {
+            "description": "Quando a Energia Elemental de Kaedehara Kazuha está em menos que 45, ele possui os seguintes efeitos: \\n·Ao Pressionar e Manter Pressionado <color=#FFD780FF>Chihayaburu</color>, ele recupera 3 e 4 de Energia Elemental respectivamente;\\n·Kaedehara Kazuha recupera 2 pontos de Energia Elemental por cada segundo que passa Planando.",
+            "icon": "UI_Talent_S_Kazuha_03",
+            "name": "Magia Ilusória"
+        },
+        "const5": {
+            "description": "Aumenta o nível da Habilidade <color=#FFD780FF>Lâmina de Kazuha</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Kazuha_02",
+            "name": "Sabedoria de Bansei"
+        },
+        "const6": {
+            "description": "Nos 5 segundos após Kaedehara Kazuha lançar <color=#FFD780FF>Chihayaburu</color> ou <color=#FFD780FF>Lâmina de Kazuha</color>, ele obtém <color=#80FFD7FF>Encantamento Anemo</color>. Cada ponto da Proficiência Elemental de Kaedehara Kazuha será utilizado nos seus Ataques Normais, Ataques Carregados, Ataques Imersivos e Ataque Imersivo - Ranzan Aéreo, causando um Aumento de Dano de 0.2%.",
+            "icon": "UI_Talent_S_Kazuha_04",
+            "name": "Momiji Escarlate"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.2s",
+            "chance": "100%",
+            "particles": "3",
+            "source": "ElementalArt_DropBall"
+        },
+        {
+            "cd": "0.2s",
+            "chance": "100%",
+            "particles": "4",
+            "source": "ElementalArt_DropBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Kazuha",
+        "forward": "UI_AvatarIcon_Kazuha"
+    },
+    "info": {
+        "attributes": [
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 23,
+                "def": 63,
+                "hp": 1039,
+                "level": 1
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 25,
+                "def": 68,
+                "hp": 1125,
+                "level": 2
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 27,
+                "def": 73,
+                "hp": 1212,
+                "level": 3
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 29,
+                "def": 79,
+                "hp": 1299,
+                "level": 4
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 31,
+                "def": 84,
+                "hp": 1385,
+                "level": 5
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 33,
+                "def": 89,
+                "hp": 1472,
+                "level": 6
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 35,
+                "def": 94,
+                "hp": 1559,
+                "level": 7
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 37,
+                "def": 100,
+                "hp": 1646,
+                "level": 8
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 39,
+                "def": 105,
+                "hp": 1733,
+                "level": 9
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 40,
+                "def": 110,
+                "hp": 1819,
+                "level": 10
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 42,
+                "def": 115,
+                "hp": 1907,
+                "level": 11
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 44,
+                "def": 121,
+                "hp": 1994,
+                "level": 12
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 46,
+                "def": 126,
+                "hp": 2081,
+                "level": 13
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 48,
+                "def": 131,
+                "hp": 2170,
+                "level": 14
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 50,
+                "def": 136,
+                "hp": 2257,
+                "level": 15
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 52,
+                "def": 142,
+                "hp": 2344,
+                "level": 16
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 54,
+                "def": 147,
+                "hp": 2433,
+                "level": 17
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 56,
+                "def": 152,
+                "hp": 2520,
+                "level": 18
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 58,
+                "def": 158,
+                "hp": 2608,
+                "level": 19
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 60,
+                "def": 163,
+                "hp": 2695,
+                "level": 20
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 82,
+                "def": 222,
+                "hp": 3675,
+                "level": 21
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 84,
+                "def": 228,
+                "hp": 3763,
+                "level": 22
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 86,
+                "def": 233,
+                "hp": 3851,
+                "level": 23
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 88,
+                "def": 238,
+                "hp": 3940,
+                "level": 24
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 90,
+                "def": 244,
+                "hp": 4028,
+                "level": 25
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 91,
+                "def": 249,
+                "hp": 4117,
+                "level": 26
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 93,
+                "def": 254,
+                "hp": 4206,
+                "level": 27
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 95,
+                "def": 260,
+                "hp": 4294,
+                "level": 28
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 97,
+                "def": 265,
+                "hp": 4383,
+                "level": 29
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 99,
+                "def": 270,
+                "hp": 4472,
+                "level": 30
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 101,
+                "def": 276,
+                "hp": 4561,
+                "level": 31
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 103,
+                "def": 281,
+                "hp": 4650,
+                "level": 32
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 105,
+                "def": 287,
+                "hp": 4740,
+                "level": 33
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 107,
+                "def": 292,
+                "hp": 4828,
+                "level": 34
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 109,
+                "def": 297,
+                "hp": 4918,
+                "level": 35
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 111,
+                "def": 303,
+                "hp": 5008,
+                "level": 36
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 113,
+                "def": 308,
+                "hp": 5097,
+                "level": 37
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 115,
+                "def": 314,
+                "hp": 5187,
+                "level": 38
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 117,
+                "def": 319,
+                "hp": 5276,
+                "level": 39
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 119,
+                "def": 324,
+                "hp": 5366,
+                "level": 40
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 135,
+                "def": 368,
+                "hp": 6089,
+                "level": 41
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 137,
+                "def": 374,
+                "hp": 6179,
+                "level": 42
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 139,
+                "def": 379,
+                "hp": 6270,
+                "level": 43
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 141,
+                "def": 384,
+                "hp": 6359,
+                "level": 44
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 143,
+                "def": 390,
+                "hp": 6449,
+                "level": 45
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 145,
+                "def": 395,
+                "hp": 6540,
+                "level": 46
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 147,
+                "def": 401,
+                "hp": 6630,
+                "level": 47
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 149,
+                "def": 406,
+                "hp": 6721,
+                "level": 48
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 151,
+                "def": 412,
+                "hp": 6812,
+                "level": 49
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 153,
+                "def": 417,
+                "hp": 6902,
+                "level": 50
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 174,
+                "def": 474,
+                "hp": 7837,
+                "level": 51
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 176,
+                "def": 479,
+                "hp": 7928,
+                "level": 52
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 178,
+                "def": 485,
+                "hp": 8019,
+                "level": 53
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 180,
+                "def": 490,
+                "hp": 8110,
+                "level": 54
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 182,
+                "def": 496,
+                "hp": 8202,
+                "level": 55
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 184,
+                "def": 501,
+                "hp": 8293,
+                "level": 56
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 186,
+                "def": 507,
+                "hp": 8385,
+                "level": 57
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 188,
+                "def": 512,
+                "hp": 8476,
+                "level": 58
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 190,
+                "def": 518,
+                "hp": 8567,
+                "level": 59
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 192,
+                "def": 523,
+                "hp": 8659,
+                "level": 60
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 208,
+                "def": 567,
+                "hp": 9383,
+                "level": 61
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 211,
+                "def": 573,
+                "hp": 9475,
+                "level": 62
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 213,
+                "def": 578,
+                "hp": 9567,
+                "level": 63
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 215,
+                "def": 584,
+                "hp": 9659,
+                "level": 64
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 217,
+                "def": 590,
+                "hp": 9751,
+                "level": 65
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 219,
+                "def": 595,
+                "hp": 9844,
+                "level": 66
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 221,
+                "def": 601,
+                "hp": 9935,
+                "level": 67
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 223,
+                "def": 606,
+                "hp": 10028,
+                "level": 68
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 225,
+                "def": 612,
+                "hp": 10120,
+                "level": 69
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 227,
+                "def": 617,
+                "hp": 10213,
+                "level": 70
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 243,
+                "def": 661,
+                "hp": 10938,
+                "level": 71
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 245,
+                "def": 667,
+                "hp": 11032,
+                "level": 72
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 247,
+                "def": 673,
+                "hp": 11124,
+                "level": 73
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 249,
+                "def": 678,
+                "hp": 11217,
+                "level": 74
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 251,
+                "def": 684,
+                "hp": 11310,
+                "level": 75
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 253,
+                "def": 689,
+                "hp": 11403,
+                "level": 76
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 255,
+                "def": 695,
+                "hp": 11496,
+                "level": 77
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 258,
+                "def": 701,
+                "hp": 11590,
+                "level": 78
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 260,
+                "def": 706,
+                "hp": 11683,
+                "level": 79
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 262,
+                "def": 712,
+                "hp": 11777,
+                "level": 80
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 278,
+                "def": 756,
+                "hp": 12503,
+                "level": 81
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 280,
+                "def": 762,
+                "hp": 12597,
+                "level": 82
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 282,
+                "def": 767,
+                "hp": 12690,
+                "level": 83
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 284,
+                "def": 773,
+                "hp": 12784,
+                "level": 84
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 286,
+                "def": 779,
+                "hp": 12877,
+                "level": 85
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 288,
+                "def": 784,
+                "hp": 12972,
+                "level": 86
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 290,
+                "def": 790,
+                "hp": 13065,
+                "level": 87
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 292,
+                "def": 796,
+                "hp": 13160,
+                "level": 88
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 295,
+                "def": 801,
+                "hp": 13255,
+                "level": 89
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 297,
+                "def": 807,
+                "hp": 13348,
+                "level": 90
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 330,
+                "def": 836,
+                "hp": 13822,
+                "level": 95
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 363,
+                "def": 864,
+                "hp": 14297,
+                "level": 100
+            }
+        ],
+        "birthday": "October 29th",
+        "constellation": "Acer Palmatum",
+        "description": "Um samurai errante de Inazuma que atualmente está com a Frota Crux de Liyue. Uma alma gentil e livre cujo coração esconde muitas feridas.",
+        "element": "Anemo",
+        "name": "Kaedehara Kazuha",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_SWORD_ONE_HAND"
+    },
+    "passives": {
+        "p1": {
+            "description": "Quando <color=#FFD780FF>Chihayaburu</color> é lançado, se entrar em contato com <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color> fará com que o Ataque Imersivo - Ranzan Aéreo de <color=#FFD780FF>Chihayaburu</color> cause Conversão Elemental, gerando 200% de Dano Elemental adicional correspondente, e esse Dano é considerado um Dano de Ataque Imersivo. A Conversão Elemental só pode acontecer uma vez por cada vez do efeito da Habilidade <color=#FFD780FF>Chihayaburu</color>.",
+            "icon": "UI_Talent_S_Kazuha_05",
+            "name": "Esgrima Soumon"
+        },
+        "p2": {
+            "description": "Depois de Kaedehara Kazuha causar uma Reação de Redemoinho, cada ponto de sua Proficiência Elemental fornecerá a todos os membros da Equipe um aumento de 0.04% de Dano Adicional Elemental por 8s. Podem existir simultaneamente distintos Bônus de Dano Elemental obtidos desta maneira.",
+            "icon": "UI_Talent_S_Kazuha_06",
+            "name": "Poesia de Fuubutsu"
+        },
+        "p3": {
+            "description": "Diminui o consumo de Stamina ao Correr de todos os seus personagens em 20%.\\nNão acumulável com Talentos Passivos que concedem exatamente os mesmos efeitos.",
+            "icon": "UI_Talent_Explosion_Sprint",
+            "name": "Caminhador das Nuvens"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "A derradeira técnica de Garyuu - um simples corte semelhante a uma tempestade que se avizinha que causa <color=#80FFD7FF>Dano em uma AdE Anemo</color>.\\nA passagem da lâmina deixa um campo chamado \"Redemoinho do Outono\" que causa <color=#80FFD7FF>Dano Anemo</color> intermitente aos inimigos nela.\\n\\n<color=#FFD780FF>Absorção Elemental</color>\\nSe o Redemoinho do Outono entrar em contato com os elementos <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color>, ele irá causar Dano elemental adicional daquele tipo.\\nAbsorção Elemental pode ocorrer apenas uma vez por uso.\\n\\nEsta conversão só ocorre uma vez durante a duração da habilidade.\\n\\n<i>\"Eu vejo a eternidade desvanecer em um piscar de olhos, vejo os outonos de muitos anos em apenas uma folha. Por isso, desejo cortar essa árvore e perguntar ao tempo...\"</i>",
+            "icon": "Skill_E_Kazuha_01",
+            "multipliers": {
+                "Dano Contínuo": [
+                    "120%",
+                    "129%",
+                    "138%",
+                    "150%",
+                    "159%",
+                    "168%",
+                    "180%",
+                    "192%",
+                    "204%",
+                    "216%",
+                    "228%",
+                    "240%",
+                    "255%",
+                    "270%",
+                    "285%"
+                ],
+                "Dano Elemental adicional": [
+                    "36%",
+                    "38.7%",
+                    "41.4%",
+                    "45%",
+                    "47.7%",
+                    "50.4%",
+                    "54%",
+                    "57.6%",
+                    "61.2%",
+                    "64.8%",
+                    "68.4%",
+                    "72%",
+                    "76.5%",
+                    "81%",
+                    "85.5%"
+                ],
+                "Dano do Corte": [
+                    "262.4%",
+                    "282.08%",
+                    "301.76%",
+                    "328%",
+                    "347.68%",
+                    "367.36%",
+                    "393.6%",
+                    "419.84%",
+                    "446.08%",
+                    "472.32%",
+                    "498.56%",
+                    "524.8%",
+                    "557.6%",
+                    "590.4%",
+                    "623.2%"
+                ],
+                "Duração": [
+                    "8/s",
+                    "8/s",
+                    "8/s",
+                    "8/s",
+                    "8/s",
+                    "8/s",
+                    "8/s",
+                    "8/s",
+                    "8/s",
+                    "8/s",
+                    "8/s",
+                    "8/s",
+                    "8/s",
+                    "8/s",
+                    "8/s"
+                ],
+                "Energia Elemental": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "Tempo de Recarga": [
+                    "15/s",
+                    "15/s",
+                    "15/s",
+                    "15/s",
+                    "15/s",
+                    "15/s",
+                    "15/s",
+                    "15/s",
+                    "15/s",
+                    "15/s",
+                    "15/s",
+                    "15/s",
+                    "15/s",
+                    "15/s",
+                    "15/s"
+                ]
+            },
+            "name": "Lâmina de Kazuha"
+        },
+        "elementalskill": {
+            "description": "Lança uma técnica secreta feroz como o vento que puxa objetos e inimigos rumo a Kazuha antes de lançá-los voando dentro da AdE, causando <color=#80FFD7FF>Dano Anemo</color> e levantando Kazuha no ar com uma corrente de vento.\\nDentro dos 10s após Kaedehara Kazuha ascender no ar devido à Habilidade Elemental Chihayaburu, e enquanto permanecer no ar, se lançar um Ataque Imersivo, será lançado um Ataque Imersivo muito poderoso: Ranzan Aéreo.\\n\\n<color=#FFD780FF>Pressionar</color>\\nPode ser utilizado enquanto está no ar.\\n\\n<color=#FFD780FF>Manter Pressionado</color>\\nCarrega antes de lançar <color=#80FFD7FF>Dano Anemo</color> numa AdE ainda maior que Pressionar.\\n\\n<color=#FFD780FF>Ataque Imersivo - Ranzan Aéreo</color>\\nO Dano dos Ataques Imersivos lançados através da Habilidade Elemental Chihayaburu é convertido em <color=#80FFD7FF>Dano Anemo</color> e criará um túnel em miniatura através de uma técnica secreta que puxa objetos e inimigos próximos.\\nO Dano de Ranzan Aéreo é considerado Dano de Ataque Imersivo.\\n\\n<i>\"Vento e Bordo choram\\nPor deuses e homens que já se foram\\nComo montanhas vermelhas do outono.\"</i>",
+            "icon": "Skill_S_Kazuha_01",
+            "multipliers": {
+                "Dano de Habilidade ao Manter Pressionado": [
+                    "260.8%",
+                    "280.36%",
+                    "299.92%",
+                    "326%",
+                    "345.56%",
+                    "365.12%",
+                    "391.2%",
+                    "417.28%",
+                    "443.36%",
+                    "469.44%",
+                    "495.52%",
+                    "521.6%",
+                    "554.2%",
+                    "586.8%",
+                    "619.4%"
+                ],
+                "Dano de Habilidade de Pressionar": [
+                    "192%",
+                    "206.4%",
+                    "220.8%",
+                    "240%",
+                    "254.4%",
+                    "268.8%",
+                    "288%",
+                    "307.2%",
+                    "326.4%",
+                    "345.6%",
+                    "364.8%",
+                    "384%",
+                    "408%",
+                    "432%",
+                    "456%"
+                ],
+                "Recarga ao Manter Pressionado": [
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s"
+                ],
+                "Recarga de Toque": [
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s"
+                ]
+            },
+            "name": "Chihayaburu"
+        },
+        "leveling": {
+            "books": {
+                "104313": 9,
+                "104314": 63,
+                "104315": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113019": 18
+            },
+            "worldmonster": {
+                "112035": 18,
+                "112036": 66,
+                "112037": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 5 golpes rápidos.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome uma certa quantidade de Stamina para desferir 2 golpes rápidos com a espada.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto. Caso o Ataque Imersivo seja lançado por Chihayaburu, infligirá um Ataque Imersivo - Ranzan Aéreo.\\n\\n<color=#FFD780FF>Ataque Imersivo - Ranzan Aéreo</color>\\nQuando Chihayaburu lança um Ataque Imersivo com habilidade elemental, o Dano causado pelo Ataque Imersivo será convertido em <color=#80FFD7FF>Dano Anemo</color>, e quando cair no chão irá criar uma pequena corrente de vento com uma técnica secreta, atraindo os objetos e inimigos ao redor.",
+            "icon": "Skill_A_01",
+            "multipliers": {
+                "Consumo de Stamina de Ataque Carregado": [
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20"
+                ],
+                "Dano Durante a Queda": [
+                    "81.83%",
+                    "88.49%",
+                    "95.16%",
+                    "104.67%",
+                    "111.33%",
+                    "118.94%",
+                    "129.41%",
+                    "139.88%",
+                    "150.35%",
+                    "161.76%",
+                    "173.18%",
+                    "184.6%",
+                    "196.02%",
+                    "207.44%",
+                    "218.86%"
+                ],
+                "Dano de Ataque Carregado": [
+                    "43%+74.65%",
+                    "46.5%+80.72%",
+                    "50%+86.8%",
+                    "55%+95.48%",
+                    "58.5%+101.56%",
+                    "62.5%+108.5%",
+                    "68%+118.05%",
+                    "73.5%+127.6%",
+                    "79%+137.14%",
+                    "85%+147.56%",
+                    "91.87%+159.49%",
+                    "99.96%+173.53%",
+                    "108.05%+187.57%",
+                    "116.13%+201.6%",
+                    "124.95%+216.91%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "163.63%/204.39%",
+                    "176.95%/221.02%",
+                    "190.27%/237.66%",
+                    "209.3%/261.42%",
+                    "222.62%/278.06%",
+                    "237.84%/297.07%",
+                    "258.77%/323.21%",
+                    "279.7%/349.36%",
+                    "300.63%/375.5%",
+                    "323.46%/404.02%",
+                    "346.29%/432.54%",
+                    "369.12%/461.06%",
+                    "391.96%/489.57%",
+                    "414.79%/518.09%",
+                    "437.62%/546.61%"
+                ],
+                "Dano do 1° Golpe": [
+                    "44.98%",
+                    "48.64%",
+                    "52.3%",
+                    "57.53%",
+                    "61.19%",
+                    "65.38%",
+                    "71.13%",
+                    "76.88%",
+                    "82.63%",
+                    "88.91%",
+                    "96.1%",
+                    "104.56%",
+                    "113.02%",
+                    "121.47%",
+                    "130.7%"
+                ],
+                "Dano do 2° Golpe": [
+                    "45.24%",
+                    "48.92%",
+                    "52.6%",
+                    "57.86%",
+                    "61.54%",
+                    "65.75%",
+                    "71.54%",
+                    "77.32%",
+                    "83.11%",
+                    "89.42%",
+                    "96.65%",
+                    "105.16%",
+                    "113.66%",
+                    "122.17%",
+                    "131.45%"
+                ],
+                "Dano do 3° Golpe": [
+                    "25.8%+30.96%",
+                    "27.9%+33.48%",
+                    "30%+36%",
+                    "33%+39.6%",
+                    "35.1%+42.12%",
+                    "37.5%+45%",
+                    "40.8%+48.96%",
+                    "44.1%+52.92%",
+                    "47.4%+56.88%",
+                    "51%+61.2%",
+                    "55.12%+66.15%",
+                    "59.98%+71.97%",
+                    "64.83%+77.79%",
+                    "69.68%+83.61%",
+                    "74.97%+89.96%"
+                ],
+                "Dano do 4° Golpe": [
+                    "60.72%",
+                    "65.66%",
+                    "70.6%",
+                    "77.66%",
+                    "82.6%",
+                    "88.25%",
+                    "96.02%",
+                    "103.78%",
+                    "111.55%",
+                    "120.02%",
+                    "129.73%",
+                    "141.14%",
+                    "152.56%",
+                    "163.98%",
+                    "176.43%"
+                ],
+                "Dano do 5° Golpe": [
+                    "25.37%*3",
+                    "27.43%*3",
+                    "29.5%*3",
+                    "32.45%*3",
+                    "34.51%*3",
+                    "36.88%*3",
+                    "40.12%*3",
+                    "43.36%*3",
+                    "46.61%*3",
+                    "50.15%*3",
+                    "54.21%*3",
+                    "58.98%*3",
+                    "63.75%*3",
+                    "68.52%*3",
+                    "73.72%*3"
+                ]
+            },
+            "name": "Técnica da Espada de Garyuu"
+        }
+    }
+}

@@ -1,0 +1,1280 @@
+{
+    "info": {
+        "name": "Xiangling",
+        "description": "A renowned chef from Liyue. She's extremely passionate about cooking and excels at making her signature hot and spicy dishes.",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_POLE",
+        "birthday": "November 2nd",
+        "element": "Pyro",
+        "constellation": "Trulla",
+        "attributes": [
+            {
+                "level": 1,
+                "ascension": 0,
+                "hp": 912,
+                "atk": 19,
+                "def": 56,
+                "EM": 0
+            },
+            {
+                "level": 2,
+                "ascension": 0,
+                "hp": 987,
+                "atk": 20,
+                "def": 61,
+                "EM": 0
+            },
+            {
+                "level": 3,
+                "ascension": 0,
+                "hp": 1062,
+                "atk": 22,
+                "def": 65,
+                "EM": 0
+            },
+            {
+                "level": 4,
+                "ascension": 0,
+                "hp": 1138,
+                "atk": 24,
+                "def": 70,
+                "EM": 0
+            },
+            {
+                "level": 5,
+                "ascension": 0,
+                "hp": 1213,
+                "atk": 25,
+                "def": 75,
+                "EM": 0
+            },
+            {
+                "level": 6,
+                "ascension": 0,
+                "hp": 1288,
+                "atk": 27,
+                "def": 79,
+                "EM": 0
+            },
+            {
+                "level": 7,
+                "ascension": 0,
+                "hp": 1363,
+                "atk": 28,
+                "def": 84,
+                "EM": 0
+            },
+            {
+                "level": 8,
+                "ascension": 0,
+                "hp": 1439,
+                "atk": 30,
+                "def": 88,
+                "EM": 0
+            },
+            {
+                "level": 9,
+                "ascension": 0,
+                "hp": 1514,
+                "atk": 31,
+                "def": 93,
+                "EM": 0
+            },
+            {
+                "level": 10,
+                "ascension": 0,
+                "hp": 1589,
+                "atk": 33,
+                "def": 98,
+                "EM": 0
+            },
+            {
+                "level": 11,
+                "ascension": 0,
+                "hp": 1665,
+                "atk": 34,
+                "def": 102,
+                "EM": 0
+            },
+            {
+                "level": 12,
+                "ascension": 0,
+                "hp": 1740,
+                "atk": 36,
+                "def": 107,
+                "EM": 0
+            },
+            {
+                "level": 13,
+                "ascension": 0,
+                "hp": 1815,
+                "atk": 38,
+                "def": 112,
+                "EM": 0
+            },
+            {
+                "level": 14,
+                "ascension": 0,
+                "hp": 1890,
+                "atk": 39,
+                "def": 116,
+                "EM": 0
+            },
+            {
+                "level": 15,
+                "ascension": 0,
+                "hp": 1966,
+                "atk": 41,
+                "def": 121,
+                "EM": 0
+            },
+            {
+                "level": 16,
+                "ascension": 0,
+                "hp": 2042,
+                "atk": 42,
+                "def": 126,
+                "EM": 0
+            },
+            {
+                "level": 17,
+                "ascension": 0,
+                "hp": 2116,
+                "atk": 44,
+                "def": 130,
+                "EM": 0
+            },
+            {
+                "level": 18,
+                "ascension": 0,
+                "hp": 2192,
+                "atk": 45,
+                "def": 135,
+                "EM": 0
+            },
+            {
+                "level": 19,
+                "ascension": 0,
+                "hp": 2267,
+                "atk": 47,
+                "def": 139,
+                "EM": 0
+            },
+            {
+                "level": 20,
+                "ascension": 0,
+                "hp": 2342,
+                "atk": 48,
+                "def": 144,
+                "EM": 0
+            },
+            {
+                "level": 21,
+                "ascension": 1,
+                "hp": 3098,
+                "atk": 64,
+                "def": 191,
+                "EM": 0
+            },
+            {
+                "level": 22,
+                "ascension": 1,
+                "hp": 3174,
+                "atk": 66,
+                "def": 195,
+                "EM": 0
+            },
+            {
+                "level": 23,
+                "ascension": 1,
+                "hp": 3250,
+                "atk": 67,
+                "def": 200,
+                "EM": 0
+            },
+            {
+                "level": 24,
+                "ascension": 1,
+                "hp": 3324,
+                "atk": 69,
+                "def": 204,
+                "EM": 0
+            },
+            {
+                "level": 25,
+                "ascension": 1,
+                "hp": 3400,
+                "atk": 70,
+                "def": 209,
+                "EM": 0
+            },
+            {
+                "level": 26,
+                "ascension": 1,
+                "hp": 3475,
+                "atk": 72,
+                "def": 214,
+                "EM": 0
+            },
+            {
+                "level": 27,
+                "ascension": 1,
+                "hp": 3551,
+                "atk": 74,
+                "def": 218,
+                "EM": 0
+            },
+            {
+                "level": 28,
+                "ascension": 1,
+                "hp": 3625,
+                "atk": 75,
+                "def": 223,
+                "EM": 0
+            },
+            {
+                "level": 29,
+                "ascension": 1,
+                "hp": 3701,
+                "atk": 77,
+                "def": 228,
+                "EM": 0
+            },
+            {
+                "level": 30,
+                "ascension": 1,
+                "hp": 3776,
+                "atk": 78,
+                "def": 232,
+                "EM": 0
+            },
+            {
+                "level": 31,
+                "ascension": 1,
+                "hp": 3851,
+                "atk": 80,
+                "def": 237,
+                "EM": 0
+            },
+            {
+                "level": 32,
+                "ascension": 1,
+                "hp": 3927,
+                "atk": 81,
+                "def": 242,
+                "EM": 0
+            },
+            {
+                "level": 33,
+                "ascension": 1,
+                "hp": 4002,
+                "atk": 83,
+                "def": 246,
+                "EM": 0
+            },
+            {
+                "level": 34,
+                "ascension": 1,
+                "hp": 4078,
+                "atk": 84,
+                "def": 251,
+                "EM": 0
+            },
+            {
+                "level": 35,
+                "ascension": 1,
+                "hp": 4152,
+                "atk": 86,
+                "def": 255,
+                "EM": 0
+            },
+            {
+                "level": 36,
+                "ascension": 1,
+                "hp": 4228,
+                "atk": 88,
+                "def": 260,
+                "EM": 0
+            },
+            {
+                "level": 37,
+                "ascension": 1,
+                "hp": 4303,
+                "atk": 89,
+                "def": 265,
+                "EM": 0
+            },
+            {
+                "level": 38,
+                "ascension": 1,
+                "hp": 4378,
+                "atk": 91,
+                "def": 269,
+                "EM": 0
+            },
+            {
+                "level": 39,
+                "ascension": 1,
+                "hp": 4454,
+                "atk": 92,
+                "def": 274,
+                "EM": 0
+            },
+            {
+                "level": 40,
+                "ascension": 1,
+                "hp": 4529,
+                "atk": 94,
+                "def": 279,
+                "EM": 0
+            },
+            {
+                "level": 41,
+                "ascension": 2,
+                "hp": 5089,
+                "atk": 105,
+                "def": 313,
+                "EM": 24
+            },
+            {
+                "level": 42,
+                "ascension": 2,
+                "hp": 5163,
+                "atk": 107,
+                "def": 318,
+                "EM": 24
+            },
+            {
+                "level": 43,
+                "ascension": 2,
+                "hp": 5239,
+                "atk": 108,
+                "def": 322,
+                "EM": 24
+            },
+            {
+                "level": 44,
+                "ascension": 2,
+                "hp": 5314,
+                "atk": 110,
+                "def": 327,
+                "EM": 24
+            },
+            {
+                "level": 45,
+                "ascension": 2,
+                "hp": 5389,
+                "atk": 112,
+                "def": 331,
+                "EM": 24
+            },
+            {
+                "level": 46,
+                "ascension": 2,
+                "hp": 5465,
+                "atk": 113,
+                "def": 336,
+                "EM": 24
+            },
+            {
+                "level": 47,
+                "ascension": 2,
+                "hp": 5540,
+                "atk": 115,
+                "def": 341,
+                "EM": 24
+            },
+            {
+                "level": 48,
+                "ascension": 2,
+                "hp": 5616,
+                "atk": 116,
+                "def": 345,
+                "EM": 24
+            },
+            {
+                "level": 49,
+                "ascension": 2,
+                "hp": 5690,
+                "atk": 118,
+                "def": 350,
+                "EM": 24
+            },
+            {
+                "level": 50,
+                "ascension": 2,
+                "hp": 5766,
+                "atk": 119,
+                "def": 355,
+                "EM": 24
+            },
+            {
+                "level": 51,
+                "ascension": 3,
+                "hp": 6486,
+                "atk": 134,
+                "def": 399,
+                "EM": 48
+            },
+            {
+                "level": 52,
+                "ascension": 3,
+                "hp": 6562,
+                "atk": 136,
+                "def": 404,
+                "EM": 48
+            },
+            {
+                "level": 53,
+                "ascension": 3,
+                "hp": 6637,
+                "atk": 137,
+                "def": 408,
+                "EM": 48
+            },
+            {
+                "level": 54,
+                "ascension": 3,
+                "hp": 6712,
+                "atk": 139,
+                "def": 413,
+                "EM": 48
+            },
+            {
+                "level": 55,
+                "ascension": 3,
+                "hp": 6788,
+                "atk": 141,
+                "def": 417,
+                "EM": 48
+            },
+            {
+                "level": 56,
+                "ascension": 3,
+                "hp": 6863,
+                "atk": 142,
+                "def": 422,
+                "EM": 48
+            },
+            {
+                "level": 57,
+                "ascension": 3,
+                "hp": 6938,
+                "atk": 144,
+                "def": 427,
+                "EM": 48
+            },
+            {
+                "level": 58,
+                "ascension": 3,
+                "hp": 7013,
+                "atk": 145,
+                "def": 431,
+                "EM": 48
+            },
+            {
+                "level": 59,
+                "ascension": 3,
+                "hp": 7089,
+                "atk": 147,
+                "def": 436,
+                "EM": 48
+            },
+            {
+                "level": 60,
+                "ascension": 3,
+                "hp": 7164,
+                "atk": 148,
+                "def": 441,
+                "EM": 48
+            },
+            {
+                "level": 61,
+                "ascension": 4,
+                "hp": 7723,
+                "atk": 160,
+                "def": 475,
+                "EM": 48
+            },
+            {
+                "level": 62,
+                "ascension": 4,
+                "hp": 7799,
+                "atk": 161,
+                "def": 480,
+                "EM": 48
+            },
+            {
+                "level": 63,
+                "ascension": 4,
+                "hp": 7874,
+                "atk": 163,
+                "def": 484,
+                "EM": 48
+            },
+            {
+                "level": 64,
+                "ascension": 4,
+                "hp": 7949,
+                "atk": 165,
+                "def": 489,
+                "EM": 48
+            },
+            {
+                "level": 65,
+                "ascension": 4,
+                "hp": 8024,
+                "atk": 166,
+                "def": 494,
+                "EM": 48
+            },
+            {
+                "level": 66,
+                "ascension": 4,
+                "hp": 8100,
+                "atk": 168,
+                "def": 498,
+                "EM": 48
+            },
+            {
+                "level": 67,
+                "ascension": 4,
+                "hp": 8175,
+                "atk": 169,
+                "def": 503,
+                "EM": 48
+            },
+            {
+                "level": 68,
+                "ascension": 4,
+                "hp": 8250,
+                "atk": 171,
+                "def": 507,
+                "EM": 48
+            },
+            {
+                "level": 69,
+                "ascension": 4,
+                "hp": 8326,
+                "atk": 172,
+                "def": 512,
+                "EM": 48
+            },
+            {
+                "level": 70,
+                "ascension": 4,
+                "hp": 8401,
+                "atk": 174,
+                "def": 517,
+                "EM": 48
+            },
+            {
+                "level": 71,
+                "ascension": 5,
+                "hp": 8960,
+                "atk": 186,
+                "def": 551,
+                "EM": 72
+            },
+            {
+                "level": 72,
+                "ascension": 5,
+                "hp": 9035,
+                "atk": 187,
+                "def": 556,
+                "EM": 72
+            },
+            {
+                "level": 73,
+                "ascension": 5,
+                "hp": 9111,
+                "atk": 189,
+                "def": 560,
+                "EM": 72
+            },
+            {
+                "level": 74,
+                "ascension": 5,
+                "hp": 9186,
+                "atk": 190,
+                "def": 565,
+                "EM": 72
+            },
+            {
+                "level": 75,
+                "ascension": 5,
+                "hp": 9261,
+                "atk": 192,
+                "def": 570,
+                "EM": 72
+            },
+            {
+                "level": 76,
+                "ascension": 5,
+                "hp": 9337,
+                "atk": 193,
+                "def": 574,
+                "EM": 72
+            },
+            {
+                "level": 77,
+                "ascension": 5,
+                "hp": 9412,
+                "atk": 195,
+                "def": 579,
+                "EM": 72
+            },
+            {
+                "level": 78,
+                "ascension": 5,
+                "hp": 9487,
+                "atk": 196,
+                "def": 584,
+                "EM": 72
+            },
+            {
+                "level": 79,
+                "ascension": 5,
+                "hp": 9562,
+                "atk": 198,
+                "def": 588,
+                "EM": 72
+            },
+            {
+                "level": 80,
+                "ascension": 5,
+                "hp": 9638,
+                "atk": 200,
+                "def": 593,
+                "EM": 72
+            },
+            {
+                "level": 81,
+                "ascension": 6,
+                "hp": 10197,
+                "atk": 211,
+                "def": 627,
+                "EM": 96
+            },
+            {
+                "level": 82,
+                "ascension": 6,
+                "hp": 10272,
+                "atk": 213,
+                "def": 632,
+                "EM": 96
+            },
+            {
+                "level": 83,
+                "ascension": 6,
+                "hp": 10348,
+                "atk": 214,
+                "def": 636,
+                "EM": 96
+            },
+            {
+                "level": 84,
+                "ascension": 6,
+                "hp": 10423,
+                "atk": 216,
+                "def": 641,
+                "EM": 96
+            },
+            {
+                "level": 85,
+                "ascension": 6,
+                "hp": 10498,
+                "atk": 217,
+                "def": 646,
+                "EM": 96
+            },
+            {
+                "level": 86,
+                "ascension": 6,
+                "hp": 10573,
+                "atk": 219,
+                "def": 650,
+                "EM": 96
+            },
+            {
+                "level": 87,
+                "ascension": 6,
+                "hp": 10649,
+                "atk": 220,
+                "def": 655,
+                "EM": 96
+            },
+            {
+                "level": 88,
+                "ascension": 6,
+                "hp": 10724,
+                "atk": 222,
+                "def": 660,
+                "EM": 96
+            },
+            {
+                "level": 89,
+                "ascension": 6,
+                "hp": 10799,
+                "atk": 224,
+                "def": 664,
+                "EM": 96
+            },
+            {
+                "level": 90,
+                "ascension": 6,
+                "hp": 10875,
+                "atk": 225,
+                "def": 669,
+                "EM": 96
+            },
+            {
+                "level": 95,
+                "ascension": 6,
+                "hp": 11251,
+                "atk": 254,
+                "def": 692,
+                "EM": 96
+            },
+            {
+                "level": 100,
+                "ascension": 6,
+                "hp": 11627,
+                "atk": 283,
+                "def": 715,
+                "EM": 96
+            }
+        ]
+    },
+    "icons": {
+        "forward": "UI_AvatarIcon_Xiangling",
+        "coop_img": "UI_CoopImg_Xiangling"
+    },
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100027": 168
+        },
+        "elemental": {
+            "104111": 1,
+            "104112": 9,
+            "104113": 9,
+            "104114": 6
+        },
+        "worldmonster": {
+            "112002": 18,
+            "112003": 30,
+            "112004": 36
+        },
+        "elitemonster": {
+            "113011": 46
+        }
+    },
+    "skills": {
+        "normalattack": {
+            "name": "Dough-Fu",
+            "icon": "Skill_A_03",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "42.05%",
+                    "45.48%",
+                    "48.9%",
+                    "53.79%",
+                    "57.21%",
+                    "61.12%",
+                    "66.5%",
+                    "71.88%",
+                    "77.26%",
+                    "83.13%",
+                    "89.85%",
+                    "97.76%",
+                    "105.67%",
+                    "113.58%",
+                    "122.2%"
+                ],
+                "2-Hit DMG": [
+                    "42.14%",
+                    "45.57%",
+                    "49%",
+                    "53.9%",
+                    "57.33%",
+                    "61.25%",
+                    "66.64%",
+                    "72.03%",
+                    "77.42%",
+                    "83.3%",
+                    "90.04%",
+                    "97.96%",
+                    "105.88%",
+                    "113.81%",
+                    "122.45%"
+                ],
+                "3-Hit DMG": [
+                    "26.06%+26.06%",
+                    "28.18%+28.18%",
+                    "30.3%+30.3%",
+                    "33.33%+33.33%",
+                    "35.45%+35.45%",
+                    "37.87%+37.87%",
+                    "41.21%+41.21%",
+                    "44.54%+44.54%",
+                    "47.87%+47.87%",
+                    "51.51%+51.51%",
+                    "55.68%+55.68%",
+                    "60.58%+60.58%",
+                    "65.48%+65.48%",
+                    "70.37%+70.37%",
+                    "75.72%+75.72%"
+                ],
+                "4-Hit DMG": [
+                    "14.1%*4",
+                    "15.25%*4",
+                    "16.4%*4",
+                    "18.04%*4",
+                    "19.19%*4",
+                    "20.5%*4",
+                    "22.3%*4",
+                    "24.11%*4",
+                    "25.91%*4",
+                    "27.88%*4",
+                    "30.13%*4",
+                    "32.79%*4",
+                    "35.44%*4",
+                    "38.09%*4",
+                    "40.98%*4"
+                ],
+                "5-Hit DMG": [
+                    "71.04%",
+                    "76.82%",
+                    "82.6%",
+                    "90.86%",
+                    "96.64%",
+                    "103.25%",
+                    "112.34%",
+                    "121.42%",
+                    "130.51%",
+                    "140.42%",
+                    "151.78%",
+                    "165.13%",
+                    "178.49%",
+                    "191.85%",
+                    "206.42%"
+                ],
+                "Charged Attack DMG": [
+                    "121.69%",
+                    "131.6%",
+                    "141.5%",
+                    "155.65%",
+                    "165.56%",
+                    "176.87%",
+                    "192.44%",
+                    "208%",
+                    "223.57%",
+                    "240.55%",
+                    "260.01%",
+                    "282.89%",
+                    "305.77%",
+                    "328.65%",
+                    "353.61%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25"
+                ],
+                "Plunge DMG": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ],
+                "Low/High Plunge DMG": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ]
+            },
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 5 consecutive spear strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
+        },
+        "elementalskill": {
+            "name": "Guoba Attack",
+            "icon": "Skill_S_Xiangling_01",
+            "multipliers": {
+                "Flame DMG": [
+                    "111.28%",
+                    "119.63%",
+                    "127.97%",
+                    "139.1%",
+                    "147.45%",
+                    "155.79%",
+                    "166.92%",
+                    "178.05%",
+                    "189.18%",
+                    "200.3%",
+                    "211.43%",
+                    "222.56%",
+                    "236.47%",
+                    "250.38%",
+                    "264.29%"
+                ],
+                "CD": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ]
+            },
+            "description": "Summons Guoba, who will continuously breathe fire at opponents, dealing <color=#FF9999FF>AoE Pyro DMG</color>.\\n\\n<i>Guoba loves to eat spicy food. Problem is, his stomach can't handle something this spicy.</i>"
+        },
+        "elementalburst": {
+            "name": "Pyronado",
+            "icon": "Skill_E_Xiangling_01",
+            "multipliers": {
+                "1-Hit Swing DMG": [
+                    "72%",
+                    "77.4%",
+                    "82.8%",
+                    "90%",
+                    "95.4%",
+                    "100.8%",
+                    "108%",
+                    "115.2%",
+                    "122.4%",
+                    "129.6%",
+                    "136.8%",
+                    "144%",
+                    "153%",
+                    "162%",
+                    "171%"
+                ],
+                "2-Hit Swing DMG": [
+                    "88%",
+                    "94.6%",
+                    "101.2%",
+                    "110%",
+                    "116.6%",
+                    "123.2%",
+                    "132%",
+                    "140.8%",
+                    "149.6%",
+                    "158.4%",
+                    "167.2%",
+                    "176%",
+                    "187%",
+                    "198%",
+                    "209%"
+                ],
+                "3-Hit Swing DMG": [
+                    "109.6%",
+                    "117.82%",
+                    "126.04%",
+                    "137%",
+                    "145.22%",
+                    "153.44%",
+                    "164.4%",
+                    "175.36%",
+                    "186.32%",
+                    "197.28%",
+                    "208.24%",
+                    "219.2%",
+                    "232.9%",
+                    "246.6%",
+                    "260.3%"
+                ],
+                "Pyronado DMG": [
+                    "112%",
+                    "120.4%",
+                    "128.8%",
+                    "140%",
+                    "148.4%",
+                    "156.8%",
+                    "168%",
+                    "179.2%",
+                    "190.4%",
+                    "201.6%",
+                    "212.8%",
+                    "224%",
+                    "238%",
+                    "252%",
+                    "266%"
+                ],
+                "Duration": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ],
+                "CD": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ],
+                "Energy Cost": [
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80"
+                ]
+            },
+            "description": "Displaying her mastery over both fire and polearms, Xiangling sends a Pyronado whirling around her.\\nThe Pyronado will move with your character for the ability's duration, dealing <color=#FF9999FF>Pyro DMG</color> to all opponents in its path.\\n\\n<i>There will never be enough heat. Never.</i>"
+        },
+        "leveling": {
+            "books": {
+                "104313": 9,
+                "104314": 63,
+                "104315": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "worldmonster": {
+                "112002": 18,
+                "112003": 66,
+                "112004": 93
+            },
+            "weekly": {
+                "113004": 18
+            }
+        }
+    },
+    "passives": {
+        "p1": {
+            "name": "Crossfire",
+            "description": "Increases the flame range of Guoba by 20%.",
+            "icon": "UI_Talent_S_Xiangling_05"
+        },
+        "p2": {
+            "name": "Beware, It's Super Hot!",
+            "description": "When <color=#FFD780FF>Guoba Attack</color>'s effect ends, Guoba leaves a chili pepper on the spot where it disappeared. Picking up a chili pepper increases ATK by 10% for 10s.",
+            "icon": "UI_Talent_S_Xiangling_06"
+        },
+        "p3": {
+            "name": "Chef de Cuisine",
+            "description": "When Xiangling cooks an ATK-boosting dish perfectly, she has a 12% chance to receive double the product.",
+            "icon": "UI_Talent_Cook_Attack"
+        },
+        "p4": ""
+    },
+    "constellations": {
+        "const1": {
+            "name": "Crispy Outside, Tender Inside",
+            "description": "Opponents hit by Guoba's attacks have their <color=#FF9999FF>Pyro RES</color> reduced by 15% for 6s.",
+            "icon": "UI_Talent_S_Xiangling_01"
+        },
+        "const2": {
+            "name": "Oil Meets Fire",
+            "description": "The last attack in a Normal Attack sequence applies the Implode status onto the opponent for 2s. An explosion will occur once this duration ends, dealing 75% of Xiangling's ATK as <color=#FF9999FF>AoE Pyro DMG</color>.",
+            "icon": "UI_Talent_S_Xiangling_02"
+        },
+        "const3": {
+            "name": "Deepfry",
+            "description": "Increases the Level of <color=#FFD780FF>Pyronado</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Xiangling_02"
+        },
+        "const4": {
+            "name": "Slowbake",
+            "description": "<color=#FFD780FF>Pyronado</color>'s duration is increased by 40%.",
+            "icon": "UI_Talent_S_Xiangling_03"
+        },
+        "const5": {
+            "name": "Guoba Mad",
+            "description": "Increases the Level of <color=#FFD780FF>Guoba Attack</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Xiangling_01"
+        },
+        "const6": {
+            "name": "Condensed Pyronado",
+            "description": "For the duration of <color=#FFD780FF>Pyronado</color>, all party members receive a 15% <color=#FF9999FF>Pyro DMG Bonus</color>.",
+            "icon": "UI_Talent_S_Xiangling_04"
+        }
+    },
+    "energy": [
+        {
+            "source": "Ball",
+            "particles": "1",
+            "chance": "100%",
+            "cd": "1s"
+        }
+    ],
+    "attacks": [
+        {
+            "name": "ExtraAttack_Bullet",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "icd_rule": "24 hits / 0.5s",
+            "gauge": "1U",
+            "poise": "LV5/58",
+            "element": "-"
+        },
+        {
+            "name": "ExtraAttack_Bullet",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "icd_rule": "24 hits / 0.5s",
+            "gauge": "1U",
+            "poise": "LV6/58",
+            "element": "-"
+        },
+        {
+            "name": "PandaFire_Attack",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/32",
+            "element": "Fire"
+        },
+        {
+            "name": "FireCircle01",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/30",
+            "element": "Fire"
+        },
+        {
+            "name": "FireCircle02",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/30",
+            "element": "Fire"
+        },
+        {
+            "name": "FireCircle03",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/30",
+            "element": "Fire"
+        },
+        {
+            "name": "TalentBomb",
+            "icd_source": "Grp: default",
+            "icd_rule": "Standard (3h/2.5s)",
+            "gauge": "1U",
+            "poise": "LV2/8",
+            "element": "Fire"
+        },
+        {
+            "name": "TalentBombGadget",
+            "icd_source": "Grp: default",
+            "icd_rule": "Standard (3h/2.5s)",
+            "gauge": "1U",
+            "poise": "LV2/8",
+            "element": "Fire"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/25",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV4/25",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/100",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/150",
+            "element": "-"
+        }
+    ]
+}

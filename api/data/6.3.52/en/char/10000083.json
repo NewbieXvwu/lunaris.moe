@@ -1,0 +1,1363 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104151": 1,
+            "104152": 9,
+            "104153": 9,
+            "104154": 6
+        },
+        "elitemonster": {
+            "113049": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101235": 168
+        },
+        "worldmonster": {
+            "112083": 18,
+            "112084": 30,
+            "112085": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Wind",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ArkheGrade",
+            "poise": "LV3/20"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Short_Strike",
+            "poise": "LV2/100"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Executed_Strike",
+            "poise": "LV2/125"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ELementalArt (!)",
+            "name": "ElementalArt_Executed_Bullet",
+            "poise": "LV5/120"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "ElementalArt_Executed_Bullet",
+            "poise": "LV5/120"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Strike",
+            "poise": "LV3/40"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_MagicBox",
+            "poise": "LV2/40"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst_Mix (!)",
+            "name": "ElementalBurst_MagicBox_Bullet_Ice",
+            "poise": "LV2/40"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst_Mix (!)",
+            "name": "ElementalBurst_MagicBox_Bullet_Fire",
+            "poise": "LV2/40"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst_Mix (!)",
+            "name": "ElementalBurst_MagicBox_Bullet_Water",
+            "poise": "LV2/40"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst_Mix (!)",
+            "name": "ElementalBurst_MagicBox_Bullet_Electric",
+            "poise": "LV2/40"
+        },
+        {
+            "element": "AntiFire",
+            "gauge": "0.0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Linette_ElementalBurst_Mix_Detect (!)",
+            "name": "ElementalBurst_HitBox",
+            "poise": "-/0"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ElementalBurst (!)",
+            "name": "ElementalBurst_MagicBox_Bullet_Wind",
+            "poise": "LV2/20"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "When <color=#FFD780FF>Enigmatic Feint</color>'s Enigma Thrust hits an opponent with Shadowsign, a vortex will be created at that opponent's position that will pull nearby opponents in.",
+            "icon": "UI_Talent_S_Linette_01",
+            "name": "A Cold Blade Like a Shadow"
+        },
+        "const2": {
+            "description": "Whenever the Bogglecat Box summoned by <color=#FFD780FF>Magic Trick: Astonishing Shift</color> fires a Vivid Shot, it will fire an extra Vivid Shot.",
+            "icon": "UI_Talent_S_Linette_02",
+            "name": "Endless Mysteries"
+        },
+        "const3": {
+            "description": "Increases the Level of <color=#FFD780FF>Magic Trick: Astonishing Shift</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Linette_01",
+            "name": "Cognition-Inverting Gaze"
+        },
+        "const4": {
+            "description": "Increases <color=#FFD780FF>Enigmatic Feint</color>'s charges by 1.",
+            "icon": "UI_Talent_S_Linette_03",
+            "name": "Tacit Coordination"
+        },
+        "const5": {
+            "description": "Increases the Level of <color=#FFD780FF>Enigmatic Feint</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Linette_02",
+            "name": "Obscuring Ambiguity"
+        },
+        "const6": {
+            "description": "When Lynette uses <color=#FFD780FF>Enigmatic Feint</color>'s Enigma Thrust, she will gain an <color=#80FFD7FF>Anemo Infusion</color> and 20% <color=#80FFD7FF>Anemo DMG Bonus</color> for 6s.",
+            "icon": "UI_Talent_S_Linette_04",
+            "name": "Watchful Eye"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.6s",
+            "chance": "100%",
+            "particles": "1",
+            "source": "UNIQUE_Strike_DropBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Linette",
+        "forward": "UI_AvatarIcon_Linette"
+    },
+    "info": {
+        "attributes": [
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 60,
+                "hp": 1039,
+                "level": 1
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 65,
+                "hp": 1126,
+                "level": 2
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 23,
+                "def": 70,
+                "hp": 1211,
+                "level": 3
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 74,
+                "hp": 1297,
+                "level": 4
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 79,
+                "hp": 1382,
+                "level": 5
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 84,
+                "hp": 1469,
+                "level": 6
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 89,
+                "hp": 1554,
+                "level": 7
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 94,
+                "hp": 1640,
+                "level": 8
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 99,
+                "hp": 1727,
+                "level": 9
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 104,
+                "hp": 1812,
+                "level": 10
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 109,
+                "hp": 1898,
+                "level": 11
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 114,
+                "hp": 1983,
+                "level": 12
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 119,
+                "hp": 2070,
+                "level": 13
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 40,
+                "def": 124,
+                "hp": 2155,
+                "level": 14
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 129,
+                "hp": 2241,
+                "level": 15
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 43,
+                "def": 134,
+                "hp": 2327,
+                "level": 16
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 45,
+                "def": 139,
+                "hp": 2413,
+                "level": 17
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 47,
+                "def": 143,
+                "hp": 2499,
+                "level": 18
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 48,
+                "def": 148,
+                "hp": 2584,
+                "level": 19
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 50,
+                "def": 153,
+                "hp": 2670,
+                "level": 20
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 66,
+                "def": 203,
+                "hp": 3532,
+                "level": 21
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 68,
+                "def": 208,
+                "hp": 3618,
+                "level": 22
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 69,
+                "def": 213,
+                "hp": 3705,
+                "level": 23
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 218,
+                "hp": 3790,
+                "level": 24
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 72,
+                "def": 223,
+                "hp": 3876,
+                "level": 25
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 74,
+                "def": 227,
+                "hp": 3961,
+                "level": 26
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 76,
+                "def": 232,
+                "hp": 4048,
+                "level": 27
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 77,
+                "def": 237,
+                "hp": 4133,
+                "level": 28
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 79,
+                "def": 242,
+                "hp": 4219,
+                "level": 29
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 80,
+                "def": 247,
+                "hp": 4304,
+                "level": 30
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 82,
+                "def": 252,
+                "hp": 4391,
+                "level": 31
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 84,
+                "def": 257,
+                "hp": 4477,
+                "level": 32
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 85,
+                "def": 262,
+                "hp": 4562,
+                "level": 33
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 87,
+                "def": 267,
+                "hp": 4648,
+                "level": 34
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 88,
+                "def": 272,
+                "hp": 4734,
+                "level": 35
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 90,
+                "def": 277,
+                "hp": 4820,
+                "level": 36
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 92,
+                "def": 282,
+                "hp": 4905,
+                "level": 37
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 93,
+                "def": 287,
+                "hp": 4991,
+                "level": 38
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 95,
+                "def": 292,
+                "hp": 5078,
+                "level": 39
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 96,
+                "def": 296,
+                "hp": 5163,
+                "level": 40
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 108,
+                "def": 333,
+                "hp": 5801,
+                "level": 41
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 110,
+                "def": 338,
+                "hp": 5886,
+                "level": 42
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 112,
+                "def": 343,
+                "hp": 5972,
+                "level": 43
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 113,
+                "def": 348,
+                "hp": 6058,
+                "level": 44
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 115,
+                "def": 353,
+                "hp": 6144,
+                "level": 45
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 116,
+                "def": 358,
+                "hp": 6230,
+                "level": 46
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 118,
+                "def": 363,
+                "hp": 6315,
+                "level": 47
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 120,
+                "def": 368,
+                "hp": 6402,
+                "level": 48
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 121,
+                "def": 372,
+                "hp": 6487,
+                "level": 49
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 123,
+                "def": 377,
+                "hp": 6573,
+                "level": 50
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 138,
+                "def": 425,
+                "hp": 7394,
+                "level": 51
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 140,
+                "def": 430,
+                "hp": 7480,
+                "level": 52
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 141,
+                "def": 434,
+                "hp": 7567,
+                "level": 53
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 143,
+                "def": 439,
+                "hp": 7652,
+                "level": 54
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 145,
+                "def": 444,
+                "hp": 7738,
+                "level": 55
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 146,
+                "def": 449,
+                "hp": 7823,
+                "level": 56
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 148,
+                "def": 454,
+                "hp": 7910,
+                "level": 57
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 149,
+                "def": 459,
+                "hp": 7995,
+                "level": 58
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 151,
+                "def": 464,
+                "hp": 8081,
+                "level": 59
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 153,
+                "def": 469,
+                "hp": 8168,
+                "level": 60
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 164,
+                "def": 506,
+                "hp": 8804,
+                "level": 61
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 166,
+                "def": 511,
+                "hp": 8891,
+                "level": 62
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 168,
+                "def": 515,
+                "hp": 8976,
+                "level": 63
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 169,
+                "def": 520,
+                "hp": 9062,
+                "level": 64
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 171,
+                "def": 525,
+                "hp": 9147,
+                "level": 65
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 172,
+                "def": 530,
+                "hp": 9234,
+                "level": 66
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 174,
+                "def": 535,
+                "hp": 9320,
+                "level": 67
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 176,
+                "def": 540,
+                "hp": 9405,
+                "level": 68
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 177,
+                "def": 545,
+                "hp": 9492,
+                "level": 69
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 179,
+                "def": 550,
+                "hp": 9577,
+                "level": 70
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 191,
+                "def": 587,
+                "hp": 10215,
+                "level": 71
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 192,
+                "def": 591,
+                "hp": 10300,
+                "level": 72
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 194,
+                "def": 596,
+                "hp": 10386,
+                "level": 73
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 196,
+                "def": 601,
+                "hp": 10473,
+                "level": 74
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 197,
+                "def": 606,
+                "hp": 10558,
+                "level": 75
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 199,
+                "def": 611,
+                "hp": 10644,
+                "level": 76
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 200,
+                "def": 616,
+                "hp": 10729,
+                "level": 77
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 202,
+                "def": 621,
+                "hp": 10816,
+                "level": 78
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 204,
+                "def": 626,
+                "hp": 10901,
+                "level": 79
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 205,
+                "def": 631,
+                "hp": 10987,
+                "level": 80
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 217,
+                "def": 668,
+                "hp": 11625,
+                "level": 81
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 219,
+                "def": 672,
+                "hp": 11710,
+                "level": 82
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 220,
+                "def": 677,
+                "hp": 11797,
+                "level": 83
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 222,
+                "def": 682,
+                "hp": 11882,
+                "level": 84
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 223,
+                "def": 687,
+                "hp": 11968,
+                "level": 85
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 225,
+                "def": 692,
+                "hp": 12053,
+                "level": 86
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 227,
+                "def": 697,
+                "hp": 12140,
+                "level": 87
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 228,
+                "def": 702,
+                "hp": 12225,
+                "level": 88
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 230,
+                "def": 707,
+                "hp": 12311,
+                "level": 89
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 232,
+                "def": 712,
+                "hp": 12397,
+                "level": 90
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 261,
+                "def": 736,
+                "hp": 12826,
+                "level": 95
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 291,
+                "def": 761,
+                "hp": 13255,
+                "level": 100
+            }
+        ],
+        "birthday": "February 2nd",
+        "constellation": "Felis Alba",
+        "description": "A magic assistant of few words, her emotions are as inscrutable as any cat's.",
+        "element": "Anemo",
+        "name": "Lynette",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_SWORD_ONE_HAND"
+    },
+    "passives": {
+        "p1": {
+            "description": "Within 10s after using <color=#FFD780FF>Magic Trick: Astonishing Shift</color>, when there are 1/2/3/4 Elemental Types in the party, all party members' ATK will be increased by 8%/12%/16%/20% respectively.",
+            "icon": "UI_Talent_S_Linette_05",
+            "name": "Sophisticated Synergy"
+        },
+        "p2": {
+            "description": "After the Bogglecat Box summoned by <color=#FFD780FF>Magic Trick: Astonishing Shift</color> performs Elemental Conversion, Lynette's Elemental Burst will deal 15% more DMG. This effect will persist until the Bogglecat Box's duration ends.",
+            "icon": "UI_Talent_S_Linette_06",
+            "name": "Props Positively Prepped"
+        },
+        "p3": {
+            "description": "Shows the location of nearby <color=#FFD780FF>Recovery Orbs</color> on the minimap. The Aquatic Stamina and HP gained from touching Orbs will be increased by 25%.",
+            "icon": "UI_Talent_S_Linette_07",
+            "name": "Loci-Based Mnemonics"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Lynette raises her mantle high, dealing <color=#80FFD7FF>AoE Anemo DMG</color>, using skillful sleight of hand to make a giant Bogglecat Box appear!\\n\\n<color=#FFD780FF>Bogglecat Box</color>\\n·Taunts nearby opponents, attracting their attacks.\\n·Deals <color=#80FFD7FF>Anemo DMG</color> to nearby opponents at intervals.\\n·When the Bogglecat Box comes into contact with <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color>, it will gain the corresponding element and additionally fire Vivid Shots that will deal DMG from that element at intervals.\\nElemental Absorption of this kind will only occur once during this ability's duration.\\n\\n<i>\"Look this way, and look closely. This is a time for miracles, just for us.\"</i>",
+            "icon": "Skill_E_Linette_01",
+            "multipliers": {
+                "Bogglecat Box DMG": [
+                    "51.2%",
+                    "55.04%",
+                    "58.88%",
+                    "64%",
+                    "67.84%",
+                    "71.68%",
+                    "76.8%",
+                    "81.92%",
+                    "87.04%",
+                    "92.16%",
+                    "97.28%",
+                    "102.4%",
+                    "108.8%",
+                    "115.2%",
+                    "121.6%"
+                ],
+                "Bogglecat Box Duration": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "CD": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ],
+                "Energy Cost": [
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70"
+                ],
+                "Skill DMG": [
+                    "83.2%",
+                    "89.44%",
+                    "95.68%",
+                    "104%",
+                    "110.24%",
+                    "116.48%",
+                    "124.8%",
+                    "133.12%",
+                    "141.44%",
+                    "149.76%",
+                    "158.08%",
+                    "166.4%",
+                    "176.8%",
+                    "187.2%",
+                    "197.6%"
+                ],
+                "Vivid Shot DMG": [
+                    "45.6%",
+                    "49.02%",
+                    "52.44%",
+                    "57%",
+                    "60.42%",
+                    "63.84%",
+                    "68.4%",
+                    "72.96%",
+                    "77.52%",
+                    "82.08%",
+                    "86.64%",
+                    "91.2%",
+                    "96.9%",
+                    "102.6%",
+                    "108.3%"
+                ]
+            },
+            "name": "Magic Trick: Astonishing Shift"
+        },
+        "elementalskill": {
+            "description": "#Flicks her mantle and executes an Enigma Thrust, dealing <color=#80FFD7FF>Anemo DMG</color>.\\nWhen the Enigma Thrust hits an opponent, it will restore Lynette's HP based on her Max HP, and in the 4s afterward, she will lose a certain amount of HP per second.\\nBased on whether you press or hold this ability, she will use Enigma Thrust differently.\\n\\n<color=#FFD780FF>Press</color>\\nShe swiftly uses an Enigma Thrust.\\n\\n<color=#FFD780FF>Hold</color>\\nLynette will enter a high-speed Pilfering Shadow state and apply Shadowsign to a nearby opponent. You can control her movement direction during this state, and you can end it prematurely by using this skill again.\\nWhen this high-speed state ends, Lynette will unleash her Enigma Thrust. If there is an opponent with Shadowsign applied to them nearby, Lynette will approach them in a flash before using Enigma Thrust.\\n\\nA maximum of 1 opponent can have Shadowsign at any one time. When this opponent gets too far from Lynette, the Shadowsign will be canceled.\\n\\n<color=#FFD780FF>Arkhe: Ousia</color>\\nAt specific intervals, Lynette will unleash a Surging Blade when she uses Enigma Thrust, dealing Ousia-aligned <color=#80FFD7FF>Anemo DMG</color>.\\n\\n<i>\"Now then, turn your eyes to the stage and continue to enjoy the performance. When I next appear, I'll be where you least expect.\"</i>",
+            "icon": "Skill_S_Linette_01",
+            "multipliers": {
+                "CD": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "Enigma Thrust DMG": [
+                    "268%",
+                    "288.1%",
+                    "308.2%",
+                    "335%",
+                    "355.1%",
+                    "375.2%",
+                    "402%",
+                    "428.8%",
+                    "455.6%",
+                    "482.4%",
+                    "509.2%",
+                    "536%",
+                    "569.5%",
+                    "603%",
+                    "636.5%"
+                ],
+                "HP Cost": [
+                    "6% Current HP/s",
+                    "6% Current HP/s",
+                    "6% Current HP/s",
+                    "6% Current HP/s",
+                    "6% Current HP/s",
+                    "6% Current HP/s",
+                    "6% Current HP/s",
+                    "6% Current HP/s",
+                    "6% Current HP/s",
+                    "6% Current HP/s",
+                    "6% Current HP/s",
+                    "6% Current HP/s",
+                    "6% Current HP/s",
+                    "6% Current HP/s",
+                    "6% Current HP/s"
+                ],
+                "HP Regeneration": [
+                    "25% Max HP",
+                    "25% Max HP",
+                    "25% Max HP",
+                    "25% Max HP",
+                    "25% Max HP",
+                    "25% Max HP",
+                    "25% Max HP",
+                    "25% Max HP",
+                    "25% Max HP",
+                    "25% Max HP",
+                    "25% Max HP",
+                    "25% Max HP",
+                    "25% Max HP",
+                    "25% Max HP",
+                    "25% Max HP"
+                ],
+                "Hold Max Duration": [
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s"
+                ],
+                "Surging Blade DMG": [
+                    "31.2%",
+                    "33.54%",
+                    "35.88%",
+                    "39%",
+                    "41.34%",
+                    "43.68%",
+                    "46.8%",
+                    "49.92%",
+                    "53.04%",
+                    "56.16%",
+                    "59.28%",
+                    "62.4%",
+                    "66.3%",
+                    "70.2%",
+                    "74.1%"
+                ],
+                "Surging Blade Interval": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ]
+            },
+            "name": "Enigmatic Feint"
+        },
+        "leveling": {
+            "books": {
+                "104344": 9,
+                "104345": 63,
+                "104346": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113048": 18
+            },
+            "worldmonster": {
+                "112083": 18,
+                "112084": 66,
+                "112085": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 rapid strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+            "icon": "Skill_A_01",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "43.08%",
+                    "46.59%",
+                    "50.09%",
+                    "55.1%",
+                    "58.61%",
+                    "62.62%",
+                    "68.13%",
+                    "73.64%",
+                    "79.15%",
+                    "85.16%",
+                    "91.17%",
+                    "97.18%",
+                    "103.2%",
+                    "109.21%",
+                    "115.22%"
+                ],
+                "2-Hit DMG": [
+                    "37.61%",
+                    "40.67%",
+                    "43.74%",
+                    "48.11%",
+                    "51.17%",
+                    "54.67%",
+                    "59.48%",
+                    "64.29%",
+                    "69.1%",
+                    "74.35%",
+                    "79.6%",
+                    "84.85%",
+                    "90.09%",
+                    "95.34%",
+                    "100.59%"
+                ],
+                "3-Hit DMG": [
+                    "27.86%+21.59%",
+                    "30.13%+23.35%",
+                    "32.4%+25.11%",
+                    "35.64%+27.62%",
+                    "37.91%+29.38%",
+                    "40.5%+31.38%",
+                    "44.06%+34.15%",
+                    "47.63%+36.91%",
+                    "51.19%+39.67%",
+                    "55.08%+42.68%",
+                    "58.97%+45.7%",
+                    "62.86%+48.71%",
+                    "66.74%+51.72%",
+                    "70.63%+54.74%",
+                    "74.52%+57.75%"
+                ],
+                "4-Hit DMG": [
+                    "63.15%",
+                    "68.29%",
+                    "73.44%",
+                    "80.78%",
+                    "85.92%",
+                    "91.79%",
+                    "99.87%",
+                    "107.95%",
+                    "116.03%",
+                    "124.84%",
+                    "133.65%",
+                    "142.46%",
+                    "151.28%",
+                    "160.09%",
+                    "168.9%"
+                ],
+                "Charged Attack DMG": [
+                    "44.2%+61.4%",
+                    "47.8%+66.4%",
+                    "51.4%+71.4%",
+                    "56.54%+78.54%",
+                    "60.14%+83.54%",
+                    "64.25%+89.25%",
+                    "69.9%+97.1%",
+                    "75.56%+104.96%",
+                    "81.21%+112.81%",
+                    "87.38%+121.38%",
+                    "93.55%+129.95%",
+                    "99.72%+138.52%",
+                    "105.88%+147.08%",
+                    "112.05%+155.65%",
+                    "118.22%+164.22%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20"
+                ],
+                "Low/High Plunge DMG": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Plunge DMG": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ]
+            },
+            "name": "Rapid Ritesword"
+        }
+    }
+}

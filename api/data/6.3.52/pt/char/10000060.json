@@ -1,0 +1,1271 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104121": 1,
+            "104122": 9,
+            "104123": 9,
+            "104124": 6
+        },
+        "elitemonster": {
+            "113035": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100033": 168
+        },
+        "worldmonster": {
+            "112032": 18,
+            "112033": 30,
+            "112034": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "4U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "ShootArrow_Enchanted_WithOutWater",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "ShootArrow_Enchanted_WithWater",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 0.3s",
+            "icd_source": "Tag: Yelan_ExtraAttack",
+            "name": "SneakArrow",
+            "poise": "LV5/100"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 0.3s",
+            "icd_source": "Tag: Yelan_ExtraAttack",
+            "name": "SneakArrow",
+            "poise": "LV5/100"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_TriggerCollision",
+            "poise": "LV5/120"
+        },
+        {
+            "element": "Water",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Dice",
+            "poise": "LV5/100"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "3 hits / 2s",
+            "icd_source": "Grp: Yelan_ElementalBurst (Tag Miss)",
+            "name": "ElementalBurst_Dice_Bullet_01",
+            "poise": "LV1/30"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Dice_Bullet_Extra",
+            "poise": "LV1/30"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "SneakArrow_Extra_Before",
+            "poise": "LV2/100"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "SneakArrow_Extra_After",
+            "poise": "LV2/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "<color=#FFD780FF>Rede da Vida Salvadora</color> pode ser utilizada mais uma vez.",
+            "icon": "UI_Talent_S_Yelan_01",
+            "name": "Entram os Trapaceadores"
+        },
+        "const2": {
+            "description": "Quando <color=#FFD780FF>Dado Misterioso</color> faz um Ataque Coordenado, será disparada uma flecha d'água adicional, infligindo Dano Hydro equivalente a 14% da Vida Máxima de Yelan.\\nEsse efeito pode ocorrer até uma vez a cada 1.8s.",
+            "icon": "UI_Talent_S_Yelan_02",
+            "name": "Quanto Mais Pessoas, Melhor"
+        },
+        "const3": {
+            "description": "Aumenta o nível de <color=#FFD780FF>Dado das Profundezas Claras</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Yelan_01",
+            "name": "Dado Viciado"
+        },
+        "const4": {
+            "description": "De acordo com a quantidade de inimigos marcados por <color=#FFD780FF>Fio da Vida</color>, a explosão de cada marca aumentará a Vida Máxima de todos os membros da equipe em 10% por 25s. É possível no máximo obter 40% de aumento da Vida Máxima desta forma.",
+            "icon": "UI_Talent_S_Yelan_03",
+            "name": "Blefe e Reviravolta"
+        },
+        "const5": {
+            "description": "Aumenta o nível de <color=#FFD780FF>Rede da Vida Salvadora</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Yelan_02",
+            "name": "Prestidigitação da Banca"
+        },
+        "const6": {
+            "description": "Depois de lançar <color=#FFD780FF>Dado das Profundezas Claras</color>, Yelan entra no estado \"Mestra Estrategista\":\\nOs Ataques Normais de Yelan serão convertidos em \"Flechas da Ruptura\" especiais. Essas flechas possuem as características similares à \"Flecha da Ruptura\", e seu Dano infligido será considerado como Dano de Ataque Carregado, infligindo 156% do Dano da Flecha da Ruptura normal.\\n\\nO estado \"Mestra Estrategista\" dura 20s e será eliminado quando Yelan disparar 5 flechas.",
+            "icon": "UI_Talent_S_Yelan_04",
+            "name": "Vencedor Leva Tudo"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.3s",
+            "chance": "100%",
+            "particles": "4",
+            "source": "UNIQUE_Strike_DropBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Yelan",
+        "forward": "UI_AvatarIcon_Yelan"
+    },
+    "info": {
+        "attributes": [
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 43,
+                "hp": 1125,
+                "level": 1
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 46,
+                "hp": 1218,
+                "level": 2
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 50,
+                "hp": 1312,
+                "level": 3
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 53,
+                "hp": 1406,
+                "level": 4
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 57,
+                "hp": 1500,
+                "level": 5
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 60,
+                "hp": 1594,
+                "level": 6
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 64,
+                "hp": 1687,
+                "level": 7
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 68,
+                "hp": 1782,
+                "level": 8
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 71,
+                "hp": 1876,
+                "level": 9
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 75,
+                "hp": 1970,
+                "level": 10
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 78,
+                "hp": 2064,
+                "level": 11
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 82,
+                "hp": 2159,
+                "level": 12
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 85,
+                "hp": 2253,
+                "level": 13
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 40,
+                "def": 89,
+                "hp": 2349,
+                "level": 14
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 93,
+                "hp": 2443,
+                "level": 15
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 43,
+                "def": 96,
+                "hp": 2538,
+                "level": 16
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 100,
+                "hp": 2633,
+                "level": 17
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 46,
+                "def": 103,
+                "hp": 2728,
+                "level": 18
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 48,
+                "def": 107,
+                "hp": 2824,
+                "level": 19
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 49,
+                "def": 111,
+                "hp": 2918,
+                "level": 20
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 67,
+                "def": 151,
+                "hp": 3978,
+                "level": 21
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 69,
+                "def": 154,
+                "hp": 4074,
+                "level": 22
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 70,
+                "def": 158,
+                "hp": 4169,
+                "level": 23
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 72,
+                "def": 162,
+                "hp": 4265,
+                "level": 24
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 74,
+                "def": 165,
+                "hp": 4361,
+                "level": 25
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 75,
+                "def": 169,
+                "hp": 4457,
+                "level": 26
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 77,
+                "def": 173,
+                "hp": 4553,
+                "level": 27
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 78,
+                "def": 176,
+                "hp": 4649,
+                "level": 28
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 80,
+                "def": 180,
+                "hp": 4745,
+                "level": 29
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 82,
+                "def": 184,
+                "hp": 4841,
+                "level": 30
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 83,
+                "def": 187,
+                "hp": 4938,
+                "level": 31
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 85,
+                "def": 191,
+                "hp": 5034,
+                "level": 32
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 87,
+                "def": 195,
+                "hp": 5131,
+                "level": 33
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 88,
+                "def": 198,
+                "hp": 5227,
+                "level": 34
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 90,
+                "def": 202,
+                "hp": 5324,
+                "level": 35
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 92,
+                "def": 206,
+                "hp": 5421,
+                "level": 36
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 93,
+                "def": 209,
+                "hp": 5518,
+                "level": 37
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 95,
+                "def": 213,
+                "hp": 5615,
+                "level": 38
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 96,
+                "def": 217,
+                "hp": 5712,
+                "level": 39
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 98,
+                "def": 220,
+                "hp": 5810,
+                "level": 40
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 111,
+                "def": 250,
+                "hp": 6592,
+                "level": 41
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 113,
+                "def": 254,
+                "hp": 6689,
+                "level": 42
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 115,
+                "def": 257,
+                "hp": 6787,
+                "level": 43
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 116,
+                "def": 261,
+                "hp": 6884,
+                "level": 44
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 118,
+                "def": 265,
+                "hp": 6982,
+                "level": 45
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 120,
+                "def": 268,
+                "hp": 7080,
+                "level": 46
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 121,
+                "def": 272,
+                "hp": 7178,
+                "level": 47
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 123,
+                "def": 276,
+                "hp": 7276,
+                "level": 48
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 125,
+                "def": 280,
+                "hp": 7375,
+                "level": 49
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 126,
+                "def": 283,
+                "hp": 7472,
+                "level": 50
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 143,
+                "def": 322,
+                "hp": 8484,
+                "level": 51
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 145,
+                "def": 325,
+                "hp": 8583,
+                "level": 52
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 147,
+                "def": 329,
+                "hp": 8681,
+                "level": 53
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 148,
+                "def": 333,
+                "hp": 8780,
+                "level": 54
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 150,
+                "def": 337,
+                "hp": 8879,
+                "level": 55
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 152,
+                "def": 340,
+                "hp": 8978,
+                "level": 56
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 153,
+                "def": 344,
+                "hp": 9077,
+                "level": 57
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 155,
+                "def": 348,
+                "hp": 9176,
+                "level": 58
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 157,
+                "def": 352,
+                "hp": 9275,
+                "level": 59
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 158,
+                "def": 355,
+                "hp": 9374,
+                "level": 60
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 171,
+                "def": 385,
+                "hp": 10158,
+                "level": 61
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 173,
+                "def": 389,
+                "hp": 10257,
+                "level": 62
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 175,
+                "def": 393,
+                "hp": 10357,
+                "level": 63
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 177,
+                "def": 397,
+                "hp": 10456,
+                "level": 64
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 178,
+                "def": 400,
+                "hp": 10556,
+                "level": 65
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 180,
+                "def": 404,
+                "hp": 10656,
+                "level": 66
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 182,
+                "def": 408,
+                "hp": 10755,
+                "level": 67
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 183,
+                "def": 412,
+                "hp": 10856,
+                "level": 68
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 185,
+                "def": 415,
+                "hp": 10956,
+                "level": 69
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 187,
+                "def": 419,
+                "hp": 11056,
+                "level": 70
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 200,
+                "def": 449,
+                "hp": 11841,
+                "level": 71
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 202,
+                "def": 453,
+                "hp": 11942,
+                "level": 72
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 203,
+                "def": 457,
+                "hp": 12043,
+                "level": 73
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 205,
+                "def": 460,
+                "hp": 12143,
+                "level": 74
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 207,
+                "def": 464,
+                "hp": 12244,
+                "level": 75
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 208,
+                "def": 468,
+                "hp": 12344,
+                "level": 76
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 210,
+                "def": 472,
+                "hp": 12445,
+                "level": 77
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 212,
+                "def": 476,
+                "hp": 12547,
+                "level": 78
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 214,
+                "def": 480,
+                "hp": 12648,
+                "level": 79
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 215,
+                "def": 483,
+                "hp": 12749,
+                "level": 80
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 229,
+                "def": 513,
+                "hp": 13536,
+                "level": 81
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 230,
+                "def": 517,
+                "hp": 13637,
+                "level": 82
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 232,
+                "def": 521,
+                "hp": 13738,
+                "level": 83
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 234,
+                "def": 525,
+                "hp": 13839,
+                "level": 84
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 235,
+                "def": 529,
+                "hp": 13941,
+                "level": 85
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 237,
+                "def": 533,
+                "hp": 14043,
+                "level": 86
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 239,
+                "def": 536,
+                "hp": 14144,
+                "level": 87
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 241,
+                "def": 540,
+                "hp": 14247,
+                "level": 88
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 242,
+                "def": 544,
+                "hp": 14349,
+                "level": 89
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 244,
+                "def": 548,
+                "hp": 14450,
+                "level": 90
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 271,
+                "def": 567,
+                "hp": 14963,
+                "level": 95
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 299,
+                "def": 587,
+                "hp": 15477,
+                "level": 100
+            }
+        ],
+        "birthday": "April 20th",
+        "constellation": "Umbrabilis Orchis",
+        "description": "Uma pessoa misteriosa que afirma trabalhar para o Ministério dos Assuntos Civis, mas \"não existe\" nos registros deles.",
+        "element": "Hydro",
+        "name": "Yelan",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_BOW"
+    },
+    "passives": {
+        "p1": {
+            "description": "Quando há 1/2/3/4 personagens de tipos elementais diferentes, a Vida Máxima de Yelan aumenta 6%/12%/18%/30% respectivamente.",
+            "icon": "UI_Talent_S_Yelan_05",
+            "name": "Estratégia Controlada"
+        },
+        "p2": {
+            "description": "Enquanto o <color=#FFD780FF>Dado Misterioso</color> existir, aumenta o Dano do personagem ativo no campo de batalha em 1%, e a cada 1s aumenta em 3.5%. Permite aumentar o Dano infligido pela personagem em até 50%.\\nSe Dado das Profundezas Claras for lançado novamente enquanto o efeito estiver ativo, esse efeito original será eliminado.",
+            "icon": "UI_Talent_S_Yelan_06",
+            "name": "Adaptação Esperta"
+        },
+        "p3": {
+            "description": "Ganha 25% recompensas a mais quando enviada numa Expedição em Liyue por 20 horas.",
+            "icon": "UI_Talent_Expedition_Liyue",
+            "name": "Longa Consideração"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Inflige <color=#80C0FFFF>Dano Hydro em AdE</color> e lança um \"Dado Misterioso\" que ajuda na batalha.\\n\\n<color=#FFD780FF>Dado Misterioso</color>\\nSegue o personagem e, nas circunstâncias específicas abaixo, realiza Ataques Coordenados que infligem <color=#80C0FFFF>Dano Hydro</color> baseados na Vida Máxima de Yelan:\\n· Pode ser desencadeado uma vez por segundo quando o personagem ativo de sua equipe realizar um Ataque Normal;\\n· Quando o \"Fio da Vida\" de Yelan explodir e atingir os inimigos, realizará um Ataque Coordenado.\\n\\n<i>\"Não é bom ser um viciado em apostas. Eu sou uma banqueira de apostas, deixe-me comparar: você tem um dado, como poderia vencer os meus sete?\"</i>.",
+            "icon": "Skill_E_Yelan_01",
+            "multipliers": {
+                "Dano de Habilidade": [
+                    "7.31% da Vida Máxima",
+                    "7.86% da Vida Máxima",
+                    "8.4% da Vida Máxima",
+                    "9.13% da Vida Máxima",
+                    "9.68% da Vida Máxima",
+                    "10.23% da Vida Máxima",
+                    "10.96% da Vida Máxima",
+                    "11.69% da Vida Máxima",
+                    "12.42% da Vida Máxima",
+                    "13.15% da Vida Máxima",
+                    "13.89% da Vida Máxima",
+                    "14.62% da Vida Máxima",
+                    "15.53% da Vida Máxima",
+                    "16.44% da Vida Máxima",
+                    "17.36% da Vida Máxima"
+                ],
+                "Dano do Dado Misterioso": [
+                    "4.87% da Vida Máxima x3",
+                    "5.24% da Vida Máxima x3",
+                    "5.6% da Vida Máxima x3",
+                    "6.09% da Vida Máxima x3",
+                    "6.46% da Vida Máxima x3",
+                    "6.82% da Vida Máxima x3",
+                    "7.31% da Vida Máxima x3",
+                    "7.8% da Vida Máxima x3",
+                    "8.28% da Vida Máxima x3",
+                    "8.77% da Vida Máxima x3",
+                    "9.26% da Vida Máxima x3",
+                    "9.74% da Vida Máxima x3",
+                    "10.35% da Vida Máxima x3",
+                    "10.96% da Vida Máxima x3",
+                    "11.57% da Vida Máxima x3"
+                ],
+                "Duração": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Energia Elemental": [
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70"
+                ],
+                "Recarga": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ]
+            },
+            "name": "Dado das Profundezas Claras"
+        },
+        "elementalskill": {
+            "description": "Tira seu \"Fio da Vida\" e corre, marcando os inimigos no caminho.\\nQuando termina de correr, o \"Fio da Vida\" explodirá e infligirá <color=#80C0FFFF>Dano Hydro</color> contra os inimigos marcados, baseado na Vida Máxima de Yelan.\\n\\n<color=#FFD780FF>Pressionar</color>\\nCorre uma certa distância para frente rapidamente.\\n\\n<color=#FFD780FF>Manter Pressionado</color>\\nCorre continuamente e aumenta a Resistência Contra Interrupção de Yelan enquanto estiver nesse estado.\\nNesse período, Yelan poderá controlar a direção que corre. Lançar sua habilidade mais uma vez fará com que sua corrida termine.\\n\\nAlém disso, quando o \"Fio da Vida\" explode, Yelan possui uma chance de obter o efeito \"Ruptura\" de acordo com o número de inimigos marcados: cada inimigo marcado aumenta essa chance em 34%.\\n\\n<i>Quando ela captura com seus fios, os grupos de malfeitores e os discípulos de artimanhas conspiratórias serão todos descobertos, e todos sabem que não há mais escapatória</i>.",
+            "icon": "Skill_S_Yelan_01",
+            "multipliers": {
+                "Dano de Habilidade": [
+                    "22.61% da Vida Máxima",
+                    "24.31% da Vida Máxima",
+                    "26.01% da Vida Máxima",
+                    "28.27% da Vida Máxima",
+                    "29.96% da Vida Máxima",
+                    "31.66% da Vida Máxima",
+                    "33.92% da Vida Máxima",
+                    "36.18% da Vida Máxima",
+                    "38.44% da Vida Máxima",
+                    "40.7% da Vida Máxima",
+                    "42.97% da Vida Máxima",
+                    "45.23% da Vida Máxima",
+                    "48.05% da Vida Máxima",
+                    "50.88% da Vida Máxima",
+                    "53.71% da Vida Máxima"
+                ],
+                "Duração Máxima por Manter Pressionado": [
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s"
+                ],
+                "Recarga": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ]
+            },
+            "name": "Rede da Vida Salvadora"
+        },
+        "leveling": {
+            "books": {
+                "104310": 9,
+                "104311": 63,
+                "104312": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113019": 18
+            },
+            "worldmonster": {
+                "112032": 18,
+                "112033": 66,
+                "112034": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até quatro disparos consecutivos com o arco.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nRealiza um <color=#FFD780FF>disparo com mira</color> de maior dano e precisão.\\nAo mirar, o fluxo de água acumulará continuamente na ponta da flecha. Quando a flecha estiver totalmente carregada com esse fluxo torrencial, infligirá <color=#80C0FFFF>Dano Hydro</color>.\\n<color=#FFD780FF>Ruptura</color>\\nDepois de 5s fora de batalha, Yelan entra no estado \"Ruptura\", no qual o carregamento de seu próximo Disparo com Mira terá seu tempo necessário reduzido em 80%, e quando estiver totalmente carregado, ela disparará a sua \"Flecha da Ruptura\", que infligirá <color=#80C0FFFF>Dano Hydro em AdE</color> baseado em sua Vida Máxima.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nDispara uma chuva de flechas em pleno ar antes de atingir o chão, infligindo Dano em uma AdE durante o impacto.",
+            "icon": "Skill_A_02",
+            "multipliers": {
+                "Dano Durante a Queda": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "Dano da Flecha da Ruptura": [
+                    "11.58% da Vida Máxima",
+                    "12.44% da Vida Máxima",
+                    "13.31% da Vida Máxima",
+                    "14.47% da Vida Máxima",
+                    "15.34% da Vida Máxima",
+                    "16.21% da Vida Máxima",
+                    "17.36% da Vida Máxima",
+                    "18.52% da Vida Máxima",
+                    "19.68% da Vida Máxima",
+                    "20.84% da Vida Máxima",
+                    "21.99% da Vida Máxima",
+                    "23.15% da Vida Máxima",
+                    "24.6% da Vida Máxima",
+                    "26.05% da Vida Máxima",
+                    "27.49% da Vida Máxima"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "Dano do 1° Golpe": [
+                    "40.68%",
+                    "43.99%",
+                    "47.3%",
+                    "52.03%",
+                    "55.34%",
+                    "59.13%",
+                    "64.33%",
+                    "69.53%",
+                    "74.73%",
+                    "80.41%",
+                    "86.09%",
+                    "91.76%",
+                    "97.44%",
+                    "103.11%",
+                    "108.79%"
+                ],
+                "Dano do 2° Golpe": [
+                    "39.04%",
+                    "42.22%",
+                    "45.4%",
+                    "49.94%",
+                    "53.12%",
+                    "56.75%",
+                    "61.74%",
+                    "66.74%",
+                    "71.73%",
+                    "77.18%",
+                    "82.63%",
+                    "88.08%",
+                    "93.52%",
+                    "98.97%",
+                    "104.42%"
+                ],
+                "Dano do 3° Golpe": [
+                    "51.6%",
+                    "55.8%",
+                    "60%",
+                    "66%",
+                    "70.2%",
+                    "75%",
+                    "81.6%",
+                    "88.2%",
+                    "94.8%",
+                    "102%",
+                    "109.2%",
+                    "116.4%",
+                    "123.6%",
+                    "130.8%",
+                    "138%"
+                ],
+                "Dano do 4° Golpe": [
+                    "32.51%+32.51%",
+                    "35.15%+35.15%",
+                    "37.8%+37.8%",
+                    "41.58%+41.58%",
+                    "44.23%+44.23%",
+                    "47.25%+47.25%",
+                    "51.41%+51.41%",
+                    "55.57%+55.57%",
+                    "59.72%+59.72%",
+                    "64.26%+64.26%",
+                    "68.8%+68.8%",
+                    "73.33%+73.33%",
+                    "77.87%+77.87%",
+                    "82.4%+82.4%",
+                    "86.94%+86.94%"
+                ],
+                "Disparo com Mira": [
+                    "43.86%",
+                    "47.43%",
+                    "51%",
+                    "56.1%",
+                    "59.67%",
+                    "63.75%",
+                    "69.36%",
+                    "74.97%",
+                    "80.58%",
+                    "86.7%",
+                    "92.82%",
+                    "98.94%",
+                    "105.06%",
+                    "111.18%",
+                    "117.3%"
+                ],
+                "Disparo com Mira com Energização Completa": [
+                    "124%",
+                    "133.3%",
+                    "142.6%",
+                    "155%",
+                    "164.3%",
+                    "173.6%",
+                    "186%",
+                    "198.4%",
+                    "210.8%",
+                    "223.2%",
+                    "235.6%",
+                    "248%",
+                    "263.5%",
+                    "279%",
+                    "294.5%"
+                ]
+            },
+            "name": "Flecha Oculta"
+        }
+    }
+}

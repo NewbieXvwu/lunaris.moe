@@ -1,0 +1,1283 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104131": 1,
+            "104132": 9,
+            "104133": 9,
+            "104134": 6
+        },
+        "elitemonster": {
+            "113065": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101250": 168
+        },
+        "worldmonster": {
+            "112101": 18,
+            "112102": 30,
+            "112103": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "HookMove_Attack",
+            "poise": "LV2/100"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 2s",
+            "icd_source": "Tag: Kinich_Eart_Normal_Bullet",
+            "name": "EArt_Bullet_Normal",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 1.2s",
+            "icd_source": "Tag: Kinich_Eart_Final_Bullet",
+            "name": "EArt_Bullet_Final",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 1.2s",
+            "icd_source": "Tag: Kinich_Eart_Final_Bullet",
+            "name": "EArt_Bullet_Final",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 1.2s",
+            "icd_source": "Tag: Kinich_Eart_Final_Bullet",
+            "name": "EArt_Bullet_Final",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 1.2s",
+            "icd_source": "Tag: Kinich_Eart_Final_Bullet",
+            "name": "EArt_Bullet_Final",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 1.2s",
+            "icd_source": "Tag: Kinich_Eart_Final_Bullet",
+            "name": "EArt_Bullet_Final",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 1.2s",
+            "icd_source": "Tag: Kinich_Eart_Final_Bullet",
+            "name": "EArt_Bullet_Final",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_PixelDragon",
+            "poise": "LV3/35"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "Burst_Laser_Bullet",
+            "poise": "LV2/35"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "ExtraAttack_Gadget",
+            "poise": "LV2/40"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/35"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/150"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/200"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "通过<color=#FFD780FF>悬猎·游骋高狩</color>，基尼奇进行空中摆荡落地后，移动速度提升30%，持续6秒。\\n此外，迴猎贯鳞炮的暴击伤害提升100%。",
+            "icon": "UI_Talent_S_Kinich_01",
+            "name": "七鹦之喙"
+        },
+        "const2": {
+            "description": "基尼奇的元素战技命中敌人时，将使其<color=#99FF88FF>草元素抗性</color>降低30%，持续6秒。\\n此外，基尼奇在进入夜魂加持状态下的首次迴猎贯鳞炮的影响范围提升，造成的伤害提升100%。",
+            "icon": "UI_Talent_S_Kinich_02",
+            "name": "星虎之掌"
+        },
+        "const3": {
+            "description": "<color=#FFD780FF>悬猎·游骋高狩</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Kinich_01",
+            "name": "原鳄之爪"
+        },
+        "const4": {
+            "description": "处于夜魂加持状态下时，基尼奇进行环绕射击或施放迴猎贯鳞炮后，将为他恢复5点元素能量。每2.8秒至多通过这种方式恢复一次元素能量。\\n此外，<color=#FFD780FF>向伟大圣龙致意</color>造成的伤害提升70%。",
+            "icon": "UI_Talent_S_Kinich_03",
+            "name": "蜂鸟之羽"
+        },
+        "const5": {
+            "description": "<color=#FFD780FF>向伟大圣龙致意</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Kinich_02",
+            "name": "吼猴之尾"
+        },
+        "const6": {
+            "description": "迴猎贯鳞炮在命中敌人后，将在敌人间弹跳一次，造成基尼奇的攻击力700%的<color=#99FF88FF>草元素伤害</color>。\\n如果本次迴猎贯鳞炮触发了突破天赋「焰灵的契约」或命之座「星虎之掌」对迴猎贯鳞炮的增强效果，它所引发的弹跳攻击也会获得上述效果的增强。",
+            "icon": "UI_Talent_S_Kinich_04",
+            "name": "瑞兽之形"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.4s",
+            "chance": "100%",
+            "particles": "5",
+            "source": "ElemBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Kinich",
+        "forward": "UI_AvatarIcon_Kinich"
+    },
+    "info": {
+        "attributes": [
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 62,
+                "hp": 1001,
+                "level": 1
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 68,
+                "hp": 1084,
+                "level": 2
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 73,
+                "hp": 1167,
+                "level": 3
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 78,
+                "hp": 1251,
+                "level": 4
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 83,
+                "hp": 1334,
+                "level": 5
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 88,
+                "hp": 1418,
+                "level": 6
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 94,
+                "hp": 1501,
+                "level": 7
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 99,
+                "hp": 1586,
+                "level": 8
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 43,
+                "def": 104,
+                "hp": 1670,
+                "level": 9
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 45,
+                "def": 109,
+                "hp": 1753,
+                "level": 10
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 47,
+                "def": 115,
+                "hp": 1837,
+                "level": 11
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 50,
+                "def": 120,
+                "hp": 1921,
+                "level": 12
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 52,
+                "def": 125,
+                "hp": 2005,
+                "level": 13
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 54,
+                "def": 130,
+                "hp": 2090,
+                "level": 14
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 56,
+                "def": 136,
+                "hp": 2174,
+                "level": 15
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 58,
+                "def": 141,
+                "hp": 2258,
+                "level": 16
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 61,
+                "def": 146,
+                "hp": 2343,
+                "level": 17
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 63,
+                "def": 151,
+                "hp": 2427,
+                "level": 18
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 65,
+                "def": 157,
+                "hp": 2512,
+                "level": 19
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 67,
+                "def": 162,
+                "hp": 2597,
+                "level": 20
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 92,
+                "def": 221,
+                "hp": 3540,
+                "level": 21
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 94,
+                "def": 226,
+                "hp": 3625,
+                "level": 22
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 96,
+                "def": 231,
+                "hp": 3710,
+                "level": 23
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 98,
+                "def": 237,
+                "hp": 3795,
+                "level": 24
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 100,
+                "def": 242,
+                "hp": 3880,
+                "level": 25
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 103,
+                "def": 247,
+                "hp": 3966,
+                "level": 26
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 105,
+                "def": 253,
+                "hp": 4051,
+                "level": 27
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 107,
+                "def": 258,
+                "hp": 4136,
+                "level": 28
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 109,
+                "def": 263,
+                "hp": 4223,
+                "level": 29
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 111,
+                "def": 269,
+                "hp": 4308,
+                "level": 30
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 114,
+                "def": 274,
+                "hp": 4394,
+                "level": 31
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 116,
+                "def": 279,
+                "hp": 4480,
+                "level": 32
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 118,
+                "def": 285,
+                "hp": 4566,
+                "level": 33
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 120,
+                "def": 290,
+                "hp": 4651,
+                "level": 34
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 122,
+                "def": 295,
+                "hp": 4737,
+                "level": 35
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 125,
+                "def": 301,
+                "hp": 4824,
+                "level": 36
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 127,
+                "def": 306,
+                "hp": 4910,
+                "level": 37
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 129,
+                "def": 311,
+                "hp": 4996,
+                "level": 38
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 131,
+                "def": 317,
+                "hp": 5082,
+                "level": 39
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 134,
+                "def": 322,
+                "hp": 5170,
+                "level": 40
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 152,
+                "def": 366,
+                "hp": 5865,
+                "level": 41
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 154,
+                "def": 371,
+                "hp": 5952,
+                "level": 42
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 156,
+                "def": 377,
+                "hp": 6040,
+                "level": 43
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 158,
+                "def": 382,
+                "hp": 6126,
+                "level": 44
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 161,
+                "def": 387,
+                "hp": 6213,
+                "level": 45
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 163,
+                "def": 393,
+                "hp": 6300,
+                "level": 46
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 165,
+                "def": 398,
+                "hp": 6387,
+                "level": 47
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 167,
+                "def": 404,
+                "hp": 6474,
+                "level": 48
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 170,
+                "def": 409,
+                "hp": 6562,
+                "level": 49
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 172,
+                "def": 415,
+                "hp": 6649,
+                "level": 50
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 195,
+                "def": 471,
+                "hp": 7549,
+                "level": 51
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 197,
+                "def": 476,
+                "hp": 7637,
+                "level": 52
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 200,
+                "def": 482,
+                "hp": 7725,
+                "level": 53
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 202,
+                "def": 487,
+                "hp": 7813,
+                "level": 54
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 204,
+                "def": 493,
+                "hp": 7901,
+                "level": 55
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 207,
+                "def": 498,
+                "hp": 7989,
+                "level": 56
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 209,
+                "def": 504,
+                "hp": 8077,
+                "level": 57
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 211,
+                "def": 509,
+                "hp": 8165,
+                "level": 58
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 213,
+                "def": 515,
+                "hp": 8253,
+                "level": 59
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 216,
+                "def": 520,
+                "hp": 8341,
+                "level": 60
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 234,
+                "def": 564,
+                "hp": 9039,
+                "level": 61
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 236,
+                "def": 569,
+                "hp": 9127,
+                "level": 62
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 238,
+                "def": 575,
+                "hp": 9216,
+                "level": 63
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 241,
+                "def": 580,
+                "hp": 9304,
+                "level": 64
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 243,
+                "def": 586,
+                "hp": 9393,
+                "level": 65
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 245,
+                "def": 591,
+                "hp": 9482,
+                "level": 66
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 247,
+                "def": 597,
+                "hp": 9571,
+                "level": 67
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 250,
+                "def": 602,
+                "hp": 9660,
+                "level": 68
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 252,
+                "def": 608,
+                "hp": 9749,
+                "level": 69
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 254,
+                "def": 613,
+                "hp": 9838,
+                "level": 70
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 272,
+                "def": 657,
+                "hp": 10537,
+                "level": 71
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 275,
+                "def": 662,
+                "hp": 10627,
+                "level": 72
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 277,
+                "def": 668,
+                "hp": 10716,
+                "level": 73
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 279,
+                "def": 674,
+                "hp": 10805,
+                "level": 74
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 282,
+                "def": 679,
+                "hp": 10895,
+                "level": 75
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 284,
+                "def": 685,
+                "hp": 10984,
+                "level": 76
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 286,
+                "def": 690,
+                "hp": 11074,
+                "level": 77
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 289,
+                "def": 696,
+                "hp": 11164,
+                "level": 78
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 291,
+                "def": 702,
+                "hp": 11254,
+                "level": 79
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 293,
+                "def": 707,
+                "hp": 11345,
+                "level": 80
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 311,
+                "def": 751,
+                "hp": 12044,
+                "level": 81
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 314,
+                "def": 756,
+                "hp": 12134,
+                "level": 82
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 316,
+                "def": 762,
+                "hp": 12225,
+                "level": 83
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 318,
+                "def": 768,
+                "hp": 12315,
+                "level": 84
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 321,
+                "def": 773,
+                "hp": 12405,
+                "level": 85
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 323,
+                "def": 779,
+                "hp": 12496,
+                "level": 86
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 325,
+                "def": 785,
+                "hp": 12586,
+                "level": 87
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 328,
+                "def": 790,
+                "hp": 12677,
+                "level": 88
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 330,
+                "def": 796,
+                "hp": 12768,
+                "level": 89
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 332,
+                "def": 802,
+                "hp": 12858,
+                "level": 90
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 370,
+                "def": 830,
+                "hp": 13315,
+                "level": 95
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 407,
+                "def": 859,
+                "hp": 13772,
+                "level": 100
+            }
+        ],
+        "birthday": "November 11th",
+        "constellation": "幻瑞兽座",
+        "description": "维茨特兰的猎龙人，精于度量代价。",
+        "element": "Dendro",
+        "name": "基尼奇",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_CLAYMORE"
+    },
+    "passives": {
+        "p1": {
+            "description": "处于夜魂加持状态下时，基尼奇的元素战技命中的敌人，将陷入「噩地」状态，在受到燃烧反应或烈绽放反应伤害时，为基尼奇产生7点夜魂值，每0.8秒至多通过这种方式产生一次夜魂值。噩地状态持续直至基尼奇此次夜魂加持状态结束。",
+            "icon": "UI_Talent_S_Kinich_05",
+            "name": "噩地的代价"
+        },
+        "p2": {
+            "description": "队伍中的附近的角色触发「夜魂迸发」后，将为基尼奇赋予一层「猎人心得」，持续15秒，至多叠加2层。基尼奇在施放<color=#FFD780FF>悬猎·游骋高狩</color>的迴猎贯鳞炮时，将消耗所有的「猎人心得」，并依据消耗的层数，每层使本次迴猎贯鳞炮造成的伤害基于基尼奇攻击力的320%提高。",
+            "icon": "UI_Talent_S_Kinich_06",
+            "name": "焰灵的契约"
+        },
+        "p3": {
+            "description": "通过<color=#FFD780FF>悬猎·游骋高狩</color>，基尼奇进行空中摆荡后处于空中时，能够消耗10点燃素以再次进行空中摆荡。\\n在纳塔存在燃素机制的区域时，能够进行夜魂传递·基尼奇。当前场上角色处于冲刺状态、特定天赋赋予的移动状态下，或是位于空中时，切换基尼奇登场时，基尼奇将依照条件，进行以下行动之一：\\n·朝向可以交互的卷叶符印时：向它发射钩索以进行移动；\\n·身边有敌人并处于战斗状态时：向该敌人施放悬猎·游骋高狩；\\n否则，发射钩索，进行空中摆荡。基尼奇将优先以符合条件的卷叶符印为发射钩索的目标。\\n自己的队伍每10秒能触发一次夜魂传递。\\n\\n在与卷叶符印等能够与匿叶龙交互的物件互动时，悬猎·游骋高狩将被替换为「匿叶仿生」，通过匿叶仿生与这些物件交互时，这些物件的交互规则沿袭匿叶龙的交互规则，并且不会使悬猎·游骋高狩进入冷却。",
+            "icon": "UI_Talent_S_Kinich_08",
+            "name": "夜域赐礼·索报皆偿"
+        },
+        "p4": {
+            "description": "在纳塔存在燃素机制的区域时，与部分采集物交互能够使队伍中自己的角色移动速度提高15%，持续10秒。此外，在小地图上显示周围的<color=#FFD780FF>纳塔区域特产</color>的位置。",
+            "icon": "UI_Talent_S_Kachina_08",
+            "name": "疾行的使令"
+        }
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "（有限度、有条件、有节制地，依照契约，部分、暂时）解放「圣龙阿乔」的力量，造成具有夜魂性质的<color=#99FF88FF>草元素范围伤害</color>。圣龙阿乔将在持续期间周期性释放龙息，造成具有夜魂性质的<color=#99FF88FF>草元素范围伤害</color>。\\n施放时，若基尼奇处于夜魂加持状态下，此次夜魂加持的持续时间延长1.7秒。\\n\\n<i>「没错！站在汝等面前的便是伟大圣龙库胡勒阿乔，还不快快上前亲吻吾的脚背！」</i>",
+            "icon": "Skill_E_Kinich_01",
+            "multipliers": {
+                "元素能量": [
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70"
+                ],
+                "冷却时间": [
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒"
+                ],
+                "技能伤害": [
+                    "134%",
+                    "144.05%",
+                    "154.1%",
+                    "167.5%",
+                    "177.55%",
+                    "187.6%",
+                    "201%",
+                    "214.4%",
+                    "227.8%",
+                    "241.2%",
+                    "254.6%",
+                    "268%",
+                    "284.75%",
+                    "301.5%",
+                    "318.25%"
+                ],
+                "持续时间": [
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒"
+                ],
+                "龙息伤害": [
+                    "120.74%",
+                    "129.79%",
+                    "138.85%",
+                    "150.92%",
+                    "159.98%",
+                    "169.03%",
+                    "181.1%",
+                    "193.18%",
+                    "205.25%",
+                    "217.32%",
+                    "229.4%",
+                    "241.47%",
+                    "256.56%",
+                    "271.66%",
+                    "286.75%"
+                ]
+            },
+            "name": "向伟大圣龙致意"
+        },
+        "elementalskill": {
+            "description": "以狩猎巨兽的心得，快速移动或对敌人发起攻击。\\n若身边存在敌人或能被攻击的物件，会将钩索链接在目标上，以0点夜魂值进入夜魂加持状态；否则，会向前方发射钩索进行空中摆荡，并使冷却时间缩短60%；\\n能够长按施放。长按时，能够瞄准以决定发射钩索的方向。\\n\\n<color=#FFD780FF>夜魂加持·基尼奇</color>\\n基尼奇的夜魂加持状态持续10秒，每秒将产生2点夜魂值。\\n在夜魂加持状态下，基尼奇会以钩索链接身边的敌人，并据此改变攻击方式：\\n·进行普通攻击时依据当前移动的方向，以链接的目标为中心，进行环绕射击，造成具有夜魂性质的<color=#99FF88FF>草元素伤害</color>，并产生3点夜魂值。环绕射击造成的伤害视为元素战技伤害；\\n·夜魂值达到上限时，能够施放元素战技「迴猎贯鳞炮」：消耗所有夜魂值，造成具有夜魂性质的<color=#99FF88FF>草元素伤害</color>。长按施放迴猎贯鳞炮时，能够瞄准以决定攻击的目标。施放迴猎贯鳞炮后，基尼奇将会尝试链接迴猎贯鳞炮的目标。\\n在夜魂加持状态下，链接敌人或施放迴猎贯鳞炮后，将会在敌人身边产生死角区，基尼奇进入死角区会产生4点夜魂值，并移除死角区。\\n链接因超出距离等原因断开时，进行普通攻击会与身边的敌人重新建立链接并进行环绕射击。\\n\\n<i>「凡事皆有代价，希望你能给出合适的价码…什么？我可不接受分期付款。」</i>",
+            "icon": "Skill_S_Kinich_01",
+            "multipliers": {
+                "冷却时间": [
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒"
+                ],
+                "夜魂值上限": [
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点"
+                ],
+                "环绕射击伤害": [
+                    "57.28%*2",
+                    "61.58%*2",
+                    "65.87%*2",
+                    "71.6%*2",
+                    "75.9%*2",
+                    "80.19%*2",
+                    "85.92%*2",
+                    "91.65%*2",
+                    "97.38%*2",
+                    "103.1%*2",
+                    "108.83%*2",
+                    "114.56%*2",
+                    "121.72%*2",
+                    "128.88%*2",
+                    "136.04%*2"
+                ],
+                "迴猎贯鳞炮伤害": [
+                    "687.44%",
+                    "739%",
+                    "790.56%",
+                    "859.3%",
+                    "910.86%",
+                    "962.42%",
+                    "1031.16%",
+                    "1099.9%",
+                    "1168.65%",
+                    "1237.39%",
+                    "1306.14%",
+                    "1374.88%",
+                    "1460.81%",
+                    "1546.74%",
+                    "1632.67%"
+                ]
+            },
+            "name": "悬猎·游骋高狩"
+        },
+        "leveling": {
+            "books": {
+                "104350": 9,
+                "104351": 63,
+                "104352": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113062": 18
+            },
+            "worldmonster": {
+                "112101": 18,
+                "112102": 66,
+                "112103": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>普通攻击</color>\\n进行至多三段的连续攻击。\\n通过元素战技「悬猎·游骋高狩」进行空中摆荡后，在落地之前能在空中进行一次普通攻击。\\n\\n<color=#FFD780FF>重击</color>\\n消耗一定体力，向前方旋转地投出大剑攻击敌人。\\n\\n<color=#FFD780FF>下落攻击</color>\\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+            "icon": "Skill_A_04",
+            "multipliers": {
+                "一段伤害": [
+                    "98.99%",
+                    "107.04%",
+                    "115.1%",
+                    "126.61%",
+                    "134.67%",
+                    "143.88%",
+                    "156.54%",
+                    "169.2%",
+                    "181.86%",
+                    "195.67%",
+                    "209.48%",
+                    "223.29%",
+                    "237.11%",
+                    "250.92%",
+                    "264.73%"
+                ],
+                "三段伤害": [
+                    "123.5%",
+                    "133.55%",
+                    "143.6%",
+                    "157.96%",
+                    "168.01%",
+                    "179.5%",
+                    "195.3%",
+                    "211.09%",
+                    "226.89%",
+                    "244.12%",
+                    "261.35%",
+                    "278.58%",
+                    "295.82%",
+                    "313.05%",
+                    "330.28%"
+                ],
+                "下坠期间伤害": [
+                    "74.59%",
+                    "80.66%",
+                    "86.73%",
+                    "95.4%",
+                    "101.47%",
+                    "108.41%",
+                    "117.95%",
+                    "127.49%",
+                    "137.03%",
+                    "147.44%",
+                    "157.85%",
+                    "168.26%",
+                    "178.66%",
+                    "189.07%",
+                    "199.48%"
+                ],
+                "二段伤害": [
+                    "82.9%",
+                    "89.65%",
+                    "96.4%",
+                    "106.04%",
+                    "112.79%",
+                    "120.5%",
+                    "131.1%",
+                    "141.71%",
+                    "152.31%",
+                    "163.88%",
+                    "175.45%",
+                    "187.02%",
+                    "198.58%",
+                    "210.15%",
+                    "221.72%"
+                ],
+                "低空/高空坠地冲击伤害": [
+                    "149.14%/186.29%",
+                    "161.28%/201.45%",
+                    "173.42%/216.62%",
+                    "190.77%/238.28%",
+                    "202.91%/253.44%",
+                    "216.78%/270.77%",
+                    "235.86%/294.6%",
+                    "254.93%/318.42%",
+                    "274.01%/342.25%",
+                    "294.82%/368.25%",
+                    "315.63%/394.24%",
+                    "336.44%/420.23%",
+                    "357.25%/446.23%",
+                    "378.06%/472.22%",
+                    "398.87%/498.21%"
+                ],
+                "空中普通攻击伤害": [
+                    "167.7%",
+                    "181.35%",
+                    "195%",
+                    "214.5%",
+                    "228.15%",
+                    "243.75%",
+                    "265.2%",
+                    "286.65%",
+                    "308.1%",
+                    "331.5%",
+                    "354.9%",
+                    "378.3%",
+                    "401.7%",
+                    "425.1%",
+                    "448.5%"
+                ],
+                "重击伤害": [
+                    "48.42%*3",
+                    "52.36%*3",
+                    "56.3%*3",
+                    "61.93%*3",
+                    "65.87%*3",
+                    "70.38%*3",
+                    "76.57%*3",
+                    "82.76%*3",
+                    "88.95%*3",
+                    "95.71%*3",
+                    "102.47%*3",
+                    "109.22%*3",
+                    "115.98%*3",
+                    "122.73%*3",
+                    "129.49%*3"
+                ],
+                "重击体力消耗": [
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点"
+                ]
+            },
+            "name": "夜阳斗技"
+        }
+    }
+}

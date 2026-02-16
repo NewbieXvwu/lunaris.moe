@@ -1,0 +1,1264 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104111": 1,
+            "104112": 9,
+            "104113": 9,
+            "104114": 6
+        },
+        "elitemonster": {
+            "113024": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101205": 168
+        },
+        "worldmonster": {
+            "112008": 18,
+            "112009": 30,
+            "112010": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "4U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "Bullet_Arrow_NoFire_Material",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "-",
+            "gauge": "4U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "Bullet_Arrow_WithFire_Material",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "Bullet_Arrow_WithFire_Material",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "Bullet_GoldFish_Material",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "Fire",
+            "gauge": "0U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Grp: default",
+            "name": "ElementalArt",
+            "poise": "LV3/60"
+        },
+        {
+            "element": "Fire",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "Bullet_ElementalBurst_Material",
+            "poise": "LV7/220"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_SetTag",
+            "poise": "LV3/60"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "<color=#FFD780FF>琉金云间草</color>的琉金火光持续时间延长4秒。\\n此外，处于宵宫自己的琉金火光影响下的敌人在持续期间内被击败时，宵宫的攻击力提高20%，持续20秒。",
+            "icon": "UI_Talent_S_Yoimiya_01",
+            "name": "赤玉琉金"
+        },
+        "const2": {
+            "description": "宵宫的<color=#FF9999FF>火元素伤害</color>造成暴击后的6秒内，宵宫获得25%<color=#FF9999FF>火元素伤害加成</color>。\\n宵宫处于队伍后台时，同样能获得该效果。",
+            "icon": "UI_Talent_S_Yoimiya_02",
+            "name": "万灯送火"
+        },
+        "const3": {
+            "description": "<color=#FFD780FF>焰硝庭火舞</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Yoimiya_01",
+            "name": "鼠火戏法"
+        },
+        "const4": {
+            "description": "宵宫自己的琉金火光发生爆炸时，<color=#FFD780FF>焰硝庭火舞</color>的冷却时间减少1.2秒。",
+            "icon": "UI_Talent_S_Yoimiya_03",
+            "name": "花火职人心得"
+        },
+        "const5": {
+            "description": "<color=#FFD780FF>琉金云间草</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Yoimiya_02",
+            "name": "真夏宵祭锦绘"
+        },
+        "const6": {
+            "description": "在<color=#FFD780FF>焰硝庭火舞</color>的持续期间内，宵宫主动进行普通攻击时，有50%几率发射一枚额外的炽焰箭，造成原本60%的伤害。该伤害视为普通攻击伤害。",
+            "icon": "UI_Talent_S_Yoimiya_04",
+            "name": "长野原龙势流星群"
+        }
+    },
+    "energy": [
+        {
+            "cd": "2s",
+            "chance": "100%",
+            "particles": "1",
+            "source": "Ball"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Yoimiya",
+        "forward": "UI_AvatarIcon_Yoimiya"
+    },
+    "info": {
+        "attributes": [
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 48,
+                "hp": 791,
+                "level": 1
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 52,
+                "hp": 857,
+                "level": 2
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 56,
+                "hp": 923,
+                "level": 3
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 60,
+                "hp": 989,
+                "level": 4
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 64,
+                "hp": 1055,
+                "level": 5
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 68,
+                "hp": 1121,
+                "level": 6
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 72,
+                "hp": 1187,
+                "level": 7
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 40,
+                "def": 76,
+                "hp": 1253,
+                "level": 8
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 80,
+                "hp": 1320,
+                "level": 9
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 84,
+                "hp": 1385,
+                "level": 10
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 46,
+                "def": 88,
+                "hp": 1452,
+                "level": 11
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 48,
+                "def": 92,
+                "hp": 1518,
+                "level": 12
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 50,
+                "def": 96,
+                "hp": 1585,
+                "level": 13
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 52,
+                "def": 100,
+                "hp": 1652,
+                "level": 14
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 55,
+                "def": 104,
+                "hp": 1719,
+                "level": 15
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 57,
+                "def": 108,
+                "hp": 1785,
+                "level": 16
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 59,
+                "def": 112,
+                "hp": 1852,
+                "level": 17
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 61,
+                "def": 116,
+                "hp": 1919,
+                "level": 18
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 63,
+                "def": 120,
+                "hp": 1986,
+                "level": 19
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 65,
+                "def": 124,
+                "hp": 2053,
+                "level": 20
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 89,
+                "def": 169,
+                "hp": 2798,
+                "level": 21
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 91,
+                "def": 173,
+                "hp": 2865,
+                "level": 22
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 93,
+                "def": 177,
+                "hp": 2933,
+                "level": 23
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 95,
+                "def": 181,
+                "hp": 3000,
+                "level": 24
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 97,
+                "def": 186,
+                "hp": 3067,
+                "level": 25
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 100,
+                "def": 190,
+                "hp": 3135,
+                "level": 26
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 102,
+                "def": 194,
+                "hp": 3203,
+                "level": 27
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 104,
+                "def": 198,
+                "hp": 3270,
+                "level": 28
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 106,
+                "def": 202,
+                "hp": 3338,
+                "level": 29
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 108,
+                "def": 206,
+                "hp": 3405,
+                "level": 30
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 110,
+                "def": 210,
+                "hp": 3473,
+                "level": 31
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 112,
+                "def": 214,
+                "hp": 3541,
+                "level": 32
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 115,
+                "def": 218,
+                "hp": 3609,
+                "level": 33
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 117,
+                "def": 222,
+                "hp": 3676,
+                "level": 34
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 119,
+                "def": 227,
+                "hp": 3745,
+                "level": 35
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 121,
+                "def": 231,
+                "hp": 3813,
+                "level": 36
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 123,
+                "def": 235,
+                "hp": 3881,
+                "level": 37
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 125,
+                "def": 239,
+                "hp": 3949,
+                "level": 38
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 128,
+                "def": 243,
+                "hp": 4018,
+                "level": 39
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 130,
+                "def": 247,
+                "hp": 4086,
+                "level": 40
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 147,
+                "def": 280,
+                "hp": 4636,
+                "level": 41
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 149,
+                "def": 285,
+                "hp": 4705,
+                "level": 42
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 152,
+                "def": 289,
+                "hp": 4774,
+                "level": 43
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 154,
+                "def": 293,
+                "hp": 4842,
+                "level": 44
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 156,
+                "def": 297,
+                "hp": 4911,
+                "level": 45
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 158,
+                "def": 301,
+                "hp": 4980,
+                "level": 46
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 160,
+                "def": 305,
+                "hp": 5049,
+                "level": 47
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 163,
+                "def": 310,
+                "hp": 5118,
+                "level": 48
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 165,
+                "def": 314,
+                "hp": 5187,
+                "level": 49
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 167,
+                "def": 318,
+                "hp": 5256,
+                "level": 50
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 190,
+                "def": 361,
+                "hp": 5968,
+                "level": 51
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 192,
+                "def": 365,
+                "hp": 6037,
+                "level": 52
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 194,
+                "def": 369,
+                "hp": 6106,
+                "level": 53
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 196,
+                "def": 374,
+                "hp": 6176,
+                "level": 54
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 198,
+                "def": 378,
+                "hp": 6245,
+                "level": 55
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 201,
+                "def": 382,
+                "hp": 6315,
+                "level": 56
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 203,
+                "def": 386,
+                "hp": 6385,
+                "level": 57
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 205,
+                "def": 390,
+                "hp": 6454,
+                "level": 58
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 207,
+                "def": 395,
+                "hp": 6524,
+                "level": 59
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 209,
+                "def": 399,
+                "hp": 6593,
+                "level": 60
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 227,
+                "def": 432,
+                "hp": 7145,
+                "level": 61
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 229,
+                "def": 436,
+                "hp": 7215,
+                "level": 62
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 231,
+                "def": 441,
+                "hp": 7285,
+                "level": 63
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 234,
+                "def": 445,
+                "hp": 7355,
+                "level": 64
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 236,
+                "def": 449,
+                "hp": 7425,
+                "level": 65
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 238,
+                "def": 453,
+                "hp": 7496,
+                "level": 66
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 240,
+                "def": 458,
+                "hp": 7565,
+                "level": 67
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 243,
+                "def": 462,
+                "hp": 7636,
+                "level": 68
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 245,
+                "def": 466,
+                "hp": 7706,
+                "level": 69
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 247,
+                "def": 470,
+                "hp": 7777,
+                "level": 70
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 265,
+                "def": 504,
+                "hp": 8329,
+                "level": 71
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 267,
+                "def": 508,
+                "hp": 8400,
+                "level": 72
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 269,
+                "def": 512,
+                "hp": 8471,
+                "level": 73
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 271,
+                "def": 517,
+                "hp": 8541,
+                "level": 74
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 274,
+                "def": 521,
+                "hp": 8612,
+                "level": 75
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 276,
+                "def": 525,
+                "hp": 8683,
+                "level": 76
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 278,
+                "def": 530,
+                "hp": 8754,
+                "level": 77
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 280,
+                "def": 534,
+                "hp": 8825,
+                "level": 78
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 283,
+                "def": 538,
+                "hp": 8896,
+                "level": 79
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 285,
+                "def": 542,
+                "hp": 8968,
+                "level": 80
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 302,
+                "def": 576,
+                "hp": 9521,
+                "level": 81
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 305,
+                "def": 580,
+                "hp": 9592,
+                "level": 82
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 307,
+                "def": 585,
+                "hp": 9663,
+                "level": 83
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 309,
+                "def": 589,
+                "hp": 9734,
+                "level": 84
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 312,
+                "def": 593,
+                "hp": 9806,
+                "level": 85
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 314,
+                "def": 598,
+                "hp": 9878,
+                "level": 86
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 316,
+                "def": 602,
+                "hp": 9949,
+                "level": 87
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 318,
+                "def": 606,
+                "hp": 10021,
+                "level": 88
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 321,
+                "def": 611,
+                "hp": 10093,
+                "level": 89
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 323,
+                "def": 615,
+                "hp": 10164,
+                "level": 90
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 359,
+                "def": 637,
+                "hp": 10525,
+                "level": 95
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 396,
+                "def": 659,
+                "hp": 10887,
+                "level": 100
+            }
+        ],
+        "birthday": "June 21st",
+        "constellation": "琉金座",
+        "description": "「长野原烟花店」店长，「夏祭的女王」，将人们的愿望寄托于烟花中的能工巧匠。",
+        "element": "Pyro",
+        "name": "宵宫",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_BOW"
+    },
+    "passives": {
+        "p1": {
+            "description": "在<color=#FFD780FF>焰硝庭火舞</color>的持续期间内，宵宫的普通攻击命中后，将为宵宫提供2%<color=#FF9999FF>火元素伤害加成</color>。该效果持续3秒，至多叠加10次。",
+            "icon": "UI_Talent_S_Yoimiya_05",
+            "name": "袖火百景图"
+        },
+        "p2": {
+            "description": "施放<color=#FFD780FF>琉金云间草</color>后的15秒内，附近的队伍中所有其他角色（不包括宵宫自己）攻击力提高10%。此外，依据宵宫自己施放<color=#FFD780FF>琉金云间草</color>时突破天赋「袖火百景图」的叠加层数，将额外提升上述的攻击力效果，每层提升1%攻击力。",
+            "icon": "UI_Talent_S_Yoimiya_06",
+            "name": "炎昼风物诗"
+        },
+        "p3": {
+            "description": "制作装潢、摆件、景观类摆设时，有100%概率返还部分材料。",
+            "icon": "UI_Talent_S_Yoimiya_07",
+            "name": "炎色配比法"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "宵宫随着自创的烟火「琉金云间草」腾跃至空中，向前发射满载惊喜的焰火箭，造成<color=#FF9999FF>火元素范围伤害</color>，并对命中的其中一名敌人附上「琉金火光」。\\n\\n<color=#FFD780FF>琉金火光</color>\\n队伍中所有角色（不包括宵宫自己）的普通攻击、重击、下落攻击、元素战技、元素爆发命中处于琉金火光影响下的敌人，会引发爆炸，造成<color=#FF9999FF>火元素范围伤害</color>。\\n处于琉金火光影响下的敌人在持续期间内被击败时，琉金火光将转移至附近的另一名敌人，并继承持续时间。\\n\\n琉金火光每2秒至多引发一次爆炸。宵宫倒下时，由宵宫自己的技能产生的琉金火光效果会解除。\\n\\n<i>烟火是人造的星光、向天而行的彗星。即使只能停留一瞬间，煌煌的光也能在大家的心中长留吧。</i>",
+            "icon": "Skill_E_Yoimiya_01",
+            "multipliers": {
+                "元素能量": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "冷却时间": [
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒"
+                ],
+                "技能伤害": [
+                    "127.2%",
+                    "136.74%",
+                    "146.28%",
+                    "159%",
+                    "168.54%",
+                    "178.08%",
+                    "190.8%",
+                    "203.52%",
+                    "216.24%",
+                    "228.96%",
+                    "241.68%",
+                    "254.4%",
+                    "270.3%",
+                    "286.2%",
+                    "302.1%"
+                ],
+                "持续时间": [
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒"
+                ],
+                "琉金火光爆炸伤害": [
+                    "122%",
+                    "131.15%",
+                    "140.3%",
+                    "152.5%",
+                    "161.65%",
+                    "170.8%",
+                    "183%",
+                    "195.2%",
+                    "207.4%",
+                    "219.6%",
+                    "231.8%",
+                    "244%",
+                    "259.25%",
+                    "274.5%",
+                    "289.75%"
+                ]
+            },
+            "name": "琉金云间草"
+        },
+        "elementalskill": {
+            "description": "舞动线香烟火，让用于烟火的焰硝环绕在宵宫的身边。\\n\\n<color=#FFD780FF>庭火焰硝</color>\\n在持续期间内，将宵宫的普通攻击发射的箭矢转为炽焰箭，造成的伤害转为<color=#FF9999FF>火元素伤害</color>，并提高普通攻击造成的伤害；「普通攻击·烟火打扬」的二段蓄力在持续期间内无法再产生焰硝矢。\\n\\n效果将在宵宫退场时解除。\\n\\n<i>「庭火」是宵宫自己开发的线香烟火，不需要事前准备与训练就能燃放，因此很受欢迎。天领奉行在多次祝融事件后下令禁止在城内燃放庭火，但小小的明亮火星仍然常常在夜里亮起。如果从高处看，或许会像闪烁的星光一样。</i>",
+            "icon": "Skill_S_Yoimiya_01",
+            "multipliers": {
+                "冷却时间": [
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒"
+                ],
+                "持续时间": [
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒"
+                ],
+                "炽焰箭伤害": [
+                    "137.91%普通攻击伤害",
+                    "140.18%普通攻击伤害",
+                    "142.45%普通攻击伤害",
+                    "145.4%普通攻击伤害",
+                    "147.67%普通攻击伤害",
+                    "149.94%普通攻击伤害",
+                    "152.89%普通攻击伤害",
+                    "155.84%普通攻击伤害",
+                    "158.79%普通攻击伤害",
+                    "161.74%普通攻击伤害",
+                    "164.7%普通攻击伤害",
+                    "167.65%普通攻击伤害",
+                    "170.6%普通攻击伤害",
+                    "173.55%普通攻击伤害",
+                    "176.5%普通攻击伤害"
+                ]
+            },
+            "name": "焰硝庭火舞"
+        },
+        "leveling": {
+            "books": {
+                "104320": 9,
+                "104321": 63,
+                "104322": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113017": 18
+            },
+            "worldmonster": {
+                "112008": 18,
+                "112009": 66,
+                "112010": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>普通攻击</color>\\n进行至多五段的连续弓箭射击。\\n\\n<color=#FFD780FF>重击</color>\\n进行伤害更高、更为精准的<color=#FFD780FF>瞄准射击</color>。\\n瞄准时，火焰会在箭矢上持续积聚，并随攻击发射出去。根据蓄力时间长短，能造成不同的效果：\\n·一段蓄力：射出附有烈焰的箭矢，造成<color=#FF9999FF>火元素伤害</color>；\\n·二段蓄力：依据蓄力时间，产生至多3枚焰硝矢，随宵宫这次瞄准射击释放。焰硝矢会自行追踪附近的敌人，并在命中时造成<color=#FF9999FF>火元素伤害</color>。\\n\\n<color=#FFD780FF>下落攻击</color>\\n从空中射出箭雨，并迅速下坠冲击地面，在落地时造成范围伤害。",
+            "icon": "Skill_A_02",
+            "multipliers": {
+                "一段伤害": [
+                    "35.64%*2",
+                    "38.07%*2",
+                    "40.5%*2",
+                    "43.74%*2",
+                    "46.17%*2",
+                    "49%*2",
+                    "52.65%*2",
+                    "56.3%*2",
+                    "59.94%*2",
+                    "63.59%*2",
+                    "67.23%*2",
+                    "70.88%*2",
+                    "74.52%*2",
+                    "78.17%*2",
+                    "81.81%*2"
+                ],
+                "三段伤害": [
+                    "88.89%",
+                    "94.95%",
+                    "101.01%",
+                    "109.09%",
+                    "115.15%",
+                    "122.22%",
+                    "131.31%",
+                    "140.4%",
+                    "149.49%",
+                    "158.59%",
+                    "167.68%",
+                    "176.77%",
+                    "185.86%",
+                    "194.95%",
+                    "204.04%"
+                ],
+                "下坠期间伤害": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "二段伤害": [
+                    "68.38%",
+                    "73.04%",
+                    "77.7%",
+                    "83.92%",
+                    "88.58%",
+                    "94.02%",
+                    "101.01%",
+                    "108%",
+                    "115%",
+                    "121.99%",
+                    "128.98%",
+                    "135.98%",
+                    "142.97%",
+                    "149.96%",
+                    "156.95%"
+                ],
+                "五段伤害": [
+                    "105.86%",
+                    "113.08%",
+                    "120.3%",
+                    "129.92%",
+                    "137.14%",
+                    "145.56%",
+                    "156.39%",
+                    "167.22%",
+                    "178.04%",
+                    "188.87%",
+                    "199.7%",
+                    "210.52%",
+                    "221.35%",
+                    "232.18%",
+                    "243.01%"
+                ],
+                "低空/高空坠地冲击伤害": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "四段伤害": [
+                    "46.42%*2",
+                    "49.58%*2",
+                    "52.75%*2",
+                    "56.97%*2",
+                    "60.14%*2",
+                    "63.83%*2",
+                    "68.58%*2",
+                    "73.32%*2",
+                    "78.07%*2",
+                    "82.82%*2",
+                    "87.56%*2",
+                    "92.31%*2",
+                    "97.06%*2",
+                    "101.81%*2",
+                    "106.55%*2"
+                ],
+                "满蓄力瞄准射击": [
+                    "124%",
+                    "133.3%",
+                    "142.6%",
+                    "155%",
+                    "164.3%",
+                    "173.6%",
+                    "186%",
+                    "198.4%",
+                    "210.8%",
+                    "223.2%",
+                    "235.6%",
+                    "248%",
+                    "263.5%",
+                    "279%",
+                    "294.5%"
+                ],
+                "焰硝矢伤害": [
+                    "16.4%",
+                    "17.63%",
+                    "18.86%",
+                    "20.5%",
+                    "21.73%",
+                    "22.96%",
+                    "24.6%",
+                    "26.24%",
+                    "27.88%",
+                    "29.52%",
+                    "31.16%",
+                    "32.8%",
+                    "34.85%",
+                    "36.9%",
+                    "38.95%"
+                ],
+                "瞄准射击": [
+                    "43.86%",
+                    "47.43%",
+                    "51%",
+                    "56.1%",
+                    "59.67%",
+                    "63.75%",
+                    "69.36%",
+                    "74.97%",
+                    "80.58%",
+                    "86.7%",
+                    "92.82%",
+                    "98.94%",
+                    "105.06%",
+                    "111.18%",
+                    "117.3%"
+                ]
+            },
+            "name": "烟火打扬"
+        }
+    }
+}

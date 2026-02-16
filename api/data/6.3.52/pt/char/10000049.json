@@ -1,0 +1,1264 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104111": 1,
+            "104112": 9,
+            "104113": 9,
+            "104114": 6
+        },
+        "elitemonster": {
+            "113024": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101205": 168
+        },
+        "worldmonster": {
+            "112008": 18,
+            "112009": 30,
+            "112010": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "4U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "Bullet_Arrow_NoFire_Material",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "-",
+            "gauge": "4U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "Bullet_Arrow_WithFire_Material",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "Bullet_Arrow_WithFire_Material",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "Bullet_GoldFish_Material",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "Fire",
+            "gauge": "0U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Grp: default",
+            "name": "ElementalArt",
+            "poise": "LV3/60"
+        },
+        {
+            "element": "Fire",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "Bullet_ElementalBurst_Material",
+            "poise": "LV7/220"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_SetTag",
+            "poise": "LV3/60"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "A Flama Dourada criada pela <color=#FFD780FF>Saxifraga Ryuukin</color> ganha um aumento de 4s de duração. \\nAlém disso, quando um inimigo afetado pela Flama Dourada é derrotado, o ATQ da Yoimiya é aumentado em 20% por 20s.",
+            "icon": "UI_Talent_S_Yoimiya_01",
+            "name": "Ágata Ryuukin"
+        },
+        "const2": {
+            "description": "Dentro de 6s após Yoimiya causar CRIT com o <color=#FF9999FF>Dano Pyro</color>, Yoimiya obtém 25% de <color=#FF9999FF>Dano Pyro Adicional</color>.\\nYoimiya pode obter esse efeito mesmo fora de campo.",
+            "icon": "UI_Talent_S_Yoimiya_02",
+            "name": "Procissão de Fogueiras"
+        },
+        "const3": {
+            "description": "Aumenta o nível da <color=#FFD780FF>Dança de Fogo Niwabi</color> em 3 níveis.\\nSendo o nível máximo de elevação 15.",
+            "icon": "UI_Talent_U_Yoimiya_01",
+            "name": "Chamas da Malandra"
+        },
+        "const4": {
+            "description": "Quando a Flama Dourada da Yoimiya explode, restaura a Recarga da <color=#FFD780FF>Dança de Fogo Niwabi</color> em 1.2s.",
+            "icon": "UI_Talent_S_Yoimiya_03",
+            "name": "Profissional Pirotécnica"
+        },
+        "const5": {
+            "description": "Aumenta o nível da <color=#FFD780FF>Saxifraga Ryuukin</color> em 3 níveis.\\nSendo o nível máximo de elevação 15.",
+            "icon": "UI_Talent_U_Yoimiya_02",
+            "name": "Véspera de um Festival de Verão"
+        },
+        "const6": {
+            "description": "Durante a <color=#FFD780FF>Dança de Fogo Niwabi</color>, os Ataques Normais de Yoimiya têm 50% de chance de disparar uma Flecha Ardente extra que causa 60% de seu Dano original. Este Dano é considerado Dano de Ataque Normal.",
+            "icon": "UI_Talent_S_Yoimiya_04",
+            "name": "Chuva de Meteoros de Naganohara"
+        }
+    },
+    "energy": [
+        {
+            "cd": "2s",
+            "chance": "100%",
+            "particles": "1",
+            "source": "Ball"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Yoimiya",
+        "forward": "UI_AvatarIcon_Yoimiya"
+    },
+    "info": {
+        "attributes": [
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 48,
+                "hp": 791,
+                "level": 1
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 52,
+                "hp": 857,
+                "level": 2
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 56,
+                "hp": 923,
+                "level": 3
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 60,
+                "hp": 989,
+                "level": 4
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 64,
+                "hp": 1055,
+                "level": 5
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 68,
+                "hp": 1121,
+                "level": 6
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 72,
+                "hp": 1187,
+                "level": 7
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 40,
+                "def": 76,
+                "hp": 1253,
+                "level": 8
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 80,
+                "hp": 1320,
+                "level": 9
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 84,
+                "hp": 1385,
+                "level": 10
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 46,
+                "def": 88,
+                "hp": 1452,
+                "level": 11
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 48,
+                "def": 92,
+                "hp": 1518,
+                "level": 12
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 50,
+                "def": 96,
+                "hp": 1585,
+                "level": 13
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 52,
+                "def": 100,
+                "hp": 1652,
+                "level": 14
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 55,
+                "def": 104,
+                "hp": 1719,
+                "level": 15
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 57,
+                "def": 108,
+                "hp": 1785,
+                "level": 16
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 59,
+                "def": 112,
+                "hp": 1852,
+                "level": 17
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 61,
+                "def": 116,
+                "hp": 1919,
+                "level": 18
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 63,
+                "def": 120,
+                "hp": 1986,
+                "level": 19
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 65,
+                "def": 124,
+                "hp": 2053,
+                "level": 20
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 89,
+                "def": 169,
+                "hp": 2798,
+                "level": 21
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 91,
+                "def": 173,
+                "hp": 2865,
+                "level": 22
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 93,
+                "def": 177,
+                "hp": 2933,
+                "level": 23
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 95,
+                "def": 181,
+                "hp": 3000,
+                "level": 24
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 97,
+                "def": 186,
+                "hp": 3067,
+                "level": 25
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 100,
+                "def": 190,
+                "hp": 3135,
+                "level": 26
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 102,
+                "def": 194,
+                "hp": 3203,
+                "level": 27
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 104,
+                "def": 198,
+                "hp": 3270,
+                "level": 28
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 106,
+                "def": 202,
+                "hp": 3338,
+                "level": 29
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 108,
+                "def": 206,
+                "hp": 3405,
+                "level": 30
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 110,
+                "def": 210,
+                "hp": 3473,
+                "level": 31
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 112,
+                "def": 214,
+                "hp": 3541,
+                "level": 32
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 115,
+                "def": 218,
+                "hp": 3609,
+                "level": 33
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 117,
+                "def": 222,
+                "hp": 3676,
+                "level": 34
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 119,
+                "def": 227,
+                "hp": 3745,
+                "level": 35
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 121,
+                "def": 231,
+                "hp": 3813,
+                "level": 36
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 123,
+                "def": 235,
+                "hp": 3881,
+                "level": 37
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 125,
+                "def": 239,
+                "hp": 3949,
+                "level": 38
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 128,
+                "def": 243,
+                "hp": 4018,
+                "level": 39
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 130,
+                "def": 247,
+                "hp": 4086,
+                "level": 40
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 147,
+                "def": 280,
+                "hp": 4636,
+                "level": 41
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 149,
+                "def": 285,
+                "hp": 4705,
+                "level": 42
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 152,
+                "def": 289,
+                "hp": 4774,
+                "level": 43
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 154,
+                "def": 293,
+                "hp": 4842,
+                "level": 44
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 156,
+                "def": 297,
+                "hp": 4911,
+                "level": 45
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 158,
+                "def": 301,
+                "hp": 4980,
+                "level": 46
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 160,
+                "def": 305,
+                "hp": 5049,
+                "level": 47
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 163,
+                "def": 310,
+                "hp": 5118,
+                "level": 48
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 165,
+                "def": 314,
+                "hp": 5187,
+                "level": 49
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 167,
+                "def": 318,
+                "hp": 5256,
+                "level": 50
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 190,
+                "def": 361,
+                "hp": 5968,
+                "level": 51
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 192,
+                "def": 365,
+                "hp": 6037,
+                "level": 52
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 194,
+                "def": 369,
+                "hp": 6106,
+                "level": 53
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 196,
+                "def": 374,
+                "hp": 6176,
+                "level": 54
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 198,
+                "def": 378,
+                "hp": 6245,
+                "level": 55
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 201,
+                "def": 382,
+                "hp": 6315,
+                "level": 56
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 203,
+                "def": 386,
+                "hp": 6385,
+                "level": 57
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 205,
+                "def": 390,
+                "hp": 6454,
+                "level": 58
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 207,
+                "def": 395,
+                "hp": 6524,
+                "level": 59
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 209,
+                "def": 399,
+                "hp": 6593,
+                "level": 60
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 227,
+                "def": 432,
+                "hp": 7145,
+                "level": 61
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 229,
+                "def": 436,
+                "hp": 7215,
+                "level": 62
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 231,
+                "def": 441,
+                "hp": 7285,
+                "level": 63
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 234,
+                "def": 445,
+                "hp": 7355,
+                "level": 64
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 236,
+                "def": 449,
+                "hp": 7425,
+                "level": 65
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 238,
+                "def": 453,
+                "hp": 7496,
+                "level": 66
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 240,
+                "def": 458,
+                "hp": 7565,
+                "level": 67
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 243,
+                "def": 462,
+                "hp": 7636,
+                "level": 68
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 245,
+                "def": 466,
+                "hp": 7706,
+                "level": 69
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 247,
+                "def": 470,
+                "hp": 7777,
+                "level": 70
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 265,
+                "def": 504,
+                "hp": 8329,
+                "level": 71
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 267,
+                "def": 508,
+                "hp": 8400,
+                "level": 72
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 269,
+                "def": 512,
+                "hp": 8471,
+                "level": 73
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 271,
+                "def": 517,
+                "hp": 8541,
+                "level": 74
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 274,
+                "def": 521,
+                "hp": 8612,
+                "level": 75
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 276,
+                "def": 525,
+                "hp": 8683,
+                "level": 76
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 278,
+                "def": 530,
+                "hp": 8754,
+                "level": 77
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 280,
+                "def": 534,
+                "hp": 8825,
+                "level": 78
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 283,
+                "def": 538,
+                "hp": 8896,
+                "level": 79
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 285,
+                "def": 542,
+                "hp": 8968,
+                "level": 80
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 302,
+                "def": 576,
+                "hp": 9521,
+                "level": 81
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 305,
+                "def": 580,
+                "hp": 9592,
+                "level": 82
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 307,
+                "def": 585,
+                "hp": 9663,
+                "level": 83
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 309,
+                "def": 589,
+                "hp": 9734,
+                "level": 84
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 312,
+                "def": 593,
+                "hp": 9806,
+                "level": 85
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 314,
+                "def": 598,
+                "hp": 9878,
+                "level": 86
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 316,
+                "def": 602,
+                "hp": 9949,
+                "level": 87
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 318,
+                "def": 606,
+                "hp": 10021,
+                "level": 88
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 321,
+                "def": 611,
+                "hp": 10093,
+                "level": 89
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 323,
+                "def": 615,
+                "hp": 10164,
+                "level": 90
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 359,
+                "def": 637,
+                "hp": 10525,
+                "level": 95
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 396,
+                "def": 659,
+                "hp": 10887,
+                "level": 100
+            }
+        ],
+        "birthday": "June 21st",
+        "constellation": "Carassius Auratus",
+        "description": "Dona da Fogos de Artifício Naganohara. Conhecida como \"Rainha do Festival de Verão\", ela é excelente na criação de fogos de artifício que simbolizam a esperança e sonhos das pessoas.",
+        "element": "Pyro",
+        "name": "Yoimiya",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_BOW"
+    },
+    "passives": {
+        "p1": {
+            "description": "Enquanto a <color=#FFD780FF>Dança de Fogo Niwabi</color> estiver presente, acertos com o Ataque Normal da Yoimiya, irão aumentar 2% do <color=#FF9999FF>Bônus de Dano Pyro</color>. O efeito dura por 3s e pode ser acumulado em até 10 vezes.",
+            "icon": "UI_Talent_S_Yoimiya_05",
+            "name": "Truque da Encrenqueira"
+        },
+        "p2": {
+            "description": "Todos os personagens da equipe (com exceção da própria Yoimiya) ganharão um aumento de 10% no ATQ por 15s após usar a <color=#FFD780FF>Saxifraga Ryuukin</color>. Além disso, um bônus adicional de ATQ será adicionado com base no número de cargas do Talento de Ascensão \"Truque da Encrenqueira\" que Yoimiya possui ao usar a <color=#FFD780FF>Saxifraga Ryuukin</color>. Cada carga aumenta 1% de ATQ.",
+            "icon": "UI_Talent_S_Yoimiya_06",
+            "name": "Queimadura de Verão"
+        },
+        "p3": {
+            "description": "Quando Yoimiya cria uma Decoração, Item de Decoração e Paisagem, ela tem 100% de chance de reembolsar uma parte dos materiais utilizados.",
+            "icon": "UI_Talent_S_Yoimiya_07",
+            "name": "Correspondência Flamejante"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Quando sua criação original, a \"Saxifraga Ryuukin\" voa no ar, Yoimiya dispara mísseis flamejantes repletos de surpresas que causam <color=#FF9999FF>Dano Pyro em uma AdE</color> e marca um dos inimigos atingidos com uma Flama Dourada.\\n\\n<color=#FFD780FF>Saxifraga Ryuukin</color>\\nTodos os Ataques Normais, Ataques Carregados, Ataques Imersivos, Habilidades Elementais e Supremos lançados por todos os personagens na equipe (exceto a própria Yoimiya) que acertem em inimigos sob a influência da Flama Dourada causarão uma explosão, causando <color=#FF9999FF>Dano Pyro em uma AdE</color>.\\nQuando um inimigo é derrotado sob a influência da Flama Dourada durante o tempo do efeito, o efeito passará para outro inimigo ao redor, que herdará a duração restante.\\n\\nA Flama Dourada pode ser ativada uma vez a cada 2s. Quando Yoimiya for derrotada, os efeitos da Flama Dourada criados através das suas habilidades serão desativados.\\n\\n<i>Os fogos de artifício são a luz estelar feitas pelo homem, cometas disparados no céu. Apesar deles durarem apenas um instante, a memória do seu brilho certamente perdura eternamente.</i>",
+            "icon": "Skill_E_Yoimiya_01",
+            "multipliers": {
+                "Dano de Explosão de Flama Dourada": [
+                    "122%",
+                    "131.15%",
+                    "140.3%",
+                    "152.5%",
+                    "161.65%",
+                    "170.8%",
+                    "183%",
+                    "195.2%",
+                    "207.4%",
+                    "219.6%",
+                    "231.8%",
+                    "244%",
+                    "259.25%",
+                    "274.5%",
+                    "289.75%"
+                ],
+                "Dano de Habilidade": [
+                    "127.2%",
+                    "136.74%",
+                    "146.28%",
+                    "159%",
+                    "168.54%",
+                    "178.08%",
+                    "190.8%",
+                    "203.52%",
+                    "216.24%",
+                    "228.96%",
+                    "241.68%",
+                    "254.4%",
+                    "270.3%",
+                    "286.2%",
+                    "302.1%"
+                ],
+                "Duração": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ],
+                "Energia Elemental": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "Tempo de Recarga": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ]
+            },
+            "name": "Saxifraga Ryuukin"
+        },
+        "elementalskill": {
+            "description": "Com o fogo de artifício de incenso explodindo no ar, um anel de salitre rodeia Yoimiya.\\n\\n<color=#FFD780FF>Niwabi Enshou</color>\\nDurante o intervalo de tempo, as flechas disparadas pelo Ataque Normal de Yoimiya serão Flechas Ardentes, causando <color=#FF9999FF>Dano Pyro</color>, e aumentando o dano causado pelo Ataque Normal. A Carga Nível 2 do Ataque Normal: Pirotecnia não irá causar Flechas Ardentes durante este tempo.\\n\\nO efeito será desativado quando Yoimiya sair do campo.\\n\\n<i>\"Niwabi\" é uma forma de fogo de artifício de incenso criada por Yoimiya. Sua capacidade de poder ser acendido sem qualquer treinamento ou preparação fez dela muito popular. Depois de vários acidentes relacionados com o fogo, a Comissão Tenryou baniu o uso de \"Niwabi\", mas pequenas e brilhantes explosões ainda são frequentemente vistas durante a noite. Se vistas de cima, parecem até estrelas brilhando.</i>",
+            "icon": "Skill_S_Yoimiya_01",
+            "multipliers": {
+                "Dano da Flecha Abrasadora": [
+                    "137.91% Dano de Ataque Normal",
+                    "140.18% Dano de Ataque Normal",
+                    "142.45% Dano de Ataque Normal",
+                    "145.4% Dano de Ataque Normal",
+                    "147.67% Dano de Ataque Normal",
+                    "149.94% Dano de Ataque Normal",
+                    "152.89% Dano de Ataque Normal",
+                    "155.84% Dano de Ataque Normal",
+                    "158.79% Dano de Ataque Normal",
+                    "161.74% Dano de Ataque Normal",
+                    "164.7% Dano de Ataque Normal",
+                    "167.65% Dano de Ataque Normal",
+                    "170.6% Dano de Ataque Normal",
+                    "173.55% Dano de Ataque Normal",
+                    "176.5% Dano de Ataque Normal"
+                ],
+                "Duração": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ],
+                "Tempo de Recarga": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ]
+            },
+            "name": "Dança de Fogo Niwabi"
+        },
+        "leveling": {
+            "books": {
+                "104320": 9,
+                "104321": 63,
+                "104322": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113017": 18
+            },
+            "worldmonster": {
+                "112008": 18,
+                "112009": 66,
+                "112010": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 5 disparos consecutivos com um arco.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nRealiza um <color=#FFD780FF>Disparo com Mira</color> mais preciso com Dano aumentado.\\nAo mirar, uma aura flamejante acumulará na ponta da flecha antes de ser disparada. Tem diferentes efeitos baseados em quanto tempo a energia foi carregada:\\nCarga Nível 1: Dispara uma Flecha Flamejante que causa <color=#FF9999FF>Dano Pyro</color>\\nCarga Nível 2: Gera um máximo de 3 Flechas Abrasadoras com base no tempo decorrido no carregamento, liberando-as como parte do Disparo com Mira. Flechas Abrasadoras irão perseguir os alvos próximos, causando <color=#FF9999FF>Dano Pyro</color> ao atingir um inimigo.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nDispara uma chuva de flechas em pleno ar antes de cair e atingir o chão, causando Dano em AdE no impacto.",
+            "icon": "Skill_A_02",
+            "multipliers": {
+                "Dano Durante a Queda": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "Dano da Flecha Abrasadora": [
+                    "16.4%",
+                    "17.63%",
+                    "18.86%",
+                    "20.5%",
+                    "21.73%",
+                    "22.96%",
+                    "24.6%",
+                    "26.24%",
+                    "27.88%",
+                    "29.52%",
+                    "31.16%",
+                    "32.8%",
+                    "34.85%",
+                    "36.9%",
+                    "38.95%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "Dano do 1° Golpe": [
+                    "35.64% x2",
+                    "38.07% x2",
+                    "40.5% x2",
+                    "43.74% x2",
+                    "46.17% x2",
+                    "49% x2",
+                    "52.65% x2",
+                    "56.3% x2",
+                    "59.94% x2",
+                    "63.59% x2",
+                    "67.23% x2",
+                    "70.88% x2",
+                    "74.52% x2",
+                    "78.17% x2",
+                    "81.81% x2"
+                ],
+                "Dano do 2° Golpe": [
+                    "68.38%",
+                    "73.04%",
+                    "77.7%",
+                    "83.92%",
+                    "88.58%",
+                    "94.02%",
+                    "101.01%",
+                    "108%",
+                    "115%",
+                    "121.99%",
+                    "128.98%",
+                    "135.98%",
+                    "142.97%",
+                    "149.96%",
+                    "156.95%"
+                ],
+                "Dano do 3° Golpe": [
+                    "88.89%",
+                    "94.95%",
+                    "101.01%",
+                    "109.09%",
+                    "115.15%",
+                    "122.22%",
+                    "131.31%",
+                    "140.4%",
+                    "149.49%",
+                    "158.59%",
+                    "167.68%",
+                    "176.77%",
+                    "185.86%",
+                    "194.95%",
+                    "204.04%"
+                ],
+                "Dano do 4° Golpe": [
+                    "46.42%*2",
+                    "49.58%*2",
+                    "52.75%*2",
+                    "56.97%*2",
+                    "60.14%*2",
+                    "63.83%*2",
+                    "68.58%*2",
+                    "73.32%*2",
+                    "78.07%*2",
+                    "82.82%*2",
+                    "87.56%*2",
+                    "92.31%*2",
+                    "97.06%*2",
+                    "101.81%*2",
+                    "106.55%*2"
+                ],
+                "Dano do 5° Golpe": [
+                    "105.86%",
+                    "113.08%",
+                    "120.3%",
+                    "129.92%",
+                    "137.14%",
+                    "145.56%",
+                    "156.39%",
+                    "167.22%",
+                    "178.04%",
+                    "188.87%",
+                    "199.7%",
+                    "210.52%",
+                    "221.35%",
+                    "232.18%",
+                    "243.01%"
+                ],
+                "Disparo com Mira": [
+                    "43.86%",
+                    "47.43%",
+                    "51%",
+                    "56.1%",
+                    "59.67%",
+                    "63.75%",
+                    "69.36%",
+                    "74.97%",
+                    "80.58%",
+                    "86.7%",
+                    "92.82%",
+                    "98.94%",
+                    "105.06%",
+                    "111.18%",
+                    "117.3%"
+                ],
+                "Disparo com Mira com Energização Completa": [
+                    "124%",
+                    "133.3%",
+                    "142.6%",
+                    "155%",
+                    "164.3%",
+                    "173.6%",
+                    "186%",
+                    "198.4%",
+                    "210.8%",
+                    "223.2%",
+                    "235.6%",
+                    "248%",
+                    "263.5%",
+                    "279%",
+                    "294.5%"
+                ]
+            },
+            "name": "Pirotecnia"
+        }
+    }
+}

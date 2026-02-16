@@ -1,0 +1,1301 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104141": 1,
+            "104142": 9,
+            "104143": 9,
+            "104144": 6
+        },
+        "elitemonster": {
+            "113067": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101255": 168
+        },
+        "worldmonster": {
+            "112104": 18,
+            "112105": 30,
+            "112106": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "ExtraAttack",
+            "poise": "LV3/120"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "ExtraAttack_Bullet",
+            "poise": "LV5/120"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "ExtraAttack_Bullet",
+            "poise": "LV5/120"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "7 hits / 0.5s",
+            "icd_source": "Grp: Iansan_ElementalArt (Tag Miss)",
+            "name": "ElementalArt_Bullet",
+            "poise": "LV3/120"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Bullet",
+            "poise": "LV3/120"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Grp: default",
+            "name": "ElementalArt_Bullet",
+            "poise": "LV0/0"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Grp: default",
+            "name": "SpecialMove_LevelTriggerBox_02",
+            "poise": "LV2/0"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV5/180"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "When Iansan is in combat and is in the Nightsoul's Blessing state, she will restore 15 Elemental Energy for every 6 Nightsoul points she consumes. This effect can trigger once every 18s.",
+            "icon": "UI_Talent_S_Iansan_01",
+            "name": "Starting's Never Easy"
+        },
+        "const2": {
+            "description": "When using the Elemental Burst <color=#FFD780FF>The Three Principles of Power</color>, Iansan will also gain the Precise Movement effect from her Ascension Talent \"Enhanced Resistance Training\" for 15s. Additionally, if Iansan is off-field while Precise Movement is active, she will also increase your current active character's ATK by 30%. You must first unlock the Ascension Talent \"Enhanced Resistance Training\" to access the above effect.",
+            "icon": "UI_Talent_S_Iansan_02",
+            "name": "Laziness is the Enemy!"
+        },
+        "const3": {
+            "description": "Increases the Level of <color=#FFD780FF>Thunderbolt Rush</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Iansan_01",
+            "name": "Scientific Diet Planning"
+        },
+        "const4": {
+            "description": "When the Kinetic Energy Scale is present, Iansan will gain 2 stacks of Surging Force after your current active character (excluding herself) uses their Elemental Burst. The stacks last until the Scale leaves the field, and Surging Force can be gained once per Scale summoning. Whenever Iansan restores Nightsoul points via the Scale, she will consume 1 Surging Force stack and restore 4 additional Nightsoul points.\\nAdditionally, if her Nightsoul restoration from the Scale overflows, Iansan will gain 50% of the overflow the next time she restores Nightsoul points via the Scale.",
+            "icon": "UI_Talent_S_Iansan_03",
+            "name": "Slow and Steady Wins the Race"
+        },
+        "const5": {
+            "description": "Increases the Level of <color=#FFD780FF>The Three Principles of Power</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Iansan_02",
+            "name": "We Can Push It Further!"
+        },
+        "const6": {
+            "description": "The Kinetic Energy Scale's duration is increased by 3s.\\nAdditionally, when Iansan triggers Nightsoul point restoration, if there is any overflow, she will gain the Extreme Force effect, which increases the DMG dealt by your current active character by 25% for 3s.",
+            "icon": "UI_Talent_S_Iansan_04",
+            "name": "Teachings of the Collective of Plenty"
+        }
+    },
+    "energy": [
+        {
+            "cd": "3s",
+            "chance": "100%",
+            "particles": "4",
+            "source": "UNIQUE_Strike_DropBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Iansan",
+        "forward": "UI_AvatarIcon_Iansan"
+    },
+    "info": {
+        "attributes": [
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 54,
+                "hp": 894,
+                "level": 1
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 23,
+                "def": 58,
+                "hp": 968,
+                "level": 2
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 62,
+                "hp": 1041,
+                "level": 3
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 67,
+                "hp": 1115,
+                "level": 4
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 71,
+                "hp": 1188,
+                "level": 5
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 76,
+                "hp": 1263,
+                "level": 6
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 80,
+                "hp": 1336,
+                "level": 7
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 84,
+                "hp": 1410,
+                "level": 8
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 89,
+                "hp": 1484,
+                "level": 9
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 93,
+                "hp": 1557,
+                "level": 10
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 98,
+                "hp": 1632,
+                "level": 11
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 102,
+                "hp": 1705,
+                "level": 12
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 43,
+                "def": 107,
+                "hp": 1779,
+                "level": 13
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 45,
+                "def": 111,
+                "hp": 1852,
+                "level": 14
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 46,
+                "def": 115,
+                "hp": 1927,
+                "level": 15
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 48,
+                "def": 120,
+                "hp": 2001,
+                "level": 16
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 50,
+                "def": 124,
+                "hp": 2074,
+                "level": 17
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 52,
+                "def": 129,
+                "hp": 2148,
+                "level": 18
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 54,
+                "def": 133,
+                "hp": 2221,
+                "level": 19
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 55,
+                "def": 137,
+                "hp": 2296,
+                "level": 20
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 73,
+                "def": 182,
+                "hp": 3036,
+                "level": 21
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 75,
+                "def": 186,
+                "hp": 3111,
+                "level": 22
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 77,
+                "def": 191,
+                "hp": 3185,
+                "level": 23
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 79,
+                "def": 195,
+                "hp": 3258,
+                "level": 24
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 80,
+                "def": 200,
+                "hp": 3332,
+                "level": 25
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 82,
+                "def": 204,
+                "hp": 3405,
+                "level": 26
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 84,
+                "def": 208,
+                "hp": 3480,
+                "level": 27
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 86,
+                "def": 213,
+                "hp": 3553,
+                "level": 28
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 87,
+                "def": 217,
+                "hp": 3627,
+                "level": 29
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 89,
+                "def": 222,
+                "hp": 3700,
+                "level": 30
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 91,
+                "def": 226,
+                "hp": 3774,
+                "level": 31
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 93,
+                "def": 230,
+                "hp": 3849,
+                "level": 32
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 95,
+                "def": 235,
+                "hp": 3922,
+                "level": 33
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 96,
+                "def": 239,
+                "hp": 3996,
+                "level": 34
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 98,
+                "def": 244,
+                "hp": 4069,
+                "level": 35
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 100,
+                "def": 248,
+                "hp": 4143,
+                "level": 36
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 102,
+                "def": 252,
+                "hp": 4217,
+                "level": 37
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 103,
+                "def": 257,
+                "hp": 4291,
+                "level": 38
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 105,
+                "def": 261,
+                "hp": 4365,
+                "level": 39
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 107,
+                "def": 266,
+                "hp": 4438,
+                "level": 40
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 120,
+                "def": 299,
+                "hp": 4987,
+                "level": 41
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 122,
+                "def": 303,
+                "hp": 5060,
+                "level": 42
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 124,
+                "def": 307,
+                "hp": 5134,
+                "level": 43
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 126,
+                "def": 312,
+                "hp": 5208,
+                "level": 44
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 127,
+                "def": 316,
+                "hp": 5282,
+                "level": 45
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 129,
+                "def": 321,
+                "hp": 5356,
+                "level": 46
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 131,
+                "def": 325,
+                "hp": 5429,
+                "level": 47
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 133,
+                "def": 330,
+                "hp": 5503,
+                "level": 48
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 134,
+                "def": 334,
+                "hp": 5577,
+                "level": 49
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 136,
+                "def": 338,
+                "hp": 5651,
+                "level": 50
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 153,
+                "def": 381,
+                "hp": 6356,
+                "level": 51
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 155,
+                "def": 385,
+                "hp": 6431,
+                "level": 52
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 157,
+                "def": 389,
+                "hp": 6505,
+                "level": 53
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 159,
+                "def": 394,
+                "hp": 6578,
+                "level": 54
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 160,
+                "def": 398,
+                "hp": 6652,
+                "level": 55
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 162,
+                "def": 403,
+                "hp": 6725,
+                "level": 56
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 164,
+                "def": 407,
+                "hp": 6800,
+                "level": 57
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 166,
+                "def": 412,
+                "hp": 6873,
+                "level": 58
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 168,
+                "def": 416,
+                "hp": 6947,
+                "level": 59
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 169,
+                "def": 420,
+                "hp": 7021,
+                "level": 60
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 183,
+                "def": 453,
+                "hp": 7569,
+                "level": 61
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 184,
+                "def": 458,
+                "hp": 7643,
+                "level": 62
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 186,
+                "def": 462,
+                "hp": 7716,
+                "level": 63
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 188,
+                "def": 466,
+                "hp": 7790,
+                "level": 64
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 190,
+                "def": 471,
+                "hp": 7864,
+                "level": 65
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 191,
+                "def": 475,
+                "hp": 7938,
+                "level": 66
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 193,
+                "def": 480,
+                "hp": 8012,
+                "level": 67
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 195,
+                "def": 484,
+                "hp": 8085,
+                "level": 68
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 197,
+                "def": 489,
+                "hp": 8159,
+                "level": 69
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 199,
+                "def": 493,
+                "hp": 8233,
+                "level": 70
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 212,
+                "def": 526,
+                "hp": 8781,
+                "level": 71
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 214,
+                "def": 530,
+                "hp": 8854,
+                "level": 72
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 215,
+                "def": 535,
+                "hp": 8929,
+                "level": 73
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 217,
+                "def": 539,
+                "hp": 9003,
+                "level": 74
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 219,
+                "def": 543,
+                "hp": 9076,
+                "level": 75
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 221,
+                "def": 548,
+                "hp": 9150,
+                "level": 76
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 222,
+                "def": 552,
+                "hp": 9223,
+                "level": 77
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 224,
+                "def": 557,
+                "hp": 9298,
+                "level": 78
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 226,
+                "def": 561,
+                "hp": 9371,
+                "level": 79
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 228,
+                "def": 566,
+                "hp": 9445,
+                "level": 80
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 241,
+                "def": 598,
+                "hp": 9994,
+                "level": 81
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 243,
+                "def": 603,
+                "hp": 10067,
+                "level": 82
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 245,
+                "def": 607,
+                "hp": 10141,
+                "level": 83
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 246,
+                "def": 612,
+                "hp": 10214,
+                "level": 84
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 248,
+                "def": 616,
+                "hp": 10288,
+                "level": 85
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 250,
+                "def": 620,
+                "hp": 10362,
+                "level": 86
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 252,
+                "def": 625,
+                "hp": 10436,
+                "level": 87
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 253,
+                "def": 629,
+                "hp": 10509,
+                "level": 88
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 255,
+                "def": 634,
+                "hp": 10583,
+                "level": 89
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 257,
+                "def": 638,
+                "hp": 10657,
+                "level": 90
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 290,
+                "def": 660,
+                "hp": 11026,
+                "level": 95
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 323,
+                "def": 682,
+                "hp": 11395,
+                "level": 100
+            }
+        ],
+        "birthday": "August 8th",
+        "constellation": "Carnotaurus",
+        "description": "Head coach of the fitness club at the Collective of Plenty, and a renowned Natlanese nutritionist.",
+        "element": "Electro",
+        "name": "Iansan",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_POLE"
+    },
+    "passives": {
+        "p1": {
+            "description": "After Swift Stormflight hits opponents, Iansan will gain the Precise Movement effect for 15s.\\nDuring this time, her ATK is increased by 20%, and whenever she regains Nightsoul points through the Kinetic Energy Scale in her Elemental Burst, <color=#FFD780FF>The Three Principles of Power</color>, she will gain 1 extra Nightsoul point. Additionally, when your current active party member consumes or restores Nightsoul points, the extra Nightsoul points Iansan gains the next time she restores Nightsoul points via the Scale will be increased to 4. This effect can occur once every 2.8s.\\n\"Precise Movement\" will expire when Iansan's Nightsoul's Blessing state ends.",
+            "icon": "UI_Talent_S_Iansan_05",
+            "name": "Enhanced Resistance Training"
+        },
+        "p2": {
+            "description": "When a nearby party member triggers a Nightsoul Burst, Iansan will obtain the Warming Up effect for 10s.\\nDuring this time, when Iansan restores at least 1 Nightsoul point, she will heal your current active character for 60% of her ATK. This effect can be triggered once every 2.8s.",
+            "icon": "UI_Talent_S_Iansan_06",
+            "name": "Kinetic Energy Gradient Test"
+        },
+        "p3": {
+            "description": "After Nightsoul points have been fully depleted and Iansan is on the field, she will switch to using Phlogiston to maintain her Nightsoul's Blessing.\\nWhile in an area with Phlogiston Mechanics within Natlan, Nightsoul Transmission: Iansan can be used. When the current active character is sprinting or in movement modes caused by certain Talents, or at a certain height in the air, switching to Iansan will trigger the following: Iansan enters the Nightsoul's Blessing state and obtains 25 Nightsoul points. Nightsoul Transmission can be triggered once every 10s by your own party.\\nWhile in an area with Phlogiston Mechanics within Natlan, Iansan will not take fall DMG when using terrain differences to make leaps.",
+            "icon": "UI_Talent_S_Varesa_07",
+            "name": "Night Realm's Gift: Hard Work and Drive"
+        },
+        "p4": {
+            "description": "While in an area with Phlogiston Mechanics within Natlan, regain 10 Phlogiston when Phlogiston levels drop below 50%. This can occur once every 10s.",
+            "icon": "UI_Talent_S_Iansan_08",
+            "name": "Caloric Balancing Plan"
+        }
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Iansan's stomping foot shatters the very earth with \"Power,\" dealing Nightsoul-aligned <color=#FFACFFFF>AoE Electro DMG</color>. She then whips out her \"Limited-Edition Kinetic Energy Scale (For Workouts).\"\\nWhen this Skill is used, Iansan will gain 15 Nightsoul points and enter the Nightsoul's Blessing state.\\nWhen the Kinetic Energy Scale leaves the field, Iansan's Nightsoul's Blessing state will end.\\n\\n<color=#FFD780FF>Kinetic Energy Scale</color>\\nThe Kinetic Energy Scale will follow the character around, boosting the ATK of your current active party member in different ways based on Iansan's Nightsoul points.\\n· If Iansan has less than 42 Nightsoul points, the ATK bonus will be based on her Nightsoul points and ATK.\\n· If Iansan has at least 42 Nightsoul points, the Kinetic Energy Scale will switch to the \"Ardent Support!\" state, in which the ATK bonus will be stronger and based on her ATK alone.\\nAdditionally, the Scale will log the distance your current active character (excluding Iansan) has moved so long as it is active, restoring Nightsoul points to Iansan every second based on the distance moved in the previous second.\\nThe Scale will disappear once her Nightsoul's Blessing state ends. It will also disappear after 1 second when you are not in a state of combat. While it is active, Iansan's Nightsoul's Blessing state will not end even if she is not on the field.\\n\\n<i>\"Power is not about natural talent. Power stems from unceasing practice. Power must be exercised correctly.\"</i>",
+            "icon": "Skill_E_Iansan_01",
+            "multipliers": {
+                "CD": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ],
+                "Duration": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "Energy Cost": [
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70"
+                ],
+                "High Nightsoul Points ATK Conversion Rate": [
+                    "27% ATK",
+                    "27% ATK",
+                    "27% ATK",
+                    "27% ATK",
+                    "27% ATK",
+                    "27% ATK",
+                    "27% ATK",
+                    "27% ATK",
+                    "27% ATK",
+                    "27% ATK",
+                    "27% ATK",
+                    "27% ATK",
+                    "27% ATK",
+                    "27% ATK",
+                    "27% ATK"
+                ],
+                "Low Nightsoul Points ATK Conversion Rate": [
+                    "0.5% ATK / Nightsoul Point",
+                    "0.5% ATK / Nightsoul Point",
+                    "0.5% ATK / Nightsoul Point",
+                    "0.5% ATK / Nightsoul Point",
+                    "0.5% ATK / Nightsoul Point",
+                    "0.5% ATK / Nightsoul Point",
+                    "0.5% ATK / Nightsoul Point",
+                    "0.5% ATK / Nightsoul Point",
+                    "0.5% ATK / Nightsoul Point",
+                    "0.5% ATK / Nightsoul Point",
+                    "0.5% ATK / Nightsoul Point",
+                    "0.5% ATK / Nightsoul Point",
+                    "0.5% ATK / Nightsoul Point",
+                    "0.5% ATK / Nightsoul Point",
+                    "0.5% ATK / Nightsoul Point"
+                ],
+                "Max ATK Bonus": [
+                    "330",
+                    "370",
+                    "410",
+                    "450",
+                    "490",
+                    "530",
+                    "570",
+                    "610",
+                    "650",
+                    "690",
+                    "730",
+                    "770",
+                    "810",
+                    "850",
+                    "890"
+                ],
+                "Non-Combat State Duration": [
+                    "1s",
+                    "1s",
+                    "1s",
+                    "1s",
+                    "1s",
+                    "1s",
+                    "1s",
+                    "1s",
+                    "1s",
+                    "1s",
+                    "1s",
+                    "1s",
+                    "1s",
+                    "1s",
+                    "1s"
+                ],
+                "Skill DMG": [
+                    "430.4%",
+                    "462.68%",
+                    "494.96%",
+                    "538%",
+                    "570.28%",
+                    "602.56%",
+                    "645.6%",
+                    "688.64%",
+                    "731.68%",
+                    "774.72%",
+                    "817.76%",
+                    "860.8%",
+                    "914.6%",
+                    "968.4%",
+                    "1022.2%"
+                ]
+            },
+            "name": "The Three Principles of Power"
+        },
+        "elementalskill": {
+            "description": "Iansan charges forward a certain distance, dealing Nightsoul-aligned <color=#FFACFFFF>Electro DMG</color> to all opponents in her path.\\nAfter this Skill is used, Iansan will regain 54 Nightsoul points and enter the Nightsoul's Blessing state. Within 5s after this is done, using a Normal Attack will trigger 1 quick Swift Stormflight stomp from Iansan that will not consume Stamina.\\n\\n<color=#FFD780FF>Nightsoul's Blessing: Iansan</color>\\nContinuously consumes Nightsoul points. If she runs out, or uses this Skill again, her Nightsoul's Blessing state will end. It has the following properties:\\n· Increases Iansan's Movement SPD.\\n· Holding sprint will switch Iansan to Rushing Thunderbolt mode, greatly increasing her Movement SPD temporarily. In this mode, Iansan can make flying leaps using terrain, or consume additional Nightsoul points to move on water or liquid Phlogiston while being immune to DMG from the latter.\\n\\n<i>\"Faster, stronger! That's what all that hard work is for!\"</i>",
+            "icon": "Skill_S_Iansan_01",
+            "multipliers": {
+                "CD": [
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s"
+                ],
+                "Nightsoul Point Limit": [
+                    "54",
+                    "54",
+                    "54",
+                    "54",
+                    "54",
+                    "54",
+                    "54",
+                    "54",
+                    "54",
+                    "54",
+                    "54",
+                    "54",
+                    "54",
+                    "54",
+                    "54"
+                ],
+                "Skill DMG": [
+                    "286.4%",
+                    "307.88%",
+                    "329.36%",
+                    "358%",
+                    "379.48%",
+                    "400.96%",
+                    "429.6%",
+                    "458.24%",
+                    "486.88%",
+                    "515.52%",
+                    "544.16%",
+                    "572.8%",
+                    "608.6%",
+                    "644.4%",
+                    "680.2%"
+                ]
+            },
+            "name": "Thunderbolt Rush"
+        },
+        "leveling": {
+            "books": {
+                "104347": 9,
+                "104348": 63,
+                "104349": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113062": 18
+            },
+            "worldmonster": {
+                "112104": 18,
+                "112105": 66,
+                "112106": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 3 consecutive spear strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.\\n\\n<color=#FFD780FF>Nightsoul State: Swift Stormflight</color>\\nWhile in the Nightsoul's Blessing state: Iansan's Charged Attack will be transformed into the formidable Swift Stormflight, consuming a certain amount of Stamina to stomp fiercely down, dealing Nightsoul-aligned <color=#FFACFFFF>AoE Electro DMG</color>.",
+            "icon": "Skill_A_03",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "46.98%",
+                    "50.8%",
+                    "54.62%",
+                    "60.09%",
+                    "63.91%",
+                    "68.28%",
+                    "74.29%",
+                    "80.3%",
+                    "86.3%",
+                    "92.86%",
+                    "99.41%",
+                    "105.97%",
+                    "112.52%",
+                    "119.08%",
+                    "125.63%"
+                ],
+                "2-Hit DMG": [
+                    "42.76%",
+                    "46.25%",
+                    "49.73%",
+                    "54.7%",
+                    "58.18%",
+                    "62.16%",
+                    "67.63%",
+                    "73.1%",
+                    "78.57%",
+                    "84.53%",
+                    "90.5%",
+                    "96.47%",
+                    "102.44%",
+                    "108.4%",
+                    "114.37%"
+                ],
+                "3-Hit DMG": [
+                    "64.39%",
+                    "69.63%",
+                    "74.87%",
+                    "82.36%",
+                    "87.6%",
+                    "93.59%",
+                    "101.82%",
+                    "110.06%",
+                    "118.29%",
+                    "127.28%",
+                    "136.26%",
+                    "145.25%",
+                    "154.23%",
+                    "163.22%",
+                    "172.2%"
+                ],
+                "Charged Attack & Swift Stormflight Stamina Cost": [
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25"
+                ],
+                "Charged Attack DMG": [
+                    "100.28%",
+                    "108.44%",
+                    "116.6%",
+                    "128.26%",
+                    "136.42%",
+                    "145.75%",
+                    "158.58%",
+                    "171.4%",
+                    "184.23%",
+                    "198.22%",
+                    "212.21%",
+                    "226.2%",
+                    "240.2%",
+                    "254.19%",
+                    "268.18%"
+                ],
+                "Low/High Plunge DMG": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Plunge DMG": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ],
+                "Swift Stormflight DMG": [
+                    "84.19%",
+                    "91.05%",
+                    "97.9%",
+                    "107.69%",
+                    "114.54%",
+                    "122.37%",
+                    "133.14%",
+                    "143.91%",
+                    "154.68%",
+                    "166.43%",
+                    "178.18%",
+                    "189.93%",
+                    "201.67%",
+                    "213.42%",
+                    "225.17%"
+                ]
+            },
+            "name": "Weighted Spike"
+        }
+    }
+}

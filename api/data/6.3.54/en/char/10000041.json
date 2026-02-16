@@ -1,0 +1,1306 @@
+{
+    "info": {
+        "name": "Mona",
+        "description": "A mysterious young astrologer who proclaims herself to be \"Astrologist Mona Megistus,\" and who possesses abilities to match the title. Erudite, but prideful.",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_CATALYST",
+        "birthday": "August 31st",
+        "element": "Hydro",
+        "constellation": "Astrolabos",
+        "attributes": [
+            {
+                "level": 1,
+                "ascension": 0,
+                "hp": 810,
+                "atk": 22,
+                "def": 51,
+                "ER": "0"
+            },
+            {
+                "level": 2,
+                "ascension": 0,
+                "hp": 878,
+                "atk": 24,
+                "def": 55,
+                "ER": "0"
+            },
+            {
+                "level": 3,
+                "ascension": 0,
+                "hp": 945,
+                "atk": 26,
+                "def": 59,
+                "ER": "0"
+            },
+            {
+                "level": 4,
+                "ascension": 0,
+                "hp": 1013,
+                "atk": 28,
+                "def": 64,
+                "ER": "0"
+            },
+            {
+                "level": 5,
+                "ascension": 0,
+                "hp": 1080,
+                "atk": 30,
+                "def": 68,
+                "ER": "0"
+            },
+            {
+                "level": 6,
+                "ascension": 0,
+                "hp": 1148,
+                "atk": 32,
+                "def": 72,
+                "ER": "0"
+            },
+            {
+                "level": 7,
+                "ascension": 0,
+                "hp": 1215,
+                "atk": 34,
+                "def": 76,
+                "ER": "0"
+            },
+            {
+                "level": 8,
+                "ascension": 0,
+                "hp": 1284,
+                "atk": 35,
+                "def": 81,
+                "ER": "0"
+            },
+            {
+                "level": 9,
+                "ascension": 0,
+                "hp": 1352,
+                "atk": 37,
+                "def": 85,
+                "ER": "0"
+            },
+            {
+                "level": 10,
+                "ascension": 0,
+                "hp": 1419,
+                "atk": 39,
+                "def": 89,
+                "ER": "0"
+            },
+            {
+                "level": 11,
+                "ascension": 0,
+                "hp": 1487,
+                "atk": 41,
+                "def": 93,
+                "ER": "0"
+            },
+            {
+                "level": 12,
+                "ascension": 0,
+                "hp": 1555,
+                "atk": 43,
+                "def": 98,
+                "ER": "0"
+            },
+            {
+                "level": 13,
+                "ascension": 0,
+                "hp": 1623,
+                "atk": 45,
+                "def": 102,
+                "ER": "0"
+            },
+            {
+                "level": 14,
+                "ascension": 0,
+                "hp": 1692,
+                "atk": 47,
+                "def": 106,
+                "ER": "0"
+            },
+            {
+                "level": 15,
+                "ascension": 0,
+                "hp": 1760,
+                "atk": 49,
+                "def": 110,
+                "ER": "0"
+            },
+            {
+                "level": 16,
+                "ascension": 0,
+                "hp": 1828,
+                "atk": 50,
+                "def": 115,
+                "ER": "0"
+            },
+            {
+                "level": 17,
+                "ascension": 0,
+                "hp": 1897,
+                "atk": 52,
+                "def": 119,
+                "ER": "0"
+            },
+            {
+                "level": 18,
+                "ascension": 0,
+                "hp": 1965,
+                "atk": 54,
+                "def": 123,
+                "ER": "0"
+            },
+            {
+                "level": 19,
+                "ascension": 0,
+                "hp": 2034,
+                "atk": 56,
+                "def": 128,
+                "ER": "0"
+            },
+            {
+                "level": 20,
+                "ascension": 0,
+                "hp": 2102,
+                "atk": 58,
+                "def": 132,
+                "ER": "0"
+            },
+            {
+                "level": 21,
+                "ascension": 1,
+                "hp": 2866,
+                "atk": 79,
+                "def": 180,
+                "ER": "0"
+            },
+            {
+                "level": 22,
+                "ascension": 1,
+                "hp": 2935,
+                "atk": 81,
+                "def": 184,
+                "ER": "0"
+            },
+            {
+                "level": 23,
+                "ascension": 1,
+                "hp": 3003,
+                "atk": 83,
+                "def": 188,
+                "ER": "0"
+            },
+            {
+                "level": 24,
+                "ascension": 1,
+                "hp": 3072,
+                "atk": 85,
+                "def": 193,
+                "ER": "0"
+            },
+            {
+                "level": 25,
+                "ascension": 1,
+                "hp": 3141,
+                "atk": 87,
+                "def": 197,
+                "ER": "0"
+            },
+            {
+                "level": 26,
+                "ascension": 1,
+                "hp": 3211,
+                "atk": 89,
+                "def": 202,
+                "ER": "0"
+            },
+            {
+                "level": 27,
+                "ascension": 1,
+                "hp": 3280,
+                "atk": 90,
+                "def": 206,
+                "ER": "0"
+            },
+            {
+                "level": 28,
+                "ascension": 1,
+                "hp": 3349,
+                "atk": 92,
+                "def": 210,
+                "ER": "0"
+            },
+            {
+                "level": 29,
+                "ascension": 1,
+                "hp": 3418,
+                "atk": 94,
+                "def": 215,
+                "ER": "0"
+            },
+            {
+                "level": 30,
+                "ascension": 1,
+                "hp": 3487,
+                "atk": 96,
+                "def": 219,
+                "ER": "0"
+            },
+            {
+                "level": 31,
+                "ascension": 1,
+                "hp": 3557,
+                "atk": 98,
+                "def": 223,
+                "ER": "0"
+            },
+            {
+                "level": 32,
+                "ascension": 1,
+                "hp": 3627,
+                "atk": 100,
+                "def": 228,
+                "ER": "0"
+            },
+            {
+                "level": 33,
+                "ascension": 1,
+                "hp": 3696,
+                "atk": 102,
+                "def": 232,
+                "ER": "0"
+            },
+            {
+                "level": 34,
+                "ascension": 1,
+                "hp": 3765,
+                "atk": 104,
+                "def": 236,
+                "ER": "0"
+            },
+            {
+                "level": 35,
+                "ascension": 1,
+                "hp": 3835,
+                "atk": 106,
+                "def": 241,
+                "ER": "0"
+            },
+            {
+                "level": 36,
+                "ascension": 1,
+                "hp": 3905,
+                "atk": 108,
+                "def": 245,
+                "ER": "0"
+            },
+            {
+                "level": 37,
+                "ascension": 1,
+                "hp": 3975,
+                "atk": 110,
+                "def": 249,
+                "ER": "0"
+            },
+            {
+                "level": 38,
+                "ascension": 1,
+                "hp": 4045,
+                "atk": 112,
+                "def": 254,
+                "ER": "0"
+            },
+            {
+                "level": 39,
+                "ascension": 1,
+                "hp": 4114,
+                "atk": 113,
+                "def": 258,
+                "ER": "0"
+            },
+            {
+                "level": 40,
+                "ascension": 1,
+                "hp": 4185,
+                "atk": 115,
+                "def": 263,
+                "ER": "0"
+            },
+            {
+                "level": 41,
+                "ascension": 2,
+                "hp": 4748,
+                "atk": 131,
+                "def": 298,
+                "ER": "8"
+            },
+            {
+                "level": 42,
+                "ascension": 2,
+                "hp": 4819,
+                "atk": 133,
+                "def": 302,
+                "ER": "8"
+            },
+            {
+                "level": 43,
+                "ascension": 2,
+                "hp": 4889,
+                "atk": 135,
+                "def": 307,
+                "ER": "8"
+            },
+            {
+                "level": 44,
+                "ascension": 2,
+                "hp": 4959,
+                "atk": 137,
+                "def": 311,
+                "ER": "8"
+            },
+            {
+                "level": 45,
+                "ascension": 2,
+                "hp": 5029,
+                "atk": 139,
+                "def": 316,
+                "ER": "8"
+            },
+            {
+                "level": 46,
+                "ascension": 2,
+                "hp": 5100,
+                "atk": 141,
+                "def": 320,
+                "ER": "8"
+            },
+            {
+                "level": 47,
+                "ascension": 2,
+                "hp": 5170,
+                "atk": 143,
+                "def": 324,
+                "ER": "8"
+            },
+            {
+                "level": 48,
+                "ascension": 2,
+                "hp": 5241,
+                "atk": 145,
+                "def": 329,
+                "ER": "8"
+            },
+            {
+                "level": 49,
+                "ascension": 2,
+                "hp": 5312,
+                "atk": 146,
+                "def": 333,
+                "ER": "8"
+            },
+            {
+                "level": 50,
+                "ascension": 2,
+                "hp": 5383,
+                "atk": 148,
+                "def": 338,
+                "ER": "8"
+            },
+            {
+                "level": 51,
+                "ascension": 3,
+                "hp": 6111,
+                "atk": 169,
+                "def": 384,
+                "ER": "16"
+            },
+            {
+                "level": 52,
+                "ascension": 3,
+                "hp": 6183,
+                "atk": 170,
+                "def": 388,
+                "ER": "16"
+            },
+            {
+                "level": 53,
+                "ascension": 3,
+                "hp": 6253,
+                "atk": 172,
+                "def": 392,
+                "ER": "16"
+            },
+            {
+                "level": 54,
+                "ascension": 3,
+                "hp": 6324,
+                "atk": 174,
+                "def": 397,
+                "ER": "16"
+            },
+            {
+                "level": 55,
+                "ascension": 3,
+                "hp": 6396,
+                "atk": 176,
+                "def": 401,
+                "ER": "16"
+            },
+            {
+                "level": 56,
+                "ascension": 3,
+                "hp": 6467,
+                "atk": 178,
+                "def": 406,
+                "ER": "16"
+            },
+            {
+                "level": 57,
+                "ascension": 3,
+                "hp": 6538,
+                "atk": 180,
+                "def": 410,
+                "ER": "16"
+            },
+            {
+                "level": 58,
+                "ascension": 3,
+                "hp": 6610,
+                "atk": 182,
+                "def": 415,
+                "ER": "16"
+            },
+            {
+                "level": 59,
+                "ascension": 3,
+                "hp": 6681,
+                "atk": 184,
+                "def": 419,
+                "ER": "16"
+            },
+            {
+                "level": 60,
+                "ascension": 3,
+                "hp": 6752,
+                "atk": 186,
+                "def": 424,
+                "ER": "16"
+            },
+            {
+                "level": 61,
+                "ascension": 4,
+                "hp": 7317,
+                "atk": 202,
+                "def": 459,
+                "ER": "16"
+            },
+            {
+                "level": 62,
+                "ascension": 4,
+                "hp": 7389,
+                "atk": 204,
+                "def": 464,
+                "ER": "16"
+            },
+            {
+                "level": 63,
+                "ascension": 4,
+                "hp": 7461,
+                "atk": 206,
+                "def": 468,
+                "ER": "16"
+            },
+            {
+                "level": 64,
+                "ascension": 4,
+                "hp": 7532,
+                "atk": 208,
+                "def": 473,
+                "ER": "16"
+            },
+            {
+                "level": 65,
+                "ascension": 4,
+                "hp": 7604,
+                "atk": 210,
+                "def": 477,
+                "ER": "16"
+            },
+            {
+                "level": 66,
+                "ascension": 4,
+                "hp": 7676,
+                "atk": 212,
+                "def": 482,
+                "ER": "16"
+            },
+            {
+                "level": 67,
+                "ascension": 4,
+                "hp": 7748,
+                "atk": 214,
+                "def": 486,
+                "ER": "16"
+            },
+            {
+                "level": 68,
+                "ascension": 4,
+                "hp": 7820,
+                "atk": 216,
+                "def": 491,
+                "ER": "16"
+            },
+            {
+                "level": 69,
+                "ascension": 4,
+                "hp": 7892,
+                "atk": 218,
+                "def": 495,
+                "ER": "16"
+            },
+            {
+                "level": 70,
+                "ascension": 4,
+                "hp": 7964,
+                "atk": 220,
+                "def": 500,
+                "ER": "16"
+            },
+            {
+                "level": 71,
+                "ascension": 5,
+                "hp": 8530,
+                "atk": 235,
+                "def": 535,
+                "ER": "24"
+            },
+            {
+                "level": 72,
+                "ascension": 5,
+                "hp": 8603,
+                "atk": 237,
+                "def": 540,
+                "ER": "24"
+            },
+            {
+                "level": 73,
+                "ascension": 5,
+                "hp": 8675,
+                "atk": 239,
+                "def": 544,
+                "ER": "24"
+            },
+            {
+                "level": 74,
+                "ascension": 5,
+                "hp": 8747,
+                "atk": 241,
+                "def": 549,
+                "ER": "24"
+            },
+            {
+                "level": 75,
+                "ascension": 5,
+                "hp": 8820,
+                "atk": 243,
+                "def": 554,
+                "ER": "24"
+            },
+            {
+                "level": 76,
+                "ascension": 5,
+                "hp": 8892,
+                "atk": 245,
+                "def": 558,
+                "ER": "24"
+            },
+            {
+                "level": 77,
+                "ascension": 5,
+                "hp": 8965,
+                "atk": 247,
+                "def": 563,
+                "ER": "24"
+            },
+            {
+                "level": 78,
+                "ascension": 5,
+                "hp": 9038,
+                "atk": 249,
+                "def": 567,
+                "ER": "24"
+            },
+            {
+                "level": 79,
+                "ascension": 5,
+                "hp": 9111,
+                "atk": 251,
+                "def": 572,
+                "ER": "24"
+            },
+            {
+                "level": 80,
+                "ascension": 5,
+                "hp": 9184,
+                "atk": 253,
+                "def": 576,
+                "ER": "24"
+            },
+            {
+                "level": 81,
+                "ascension": 6,
+                "hp": 9750,
+                "atk": 269,
+                "def": 612,
+                "ER": "32"
+            },
+            {
+                "level": 82,
+                "ascension": 6,
+                "hp": 9823,
+                "atk": 271,
+                "def": 617,
+                "ER": "32"
+            },
+            {
+                "level": 83,
+                "ascension": 6,
+                "hp": 9896,
+                "atk": 273,
+                "def": 621,
+                "ER": "32"
+            },
+            {
+                "level": 84,
+                "ascension": 6,
+                "hp": 9969,
+                "atk": 275,
+                "def": 626,
+                "ER": "32"
+            },
+            {
+                "level": 85,
+                "ascension": 6,
+                "hp": 10042,
+                "atk": 277,
+                "def": 630,
+                "ER": "32"
+            },
+            {
+                "level": 86,
+                "ascension": 6,
+                "hp": 10116,
+                "atk": 279,
+                "def": 635,
+                "ER": "32"
+            },
+            {
+                "level": 87,
+                "ascension": 6,
+                "hp": 10189,
+                "atk": 281,
+                "def": 639,
+                "ER": "32"
+            },
+            {
+                "level": 88,
+                "ascension": 6,
+                "hp": 10262,
+                "atk": 283,
+                "def": 644,
+                "ER": "32"
+            },
+            {
+                "level": 89,
+                "ascension": 6,
+                "hp": 10336,
+                "atk": 285,
+                "def": 649,
+                "ER": "32"
+            },
+            {
+                "level": 90,
+                "ascension": 6,
+                "hp": 10409,
+                "atk": 287,
+                "def": 653,
+                "ER": "32"
+            },
+            {
+                "level": 95,
+                "ascension": 6,
+                "hp": 10779,
+                "atk": 319,
+                "def": 676,
+                "ER": "32"
+            },
+            {
+                "level": 100,
+                "ascension": 6,
+                "hp": 11149,
+                "atk": 352,
+                "def": 700,
+                "ER": "32"
+            }
+        ]
+    },
+    "icons": {
+        "forward": "UI_AvatarIcon_Mona",
+        "coop_img": "UI_CoopImg_Mona"
+    },
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100025": 168
+        },
+        "elemental": {
+            "104121": 1,
+            "104122": 9,
+            "104123": 9,
+            "104124": 6
+        },
+        "worldmonster": {
+            "112038": 18,
+            "112039": 30,
+            "112040": 36
+        },
+        "elitemonster": {
+            "113012": 46
+        }
+    },
+    "skills": {
+        "normalattack": {
+            "name": "Ripple of Fate",
+            "icon": "Skill_A_Catalyst_MD",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "37.6%",
+                    "40.42%",
+                    "43.24%",
+                    "47%",
+                    "49.82%",
+                    "52.64%",
+                    "56.4%",
+                    "60.16%",
+                    "63.92%",
+                    "67.68%",
+                    "71.44%",
+                    "75.2%",
+                    "79.9%",
+                    "84.6%",
+                    "89.3%"
+                ],
+                "2-Hit DMG": [
+                    "36%",
+                    "38.7%",
+                    "41.4%",
+                    "45%",
+                    "47.7%",
+                    "50.4%",
+                    "54%",
+                    "57.6%",
+                    "61.2%",
+                    "64.8%",
+                    "68.4%",
+                    "72%",
+                    "76.5%",
+                    "81%",
+                    "85.5%"
+                ],
+                "3-Hit DMG": [
+                    "44.8%",
+                    "48.16%",
+                    "51.52%",
+                    "56%",
+                    "59.36%",
+                    "62.72%",
+                    "67.2%",
+                    "71.68%",
+                    "76.16%",
+                    "80.64%",
+                    "85.12%",
+                    "89.6%",
+                    "95.2%",
+                    "100.8%",
+                    "106.4%"
+                ],
+                "4-Hit DMG": [
+                    "56.16%",
+                    "60.37%",
+                    "64.58%",
+                    "70.2%",
+                    "74.41%",
+                    "78.62%",
+                    "84.24%",
+                    "89.86%",
+                    "95.47%",
+                    "101.09%",
+                    "106.7%",
+                    "112.32%",
+                    "119.34%",
+                    "126.36%",
+                    "133.38%"
+                ],
+                "Charged Attack DMG": [
+                    "149.72%",
+                    "160.95%",
+                    "172.18%",
+                    "187.15%",
+                    "198.38%",
+                    "209.61%",
+                    "224.58%",
+                    "239.55%",
+                    "254.52%",
+                    "269.5%",
+                    "285.07%",
+                    "305.43%",
+                    "325.79%",
+                    "346.15%",
+                    "366.51%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50"
+                ],
+                "Plunge DMG": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "Low/High Plunge DMG": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ]
+            },
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 water splash attacks that deal <color=#80C0FFFF>Hydro DMG</color>.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to deal <color=#80C0FFFF>AoE Hydro DMG</color> after a short casting time.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nGathering the might of Hydro, Mona plunges towards the ground from mid-air, damaging all opponents in her path. Deals <color=#80C0FFFF>AoE Hydro DMG</color> upon impact with the ground."
+        },
+        "elementalskill": {
+            "name": "Mirror Reflection of Doom",
+            "icon": "Skill_S_Mona_01",
+            "multipliers": {
+                "DoT": [
+                    "32%",
+                    "34.4%",
+                    "36.8%",
+                    "40%",
+                    "42.4%",
+                    "44.8%",
+                    "48%",
+                    "51.2%",
+                    "54.4%",
+                    "57.6%",
+                    "60.8%",
+                    "64%",
+                    "68%",
+                    "72%",
+                    "76%"
+                ],
+                "Explosion DMG": [
+                    "132.8%",
+                    "142.76%",
+                    "152.72%",
+                    "166%",
+                    "175.96%",
+                    "185.92%",
+                    "199.2%",
+                    "212.48%",
+                    "225.76%",
+                    "239.04%",
+                    "252.32%",
+                    "265.6%",
+                    "282.2%",
+                    "298.8%",
+                    "315.4%"
+                ],
+                "CD": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ]
+            },
+            "description": "Creates an illusory Phantom of Fate from coalesced waterspouts.\\n\\n<color=#FFD780FF>Phantom</color>\\nHas the following special properties:\\n·Continuously taunts nearby opponents, attracting their fire.\\n·Continuously deals <color=#80C0FFFF>Hydro DMG</color> to nearby opponents.\\n·When its duration expires, the Phantom explodes, dealing <color=#80C0FFFF>AoE Hydro DMG</color>.\\n\\n<color=#FFD780FF>Hold</color>\\nUtilizes water currents to move backwards swiftly before conjuring a Phantom.\\n\\nOnly one Phantom created by Mirror Reflection of Doom can exist at any time.\\n\\n<i>Skilled astrologers have always dreamed of using a phantom facsimile of themselves to ward off imminent ill fate, but Mona must be the first to make such a mockery of it in all of Teyvat.</i>"
+        },
+        "elementalburst": {
+            "name": "Stellaris Phantasm",
+            "icon": "Skill_E_Mona_01",
+            "multipliers": {
+                "Illusory Bubble Duration": [
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s"
+                ],
+                "Illusory Bubble Explosion DMG": [
+                    "442.4%",
+                    "475.58%",
+                    "508.76%",
+                    "553%",
+                    "586.18%",
+                    "619.36%",
+                    "663.6%",
+                    "707.84%",
+                    "752.08%",
+                    "796.32%",
+                    "840.56%",
+                    "884.8%",
+                    "940.1%",
+                    "995.4%",
+                    "1050.7%"
+                ],
+                "DMG Bonus": [
+                    "42%",
+                    "44%",
+                    "46%",
+                    "48%",
+                    "50%",
+                    "52%",
+                    "54%",
+                    "56%",
+                    "58%",
+                    "60%",
+                    "60%",
+                    "60%",
+                    "60%",
+                    "60%",
+                    "60%"
+                ],
+                "Omen Duration": [
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4.5s",
+                    "4.5s",
+                    "4.5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s"
+                ],
+                "CD": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Energy Cost": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ]
+            },
+            "description": "Mona summons the sparkling waves and creates a reflection of the starry sky, applying the Illusory Bubble status to opponents in a large AoE.\\n\\n<color=#FFD780FF>Illusory Bubble</color>\\nTraps opponents inside a pocket of destiny and also makes them <color=#80C0FFFF>Wet</color>. Renders weaker opponents immobile.\\nWhen an opponent affected by Illusory Bubble sustains DMG, it has the following effects:\\n·Applies an Omen to the opponent, which gives a DMG Bonus, also increasing the DMG of the attack that causes it.\\n·Removes the Illusory Bubble, dealing <color=#80C0FFFF>Hydro</color> DMG in the process.\\n\\n<color=#FFD780FF>Omen</color>\\nDuring its duration, increases DMG taken by opponents.\\n\\n<i>It was from the time that gods first traced the lights in the heavens with their eyes that the notion of \"fate\" was born.</i>"
+        },
+        "leveling": {
+            "books": {
+                "104304": 9,
+                "104305": 63,
+                "104306": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "worldmonster": {
+                "112038": 18,
+                "112039": 66,
+                "112040": 93
+            },
+            "weekly": {
+                "113007": 18
+            }
+        }
+    },
+    "passives": {
+        "p1": {
+            "name": "\"Come 'n' Get Me, Hag!\"",
+            "description": "After she has used <color=#FFD780FF>Illusory Torrent</color> for 2s, if there are any opponents nearby, Mona will automatically create a Phantom.\\nA Phantom created in this manner lasts for 2s, and its explosion DMG is equal to 50% of <color=#FFD780FF>Mirror Reflection of Doom</color>.",
+            "icon": "UI_Talent_S_Mona_05"
+        },
+        "p2": {
+            "name": "Waterborne Destiny",
+            "description": "Increases Mona's <color=#80C0FFFF>Hydro DMG Bonus</color> by a degree equivalent to 20% of her Energy Recharge rate.",
+            "icon": "UI_Talent_S_Mona_06"
+        },
+        "p3": {
+            "name": "Principium of Astrology",
+            "description": "When Mona crafts Weapon Ascension Materials, she has a 25% chance to refund a portion of the crafting materials used.",
+            "icon": "UI_Talent_Combine_Weapon"
+        },
+        "p4": {
+            "name": "Witch's Eve Rite: Genesis of Starsigns",
+            "description": "After completing <color=#FFD780FF>Witch's Homework: Of Untested Insight</color>, Mona will become a <color=#FFD780FF>Hexerei</color> character. When the party includes at least 2 Hexerei characters, you will gain the <color=#FFD780FF>Hexerei: Secret Rite</color> effect, which enhances Hexerei characters.\\n\\n<color=#FFD780FF>Hexerei: Secret Rite</color>\\nWhen Mona's Normal Attacks or Charged Attacks hit an opponent, she gains 1 stack of <color=#FFD780FF>Astral Glow of Mercury</color>, for 8s. Max 3 stacks. This effect can grant at most one stack every 0.1s. When other party members trigger a Vaporize reaction on an enemy, all Astral Glow of Mercury stacks are consumed. Each stack consumed increases the damage of that Vaporize reaction by 5%.\\nAdditionally, when Mona's Normal Attacks or Charged Attacks hit an opponent, the enemy's <color=#FFD780FF>Omen</color> duration is extended by 2s. This effect can trigger at most once every 0.5s, and can extend the Omen by up to 8s through this method.",
+            "icon": "UI_Talent_S_Mona_07"
+        }
+    },
+    "constellations": {
+        "const1": {
+            "name": "Prophecy of Submersion",
+            "description": "When any of your own party members hits an opponent affected by an Omen, the effects of <color=#80C0FFFF>Hydro-related Elemental Reactions</color> are enhanced for 8s:\\n· Electro-Charged DMG increases by 15%, Lunar-Charged DMG increases by 15%, Vaporize DMG increases by 15%, Hydro Swirl DMG increases by 15%, Lunar-Crystallize DMG increases by 15%.\\n· Frozen duration is extended by 15%.",
+            "icon": "UI_Talent_S_Mona_01"
+        },
+        "const2": {
+            "name": "Lunar Chain",
+            "description": "When a Normal Attack hits, there is a 20% chance that it will be automatically followed by a Charged Attack.\\nThis effect can only occur once every 5s.",
+            "icon": "UI_Talent_S_Mona_02"
+        },
+        "const3": {
+            "name": "Restless Revolution",
+            "description": "Increases the Level of <color=#FFD780FF>Stellaris Phantasm</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Mona_01"
+        },
+        "const4": {
+            "name": "Prophecy of Oblivion",
+            "description": "When any party member attacks an opponent affected by an Omen, their CRIT Rate is increased by 15%.",
+            "icon": "UI_Talent_S_Mona_03"
+        },
+        "const5": {
+            "name": "Mockery of Fortuna",
+            "description": "Increases the Level of <color=#FFD780FF>Mirror Reflection of Doom</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Mona_02"
+        },
+        "const6": {
+            "name": "Rhetorics of Calamitas",
+            "description": "Upon entering <color=#FFD780FF>Illusory Torrent</color>, Mona gains a 60% increase to the DMG of her next Charged Attack per second of movement.\\nA maximum DMG Bonus of 180% can be achieved in this manner. The effect lasts for no more than 8s.",
+            "icon": "UI_Talent_S_Mona_04"
+        }
+    },
+    "energy": [
+        {
+            "source": "Ball",
+            "particles": "3",
+            "chance": "100%",
+            "cd": "1s"
+        },
+        {
+            "source": "Ball",
+            "particles": "1",
+            "chance": "33%",
+            "cd": "1s"
+        }
+    ],
+    "attacks": [
+        {
+            "name": "LiquidStrike",
+            "icd_source": "Tag: Mona_LiquidStrike (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/0",
+            "element": "Water"
+        },
+        {
+            "name": "ExtraAttack_Damage",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/26",
+            "element": "Water"
+        },
+        {
+            "name": "NormalAttack_01",
+            "icd_source": "Tag: Mona_Water_Damage (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV1/7",
+            "element": "Water"
+        },
+        {
+            "name": "NormalAttack_02",
+            "icd_source": "Tag: Mona_Water_Damage (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV1/7",
+            "element": "Water"
+        },
+        {
+            "name": "NormalAttack_03",
+            "icd_source": "Tag: Mona_Water_Damage (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV1/9",
+            "element": "Water"
+        },
+        {
+            "name": "NormalAttack_04_Hit",
+            "icd_source": "Tag: Mona_Water_Damage (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/11",
+            "element": "Water"
+        },
+        {
+            "name": "Avatar_MonaGadgetSkill_Phantom",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/40",
+            "element": "Water"
+        },
+        {
+            "name": "Avatar_MonaGadgetSkill_PhantomLastAttack",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/150",
+            "element": "Water"
+        },
+        {
+            "name": "StarChart",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV1/50",
+            "element": "Water"
+        },
+        {
+            "name": "StarChart",
+            "icd_source": "Tag: Elemental_Burst_Trigger (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV0/0",
+            "element": "-"
+        },
+        {
+            "name": "StarChart",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "2U",
+            "poise": "LV1/200",
+            "element": "Water"
+        },
+        {
+            "name": "Talent_MonaGadgetSkill_LiquidPhantom",
+            "icd_source": "Tag: Elemental_Art_Extra (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/150",
+            "element": "Water"
+        },
+        {
+            "name": "Talent_AutoExtraAttack",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/26",
+            "element": "Water"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/5",
+            "element": "Water"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/50",
+            "element": "Water"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/100",
+            "element": "Water"
+        }
+    ],
+    "hyperlinks": []
+}

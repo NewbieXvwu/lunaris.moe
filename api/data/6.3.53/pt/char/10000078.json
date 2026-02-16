@@ -1,0 +1,1397 @@
+{
+    "info": {
+        "name": "Alhaitham",
+        "description": "O atual Escriba da Academia de Sumeru, um homem de grande inteligência e talento. Vive sua vida livre e despreocupado, sendo uma pessoa muito difícil de se encontrar.",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_SWORD_ONE_HAND",
+        "birthday": "February 11th",
+        "element": "Dendro",
+        "constellation": "Vultur Volans",
+        "attributes": [
+            {
+                "level": 1,
+                "ascension": 0,
+                "hp": 1039,
+                "atk": 24,
+                "def": 61,
+                "Dendro%": "0"
+            },
+            {
+                "level": 2,
+                "ascension": 0,
+                "hp": 1125,
+                "atk": 26,
+                "def": 66,
+                "Dendro%": "0"
+            },
+            {
+                "level": 3,
+                "ascension": 0,
+                "hp": 1212,
+                "atk": 28,
+                "def": 71,
+                "Dendro%": "0"
+            },
+            {
+                "level": 4,
+                "ascension": 0,
+                "hp": 1299,
+                "atk": 30,
+                "def": 76,
+                "Dendro%": "0"
+            },
+            {
+                "level": 5,
+                "ascension": 0,
+                "hp": 1385,
+                "atk": 33,
+                "def": 81,
+                "Dendro%": "0"
+            },
+            {
+                "level": 6,
+                "ascension": 0,
+                "hp": 1472,
+                "atk": 35,
+                "def": 86,
+                "Dendro%": "0"
+            },
+            {
+                "level": 7,
+                "ascension": 0,
+                "hp": 1559,
+                "atk": 37,
+                "def": 91,
+                "Dendro%": "0"
+            },
+            {
+                "level": 8,
+                "ascension": 0,
+                "hp": 1646,
+                "atk": 39,
+                "def": 96,
+                "Dendro%": "0"
+            },
+            {
+                "level": 9,
+                "ascension": 0,
+                "hp": 1733,
+                "atk": 41,
+                "def": 101,
+                "Dendro%": "0"
+            },
+            {
+                "level": 10,
+                "ascension": 0,
+                "hp": 1819,
+                "atk": 43,
+                "def": 107,
+                "Dendro%": "0"
+            },
+            {
+                "level": 11,
+                "ascension": 0,
+                "hp": 1907,
+                "atk": 45,
+                "def": 112,
+                "Dendro%": "0"
+            },
+            {
+                "level": 12,
+                "ascension": 0,
+                "hp": 1994,
+                "atk": 47,
+                "def": 117,
+                "Dendro%": "0"
+            },
+            {
+                "level": 13,
+                "ascension": 0,
+                "hp": 2081,
+                "atk": 49,
+                "def": 122,
+                "Dendro%": "0"
+            },
+            {
+                "level": 14,
+                "ascension": 0,
+                "hp": 2170,
+                "atk": 51,
+                "def": 127,
+                "Dendro%": "0"
+            },
+            {
+                "level": 15,
+                "ascension": 0,
+                "hp": 2257,
+                "atk": 53,
+                "def": 132,
+                "Dendro%": "0"
+            },
+            {
+                "level": 16,
+                "ascension": 0,
+                "hp": 2344,
+                "atk": 55,
+                "def": 137,
+                "Dendro%": "0"
+            },
+            {
+                "level": 17,
+                "ascension": 0,
+                "hp": 2433,
+                "atk": 57,
+                "def": 142,
+                "Dendro%": "0"
+            },
+            {
+                "level": 18,
+                "ascension": 0,
+                "hp": 2520,
+                "atk": 59,
+                "def": 148,
+                "Dendro%": "0"
+            },
+            {
+                "level": 19,
+                "ascension": 0,
+                "hp": 2608,
+                "atk": 61,
+                "def": 153,
+                "Dendro%": "0"
+            },
+            {
+                "level": 20,
+                "ascension": 0,
+                "hp": 2695,
+                "atk": 63,
+                "def": 158,
+                "Dendro%": "0"
+            },
+            {
+                "level": 21,
+                "ascension": 1,
+                "hp": 3675,
+                "atk": 86,
+                "def": 215,
+                "Dendro%": "0"
+            },
+            {
+                "level": 22,
+                "ascension": 1,
+                "hp": 3763,
+                "atk": 88,
+                "def": 220,
+                "Dendro%": "0"
+            },
+            {
+                "level": 23,
+                "ascension": 1,
+                "hp": 3851,
+                "atk": 90,
+                "def": 226,
+                "Dendro%": "0"
+            },
+            {
+                "level": 24,
+                "ascension": 1,
+                "hp": 3940,
+                "atk": 92,
+                "def": 231,
+                "Dendro%": "0"
+            },
+            {
+                "level": 25,
+                "ascension": 1,
+                "hp": 4028,
+                "atk": 95,
+                "def": 236,
+                "Dendro%": "0"
+            },
+            {
+                "level": 26,
+                "ascension": 1,
+                "hp": 4117,
+                "atk": 97,
+                "def": 241,
+                "Dendro%": "0"
+            },
+            {
+                "level": 27,
+                "ascension": 1,
+                "hp": 4206,
+                "atk": 99,
+                "def": 246,
+                "Dendro%": "0"
+            },
+            {
+                "level": 28,
+                "ascension": 1,
+                "hp": 4294,
+                "atk": 101,
+                "def": 251,
+                "Dendro%": "0"
+            },
+            {
+                "level": 29,
+                "ascension": 1,
+                "hp": 4383,
+                "atk": 103,
+                "def": 257,
+                "Dendro%": "0"
+            },
+            {
+                "level": 30,
+                "ascension": 1,
+                "hp": 4472,
+                "atk": 105,
+                "def": 262,
+                "Dendro%": "0"
+            },
+            {
+                "level": 31,
+                "ascension": 1,
+                "hp": 4561,
+                "atk": 107,
+                "def": 267,
+                "Dendro%": "0"
+            },
+            {
+                "level": 32,
+                "ascension": 1,
+                "hp": 4650,
+                "atk": 109,
+                "def": 272,
+                "Dendro%": "0"
+            },
+            {
+                "level": 33,
+                "ascension": 1,
+                "hp": 4740,
+                "atk": 111,
+                "def": 278,
+                "Dendro%": "0"
+            },
+            {
+                "level": 34,
+                "ascension": 1,
+                "hp": 4828,
+                "atk": 113,
+                "def": 283,
+                "Dendro%": "0"
+            },
+            {
+                "level": 35,
+                "ascension": 1,
+                "hp": 4918,
+                "atk": 115,
+                "def": 288,
+                "Dendro%": "0"
+            },
+            {
+                "level": 36,
+                "ascension": 1,
+                "hp": 5008,
+                "atk": 118,
+                "def": 293,
+                "Dendro%": "0"
+            },
+            {
+                "level": 37,
+                "ascension": 1,
+                "hp": 5097,
+                "atk": 120,
+                "def": 298,
+                "Dendro%": "0"
+            },
+            {
+                "level": 38,
+                "ascension": 1,
+                "hp": 5187,
+                "atk": 122,
+                "def": 304,
+                "Dendro%": "0"
+            },
+            {
+                "level": 39,
+                "ascension": 1,
+                "hp": 5276,
+                "atk": 124,
+                "def": 309,
+                "Dendro%": "0"
+            },
+            {
+                "level": 40,
+                "ascension": 1,
+                "hp": 5366,
+                "atk": 126,
+                "def": 314,
+                "Dendro%": "0"
+            },
+            {
+                "level": 41,
+                "ascension": 2,
+                "hp": 6089,
+                "atk": 143,
+                "def": 357,
+                "Dendro%": "7.2"
+            },
+            {
+                "level": 42,
+                "ascension": 2,
+                "hp": 6179,
+                "atk": 145,
+                "def": 362,
+                "Dendro%": "7.2"
+            },
+            {
+                "level": 43,
+                "ascension": 2,
+                "hp": 6270,
+                "atk": 147,
+                "def": 367,
+                "Dendro%": "7.2"
+            },
+            {
+                "level": 44,
+                "ascension": 2,
+                "hp": 6359,
+                "atk": 149,
+                "def": 372,
+                "Dendro%": "7.2"
+            },
+            {
+                "level": 45,
+                "ascension": 2,
+                "hp": 6449,
+                "atk": 151,
+                "def": 378,
+                "Dendro%": "7.2"
+            },
+            {
+                "level": 46,
+                "ascension": 2,
+                "hp": 6540,
+                "atk": 154,
+                "def": 383,
+                "Dendro%": "7.2"
+            },
+            {
+                "level": 47,
+                "ascension": 2,
+                "hp": 6630,
+                "atk": 156,
+                "def": 388,
+                "Dendro%": "7.2"
+            },
+            {
+                "level": 48,
+                "ascension": 2,
+                "hp": 6721,
+                "atk": 158,
+                "def": 394,
+                "Dendro%": "7.2"
+            },
+            {
+                "level": 49,
+                "ascension": 2,
+                "hp": 6812,
+                "atk": 160,
+                "def": 399,
+                "Dendro%": "7.2"
+            },
+            {
+                "level": 50,
+                "ascension": 2,
+                "hp": 6902,
+                "atk": 162,
+                "def": 404,
+                "Dendro%": "7.2"
+            },
+            {
+                "level": 51,
+                "ascension": 3,
+                "hp": 7837,
+                "atk": 184,
+                "def": 459,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 52,
+                "ascension": 3,
+                "hp": 7928,
+                "atk": 186,
+                "def": 464,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 53,
+                "ascension": 3,
+                "hp": 8019,
+                "atk": 188,
+                "def": 470,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 54,
+                "ascension": 3,
+                "hp": 8110,
+                "atk": 190,
+                "def": 475,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 55,
+                "ascension": 3,
+                "hp": 8202,
+                "atk": 193,
+                "def": 480,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 56,
+                "ascension": 3,
+                "hp": 8293,
+                "atk": 195,
+                "def": 486,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 57,
+                "ascension": 3,
+                "hp": 8385,
+                "atk": 197,
+                "def": 491,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 58,
+                "ascension": 3,
+                "hp": 8476,
+                "atk": 199,
+                "def": 496,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 59,
+                "ascension": 3,
+                "hp": 8567,
+                "atk": 201,
+                "def": 502,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 60,
+                "ascension": 3,
+                "hp": 8659,
+                "atk": 203,
+                "def": 507,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 61,
+                "ascension": 4,
+                "hp": 9383,
+                "atk": 220,
+                "def": 549,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 62,
+                "ascension": 4,
+                "hp": 9475,
+                "atk": 222,
+                "def": 555,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 63,
+                "ascension": 4,
+                "hp": 9567,
+                "atk": 225,
+                "def": 560,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 64,
+                "ascension": 4,
+                "hp": 9659,
+                "atk": 227,
+                "def": 566,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 65,
+                "ascension": 4,
+                "hp": 9751,
+                "atk": 229,
+                "def": 571,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 66,
+                "ascension": 4,
+                "hp": 9844,
+                "atk": 231,
+                "def": 576,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 67,
+                "ascension": 4,
+                "hp": 9935,
+                "atk": 233,
+                "def": 582,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 68,
+                "ascension": 4,
+                "hp": 10028,
+                "atk": 235,
+                "def": 587,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 69,
+                "ascension": 4,
+                "hp": 10120,
+                "atk": 238,
+                "def": 593,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 70,
+                "ascension": 4,
+                "hp": 10213,
+                "atk": 240,
+                "def": 598,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 71,
+                "ascension": 5,
+                "hp": 10938,
+                "atk": 257,
+                "def": 641,
+                "Dendro%": "21.6"
+            },
+            {
+                "level": 72,
+                "ascension": 5,
+                "hp": 11032,
+                "atk": 259,
+                "def": 646,
+                "Dendro%": "21.6"
+            },
+            {
+                "level": 73,
+                "ascension": 5,
+                "hp": 11124,
+                "atk": 261,
+                "def": 651,
+                "Dendro%": "21.6"
+            },
+            {
+                "level": 74,
+                "ascension": 5,
+                "hp": 11217,
+                "atk": 263,
+                "def": 657,
+                "Dendro%": "21.6"
+            },
+            {
+                "level": 75,
+                "ascension": 5,
+                "hp": 11310,
+                "atk": 265,
+                "def": 662,
+                "Dendro%": "21.6"
+            },
+            {
+                "level": 76,
+                "ascension": 5,
+                "hp": 11403,
+                "atk": 268,
+                "def": 668,
+                "Dendro%": "21.6"
+            },
+            {
+                "level": 77,
+                "ascension": 5,
+                "hp": 11496,
+                "atk": 270,
+                "def": 673,
+                "Dendro%": "21.6"
+            },
+            {
+                "level": 78,
+                "ascension": 5,
+                "hp": 11590,
+                "atk": 272,
+                "def": 679,
+                "Dendro%": "21.6"
+            },
+            {
+                "level": 79,
+                "ascension": 5,
+                "hp": 11683,
+                "atk": 274,
+                "def": 684,
+                "Dendro%": "21.6"
+            },
+            {
+                "level": 80,
+                "ascension": 5,
+                "hp": 11777,
+                "atk": 276,
+                "def": 690,
+                "Dendro%": "21.6"
+            },
+            {
+                "level": 81,
+                "ascension": 6,
+                "hp": 12503,
+                "atk": 293,
+                "def": 732,
+                "Dendro%": "28.8"
+            },
+            {
+                "level": 82,
+                "ascension": 6,
+                "hp": 12597,
+                "atk": 296,
+                "def": 738,
+                "Dendro%": "28.8"
+            },
+            {
+                "level": 83,
+                "ascension": 6,
+                "hp": 12690,
+                "atk": 298,
+                "def": 743,
+                "Dendro%": "28.8"
+            },
+            {
+                "level": 84,
+                "ascension": 6,
+                "hp": 12784,
+                "atk": 300,
+                "def": 749,
+                "Dendro%": "28.8"
+            },
+            {
+                "level": 85,
+                "ascension": 6,
+                "hp": 12877,
+                "atk": 302,
+                "def": 754,
+                "Dendro%": "28.8"
+            },
+            {
+                "level": 86,
+                "ascension": 6,
+                "hp": 12972,
+                "atk": 304,
+                "def": 760,
+                "Dendro%": "28.8"
+            },
+            {
+                "level": 87,
+                "ascension": 6,
+                "hp": 13065,
+                "atk": 307,
+                "def": 765,
+                "Dendro%": "28.8"
+            },
+            {
+                "level": 88,
+                "ascension": 6,
+                "hp": 13160,
+                "atk": 309,
+                "def": 771,
+                "Dendro%": "28.8"
+            },
+            {
+                "level": 89,
+                "ascension": 6,
+                "hp": 13255,
+                "atk": 311,
+                "def": 776,
+                "Dendro%": "28.8"
+            },
+            {
+                "level": 90,
+                "ascension": 6,
+                "hp": 13348,
+                "atk": 313,
+                "def": 782,
+                "Dendro%": "28.8"
+            },
+            {
+                "level": 95,
+                "ascension": 6,
+                "hp": 13822,
+                "atk": 349,
+                "def": 809,
+                "Dendro%": "28.8"
+            },
+            {
+                "level": 100,
+                "ascension": 6,
+                "hp": 14297,
+                "atk": 384,
+                "def": 837,
+                "Dendro%": "28.8"
+            }
+        ]
+    },
+    "icons": {
+        "forward": "UI_AvatarIcon_Alhatham",
+        "coop_img": "UI_CoopImg_Alhatham"
+    },
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101222": 168
+        },
+        "elemental": {
+            "104131": 1,
+            "104132": 9,
+            "104133": 9,
+            "104134": 6
+        },
+        "worldmonster": {
+            "112065": 18,
+            "112066": 30,
+            "112067": 36
+        },
+        "elitemonster": {
+            "113044": 46
+        }
+    },
+    "skills": {
+        "normalattack": {
+            "name": "Método Investigativo Reverso",
+            "icon": "Skill_A_01",
+            "multipliers": {
+                "Dano do 1° Golpe": [
+                    "49.53%",
+                    "53.56%",
+                    "57.59%",
+                    "63.35%",
+                    "67.38%",
+                    "71.99%",
+                    "78.32%",
+                    "84.65%",
+                    "90.99%",
+                    "97.9%",
+                    "104.81%",
+                    "111.72%",
+                    "118.63%",
+                    "125.54%",
+                    "132.45%"
+                ],
+                "Dano do 2° Golpe": [
+                    "50.75%",
+                    "54.88%",
+                    "59.01%",
+                    "64.91%",
+                    "69.04%",
+                    "73.76%",
+                    "80.26%",
+                    "86.75%",
+                    "93.24%",
+                    "100.32%",
+                    "107.4%",
+                    "114.48%",
+                    "121.56%",
+                    "128.64%",
+                    "135.73%"
+                ],
+                "Dano do 3° Golpe": [
+                    "34.18%+34.18%",
+                    "36.96%+36.96%",
+                    "39.74%+39.74%",
+                    "43.72%+43.72%",
+                    "46.5%+46.5%",
+                    "49.68%+49.68%",
+                    "54.05%+54.05%",
+                    "58.42%+58.42%",
+                    "62.79%+62.79%",
+                    "67.56%+67.56%",
+                    "72.33%+72.33%",
+                    "77.1%+77.1%",
+                    "81.87%+81.87%",
+                    "86.64%+86.64%",
+                    "91.41%+91.41%"
+                ],
+                "Dano do 4° Golpe": [
+                    "66.77%",
+                    "72.2%",
+                    "77.64%",
+                    "85.4%",
+                    "90.84%",
+                    "97.05%",
+                    "105.59%",
+                    "114.13%",
+                    "122.67%",
+                    "131.98%",
+                    "141.3%",
+                    "150.62%",
+                    "159.93%",
+                    "169.25%",
+                    "178.57%"
+                ],
+                "Dano do 5° Golpe": [
+                    "83.85%",
+                    "90.68%",
+                    "97.5%",
+                    "107.25%",
+                    "114.08%",
+                    "121.88%",
+                    "132.6%",
+                    "143.33%",
+                    "154.05%",
+                    "165.75%",
+                    "177.45%",
+                    "189.15%",
+                    "200.85%",
+                    "212.55%",
+                    "224.25%"
+                ],
+                "Dano de Ataque Carregado": [
+                    "55.26%+55.26%",
+                    "59.75%+59.75%",
+                    "64.25%+64.25%",
+                    "70.67%+70.67%",
+                    "75.17%+75.17%",
+                    "80.31%+80.31%",
+                    "87.38%+87.38%",
+                    "94.45%+94.45%",
+                    "101.51%+101.51%",
+                    "109.22%+109.22%",
+                    "116.94%+116.94%",
+                    "124.64%+124.64%",
+                    "132.35%+132.35%",
+                    "140.07%+140.07%",
+                    "147.77%+147.77%"
+                ],
+                "Consumo de Stamina de Ataque Carregado": [
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20"
+                ],
+                "Dano Durante a Queda": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ]
+            },
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 5 golpes rápidos.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome uma certa quantidade de Stamina para desferir 2 golpes rápidos com a espada.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto."
+        },
+        "elementalskill": {
+            "name": "Entendimento Mútuo: Representação do Conhecimento",
+            "icon": "Skill_S_Alhatham_01",
+            "multipliers": {
+                "Dano de Ataque de Investida": [
+                    "193.6% do ATQ + 154.88% da Proficiência Elemental",
+                    "208.12% do ATQ + 166.5% da Proficiência Elemental",
+                    "222.64% do ATQ + 178.11% da Proficiência Elemental",
+                    "242% do ATQ + 193.6% da Proficiência Elemental",
+                    "256.52% do ATQ + 205.22% da Proficiência Elemental",
+                    "271.04% do ATQ + 216.83% da Proficiência Elemental",
+                    "290.4% do ATQ + 232.32% da Proficiência Elemental",
+                    "309.76% do ATQ + 247.81% da Proficiência Elemental",
+                    "329.12% do ATQ + 263.3% da Proficiência Elemental",
+                    "348.48% do ATQ + 278.78% da Proficiência Elemental",
+                    "367.84% do ATQ + 294.27% da Proficiência Elemental",
+                    "387.2% do ATQ + 309.76% da Proficiência Elemental",
+                    "411.4% do ATQ + 329.12% da Proficiência Elemental",
+                    "435.6% do ATQ + 348.48% da Proficiência Elemental",
+                    "459.8% do ATQ + 367.84% da Proficiência Elemental"
+                ],
+                "Intervalo de Ataque da Cortina de Luz": [
+                    "1.6s",
+                    "1.6s",
+                    "1.6s",
+                    "1.6s",
+                    "1.6s",
+                    "1.6s",
+                    "1.6s",
+                    "1.6s",
+                    "1.6s",
+                    "1.6s",
+                    "1.6s",
+                    "1.6s",
+                    "1.6s",
+                    "1.6s",
+                    "1.6s"
+                ],
+                "Dano de Ataque da Cortina de Luz com 1 Espelho Cortante": [
+                    "67.2% do ATQ + 134.4% da Proficiência Elemental",
+                    "72.24% do ATQ + 144.48% da Proficiência Elemental",
+                    "77.28% do ATQ + 154.56% da Proficiência Elemental",
+                    "84% do ATQ + 168% da Proficiência Elemental",
+                    "89.04% do ATQ + 178.08% da Proficiência Elemental",
+                    "94.08% do ATQ + 188.16% da Proficiência Elemental",
+                    "100.8% do ATQ + 201.6% da Proficiência Elemental",
+                    "107.52% do ATQ + 215.04% da Proficiência Elemental",
+                    "114.24% do ATQ + 228.48% da Proficiência Elemental",
+                    "120.96% do ATQ + 241.92% da Proficiência Elemental",
+                    "127.68% do ATQ + 255.36% da Proficiência Elemental",
+                    "134.4% do ATQ + 268.8% da Proficiência Elemental",
+                    "142.8% do ATQ + 285.6% da Proficiência Elemental",
+                    "151.2% do ATQ + 302.4% da Proficiência Elemental",
+                    "159.6% do ATQ + 319.2% da Proficiência Elemental"
+                ],
+                "Dano do Ataque da Cortina de Luz com 2 Espelhos Cortantes": [
+                    "(67.2% do ATQ + 134.4% da Proficiência Elemental) x2",
+                    "(72.24% do ATQ + 144.48% da Proficiência Elemental) x2",
+                    "(77.28% do ATQ + 154.56% da Proficiência Elemental) x2",
+                    "(84% do ATQ + 168% da Proficiência Elemental) x2",
+                    "(89.04% do ATQ + 178.08% da Proficiência Elemental) x2",
+                    "(94.08% do ATQ + 188.16% da Proficiência Elemental) x2",
+                    "(100.8% do ATQ + 201.6% da Proficiência Elemental) x2",
+                    "(107.52% do ATQ + 215.04% da Proficiência Elemental) x2",
+                    "(114.24% do ATQ + 228.48% da Proficiência Elemental) x2",
+                    "(120.96% do ATQ + 241.92% da Proficiência Elemental) x2",
+                    "(127.68% do ATQ + 255.36% da Proficiência Elemental) x2",
+                    "(134.4% do ATQ + 268.8% da Proficiência Elemental) x2",
+                    "(142.8% do ATQ + 285.6% da Proficiência Elemental) x2",
+                    "(151.2% do ATQ + 302.4% da Proficiência Elemental) x2",
+                    "(159.6% do ATQ + 319.2% da Proficiência Elemental) x2"
+                ],
+                "Dano de Ataque da Cortina de Luz com 3 Espelhos Cortantes": [
+                    "(67.2% do ATQ + 134.4% da Proficiência Elemental) x3",
+                    "(72.24% do ATQ + 144.48% da Proficiência Elemental) x3",
+                    "(77.28% do ATQ + 154.56% da Proficiência Elemental) x3",
+                    "(84% do ATQ + 168% da Proficiência Elemental) x3",
+                    "(89.04% do ATQ + 178.08% da Proficiência Elemental) x3",
+                    "(94.08% do ATQ + 188.16% da Proficiência Elemental) x3",
+                    "(100.8% do ATQ + 201.6% da Proficiência Elemental) x3",
+                    "(107.52% do ATQ + 215.04% da Proficiência Elemental) x3",
+                    "(114.24% do ATQ + 228.48% da Proficiência Elemental) x3",
+                    "(120.96% do ATQ + 241.92% da Proficiência Elemental) x3",
+                    "(127.68% do ATQ + 255.36% da Proficiência Elemental) x3",
+                    "(134.4% do ATQ + 268.8% da Proficiência Elemental) x3",
+                    "(142.8% do ATQ + 285.6% da Proficiência Elemental) x3",
+                    "(151.2% do ATQ + 302.4% da Proficiência Elemental) x3",
+                    "(159.6% do ATQ + 319.2% da Proficiência Elemental) x3"
+                ],
+                "Intervalo do desaparecimento do Espelho Cortante": [
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s"
+                ],
+                "Tempo de Recarga": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ]
+            },
+            "description": "Faz uma investida rapidamente. Ao terminar essa investida rápida, causa <color=#99FF88FF>Dano Dendro</color> contra os oponentes ao seu redor e acumula \"Espelho Cortante\".\\nSerá lançada de maneira diferente ao Manter Pressionado.\\n\\n<color=#FFD780FF>Manter Pressionado</color>\\nEntra em um estado de mira para ajustar a direção em que vai avançar.\\n\\n<color=#FFD780FF>Espelho Cortante</color>\\nAo lançar, Alhaitham gerará 1 Espelho Cortante; se ainda não possuir nenhum Espelho Cortante, gerará um adicional. O Espelho Cortante possui os seguintes efeitos:\\n· Ao possuir Espelhos Cortantes, os Ataques Normais, Carregados e Imersivos de Alhaitham serão convertidos em <color=#99FF88FF>Dano Dendro</color> que não pode ser substituído por outros elementos;\\n· Quando o ataque descrito acima atinge um inimigo, o Espelho Cortante fará o ataque Cortina de Luz, causando <color=#99FF88FF>Dano Dendro em AdE</color> baseado na quantidade de Espelhos Cortantes;\\n· É possível possuir até 3 Espelhos Cortantes;\\n· Os Espelhos Cortantes desaparecerão com o passar do tempo, e todos serão eliminados quando Alhaitham sair do campo de batalha.\\n\\n<i>\"A verdade existe na incerteza, e nem mesmo os magnânimos acadêmicos são capazes de evitar seus erros.\"</i>"
+        },
+        "elementalburst": {
+            "name": "Alienação: Restrição da Ilustração",
+            "icon": "Skill_E_Alhatham_01",
+            "multipliers": {
+                "Dano de uma instância": [
+                    "121.6% do ATQ + 97.28% da Proficiência Elemental",
+                    "130.72% do ATQ + 104.58% da Proficiência Elemental",
+                    "139.84% do ATQ + 111.87% da Proficiência Elemental",
+                    "152% do ATQ + 121.6% da Proficiência Elemental",
+                    "161.12% do ATQ + 128.9% da Proficiência Elemental",
+                    "170.24% do ATQ + 136.19% da Proficiência Elemental",
+                    "182.4% do ATQ + 145.92% da Proficiência Elemental",
+                    "194.56% do ATQ + 155.65% da Proficiência Elemental",
+                    "206.72% do ATQ + 165.38% da Proficiência Elemental",
+                    "218.88% do ATQ + 175.1% da Proficiência Elemental",
+                    "231.04% do ATQ + 184.83% da Proficiência Elemental",
+                    "243.2% do ATQ + 194.56% da Proficiência Elemental",
+                    "258.4% do ATQ + 206.72% da Proficiência Elemental",
+                    "273.6% do ATQ + 218.88% da Proficiência Elemental",
+                    "288.8% do ATQ + 231.04% da Proficiência Elemental"
+                ],
+                "Quantidade de Ataques Básicos": [
+                    "4 vez(es)",
+                    "4 vez(es)",
+                    "4 vez(es)",
+                    "4 vez(es)",
+                    "4 vez(es)",
+                    "4 vez(es)",
+                    "4 vez(es)",
+                    "4 vez(es)",
+                    "4 vez(es)",
+                    "4 vez(es)",
+                    "4 vez(es)",
+                    "4 vez(es)",
+                    "4 vez(es)",
+                    "4 vez(es)",
+                    "4 vez(es)"
+                ],
+                "Ataques com 1 Espelho Cortante": [
+                    "6",
+                    "6",
+                    "6",
+                    "6",
+                    "6",
+                    "6",
+                    "6",
+                    "6",
+                    "6",
+                    "6",
+                    "6",
+                    "6",
+                    "6",
+                    "6",
+                    "6"
+                ],
+                "Ataques com 2 Espelhos Cortantes": [
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "8"
+                ],
+                "Ataque com 3 Espelhos Cortantes": [
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10"
+                ],
+                "Tempo de Recarga": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ],
+                "Energia Elemental": [
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70"
+                ]
+            },
+            "description": "Cria um reino especial, causando várias instâncias de <color=#99FF88FF>Dano Dendro em AdE</color>.\\nSe ao lançar possuir Espelhos Cortantes, consumirá todos eles para aumentar o número de vezes de Dano causado.\\nDepois de 2s, se ao lançar essa Habilidade tiver consumido 0/1/2/3 Espelho(s) Cortante(s), gerará 3/2/1/0 Espelho(s) Cortante(s) para Alhaitham.\\n\\n<i>\"Se um estudioso decide buscar a sabedoria como seu objetivo, ele precisará tratar cada palavra que leu como inimiga, pois só assim evitará seus preconceitos.\"</i>"
+        },
+        "leveling": {
+            "crown": {
+                "104319": 3
+            },
+            "books": {
+                "104332": 9,
+                "104333": 63,
+                "104334": 114
+            },
+            "worldmonster": {
+                "112065": 18,
+                "112066": 66,
+                "112067": 93
+            },
+            "weekly": {
+                "113042": 18
+            }
+        }
+    },
+    "passives": {
+        "p1": {
+            "name": "Quatro Princípios de Retificação",
+            "description": "Quando os Ataques Carregados ou Imersivos de Alhaitham atingem um inimigo, gerarão um Espelho Cortante. Esse efeito pode ser desencadeado uma vez a cada 12s.",
+            "icon": "UI_Talent_S_Alhatham_05"
+        },
+        "p2": {
+            "name": "Revelação da Floresta dos Enigmas",
+            "description": "Cada ponto de Proficiência Elemental de Alhaitham aumentará o Dano causado por Cortina de Luz e <color=#FFD780FF>Alienação: Restrição da Ilustração</color> em 0.1%.\\nÉ possível aumentar o Dano da Cortina de Luz e de Alienação: Restrição da Ilustração em até 100% dessa forma.",
+            "icon": "UI_Talent_S_Alhatham_06"
+        },
+        "p3": {
+            "name": "Lei da Redução Superdeterminada",
+            "description": "Quando Alhaitham fabrica Materiais de Ascensão de Armas, ele tem 10% de chance de receber o dobro do produto.",
+            "icon": "UI_Talent_S_Alhatham_07"
+        },
+        "p4": ""
+    },
+    "constellations": {
+        "const1": {
+            "name": "Observação Direta",
+            "description": "Quando o ataque da Cortina de Luz atinge um inimigo, reduzirá a Recarga de <color=#FFD780FF>Entendimento Mútuo: Representação do Conhecimento</color> em 1.2s. Esse efeito pode ocorrer uma vez a cada 1s.",
+            "icon": "UI_Talent_S_Alhatham_02"
+        },
+        "const2": {
+            "name": "Debate",
+            "description": "Quando Alhaitham gera um Espelho Cortante, aumenta sua Proficiência Elemental em 50 para cada Espelho Cortante gerado por 8s. Esse efeito pode ser acumulado até 4 vezes, e a duração de cada acúmulo é contada separadamente. Esse efeito ainda pode ser desencadeado quando a quantidade de Espelhos Cortantes alcança o máximo.",
+            "icon": "UI_Talent_S_Alhatham_01"
+        },
+        "const3": {
+            "name": "Anotações Escondidas",
+            "description": "Aumenta o nível de <color=#FFD780FF>Entendimento Mútuo: Representação do Conhecimento</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Alhatham_01"
+        },
+        "const4": {
+            "name": "Aplicação da Justiça",
+            "description": "Ao lançar <color=#FFD780FF>Alienação: Restrição da Ilustração</color>, gerará os seguintes efeitos de acordo com o número de Espelhos Cortantes consumidos e gerados:\\n· Para cada Espelho Cortante consumido, aumentará a Proficiência Elemental dos outros personagens próximos da equipe em 30 por 15s;\\n· Para cada Espelho Cortante gerado, aumenta o <color=#99FF88FF>Bônus de Dano Dendro</color> de Alhaitham em 10% por 15s.\\n\\nLançar Alienação: Restrição da Ilustração novamente dentro da duração deste efeito eliminará o efeito original.",
+            "icon": "UI_Talent_S_Alhatham_03"
+        },
+        "const5": {
+            "name": "O Grau da Sabedoria",
+            "description": "Aumenta o nível da Habilidade <color=#FFD780FF>Alienação: Restrição da Ilustração</color> em 3.\\nO nível máximo é 15.",
+            "icon": "UI_Talent_U_Alhatham_02"
+        },
+        "const6": {
+            "name": "Raciocínio Correto",
+            "description": "Alhaitham obtém os seguintes efeitos:\\n· Após 2s de lançar <color=#FFD780FF>Alienação: Restrição da Ilustração</color>, ignora o número de Espelhos Cortantes consumidos e cria 3 Espelhos Cortantes;\\n· Quando Alhaitham gera um Espelho Cortante, se o número de Espelhos Cortantes já houver alcançado o máximo, aumentará sua Taxa CRIT em 10% e seu Dano CRIT em 70% por 6s.\\nSe esse efeito for desencadeado novamente na sua duração, a duração restante será aumentada em 6s.",
+            "icon": "UI_Talent_S_Alhatham_04"
+        }
+    },
+    "energy": [
+        {
+            "source": "DropBall_Base",
+            "particles": "1",
+            "chance": "100%",
+            "cd": "1.5s"
+        }
+    ],
+    "attacks": [
+        {
+            "name": "ElementalArt",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/100",
+            "element": "Grass"
+        },
+        {
+            "name": "ElementalArt",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/100",
+            "element": "Grass"
+        },
+        {
+            "name": "SkillObj_ElementalArt_CoAttack01",
+            "icd_source": "Grp: Alhatham_ForlornLotus (Tag Miss)",
+            "icd_rule": "2 hits / 12s",
+            "gauge": "1U",
+            "poise": "LV2/50",
+            "element": "Grass"
+        },
+        {
+            "name": "SkillObj_ElementalArt_CoAttack02",
+            "icd_source": "Grp: Alhatham_ForlornLotus (Tag Miss)",
+            "icd_rule": "2 hits / 12s",
+            "gauge": "1U",
+            "poise": "LV2/50",
+            "element": "Grass"
+        },
+        {
+            "name": "SkillObj_ElementalArt_CoAttack02",
+            "icd_source": "Grp: Alhatham_ForlornLotus (Tag Miss)",
+            "icd_rule": "2 hits / 12s",
+            "gauge": "1U",
+            "poise": "LV2/50",
+            "element": "Grass"
+        },
+        {
+            "name": "SkillObj_ElementalArt_CoAttack03",
+            "icd_source": "Grp: Alhatham_ForlornLotus (Tag Miss)",
+            "icd_rule": "2 hits / 12s",
+            "gauge": "1U",
+            "poise": "LV2/50",
+            "element": "Grass"
+        },
+        {
+            "name": "SkillObj_ElementalArt_CoAttack03",
+            "icd_source": "Grp: Alhatham_ForlornLotus (Tag Miss)",
+            "icd_rule": "2 hits / 12s",
+            "gauge": "1U",
+            "poise": "LV2/50",
+            "element": "Grass"
+        },
+        {
+            "name": "SkillObj_ElementalArt_CoAttack03",
+            "icd_source": "Grp: Alhatham_ForlornLotus (Tag Miss)",
+            "icd_rule": "2 hits / 12s",
+            "gauge": "1U",
+            "poise": "LV2/50",
+            "element": "Grass"
+        },
+        {
+            "name": "SkillObj_ElementalBurst_Dummy",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/35",
+            "element": "Grass"
+        },
+        {
+            "name": "SkillObj_ElementalBurst_Dummy",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/35",
+            "element": "Grass"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/25",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/25",
+            "element": "Grass"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/100",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/150",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/100",
+            "element": "Grass"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/150",
+            "element": "Grass"
+        }
+    ]
+}

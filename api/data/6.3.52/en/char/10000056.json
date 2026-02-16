@@ -1,0 +1,1287 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104141": 1,
+            "104142": 9,
+            "104143": 9,
+            "104144": 6
+        },
+        "elitemonster": {
+            "113029": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101204": 168
+        },
+        "worldmonster": {
+            "112005": 18,
+            "112006": 30,
+            "112007": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "Bullet_ShootArrow_WithElectric",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "-",
+            "gauge": "4U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "Bullet_AimingArrow_WithoutElectric",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "Aim_TrackBullet_Material",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "AntiFire",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Sara_AttackUp_Detect (!)",
+            "name": "KarasShoot_DelayAttack",
+            "poise": "-/0"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "KarasShoot_DelayAttack",
+            "poise": "LV3/30"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "KarasShoot_DelayAttack",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "Elemental_Burst_AttackWave_Trigger",
+            "poise": "LV5/100"
+        },
+        {
+            "element": "AntiFire",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Sara_AttackUp_Detect (!)",
+            "name": "Elemental_Burst_AttackWave_Trigger",
+            "poise": "-/0"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "Elemental_Burst_AttackWave",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "Elemental_Burst_AttackWave",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "AntiFire",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Sara_AttackUp_Detect (!)",
+            "name": "Elemental_Burst_AttackWave",
+            "poise": "-/0"
+        },
+        {
+            "element": "Electric",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Bullet_Material",
+            "poise": "LV2/150"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "When Tengu Juurai grants characters ATK Bonuses or hits opponents, the CD of <color=#FFD780FF>Tengu Stormcall</color> is decreased by 1s.\\nThis effect can be triggered once every 3s.",
+            "icon": "UI_Talent_S_Sara_05",
+            "name": "Crow's Eye"
+        },
+        "const2": {
+            "description": "Unleashing <color=#FFD780FF>Tengu Stormcall</color> will leave a weaker Crowfeather at Kujou Sara's original position that will deal 30% of its original DMG.",
+            "icon": "UI_Talent_S_Sara_02",
+            "name": "Dark Wings"
+        },
+        "const3": {
+            "description": "Increases the Level of <color=#FFD780FF>Subjugation: Koukou Sendou</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Sara_02",
+            "name": "The War Within"
+        },
+        "const4": {
+            "description": "The number of Tengu Juurai: Stormcluster released by <color=#FFD780FF>Subjugation: Koukou Sendou</color> is increased to 6.",
+            "icon": "UI_Talent_S_Sara_03",
+            "name": "Conclusive Proof"
+        },
+        "const5": {
+            "description": "Increases the Level of <color=#FFD780FF>Tengu Stormcall</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Sara_01",
+            "name": "Spellsinger"
+        },
+        "const6": {
+            "description": "The <color=#FFACFFFF>Electro DMG</color> of characters who have had their ATK increased by Tengu Juurai has its CRIT DMG increased by 60%.",
+            "icon": "UI_Talent_S_Sara_04",
+            "name": "Sin of Pride"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.1s",
+            "chance": "100%",
+            "particles": "3",
+            "source": "ElementalArt_GenerateElemBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Sara",
+        "forward": "UI_AvatarIcon_Sara"
+    },
+    "info": {
+        "attributes": [
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 16,
+                "def": 53,
+                "hp": 802,
+                "level": 1
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 18,
+                "def": 57,
+                "hp": 869,
+                "level": 2
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 61,
+                "hp": 935,
+                "level": 3
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 66,
+                "hp": 1001,
+                "level": 4
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 70,
+                "hp": 1067,
+                "level": 5
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 23,
+                "def": 74,
+                "hp": 1134,
+                "level": 6
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 79,
+                "hp": 1200,
+                "level": 7
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 83,
+                "hp": 1266,
+                "level": 8
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 87,
+                "hp": 1333,
+                "level": 9
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 92,
+                "hp": 1399,
+                "level": 10
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 96,
+                "hp": 1465,
+                "level": 11
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 100,
+                "hp": 1531,
+                "level": 12
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 105,
+                "hp": 1598,
+                "level": 13
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 109,
+                "hp": 1663,
+                "level": 14
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 114,
+                "hp": 1730,
+                "level": 15
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 118,
+                "hp": 1797,
+                "level": 16
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 122,
+                "hp": 1862,
+                "level": 17
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 127,
+                "hp": 1929,
+                "level": 18
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 131,
+                "hp": 1995,
+                "level": 19
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 135,
+                "hp": 2061,
+                "level": 20
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 56,
+                "def": 179,
+                "hp": 2727,
+                "level": 21
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 57,
+                "def": 183,
+                "hp": 2793,
+                "level": 22
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 58,
+                "def": 188,
+                "hp": 2860,
+                "level": 23
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 60,
+                "def": 192,
+                "hp": 2926,
+                "level": 24
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 61,
+                "def": 196,
+                "hp": 2992,
+                "level": 25
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 62,
+                "def": 201,
+                "hp": 3058,
+                "level": 26
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 64,
+                "def": 205,
+                "hp": 3124,
+                "level": 27
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 65,
+                "def": 209,
+                "hp": 3190,
+                "level": 28
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 67,
+                "def": 214,
+                "hp": 3257,
+                "level": 29
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 68,
+                "def": 218,
+                "hp": 3323,
+                "level": 30
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 69,
+                "def": 222,
+                "hp": 3389,
+                "level": 31
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 227,
+                "hp": 3456,
+                "level": 32
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 72,
+                "def": 231,
+                "hp": 3522,
+                "level": 33
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 73,
+                "def": 235,
+                "hp": 3588,
+                "level": 34
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 75,
+                "def": 240,
+                "hp": 3654,
+                "level": 35
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 76,
+                "def": 244,
+                "hp": 3721,
+                "level": 36
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 77,
+                "def": 248,
+                "hp": 3786,
+                "level": 37
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 79,
+                "def": 253,
+                "hp": 3853,
+                "level": 38
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 80,
+                "def": 257,
+                "hp": 3920,
+                "level": 39
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 81,
+                "def": 262,
+                "hp": 3985,
+                "level": 40
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 91,
+                "def": 294,
+                "hp": 4478,
+                "level": 41
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 93,
+                "def": 298,
+                "hp": 4544,
+                "level": 42
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 94,
+                "def": 303,
+                "hp": 4610,
+                "level": 43
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 95,
+                "def": 307,
+                "hp": 4676,
+                "level": 44
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 97,
+                "def": 311,
+                "hp": 4743,
+                "level": 45
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 98,
+                "def": 316,
+                "hp": 4809,
+                "level": 46
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 100,
+                "def": 320,
+                "hp": 4875,
+                "level": 47
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 101,
+                "def": 324,
+                "hp": 4942,
+                "level": 48
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 102,
+                "def": 329,
+                "hp": 5008,
+                "level": 49
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 104,
+                "def": 333,
+                "hp": 5074,
+                "level": 50
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 117,
+                "def": 375,
+                "hp": 5708,
+                "level": 51
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 118,
+                "def": 379,
+                "hp": 5774,
+                "level": 52
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 119,
+                "def": 383,
+                "hp": 5841,
+                "level": 53
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 121,
+                "def": 388,
+                "hp": 5907,
+                "level": 54
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 122,
+                "def": 392,
+                "hp": 5973,
+                "level": 55
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 123,
+                "def": 396,
+                "hp": 6039,
+                "level": 56
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 125,
+                "def": 401,
+                "hp": 6106,
+                "level": 57
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 126,
+                "def": 405,
+                "hp": 6172,
+                "level": 58
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 127,
+                "def": 409,
+                "hp": 6238,
+                "level": 59
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 129,
+                "def": 414,
+                "hp": 6305,
+                "level": 60
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 139,
+                "def": 446,
+                "hp": 6796,
+                "level": 61
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 140,
+                "def": 450,
+                "hp": 6863,
+                "level": 62
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 141,
+                "def": 455,
+                "hp": 6929,
+                "level": 63
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 143,
+                "def": 459,
+                "hp": 6995,
+                "level": 64
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 144,
+                "def": 463,
+                "hp": 7061,
+                "level": 65
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 146,
+                "def": 468,
+                "hp": 7128,
+                "level": 66
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 147,
+                "def": 472,
+                "hp": 7194,
+                "level": 67
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 148,
+                "def": 476,
+                "hp": 7260,
+                "level": 68
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 150,
+                "def": 481,
+                "hp": 7327,
+                "level": 69
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 151,
+                "def": 485,
+                "hp": 7393,
+                "level": 70
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 161,
+                "def": 517,
+                "hp": 7885,
+                "level": 71
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 162,
+                "def": 522,
+                "hp": 7951,
+                "level": 72
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 164,
+                "def": 526,
+                "hp": 8017,
+                "level": 73
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 165,
+                "def": 530,
+                "hp": 8084,
+                "level": 74
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 166,
+                "def": 535,
+                "hp": 8150,
+                "level": 75
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 168,
+                "def": 539,
+                "hp": 8216,
+                "level": 76
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 169,
+                "def": 543,
+                "hp": 8282,
+                "level": 77
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 170,
+                "def": 548,
+                "hp": 8349,
+                "level": 78
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 172,
+                "def": 552,
+                "hp": 8415,
+                "level": 79
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 173,
+                "def": 556,
+                "hp": 8481,
+                "level": 80
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 183,
+                "def": 589,
+                "hp": 8974,
+                "level": 81
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 185,
+                "def": 593,
+                "hp": 9040,
+                "level": 82
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 186,
+                "def": 597,
+                "hp": 9106,
+                "level": 83
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 187,
+                "def": 602,
+                "hp": 9172,
+                "level": 84
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 189,
+                "def": 606,
+                "hp": 9239,
+                "level": 85
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 190,
+                "def": 610,
+                "hp": 9304,
+                "level": 86
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 191,
+                "def": 615,
+                "hp": 9371,
+                "level": 87
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 193,
+                "def": 619,
+                "hp": 9437,
+                "level": 88
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 194,
+                "def": 624,
+                "hp": 9503,
+                "level": 89
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 195,
+                "def": 628,
+                "hp": 9570,
+                "level": 90
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 220,
+                "def": 650,
+                "hp": 9901,
+                "level": 95
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 245,
+                "def": 671,
+                "hp": 10232,
+                "level": 100
+            }
+        ],
+        "birthday": "July 14th",
+        "constellation": "Flabellum",
+        "description": "A general of the Tenryou Commission. Bold, decisive, and skilled in battle.",
+        "element": "Electro",
+        "name": "Kujou Sara",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_BOW"
+    },
+    "passives": {
+        "p1": {
+            "description": "While in the Crowfeather Cover state provided by <color=#FFD780FF>Tengu Stormcall</color>, Aimed Shot charge times are decreased by 60%.",
+            "icon": "UI_Talent_S_Sara_01",
+            "name": "Immovable Will"
+        },
+        "p2": {
+            "description": "When Tengu Juurai: Ambush hits opponents, Kujou Sara will restore 1.2 Energy to all party members for every 100% Energy Recharge she has. This effect can be triggered once every 3s.",
+            "icon": "UI_Talent_S_Sara_06",
+            "name": "Decorum"
+        },
+        "p3": {
+            "description": "When dispatched on an expedition in Inazuma, time consumed is reduced by 25%.",
+            "icon": "UI_Talent_S_Sara_07",
+            "name": "Land Survey"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Casts down Tengu Juurai: Titanbreaker, dealing <color=#FFACFFFF>AoE Electro DMG</color>. Afterwards, Tengu Juurai: Titanbreaker spreads out into 4 consecutive bouts of Tengu Juurai: Stormcluster, dealing <color=#FFACFFFF>AoE Electro DMG</color>.\\nTengu Juurai: Titanbreaker and Tengu Juurai: Stormcluster can provide the active character within their AoE with the same ATK Bonus as given by the Elemental Skill, Tengu Stormcall.\\n\\nThe ATK Bonus provided by various kinds of Tengu Juurai will not stack, and their effects and duration will be determined by the last Tengu Juurai to take effect.\\n\\n<i>Sara departed from her people, the tengu, and also temporarily lost her faith in the Tenryou Commission. But once the clouds over her heart cleared, she found her own lightning anew.</i>",
+            "icon": "Skill_E_Sara_01",
+            "multipliers": {
+                "CD": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ],
+                "Energy Cost": [
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80"
+                ],
+                "Tengu Juurai: Stormcluster DMG": [
+                    "34.12%",
+                    "36.68%",
+                    "39.24%",
+                    "42.65%",
+                    "45.21%",
+                    "47.77%",
+                    "51.18%",
+                    "54.59%",
+                    "58%",
+                    "61.42%",
+                    "64.83%",
+                    "68.24%",
+                    "72.5%",
+                    "76.77%",
+                    "81.04%"
+                ],
+                "Tengu Juurai: Titanbreaker DMG": [
+                    "409.6%",
+                    "440.32%",
+                    "471.04%",
+                    "512%",
+                    "542.72%",
+                    "573.44%",
+                    "614.4%",
+                    "655.36%",
+                    "696.32%",
+                    "737.28%",
+                    "778.24%",
+                    "819.2%",
+                    "870.4%",
+                    "921.6%",
+                    "972.8%"
+                ]
+            },
+            "name": "Subjugation: Koukou Sendou"
+        },
+        "elementalskill": {
+            "description": "Retreats rapidly with the speed of a tengu, summoning the protection of the Crowfeather.\\nGains Crowfeather Cover for 18s, and when Kujou Sara fires a fully-charged Aimed Shot, Crowfeather Cover will be consumed, and will leave a Crowfeather at the target location.\\nCrowfeathers will trigger Tengu Juurai: Ambush after a short time, dealing <color=#FFACFFFF>Electro DMG</color> and granting the active character within its AoE an ATK Bonus based on Kujou Sara's Base ATK.\\n\\nThe ATK Bonuses from different Tengu Juurai will not stack, and their effects and duration will be determined by the last Tengu Juurai to take effect.\\n\\n<i>The tengu race have never lacked for exceptional talents who have received an Electro Vision. It's just that they often habitually chant praises to the Electro Archon while manipulating Electro. The chants go something like this</i>\\n<i>\"Show forth your might, O praiseworthy Narukami, and grant this supplicant your thunderous might! Sowaka!\"</i>",
+            "icon": "Skill_S_Sara_01",
+            "multipliers": {
+                "ATK Bonus Duration": [
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s"
+                ],
+                "ATK Bonus Ratio": [
+                    "42.96%",
+                    "46.18%",
+                    "49.4%",
+                    "53.7%",
+                    "56.92%",
+                    "60.14%",
+                    "64.44%",
+                    "68.74%",
+                    "73.03%",
+                    "77.33%",
+                    "81.62%",
+                    "85.92%",
+                    "91.29%",
+                    "96.66%",
+                    "102.03%"
+                ],
+                "CD": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ],
+                "Tengu Juurai: Ambush DMG": [
+                    "125.76%",
+                    "135.19%",
+                    "144.62%",
+                    "157.2%",
+                    "166.63%",
+                    "176.06%",
+                    "188.64%",
+                    "201.22%",
+                    "213.79%",
+                    "226.37%",
+                    "238.94%",
+                    "251.52%",
+                    "267.24%",
+                    "282.96%",
+                    "298.68%"
+                ]
+            },
+            "name": "Tengu Stormcall"
+        },
+        "leveling": {
+            "books": {
+                "104323": 9,
+                "104324": 63,
+                "104325": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113027": 18
+            },
+            "worldmonster": {
+                "112005": 18,
+                "112006": 66,
+                "112007": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 5 consecutive shots with a bow.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nPerforms a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG.\\nWhile aiming, crackling lightning will accumulate on the arrowhead. An arrow fully charged with the storm's might will deal <color=#FFACFFFF>Electro DMG</color>.\\nWhen in the Crowfeather Cover state, a fully-charged arrow will leave a Crowfeather behind after it hits.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+            "icon": "Skill_A_02",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "36.89%",
+                    "39.9%",
+                    "42.9%",
+                    "47.19%",
+                    "50.19%",
+                    "53.62%",
+                    "58.34%",
+                    "63.06%",
+                    "67.78%",
+                    "72.93%",
+                    "78.08%",
+                    "83.23%",
+                    "88.37%",
+                    "93.52%",
+                    "98.67%"
+                ],
+                "2-Hit DMG": [
+                    "38.7%",
+                    "41.85%",
+                    "45%",
+                    "49.5%",
+                    "52.65%",
+                    "56.25%",
+                    "61.2%",
+                    "66.15%",
+                    "71.1%",
+                    "76.5%",
+                    "81.9%",
+                    "87.3%",
+                    "92.7%",
+                    "98.1%",
+                    "103.5%"
+                ],
+                "3-Hit DMG": [
+                    "48.5%",
+                    "52.45%",
+                    "56.4%",
+                    "62.04%",
+                    "65.99%",
+                    "70.5%",
+                    "76.7%",
+                    "82.91%",
+                    "89.11%",
+                    "95.88%",
+                    "102.65%",
+                    "109.42%",
+                    "116.18%",
+                    "122.95%",
+                    "129.72%"
+                ],
+                "4-Hit DMG": [
+                    "50.4%",
+                    "54.5%",
+                    "58.6%",
+                    "64.46%",
+                    "68.56%",
+                    "73.25%",
+                    "79.7%",
+                    "86.14%",
+                    "92.59%",
+                    "99.62%",
+                    "106.65%",
+                    "113.68%",
+                    "120.72%",
+                    "127.75%",
+                    "134.78%"
+                ],
+                "5-Hit DMG": [
+                    "58.05%",
+                    "62.77%",
+                    "67.5%",
+                    "74.25%",
+                    "78.97%",
+                    "84.38%",
+                    "91.8%",
+                    "99.23%",
+                    "106.65%",
+                    "114.75%",
+                    "122.85%",
+                    "130.95%",
+                    "139.05%",
+                    "147.15%",
+                    "155.25%"
+                ],
+                "Aimed Shot": [
+                    "43.86%",
+                    "47.43%",
+                    "51%",
+                    "56.1%",
+                    "59.67%",
+                    "63.75%",
+                    "69.36%",
+                    "74.97%",
+                    "80.58%",
+                    "86.7%",
+                    "92.82%",
+                    "98.94%",
+                    "105.06%",
+                    "111.18%",
+                    "117.3%"
+                ],
+                "Fully-Charged Aimed Shot": [
+                    "124%",
+                    "133.3%",
+                    "142.6%",
+                    "155%",
+                    "164.3%",
+                    "173.6%",
+                    "186%",
+                    "198.4%",
+                    "210.8%",
+                    "223.2%",
+                    "235.6%",
+                    "248%",
+                    "263.5%",
+                    "279%",
+                    "294.5%"
+                ],
+                "Low/High Plunge DMG": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "Plunge DMG": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ]
+            },
+            "name": "Tengu Bowmanship"
+        }
+    }
+}

@@ -1,0 +1,3736 @@
+{
+    "10001": {
+        "chsBonuses": {
+            "2pc": "攻击力提高18%。",
+            "4pc": "重击的暴击率提升30%。"
+        },
+        "chsName": "行者之心",
+        "enBonuses": {
+            "2pc": "ATK +18%.",
+            "4pc": "Increases Charged Attack CRIT Rate by 30%."
+        },
+        "enName": "Resolution of Sojourner",
+        "pieces": {
+            "circlet": {
+                "chsName": "感别之冠",
+                "enName": "Crown of Parting",
+                "icon": "UI_RelicIcon_10001_3",
+                "ptName": "Coroa da Despedida",
+                "ruName": "Венок расставания"
+            },
+            "flower": {
+                "chsName": "故人之心",
+                "enName": "Heart of Comradeship",
+                "icon": "UI_RelicIcon_10001_4",
+                "ptName": "Coração de Camaradagem",
+                "ruName": "Сердце товарищества"
+            },
+            "goblet": {
+                "chsName": "异国之盏",
+                "enName": "Goblet of the Sojourner",
+                "icon": "UI_RelicIcon_10001_1",
+                "ptName": "Cálice de Uma Terra Desconhecida",
+                "ruName": "Кубок временщика"
+            },
+            "plume": {
+                "chsName": "归乡之羽",
+                "enName": "Feather of Homecoming",
+                "icon": "UI_RelicIcon_10001_2",
+                "ptName": "Pluma do Regresso",
+                "ruName": "Перо возвращения домой"
+            },
+            "sands": {
+                "chsName": "逐光之石",
+                "enName": "Sundial of the Sojourner",
+                "icon": "UI_RelicIcon_10001_5",
+                "ptName": "Pedra do Caçador da Luz",
+                "ruName": "Солнечные часы временщика"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "ATQ +18%.",
+            "4pc": "Aumenta a Taxa Crítica do Ataque Carregado em 30%."
+        },
+        "ptName": "Resolução de Sojourner",
+        "qualityType": "QUALITY_PURPLE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает силу атаки на 18%.",
+            "4pc": "Увеличивает шанс крит. попадания заряженной атаки на 30%."
+        },
+        "ruName": "Решимость временщика",
+        "setIcon": "UI_RelicIcon_10001_4",
+        "setId": 10001
+    },
+    "10002": {
+        "chsBonuses": {
+            "2pc": "攻击力提高18%。",
+            "4pc": "对生命值高于50%的敌人，造成的伤害增加30%。"
+        },
+        "chsName": "勇士之心",
+        "enBonuses": {
+            "2pc": "ATK +18%.",
+            "4pc": "Increases DMG by 30% against opponents with more than 50% HP."
+        },
+        "enName": "Brave Heart",
+        "pieces": {
+            "circlet": {
+                "chsName": "勇士的冠冕",
+                "enName": "Crown of the Brave",
+                "icon": "UI_RelicIcon_10002_3",
+                "ptName": "Coroa do Valente",
+                "ruName": "Венок храбреца"
+            },
+            "flower": {
+                "chsName": "勇士的勋章",
+                "enName": "Medal of the Brave",
+                "icon": "UI_RelicIcon_10002_4",
+                "ptName": "Medalha do Valente",
+                "ruName": "Брошь храбреца"
+            },
+            "goblet": {
+                "chsName": "勇士的壮行",
+                "enName": "Outset of the Brave",
+                "icon": "UI_RelicIcon_10002_1",
+                "ptName": "Despedida do Valente",
+                "ruName": "Проводы храбреца"
+            },
+            "plume": {
+                "chsName": "勇士的期许",
+                "enName": "Prospect of the Brave",
+                "icon": "UI_RelicIcon_10002_2",
+                "ptName": "Esperança do Valente",
+                "ruName": "Надежды храбреца"
+            },
+            "sands": {
+                "chsName": "勇士的坚毅",
+                "enName": "Fortitude of the Brave",
+                "icon": "UI_RelicIcon_10002_5",
+                "ptName": "Persistência do Valente",
+                "ruName": "Стойкость храбреца"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "ATQ +18%.",
+            "4pc": "Aumenta o Dano em 30% contra os inimigos com mais de 50% de Vida."
+        },
+        "ptName": "Coração Valente",
+        "qualityType": "QUALITY_PURPLE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает силу атаки на 18%.",
+            "4pc": "Увеличивает на 30% урон против врагов с HP выше 50%."
+        },
+        "ruName": "Душа храбреца",
+        "setIcon": "UI_RelicIcon_10002_4",
+        "setId": 10002
+    },
+    "10003": {
+        "chsBonuses": {
+            "2pc": "防御力提高30%。",
+            "4pc": "队伍里每有不同一种元素类型的自己的角色，自身获得30%相应的元素抗性。"
+        },
+        "chsName": "守护之心",
+        "enBonuses": {
+            "2pc": "DEF +30%",
+            "4pc": "For each different element present in your own party, the wearer's Elemental RES to that corresponding element is increased by 30%."
+        },
+        "enName": "Defender's Will",
+        "pieces": {
+            "circlet": {
+                "chsName": "守护束带",
+                "enName": "Guardian's Band",
+                "icon": "UI_RelicIcon_10003_3",
+                "ptName": "Cinto do Guarda",
+                "ruName": "Повязка защитника"
+            },
+            "flower": {
+                "chsName": "守护之花",
+                "enName": "Guardian's Flower",
+                "icon": "UI_RelicIcon_10003_4",
+                "ptName": "Flor do Guarda",
+                "ruName": "Цветок защитника"
+            },
+            "goblet": {
+                "chsName": "守护之皿",
+                "enName": "Guardian's Vessel",
+                "icon": "UI_RelicIcon_10003_1",
+                "ptName": "Sangue do Guarda",
+                "ruName": "Фляжка защитника"
+            },
+            "plume": {
+                "chsName": "守护徽印",
+                "enName": "Guardian's Sigil",
+                "icon": "UI_RelicIcon_10003_2",
+                "ptName": "Emblema do Guarda",
+                "ruName": "Брошь защитника"
+            },
+            "sands": {
+                "chsName": "守护座钟",
+                "enName": "Guardian's Clock",
+                "icon": "UI_RelicIcon_10003_5",
+                "ptName": "Relógio do Guarda",
+                "ruName": "Часы защитника"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "DEF +30%",
+            "4pc": "Aumenta a própria RES do respectivo elemento em 30% para cada elemento diferente dos seus personagens da equipe."
+        },
+        "ptName": "Guardião",
+        "qualityType": "QUALITY_PURPLE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает защиту на 30%.",
+            "4pc": "За каждого члена вашего отряда с неповторяющимся элементом повышает сопротивление к соответствующему элементу на 30%."
+        },
+        "ruName": "Воля защитника",
+        "setIcon": "UI_RelicIcon_10003_4",
+        "setId": 10003
+    },
+    "10004": {
+        "chsBonuses": {
+            "2pc": "所有元素抗性提高20%。",
+            "4pc": "受到某个元素类型的伤害后，相应的抗性提升30%，持续10秒。该效果每10秒只能触发一次。"
+        },
+        "chsName": "奇迹",
+        "enBonuses": {
+            "2pc": "All Elemental RES increased by 20%.",
+            "4pc": "Incoming elemental DMG increases corresponding Elemental RES by 30% for 10s. Can only occur once every 10s."
+        },
+        "enName": "Tiny Miracle",
+        "pieces": {
+            "circlet": {
+                "chsName": "奇迹耳坠",
+                "enName": "Tiny Miracle's Earrings",
+                "icon": "UI_RelicIcon_10004_3",
+                "ptName": "Brincos do Milagre",
+                "ruName": "Серёжки маленького чуда"
+            },
+            "flower": {
+                "chsName": "奇迹之花",
+                "enName": "Tiny Miracle's Flower",
+                "icon": "UI_RelicIcon_10004_4",
+                "ptName": "Flor do Milagre",
+                "ruName": "Цветок маленького чуда"
+            },
+            "goblet": {
+                "chsName": "奇迹之杯",
+                "enName": "Tiny Miracle's Goblet",
+                "icon": "UI_RelicIcon_10004_1",
+                "ptName": "Cálice do Milagre",
+                "ruName": "Чашка маленького чуда"
+            },
+            "plume": {
+                "chsName": "奇迹之羽",
+                "enName": "Tiny Miracle's Feather",
+                "icon": "UI_RelicIcon_10004_2",
+                "ptName": "Pena do Milagre",
+                "ruName": "Перо маленького чуда"
+            },
+            "sands": {
+                "chsName": "奇迹之沙",
+                "enName": "Tiny Miracle's Hourglass",
+                "icon": "UI_RelicIcon_10004_5",
+                "ptName": "Ampulheta do Milagre",
+                "ruName": "Песочные часы маленького чуда"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "RES de todos os Elementos +20%.",
+            "4pc": "O Dano elemental recebido aumenta a RES Elemental correspondente em 30% por 10s. Pode ser lançado uma vez a cada 10s."
+        },
+        "ptName": "Pequeno Milagre",
+        "qualityType": "QUALITY_PURPLE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает сопротивление ко всем элементам на 20%.",
+            "4pc": "Получаемый элементальный урон повышает сопротивление к соответствующему элементу на 30% в течение 10 сек. Может возникнуть раз в 10 сек."
+        },
+        "ruName": "Маленькое чудо",
+        "setIcon": "UI_RelicIcon_10004_4",
+        "setId": 10004
+    },
+    "10005": {
+        "chsBonuses": {
+            "2pc": "暴击率提高12%。",
+            "4pc": "生命值低于70%时，暴击率额外提升24%。"
+        },
+        "chsName": "战狂",
+        "enBonuses": {
+            "2pc": "CRIT Rate +12%",
+            "4pc": "When HP is below 70%, CRIT Rate increases by an additional 24%."
+        },
+        "enName": "Berserker",
+        "pieces": {
+            "circlet": {
+                "chsName": "战狂的鬼面",
+                "enName": "Berserker's Battle Mask",
+                "icon": "UI_RelicIcon_10005_3",
+                "ptName": "Máscara de Batalha de Berserker",
+                "ruName": "Боевая маска берсерка"
+            },
+            "flower": {
+                "chsName": "战狂的蔷薇",
+                "enName": "Berserker's Rose",
+                "icon": "UI_RelicIcon_10005_4",
+                "ptName": "Rosa de Berserker",
+                "ruName": "Роза берсерка"
+            },
+            "goblet": {
+                "chsName": "战狂的骨杯",
+                "enName": "Berserker's Bone Goblet",
+                "icon": "UI_RelicIcon_10005_1",
+                "ptName": "Taça de Ossos de Berserker",
+                "ruName": "Костяной кубок берсерка"
+            },
+            "plume": {
+                "chsName": "战狂的翎羽",
+                "enName": "Berserker's Indigo Feather",
+                "icon": "UI_RelicIcon_10005_2",
+                "ptName": "Pluma de Berserker",
+                "ruName": "Перо берсерка"
+            },
+            "sands": {
+                "chsName": "战狂的时计",
+                "enName": "Berserker's Timepiece",
+                "icon": "UI_RelicIcon_10005_5",
+                "ptName": "Relógio de Berserker",
+                "ruName": "Часы берсерка"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Taxa Crítica +12%",
+            "4pc": "Quando a Vida estiver abaixo de 70%, a Taxa Crítica aumenta 24%."
+        },
+        "ptName": "Berserker",
+        "qualityType": "QUALITY_PURPLE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает шанс крит. попадания на 12%.",
+            "4pc": "Увеличивает шанс крит. попадания на 24% при HP ниже 70%."
+        },
+        "ruName": "Берсерк",
+        "setIcon": "UI_RelicIcon_10005_4",
+        "setId": 10005
+    },
+    "10006": {
+        "chsBonuses": {
+            "2pc": "普通攻击与重击造成的伤害提高15%。",
+            "4pc": "施放元素战技后的8秒内，普通攻击和重击造成的伤害提升25%。"
+        },
+        "chsName": "武人",
+        "enBonuses": {
+            "2pc": "Normal and Charged Attack DMG +15%",
+            "4pc": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 25% for 8s."
+        },
+        "enName": "Martial Artist",
+        "pieces": {
+            "circlet": {
+                "chsName": "武人的头巾",
+                "enName": "Martial Artist's Bandana",
+                "icon": "UI_RelicIcon_10006_3",
+                "ptName": "Bandana de Artista Marcial",
+                "ruName": "Повязка воина"
+            },
+            "flower": {
+                "chsName": "武人的红花",
+                "enName": "Martial Artist's Red Flower",
+                "icon": "UI_RelicIcon_10006_4",
+                "ptName": "Flor Vermelha de Artista Marcial",
+                "ruName": "Алый цветок воина"
+            },
+            "goblet": {
+                "chsName": "武人的酒杯",
+                "enName": "Martial Artist's Wine Cup",
+                "icon": "UI_RelicIcon_10006_1",
+                "ptName": "Taça de Vinho de Artista Marcial",
+                "ruName": "Винный бокал воина"
+            },
+            "plume": {
+                "chsName": "武人的羽饰",
+                "enName": "Martial Artist's Feather Accessory",
+                "icon": "UI_RelicIcon_10006_2",
+                "ptName": "Acessório de Penas de Artista Marcial",
+                "ruName": "Перо воина"
+            },
+            "sands": {
+                "chsName": "武人的水漏",
+                "enName": "Martial Artist's Water Hourglass",
+                "icon": "UI_RelicIcon_10006_5",
+                "ptName": "Ampulheta de Artista Marcial",
+                "ruName": "Водяные часы воина"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Aumenta o Dano do Ataque Normal e do Ataque Carregado em 15%.",
+            "4pc": "Após usar uma Habilidade Elemental, aumenta o Dano do Ataque Normal e Ataque Carregado em 25% por 8s."
+        },
+        "ptName": "Artista Marcial",
+        "qualityType": "QUALITY_PURPLE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает урон обычной и заряженной атаки на 15%.",
+            "4pc": "Увеличивает урон обычной и заряженной атаки на 25% в течение 8 сек. после использования элементального навыка."
+        },
+        "ruName": "Воин",
+        "setIcon": "UI_RelicIcon_10006_4",
+        "setId": 10006
+    },
+    "10007": {
+        "chsBonuses": {
+            "2pc": "元素精通提高80点。",
+            "4pc": "触发元素反应后，队伍中所有角色的元素精通提高120点，持续8秒。"
+        },
+        "chsName": "教官",
+        "enBonuses": {
+            "2pc": "Increases Elemental Mastery by 80.",
+            "4pc": "Upon triggering an Elemental Reaction, increases all party members' Elemental Mastery by 120 for 8s."
+        },
+        "enName": "Instructor",
+        "pieces": {
+            "circlet": {
+                "chsName": "教官的帽子",
+                "enName": "Instructor's Cap",
+                "icon": "UI_RelicIcon_10007_3",
+                "ptName": "Chapéu de Instrutor",
+                "ruName": "Кепка инструктора"
+            },
+            "flower": {
+                "chsName": "教官的胸花",
+                "enName": "Instructor's Brooch",
+                "icon": "UI_RelicIcon_10007_4",
+                "ptName": "Broche de Instrutor",
+                "ruName": "Брошь инструктора"
+            },
+            "goblet": {
+                "chsName": "教官的茶杯",
+                "enName": "Instructor's Tea Cup",
+                "icon": "UI_RelicIcon_10007_1",
+                "ptName": "Copo de Chá de Instrutor",
+                "ruName": "Чайная кружка инструктора"
+            },
+            "plume": {
+                "chsName": "教官的羽饰",
+                "enName": "Instructor's Feather Accessory",
+                "icon": "UI_RelicIcon_10007_2",
+                "ptName": "Acessório de Penas de Instrutor",
+                "ruName": "Перо инструктора"
+            },
+            "sands": {
+                "chsName": "教官的怀表",
+                "enName": "Instructor's Pocket Watch",
+                "icon": "UI_RelicIcon_10007_5",
+                "ptName": "Relógio de Bolso de Instrutor",
+                "ruName": "Карманные часы инструктора"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Proficiência Elemental +80",
+            "4pc": "Após uma Reação Elemental aumenta a Proficiência Elemental de todos os membros da Equipe em 120 por 8s."
+        },
+        "ptName": "Instrutor",
+        "qualityType": "QUALITY_PURPLE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает мастерство стихий на 80 ед.",
+            "4pc": "Вызов элементальной реакции увеличивает мастерство стихий всех членов отряда на 120 ед. в течение 8 сек."
+        },
+        "ruName": "Инструктор",
+        "setIcon": "UI_RelicIcon_10007_4",
+        "setId": 10007
+    },
+    "10008": {
+        "chsBonuses": {
+            "2pc": "元素战技造成的伤害提升20%。",
+            "4pc": "击败敌人时，有100%概率清除元素战技的冷却时间。该效果每15秒至多触发一次。"
+        },
+        "chsName": "赌徒",
+        "enBonuses": {
+            "2pc": "Increases Elemental Skill DMG by 20%.",
+            "4pc": "Defeating an opponent has a 100% chance to remove Elemental Skill CD. Can only occur once every 15s."
+        },
+        "enName": "Gambler",
+        "pieces": {
+            "circlet": {
+                "chsName": "赌徒的耳环",
+                "enName": "Gambler's Earrings",
+                "icon": "UI_RelicIcon_10008_3",
+                "ptName": "Brincos de Apostador",
+                "ruName": "Серёжки азартного игрока"
+            },
+            "flower": {
+                "chsName": "赌徒的胸花",
+                "enName": "Gambler's Brooch",
+                "icon": "UI_RelicIcon_10008_4",
+                "ptName": "Broche de Apostador",
+                "ruName": "Брошь азартного игрока"
+            },
+            "goblet": {
+                "chsName": "赌徒的骰盅",
+                "enName": "Gambler's Dice Cup",
+                "icon": "UI_RelicIcon_10008_1",
+                "ptName": "Copo de Dados do Apostador",
+                "ruName": "Стакан для костей азартного игрока"
+            },
+            "plume": {
+                "chsName": "赌徒的羽饰",
+                "enName": "Gambler's Feather Accessory",
+                "icon": "UI_RelicIcon_10008_2",
+                "ptName": "Acessório de Penas de Apostador",
+                "ruName": "Перо азартного игрока"
+            },
+            "sands": {
+                "chsName": "赌徒的怀表",
+                "enName": "Gambler's Pocket Watch",
+                "icon": "UI_RelicIcon_10008_5",
+                "ptName": "Relógio de Bolso de Apostador",
+                "ruName": "Карманные часы азартного игрока"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Aumenta o dano da Habilidade Elemental em 20%.",
+            "4pc": "Ao derrotar um inimigo, possui 100% de chance de remover a Recarga da Habilidade Elemental. Este efeito pode ser ativado uma vez a cada 15s."
+        },
+        "ptName": "Apostador",
+        "qualityType": "QUALITY_PURPLE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает урон элементального навыка на 20%.",
+            "4pc": "Победа над противником со 100% шансом восстанавливает время отката элементального навыка. Может возникнуть раз в 15 сек."
+        },
+        "ruName": "Азартный игрок",
+        "setIcon": "UI_RelicIcon_10008_4",
+        "setId": 10008
+    },
+    "10009": {
+        "chsBonuses": {
+            "2pc": "元素充能效率提高20%。",
+            "4pc": "施放元素爆发后，每2秒为队伍中所有角色（不包括自己）恢复2点元素能量。该效果持续6秒，无法叠加。"
+        },
+        "chsName": "流放者",
+        "enBonuses": {
+            "2pc": "Energy Recharge +20%",
+            "4pc": "Using an Elemental Burst regenerates 2 Energy for all party members (excluding the wearer) every 2s for 6s. This effect cannot stack."
+        },
+        "enName": "The Exile",
+        "pieces": {
+            "circlet": {
+                "chsName": "流放者头冠",
+                "enName": "Exile's Circlet",
+                "icon": "UI_RelicIcon_10009_3",
+                "ptName": "Grinalda do Exilado",
+                "ruName": "Корона изгнанника"
+            },
+            "flower": {
+                "chsName": "流放者之花",
+                "enName": "Exile's Flower",
+                "icon": "UI_RelicIcon_10009_4",
+                "ptName": "Flor do Exilado",
+                "ruName": "Цветок изгнанника"
+            },
+            "goblet": {
+                "chsName": "流放者之杯",
+                "enName": "Exile's Goblet",
+                "icon": "UI_RelicIcon_10009_1",
+                "ptName": "Cálice do Exilado",
+                "ruName": "Кубок изгнанника"
+            },
+            "plume": {
+                "chsName": "流放者之羽",
+                "enName": "Exile's Feather",
+                "icon": "UI_RelicIcon_10009_2",
+                "ptName": "Pena do Exilado",
+                "ruName": "Перо изгнанника"
+            },
+            "sands": {
+                "chsName": "流放者怀表",
+                "enName": "Exile's Pocket Watch",
+                "icon": "UI_RelicIcon_10009_5",
+                "ptName": "Relógio de Bolso do Exilado",
+                "ruName": "Карманные часы изгнанника"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Recarga de Energia +20%",
+            "4pc": "Ao usar o Supremo, regenera 2 de Energia a todos os personagens da equipe (excluindo o portador) a cada 2s por 6s. Este efeito não pode ser acumulado."
+        },
+        "ptName": "O Exilado",
+        "qualityType": "QUALITY_PURPLE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает скорость восстановления энергии на 20%.",
+            "4pc": "Использование взрыва стихии восстанавливает 2 ед. энергии остальным членам отряда (но не выбранному персонажу) каждые 2 сек. в течение 6 сек. Эффект не может складываться."
+        },
+        "ruName": "Изгнанник",
+        "setIcon": "UI_RelicIcon_10009_4",
+        "setId": 10009
+    },
+    "10010": {
+        "chsBonuses": {
+            "2pc": "生命值上限提高1000点。",
+            "4pc": "开启各类宝箱后的5秒内，持续恢复30%生命值。"
+        },
+        "chsName": "冒险家",
+        "enBonuses": {
+            "2pc": "Max HP increased by 1,000.",
+            "4pc": "Opening a chest regenerates 30% Max HP over 5s."
+        },
+        "enName": "Adventurer",
+        "pieces": {
+            "circlet": {
+                "chsName": "冒险家头带",
+                "enName": "Adventurer's Bandana",
+                "icon": "UI_RelicIcon_10010_3",
+                "ptName": "Bandana de Aventureiro",
+                "ruName": "Повязка искателя приключений"
+            },
+            "flower": {
+                "chsName": "冒险家之花",
+                "enName": "Adventurer's Flower",
+                "icon": "UI_RelicIcon_10010_4",
+                "ptName": "Rosa do Aventureiro",
+                "ruName": "Цветок искателя приключений"
+            },
+            "goblet": {
+                "chsName": "冒险家金杯",
+                "enName": "Adventurer's Golden Goblet",
+                "icon": "UI_RelicIcon_10010_1",
+                "ptName": "Cálice de Ouro do Aventureiro",
+                "ruName": "Кубок искателя приключений"
+            },
+            "plume": {
+                "chsName": "冒险家尾羽",
+                "enName": "Adventurer's Tail Feather",
+                "icon": "UI_RelicIcon_10010_2",
+                "ptName": "Pena de Cauda de Aventureiro",
+                "ruName": "Перо искателя приключений"
+            },
+            "sands": {
+                "chsName": "冒险家怀表",
+                "enName": "Adventurer's Pocket Watch",
+                "icon": "UI_RelicIcon_10010_5",
+                "ptName": "Relógio de Bolso do Aventureiro",
+                "ruName": "Часы искателя приключений"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Vida Máx. +1000",
+            "4pc": "Abrir um baú recupera 30% de Vida Máxima durante 5 segundos."
+        },
+        "ptName": "Aventureiro",
+        "qualityType": "QUALITY_BLUE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает макс. HP на 1000 ед.",
+            "4pc": "В течение 5 сек. после открытия любого сундука восстанавливает 30% HP."
+        },
+        "ruName": "Искатель приключений",
+        "setIcon": "UI_RelicIcon_10010_4",
+        "setId": 10010
+    },
+    "10011": {
+        "chsBonuses": {
+            "2pc": "防御力提高100点。",
+            "4pc": "拾取摩拉时，恢复300点生命值。"
+        },
+        "chsName": "幸运儿",
+        "enBonuses": {
+            "2pc": "DEF increased by 100.",
+            "4pc": "Picking up Mora restores 300 HP."
+        },
+        "enName": "Lucky Dog",
+        "pieces": {
+            "circlet": {
+                "chsName": "幸运儿银冠",
+                "enName": "Lucky Dog's Silver Circlet",
+                "icon": "UI_RelicIcon_10011_3",
+                "ptName": "Grinalda de Prata do Sortudo",
+                "ruName": "Серебряная корона везунчика"
+            },
+            "flower": {
+                "chsName": "幸运儿绿花",
+                "enName": "Lucky Dog's Clover",
+                "icon": "UI_RelicIcon_10011_4",
+                "ptName": "Flor Verde do Sortudo",
+                "ruName": "Клевер везунчика"
+            },
+            "goblet": {
+                "chsName": "幸运儿之杯",
+                "enName": "Lucky Dog's Goblet",
+                "icon": "UI_RelicIcon_10011_1",
+                "ptName": "Cálice do Sortudo",
+                "ruName": "Кубок везунчика"
+            },
+            "plume": {
+                "chsName": "幸运儿鹰羽",
+                "enName": "Lucky Dog's Eagle Feather",
+                "icon": "UI_RelicIcon_10011_2",
+                "ptName": "Pena de Águia do Sortudo",
+                "ruName": "Орлиное перо везунчика"
+            },
+            "sands": {
+                "chsName": "幸运儿沙漏",
+                "enName": "Lucky Dog's Hourglass",
+                "icon": "UI_RelicIcon_10011_5",
+                "ptName": "Ampulheta do Sortudo",
+                "ruName": "Песочные часы везунчика"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "DEF +100",
+            "4pc": "Ao coletar Mora, restaura 300 de Vida."
+        },
+        "ptName": "O Sortudo",
+        "qualityType": "QUALITY_BLUE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает защиту на 100 ед.",
+            "4pc": "Поднятие монет восстанавливает 300 HP."
+        },
+        "ruName": "Везунчик",
+        "setIcon": "UI_RelicIcon_10011_4",
+        "setId": 10011
+    },
+    "10012": {
+        "chsBonuses": {
+            "2pc": "元素充能效率提高20%。",
+            "4pc": "获得元素微粒或元素晶球时，队伍中所有弓箭和法器角色额外恢复3点元素能量。该效果每3秒只能触发一次。"
+        },
+        "chsName": "学士",
+        "enBonuses": {
+            "2pc": "Energy Recharge +20%",
+            "4pc": "Gaining Elemental Particles or Orbs gives 3 Energy to all party members who have a bow or a catalyst equipped. Can only occur once every 3s."
+        },
+        "enName": "Scholar",
+        "pieces": {
+            "circlet": {
+                "chsName": "学士的镜片",
+                "enName": "Scholar's Lens",
+                "icon": "UI_RelicIcon_10012_3",
+                "ptName": "Lentes do Estudioso",
+                "ruName": "Очки учёного"
+            },
+            "flower": {
+                "chsName": "学士的书签",
+                "enName": "Scholar's Bookmark",
+                "icon": "UI_RelicIcon_10012_4",
+                "ptName": "Marca-páginas de Estudioso",
+                "ruName": "Закладка учёного"
+            },
+            "goblet": {
+                "chsName": "学士的墨杯",
+                "enName": "Scholar's Ink Cup",
+                "icon": "UI_RelicIcon_10012_1",
+                "ptName": "Cálice de Tinta do Estudioso",
+                "ruName": "Чернильница учёного"
+            },
+            "plume": {
+                "chsName": "学士的羽笔",
+                "enName": "Scholar's Quill Pen",
+                "icon": "UI_RelicIcon_10012_2",
+                "ptName": "Caneta de Pena de Estudioso",
+                "ruName": "Перо учёного"
+            },
+            "sands": {
+                "chsName": "学士的时钟",
+                "enName": "Scholar's Clock",
+                "icon": "UI_RelicIcon_10012_5",
+                "ptName": "Relógio do Estudioso",
+                "ruName": "Часы учёного"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Recarga de Energia +20%",
+            "4pc": "Obter Partículas ou Orbes Elementais confere 3 de Energia a todos os membros da equipe que possuem um arco ou catalisador equipado. Pode ser ativado uma vez a cada 3s."
+        },
+        "ptName": "O Estudioso",
+        "qualityType": "QUALITY_PURPLE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает скорость восстановления энергии на 20%.",
+            "4pc": "Получение элементальных сфер или частиц восстанавливает 3 ед. энергии членам отряда, экипированным стрелковым оружием или катализатором. Может возникнуть раз в 3 сек."
+        },
+        "ruName": "Учёный",
+        "setIcon": "UI_RelicIcon_10012_4",
+        "setId": 10012
+    },
+    "10013": {
+        "chsBonuses": {
+            "2pc": "角色受到的治疗效果提高20%。",
+            "4pc": "施放元素爆发时，恢复20%生命值。"
+        },
+        "chsName": "游医",
+        "enBonuses": {
+            "2pc": "Increases incoming healing by 20%.",
+            "4pc": "Using Elemental Burst restores 20% HP."
+        },
+        "enName": "Traveling Doctor",
+        "pieces": {
+            "circlet": {
+                "chsName": "游医的方巾",
+                "enName": "Traveling Doctor's Handkerchief",
+                "icon": "UI_RelicIcon_10013_3",
+                "ptName": "Lenço do Doutor Viajante",
+                "ruName": "Платок целителя"
+            },
+            "flower": {
+                "chsName": "游医的银莲",
+                "enName": "Traveling Doctor's Silver Lotus",
+                "icon": "UI_RelicIcon_10013_4",
+                "ptName": "Lótus de Prata do Doutor Viajante",
+                "ruName": "Серебряный лотос целителя"
+            },
+            "goblet": {
+                "chsName": "游医的药壶",
+                "enName": "Traveling Doctor's Medicine Pot",
+                "icon": "UI_RelicIcon_10013_1",
+                "ptName": "Pote de Medicamentos do Doutor Viajante",
+                "ruName": "Чайничек целителя"
+            },
+            "plume": {
+                "chsName": "游医的枭羽",
+                "enName": "Traveling Doctor's Owl Feather",
+                "icon": "UI_RelicIcon_10013_2",
+                "ptName": "Pena de Coruja do Doutor Viajante",
+                "ruName": "Совиное перо целителя"
+            },
+            "sands": {
+                "chsName": "游医的怀钟",
+                "enName": "Traveling Doctor's Pocket Watch",
+                "icon": "UI_RelicIcon_10013_5",
+                "ptName": "Relógio de Bolso do Doutor Viajante",
+                "ruName": "Карманные часы целителя"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Aumenta o efeito de cura em 20%.",
+            "4pc": "Após usar o Supremo, restaura 20% de Vida."
+        },
+        "ptName": "O Doutor viajante",
+        "qualityType": "QUALITY_BLUE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает получаемое лечение на 20%.",
+            "4pc": "Использование взрыва стихии восстанавливает 20% HP."
+        },
+        "ruName": "Целитель",
+        "setIcon": "UI_RelicIcon_10013_4",
+        "setId": 10013
+    },
+    "14001": {
+        "chsBonuses": {
+            "2pc": "获得15%冰元素伤害加成。",
+            "4pc": "攻击处于冰元素影响下的敌人时，暴击率提高20%；若敌人处于冻结状态下，则暴击率额外提高20%。"
+        },
+        "chsName": "冰风迷途的勇士",
+        "enBonuses": {
+            "2pc": "Cryo DMG Bonus +15%",
+            "4pc": "When a character attacks an opponent affected by Cryo, their CRIT Rate is increased by 20%. If the opponent is Frozen, CRIT Rate is increased by an additional 20%."
+        },
+        "enName": "Blizzard Strayer",
+        "pieces": {
+            "circlet": {
+                "chsName": "破冰踏雪的回音",
+                "enName": "Broken Rime's Echo",
+                "icon": "UI_RelicIcon_14001_3",
+                "ptName": "Eco do Inverno",
+                "ruName": "Эхо осколков инея"
+            },
+            "flower": {
+                "chsName": "历经风雪的思念",
+                "enName": "Snowswept Memory",
+                "icon": "UI_RelicIcon_14001_4",
+                "ptName": "Memória da Nevasca",
+                "ruName": "Занесённая снегом память"
+            },
+            "goblet": {
+                "chsName": "遍结寒霜的傲骨",
+                "enName": "Frost-Weaved Dignity",
+                "icon": "UI_RelicIcon_14001_1",
+                "ptName": "Orgulho da Geada",
+                "ruName": "Морозная гордость"
+            },
+            "plume": {
+                "chsName": "摧冰而行的执望",
+                "enName": "Icebreaker's Resolve",
+                "icon": "UI_RelicIcon_14001_2",
+                "ptName": "Determinação do Quebrador de Gelo",
+                "ruName": "Решимость крушителя льда"
+            },
+            "sands": {
+                "chsName": "冰雪故园的终期",
+                "enName": "Frozen Homeland's Demise",
+                "icon": "UI_RelicIcon_14001_5",
+                "ptName": "Fim da Terra Natal Gelada",
+                "ruName": "Гибель замёрзшей родины"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Bônus de Dano Cryo +15%",
+            "4pc": "Quando um personagem ataca um inimigo afetado por Cryo, a sua Taxa CRIT aumenta em 20%. Adicionalmente, se o inimigo estiver Congelado, a Taxa CRIT aumenta em mais 20%."
+        },
+        "ptName": "Herói Invernal",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Даёт 15% бонус Крио урона.",
+            "4pc": "Атаки по противникам с эффектом Крио увеличивают шанс крит. попадания на 20%. Если противник имеет статус Заморозка, то дополнительно увеличивает шанс крит. попадания на 20%."
+        },
+        "ruName": "Заблудший в метели",
+        "setIcon": "UI_RelicIcon_14001_4",
+        "setId": 14001
+    },
+    "14002": {
+        "chsBonuses": {
+            "2pc": "雷元素抗性提高40%。",
+            "4pc": "对处于雷元素影响下的敌人造成的伤害提升35%。"
+        },
+        "chsName": "平息鸣雷的尊者",
+        "enBonuses": {
+            "2pc": "Electro RES increased by 40%.",
+            "4pc": "Increases DMG against opponents affected by Electro by 35%."
+        },
+        "enName": "Thundersoother",
+        "pieces": {
+            "circlet": {
+                "chsName": "平雷之冠",
+                "enName": "Thundersoother's Diadem",
+                "icon": "UI_RelicIcon_14002_3",
+                "ptName": "Coroa do Domador de Raios",
+                "ruName": "Корона усмиряющего гром"
+            },
+            "flower": {
+                "chsName": "平雷之心",
+                "enName": "Thundersoother's Heart",
+                "icon": "UI_RelicIcon_14002_4",
+                "ptName": "Coração do Domador de Raios",
+                "ruName": "Сердце усмиряющего гром"
+            },
+            "goblet": {
+                "chsName": "平雷之器",
+                "enName": "Thundersoother's Goblet",
+                "icon": "UI_RelicIcon_14002_1",
+                "ptName": "Cálice do Domador de Raios",
+                "ruName": "Бокал усмиряющего гром"
+            },
+            "plume": {
+                "chsName": "平雷之羽",
+                "enName": "Thundersoother's Plume",
+                "icon": "UI_RelicIcon_14002_2",
+                "ptName": "Pena do Domador de Raios",
+                "ruName": "Перо усмиряющего гром"
+            },
+            "sands": {
+                "chsName": "平雷之刻",
+                "enName": "Hour of Soothing Thunder",
+                "icon": "UI_RelicIcon_14002_5",
+                "ptName": "Ápice do Domador de Raios",
+                "ruName": "Время усмиряющего гром"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "RES Electro +40%",
+            "4pc": "Aumenta o Dano contra inimigos afetados por Electro em 35%."
+        },
+        "ptName": "Lançador de Trovões",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Повышает Электро сопротивление на +40%.",
+            "4pc": "Увеличивает урон против врагов, находящихся под действием Электро, на 35%."
+        },
+        "ruName": "Усмиряющий гром",
+        "setIcon": "UI_RelicIcon_14002_4",
+        "setId": 14002
+    },
+    "14003": {
+        "chsBonuses": {
+            "2pc": "火元素抗性提高40%。",
+            "4pc": "对处于火元素影响下的敌人造成的伤害提升35%。"
+        },
+        "chsName": "渡过烈火的贤人",
+        "enBonuses": {
+            "2pc": "Pyro RES increased by 40%.",
+            "4pc": "Increases DMG against opponents affected by Pyro by 35%."
+        },
+        "enName": "Lavawalker",
+        "pieces": {
+            "circlet": {
+                "chsName": "渡火者的智慧",
+                "enName": "Lavawalker's Wisdom",
+                "icon": "UI_RelicIcon_14003_3",
+                "ptName": "Sabedoria do Corredor de Lava",
+                "ruName": "Мудрость ступающего по лаве"
+            },
+            "flower": {
+                "chsName": "渡火者的决绝",
+                "enName": "Lavawalker's Resolution",
+                "icon": "UI_RelicIcon_14003_4",
+                "ptName": "Determinação do Corredor de Lava",
+                "ruName": "Решительность ступающего по лаве"
+            },
+            "goblet": {
+                "chsName": "渡火者的醒悟",
+                "enName": "Lavawalker's Epiphany",
+                "icon": "UI_RelicIcon_14003_1",
+                "ptName": "Despertamento do Corredor de Lava",
+                "ruName": "Просветление ступающего по лаве"
+            },
+            "plume": {
+                "chsName": "渡火者的解脱",
+                "enName": "Lavawalker's Salvation",
+                "icon": "UI_RelicIcon_14003_2",
+                "ptName": "Libertação do Corredor de Lava",
+                "ruName": "Спасение ступающего по лаве"
+            },
+            "sands": {
+                "chsName": "渡火者的煎熬",
+                "enName": "Lavawalker's Torment",
+                "icon": "UI_RelicIcon_14003_5",
+                "ptName": "Tortura do Corredor de Lava",
+                "ruName": "Муки ступающего по лаве"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "RES Pyro +40%",
+            "4pc": "Aumenta o Dano contra inimigos afetados por Pyro em 35%."
+        },
+        "ptName": "Atravessador do Fogo",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Повышает Пиро сопротивление на +40%.",
+            "4pc": "Увеличивает урон против врагов, находящихся под действием Пиро, на 35%."
+        },
+        "ruName": "Ступающий по лаве",
+        "setIcon": "UI_RelicIcon_14003_4",
+        "setId": 14003
+    },
+    "14004": {
+        "chsBonuses": {
+            "2pc": "角色造成的治疗效果提升15%。",
+            "4pc": "施放元素战技或元素爆发后的10秒内，队伍中所有角色受治疗效果加成提高20%。"
+        },
+        "chsName": "被怜爱的少女",
+        "enBonuses": {
+            "2pc": "Character Healing Effectiveness +15%",
+            "4pc": "Using an Elemental Skill or Burst increases healing received by all party members by 20% for 10s."
+        },
+        "enName": "Maiden Beloved",
+        "pieces": {
+            "circlet": {
+                "chsName": "少女易逝的芳颜",
+                "enName": "Maiden's Fading Beauty",
+                "icon": "UI_RelicIcon_14004_3",
+                "ptName": "Beleza Desvanecida da Donzela",
+                "ruName": "Увядающая красота юной девы"
+            },
+            "flower": {
+                "chsName": "远方的少女之心",
+                "enName": "Maiden's Distant Love",
+                "icon": "UI_RelicIcon_14004_4",
+                "ptName": "Amor Distante da Donzela",
+                "ruName": "Далёкая душа юной девы"
+            },
+            "goblet": {
+                "chsName": "少女片刻的闲暇",
+                "enName": "Maiden's Fleeting Leisure",
+                "icon": "UI_RelicIcon_14004_1",
+                "ptName": "Passatempo da Donzela",
+                "ruName": "Досуг юной девы"
+            },
+            "plume": {
+                "chsName": "少女飘摇的思念",
+                "enName": "Maiden's Heart-Stricken Infatuation",
+                "icon": "UI_RelicIcon_14004_2",
+                "ptName": "Lembranças da Donzela",
+                "ruName": "Тоска юной девы"
+            },
+            "sands": {
+                "chsName": "少女苦短的良辰",
+                "enName": "Maiden's Passing Youth",
+                "icon": "UI_RelicIcon_14004_5",
+                "ptName": "Juventude Passageira da Donzela",
+                "ruName": "Уходящая молодость юной девы"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Efeito de Cura do Personagem aumenta em 15%",
+            "4pc": "Ao usar uma Habilidade Elemental ou Explosão, aumenta a cura recebida por todos os membros da equipe em 20% por 10s."
+        },
+        "ptName": "Donzela Amada",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает эффективность лечения на 15%.",
+            "4pc": "Увеличивает получаемое лечение всех членов отряда на 20% в течение 10 сек. после использования элементального навыка или взрыва стихии."
+        },
+        "ruName": "Возлюбленная юная дева",
+        "setIcon": "UI_RelicIcon_14004_4",
+        "setId": 14004
+    },
+    "15000": {
+        "chsBonuses": null,
+        "chsName": "",
+        "enBonuses": null,
+        "enName": "",
+        "pieces": {
+            "circlet": {
+                "chsName": "高天的风之主冠",
+                "enName": "Lord of Wind over Firmament's Crown",
+                "icon": "UI_RelicIcon_15000_3",
+                "ptName": "Coroa dos Ventos Celestiais",
+                "ruName": "Корона хозяина ветров"
+            },
+            "flower": {
+                "chsName": "高天的风之主花",
+                "enName": "Lord of Wind over Firmament's Flower",
+                "icon": "UI_RelicIcon_15000_4",
+                "ptName": "Flor dos Ventos Celestiais",
+                "ruName": "Цветок хозяина ветров"
+            },
+            "goblet": {
+                "chsName": "高天的风之主杯",
+                "enName": "Lord of Wind over Firmament's Cup",
+                "icon": "UI_RelicIcon_15000_1",
+                "ptName": "Cálice dos Ventos Celestiais",
+                "ruName": "Чаша хозяина ветров"
+            },
+            "plume": {
+                "chsName": "高天的风之主羽",
+                "enName": "Lord of Wind over Firmament's Feather",
+                "icon": "UI_RelicIcon_15000_2",
+                "ptName": "Pluma dos Ventos Celestiais",
+                "ruName": "Перо хозяина ветров"
+            },
+            "sands": {
+                "chsName": "高天的风之主沙",
+                "enName": "Lord of Wind over Firmament's Hourglass",
+                "icon": "UI_RelicIcon_15000_5",
+                "ptName": "Areia dos Ventos Celestiais",
+                "ruName": "Часы хозяина ветров"
+            }
+        },
+        "ptBonuses": null,
+        "ptName": "",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": null,
+        "ruName": "",
+        "setIcon": "",
+        "setId": 15000
+    },
+    "15001": {
+        "chsBonuses": {
+            "2pc": "攻击力提高18%。",
+            "4pc": "装备该圣遗物套装的角色为单手剑、双手剑、长柄武器角色时，角色普通攻击造成的伤害提高35%。"
+        },
+        "chsName": "角斗士的终幕礼",
+        "enBonuses": {
+            "2pc": "ATK +18%.",
+            "4pc": "If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%."
+        },
+        "enName": "Gladiator's Finale",
+        "pieces": {
+            "circlet": {
+                "chsName": "角斗士的凯旋",
+                "enName": "Gladiator's Triumphus",
+                "icon": "UI_RelicIcon_15001_3",
+                "ptName": "Triunfo do Gladiador",
+                "ruName": "Триумф гладиатора"
+            },
+            "flower": {
+                "chsName": "角斗士的留恋",
+                "enName": "Gladiator's Nostalgia",
+                "icon": "UI_RelicIcon_15001_4",
+                "ptName": "Nostalgia do Gladiador",
+                "ruName": "Ностальгия гладиатора"
+            },
+            "goblet": {
+                "chsName": "角斗士的酣醉",
+                "enName": "Gladiator's Intoxication",
+                "icon": "UI_RelicIcon_15001_1",
+                "ptName": "Embriaguez do Gladiador",
+                "ruName": "Пьянство гладиатора"
+            },
+            "plume": {
+                "chsName": "角斗士的归宿",
+                "enName": "Gladiator's Destiny",
+                "icon": "UI_RelicIcon_15001_2",
+                "ptName": "Destino do Gladiador",
+                "ruName": "Судьба гладиатора"
+            },
+            "sands": {
+                "chsName": "角斗士的希冀",
+                "enName": "Gladiator's Longing",
+                "icon": "UI_RelicIcon_15001_5",
+                "ptName": "Esperança do Gladiador",
+                "ruName": "Стремление гладиатора"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "ATQ +18%.",
+            "4pc": "Se o portador deste conjunto de artefato usar uma Espada, Espadão ou Lança, aumenta o Dano de seus Ataques Normais em 35%."
+        },
+        "ptName": "Último Juramento do Gladiador",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает силу атаки на 18%.",
+            "4pc": "Увеличивает урон обычной атаки на 35%, если персонаж использует одноручное, двуручное или древковое оружие."
+        },
+        "ruName": "Конец гладиатора",
+        "setIcon": "UI_RelicIcon_15001_4",
+        "setId": 15001
+    },
+    "15002": {
+        "chsBonuses": {
+            "2pc": "获得15%风元素伤害加成。",
+            "4pc": "扩散反应造成的伤害提升60%。根据扩散的元素类型，降低受到影响的敌人40%的对应元素抗性，持续10秒。"
+        },
+        "chsName": "翠绿之影",
+        "enBonuses": {
+            "2pc": "Anemo DMG Bonus +15%",
+            "4pc": "Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s."
+        },
+        "enName": "Viridescent Venerer",
+        "pieces": {
+            "circlet": {
+                "chsName": "翠绿的猎人之冠",
+                "enName": "Viridescent Venerer's Diadem",
+                "icon": "UI_RelicIcon_15002_3",
+                "ptName": "Coroa do Caçador Verde",
+                "ruName": "Венок изумрудного охотника"
+            },
+            "flower": {
+                "chsName": "野花记忆的绿野",
+                "enName": "In Remembrance of Viridescent Fields",
+                "icon": "UI_RelicIcon_15002_4",
+                "ptName": "Lembrança de Flores Silvestres",
+                "ruName": "Воспоминания об изумрудных лугах"
+            },
+            "goblet": {
+                "chsName": "翠绿猎人的容器",
+                "enName": "Viridescent Venerer's Vessel",
+                "icon": "UI_RelicIcon_15002_1",
+                "ptName": "Frasco do Caçador Verde",
+                "ruName": "Сосуд изумрудного охотника"
+            },
+            "plume": {
+                "chsName": "猎人青翠的箭羽",
+                "enName": "Viridescent Arrow Feather",
+                "icon": "UI_RelicIcon_15002_2",
+                "ptName": "Pena de Flecha do Caçador Verde",
+                "ruName": "Оперение стрелы изумрудного охотника"
+            },
+            "sands": {
+                "chsName": "翠绿猎人的笃定",
+                "enName": "Viridescent Venerer's Determination",
+                "icon": "UI_RelicIcon_15002_5",
+                "ptName": "Determinação do Caçador Verde",
+                "ruName": "Решимость изумрудного охотника"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Bônus de Dano Anemo +15%",
+            "4pc": "Aumenta o Dano do Redemoinho em 60%. Dependendo do tipo elemento infundido, diminui a RES Elemental correspondente do oponente em 40% por 10s."
+        },
+        "ptName": "Sombra Verde",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Даёт 15% бонус Анемо урона.",
+            "4pc": "Увеличивает урон Рассеивания на 60%. При взаимодействии Рассеивания с другим элементом, также понижает сопротивление противника к соответствующему элементу на 40% в течение 10 сек."
+        },
+        "ruName": "Изумрудная тень",
+        "setIcon": "UI_RelicIcon_15002_4",
+        "setId": 15002
+    },
+    "15003": {
+        "chsBonuses": {
+            "2pc": "元素精通提高80点。",
+            "4pc": "装备该圣遗物套装的角色为法器、弓箭角色时，角色重击造成的伤害提高35%。"
+        },
+        "chsName": "流浪大地的乐团",
+        "enBonuses": {
+            "2pc": "Increases Elemental Mastery by 80.",
+            "4pc": "Increases Charged Attack DMG by 35% if the character uses a Catalyst or a Bow."
+        },
+        "enName": "Wanderer's Troupe",
+        "pieces": {
+            "circlet": {
+                "chsName": "指挥的礼帽",
+                "enName": "Conductor's Top Hat",
+                "icon": "UI_RelicIcon_15003_3",
+                "ptName": "Chapéu do Comandante",
+                "ruName": "Цилиндр дирижёра"
+            },
+            "flower": {
+                "chsName": "乐团的晨光",
+                "enName": "Troupe's Dawnlight",
+                "icon": "UI_RelicIcon_15003_4",
+                "ptName": "Luz Matinal da Orquestra",
+                "ruName": "Рассвет ансамбля"
+            },
+            "goblet": {
+                "chsName": "吟游者之壶",
+                "enName": "Wanderer's String-Kettle",
+                "icon": "UI_RelicIcon_15003_1",
+                "ptName": "Chaleira do Bardo",
+                "ruName": "Фляжка странника"
+            },
+            "plume": {
+                "chsName": "琴师的箭羽",
+                "enName": "Bard's Arrow Feather",
+                "icon": "UI_RelicIcon_15003_2",
+                "ptName": "Pena de Flecha do Bardo",
+                "ruName": "Оперение стрелы барда"
+            },
+            "sands": {
+                "chsName": "终幕的时计",
+                "enName": "Concert's Final Hour",
+                "icon": "UI_RelicIcon_15003_5",
+                "ptName": "Queda de Cortina",
+                "ruName": "Окончание концерта"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Proficiência Elemental +80",
+            "4pc": "Aumenta o Dano do Ataque Carregado em 35% se o personagem estiver usando Catalisador ou Arco."
+        },
+        "ptName": "Trupe Itinerante",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает мастерство стихий на 80 ед.",
+            "4pc": "Увеличивает урон заряженной атаки на 35%, если персонаж использует катализатор или стрелковое оружие."
+        },
+        "ruName": "Странствующий ансамбль",
+        "setIcon": "UI_RelicIcon_15003_4",
+        "setId": 15003
+    },
+    "15004": {
+        "chsBonuses": {
+            "2pc": "获得15%冰元素伤害加成。",
+            "4pc": "超导反应造成的伤害提升100%，融化反应的加成系数提高15%。施放元素爆发后的10秒内，冰元素伤害加成额外提升30%。"
+        },
+        "chsName": "冰之川与雪之砂",
+        "enBonuses": {
+            "2pc": "Cryo DMG Bonus +15%",
+            "4pc": "Increases Superconduct DMG by 100%. Increases Melt DMG by 15%. Using an Elemental Burst increases Cryo DMG Bonus by 30% for 10s."
+        },
+        "enName": "Glacier and Snowfield",
+        "pieces": {
+            "circlet": {
+                "chsName": "冰河之冠",
+                "enName": "Crown of Glacier",
+                "icon": "UI_RelicIcon_15004_3",
+                "ptName": "Coroa Glacial",
+                "ruName": "Корона мёрзлых рек"
+            },
+            "flower": {
+                "chsName": "凛冬霜心",
+                "enName": "Heart of Frost",
+                "icon": "UI_RelicIcon_15004_4",
+                "ptName": "Coração Boreal",
+                "ruName": "Сердце зимнего леса"
+            },
+            "goblet": {
+                "chsName": "北风之盏",
+                "enName": "Goblet of Aquilo",
+                "icon": "UI_RelicIcon_15004_1",
+                "ptName": "Cálice do Vento do Norte",
+                "ruName": "Кубок северных ветров"
+            },
+            "plume": {
+                "chsName": "雪藏之羽",
+                "enName": "Plume of Snow",
+                "icon": "UI_RelicIcon_15004_2",
+                "ptName": "Pena da Neve",
+                "ruName": "Перо снежных равнин"
+            },
+            "sands": {
+                "chsName": "凝冰成砂",
+                "enName": "Glacial Sand",
+                "icon": "UI_RelicIcon_15004_5",
+                "ptName": "Areia Congelada",
+                "ruName": "Часы песчаных льдов"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Bônus de Dano Cryo +15%",
+            "4pc": "Aumenta o Dano causado por Supercondutor em 100%, aumenta o Dano causado pela Fusão em 15%. Ao usar um Supremo, aumenta o Dano Cryo em 30% por 10s."
+        },
+        "ptName": "Rios de Gelo e Areia de Neve",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Даёт 15% бонус Крио урона.",
+            "4pc": "Увеличивает урон статуса Сверхпроводник на 100%, а урон статуса Таяние - на 15%. Взрыв стихии увеличивает Крио урон на 30% в течение 10 сек."
+        },
+        "ruName": "Снег и лёд",
+        "setIcon": "UI_RelicIcon_15004_4",
+        "setId": 15004
+    },
+    "15005": {
+        "chsBonuses": {
+            "2pc": "获得15%雷元素伤害加成。",
+            "4pc": "超载、感电、超导、超绽放反应造成的伤害提升40%，超激化反应带来的伤害提升提高20%，月感电反应造成的伤害提升20%。触发上述元素反应或原激化反应时，元素战技冷却时间减少1秒。该效果每0.8秒最多触发一次。"
+        },
+        "chsName": "如雷的盛怒",
+        "enBonuses": {
+            "2pc": "Electro DMG Bonus +15%",
+            "4pc": "Increases the DMG caused by Overloaded, Electro-Charged, Superconduct, and Hyperbloom by 40%, the DMG Bonus conferred by Aggravate by 20%, and the DMG caused by Lunar-Charged by 20%. When Quicken or the aforementioned Elemental Reactions are triggered, Elemental Skill CD is decreased by 1s. Can only occur once every 0.8s."
+        },
+        "enName": "Thundering Fury",
+        "pieces": {
+            "circlet": {
+                "chsName": "唤雷的头冠",
+                "enName": "Thunder Summoner's Crown",
+                "icon": "UI_RelicIcon_15005_3",
+                "ptName": "Coroa do Invocador do Trovão",
+                "ruName": "Корона призывателя грома"
+            },
+            "flower": {
+                "chsName": "雷鸟的怜悯",
+                "enName": "Thunderbird's Mercy",
+                "icon": "UI_RelicIcon_15005_4",
+                "ptName": "Misericórdia da Pássaro do Trovão",
+                "ruName": "Милосердие Громовой птицы"
+            },
+            "goblet": {
+                "chsName": "降雷的凶兆",
+                "enName": "Omen of Thunderstorm",
+                "icon": "UI_RelicIcon_15005_1",
+                "ptName": "Profecia do Trovão",
+                "ruName": "Предвестник бури"
+            },
+            "plume": {
+                "chsName": "雷灾的孑遗",
+                "enName": "Survivor of Catastrophe",
+                "icon": "UI_RelicIcon_15005_2",
+                "ptName": "Sobreviventes da Catástrofe",
+                "ruName": "Переживший катастрофу"
+            },
+            "sands": {
+                "chsName": "雷霆的时计",
+                "enName": "Hourglass of Thunder",
+                "icon": "UI_RelicIcon_15005_5",
+                "ptName": "Relógio do Trovão",
+                "ruName": "Песочные часы грома"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Bônus de Dano Electro +15%",
+            "4pc": "Aumenta o Dano causado por Sobrecarga, Eletricamente Carregado, Supercondutor e Superflorescimento em 40%, o Bônus de Dano concedido por Intensificação em 20% e o Dano causado por Carga Lunar em 20%. Quando Aceleração ou uma das Reações Elementais mencionadas for desencadeada, o Tempo de Recarga da Habilidade Elemental é reduzido em 1s. Só pode ocorrer uma vez a cada 0,8s."
+        },
+        "ptName": "Trovão Furioso",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Даёт 15% бонус Электро урона.",
+            "4pc": "Увеличивает урон реакций Перегрузка, Заряжен, Сверхпроводник и Вегетация на 40%. Урон от реакций Обострение и Лунный заряд увеличивается на 20%. При активации перечисленных реакций или реакции Стимуляция время отката элементального навыка уменьшается на 1 сек. Эффект может возникнуть один раз в 0,8 сек."
+        },
+        "ruName": "Громогласный рёв ярости",
+        "setIcon": "UI_RelicIcon_15005_4",
+        "setId": 15005
+    },
+    "15006": {
+        "chsBonuses": {
+            "2pc": "获得15%火元素伤害加成。",
+            "4pc": "超载、燃烧、烈绽放反应造成的伤害提升40%，蒸发、融化反应的加成系数提高15%。施放元素战技后的10秒内，2件套的效果提高50%，该效果最多叠加3次。"
+        },
+        "chsName": "炽烈的炎之魔女",
+        "enBonuses": {
+            "2pc": "Pyro DMG Bonus +15%",
+            "4pc": "Increases Overloaded, Burning, and Burgeon DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks."
+        },
+        "enName": "Crimson Witch of Flames",
+        "pieces": {
+            "circlet": {
+                "chsName": "焦灼的魔女帽",
+                "enName": "Witch's Scorching Hat",
+                "icon": "UI_RelicIcon_15006_3",
+                "ptName": "Chapéu Abrasador da Bruxa",
+                "ruName": "Тлеющая ведьмина шляпа"
+            },
+            "flower": {
+                "chsName": "魔女的炎之花",
+                "enName": "Witch's Flower of Blaze",
+                "icon": "UI_RelicIcon_15006_4",
+                "ptName": "Flor de Labareda da Bruxa",
+                "ruName": "Ведьмин огненный цветок"
+            },
+            "goblet": {
+                "chsName": "魔女的心之火",
+                "enName": "Witch's Heart Flames",
+                "icon": "UI_RelicIcon_15006_1",
+                "ptName": "Chamas do Coração da Bruxa",
+                "ruName": "Пламя ведьминого сердца"
+            },
+            "plume": {
+                "chsName": "魔女常燃之羽",
+                "enName": "Witch's Ever-Burning Plume",
+                "icon": "UI_RelicIcon_15006_2",
+                "ptName": "Pena Ardente da Bruxa",
+                "ruName": "Пылающее ведьмино перо"
+            },
+            "sands": {
+                "chsName": "魔女破灭之时",
+                "enName": "Witch's End Time",
+                "icon": "UI_RelicIcon_15006_5",
+                "ptName": "Fim dos Tempos da Bruxa",
+                "ruName": "Ведьмин последний час"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Bônus de Dano Pyro +15%",
+            "4pc": "Aumenta o Dano causado por Sobrecarga, Queimaduras e Germinação em 40%. Aumenta o Dano causado por Vaporização e Fusão em 15%. Usar Habilidades Elementais aumenta o efeito de Bônus de Conjunto de 2 Peças em 50% do seu valor inicial por 10s. Máximo de 3 acúmulos."
+        },
+        "ptName": "A Bruxa das Chamas Carmesim",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Даёт 15% бонус Пиро урона.",
+            "4pc": "Увеличивает урон реакций Перегрузка, Горение и Цветение на 40%, а урон реакций Пар и Таяние на 15%. Использование элементального навыка увеличивает эффект набора из 2 предметов на 50% на 10 сек. Может складываться до 3 раз."
+        },
+        "ruName": "Горящая алая ведьма",
+        "setIcon": "UI_RelicIcon_15006_4",
+        "setId": 15006
+    },
+    "15007": {
+        "chsBonuses": {
+            "2pc": "元素爆发造成的伤害提升20%。",
+            "4pc": "施放元素爆发后，队伍中所有角色攻击力提升20%，持续12秒。该效果不可叠加。"
+        },
+        "chsName": "昔日宗室之仪",
+        "enBonuses": {
+            "2pc": "Elemental Burst DMG +20%",
+            "4pc": "Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack."
+        },
+        "enName": "Noblesse Oblige",
+        "pieces": {
+            "circlet": {
+                "chsName": "宗室面具",
+                "enName": "Royal Masque",
+                "icon": "UI_RelicIcon_15007_3",
+                "ptName": "Máscara Real",
+                "ruName": "Королевская маска"
+            },
+            "flower": {
+                "chsName": "宗室之花",
+                "enName": "Royal Flora",
+                "icon": "UI_RelicIcon_15007_4",
+                "ptName": "Flor Real",
+                "ruName": "Королевский цветок"
+            },
+            "goblet": {
+                "chsName": "宗室银瓮",
+                "enName": "Royal Silver Urn",
+                "icon": "UI_RelicIcon_15007_1",
+                "ptName": "Urna de Prata Real",
+                "ruName": "Королевская серебряная фляжка"
+            },
+            "plume": {
+                "chsName": "宗室之翎",
+                "enName": "Royal Plume",
+                "icon": "UI_RelicIcon_15007_2",
+                "ptName": "Pena Real",
+                "ruName": "Королевское перо"
+            },
+            "sands": {
+                "chsName": "宗室时计",
+                "enName": "Royal Pocket Watch",
+                "icon": "UI_RelicIcon_15007_5",
+                "ptName": "Relógio de Bolso Real",
+                "ruName": "Королевские карманные часы"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Dano do Supremo +20%",
+            "4pc": "Usar o Supremo aumenta o ATQ de todos os membros da equipe em 20% por 12s. Este efeito não pode ser acumulado."
+        },
+        "ptName": "Antigo Ritual Real",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает урон взрыва стихии на 20%.",
+            "4pc": "Активация взрыва стихии увеличивает силу атаки всех членов отряда на 20% в течение 12 сек. Эффект не складывается."
+        },
+        "ruName": "Церемония древней знати",
+        "setIcon": "UI_RelicIcon_15007_4",
+        "setId": 15007
+    },
+    "15008": {
+        "chsBonuses": {
+            "2pc": "造成的物理伤害提高25%。",
+            "4pc": "击败敌人后的10秒内，施放重击时不消耗体力，且重击造成的伤害提升50%。"
+        },
+        "chsName": "染血的骑士道",
+        "enBonuses": {
+            "2pc": "Physical DMG +25%",
+            "4pc": "After defeating an opponent, increases Charged Attack DMG by 50%, and reduces its Stamina cost to 0 for 10s."
+        },
+        "enName": "Bloodstained Chivalry",
+        "pieces": {
+            "circlet": {
+                "chsName": "染血的铁假面",
+                "enName": "Bloodstained Iron Mask",
+                "icon": "UI_RelicIcon_15008_3",
+                "ptName": "Máscara de Ferro Sanguinária",
+                "ruName": "Железная маска рыцаря крови"
+            },
+            "flower": {
+                "chsName": "染血的铁之心",
+                "enName": "Bloodstained Flower of Iron",
+                "icon": "UI_RelicIcon_15008_4",
+                "ptName": "Coração de Ferro Sanguinário",
+                "ruName": "Железное сердце рыцаря крови"
+            },
+            "goblet": {
+                "chsName": "染血骑士之杯",
+                "enName": "Bloodstained Chevalier's Goblet",
+                "icon": "UI_RelicIcon_15008_1",
+                "ptName": "Cálice do Cavaleiro Sanguinário",
+                "ruName": "Кубок рыцаря крови"
+            },
+            "plume": {
+                "chsName": "染血的黑之羽",
+                "enName": "Bloodstained Black Plume",
+                "icon": "UI_RelicIcon_15008_2",
+                "ptName": "Pena Negra Sanguinária",
+                "ruName": "Перо рыцаря крови"
+            },
+            "sands": {
+                "chsName": "骑士染血之时",
+                "enName": "Bloodstained Final Hour",
+                "icon": "UI_RelicIcon_15008_5",
+                "ptName": "Relógio do Cavaleiro Sanguinário",
+                "ruName": "Час долга рыцаря крови"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Dano Físico causado +25%",
+            "4pc": "Após derrotar um oponente, aumenta o Dano do Ataque Carregado em 50% e reduz seu custo de Stamina para 0 por 10s."
+        },
+        "ptName": "Cavaleiro Manchado de Sangue",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает физ. урон на 25%.",
+            "4pc": "После победы над противником увеличивает урон заряженной атаки на 50% и обнуляет стоимость выносливости заряженной атаки на 10 сек."
+        },
+        "ruName": "Рыцарь крови",
+        "setIcon": "UI_RelicIcon_15008_4",
+        "setId": 15008
+    },
+    "15009": {
+        "chsBonuses": {
+            "1pc": "受到的火元素附着效果的持续时间减少40%。"
+        },
+        "chsName": "祭火之人",
+        "enBonuses": {
+            "1pc": "Affected by Pyro for 40% less time."
+        },
+        "enName": "Prayers for Illumination",
+        "pieces": {
+            "circlet": {
+                "chsName": "祭火礼冠",
+                "enName": "Tiara of Flame",
+                "icon": "UI_RelicIcon_15009_3",
+                "ptName": "Coroa do Ritual Pyro",
+                "ruName": "Тиара огня"
+            }
+        },
+        "ptBonuses": {
+            "1pc": "Reduz a duração dos efeitos causados por Pyro em 40%."
+        },
+        "ptName": "Xamã do Ritual Pyro",
+        "qualityType": "QUALITY_PURPLE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "1pc": "Уменьшает длительность полученного Пиро эффекта на 40%."
+        },
+        "ruName": "Шаман огня",
+        "setIcon": "UI_RelicIcon_15009_3",
+        "setId": 15009
+    },
+    "15010": {
+        "chsBonuses": {
+            "1pc": "受到的水元素附着效果的持续时间减少40%。"
+        },
+        "chsName": "祭水之人",
+        "enBonuses": {
+            "1pc": "Affected by Hydro for 40% less time."
+        },
+        "enName": "Prayers for Destiny",
+        "pieces": {
+            "circlet": {
+                "chsName": "祭水礼冠",
+                "enName": "Tiara of Torrents",
+                "icon": "UI_RelicIcon_15010_3",
+                "ptName": "Coroa do Ritual Hydro",
+                "ruName": "Тиара воды"
+            }
+        },
+        "ptBonuses": {
+            "1pc": "Reduz a duração dos efeitos causados por Hydro em 40%."
+        },
+        "ptName": "Orações para o Destino",
+        "qualityType": "QUALITY_PURPLE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "1pc": "Уменьшает длительность полученного Гидро эффекта на 40%."
+        },
+        "ruName": "Шаман воды",
+        "setIcon": "UI_RelicIcon_15010_3",
+        "setId": 15010
+    },
+    "15011": {
+        "chsBonuses": {
+            "1pc": "受到的雷元素附着效果的持续时间减少40%。"
+        },
+        "chsName": "祭雷之人",
+        "enBonuses": {
+            "1pc": "Affected by Electro for 40% less time."
+        },
+        "enName": "Prayers for Wisdom",
+        "pieces": {
+            "circlet": {
+                "chsName": "祭雷礼冠",
+                "enName": "Tiara of Thunder",
+                "icon": "UI_RelicIcon_15011_3",
+                "ptName": "Coroa do Ritual Electro",
+                "ruName": "Тиара грома"
+            }
+        },
+        "ptBonuses": {
+            "1pc": "Reduz a duração dos efeitos causados por Electro em 40%."
+        },
+        "ptName": "Xamã do Ritual Electro",
+        "qualityType": "QUALITY_PURPLE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "1pc": "Уменьшает длительность полученного Электро эффекта на 40%."
+        },
+        "ruName": "Шаман молнии",
+        "setIcon": "UI_RelicIcon_15011_3",
+        "setId": 15011
+    },
+    "15012": {
+        "chsBonuses": {
+            "1pc": "受到的风元素附着效果的持续时间减少40%。"
+        },
+        "chsName": "祭风之人",
+        "enBonuses": {
+            "1pc": "Affected by Anemo for 40% less time."
+        },
+        "enName": "Prayers to the Firmament",
+        "pieces": {
+            "circlet": {
+                "chsName": "祭风礼冠",
+                "enName": "Tiara of Gales",
+                "icon": "UI_RelicIcon_15012_3",
+                "ptName": "Coroa do Ritual Anemo",
+                "ruName": "Тиара ветра"
+            }
+        },
+        "ptBonuses": {
+            "1pc": "Reduz a duração dos efeitos causados por Anemo em 40%."
+        },
+        "ptName": "Xamã do Ritual Anemo",
+        "qualityType": "QUALITY_PURPLE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "1pc": "Уменьшает длительность полученного Анемо эффекта на 40%."
+        },
+        "ruName": "Шаман ветра",
+        "setIcon": "UI_RelicIcon_15012_3",
+        "setId": 15012
+    },
+    "15013": {
+        "chsBonuses": {
+            "1pc": "受到的冰元素附着效果的持续时间减少40%。"
+        },
+        "chsName": "祭冰之人",
+        "enBonuses": {
+            "1pc": "Affected by Cryo for 40% less time."
+        },
+        "enName": "Prayers to Springtime",
+        "pieces": {
+            "circlet": {
+                "chsName": "祭冰礼冠",
+                "enName": "Tiara of Frost",
+                "icon": "UI_RelicIcon_15013_3",
+                "ptName": "Tiara de Gelo",
+                "ruName": "Тиара холода"
+            }
+        },
+        "ptBonuses": {
+            "1pc": "Reduz a duração dos efeitos causados por Cryo em 40%."
+        },
+        "ptName": "Orações para a Primavera",
+        "qualityType": "QUALITY_PURPLE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "1pc": "Уменьшает длительность полученного Крио эффекта на 40%."
+        },
+        "ruName": "Шаман льда",
+        "setIcon": "UI_RelicIcon_15013_3",
+        "setId": 15013
+    },
+    "15014": {
+        "chsBonuses": {
+            "2pc": "获得15%岩元素伤害加成。",
+            "4pc": "获得结晶反应形成的晶片或触发月结晶反应时，队伍中所有角色获得35%对应元素伤害加成，持续10秒。同时只能通过该效果获得一种元素伤害加成。"
+        },
+        "chsName": "悠古的磐岩",
+        "enBonuses": {
+            "2pc": "Gain a 15% Geo DMG Bonus.",
+            "4pc": "Upon obtaining an Elemental Shard created through Crystallize or triggering a Lunar-Crystallize reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time."
+        },
+        "enName": "Archaic Petra",
+        "pieces": {
+            "circlet": {
+                "chsName": "不动玄石之相",
+                "enName": "Mask of Solitude Basalt",
+                "icon": "UI_RelicIcon_15014_3",
+                "ptName": "Imagem de uma Pedra Imóvel",
+                "ruName": "Маска из одинокого базальта"
+            },
+            "flower": {
+                "chsName": "磐陀裂生之花",
+                "enName": "Flower of Creviced Cliff",
+                "icon": "UI_RelicIcon_15014_4",
+                "ptName": "Flor do Penhasco Rachado",
+                "ruName": "Цветок скальных трещин"
+            },
+            "goblet": {
+                "chsName": "巉岩琢塑之樽",
+                "enName": "Goblet of Chiseled Crag",
+                "icon": "UI_RelicIcon_15014_1",
+                "ptName": "Taça do Escultor de Pedra",
+                "ruName": "Кубок из резного камня"
+            },
+            "plume": {
+                "chsName": "嵯峨群峰之翼",
+                "enName": "Feather of Jagged Peaks",
+                "icon": "UI_RelicIcon_15014_2",
+                "ptName": "Asas do Pico da Montanha",
+                "ruName": "Перо зубчатых пиков"
+            },
+            "sands": {
+                "chsName": "星罗圭璧之晷",
+                "enName": "Sundial of Enduring Jade",
+                "icon": "UI_RelicIcon_15014_5",
+                "ptName": "Relógio de Sol de Jade Duradouro",
+                "ruName": "Часы из прочного нефрита"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Obtém 15% de Bônus de Dano Geo.",
+            "4pc": "Ao obter um Fragmento Elemental por meio de uma Reação de Cristalização ou Cristalização Lunar, todos os personagens na equipe ganham 35% de Dano para esse elemento em particular por 10s. Somente uma forma de Dano Elemental pode ser obtida dessa maneira a qualquer momento."
+        },
+        "ptName": "Pedra Arcaica",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Даёт 15% бонус Гео урона.",
+            "4pc": "Подобранный элементальный осколок, образованный реакциями Кристалл или Лунный кристалл, даёт 35% бонус элементального урона соответствующего элемента всем членам отряда на 10 сек. Одновременно можно иметь бонус урона только одного элемента."
+        },
+        "ruName": "Архаичный камень",
+        "setIcon": "UI_RelicIcon_15014_4",
+        "setId": 15014
+    },
+    "15015": {
+        "chsBonuses": {
+            "2pc": "护盾强效提高35%。",
+            "4pc": "处于护盾庇护下时，额外获得40%普通攻击和重击伤害加成。"
+        },
+        "chsName": "逆飞的流星",
+        "enBonuses": {
+            "2pc": "Increases Shield Strength by 35%.",
+            "4pc": "While protected by a shield, gain an additional 40% Normal and Charged Attack DMG."
+        },
+        "enName": "Retracing Bolide",
+        "pieces": {
+            "circlet": {
+                "chsName": "夏祭之面",
+                "enName": "Summer Night's Mask",
+                "icon": "UI_RelicIcon_15015_3",
+                "ptName": "Máscara do Festival de Verão",
+                "ruName": "Маска равноденствия"
+            },
+            "flower": {
+                "chsName": "夏祭之花",
+                "enName": "Summer Night's Bloom",
+                "icon": "UI_RelicIcon_15015_4",
+                "ptName": "Flor do Festival de Verão",
+                "ruName": "Цветок равноденствия"
+            },
+            "goblet": {
+                "chsName": "夏祭水玉",
+                "enName": "Summer Night's Waterballoon",
+                "icon": "UI_RelicIcon_15015_1",
+                "ptName": "Balões de Água do Festival de Verão",
+                "ruName": "Шар равноденствия"
+            },
+            "plume": {
+                "chsName": "夏祭终末",
+                "enName": "Summer Night's Finale",
+                "icon": "UI_RelicIcon_15015_2",
+                "ptName": "Fim do Festival de Verão",
+                "ruName": "Конец равноденствия"
+            },
+            "sands": {
+                "chsName": "夏祭之刻",
+                "enName": "Summer Night's Moment",
+                "icon": "UI_RelicIcon_15015_5",
+                "ptName": "Momento do Festival de Verão",
+                "ruName": "Час равноденствия"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Aumenta a efetividade de escudos em 35%",
+            "4pc": "Ganha um adicional de 40% de Dano Normal e Carregado enquanto estiver sob a proteção de um escudo."
+        },
+        "ptName": "Meteoro Invertido",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает прочность щита на 35%.",
+            "4pc": "Под защитой щита увеличивает урон обычной и заряженной атаки на 40%."
+        },
+        "ruName": "Встречная комета",
+        "setIcon": "UI_RelicIcon_15015_4",
+        "setId": 15015
+    },
+    "15016": {
+        "chsBonuses": {
+            "2pc": "获得15%水元素伤害加成。",
+            "4pc": "施放元素战技后的15秒内，普通攻击与重击造成的伤害提高30%。"
+        },
+        "chsName": "沉沦之心",
+        "enBonuses": {
+            "2pc": "Hydro DMG Bonus +15%",
+            "4pc": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s."
+        },
+        "enName": "Heart of Depth",
+        "pieces": {
+            "circlet": {
+                "chsName": "酒渍船帽",
+                "enName": "Wine-Stained Tricorne",
+                "icon": "UI_RelicIcon_15016_3",
+                "ptName": "Quepe de Capitão Manchado de Vinho",
+                "ruName": "Треуголка в пятнах вина"
+            },
+            "flower": {
+                "chsName": "饰金胸花",
+                "enName": "Gilded Corsage",
+                "icon": "UI_RelicIcon_15016_4",
+                "ptName": "Broche Dourado",
+                "ruName": "Позолоченная брошь"
+            },
+            "goblet": {
+                "chsName": "沉波之盏",
+                "enName": "Goblet of Thundering Deep",
+                "icon": "UI_RelicIcon_15016_1",
+                "ptName": "Cálice das Profundezas",
+                "ruName": "Кубок оглушающих глубин"
+            },
+            "plume": {
+                "chsName": "追忆之风",
+                "enName": "Gust of Nostalgia",
+                "icon": "UI_RelicIcon_15016_2",
+                "ptName": "Brisa da Nostalgia",
+                "ruName": "Порыв ностальгии"
+            },
+            "sands": {
+                "chsName": "坚铜罗盘",
+                "enName": "Copper Compass",
+                "icon": "UI_RelicIcon_15016_5",
+                "ptName": "Bússola de Cobre",
+                "ruName": "Медный компас"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Bônus de Dano Hydro +15%",
+            "4pc": "Após usar uma Habilidade Elemental, aumenta o Dano do Ataque Normal e Carregado em 30% por 15s."
+        },
+        "ptName": "Profundezas do Coração",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Даёт 15% бонус Гидро урона.",
+            "4pc": "Увеличивает урон обычной и заряженной атаки на 30% в течение 15 сек. после использования элементального навыка."
+        },
+        "ruName": "Сердце глубин",
+        "setIcon": "UI_RelicIcon_15016_4",
+        "setId": 15016
+    },
+    "15017": {
+        "chsBonuses": {
+            "2pc": "生命值提升20%。",
+            "4pc": "元素战技命中敌人后，使队伍中附近的所有角色攻击力提升20%，护盾强效提升30%，持续3秒。该效果每0.5秒至多触发一次。装备此圣遗物套装的角色处于队伍后台时，依然能触发该效果。"
+        },
+        "chsName": "千岩牢固",
+        "enBonuses": {
+            "2pc": "HP +20%",
+            "4pc": "When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field."
+        },
+        "enName": "Tenacity of the Millelith",
+        "pieces": {
+            "circlet": {
+                "chsName": "将帅兜鍪",
+                "enName": "General's Ancient Helm",
+                "icon": "UI_RelicIcon_15017_3",
+                "ptName": "Capacete do Comandante",
+                "ruName": "Древний шлем генерала"
+            },
+            "flower": {
+                "chsName": "勋绩之花",
+                "enName": "Flower of Accolades",
+                "icon": "UI_RelicIcon_15017_4",
+                "ptName": "Flor da Conquista",
+                "ruName": "Цветок почестей"
+            },
+            "goblet": {
+                "chsName": "盟誓金爵",
+                "enName": "Noble's Pledging Vessel",
+                "icon": "UI_RelicIcon_15017_1",
+                "ptName": "Taça Dourada do Juramento",
+                "ruName": "Золотой кубок клятвы"
+            },
+            "plume": {
+                "chsName": "昭武翎羽",
+                "enName": "Ceremonial War-Plume",
+                "icon": "UI_RelicIcon_15017_2",
+                "ptName": "Pena Brilhante Marcial",
+                "ruName": "Боевое перо командира"
+            },
+            "sands": {
+                "chsName": "金铜时晷",
+                "enName": "Orichalceous Time-Dial",
+                "icon": "UI_RelicIcon_15017_5",
+                "ptName": "Relógio de Sol Dourado",
+                "ruName": "Золотые часы"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Aumenta a vida em 20%.",
+            "4pc": "Quando a Habilidade Elemental atinge um oponente, o ATQ de todos os membros da equipe próximos aumenta em 20% e sua Força do Escudo aumenta em 30% por 3s. Esse efeito pode ser ativado uma vez a cada 0,5s. Esse efeito ainda pode ser ativado mesmo quando o personagem que está usando esse conjunto de artefatos não está em campo."
+        },
+        "ptName": "Millelith Firmes",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает НР на 20%.",
+            "4pc": "Когда элементальный навык попадает по врагам, атака всех находящихся поблизости персонажей в отряде, увеличивается на 20%, а прочность их щита увеличивается на 30%. Эффект длится 3 сек. и может возникнуть 1 раз в 0,5 сек. Этот эффект может быть активирован, даже если персонаж, экипированный этим набором артефактов, не находится на поле боя."
+        },
+        "ruName": "Стойкость Миллелита",
+        "setIcon": "UI_RelicIcon_15017_4",
+        "setId": 15017
+    },
+    "15018": {
+        "chsBonuses": {
+            "2pc": "造成的物理伤害提高25%。",
+            "4pc": "元素战技命中敌人后，攻击力提升9%。该效果持续7秒，至多叠加2层，每0.3秒至多触发一次。叠满2层时，2件套的效果提升100%。"
+        },
+        "chsName": "苍白之火",
+        "enBonuses": {
+            "2pc": "Physical DMG is increased by 25%.",
+            "4pc": "When an Elemental Skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached, the 2-set effect is increased by 100%."
+        },
+        "enName": "Pale Flame",
+        "pieces": {
+            "circlet": {
+                "chsName": "嗤笑之面",
+                "enName": "Mocking Mask",
+                "icon": "UI_RelicIcon_15018_3",
+                "ptName": "Máscara Sorridente",
+                "ruName": "Смеющаяся маска"
+            },
+            "flower": {
+                "chsName": "无垢之花",
+                "enName": "Stainless Bloom",
+                "icon": "UI_RelicIcon_15018_4",
+                "ptName": "Flor da Purificação",
+                "ruName": "Незапятнанный цветок"
+            },
+            "goblet": {
+                "chsName": "超越之盏",
+                "enName": "Surpassing Cup",
+                "icon": "UI_RelicIcon_15018_1",
+                "ptName": "Taça da Superação",
+                "ruName": "Превосходящая чаша"
+            },
+            "plume": {
+                "chsName": "贤医之羽",
+                "enName": "Wise Doctor's Pinion",
+                "icon": "UI_RelicIcon_15018_2",
+                "ptName": "Pena do Médico Virtuoso",
+                "ruName": "Перо мудрого лекаря"
+            },
+            "sands": {
+                "chsName": "停摆之刻",
+                "enName": "Moment of Cessation",
+                "icon": "UI_RelicIcon_15018_5",
+                "ptName": "Momento de Cessação",
+                "ruName": "Замершее мгновение"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Dano Físico causado +25%",
+            "4pc": "Quando a Habilidade Elemental atinge um inimigo, o Ataque aumenta em 9% por 7s. Esse efeito acumula até 2 vezes e pode ser desencadeado uma vez a cada 0.3s. Quando se possui 2 acúmulos, o efeito do conjunto de 2 Artefatos é aumentado em 100%."
+        },
+        "ptName": "Chama Pálida",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает физ. урон на 25%.",
+            "4pc": "Когда элементальный навык попадает по врагам, атака увеличивается на 9% в течение 7 сек. Эффект может складываться до 2 раз и возникнуть не чаще 1 раза за 0,3 сек. На 2 уровне складывания эффект набора из 2 вещей увеличивается на 100%."
+        },
+        "ruName": "Бледный огонь",
+        "setIcon": "UI_RelicIcon_15018_4",
+        "setId": 15018
+    },
+    "15019": {
+        "chsBonuses": {
+            "2pc": "攻击力提高18%。",
+            "4pc": "施放元素战技时，如果角色的元素能量高于或等于15点，则会流失15点元素能量，使接下来的10秒内，普通攻击、重击、下落攻击造成的伤害提高50%，持续期间内该效果不会再次触发。"
+        },
+        "chsName": "追忆之注连",
+        "enBonuses": {
+            "2pc": "ATK +18%.",
+            "4pc": "When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charged/Plunging Attack DMG is increased by 50% for 10s. This effect will not trigger again during that duration."
+        },
+        "enName": "Shimenawa's Reminiscence",
+        "pieces": {
+            "circlet": {
+                "chsName": "无常之面",
+                "enName": "Capricious Visage",
+                "icon": "UI_RelicIcon_15019_3",
+                "ptName": "Máscara das Mutações",
+                "ruName": "Непостоянный лик"
+            },
+            "flower": {
+                "chsName": "羁缠之花",
+                "enName": "Entangling Bloom",
+                "icon": "UI_RelicIcon_15019_4",
+                "ptName": "Flor Envolvente",
+                "ruName": "Опутывающий цветок"
+            },
+            "goblet": {
+                "chsName": "祈望之心",
+                "enName": "Hopeful Heart",
+                "icon": "UI_RelicIcon_15019_1",
+                "ptName": "Coração da Esperança",
+                "ruName": "Полное надежд сердце"
+            },
+            "plume": {
+                "chsName": "思忆之矢",
+                "enName": "Shaft of Remembrance",
+                "icon": "UI_RelicIcon_15019_2",
+                "ptName": "Flecha das Memórias Ponderativas",
+                "ruName": "Стрела воспоминаний"
+            },
+            "sands": {
+                "chsName": "朝露之时",
+                "enName": "Morning Dew's Moment",
+                "icon": "UI_RelicIcon_15019_5",
+                "ptName": "Relógio da Alvorada",
+                "ruName": "Мгновение росы"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "ATQ +18%.",
+            "4pc": "Ao lançar sua Habilidade Elemental, se a Energia Elemental do Personagem for maior ou igual a 15, ele perderá 15 pontos de Energia Elemental e nos próximos 10s, seus Ataques Normais, Ataques Carregados, Ataques Imersivos terão um aumento de 50% de Dano. Esse efeito só pode ser desencadeado uma vez dentro desse intervalo de tempo."
+        },
+        "ptName": "Reminiscência Nostálgica",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает силу атаки на 18%.",
+            "4pc": "При использовании элементального навыка, если у персонажа 15 или более единиц энергии, он теряет 15 единиц энергии, а урон обычной атаки, заряженной атаки и атаки в падении увеличивается на 50% в течение 10 сек. Эффект нельзя активировать повторно в течение этого времени."
+        },
+        "ruName": "Воспоминания Симэнавы",
+        "setIcon": "UI_RelicIcon_15019_4",
+        "setId": 15019
+    },
+    "15020": {
+        "chsBonuses": {
+            "2pc": "元素充能效率提高20%。",
+            "4pc": "基于元素充能效率的25%，提高元素爆发造成的伤害。至多通过这种方式获得75%提升。"
+        },
+        "chsName": "绝缘之旗印",
+        "enBonuses": {
+            "2pc": "Energy Recharge +20%",
+            "4pc": "Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way."
+        },
+        "enName": "Emblem of Severed Fate",
+        "pieces": {
+            "circlet": {
+                "chsName": "华饰之兜",
+                "enName": "Ornate Kabuto",
+                "icon": "UI_RelicIcon_15020_3",
+                "ptName": "Capacete Ornamentado",
+                "ruName": "Украшенный кабуто"
+            },
+            "flower": {
+                "chsName": "明威之镡",
+                "enName": "Magnificent Tsuba",
+                "icon": "UI_RelicIcon_15020_4",
+                "ptName": "Pomo Poderoso",
+                "ruName": "Великолепная цуба"
+            },
+            "goblet": {
+                "chsName": "绯花之壶",
+                "enName": "Scarlet Vessel",
+                "icon": "UI_RelicIcon_15020_1",
+                "ptName": "Ânfora das Flores Escarlates",
+                "ruName": "Алый сосуд"
+            },
+            "plume": {
+                "chsName": "切落之羽",
+                "enName": "Sundered Feather",
+                "icon": "UI_RelicIcon_15020_2",
+                "ptName": "Pluma Cortada",
+                "ruName": "Обрезанное перо"
+            },
+            "sands": {
+                "chsName": "雷云之笼",
+                "enName": "Storm Cage",
+                "icon": "UI_RelicIcon_15020_5",
+                "ptName": "Gaiola da Tempestade",
+                "ruName": "Клетка грозовых облаков"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Recarga de Energia +20%",
+            "4pc": "Aumenta o Dano do Supremo em 25% da Recarga de Energia. No máximo é possível obter 75% de aumento de Dano dessa maneira."
+        },
+        "ptName": "Selo da Insulação",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает скорость восстановления энергии на 20%.",
+            "4pc": "Увеличивает урон взрыва стихий на величину, равную 25% от значения восстановления энергии. Эффект можно увеличить максимум до 75%."
+        },
+        "ruName": "Эмблема рассечённой судьбы",
+        "setIcon": "UI_RelicIcon_15020_4",
+        "setId": 15020
+    },
+    "15021": {
+        "chsBonuses": {
+            "2pc": "防御力提高30%。",
+            "4pc": "装备此圣遗物套装的角色在以下情况下，将获得「问答」效果：在场上用岩元素攻击命中敌人后获得一层，每0.3秒至多触发一次；在队伍后台中，每3秒获得一层。问答至多叠加4层，每层能提供6%防御力与6%岩元素伤害加成。每6秒，若未获得问答效果，将损失一层。"
+        },
+        "chsName": "华馆梦醒形骸记",
+        "enBonuses": {
+            "2pc": "DEF +30%",
+            "4pc": "A character equipped with this Artifact set will obtain the Curiosity effect in the following conditions: When on the field, the character gains 1 stack after hitting an opponent with a Geo attack, triggering a maximum of once every 0.3s. When off the field, the character gains 1 stack every 3s. Curiosity can stack up to 4 times, each providing 6% DEF and a 6% Geo DMG Bonus. When 6 seconds pass without gaining a Curiosity stack, 1 stack is lost."
+        },
+        "enName": "Husk of Opulent Dreams",
+        "pieces": {
+            "circlet": {
+                "chsName": "形骸之笠",
+                "enName": "Skeletal Hat",
+                "icon": "UI_RelicIcon_15021_3",
+                "ptName": "Chapéu da Marionete",
+                "ruName": "Шляпа телесности"
+            },
+            "flower": {
+                "chsName": "荣花之期",
+                "enName": "Bloom Times",
+                "icon": "UI_RelicIcon_15021_4",
+                "ptName": "Período de Glória",
+                "ruName": "Пора расцвета"
+            },
+            "goblet": {
+                "chsName": "梦醒之瓢",
+                "enName": "Calabash of Awakening",
+                "icon": "UI_RelicIcon_15021_1",
+                "ptName": "Despertar dos Sonhos",
+                "ruName": "Тыква пробуждения"
+            },
+            "plume": {
+                "chsName": "华馆之羽",
+                "enName": "Plume of Luxury",
+                "icon": "UI_RelicIcon_15021_2",
+                "ptName": "Plumas da Opulência",
+                "ruName": "Перо чертога"
+            },
+            "sands": {
+                "chsName": "众生之谣",
+                "enName": "Song of Life",
+                "icon": "UI_RelicIcon_15021_5",
+                "ptName": "Canção da Vida",
+                "ruName": "Песнь жизни"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "DEF +30%",
+            "4pc": "Um personagem com este conjunto de artefatos equipado obterá o efeito de Curiosidade nas seguintes condições: Quando estiver no campo de batalha, o personagem ganha 1 carga após atingir um adversário com um ataque Geo, isso pode ser desencadeado uma vez a cada 0.3s. Quando fora do campo de batalha, o personagem ganha 1 carga a cada 3s. A Curiosidade pode acumular em até 4 vezes, cada uma fornecendo 6% de DEF e um Bônus de Dano Geo de também 6%. Quando 6 segundos passam sem ganhar um acúmulo de Curiosidade, 1 acúmulo é perdido."
+        },
+        "ptName": "Casca de Sonhos Opulentos",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает защиту на 30%.",
+            "4pc": "Персонаж, экипированный этим набором артефактов, получает эффект Любопытства в следующих ситуациях: 1 уровень Любопытства даётся активному персонажу после попадания по противнику атакой Гео (не чаще чем раз в 0,3 сек.); когда персонаж находится вне поля боя, он получает 1 ур. Любопытства каждые 3 сек. Любопытство может складываться до 4 ур., каждый ур. прибавляет 6% к защите и 6% к Гео урону. Если персонаж не получает Любопытство в течение 6 сек., то он теряет 1 накопленный уровень Любопытства."
+        },
+        "ruName": "Кокон сладких грёз",
+        "setIcon": "UI_RelicIcon_15021_4",
+        "setId": 15021
+    },
+    "15022": {
+        "chsBonuses": {
+            "2pc": "治疗加成提高15%。",
+            "4pc": "装备此圣遗物套装的角色对队伍中的角色进行治疗时，将产生持续3秒的海染泡沫，记录治疗的生命值回复量（包括溢出值）。持续时间结束时，海染泡沫将会爆炸，对周围的敌人造成90%累计回复量的伤害（该伤害结算方式同感电、超导等元素反应，但不受元素精通、等级或反应伤害加成效果影响）。每3.5秒至多产生一个海染泡沫；海染泡沫至多记录30000点回复量，含溢出部分的治疗量；自己的队伍中同时至多存在一个海染泡沫。装备此圣遗物套装的角色处于队伍后台时，依然能触发该效果。"
+        },
+        "chsName": "海染砗磲",
+        "enBonuses": {
+            "2pc": "Healing Bonus +15%.",
+            "4pc": "When the character equipping this artifact set heals a character in the party, a Sea-Dyed Foam will appear for 3 seconds, accumulating the amount of HP recovered from healing (including overflow healing). At the end of the duration, the Sea-Dyed Foam will explode, dealing DMG to nearby opponents based on 90% of the accumulated healing. (This DMG is calculated similarly to Reactions such as Electro-Charged, and Superconduct, but is not affected by Elemental Mastery, Character Levels, or Reaction DMG Bonuses). Only one Sea-Dyed Foam can be produced every 3.5 seconds. Each Sea-Dyed Foam can accumulate up to 30,000 HP (including overflow healing). There can be no more than one Sea-Dyed Foam active at any given time. This effect can still be triggered even when the character who is using this artifact set is not on the field."
+        },
+        "enName": "Ocean-Hued Clam",
+        "pieces": {
+            "circlet": {
+                "chsName": "海祇之冠",
+                "enName": "Crown of Watatsumi",
+                "icon": "UI_RelicIcon_15022_3",
+                "ptName": "Coroa de Watatsumi",
+                "ruName": "Корона Ватацуми"
+            },
+            "flower": {
+                "chsName": "海染之花",
+                "enName": "Sea-Dyed Blossom",
+                "icon": "UI_RelicIcon_15022_4",
+                "ptName": "Flor Tingida Pelo Mar",
+                "ruName": "Цветок морских красок"
+            },
+            "goblet": {
+                "chsName": "真珠之笼",
+                "enName": "Pearl Cage",
+                "icon": "UI_RelicIcon_15022_1",
+                "ptName": "Jaula de Pérola",
+                "ruName": "Жемчужная клетка"
+            },
+            "plume": {
+                "chsName": "渊宫之羽",
+                "enName": "Deep Palace's Plume",
+                "icon": "UI_RelicIcon_15022_2",
+                "ptName": "Pluma do Palácio Profundo",
+                "ruName": "Перо глубинного дворца"
+            },
+            "sands": {
+                "chsName": "离别之贝",
+                "enName": "Cowry of Parting",
+                "icon": "UI_RelicIcon_15022_5",
+                "ptName": "Concha da Separação",
+                "ruName": "Раковина разлуки"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Bônus de Cura +15%",
+            "4pc": "Quando o personagem que equipa este conjunto de artefatos cura outro personagem da sua equipe, ele cria o efeito de \"Bolha de Espuma do Mar\" durante 3s, que registra a quantidade de vida regenerada (incluindo a regenerada acima de 100%). No final da duração do efeito, a Bolha de Espuma do Mar explode, causando dano aos inimigos ao redor com base em 90% da vida regenerada. (Esse Dano é calculado de forma semelhante a reações como Eletricamente Carregado e Supercondutor, mas não é afetado pela Proficiência Elemental, níveis de personagens ou dano bônus de reações.) Apenas se pode criar uma Bolha de Espuma do Mar a cada 3.5s, e esta poderá registrar no máximo 30.000 pontos de vida, incluindo aqueles regenerados acima de 100%. Além disso, apenas uma Bolha de Espuma do Mar pode existir em sua equipe de cada vez. Quando o personagem equipando este conjunto de artefatos está na equipe, mas não em combate, poderá ainda assim ativar este efeito."
+        },
+        "ptName": "Concha Tingida Pelo Mar",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Повышает бонус лечения на 15%.",
+            "4pc": "Экипированный этим набором артефактов персонаж при лечении соратников создаёт на 3 сек. Пузырь морских красок. Пузырь регистрирует восстановленное при лечении HP (в том числе избыточное, когда лечение превышает максимум здоровья). После окончания действия Пузырь взрывается и наносит окружающим врагам урон в размере 90% учтённого объёма лечения (урон рассчитывается так же, как для эффектов Заряжен и Сверхпроводник, но на него не действуют бонусы мастерства стихий, уровня и реакций). Пузырь морских красок можно создавать не чаще чем раз в 3,5 сек. Пузырь может записать до 30 000 восстановленного HP, в том числе HP избыточного лечения. Для отряда не может существовать больше одного Пузыря морских красок одновременно. Этот эффект действует, даже если персонаж, экипированный набором артефактов, не находится на поле боя."
+        },
+        "ruName": "Моллюск морских красок",
+        "setIcon": "UI_RelicIcon_15022_4",
+        "setId": 15022
+    },
+    "15023": {
+        "chsBonuses": {
+            "2pc": "攻击力提高18%。",
+            "4pc": "施放元素爆发后，将产生持续16秒的「潜光」效果：攻击力提升8%；并在角色的生命值降低时，攻击力进一步提升10%，至多通过这种方式提升4次，每0.8秒至多触发一次。「潜光」效果将在角色退场时消失；持续期间再次施放元素爆发，将移除原有的「潜光」。"
+        },
+        "chsName": "辰砂往生录",
+        "enBonuses": {
+            "2pc": "ATK +18%.",
+            "4pc": "After using an Elemental Burst, this character will gain the Nascent Light effect, increasing their ATK by 8% for 16s. When the character's HP decreases, their ATK will further increase by 10%. This further increase can occur this way a maximum of 4 times. This effect can be triggered once every 0.8s. Nascent Light will be dispelled when the character leaves the field. If an Elemental Burst is used again during the duration of Nascent Light, the original Nascent Light will be dispelled."
+        },
+        "enName": "Vermillion Hereafter",
+        "pieces": {
+            "circlet": {
+                "chsName": "虺雷之姿",
+                "enName": "Thundering Poise",
+                "icon": "UI_RelicIcon_15023_3",
+                "ptName": "Postura Eletrizante",
+                "ruName": "Громогласный облик"
+            },
+            "flower": {
+                "chsName": "生灵之华",
+                "enName": "Flowering Life",
+                "icon": "UI_RelicIcon_15023_4",
+                "ptName": "Brilho da Vitalidade",
+                "ruName": "Цветение жизни"
+            },
+            "goblet": {
+                "chsName": "结契之刻",
+                "enName": "Moment of the Pact",
+                "icon": "UI_RelicIcon_15023_1",
+                "ptName": "Entalhe do Contrato",
+                "ruName": "Мгновение договора"
+            },
+            "plume": {
+                "chsName": "潜光片羽",
+                "enName": "Feather of Nascent Light",
+                "icon": "UI_RelicIcon_15023_2",
+                "ptName": "Pena do Esplendor",
+                "ruName": "Перо скрытого сияния"
+            },
+            "sands": {
+                "chsName": "阳辔之遗",
+                "enName": "Solar Relic",
+                "icon": "UI_RelicIcon_15023_5",
+                "ptName": "Relíquia do Sol",
+                "ruName": "Солнечная реликвия"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "ATQ +18%.",
+            "4pc": "Depois do Supremo ser usado, será desencadeado o efeito de \"Luz Nascente\" por 16s: o ATQ será aumentado em 8% e quando a Vida do personagem diminuir, o ATQ aumentará mais 10%. Esse aumento pode ocorrer desta forma no máximo 4 vezes, e pode ser desencadeado 1 vez a cada 0.8s. O efeito de \"Luz Nascente\" desaparece quando o personagem sai do campo de batalha. Quando o personagem lança novamente o Supremo durante o efeito, o efeito original de \"Luz Nascente\" será removido."
+        },
+        "ptName": "Além-vida Cinábrio",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает силу атаки на 18%.",
+            "4pc": "После активации взрыва стихии на 16 сек. создаёт Скрытое сияние, которое повышает силу атаки на 8%. Сила атаки персонажа увеличивается ещё на 10%, когда он теряет HP. Этот эффект может возникнуть максимум 4 раза и не чаще, чем раз в 0,8 сек. Скрытое сияние исчезает, когда персонаж покидает поле боя. При повторной активации взрыва стихии существующее Скрытое сияние снимается."
+        },
+        "ruName": "Киноварное загробье",
+        "setIcon": "UI_RelicIcon_15023_4",
+        "setId": 15023
+    },
+    "15024": {
+        "chsBonuses": {
+            "2pc": "攻击力提高18%。",
+            "4pc": "普通攻击命中敌人时，有36%概率触发「幽谷祝祀」：普通攻击造成的伤害提高，伤害提高值为攻击力的70%，该效果将在普通攻击造成伤害后的0.05秒后清除。普通攻击未触发「幽谷祝祀」时，会使下次触发概率提升20%；0.2秒内至多判定1次触发与否。"
+        },
+        "chsName": "来歆余响",
+        "enBonuses": {
+            "2pc": "ATK +18%.",
+            "4pc": "When Normal Attacks hit opponents, there is a 36% chance that it will trigger Valley Rite, which will increase Normal Attack DMG by 70% of ATK. This effect will be dispelled 0.05s after a Normal Attack deals DMG. If a Normal Attack fails to trigger Valley Rite, the odds of it triggering the next time will increase by 20%. This trigger can occur once every 0.2s."
+        },
+        "enName": "Echoes of an Offering",
+        "pieces": {
+            "circlet": {
+                "chsName": "浮溯之珏",
+                "enName": "Flowing Rings",
+                "icon": "UI_RelicIcon_15024_3",
+                "ptName": "Jades da Torrente",
+                "ruName": "Серьги текучести"
+            },
+            "flower": {
+                "chsName": "魂香之花",
+                "enName": "Soulscent Bloom",
+                "icon": "UI_RelicIcon_15024_4",
+                "ptName": "Flor da Fragrância Espiritual",
+                "ruName": "Цветок призрачного аромата"
+            },
+            "goblet": {
+                "chsName": "涌泉之盏",
+                "enName": "Chalice of the Font",
+                "icon": "UI_RelicIcon_15024_1",
+                "ptName": "Cálice da Fonte",
+                "ruName": "Чаша истока"
+            },
+            "plume": {
+                "chsName": "垂玉之叶",
+                "enName": "Jade Leaf",
+                "icon": "UI_RelicIcon_15024_2",
+                "ptName": "Folha de Jade",
+                "ruName": "Нефритовый листок"
+            },
+            "sands": {
+                "chsName": "祝祀之凭",
+                "enName": "Symbol of Felicitation",
+                "icon": "UI_RelicIcon_15024_5",
+                "ptName": "Símbolo da Oferenda",
+                "ruName": "Символ подношения"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "ATQ +18%.",
+            "4pc": "Quando o Ataque Normal atinge um inimigo, tem 36% de chance de ativar o Rito do Vale, que aumenta o Dano do Ataque Normal em 70% do ATQ. Esse efeito desaparece 0.05s após um Ataque Normal causar dano. Quando o Ataque Normal não ativar o Rito do Vale, aumenta a probabilidade de ativação em 20% na próxima vez. Essa ativação pode ocorrer 1 vez a cada 0.2s."
+        },
+        "ptName": "Eco do Sacrifício",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает силу атаки на 18%.",
+            "4pc": "Попадания обычной атакой с 36% шансом активируют Ритуал долины: урон обычной атаки повышается на 70% от силы атаки. Через 0,05 сек. после нанесения урона обычной атакой эффект исчезает. Если обычной атаке не удалось активировать этот эффект, шанс его активации следующим попаданием возрастает на 20%. Шанс активации возникает не чаще одного раза в 0,2 сек."
+        },
+        "ruName": "Отголоски подношения",
+        "setIcon": "UI_RelicIcon_15024_4",
+        "setId": 15024
+    },
+    "15025": {
+        "chsBonuses": {
+            "2pc": "获得15%草元素伤害加成。",
+            "4pc": "元素战技或元素爆发命中敌人后，使命中目标的草元素抗性降低30%，持续8秒。装备者处于队伍后台时，依然能触发该效果。"
+        },
+        "chsName": "深林的记忆",
+        "enBonuses": {
+            "2pc": "Dendro DMG Bonus +15%.",
+            "4pc": "After Elemental Skills or Bursts hit opponents, the targets' Dendro RES will be decreased by 30% for 8s. This effect can be triggered even if the equipping character is not on the field."
+        },
+        "enName": "Deepwood Memories",
+        "pieces": {
+            "circlet": {
+                "chsName": "月桂的宝冠",
+                "enName": "Laurel Coronet",
+                "icon": "UI_RelicIcon_15025_3",
+                "ptName": "Diadema Láurea",
+                "ruName": "Лавровый венец"
+            },
+            "flower": {
+                "chsName": "迷宫的游人",
+                "enName": "Labyrinth Wayfarer",
+                "icon": "UI_RelicIcon_15025_4",
+                "ptName": "Visitante do Labirinto",
+                "ruName": "Странник лабиринта"
+            },
+            "goblet": {
+                "chsName": "迷误者之灯",
+                "enName": "Lamp of the Lost",
+                "icon": "UI_RelicIcon_15025_1",
+                "ptName": "Lanterna do Perdido",
+                "ruName": "Лампа заблудших"
+            },
+            "plume": {
+                "chsName": "翠蔓的智者",
+                "enName": "Scholar of Vines",
+                "icon": "UI_RelicIcon_15025_2",
+                "ptName": "Estudioso de Vinhas",
+                "ruName": "Мудрец лозы"
+            },
+            "sands": {
+                "chsName": "贤智的定期",
+                "enName": "A Time of Insight",
+                "icon": "UI_RelicIcon_15025_5",
+                "ptName": "Momento de Sabedoria",
+                "ruName": "Час осмысления"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Bônus de Dano Dendro +15%",
+            "4pc": "Depois que as Habilidades Elementais ou Supremos acertam os oponentes, a RES Dendro dos alvos serão reduzidas em 30% por 8s. Esse efeito pode ser desencadeado mesmo se o personagem equipando este conjunto não estiver em campo."
+        },
+        "ptName": "Memórias da Floresta",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Даёт 15% бонус Дендро урона.",
+            "4pc": "Попадание элементальным навыком или взрывом стихии снижает Дендро сопротивление врага на 30% на 8 сек. Этот эффект срабатывает, даже если экипированный этими артефактами персонаж не на поле боя."
+        },
+        "ruName": "Воспоминания дремучего леса",
+        "setIcon": "UI_RelicIcon_15025_4",
+        "setId": 15025
+    },
+    "15026": {
+        "chsBonuses": {
+            "2pc": "元素精通提高80点。",
+            "4pc": "触发元素反应后的8秒内，会根据队伍内其他角色的元素类型，使装备者获得强化：队伍中每存在1个和装备者同类元素的角色，攻击力提升14%；每存在1个和装备者不同元素类型的角色，元素精通提升50点。上述每类效果至多计算3个角色。该效果每8秒至多触发一次。装备者处于队伍后台时，依然能触发该效果。"
+        },
+        "chsName": "饰金之梦",
+        "enBonuses": {
+            "2pc": "Increases Elemental Mastery by 80.",
+            "4pc": "Within 8s of triggering an Elemental Reaction, the character equipping this will obtain buffs based on the Elemental Type of the other party members. ATK is increased by 14% for each party member whose Elemental Type is the same as the equipping character, and Elemental Mastery is increased by 50 for every party member with a different Elemental Type. Each of the aforementioned buffs will count up to 3 characters. This effect can be triggered once every 8s. The character who equips this can still trigger its effects when not on the field."
+        },
+        "enName": "Gilded Dreams",
+        "pieces": {
+            "circlet": {
+                "chsName": "沙王的投影",
+                "enName": "Shadow of the Sand King",
+                "icon": "UI_RelicIcon_15026_3",
+                "ptName": "Sombra do Rei das Areias",
+                "ruName": "Тень Короля песков"
+            },
+            "flower": {
+                "chsName": "梦中的铁花",
+                "enName": "Dreaming Steelbloom",
+                "icon": "UI_RelicIcon_15026_4",
+                "ptName": "Flor de Metal Onírica",
+                "ruName": "Сон железного цветка"
+            },
+            "goblet": {
+                "chsName": "如蜜的终宴",
+                "enName": "Honeyed Final Feast",
+                "icon": "UI_RelicIcon_15026_1",
+                "ptName": "Banquete Final do Mel",
+                "ruName": "Последний медовый пир"
+            },
+            "plume": {
+                "chsName": "裁断的翎羽",
+                "enName": "Feather of Judgment",
+                "icon": "UI_RelicIcon_15026_2",
+                "ptName": "Pluma do Julgamento",
+                "ruName": "Перо суждения"
+            },
+            "sands": {
+                "chsName": "沉金的岁月",
+                "enName": "The Sunken Years",
+                "icon": "UI_RelicIcon_15026_5",
+                "ptName": "Anos Dourados",
+                "ruName": "Золотые годы"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Proficiência Elemental +80",
+            "4pc": "Dentro de 8s após causar uma Reação Elemental, o personagem equipando este conjunto irá obter aprimoramentos baseados no Tipo Elemental dos outros membros da equipe. O ATQ é aumentado em 14% para cada membro da equipe cujo Tipo Elemental seja o mesmo que o personagem equipando o conjunto. A Proficiência Elemental é aumentada em 50 para cada membro da equipe com Tipos Elementais diferentes. Cada um desses aprimoramentos mencionados anteriormente irá contar para até 3 personagens. Esse efeito pode ser desencadeado uma vez a cada 8s. O personagem que equipar este conjunto ainda pode ativar seu efeito mesmo que não esteja em campo."
+        },
+        "ptName": "Sonhos Dourados",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает мастерство стихий на 80 ед.",
+            "4pc": "На 8 сек. после вызова элементальной реакции согласно элементам других персонажей в отряде экипированный этими артефактами персонаж получает следующие усиления: сила атаки повышается на 14% за каждого персонажа с таким же элементом, как у экипированного персонажа; мастерство стихий повышается на 50 ед. за каждого персонажа с иным элементом. Каждое из этих усилений при подсчёте включает до 3 персонажей. Эффект может возникнуть один раз в 8 сек. Срабатывает, даже если экипированный этими артефактами персонаж не на поле боя."
+        },
+        "ruName": "Позолоченные сны",
+        "setIcon": "UI_RelicIcon_15026_4",
+        "setId": 15026
+    },
+    "15027": {
+        "chsBonuses": {
+            "2pc": "获得15%风元素伤害加成。",
+            "4pc": "重击命中敌人后，该角色的普通攻击速度提升10%，普通攻击、重击与下落攻击造成的伤害提升40%，持续15秒。"
+        },
+        "chsName": "沙上楼阁史话",
+        "enBonuses": {
+            "2pc": "Anemo DMG Bonus +15%",
+            "4pc": "When Charged Attacks hit opponents, the equipping character's Normal Attack SPD will increase by 10% while Normal, Charged, and Plunging Attack DMG will increase by 40% for 15s."
+        },
+        "enName": "Desert Pavilion Chronicle",
+        "pieces": {
+            "circlet": {
+                "chsName": "流沙贵嗣的遗宝",
+                "enName": "Legacy of the Desert High-Born",
+                "icon": "UI_RelicIcon_15027_3",
+                "ptName": "Tesouro das Areias Movediças",
+                "ruName": "Наследие пустынной знати"
+            },
+            "flower": {
+                "chsName": "众王之都的开端",
+                "enName": "The First Days of the City of Kings",
+                "icon": "UI_RelicIcon_15027_4",
+                "ptName": "Início da Capital dos Reis",
+                "ruName": "Рождение города королей"
+            },
+            "goblet": {
+                "chsName": "迷醉长梦的守护",
+                "enName": "Defender of the Enchanting Dream",
+                "icon": "UI_RelicIcon_15027_1",
+                "ptName": "Protetor dos Sonhos Inebriantes",
+                "ruName": "Хранитель дивной мечты"
+            },
+            "plume": {
+                "chsName": "黄金邦国的结末",
+                "enName": "End of the Golden Realm",
+                "icon": "UI_RelicIcon_15027_2",
+                "ptName": "Final do País Dourado",
+                "ruName": "Конец золотого царства"
+            },
+            "sands": {
+                "chsName": "失落迷途的机芯",
+                "enName": "Timepiece of the Lost Path",
+                "icon": "UI_RelicIcon_15027_5",
+                "ptName": "Relógio dos Caminhos Perdidos",
+                "ruName": "Часы потерянного пути"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Bônus de Dano Anemo +15%",
+            "4pc": "Quando um Ataque Carregado atinge um inimigo, aumenta a Vel. de ATQ do Ataque Normal desse Personagem em 10% e aumenta o Dano infligido por Ataques Normais, Carregados e Imersivos em 40% por 15s."
+        },
+        "ptName": "Crônicas do Pavilhão do Deserto",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Даёт 15% бонус Анемо урона.",
+            "4pc": "Попадание заряженной атакой на 15 сек. повышает скорость обычной атаки на 10%, а урон обычной атаки, заряженной атаки и атаки в падении - на 40%."
+        },
+        "ruName": "Хроники Чертогов в пустыне",
+        "setIcon": "UI_RelicIcon_15027_4",
+        "setId": 15027
+    },
+    "15028": {
+        "chsBonuses": {
+            "2pc": "元素精通提高80点。",
+            "4pc": "装备者绽放、超绽放、烈绽放反应造成的伤害提升40%，造成的月绽放反应伤害提升10%。此外，装备者触发绽放、超绽放、烈绽放、月绽放后，上述效果带来的加成提升25%，该效果持续10秒，至多叠加4次，每1秒至多触发一次。装备者处于队伍后台时依然能触发该效果。"
+        },
+        "chsName": "乐园遗落之花",
+        "enBonuses": {
+            "2pc": "Increases Elemental Mastery by 80.",
+            "4pc": "The equipping character's Bloom, Hyperbloom, and Burgeon reaction DMG are increased by 40%, and their Lunar-Bloom reaction DMG is increased by 10%. Additionally, after the equipping character triggers Bloom, Hyperbloom, Lunar-Bloom, or Burgeon, they will gain another 25% bonus to the effects mentioned prior. Each stack of this lasts 10s. Max 4 stacks simultaneously. This effect can only be triggered once per second. The character who equips this can still trigger its effects when not on the field."
+        },
+        "enName": "Flower of Paradise Lost",
+        "pieces": {
+            "circlet": {
+                "chsName": "紫晶的花冠",
+                "enName": "Amethyst Crown",
+                "icon": "UI_RelicIcon_15028_3",
+                "ptName": "Coroa Ametista",
+                "ruName": "Аметистовый венец"
+            },
+            "flower": {
+                "chsName": "月女的华彩",
+                "enName": "Ay-Khanoum's Myriad",
+                "icon": "UI_RelicIcon_15028_4",
+                "ptName": "Esplendor da Dama da Lua",
+                "ruName": "Великолепие Ай-Ханум"
+            },
+            "goblet": {
+                "chsName": "守秘的魔瓶",
+                "enName": "Secret-Keeper's Magic Bottle",
+                "icon": "UI_RelicIcon_15028_1",
+                "ptName": "Garrafa Mágica da Confidência",
+                "ruName": "Магический сосуд хранителя тайн"
+            },
+            "plume": {
+                "chsName": "谢落的筵席",
+                "enName": "Wilting Feast",
+                "icon": "UI_RelicIcon_15028_2",
+                "ptName": "Banquete dos Agradecimentos",
+                "ruName": "Угасающий пир"
+            },
+            "sands": {
+                "chsName": "凝结的时刻",
+                "enName": "A Moment Congealed",
+                "icon": "UI_RelicIcon_15028_5",
+                "ptName": "Momento da Condensação",
+                "ruName": "Застывшее мгновение"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Aumenta a Proficiência Elemental em 80.",
+            "4pc": "Aumenta em 40% o Dano infligido pelas reações de Florescimento, Superflorescimento e Germinação de seu portador; aumenta o Dano de Florescimento Lunar em 10%. Além disto, após o personagem que está com isso equipado desencadear as reações de Florescimento, Superflorescimento, Germinação e Florescimento Lunar o bônus descrito acima é aumentado em 25%. Este efeito dura 10s e pode ser acumulado até 4 vezes, podendo ser desencadeado 1 vez por segundo. Este efeito pode ser desencadeado também quando o seu portador está na equipe, porém fora do campo de batalha."
+        },
+        "ptName": "Flor do Paraíso Perdido",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает мастерство стихий на 80 ед.",
+            "4pc": "Увеличивает урон реакций Бутонизация, Вегетация и Цветение экипированного персонажа на 40%, а урон Лунной бутонизации - на 10%. Кроме того, после того как экипированный персонаж активирует реакции Бутонизация, Вегетация, Цветение и Лунная бутонизация, этот эффект усиливается на 25%. Эффект длится 10 сек., складывается до 4 раз, может возникнуть один раз в 1 сек. и активируется, даже если экипированный персонаж не на поле боя."
+        },
+        "ruName": "Цветок потерянного рая",
+        "setIcon": "UI_RelicIcon_15028_4",
+        "setId": 15028
+    },
+    "15029": {
+        "chsBonuses": {
+            "2pc": "获得15%水元素伤害加成。",
+            "4pc": "普通攻击、重击、下落攻击、元素战技或元素爆发命中敌人后，将产生1层持续8秒的「镜中水仙」效果。处于1/2/3层及以上「镜中水仙」效果下时，攻击力将提高7%/16%/25%，水元素伤害加成提升4%/9%/15%。由普通攻击、重击、下落攻击、元素战技或元素爆发产生的「镜中水仙」将分别独立存在。"
+        },
+        "chsName": "水仙之梦",
+        "enBonuses": {
+            "2pc": "Hydro DMG Bonus +15%",
+            "4pc": "After Normal, Charged, and Plunging Attacks, Elemental Skills, and Elemental Bursts hit opponents, 1 stack of Mirrored Nymph will be triggered, lasting 8s. When under the effect of 1, 2, or 3 or more Mirrored Nymph stacks, ATK will be increased by 7%/16%/25%, and Hydro DMG Bonus will be increased by 4%/9%/15%. Mirrored Nymph stacks created by Normal, Charged, and Plunging Attacks, Elemental Skills, and Elemental Bursts exist independently."
+        },
+        "enName": "Nymph's Dream",
+        "pieces": {
+            "circlet": {
+                "chsName": "恶龙的单片镜",
+                "enName": "Fell Dragon's Monocle",
+                "icon": "UI_RelicIcon_15029_3",
+                "ptName": "Monóculo do Dragão Maligno",
+                "ruName": "Монокль свирепого дракона"
+            },
+            "flower": {
+                "chsName": "旅途中的鲜花",
+                "enName": "Odyssean Flower",
+                "icon": "UI_RelicIcon_15029_4",
+                "ptName": "Flor da Jornada",
+                "ruName": "Цветок странствий"
+            },
+            "goblet": {
+                "chsName": "勇者们的茶会",
+                "enName": "Heroes' Tea Party",
+                "icon": "UI_RelicIcon_15029_1",
+                "ptName": "Festa de Chá dos Heróis",
+                "ruName": "Чаепитие героев"
+            },
+            "plume": {
+                "chsName": "坏巫师的羽杖",
+                "enName": "Wicked Mage's Plumule",
+                "icon": "UI_RelicIcon_15029_2",
+                "ptName": "Pluma do Feiticeiro Maléfico",
+                "ruName": "Перо злого мага"
+            },
+            "sands": {
+                "chsName": "水仙的时时刻刻",
+                "enName": "Nymph's Constancy",
+                "icon": "UI_RelicIcon_15029_5",
+                "ptName": "Ninfas Eternas",
+                "ruName": "Постоянство нимфы"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Bônus de Dano Hydro +15%",
+            "4pc": "Quando um Ataque Normal, Carregado, Imersivo, Habilidade Elemental ou Supremo atingem um inimigo, gerarão um acúmulo do efeito \"Ninfa Espelhada\" por 8s. Quando possuir 1/2/3 acúmulos ou mais do efeito \"Ninfa Espelhada\", aumentará o ATQ em 7%/16%/25, e aumentará o Bônus de Dano Hydro em 4%/9%/15%. Os acúmulos de \"Ninfa Espelhada\" gerados por Ataques Normais, Carregados, Imersivos, Habilidade Elemental ou Supremos existem independentemente."
+        },
+        "ptName": "Sonho da Ninfa",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Даёт 15% бонус Гидро урона.",
+            "4pc": "Попадания обычной атакой, заряженной атакой, атакой в падении, элементальным навыком и взрывом стихии по противнику на 8 сек. создают 1 уровень Отражения нимфы. Когда действуют 1/2/3 и более уровня Отражения нимфы, сила атаки повышается на 7%/16%/25%, а бонус Гидро урона на 4%/9%/15%. Уровни Отражения нимфы, созданные обычными атаками, заряженными атаками, атаками в падении, элементальными навыками и взрывами стихии, существуют независимо друг от друга."
+        },
+        "ruName": "Сон нимфы",
+        "setIcon": "UI_RelicIcon_15029_4",
+        "setId": 15029
+    },
+    "15030": {
+        "chsBonuses": {
+            "2pc": "生命值提升20%。",
+            "4pc": "元素战技与元素爆发造成的伤害提升10%；装备者受到伤害后的5秒内，上述伤害提升效果提高80%，该提高效果至多叠加5层，每层持续时间独立计算，处于队伍后台时依然能触发该效果。"
+        },
+        "chsName": "花海甘露之光",
+        "enBonuses": {
+            "2pc": "HP +20%",
+            "4pc": "Elemental Skill and Elemental Burst DMG will be increased by 10%. After the equipping character takes DMG, the aforementioned DMG Bonus is increased by 80% for 5s. This effect increase can have 5 stacks. The duration of each stack is counted independently. These effects can be triggered even when the equipping character is not on the field."
+        },
+        "enName": "Vourukasha's Glow",
+        "pieces": {
+            "circlet": {
+                "chsName": "灵光明烁之心",
+                "enName": "Heart of Khvarena's Brilliance",
+                "icon": "UI_RelicIcon_15030_3",
+                "ptName": "Coração do Brilho de Khvarena",
+                "ruName": "Сердце светозарности Хварны"
+            },
+            "flower": {
+                "chsName": "灵光源起之蕊",
+                "enName": "Stamen of Khvarena's Origin",
+                "icon": "UI_RelicIcon_15030_4",
+                "ptName": "Estame Primordial de Khvarena",
+                "ruName": "Тычинка истока Хварны"
+            },
+            "goblet": {
+                "chsName": "无边酣乐之筵",
+                "enName": "Feast of Boundless Joy",
+                "icon": "UI_RelicIcon_15030_1",
+                "ptName": "Cálice do Festival Alegre",
+                "ruName": "Пир необузданного веселья"
+            },
+            "plume": {
+                "chsName": "琦色灵彩之羽",
+                "enName": "Vibrant Pinion",
+                "icon": "UI_RelicIcon_15030_2",
+                "ptName": "Pluma do Cristal Reluzente",
+                "ruName": "Самоцветное перо"
+            },
+            "sands": {
+                "chsName": "久远花落之时",
+                "enName": "Ancient Abscission",
+                "icon": "UI_RelicIcon_15030_5",
+                "ptName": "Abscisão Antiga",
+                "ruName": "Древнее увядание"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Aumenta a vida em 20%.",
+            "4pc": "Aumenta o Dano da Habilidade Elemental e do Supremo em 10%. Nos 5s após o personagem que tem este artefato equipado sofrer Dano, o efeito de aumento de Dano mencionado acima será de 80%. Esse efeito de aumento pode ser acumulado até 5 vezes, com cada acúmulo tendo sua duração contada independentemente. Esse efeito pode ser desencadeado mesmo se o personagem não estiver ativo no campo de batalha."
+        },
+        "ptName": "Brilho Vourukasha",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает НР на 20%.",
+            "4pc": "Увеличивает урон элементального навыка и взрыва стихии на 10%. Если экипированный персонаж получает урон, этот эффект повышения урона увеличивается на 80% на 5 сек. Эффект может складываться до 5 раз. Отсчёт времени каждого уровня происходит отдельно. Эти эффекты активируются, даже если экипированный персонаж не на поле боя."
+        },
+        "ruName": "Сияние Вурукаши",
+        "setIcon": "UI_RelicIcon_15030_4",
+        "setId": 15030
+    },
+    "15031": {
+        "chsBonuses": {
+            "2pc": "普通攻击与重击造成的伤害提高15%。",
+            "4pc": "当前生命值提升或降低时，暴击率提升12%，该效果持续5秒，至多叠加3次。"
+        },
+        "chsName": "逐影猎人",
+        "enBonuses": {
+            "2pc": "Normal and Charged Attack DMG +15%",
+            "4pc": "When current HP increases or decreases, CRIT Rate will be increased by 12% for 5s. Max 3 stacks."
+        },
+        "enName": "Marechaussee Hunter",
+        "pieces": {
+            "circlet": {
+                "chsName": "老兵的容颜",
+                "enName": "Veteran's Visage",
+                "icon": "UI_RelicIcon_15031_3",
+                "ptName": "Semblante do Veterano",
+                "ruName": "Лик старого солдата"
+            },
+            "flower": {
+                "chsName": "猎人的胸花",
+                "enName": "Hunter's Brooch",
+                "icon": "UI_RelicIcon_15031_4",
+                "ptName": "Flor de Lapela do Caçador",
+                "ruName": "Брошь охотника"
+            },
+            "goblet": {
+                "chsName": "遗忘的容器",
+                "enName": "Forgotten Vessel",
+                "icon": "UI_RelicIcon_15031_1",
+                "ptName": "Recipiente Esquecido",
+                "ruName": "Забытый сосуд"
+            },
+            "plume": {
+                "chsName": "杰作的序曲",
+                "enName": "Masterpiece's Overture",
+                "icon": "UI_RelicIcon_15031_2",
+                "ptName": "Abertura de Obra-prima",
+                "ruName": "Увертюра шедевра"
+            },
+            "sands": {
+                "chsName": "裁判的时刻",
+                "enName": "Moment of Judgment",
+                "icon": "UI_RelicIcon_15031_5",
+                "ptName": "Momento do Julgamento",
+                "ruName": "Мгновение правосудия"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Aumenta o Dano do Ataque Normal e do Ataque Carregado em 15%.",
+            "4pc": "Quando a Vida atual aumenta ou diminui, aumenta a Taxa CRIT em 12%. Esse efeito dura 5s e pode ser acumulado até 3 vezes."
+        },
+        "ptName": "Caçador das Sombras",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает урон обычной и заряженной атаки на 15%.",
+            "4pc": "Увеличивает шанс крит. попадания на 12% на 5 сек., когда текущее HP увеличивается или снижается. Эффект может складываться до 3 раз."
+        },
+        "ruName": "Охотник Сумеречного двора",
+        "setIcon": "UI_RelicIcon_15031_4",
+        "setId": 15031
+    },
+    "15032": {
+        "chsBonuses": {
+            "2pc": "元素战技造成的伤害提升20%。",
+            "4pc": "元素战技造成的伤害提升25%；此外，处于队伍后台时，元素战技造成的伤害还将进一步提升25%，该效果将在登场后2秒移除。"
+        },
+        "chsName": "黄金剧团",
+        "enBonuses": {
+            "2pc": "Increases Elemental Skill DMG by 20%.",
+            "4pc": "Increases Elemental Skill DMG by 25%. Additionally, when not on the field, Elemental Skill DMG will be further increased by 25%. This effect will be cleared 2s after taking the field."
+        },
+        "enName": "Golden Troupe",
+        "pieces": {
+            "circlet": {
+                "chsName": "黄金剧团的奖赏",
+                "enName": "Golden Troupe's Reward",
+                "icon": "UI_RelicIcon_15032_3",
+                "ptName": "Recompensa da Trupe Dourada",
+                "ruName": "Награда Золотой труппы"
+            },
+            "flower": {
+                "chsName": "黄金乐曲的变奏",
+                "enName": "Golden Song's Variation",
+                "icon": "UI_RelicIcon_15032_4",
+                "ptName": "Variação da Composição Dourada",
+                "ruName": "Вариация золотой песни"
+            },
+            "goblet": {
+                "chsName": "黄金之夜的喧嚣",
+                "enName": "Golden Night's Bustle",
+                "icon": "UI_RelicIcon_15032_1",
+                "ptName": "Clamor da Noite Dourada",
+                "ruName": "Суета золотой ночи"
+            },
+            "plume": {
+                "chsName": "黄金飞鸟的落羽",
+                "enName": "Golden Bird's Shedding",
+                "icon": "UI_RelicIcon_15032_2",
+                "ptName": "Pena Caída do Pássaro Dourado",
+                "ruName": "Перо золотой птицы"
+            },
+            "sands": {
+                "chsName": "黄金时代的先声",
+                "enName": "Golden Era's Prelude",
+                "icon": "UI_RelicIcon_15032_5",
+                "ptName": "Abertura da Era Dourada",
+                "ruName": "Предзнаменование золотой эпохи"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Aumenta o dano da Habilidade Elemental em 20%.",
+            "4pc": "Aumenta o Dano da Habilidade Elemental em 25%. Além disso, quando o personagem não está no campo de batalha, o Dano da Habilidade Elemental aumenta em mais 25%. Este efeito será removido 2s após o personagem entrar no campo de batalha."
+        },
+        "ptName": "Trupe Dourada",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает урон элементального навыка на 20%.",
+            "4pc": "Увеличивает урон элементального навыка на 25%. Кроме того, когда персонаж не на поле боя, урон элементального навыка дополнительно увеличивается на 25%. Через 2 сек. после вступления в бой эффект исчезает."
+        },
+        "ruName": "Золотая труппа",
+        "setIcon": "UI_RelicIcon_15032_4",
+        "setId": 15032
+    },
+    "15033": {
+        "chsBonuses": {
+            "2pc": "治疗加成提高15%。",
+            "4pc": "装备者对队伍中的角色进行治疗时，将产生持续6秒的渴盼效果，记录治疗的生命值回复量（包括溢出值）。持续时间结束时，渴盼效果将转变为「彼时的浪潮」效果：队伍中自己的当前场上角色的普通攻击、重击、下落攻击、元素战技与元素爆发命中敌人时，将基于渴盼效果所记录的回复量的8%提高造成的伤害，「彼时的浪潮」将在生效5次或10秒后移除。一次渴盼效果至多记录15000点回复量，同时至多存在一个，能够记录多个装备者的产生的回复量；装备者处于队伍后台时，依然能触发该效果。"
+        },
+        "chsName": "昔时之歌",
+        "enBonuses": {
+            "2pc": "Healing Bonus +15%.",
+            "4pc": "When the equipping character heals a party member, the Yearning effect will be created for 6s, which records the total amount of healing provided (including overflow healing). When the duration expires, the Yearning effect will be transformed into the \"Waves of Days Past\" effect: When your active party member hits an opponent with a Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, or Elemental Burst, the DMG dealt will be increased by 8% of the total healing amount recorded by the Yearning effect. The \"Waves of Days Past\" effect is removed after it has taken effect 5 times or after 10s. A single instance of the Yearning effect can record up to 15,000 healing, and only a single instance can exist at once, but it can record the healing from multiple equipping characters. Equipping characters on standby can still trigger this effect."
+        },
+        "enName": "Song of Days Past",
+        "pieces": {
+            "circlet": {
+                "chsName": "昔时传奏之诗",
+                "enName": "Poetry of Days Past",
+                "icon": "UI_RelicIcon_15033_3",
+                "ptName": "Poesia Musical do Passado",
+                "ruName": "Поэзия былых времён"
+            },
+            "flower": {
+                "chsName": "昔时遗落之誓",
+                "enName": "Forgotten Oath of Days Past",
+                "icon": "UI_RelicIcon_15033_4",
+                "ptName": "Juramento Esquecido do Passado",
+                "ruName": "Забытая клятва былых времён"
+            },
+            "goblet": {
+                "chsName": "昔时应许之梦",
+                "enName": "Promised Dream of Days Past",
+                "icon": "UI_RelicIcon_15033_1",
+                "ptName": "Sonhos de Promessas Passadas",
+                "ruName": "Обещанный сон былых времён"
+            },
+            "plume": {
+                "chsName": "昔时浮想之思",
+                "enName": "Recollection of Days Past",
+                "icon": "UI_RelicIcon_15033_2",
+                "ptName": "Reflexões de Outrora",
+                "ruName": "Воспоминания о былых временах"
+            },
+            "sands": {
+                "chsName": "昔时回映之音",
+                "enName": "Echoing Sound From Days Past",
+                "icon": "UI_RelicIcon_15033_5",
+                "ptName": "Voz do Eco Passado",
+                "ruName": "Отзвуки былых времён"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Bônus de Cura +15%",
+            "4pc": "Quando o personagem que está com este conjunto equipado curar um membro da equipe, gera por 6s o efeito \"Sede de Esperança\", registrando a quantidade curada (inclui sobrecura). Quando a duração acabar, o efeito Sede de Esperança será convertido para o efeito \"Ondas do Passado\": quando o Ataque Normal, Carregado, Imersivo, a Habilidade Elemental e Supremo do personagem ativo de sua equipe atingirem um inimigo, aumentará o Dano causado em 8% da cura registrada. Ondas do Passado será removido depois de ser desencadeado 5 vezes ou após 10s. Uma Sede de Esperança pode registrar até 15.000 de cura, e só é possível existir um efeito ao mesmo tempo, mas que pode registrar a cura feita por mais de um personagem que está com esse conjunto equipado. Esse efeito pode ser desencadeado mesmo que o personagem que está com esse conjunto equipado não esteja ativo no campo de batalha."
+        },
+        "ptName": "Canção do Passado",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Повышает бонус лечения на 15%.",
+            "4pc": "Экипированный персонаж при лечении членов отряда на 6 сек. создаёт эффект Стремления, который регистрирует осуществлённое лечение (в том числе избыточное). С завершением длительности Стремление превращается в Волны былых времён: при попадании обычной атаки, заряженной атаки, атаки в падении, элементального навыка или взрыва стихии вашего активного персонажа по противнику наносимый урон увеличивается на 8% от общего количества лечения, зарегистрированного Стремлением. После 5 активаций или через 10 сек. эффект Волн былых времён исчезает. Однократный эффект Стремления регистрирует до 15 000 ед. HP. Одновременно может существовать только одно Стремление, но оно регистрирует лечение, предоставляемое несколькими экипированными персонажами сразу. Этот эффект активируется, даже если экипированный персонаж не на поле боя."
+        },
+        "ruName": "Песнь былых времён",
+        "setIcon": "UI_RelicIcon_15033_4",
+        "setId": 15033
+    },
+    "15034": {
+        "chsBonuses": {
+            "2pc": "攻击力提高18%。",
+            "4pc": "施放元素战技后的10秒内，岩元素伤害加成提升20%；若处于结晶反应产生的护盾庇护下，或附近存在月结晶反应产生的月笼，上述效果提高150%，进一步提高的效果将在不满足上述条件的1秒后移除。"
+        },
+        "chsName": "回声之林夜话",
+        "enBonuses": {
+            "2pc": "ATK +18%.",
+            "4pc": "After using an Elemental Skill, gain a 20% Geo DMG Bonus for 10s. When under a shield granted by the Crystallize reaction, or when Moondrifts formed by Lunar-Crystallize reactions are nearby, the above effect is increased by 150%. When these conditions are no longer met, this additional increase disappears after 1s."
+        },
+        "enName": "Nighttime Whispers in the Echoing Woods",
+        "pieces": {
+            "circlet": {
+                "chsName": "慈爱的淑女帽",
+                "enName": "Compassionate Ladies' Hat",
+                "icon": "UI_RelicIcon_15034_3",
+                "ptName": "Chapéu da Senhorita Amável",
+                "ruName": "Милостивая шляпка"
+            },
+            "flower": {
+                "chsName": "无私的妆饰花",
+                "enName": "Selfless Floral Accessory",
+                "icon": "UI_RelicIcon_15034_4",
+                "ptName": "Flor Altruísta",
+                "ruName": "Бескорыстный цветок"
+            },
+            "goblet": {
+                "chsName": "慷慨的墨水瓶",
+                "enName": "Magnanimous Ink Bottle",
+                "icon": "UI_RelicIcon_15034_1",
+                "ptName": "Garrafa Cheia de Nanquim",
+                "ruName": "Великодушная чернильница"
+            },
+            "plume": {
+                "chsName": "诚恳的蘸水笔",
+                "enName": "Honest Quill",
+                "icon": "UI_RelicIcon_15034_2",
+                "ptName": "Pincel de Nanquim Honesto",
+                "ruName": "Искреннее перо"
+            },
+            "sands": {
+                "chsName": "忠实的砂时计",
+                "enName": "Faithful Hourglass",
+                "icon": "UI_RelicIcon_15034_5",
+                "ptName": "Relógio da Lealdade",
+                "ruName": "Верные песочные часы"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "ATQ +18%",
+            "4pc": "Nos 10s depois de usar uma Habilidade Elemental, aumenta o Bônus de Dano Geo em 20%. Se estiver protegido por um escudo gerado pela Reação de Cristalização, ou se houver uma Jaula Lunar próxima gerada por Cristalização Lunar por perto, o efeito acima será aumentado em 150%. Quando essas circunstâncias não forem satisfeitas, esse aumento adicional de Dano desaparece após 1s."
+        },
+        "ptName": "Ecos da Floresta Noturna",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает силу атаки на 18%.",
+            "4pc": "После использования элементального навыка бонус Гео урона на 10 сек. увеличивается на 20%. Если персонаж находится под защитой щита, созданного реакцией Кристалл, либо поблизости есть Лунная пелена, созданная реакцией Лунный кристалл, этот эффект усиливается на 150%. Через 1 сек. после того, как данные условия прекращают выполняться, это дополнительное увеличение исчезает."
+        },
+        "ruName": "Ночной шёпот в Лесу откликающегося эха",
+        "setIcon": "UI_RelicIcon_15034_4",
+        "setId": 15034
+    },
+    "15035": {
+        "chsBonuses": {
+            "2pc": "攻击力提高18%。",
+            "4pc": "生命之契的数值提升或降低时，角色造成的伤害提升18%，该效果持续6秒，至多叠加3次。"
+        },
+        "chsName": "谐律异想断章",
+        "enBonuses": {
+            "2pc": "ATK +18%.",
+            "4pc": "When the value of a Bond of Life increases or decreases, this character deals 18% increased DMG for 6s. Max 3 stacks."
+        },
+        "enName": "Fragment of Harmonic Whimsy",
+        "pieces": {
+            "circlet": {
+                "chsName": "异想零落的圆舞",
+                "enName": "Whimsical Dance of the Withered",
+                "icon": "UI_RelicIcon_15035_3",
+                "ptName": "Valsa Divergente dos Caídos",
+                "ruName": "Вальс увядших фантазий"
+            },
+            "flower": {
+                "chsName": "谐律交响的前奏",
+                "enName": "Harmonious Symphony Prelude",
+                "icon": "UI_RelicIcon_15035_4",
+                "ptName": "Prelúdio da Sinfonia Harmoniosa",
+                "ruName": "Увертюра стройной симфонии"
+            },
+            "goblet": {
+                "chsName": "灵露倾洒的狂诗",
+                "enName": "Ichor Shower Rhapsody",
+                "icon": "UI_RelicIcon_15035_1",
+                "ptName": "Rapsódia da Chuva de Icor",
+                "ruName": "Неистовая рапсодия ихора"
+            },
+            "plume": {
+                "chsName": "古海玄幽的夜想",
+                "enName": "Ancient Sea's Nocturnal Musing",
+                "icon": "UI_RelicIcon_15035_2",
+                "ptName": "Reflexão Noturna do Mar Antigo",
+                "ruName": "Ночные раздумья древнего моря"
+            },
+            "sands": {
+                "chsName": "命途轮转的谐谑",
+                "enName": "The Grand Jape of the Turning of Fate",
+                "icon": "UI_RelicIcon_15035_5",
+                "ptName": "A Grande Farsa da Volta do Destino",
+                "ruName": "Скерцо поворотов судьбы"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "ATQ +18%",
+            "4pc": "Quando o valor de um Contrato de Vida aumenta ou diminui, aumenta o Dano causado por esse personagem em 18% por 6s. Acumula até 3 vezes."
+        },
+        "ptName": "Fragmento da Harmonia Fantástica",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает силу атаки на 18%.",
+            "4pc": "Когда значение Долга жизни увеличивается или уменьшается, наносимый персонажем урон увеличивается на 18% на 6 сек. Эффект может складываться до 3 раз."
+        },
+        "ruName": "Фрагмент гармонической фантазии",
+        "setIcon": "UI_RelicIcon_15035_4",
+        "setId": 15035
+    },
+    "15036": {
+        "chsBonuses": {
+            "2pc": "攻击力提高18%。",
+            "4pc": "脱离战斗状态3秒后，造成的伤害提升50%。在战斗状态下，附近不存在处于燃烧状态下的敌人超过6秒后，上述伤害提升效果每秒降低10%，直到降低至0%；存在处于燃烧状态下的敌人时，每秒提升10%，直到达到50%。装备此圣遗物套装的角色处于队伍后台时，依然会触发该效果。"
+        },
+        "chsName": "未竟的遐思",
+        "enBonuses": {
+            "2pc": "ATK +18%.",
+            "4pc": "After leaving combat for 3s, DMG dealt increased by 50%. In combat, if no Burning opponents are nearby for more than 6s, this DMG Bonus will decrease by 10% per second until it reaches 0%. When a Burning opponent exists, it will increase by 10% instead until it reaches 50%. This effect still triggers if the equipping character is off-field."
+        },
+        "enName": "Unfinished Reverie",
+        "pieces": {
+            "circlet": {
+                "chsName": "失冕的宝冠",
+                "enName": "Crownless Crown",
+                "icon": "UI_RelicIcon_15036_3",
+                "ptName": "Coroa Descoroada",
+                "ruName": "Невенчанная корона"
+            },
+            "flower": {
+                "chsName": "暗结的明花",
+                "enName": "Dark Fruit of Bright Flowers",
+                "icon": "UI_RelicIcon_15036_4",
+                "ptName": "Fruto Sombrio de Flores Brilhantes",
+                "ruName": "Тёмный плод ярких цветов"
+            },
+            "goblet": {
+                "chsName": "筹谋的共樽",
+                "enName": "The Wine-Flask Over Which the Plan Was Hatched",
+                "icon": "UI_RelicIcon_15036_1",
+                "ptName": "A Garrafa de Vinho Sobre a Qual o Plano Foi Concebido",
+                "ruName": "Чаша замысла"
+            },
+            "plume": {
+                "chsName": "褪光的翠尾",
+                "enName": "Faded Emerald Tail",
+                "icon": "UI_RelicIcon_15036_2",
+                "ptName": "Cauda de Esmeralda Desbotada",
+                "ruName": "Блёклый изумрудный хвост"
+            },
+            "sands": {
+                "chsName": "举业的识刻",
+                "enName": "Moment of Attainment",
+                "icon": "UI_RelicIcon_15036_5",
+                "ptName": "Momento de Conquista",
+                "ruName": "Момент обретения"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "ATQ +18%",
+            "4pc": "Depois de sair do combate por 3s, aumenta o Dano causado em 50%. Em combate, se não houverem inimigos Queimando por mais que 6s, esse Bônus de Dano reduzirá 10% por segundo até 0%. Quando existir um oponente Queimando, aumentará 10% até alcançar 50%. Esse efeito pode ser desencadeado mesmo que o personagem com este conjunto de artefatos equipado não esteja ativo."
+        },
+        "ptName": "Reminiscência Incompleta",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает силу атаки на 18%.",
+            "4pc": "Урон персонажа после того, как он покидает поле боя на 3 сек., повышается на 50%. В бою, если поблизости более 6 сек. нет врагов со статусом Горение, персонаж теряет 10% упомянутого увеличения урона в секунду, пока оно не упадёт до 0%. Если поблизости есть враги со статусом Горение, увеличение урона повышается на 10% в секунду, пока не достигнет 50%. Этот эффект срабатывает, даже если экипированный персонаж не на поле боя."
+        },
+        "ruName": "Незаконченные грёзы",
+        "setIcon": "UI_RelicIcon_15036_4",
+        "setId": 15036
+    },
+    "15037": {
+        "chsBonuses": {
+            "2pc": "队伍中附近的角色触发「夜魂迸发」时，装备者恢复6点元素能量。",
+            "4pc": "装备者触发其对应元素类型的相关反应后，队伍中附近的所有角色的该元素反应相关的元素伤害加成提升12%，持续15秒。若触发该效果时，装备者处于夜魂加持状态下，还将使队伍中附近的所有角色的与该元素反应相关的元素伤害加成提升28%，持续20秒。装备者处于后台时也能触发上述效果。同名圣遗物套装产生的伤害加成效果无法叠加。"
+        },
+        "chsName": "烬城勇者绘卷",
+        "enBonuses": {
+            "2pc": "When a nearby party member triggers a Nightsoul Burst, the equipping character regenerates 6 Elemental Energy.",
+            "4pc": "After the equipping character triggers a reaction related to their Elemental Type, all nearby party members gain a 12% Elemental DMG Bonus for the Elemental Types involved in the elemental reaction for 15s. If the equipping character is in the Nightsoul's Blessing state when triggering this effect, all nearby party members gain an additional 28% Elemental DMG Bonus for the Elemental Types involved in the elemental reaction for 20s. The equipping character can trigger this effect while off-field, and the DMG bonus from Artifact Sets with the same name do not stack."
+        },
+        "enName": "Scroll of the Hero of Cinder City",
+        "pieces": {
+            "circlet": {
+                "chsName": "魔战士的羽面",
+                "enName": "Demon-Warrior's Feather Mask",
+                "icon": "UI_RelicIcon_15037_3",
+                "ptName": "Máscara de Penas do Guerreiro Mágico",
+                "ruName": "Перьевая маска воина-демона"
+            },
+            "flower": {
+                "chsName": "驯兽师的护符",
+                "enName": "Beast Tamer's Talisman",
+                "icon": "UI_RelicIcon_15037_4",
+                "ptName": "Talismã do Domador de Feras",
+                "ruName": "Талисман укротителя зверей"
+            },
+            "goblet": {
+                "chsName": "游学者的爪杯",
+                "enName": "Wandering Scholar's Claw Cup",
+                "icon": "UI_RelicIcon_15037_1",
+                "ptName": "Cálice do Estudioso Viajante",
+                "ruName": "Кубок бродячего исследователя"
+            },
+            "plume": {
+                "chsName": "巡山客的信标",
+                "enName": "Mountain Ranger's Marker",
+                "icon": "UI_RelicIcon_15037_2",
+                "ptName": "Sinalizador do Guarda das Montanhas",
+                "ruName": "Маячок горного патрульного"
+            },
+            "sands": {
+                "chsName": "秘术家的金盘",
+                "enName": "Mystic's Gold Dial",
+                "icon": "UI_RelicIcon_15037_5",
+                "ptName": "Prato Dourado do Místico",
+                "ruName": "Золотые часы мистика"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Quando um membro da equipe próximo desencadeia uma Explosão do Espírito da Noite, o personagem que está com esse conjunto equipado regenera 6 de Energia Elemental.",
+            "4pc": "Quando o personagem que está com esse conjunto equipado desencadeia uma Reação Elemental que envolve seu Tipo Elemental, todos os membros próximos da equipe ganham 12% de Bônus de Dano Elemental relacionado à reação por 15s. Caso o personagem que está com esse conjunto equipado estiver no estado Bênção do Espírito da Noite ao desencadear esse efeito, todos os membros próximos da equipe ganham mais 28% de Bônus de Dano Elemental relacionado à reação por 20s. Esse efeito pode ser ativado mesmo quando o personagem que está com esse conjunto equipado está fora de campo. Bônus de Dano fornecidos por conjuntos de Artefatos com o mesmo nome não acumularão."
+        },
+        "ptName": "Pergaminho do Herói da Cidade Incandescente",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Когда член отряда поблизости активирует Вспышку Ночного духа, экипированный персонаж восстанавливает 6 ед. энергии.",
+            "4pc": "После того как экипированный персонаж активирует реакцию, связанную с его элементом, все члены отряда поблизости получают 12% бонус урона элементами, связанными с этой реакцией, на 15 сек. Если экипированный персонаж, активируя данный эффект, находится в состоянии Благословение Ночного духа, все персонажи отряда поблизости дополнительно получают 28% бонус урона элементами, связанными с этой реакцией, на 20 сек. Такой эффект может возникнуть, даже если персонаж не находится на поле боя. Бонусы одноимённых наборов артефактов не суммируются."
+        },
+        "ruName": "Свиток героя сожжённого города",
+        "setIcon": "UI_RelicIcon_15037_4",
+        "setId": 15037
+    },
+    "15038": {
+        "chsBonuses": {
+            "2pc": "装备者处于夜魂加持状态，并且在场上时，造成的伤害提高15%。",
+            "4pc": "装备者在场上消耗1点夜魂值后，暴击率提高40%，持续6秒。该效果每1秒至多触发一次。"
+        },
+        "chsName": "黑曜秘典",
+        "enBonuses": {
+            "2pc": "While the equipping character is in Nightsoul's Blessing and is on the field, their DMG dealt is increased by 15%.",
+            "4pc": "After the equipping character consumes 1 Nightsoul point while on the field, CRIT Rate increases by 40% for 6s. This effect can trigger once every second."
+        },
+        "enName": "Obsidian Codex",
+        "pieces": {
+            "circlet": {
+                "chsName": "诸圣的礼冠",
+                "enName": "Crown of the Saints",
+                "icon": "UI_RelicIcon_15038_3",
+                "ptName": "Coroa das Divindades",
+                "ruName": "Корона святых"
+            },
+            "flower": {
+                "chsName": "异种的期许",
+                "enName": "Reckoning of the Xenogenic",
+                "icon": "UI_RelicIcon_15038_4",
+                "ptName": "Julgamento Primordial",
+                "ruName": "Ожидания инородцев"
+            },
+            "goblet": {
+                "chsName": "纷争的前宴",
+                "enName": "Pre-Banquet of the Contenders",
+                "icon": "UI_RelicIcon_15038_1",
+                "ptName": "Pré-Banquete dos Desafiantes",
+                "ruName": "Банкет перед состязанием"
+            },
+            "plume": {
+                "chsName": "灵髓的根脉",
+                "enName": "Root of the Spirit-Marrow",
+                "icon": "UI_RelicIcon_15038_2",
+                "ptName": "Raiz da Medula do Espírito",
+                "ruName": "Корень костного мозга души"
+            },
+            "sands": {
+                "chsName": "夜域的迷思",
+                "enName": "Myths of the Night Realm",
+                "icon": "UI_RelicIcon_15038_5",
+                "ptName": "Mitos do Reino da Noite",
+                "ruName": "Мифы владений ночи"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Enquanto o personagem que está com esse conjunto equipado estiver sob a Bênção do Espírito da Noite e estiver ativo, o Dano causado por ele é aumentado em 15%.",
+            "4pc": "Enquanto estiver ativo, após o personagem que está com esse conjunto equipado consumir 1 ponto de Espírito da Noite, a Taxa CRIT aumenta em 40% por 6s. Este efeito pode ser ativado no máximo uma vez a cada segundo."
+        },
+        "ptName": "Códice de Obsidiana",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Урон экипированного персонажа на поле в состоянии Благословения Ночного духа увеличивается на 15%.",
+            "4pc": "После того как экипированный персонаж, будучи на поле боя, расходует 1 очко Ночного духа, шанс крит. попадания увеличивается на 40% на 6 сек. Этот эффект может возникнуть один раз в 1 сек."
+        },
+        "ruName": "Обсидиановый фолиант",
+        "setIcon": "UI_RelicIcon_15038_4",
+        "setId": 15038
+    },
+    "15039": {
+        "chsBonuses": {
+            "2pc": "下落攻击造成的伤害提升25%。",
+            "4pc": "装备者的下落攻击/重击/元素战技命中敌人后，获得1/2/2层「永照的流辉」，由下落攻击、重击或元素战技产生的该效果分别每1秒至多触发一次。永照的流辉：下落攻击造成的伤害提升15%，持续6秒，至多叠加5层，每层持续时间独立计算。"
+        },
+        "chsName": "长夜之誓",
+        "enBonuses": {
+            "2pc": "Plunging Attack DMG increased by 25%.",
+            "4pc": "After the equipping character's Plunging Attack/Charged Attack/Elemental Skill hits an opponent, they will gain 1/2/2 stack(s) of \"Radiance Everlasting.\" Plunging Attacks, Charged Attacks, or Elemental Skills can each trigger this effect once every 1s. Radiance Everlasting: Plunging Attacks deal 15% increased DMG for 6s. Max 5 stacks. Each stack's duration is counted independently."
+        },
+        "enName": "Long Night's Oath",
+        "pieces": {
+            "circlet": {
+                "chsName": "被浸染的缨盔",
+                "enName": "Dyed Tassel",
+                "icon": "UI_RelicIcon_15039_3",
+                "ptName": "Elmo Tingido",
+                "ruName": "Окрашенный шлем"
+            },
+            "flower": {
+                "chsName": "执灯人的誓词",
+                "enName": "Lightkeeper's Pledge",
+                "icon": "UI_RelicIcon_15039_4",
+                "ptName": "Juramento do Portador da Lâmpada",
+                "ruName": "Клятва светоносца"
+            },
+            "goblet": {
+                "chsName": "未吹响的号角",
+                "enName": "A Horn Unwinded",
+                "icon": "UI_RelicIcon_15039_1",
+                "ptName": "Trompa Não Soprada",
+                "ruName": "Умолкнувший рог"
+            },
+            "plume": {
+                "chsName": "夜鸣莺的尾羽",
+                "enName": "Nightingale's Tail Feather",
+                "icon": "UI_RelicIcon_15039_2",
+                "ptName": "Pluma da Rouxinol Noturna",
+                "ruName": "Соловьиное перо"
+            },
+            "sands": {
+                "chsName": "不死者的哀铃",
+                "enName": "Undying One's Mourning Bell",
+                "icon": "UI_RelicIcon_15039_5",
+                "ptName": "Sino Fúnebre do Imortal",
+                "ruName": "Скорбный колокольчик бессмертного"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Dano do Ataque Imersivo aumenta em 25%.",
+            "4pc": "Quando o personagem que está com esse conjunto equipado atinge um Ataque Imersivo/Carregado/Habilidade Elemental no inimigo, obtém 1/2/2 acúmulo(s) de Brilho Eterno. Ataques Imersivos, Carregados ou Habilidades Elementais podem gerar esse efeito uma vez por segundo. Brilho Eterno: aumenta o Dano causado por Ataques Imersivos em 15% por 6s, acumula até 5 vezes. A duração de cada acúmulo é contada independentemente."
+        },
+        "ptName": "Juramento da Noite Eterna",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Урон атак в падении увеличивается на 25%.",
+            "4pc": "После того как атака в падении, заряженная атака или элементальный навык экипированного персонажа поражают противника, экипированный персонаж получает 1/2/2 уровня Вечного сияния. Атаки в падении, заряженные атаки и элементальные навыки могут по отдельности вызывать этот эффект один раз в 1 сек. Вечное сияние: урон атаки в падении повышается на 15%. Эффект длится 6 сек. и складывается до 5 раз. Длительность каждого уровня рассчитывается отдельно."
+        },
+        "ruName": "Клятва долгой ночи",
+        "setIcon": "UI_RelicIcon_15039_4",
+        "setId": 15039
+    },
+    "15040": {
+        "chsBonuses": {
+            "2pc": "获得15%冰元素伤害加成。",
+            "4pc": "装备者的元素能量为0时，普通攻击造成的伤害提升60%，元素爆发造成的伤害提升60%。装备者的普通攻击造成伤害后，上述元素爆发伤害提升效果将失效6秒；装备者的元素爆发造成伤害后，上述普通攻击伤害提升效果将失效6秒。角色处于队伍后台也能触发。"
+        },
+        "chsName": "深廊终曲",
+        "enBonuses": {
+            "2pc": "Cryo DMG Bonus +15%",
+            "4pc": "When the equipping character has 0 Elemental Energy, Normal Attack DMG is increased by 60% and Elemental Burst DMG is increased by 60%. After the equipping character deals Normal Attack DMG, the aforementioned Elemental Burst effect will stop applying for 6s. After the equipping character deals Elemental Burst DMG, the aforementioned Normal Attack effect will stop applying for 6s. This effect can trigger even if the equipping character is off the field."
+        },
+        "enName": "Finale of the Deep Galleries",
+        "pieces": {
+            "circlet": {
+                "chsName": "深廊的遂失之冕",
+                "enName": "Deep Gallery's Lost Crown",
+                "icon": "UI_RelicIcon_15040_3",
+                "ptName": "Coroa Perdida do Corredor Profundo",
+                "ruName": "Утраченная корона галерей глубин"
+            },
+            "flower": {
+                "chsName": "深廊的回奏之歌",
+                "enName": "Deep Gallery's Echoing Song",
+                "icon": "UI_RelicIcon_15040_4",
+                "ptName": "Ecos do Corredor Profundo",
+                "ruName": "Отголоски песни галерей глубин"
+            },
+            "goblet": {
+                "chsName": "深廊的饫赐之宴",
+                "enName": "Deep Gallery's Bestowed Banquet",
+                "icon": "UI_RelicIcon_15040_1",
+                "ptName": "Banquete do Corredor Profundo",
+                "ruName": "Ниспосланный пир галерей глубин"
+            },
+            "plume": {
+                "chsName": "深廊的漫远之约",
+                "enName": "Deep Gallery's Distant Pact",
+                "icon": "UI_RelicIcon_15040_2",
+                "ptName": "Promessa do Corredor Profundo",
+                "ruName": "Дальние странствия галерей глубин"
+            },
+            "sands": {
+                "chsName": "深廊的湮落之刻",
+                "enName": "Deep Gallery's Moment of Oblivion",
+                "icon": "UI_RelicIcon_15040_5",
+                "ptName": "Passagem do Corredor Profundo",
+                "ruName": "Часы забвения галерей глубин"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Bônus de Dano Cryo +15%",
+            "4pc": "Quando a Energia Elemental do personagem que está com esse conjunto equipado for 0, aumenta o Dano causado por seu Ataque Normal em 60%, e o Dano causado pelo Supremo em 60%. Depois que o personagem que está com esse conjunto equipado causar Dano de Ataque Normal, o efeito de aumento de Dano de Supremo desaparecerá após 6s, e o efeito de aumento de Dano de Ataque Normal também desaparecerá depois de 6s. Esse efeito pode ser desencadeado, ainda que o personagem não esteja ativo."
+        },
+        "ptName": "Epílogo do Corredor",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Даёт 15% бонус Крио урона.",
+            "4pc": "Когда энергия экипированного персонажа равна 0, урон обычной атаки и взрыва стихии повышается на 60%. После того как экипированный персонаж наносит урон обычной атакой, данный эффект на 6 сек. перестаёт применяться для взрыва стихии. После того как экипированный персонаж наносит урон взрывом стихии, данный эффект на 6 сек. перестаёт применяться для обычной атаки. Этот эффект может возникнуть, даже если экипированный персонаж вне поля боя."
+        },
+        "ruName": "Финал галерей глубин",
+        "setIcon": "UI_RelicIcon_15040_4",
+        "setId": 15040
+    },
+    "15041": {
+        "chsBonuses": {
+            "2pc": "元素精通提高80点。",
+            "4pc": "队伍中附近的角色触发月曜反应时，若装备者在场上，将获得持续4秒的「月辉明光·蓄念」效果：队伍的月兆为初辉/满辉时，暴击率提升15%/30%。队伍中的角色每拥有一种不同的「月辉明光」效果，队伍中的所有角色触发的月曜反应造成的伤害提升10%。由「月辉明光」产生的效果无法叠加。"
+        },
+        "chsName": "穹境示现之夜",
+        "enBonuses": {
+            "2pc": "Increases Elemental Mastery by 80.",
+            "4pc": "When nearby party members trigger Lunar Reactions, if the equipping character is on the field, gain the Gleaming Moon: Intent effect for 4s: Increases CRIT Rate by 15%/30% when the party's Moonsign is Nascent Gleam/Ascendant Gleam. All party members' Lunar Reaction DMG is increased by 10% for each different Gleaming Moon effect that party members have. Effects from Gleaming Moon cannot stack."
+        },
+        "enName": "Night of the Sky's Unveiling",
+        "pieces": {
+            "circlet": {
+                "chsName": "永劫之冕",
+                "enName": "Crown of the Befallen",
+                "icon": "UI_RelicIcon_15041_3",
+                "ptName": "Coroa dos Caídos",
+                "ruName": "Корона вечности"
+            },
+            "flower": {
+                "chsName": "渴真之花",
+                "enName": "Bloom of the Mind's Desire",
+                "icon": "UI_RelicIcon_15041_4",
+                "ptName": "Flor do Desejo Mental",
+                "ruName": "Цветок жажды познания"
+            },
+            "goblet": {
+                "chsName": "满溢之壶",
+                "enName": "Vessel of Plenty",
+                "icon": "UI_RelicIcon_15041_1",
+                "ptName": "Cálice Transbordante",
+                "ruName": "Сосуд изобилия"
+            },
+            "plume": {
+                "chsName": "深罪之羽",
+                "enName": "Feather of Indelible Sin",
+                "icon": "UI_RelicIcon_15041_2",
+                "ptName": "Pena do Pecado",
+                "ruName": "Перо несмываемого греха"
+            },
+            "sands": {
+                "chsName": "谕告之钟",
+                "enName": "Revelation's Toll",
+                "icon": "UI_RelicIcon_15041_5",
+                "ptName": "Relógio do Anúncio",
+                "ruName": "Звон откровения"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Aumenta a Proficiência Elemental em 80.",
+            "4pc": "Quando um personagem próximo da equipe desencadear Reações Lunares, se o personagem que está com esse conjunto equipado estiver ativo, obtém por 4s o efeito \"Resplandecer Lunar: Memórias Cheias\": quando o Presságio Lunar da equipe estiver no Reluzir Inicial/Cheio, aumenta a Taxa CRIT em 15%/30%. Para cada efeito Resplandecer Lunar diferente que o membro da equipe possuir, aumenta o Dano causado pelas Reações Lunares em 10% para todos os membros da equipe. O efeito gerado por Resplandecer Lunar não é acumulável."
+        },
+        "ptName": "Noite da Revelação do Céu",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает мастерство стихий на 80 ед.",
+            "4pc": "Если персонажи отряда поблизости вызывают Лунные реакции, когда экипированный персонаж активен, на 4 сек. активируется эффект Сияющей луны: Намерение: если Лунное знамение отряда - Зарождающееся сияние/Высшее сияние, шанс крит. попадания повышается на 15%/30%. За каждый активный эффект Сияющей луны разных видов в отряде урон Лунных реакций всех персонажей отряда увеличивается на 10%. Эффекты Сияющей луны не складываются."
+        },
+        "ruName": "Ночь открытия неба",
+        "setIcon": "UI_RelicIcon_15041_4",
+        "setId": 15041
+    },
+    "15042": {
+        "chsBonuses": {
+            "2pc": "元素充能效率提高20%。",
+            "4pc": "造成元素伤害时，获得持续8秒的「月辉明光·崇信」效果：队伍的月兆为初辉/满辉时，队伍中的所有角色的元素精通提高60点/120点。装备者处于后台时也能触发上述效果。队伍中的角色每拥有一种不同的「月辉明光」效果，队伍中的所有角色触发的月曜反应造成的伤害提升10%。由「月辉明光」产生的效果无法叠加。"
+        },
+        "chsName": "纺月的夜歌",
+        "enBonuses": {
+            "2pc": "Energy Recharge +20%.",
+            "4pc": "When dealing Elemental DMG, gain the Gleaming Moon: Devotion effect for 8s: Increases all party members' Elemental Mastery by 60/120 when the party's Moonsign is Nascent Gleam/Ascendant Gleam. The equipping character can trigger this effect while off-field. All party members' Lunar Reaction DMG is increased by 10% for each different Gleaming Moon effect that party members have. Effects from Gleaming Moon cannot stack."
+        },
+        "enName": "Silken Moon's Serenade",
+        "pieces": {
+            "circlet": {
+                "chsName": "司信者的圣冕",
+                "enName": "Holy Crown of the Believer",
+                "icon": "UI_RelicIcon_15042_3",
+                "ptName": "Coroa Sagrada do Crente",
+                "ruName": "Священная корона верующей"
+            },
+            "flower": {
+                "chsName": "流离者的晶泪",
+                "enName": "Crystal Tear of the Wanderer",
+                "icon": "UI_RelicIcon_15042_4",
+                "ptName": "Lágrima Cristalizada do Errante",
+                "ruName": "Кристальная слеза скиталицы"
+            },
+            "goblet": {
+                "chsName": "至纯者的欢荣",
+                "enName": "Joyous Glory of the Pure",
+                "icon": "UI_RelicIcon_15042_1",
+                "ptName": "Alegria Gloriosa da Pureza",
+                "ruName": "Отрадная слава непорочной"
+            },
+            "plume": {
+                "chsName": "受福者的白羽",
+                "enName": "Pristine Plume of the Blessed",
+                "icon": "UI_RelicIcon_15042_2",
+                "ptName": "Pena Pristina dos Abençoados",
+                "ruName": "Чистое перо благословенной"
+            },
+            "sands": {
+                "chsName": "祭霜者的迷狂",
+                "enName": "Frost Devotee's Delirium",
+                "icon": "UI_RelicIcon_15042_5",
+                "ptName": "Delírio do Portador do Gelo",
+                "ruName": "Помешательство хладопоклонницы"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Recarga de Energia +20%",
+            "4pc": "Ao causar Dano Elemental, obtém por 8s o efeito Resplandecer Lunar: Missiva Sublime: quando o Presságio Lunar da equipe estiver no Reluzir Inicial/Cheio, aumenta a Proficiência Elemental de todos os personagens em 60/120. Esse efeito pode ser desencadeado, mesmo se o personagem que está com esse conjunto equipado não estiver ativo. Quando um personagem possuir efeitos de Resplandecer Lunar diferentes, aumenta o Dano causado pelas Reações Lunares em 10% para todos os personagens. O efeito gerado por Resplandecer Lunar não é acumulável."
+        },
+        "ptName": "Serenata da Lua de Seda",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает скорость восстановления энергии на 20%.",
+            "4pc": "При нанесении элементального урона на 8 сек. возникает эффект Сияющей луны: Доверие: если Лунное знамение отряда - Зарождающееся сияние/Высшее сияние, мастерство стихий всех персонажей отряда повышается на 60/120 ед. Такой эффект может возникнуть, даже если экипированный персонаж не находится на поле боя. За каждый активный эффект Сияющей луны разных видов в отряде урон Лунных реакций всех персонажей отряда увеличивается на 10%. Эффекты Сияющей луны не складываются."
+        },
+        "ruName": "Серенада шёлковой луны",
+        "setIcon": "UI_RelicIcon_15042_4",
+        "setId": 15042
+    },
+    "15043": {
+        "chsBonuses": {
+            "2pc": "元素精通提高80点。",
+            "4pc": "装备者处于队伍后台时，造成的月曜反应伤害提升20%；队伍的月兆等级至少为满辉时，造成的月曜反应伤害进一步提升40%。上述效果将在装备者位于场上3秒后移除。"
+        },
+        "chsName": "晨星与月的晓歌",
+        "enBonuses": {
+            "2pc": "Increases Elemental Mastery by 80.",
+            "4pc": "When the equipping character is off-field, Lunar Reaction DMG is increased by 20%. When the party's Moonsign Level is at least Ascendant Gleam, Lunar Reaction DMG will be further increased by 40%. This effect will disappear after the equipping character is active for 3s."
+        },
+        "enName": "Aubade of Morningstar and Moon",
+        "pieces": {
+            "circlet": {
+                "chsName": "献与月的银冕",
+                "enName": "Moonlit Offering's Silver Crown",
+                "icon": "UI_RelicIcon_15043_3",
+                "ptName": "Oferenda ao Luar: Coroa Prateada",
+                "ruName": "Серебряный венец лунного подношения"
+            },
+            "flower": {
+                "chsName": "献与月的华梦",
+                "enName": "Moonlit Offering's Opulent Dream",
+                "icon": "UI_RelicIcon_15043_4",
+                "ptName": "Oferenda ao Luar: Sonho Ornamentado",
+                "ruName": "Великолепный сон лунного подношения"
+            },
+            "goblet": {
+                "chsName": "献与月的酹祭",
+                "enName": "Moonlit Offering's Libation",
+                "icon": "UI_RelicIcon_15043_1",
+                "ptName": "Oferenda ao Luar: Libação",
+                "ruName": "Возлияние лунного подношения"
+            },
+            "plume": {
+                "chsName": "献与月的离光",
+                "enName": "Moonlit Offering's Parting Light",
+                "icon": "UI_RelicIcon_15043_2",
+                "ptName": "Oferenda ao Luar: Luz de Despedida",
+                "ruName": "Свет расставания лунного подношения"
+            },
+            "sands": {
+                "chsName": "献与月的终时",
+                "enName": "Moonlit Offering's Final Hour",
+                "icon": "UI_RelicIcon_15043_5",
+                "ptName": "Oferenda ao Luar: Hora Final",
+                "ruName": "Последний час лунного подношения"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "Aumenta a Proficiência Elemental em 80.",
+            "4pc": "Quando o portador não é o personagem ativo, aumenta o Dano causado por Reações Lunares em 20%. Quando o nível de Presságio Lunar da equipe for pelo menos Reluzir Cheio, aumenta o Dano causado por Reações Lunares em mais 40. Esses efeitos serão removidos 3s após o portador entrar em campo."
+        },
+        "ptName": "Serenata das Estrelas e da Lua",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает мастерство стихий на 80 ед.",
+            "4pc": "Когда экипированный персонаж не на поле, урон Лунных реакций увеличивается на 20%. Если Лунное знамение отряда не ниже Высшего сияния, урон Лунных реакций дополнительно увеличивается на 40%. Через 3 сек. после того, как экипированный персонаж становится активным, этот эффект исчезает."
+        },
+        "ruName": "Рассветная песнь звезды и луны",
+        "setIcon": "UI_RelicIcon_15043_4",
+        "setId": 15043
+    },
+    "15044": {
+        "chsBonuses": {
+            "2pc": "攻击力提高18%。",
+            "4pc": "普通攻击、重击、元素战技或元素爆发命中敌人后，将获得持续6秒的「风与牧歌的眷怜」：攻击力提高25%。若装备者已经完成了「魔女的课业」，则「风与牧歌的眷怜」将会升级为「风与牧歌的决意」，额外使通过考验的装备者的暴击率提升20%。装备者处于队伍后台时，也能触发上述效果。"
+        },
+        "chsName": "风起之日",
+        "enBonuses": {
+            "2pc": "ATK +18%.",
+            "4pc": "After a Normal Attack, Charged Attack, Elemental Skill or Elemental Burst hits an opponent, gain the Blessing of Pastoral Winds effect for 6s: ATK is increased by 25%. If the equipping character has completed Witch's Homework, Blessing of Pastoral Winds will be upgraded to Resolve of Pastoral Winds, which also increases the CRIT Rate of the equipping character by an additional 20%. This effect can be triggered even when the character is off-field."
+        },
+        "enName": "A Day Carved from Rising Winds",
+        "pieces": {
+            "circlet": {
+                "chsName": "哀慕的恋歌",
+                "enName": "Minnesang of Love and Lament",
+                "icon": "UI_RelicIcon_15044_3",
+                "ptName": "Poema do Amor e Lamento",
+                "ruName": "Миннезанг скорбящей любви"
+            },
+            "flower": {
+                "chsName": "风花的箴铭",
+                "enName": "Windborne Flower's Spruchdichtung",
+                "icon": "UI_RelicIcon_15044_4",
+                "ptName": "Inscrição da Flor da Brisa",
+                "ruName": "Шпрух ветряного цветка"
+            },
+            "goblet": {
+                "chsName": "未言的宴话",
+                "enName": "Heldenepos's Unspoken Tale",
+                "icon": "UI_RelicIcon_15044_1",
+                "ptName": "Contos Não Contados em Banquetes",
+                "ruName": "Неизречённый эпос банкета"
+            },
+            "plume": {
+                "chsName": "晨光的明誓",
+                "enName": "Dawn's Brilliant Oath",
+                "icon": "UI_RelicIcon_15044_2",
+                "ptName": "Juramento Brilhante do Amanhecer",
+                "ruName": "Сияющая клятва рассвета"
+            },
+            "sands": {
+                "chsName": "春律的片刻",
+                "enName": "A Note in Spring's Leich",
+                "icon": "UI_RelicIcon_15044_5",
+                "ptName": "Uma Nota na Canção de Primavera",
+                "ruName": "Мгновение весеннего лейха"
+            }
+        },
+        "ptBonuses": {
+            "2pc": "ATQ +18%",
+            "4pc": "Quando o Ataque Normal, Carregado, Habilidade Elemental ou Supremo atingem o inimigo, obtém o efeito Piedade do Vento e Pastoreio por 6s: aumenta o ATQ em 25%. Se o portador já tiver concluído a Tarefa da Bruxa, Piedade do Vento e Pastoreio será elevado para Determinação do Vento e Pastoreio, aumentando a Taxa CRIT do portador que passou pelo teste em 20%. Esse efeito pode ser desencadeado mesmo quando o portador não é o personagem ativo."
+        },
+        "ptName": "Ascensão Zéfira",
+        "qualityType": "QUALITY_ORANGE",
+        "releaseDate": 1768359600,
+        "ruBonuses": {
+            "2pc": "Увеличивает силу атаки на 18%.",
+            "4pc": "На 6 сек. после попадания обычной атакой, заряженной атакой, элементальным навыком или взрывом стихии по противнику создаётся эффект Благословения пасторальных ветров: сила атаки повышается на 25%. Если экипированный персонаж уже выполнил Уроки ведьм, то Благословение пасторальных ветров улучшается до Решительности пасторальных ветров: шанс крит. попадания экипированного персонажа, который прошёл испытание, дополнительно повышается на 20%. Этот эффект срабатывает, даже если экипированный персонаж не на поле боя."
+        },
+        "ruName": "День восходящих ветров",
+        "setIcon": "UI_RelicIcon_15044_4",
+        "setId": 15044
+    }
+}

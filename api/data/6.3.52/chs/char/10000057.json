@@ -1,0 +1,1332 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104171": 1,
+            "104172": 9,
+            "104173": 9,
+            "104174": 6
+        },
+        "elitemonster": {
+            "113030": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101201": 168
+        },
+        "worldmonster": {
+            "112002": 18,
+            "112003": 30,
+            "112004": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "SpecialExtra_Damage",
+            "poise": "LV4/81"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "SpecialExtra_Damage",
+            "poise": "LV4/81"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "SpecialExtra_Damage",
+            "poise": "LV4/143"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "SpecialExtra_Damage_Ghost",
+            "poise": "LV4/81"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "SpecialExtra_Damage_Ghost",
+            "poise": "LV4/81"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "SpecialExtra_Damage_Ghost",
+            "poise": "LV4/143"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "Gadget_OniBull",
+            "poise": "LV5/250"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/35"
+        },
+        {
+            "element": "Rock",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/35"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/200"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/150"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/200"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/150"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "施放<color=#FFD780FF>最恶鬼王·一斗轰临！！</color>后，荒泷一斗获得2层「乱神之怪力」效果。1秒后，荒泷一斗每0.5秒再获得1层「乱神之怪力」效果，持续1.5秒。",
+            "icon": "UI_Talent_S_Itto_01",
+            "name": "倘若不知，我讲你听"
+        },
+        "const2": {
+            "description": "施放<color=#FFD780FF>最恶鬼王·一斗轰临！！</color>后，队伍中每个元素类型为<color=#FFE699FF>岩元素</color>的角色，都将使其冷却时间减少1.5秒，使荒泷一斗的元素能量恢复6点。\\n通过这种方式，至多减少4.5秒冷却时间，恢复18点元素能量。",
+            "icon": "UI_Talent_S_Itto_02",
+            "name": "纠集众人，斗倒御岳"
+        },
+        "const3": {
+            "description": "<color=#FFD780FF>魔杀绝技·赤牛发破！</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Itto_01",
+            "name": "水陆自在，牛王同行"
+        },
+        "const4": {
+            "description": "<color=#FFD780FF>最恶鬼王·一斗轰临！！</color>施加的「怒目鬼王」状态结束后，附近的队伍中所有角色的防御力提升20%，攻击力提升20%，持续10秒。",
+            "icon": "UI_Talent_S_Itto_03",
+            "name": "奉行牢狱，茶饭之所"
+        },
+        "const5": {
+            "description": "<color=#FFD780FF>最恶鬼王·一斗轰临！！</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Itto_02",
+            "name": "十年花坂，皆知我名"
+        },
+        "const6": {
+            "description": "荒泷一斗的重击的暴击伤害提高70%；此外，施展「荒泷逆袈裟」时，有50%的几率不消耗「乱神之怪力」。",
+            "icon": "UI_Talent_S_Itto_04",
+            "name": "在下荒泷一斗是也"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.2s",
+            "chance": "50%",
+            "particles": "3",
+            "source": "ElementalArt_DropBall"
+        },
+        {
+            "cd": "0.2s",
+            "chance": "50%",
+            "particles": "4",
+            "source": "ElementalArt_DropBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Itto",
+        "forward": "UI_AvatarIcon_Itto"
+    },
+    "info": {
+        "attributes": [
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 18,
+                "def": 75,
+                "hp": 1001,
+                "level": 1
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 81,
+                "hp": 1084,
+                "level": 2
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 87,
+                "hp": 1167,
+                "level": 3
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 93,
+                "hp": 1251,
+                "level": 4
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 100,
+                "hp": 1334,
+                "level": 5
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 106,
+                "hp": 1418,
+                "level": 6
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 112,
+                "hp": 1501,
+                "level": 7
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 118,
+                "hp": 1586,
+                "level": 8
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 125,
+                "hp": 1670,
+                "level": 9
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 131,
+                "hp": 1753,
+                "level": 10
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 137,
+                "hp": 1837,
+                "level": 11
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 143,
+                "hp": 1921,
+                "level": 12
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 150,
+                "hp": 2005,
+                "level": 13
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 156,
+                "hp": 2090,
+                "level": 14
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 162,
+                "hp": 2174,
+                "level": 15
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 40,
+                "def": 168,
+                "hp": 2258,
+                "level": 16
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 175,
+                "hp": 2343,
+                "level": 17
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 43,
+                "def": 181,
+                "hp": 2427,
+                "level": 18
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 187,
+                "hp": 2512,
+                "level": 19
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 46,
+                "def": 194,
+                "hp": 2597,
+                "level": 20
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 63,
+                "def": 264,
+                "hp": 3540,
+                "level": 21
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 64,
+                "def": 270,
+                "hp": 3625,
+                "level": 22
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 66,
+                "def": 277,
+                "hp": 3710,
+                "level": 23
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 67,
+                "def": 283,
+                "hp": 3795,
+                "level": 24
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 69,
+                "def": 289,
+                "hp": 3880,
+                "level": 25
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 70,
+                "def": 296,
+                "hp": 3966,
+                "level": 26
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 72,
+                "def": 302,
+                "hp": 4051,
+                "level": 27
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 73,
+                "def": 309,
+                "hp": 4136,
+                "level": 28
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 75,
+                "def": 315,
+                "hp": 4223,
+                "level": 29
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 76,
+                "def": 321,
+                "hp": 4308,
+                "level": 30
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 78,
+                "def": 328,
+                "hp": 4394,
+                "level": 31
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 79,
+                "def": 334,
+                "hp": 4480,
+                "level": 32
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 81,
+                "def": 341,
+                "hp": 4566,
+                "level": 33
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 82,
+                "def": 347,
+                "hp": 4651,
+                "level": 34
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 84,
+                "def": 353,
+                "hp": 4737,
+                "level": 35
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 85,
+                "def": 360,
+                "hp": 4824,
+                "level": 36
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 87,
+                "def": 366,
+                "hp": 4910,
+                "level": 37
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 88,
+                "def": 373,
+                "hp": 4996,
+                "level": 38
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 90,
+                "def": 379,
+                "hp": 5082,
+                "level": 39
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 91,
+                "def": 386,
+                "hp": 5170,
+                "level": 40
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 104,
+                "def": 438,
+                "hp": 5865,
+                "level": 41
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 105,
+                "def": 444,
+                "hp": 5952,
+                "level": 42
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 107,
+                "def": 451,
+                "hp": 6040,
+                "level": 43
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 108,
+                "def": 457,
+                "hp": 6126,
+                "level": 44
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 110,
+                "def": 463,
+                "hp": 6213,
+                "level": 45
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 111,
+                "def": 470,
+                "hp": 6300,
+                "level": 46
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 113,
+                "def": 476,
+                "hp": 6387,
+                "level": 47
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 114,
+                "def": 483,
+                "hp": 6474,
+                "level": 48
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 116,
+                "def": 489,
+                "hp": 6562,
+                "level": 49
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 117,
+                "def": 496,
+                "hp": 6649,
+                "level": 50
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 133,
+                "def": 563,
+                "hp": 7549,
+                "level": 51
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 135,
+                "def": 570,
+                "hp": 7637,
+                "level": 52
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 137,
+                "def": 576,
+                "hp": 7725,
+                "level": 53
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 138,
+                "def": 583,
+                "hp": 7813,
+                "level": 54
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 140,
+                "def": 589,
+                "hp": 7901,
+                "level": 55
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 141,
+                "def": 596,
+                "hp": 7989,
+                "level": 56
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 143,
+                "def": 602,
+                "hp": 8077,
+                "level": 57
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 144,
+                "def": 609,
+                "hp": 8165,
+                "level": 58
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 146,
+                "def": 616,
+                "hp": 8253,
+                "level": 59
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 147,
+                "def": 622,
+                "hp": 8341,
+                "level": 60
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 160,
+                "def": 674,
+                "hp": 9039,
+                "level": 61
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 161,
+                "def": 681,
+                "hp": 9127,
+                "level": 62
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 163,
+                "def": 687,
+                "hp": 9216,
+                "level": 63
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 164,
+                "def": 694,
+                "hp": 9304,
+                "level": 64
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 166,
+                "def": 701,
+                "hp": 9393,
+                "level": 65
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 168,
+                "def": 707,
+                "hp": 9482,
+                "level": 66
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 169,
+                "def": 714,
+                "hp": 9571,
+                "level": 67
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 171,
+                "def": 721,
+                "hp": 9660,
+                "level": 68
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 172,
+                "def": 727,
+                "hp": 9749,
+                "level": 69
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 174,
+                "def": 734,
+                "hp": 9838,
+                "level": 70
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 186,
+                "def": 786,
+                "hp": 10537,
+                "level": 71
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 188,
+                "def": 793,
+                "hp": 10627,
+                "level": 72
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 189,
+                "def": 799,
+                "hp": 10716,
+                "level": 73
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 191,
+                "def": 806,
+                "hp": 10805,
+                "level": 74
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 193,
+                "def": 813,
+                "hp": 10895,
+                "level": 75
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 194,
+                "def": 819,
+                "hp": 10984,
+                "level": 76
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 196,
+                "def": 826,
+                "hp": 11074,
+                "level": 77
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 197,
+                "def": 833,
+                "hp": 11164,
+                "level": 78
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 199,
+                "def": 840,
+                "hp": 11254,
+                "level": 79
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 200,
+                "def": 846,
+                "hp": 11345,
+                "level": 80
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 213,
+                "def": 898,
+                "hp": 12044,
+                "level": 81
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 214,
+                "def": 905,
+                "hp": 12134,
+                "level": 82
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 216,
+                "def": 912,
+                "hp": 12225,
+                "level": 83
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 218,
+                "def": 919,
+                "hp": 12315,
+                "level": 84
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 219,
+                "def": 925,
+                "hp": 12405,
+                "level": 85
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 221,
+                "def": 932,
+                "hp": 12496,
+                "level": 86
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 222,
+                "def": 939,
+                "hp": 12586,
+                "level": 87
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 224,
+                "def": 946,
+                "hp": 12677,
+                "level": 88
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 226,
+                "def": 952,
+                "hp": 12768,
+                "level": 89
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 227,
+                "def": 959,
+                "hp": 12858,
+                "level": 90
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 253,
+                "def": 993,
+                "hp": 13315,
+                "level": 95
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 278,
+                "def": 1027,
+                "hp": 13772,
+                "level": 100
+            }
+        ],
+        "birthday": "June 1st",
+        "constellation": "天牛座",
+        "description": "活跃在稻妻城花见坂的「荒泷派」初代目头领。什么，从没听说过荒泷派？你是想找茬吗？",
+        "element": "Geo",
+        "name": "荒泷一斗",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_CLAYMORE"
+    },
+    "passives": {
+        "p1": {
+            "description": "荒泷一斗施展连续的「荒泷逆袈裟」时，获得以下效果：\\n·每次斩击都将使接下来的斩击攻击速度提升10%，通过这种方法至多提升30%；\\n·提升抗打断能力。\\n\\n这些效果将在连续施展结束时消失。",
+            "icon": "UI_Talent_S_Itto_05",
+            "name": "荒泷第一"
+        },
+        "p2": {
+            "description": "「荒泷逆袈裟」造成的伤害提高，伤害提高值基于荒泷一斗防御力的35%。",
+            "icon": "UI_Talent_S_Itto_06",
+            "name": "赤鬼之血"
+        },
+        "p3": {
+            "description": "队伍中自己的角色通过攻击树木获取木材时，有25%的几率获得额外的木材。",
+            "icon": "UI_Talent_S_Itto_07",
+            "name": "干裂枝碎"
+        },
+        "p4": {
+            "description": "(test)已废弃",
+            "icon": "",
+            "name": "(test)已废弃"
+        }
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "是时候展现荒泷派的一斗之威名了！在接下来的一段时间内化身「怒目鬼王」，使用鬼王金碎棒战斗。\\n具有如下特性：\\n·普通攻击、重击与下落攻击造成的伤害转为无法被附魔覆盖的<color=#FFE699FF>岩元素伤害</color>；\\n·提高荒泷一斗普通攻击的攻击速度，并基于其防御力，提高攻击力；\\n·第一与第三段攻击在命中敌人时，将为荒泷一斗自己提供1层「乱神之怪力」效果；\\n·荒泷一斗的所有元素抗性与物理抗性降低20%。\\n\\n「怒目鬼王」状态将在荒泷一斗退场时解除。\\n\\n<i>一斗奥义中的奥义（自称）。为了变强去模仿其他东西没有意义，因为世界上最强最恶的鬼王即「荒泷一斗」是也。那一斗只要去模仿一斗就可以了！</i>\\n<i>翔太觉得很帅。</i>",
+            "icon": "Skill_E_Itto_01",
+            "multipliers": {
+                "元素能量": [
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70"
+                ],
+                "冷却时间": [
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒"
+                ],
+                "持续时间": [
+                    "11秒",
+                    "11秒",
+                    "11秒",
+                    "11秒",
+                    "11秒",
+                    "11秒",
+                    "11秒",
+                    "11秒",
+                    "11秒",
+                    "11秒",
+                    "11秒",
+                    "11秒",
+                    "11秒",
+                    "11秒",
+                    "11秒"
+                ],
+                "攻击力提高": [
+                    "57.6%防御力",
+                    "61.92%防御力",
+                    "66.24%防御力",
+                    "72%防御力",
+                    "76.32%防御力",
+                    "80.64%防御力",
+                    "86.4%防御力",
+                    "92.16%防御力",
+                    "97.92%防御力",
+                    "103.68%防御力",
+                    "109.44%防御力",
+                    "115.2%防御力",
+                    "122.4%防御力",
+                    "129.6%防御力",
+                    "136.8%防御力"
+                ],
+                "攻击速度提高": [
+                    "10%",
+                    "10%",
+                    "10%",
+                    "10%",
+                    "10%",
+                    "10%",
+                    "10%",
+                    "10%",
+                    "10%",
+                    "10%",
+                    "10%",
+                    "10%",
+                    "10%",
+                    "10%",
+                    "10%"
+                ]
+            },
+            "name": "最恶鬼王·一斗轰临！！"
+        },
+        "elementalskill": {
+            "description": "将荒泷派编外成员小赤牛「阿丑」高速投掷出去，对命中的敌人造成<color=#FFE699FF>岩元素伤害</color>！「阿丑」命中敌人时，会为荒泷一斗提供1层「乱神之怪力」效果。\\n\\n「阿丑」会留在场上提供支援：\\n·持续嘲讽周围的敌人，吸引火力；\\n·耐久度按比例继承荒泷一斗的生命值上限；\\n·受到伤害时，会为荒泷一斗自己提供1层「乱神之怪力」效果。每2秒至多通过这种方式提供1层；\\n·耐久度耗尽或持续时间结束时会逃走，并在离开时为荒泷一斗自己提供1层「乱神之怪力」效果。\\n\\n<color=#FFD780FF>长按</color>\\n调整投掷方向。\\n\\n「阿丑」被视为<color=#FFE699FF>岩元素创造物</color>；同时只能存在一个由荒泷一斗自己召唤的「阿丑」。\\n\\n<i>招式名字出自小说《鬼武道》（著者·顺吉），但是照搬原文「鬼杀绝技」似乎有点版权问题，而且一斗是「鬼」啊。</i>",
+            "icon": "Skill_S_Itto_01",
+            "multipliers": {
+                "冷却时间": [
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒"
+                ],
+                "技能伤害": [
+                    "307.2%",
+                    "330.24%",
+                    "353.28%",
+                    "384%",
+                    "407.04%",
+                    "430.08%",
+                    "460.8%",
+                    "491.52%",
+                    "522.24%",
+                    "552.96%",
+                    "583.68%",
+                    "614.4%",
+                    "652.8%",
+                    "691.2%",
+                    "729.6%"
+                ],
+                "持续时间": [
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒"
+                ],
+                "继承生命": [
+                    "100%",
+                    "100%",
+                    "100%",
+                    "100%",
+                    "100%",
+                    "100%",
+                    "100%",
+                    "100%",
+                    "100%",
+                    "100%",
+                    "100%",
+                    "100%",
+                    "100%",
+                    "100%",
+                    "100%"
+                ]
+            },
+            "name": "魔杀绝技·赤牛发破！"
+        },
+        "leveling": {
+            "books": {
+                "104323": 9,
+                "104324": 63,
+                "104325": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113027": 18
+            },
+            "worldmonster": {
+                "112002": 18,
+                "112003": 66,
+                "112004": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>普通攻击</color>\\n进行至多四段的连续挥砍。\\n在第二段与第四段攻击命中敌人时，会分别产生1层与2层「乱神之怪力」效果。\\n最多拥有5层乱神之怪力，每次触发都会刷新已有的乱神之怪力持续时间。\\n\\n此外，施放元素战技「魔杀绝技·赤牛发破！」或进行冲刺后的一小段时间内，普通攻击连击段数不会重置。\\n\\n<color=#FFD780FF>重击</color>\\n长按进行重击时，若拥有乱神之怪力，将进行不消耗体力的「荒泷逆袈裟」斩击。荒泷逆袈裟的每次攻击都将消耗一层乱神之怪力；消耗最后一层时，将施展格外强力的终结一击。\\n没有乱神之怪力时，将消耗体力，进行一次猛烈的左一文字斩。\\n\\n<color=#FFD780FF>下落攻击</color>\\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+            "icon": "Skill_A_04",
+            "multipliers": {
+                "一段伤害": [
+                    "79.23%",
+                    "85.68%",
+                    "92.13%",
+                    "101.34%",
+                    "107.79%",
+                    "115.16%",
+                    "125.3%",
+                    "135.43%",
+                    "145.57%",
+                    "156.62%",
+                    "169.29%",
+                    "184.19%",
+                    "199.08%",
+                    "213.98%",
+                    "230.23%"
+                ],
+                "三段伤害": [
+                    "91.64%",
+                    "99.1%",
+                    "106.56%",
+                    "117.22%",
+                    "124.68%",
+                    "133.2%",
+                    "144.92%",
+                    "156.64%",
+                    "168.36%",
+                    "181.15%",
+                    "195.8%",
+                    "213.03%",
+                    "230.27%",
+                    "247.5%",
+                    "266.29%"
+                ],
+                "下坠期间伤害": [
+                    "81.83%",
+                    "88.49%",
+                    "95.16%",
+                    "104.67%",
+                    "111.33%",
+                    "118.94%",
+                    "129.41%",
+                    "139.88%",
+                    "150.35%",
+                    "161.76%",
+                    "173.18%",
+                    "184.6%",
+                    "196.02%",
+                    "207.44%",
+                    "218.86%"
+                ],
+                "乱神之怪力持续时间": [
+                    "60秒",
+                    "60秒",
+                    "60秒",
+                    "60秒",
+                    "60秒",
+                    "60秒",
+                    "60秒",
+                    "60秒",
+                    "60秒",
+                    "60秒",
+                    "60秒",
+                    "60秒",
+                    "60秒",
+                    "60秒",
+                    "60秒"
+                ],
+                "二段伤害": [
+                    "76.37%",
+                    "82.58%",
+                    "88.8%",
+                    "97.68%",
+                    "103.9%",
+                    "111%",
+                    "120.77%",
+                    "130.54%",
+                    "140.3%",
+                    "150.96%",
+                    "163.17%",
+                    "177.53%",
+                    "191.89%",
+                    "206.25%",
+                    "221.91%"
+                ],
+                "低空/高空坠地冲击伤害": [
+                    "163.63%/204.39%",
+                    "176.95%/221.02%",
+                    "190.27%/237.66%",
+                    "209.3%/261.42%",
+                    "222.62%/278.06%",
+                    "237.84%/297.07%",
+                    "258.77%/323.21%",
+                    "279.7%/349.36%",
+                    "300.63%/375.5%",
+                    "323.46%/404.02%",
+                    "346.29%/432.54%",
+                    "369.12%/461.06%",
+                    "391.96%/489.57%",
+                    "414.79%/518.09%",
+                    "437.62%/546.61%"
+                ],
+                "四段伤害": [
+                    "117.22%",
+                    "126.77%",
+                    "136.31%",
+                    "149.94%",
+                    "159.48%",
+                    "170.39%",
+                    "185.38%",
+                    "200.37%",
+                    "215.37%",
+                    "231.72%",
+                    "250.47%",
+                    "272.51%",
+                    "294.55%",
+                    "316.59%",
+                    "340.63%"
+                ],
+                "左一文字斩伤害": [
+                    "90.47%",
+                    "97.84%",
+                    "105.2%",
+                    "115.72%",
+                    "123.08%",
+                    "131.5%",
+                    "143.07%",
+                    "154.64%",
+                    "166.22%",
+                    "178.84%",
+                    "193.31%",
+                    "210.32%",
+                    "227.33%",
+                    "244.34%",
+                    "262.89%"
+                ],
+                "左一文字斩体力消耗": [
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点",
+                    "20点"
+                ],
+                "荒泷逆袈裟终结伤害": [
+                    "190.92%",
+                    "206.46%",
+                    "222%",
+                    "244.2%",
+                    "259.74%",
+                    "277.5%",
+                    "301.92%",
+                    "326.34%",
+                    "350.76%",
+                    "377.4%",
+                    "407.92%",
+                    "443.82%",
+                    "479.72%",
+                    "515.62%",
+                    "554.78%"
+                ],
+                "荒泷逆袈裟连斩伤害": [
+                    "91.16%",
+                    "98.58%",
+                    "106%",
+                    "116.6%",
+                    "124.02%",
+                    "132.5%",
+                    "144.16%",
+                    "155.82%",
+                    "167.48%",
+                    "180.2%",
+                    "194.77%",
+                    "211.92%",
+                    "229.06%",
+                    "246.2%",
+                    "264.89%"
+                ]
+            },
+            "name": "喧哗屋传说"
+        }
+    }
+}

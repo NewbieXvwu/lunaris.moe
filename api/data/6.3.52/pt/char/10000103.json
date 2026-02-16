@@ -1,0 +1,1393 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104171": 1,
+            "104172": 9,
+            "104173": 9,
+            "104174": 6
+        },
+        "elitemonster": {
+            "113066": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101248": 168
+        },
+        "worldmonster": {
+            "112104": 18,
+            "112105": 30,
+            "112106": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: SkateAttack (!)",
+            "name": "NyxState_Attack",
+            "poise": "LV2/52"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: SkateAttack (!)",
+            "name": "NyxState_Attack",
+            "poise": "LV2/51"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: SkateAttack (!)",
+            "name": "NyxState_Attack",
+            "poise": "LV2/62"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: SkateAttack (!)",
+            "name": "NyxState_Attack",
+            "poise": "LV5/81"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "Rock",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Bullet",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Gadget_DamageField",
+            "poise": "LV3/75"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Gadget_DamageField",
+            "poise": "LV3/75"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Gadget_DamageField",
+            "poise": "LV3/75"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Gadget_DamageField",
+            "poise": "LV4/75"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Reduz o consumo de pontos de Espírito da Noite e de Flogisto do estado Bênção do Espírito da Noite de Xilonen em 30%, e prolonga a duração dos pontos de Espírito da Noite em 45%.\\nAlém disso, quando ativa Amostra da Origem de Xilonen, aumenta RES contra Interrupção dos membros próximos ativos da equipe.",
+            "icon": "UI_Talent_S_Xilonen_01",
+            "name": "Férias Sabáticas"
+        },
+        "const2": {
+            "description": "A Amostra <color=#FFE699FF>Geo</color> de Xilonen ficará ativa do começo ao fim. Além disso, ao ativar Amostra da Origem de Xilonen, todos os personagens de mesmo Tipo Elemental que o Tipo Elemental da Amostra da Origem obtêm os seguintes efeitos:\\n· <color=#FFE699FF>Geo</color>: aumenta o Dano causado em 50%;\\n·<color=#FF9999FF>Pyro</color>: aumenta o ATQ em 45%.\\n·<color=#80C0FFFF>Hydro</color>: aumenta a Vida Máxima em 45%;\\n·<color=#99FFFFFF>Cryo</color> aumenta o Dano CRIT em 60%;\\n·<color=#FFACFFFF>Electro</color>: regenera 25 de Energia Elemental, e reduz a recarga do Supremo em 6s.",
+            "icon": "UI_Talent_S_Xilonen_02",
+            "name": "Mix Chiucue"
+        },
+        "const3": {
+            "description": "Aumenta o nível do <color=#FFD780FF>Arranhão de Yohual</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Xilonen_01",
+            "name": "Patrulha de Tonalpuhualli"
+        },
+        "const4": {
+            "description": "Depois que Xilonen lançar <color=#FFD780FF>Arranhão de Yohual</color>, aplica em todos os membros próximos da equipe o efeito \"Bênção Gloriosa\" por 15s.\\nPersonagens que possuem \"Bênção Gloriosa\" ganham um aumento de Dano em seus Ataques Normal, Carregados e Imersivos de 65% da DEF de Xilonen. Esse efeito é removido depois de surtir efeito 6 vezes ou quando a duração acabar.\\nAo atingir mais de um inimigo simultaneamente, consumirá vezes de surtimento de efeito de acordo com a quantidade de inimigos atingida. A contagem de surtimentos de efeitos é contada separadamente para os personagens da equipe que possuem \"Bênção Gloriosa\".",
+            "icon": "UI_Talent_S_Xilonen_03",
+            "name": "Sonho de Suchitl"
+        },
+        "const5": {
+            "description": "Aumenta o nível do <color=#FFD780FF>Ritmo Ocelotlicue!</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Xilonen_02",
+            "name": "Estilo de Tlaltecuhtli"
+        },
+        "const6": {
+            "description": "Quando Xilonen está no estado de Bênção do Espírito da Noite, ao correr, saltar ou usar Ataques Normais, ou Imersivos, ela ganhará a Bênção da Noite Eterna, ignorando as limitações de seu estado de Bênção do Espírito da Noite e aumentando o Dano causado por seus Ataques Normais e Imersivos por 5s.\\nDurante esse tempo:\\n· O cronômetro de limite de tempo da Bênção do Espírito da Noite será pausado. Os pontos de Espírito da Noite de Xilonen, Flogisto e Stamina não diminuirão, e quando seus pontos de Espírito da Noite atingirem o máximo, seu estado de Bênção do Espírito da Noite também não terminará.\\n· Xilonen causa 300% de sua DEF como aumento de Dano de Ataque Normal e Imersivo enquanto estiver no estado de Bênção do Espírito da Noite.\\n· Ela cura os membros da equipe próximos em 120% de sua DEF a cada 1.5s.\\nEla pode ganhar 1 Bênção da Noite Eterna uma vez a cada 15s.",
+            "icon": "UI_Talent_S_Xilonen_04",
+            "name": "Carnaval da Noite Eterna"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.5s",
+            "chance": "100%",
+            "particles": "4",
+            "source": "ElementalArt_DropBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Xilonen",
+        "forward": "UI_AvatarIcon_Xilonen"
+    },
+    "info": {
+        "attributes": [
+            {
+                "DEF%": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 72,
+                "hp": 966,
+                "level": 1
+            },
+            {
+                "DEF%": "0",
+                "ascension": 0,
+                "atk": 23,
+                "def": 78,
+                "hp": 1046,
+                "level": 2
+            },
+            {
+                "DEF%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 84,
+                "hp": 1126,
+                "level": 3
+            },
+            {
+                "DEF%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 90,
+                "hp": 1207,
+                "level": 4
+            },
+            {
+                "DEF%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 97,
+                "hp": 1287,
+                "level": 5
+            },
+            {
+                "DEF%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 103,
+                "hp": 1368,
+                "level": 6
+            },
+            {
+                "DEF%": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 109,
+                "hp": 1449,
+                "level": 7
+            },
+            {
+                "DEF%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 115,
+                "hp": 1530,
+                "level": 8
+            },
+            {
+                "DEF%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 121,
+                "hp": 1611,
+                "level": 9
+            },
+            {
+                "DEF%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 127,
+                "hp": 1691,
+                "level": 10
+            },
+            {
+                "DEF%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 133,
+                "hp": 1772,
+                "level": 11
+            },
+            {
+                "DEF%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 139,
+                "hp": 1853,
+                "level": 12
+            },
+            {
+                "DEF%": "0",
+                "ascension": 0,
+                "atk": 43,
+                "def": 145,
+                "hp": 1934,
+                "level": 13
+            },
+            {
+                "DEF%": "0",
+                "ascension": 0,
+                "atk": 45,
+                "def": 151,
+                "hp": 2016,
+                "level": 14
+            },
+            {
+                "DEF%": "0",
+                "ascension": 0,
+                "atk": 47,
+                "def": 157,
+                "hp": 2098,
+                "level": 15
+            },
+            {
+                "DEF%": "0",
+                "ascension": 0,
+                "atk": 48,
+                "def": 163,
+                "hp": 2179,
+                "level": 16
+            },
+            {
+                "DEF%": "0",
+                "ascension": 0,
+                "atk": 50,
+                "def": 169,
+                "hp": 2261,
+                "level": 17
+            },
+            {
+                "DEF%": "0",
+                "ascension": 0,
+                "atk": 52,
+                "def": 176,
+                "hp": 2342,
+                "level": 18
+            },
+            {
+                "DEF%": "0",
+                "ascension": 0,
+                "atk": 54,
+                "def": 182,
+                "hp": 2424,
+                "level": 19
+            },
+            {
+                "DEF%": "0",
+                "ascension": 0,
+                "atk": 56,
+                "def": 188,
+                "hp": 2505,
+                "level": 20
+            },
+            {
+                "DEF%": "0",
+                "ascension": 1,
+                "atk": 76,
+                "def": 256,
+                "hp": 3415,
+                "level": 21
+            },
+            {
+                "DEF%": "0",
+                "ascension": 1,
+                "atk": 78,
+                "def": 262,
+                "hp": 3497,
+                "level": 22
+            },
+            {
+                "DEF%": "0",
+                "ascension": 1,
+                "atk": 79,
+                "def": 268,
+                "hp": 3579,
+                "level": 23
+            },
+            {
+                "DEF%": "0",
+                "ascension": 1,
+                "atk": 81,
+                "def": 274,
+                "hp": 3661,
+                "level": 24
+            },
+            {
+                "DEF%": "0",
+                "ascension": 1,
+                "atk": 83,
+                "def": 281,
+                "hp": 3743,
+                "level": 25
+            },
+            {
+                "DEF%": "0",
+                "ascension": 1,
+                "atk": 85,
+                "def": 287,
+                "hp": 3827,
+                "level": 26
+            },
+            {
+                "DEF%": "0",
+                "ascension": 1,
+                "atk": 87,
+                "def": 293,
+                "hp": 3909,
+                "level": 27
+            },
+            {
+                "DEF%": "0",
+                "ascension": 1,
+                "atk": 88,
+                "def": 299,
+                "hp": 3991,
+                "level": 28
+            },
+            {
+                "DEF%": "0",
+                "ascension": 1,
+                "atk": 90,
+                "def": 305,
+                "hp": 4074,
+                "level": 29
+            },
+            {
+                "DEF%": "0",
+                "ascension": 1,
+                "atk": 92,
+                "def": 312,
+                "hp": 4156,
+                "level": 30
+            },
+            {
+                "DEF%": "0",
+                "ascension": 1,
+                "atk": 94,
+                "def": 318,
+                "hp": 4239,
+                "level": 31
+            },
+            {
+                "DEF%": "0",
+                "ascension": 1,
+                "atk": 96,
+                "def": 324,
+                "hp": 4322,
+                "level": 32
+            },
+            {
+                "DEF%": "0",
+                "ascension": 1,
+                "atk": 98,
+                "def": 330,
+                "hp": 4405,
+                "level": 33
+            },
+            {
+                "DEF%": "0",
+                "ascension": 1,
+                "atk": 99,
+                "def": 336,
+                "hp": 4487,
+                "level": 34
+            },
+            {
+                "DEF%": "0",
+                "ascension": 1,
+                "atk": 101,
+                "def": 343,
+                "hp": 4570,
+                "level": 35
+            },
+            {
+                "DEF%": "0",
+                "ascension": 1,
+                "atk": 103,
+                "def": 349,
+                "hp": 4654,
+                "level": 36
+            },
+            {
+                "DEF%": "0",
+                "ascension": 1,
+                "atk": 105,
+                "def": 355,
+                "hp": 4737,
+                "level": 37
+            },
+            {
+                "DEF%": "0",
+                "ascension": 1,
+                "atk": 107,
+                "def": 361,
+                "hp": 4820,
+                "level": 38
+            },
+            {
+                "DEF%": "0",
+                "ascension": 1,
+                "atk": 109,
+                "def": 368,
+                "hp": 4903,
+                "level": 39
+            },
+            {
+                "DEF%": "0",
+                "ascension": 1,
+                "atk": 111,
+                "def": 374,
+                "hp": 4987,
+                "level": 40
+            },
+            {
+                "DEF%": "9",
+                "ascension": 2,
+                "atk": 125,
+                "def": 424,
+                "hp": 5659,
+                "level": 41
+            },
+            {
+                "DEF%": "9",
+                "ascension": 2,
+                "atk": 127,
+                "def": 431,
+                "hp": 5743,
+                "level": 42
+            },
+            {
+                "DEF%": "9",
+                "ascension": 2,
+                "atk": 129,
+                "def": 437,
+                "hp": 5827,
+                "level": 43
+            },
+            {
+                "DEF%": "9",
+                "ascension": 2,
+                "atk": 131,
+                "def": 443,
+                "hp": 5910,
+                "level": 44
+            },
+            {
+                "DEF%": "9",
+                "ascension": 2,
+                "atk": 133,
+                "def": 449,
+                "hp": 5994,
+                "level": 45
+            },
+            {
+                "DEF%": "9",
+                "ascension": 2,
+                "atk": 135,
+                "def": 456,
+                "hp": 6078,
+                "level": 46
+            },
+            {
+                "DEF%": "9",
+                "ascension": 2,
+                "atk": 137,
+                "def": 462,
+                "hp": 6162,
+                "level": 47
+            },
+            {
+                "DEF%": "9",
+                "ascension": 2,
+                "atk": 138,
+                "def": 468,
+                "hp": 6246,
+                "level": 48
+            },
+            {
+                "DEF%": "9",
+                "ascension": 2,
+                "atk": 140,
+                "def": 475,
+                "hp": 6331,
+                "level": 49
+            },
+            {
+                "DEF%": "9",
+                "ascension": 2,
+                "atk": 142,
+                "def": 481,
+                "hp": 6415,
+                "level": 50
+            },
+            {
+                "DEF%": "18",
+                "ascension": 3,
+                "atk": 161,
+                "def": 546,
+                "hp": 7283,
+                "level": 51
+            },
+            {
+                "DEF%": "18",
+                "ascension": 3,
+                "atk": 163,
+                "def": 552,
+                "hp": 7368,
+                "level": 52
+            },
+            {
+                "DEF%": "18",
+                "ascension": 3,
+                "atk": 165,
+                "def": 559,
+                "hp": 7452,
+                "level": 53
+            },
+            {
+                "DEF%": "18",
+                "ascension": 3,
+                "atk": 167,
+                "def": 565,
+                "hp": 7537,
+                "level": 54
+            },
+            {
+                "DEF%": "18",
+                "ascension": 3,
+                "atk": 169,
+                "def": 571,
+                "hp": 7622,
+                "level": 55
+            },
+            {
+                "DEF%": "18",
+                "ascension": 3,
+                "atk": 171,
+                "def": 578,
+                "hp": 7707,
+                "level": 56
+            },
+            {
+                "DEF%": "18",
+                "ascension": 3,
+                "atk": 173,
+                "def": 584,
+                "hp": 7792,
+                "level": 57
+            },
+            {
+                "DEF%": "18",
+                "ascension": 3,
+                "atk": 175,
+                "def": 591,
+                "hp": 7877,
+                "level": 58
+            },
+            {
+                "DEF%": "18",
+                "ascension": 3,
+                "atk": 177,
+                "def": 597,
+                "hp": 7962,
+                "level": 59
+            },
+            {
+                "DEF%": "18",
+                "ascension": 3,
+                "atk": 178,
+                "def": 603,
+                "hp": 8047,
+                "level": 60
+            },
+            {
+                "DEF%": "18",
+                "ascension": 4,
+                "atk": 193,
+                "def": 654,
+                "hp": 8721,
+                "level": 61
+            },
+            {
+                "DEF%": "18",
+                "ascension": 4,
+                "atk": 195,
+                "def": 660,
+                "hp": 8805,
+                "level": 62
+            },
+            {
+                "DEF%": "18",
+                "ascension": 4,
+                "atk": 197,
+                "def": 667,
+                "hp": 8891,
+                "level": 63
+            },
+            {
+                "DEF%": "18",
+                "ascension": 4,
+                "atk": 199,
+                "def": 673,
+                "hp": 8976,
+                "level": 64
+            },
+            {
+                "DEF%": "18",
+                "ascension": 4,
+                "atk": 201,
+                "def": 679,
+                "hp": 9062,
+                "level": 65
+            },
+            {
+                "DEF%": "18",
+                "ascension": 4,
+                "atk": 203,
+                "def": 686,
+                "hp": 9148,
+                "level": 66
+            },
+            {
+                "DEF%": "18",
+                "ascension": 4,
+                "atk": 205,
+                "def": 692,
+                "hp": 9233,
+                "level": 67
+            },
+            {
+                "DEF%": "18",
+                "ascension": 4,
+                "atk": 207,
+                "def": 699,
+                "hp": 9319,
+                "level": 68
+            },
+            {
+                "DEF%": "18",
+                "ascension": 4,
+                "atk": 209,
+                "def": 705,
+                "hp": 9405,
+                "level": 69
+            },
+            {
+                "DEF%": "18",
+                "ascension": 4,
+                "atk": 210,
+                "def": 712,
+                "hp": 9491,
+                "level": 70
+            },
+            {
+                "DEF%": "27",
+                "ascension": 5,
+                "atk": 225,
+                "def": 762,
+                "hp": 10165,
+                "level": 71
+            },
+            {
+                "DEF%": "27",
+                "ascension": 5,
+                "atk": 227,
+                "def": 769,
+                "hp": 10252,
+                "level": 72
+            },
+            {
+                "DEF%": "27",
+                "ascension": 5,
+                "atk": 229,
+                "def": 775,
+                "hp": 10338,
+                "level": 73
+            },
+            {
+                "DEF%": "27",
+                "ascension": 5,
+                "atk": 231,
+                "def": 781,
+                "hp": 10424,
+                "level": 74
+            },
+            {
+                "DEF%": "27",
+                "ascension": 5,
+                "atk": 233,
+                "def": 788,
+                "hp": 10511,
+                "level": 75
+            },
+            {
+                "DEF%": "27",
+                "ascension": 5,
+                "atk": 235,
+                "def": 794,
+                "hp": 10597,
+                "level": 76
+            },
+            {
+                "DEF%": "27",
+                "ascension": 5,
+                "atk": 237,
+                "def": 801,
+                "hp": 10684,
+                "level": 77
+            },
+            {
+                "DEF%": "27",
+                "ascension": 5,
+                "atk": 239,
+                "def": 807,
+                "hp": 10771,
+                "level": 78
+            },
+            {
+                "DEF%": "27",
+                "ascension": 5,
+                "atk": 241,
+                "def": 814,
+                "hp": 10858,
+                "level": 79
+            },
+            {
+                "DEF%": "27",
+                "ascension": 5,
+                "atk": 243,
+                "def": 820,
+                "hp": 10945,
+                "level": 80
+            },
+            {
+                "DEF%": "36",
+                "ascension": 6,
+                "atk": 258,
+                "def": 871,
+                "hp": 11620,
+                "level": 81
+            },
+            {
+                "DEF%": "36",
+                "ascension": 6,
+                "atk": 260,
+                "def": 878,
+                "hp": 11707,
+                "level": 82
+            },
+            {
+                "DEF%": "36",
+                "ascension": 6,
+                "atk": 262,
+                "def": 884,
+                "hp": 11794,
+                "level": 83
+            },
+            {
+                "DEF%": "36",
+                "ascension": 6,
+                "atk": 263,
+                "def": 891,
+                "hp": 11881,
+                "level": 84
+            },
+            {
+                "DEF%": "36",
+                "ascension": 6,
+                "atk": 265,
+                "def": 897,
+                "hp": 11968,
+                "level": 85
+            },
+            {
+                "DEF%": "36",
+                "ascension": 6,
+                "atk": 267,
+                "def": 904,
+                "hp": 12056,
+                "level": 86
+            },
+            {
+                "DEF%": "36",
+                "ascension": 6,
+                "atk": 269,
+                "def": 910,
+                "hp": 12142,
+                "level": 87
+            },
+            {
+                "DEF%": "36",
+                "ascension": 6,
+                "atk": 271,
+                "def": 917,
+                "hp": 12230,
+                "level": 88
+            },
+            {
+                "DEF%": "36",
+                "ascension": 6,
+                "atk": 273,
+                "def": 923,
+                "hp": 12318,
+                "level": 89
+            },
+            {
+                "DEF%": "36",
+                "ascension": 6,
+                "atk": 275,
+                "def": 930,
+                "hp": 12405,
+                "level": 90
+            },
+            {
+                "DEF%": "36",
+                "ascension": 6,
+                "atk": 306,
+                "def": 963,
+                "hp": 12845,
+                "level": 95
+            },
+            {
+                "DEF%": "36",
+                "ascension": 6,
+                "atk": 337,
+                "def": 996,
+                "hp": 13287,
+                "level": 100
+            }
+        ],
+        "birthday": "March 13th",
+        "constellation": "Panthera Ocelota",
+        "description": "Uma Forjadora de Nome de Nanatzcayan, ela é especialmente habilidosa em encontrar um bom equilíbrio entre as pesadas responsabilidades de seu trabalho e viver bem.",
+        "element": "Geo",
+        "name": "Xilonen",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_SWORD_ONE_HAND"
+    },
+    "passives": {
+        "p1": {
+            "description": "Enquanto estiver no estado de Bênção do Espírito da Noite:\\n· Se Xilonen tiver pelo menos 2 Amostras da Origem que tiveram Conversão Elemental, ela ganha 35 pontos de Espírito da Noite quando seus Ataques Normais ou Imersivos atingirem os oponentes. Pode ser ativado uma vez a cada 0.1s.\\n· Se Xilonen tiver menos de 2 Amostras da Origem que tiveram Conversão Elemental, seus Ataques Normais e Imersivos causam 30% a mais de Dano.",
+            "icon": "UI_Talent_S_Xilonen_05",
+            "name": "Ecos de Netotiliztli"
+        },
+        "p2": {
+            "description": "Quando está no estado Bênção do Espírito da Noite e quando os pontos de Espírito da Noite de Xilonen alcançam o valor máximo, desencadeia um efeito igual a Explosão do Espírito da Noite uma vez. Esse efeito pode ser desencadeado uma vez a cada 14s.\\nAlém disso, quando um membro próximo da equipe desencadeia Explosão do Espírito da Noite, aumenta a DEF de Xilonen em 20% por 15s.",
+            "icon": "UI_Talent_S_Xilonen_06",
+            "name": "Bainha Armada Portátil"
+        },
+        "p3": {
+            "description": "Depois que os pontos de Espírito da Noite de Xilonen acabarem, ela mudará para consumir Flogisto para manter a Bênção do Espírito da Noite.\\nEnquanto estiver numa área de Natlan com Dispositivos de Flogisto, ela pode usar Transmissão do Espírito da Noite: Xilonen. Quando o personagem ativo estiver correndo, escalando, sob um estado especial de movimento de um Talento ou em uma certa altura no ar, trocar para Xilonen como personagem ativa desencadeará: Xilonen entra no estado Bênção do Espírito da Noite e obtém 20 pontos de Espírito da Noite. Quando nessa situação, os pontos de Espírito da Noite de Xilonen possuem um limite de 4s. Depois de ultrapassarem esse tempo, os pontos de Espírito da Noite de Xilonen serão imediatamente exauridos. Depois de lançar <color=#FFD780FF>Arranhão de Yohual</color> dentro desse limite de tempo, o limite de tempo dos pontos de Espírito da Noite é estendido para 9s. Sua própria equipe pode entrar em Transmissão do Espírito da Noite uma vez a cada 10s.\\n\\nAlém disso, quando está em Natlan e no estado Bênção do Espírito da Noite, Xilonen não consumirá Stamina ao escalar.",
+            "icon": "UI_Talent_S_Xilonen_07",
+            "name": "Presente do Reino da Noite: Bênção das Chamas Forjadas"
+        },
+        "p4": {
+            "description": "Ativar Transmissão do Espírito da Noite regenera 15 de Flogisto.",
+            "icon": "UI_Talent_S_Xilonen_08",
+            "name": "Tour de Tepeilhuitl"
+        }
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Ativa o Mixer Estéreo de Flogisto (Edição Portátil) na potência máxima, causando <color=#FFE699FF>Dano Geo em AdE</color> com alinhamento de Espírito da Noite com base na DEF de Xilonen.\\n\\nAlém disso, desencadeia os seguintes efeitos com base nos tipos de Amostra da Origem:\\n· Quando possui pelo menos 2 Amostras da Origem que passaram por Conversão Elemental: Xilonen toca o ritmo \"Solta a Alegria\": regenera Vida para os personagens próximos ativos periodicamente, a quantidade regenerada é baseada na DEF de Xilonen.\\n· Ao possuir menos de 2 Amostras da Origem que passaram por Conversão Elemental: Xilonen toca o ritmo \"Pipoco\", solta duas batidas adicionais, causando <color=#FFE699FF>Dano Geo em AdE</color> com alinhamento de Espírito da Noite baseado na DEF de Xilonen.\\n\\n<i>\"Certo, vamos pausar aqui!\"\\n\"Tranquilo, gravei essas batidas. Vamos ver o que vai sair quando fizermos o mix dos ritmos, beleza?\"</i>",
+            "icon": "Skill_E_Xilonen_01",
+            "multipliers": {
+                "Cura Contínua": [
+                    "104% da DEF + 501",
+                    "111.8% da DEF + 551",
+                    "119.6% da DEF + 605",
+                    "130% da DEF + 664",
+                    "137.8% da DEF + 726",
+                    "145.6% da DEF + 793",
+                    "156% da DEF + 864",
+                    "166.4% da DEF + 939",
+                    "176.8% da DEF + 1018",
+                    "187.2% da DEF + 1102",
+                    "197.6% da DEF + 1189",
+                    "208% da DEF + 1281",
+                    "221% da DEF + 1377",
+                    "234% da DEF + 1477",
+                    "247% da DEF + 1582"
+                ],
+                "Dano da Batida Adicional": [
+                    "281.28% da DEF",
+                    "302.38% da DEF",
+                    "323.47% da DEF",
+                    "351.6% da DEF",
+                    "372.7% da DEF",
+                    "393.79% da DEF",
+                    "421.92% da DEF",
+                    "450.05% da DEF",
+                    "478.18% da DEF",
+                    "506.3% da DEF",
+                    "534.43% da DEF",
+                    "562.56% da DEF",
+                    "597.72% da DEF",
+                    "632.88% da DEF",
+                    "668.04% da DEF"
+                ],
+                "Dano de Habilidade": [
+                    "281.28% da DEF",
+                    "302.38% da DEF",
+                    "323.47% da DEF",
+                    "351.6% da DEF",
+                    "372.7% da DEF",
+                    "393.79% da DEF",
+                    "421.92% da DEF",
+                    "450.05% da DEF",
+                    "478.18% da DEF",
+                    "506.3% da DEF",
+                    "534.43% da DEF",
+                    "562.56% da DEF",
+                    "597.72% da DEF",
+                    "632.88% da DEF",
+                    "668.04% da DEF"
+                ],
+                "Duração do Ritmo Solta a Alegria": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "Energia Elemental": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "Tempo de Recarga": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ]
+            },
+            "name": "Ritmo Ocelotlicue!"
+        },
+        "elementalskill": {
+            "description": "Deixe os ritmos da paixão soarem pela terra! Xilonen troca para lâminas rápidas de combate e avança para frente, causando <color=#FFE699FF>Dano Geo</color> com alinhamento de Espírito da Noite baseado na DEF de Xilonen.\\nDepois de lançar, Xilonen obtém 45 pontos de Espírito da Noite e entra no estado Bênção do Espírito da Noite. Nesse estado, Xilonen troca para o modo Lâmina Giratória.\\n\\n<color=#FFD780FF>Amostra da Origem</color>\\nXilonen possui três Dispositivos de Amostra, e pode mostrar Notas diferentes com base nos Tipos Elementais dos membros da equipe, e ao ativar reduz a RES do Elemento correspondente do inimigo.\\nO início registrado dos três Dispositivos de Amostra é <color=#FFE699FF>Geo</color>, e para cada personagem <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#99FFFFFF>Cryo</color> ou <color=#FFACFFFF>Electro</color> na equipe, uma amostra <color=#FFE699FF>Geo</color> será convertida para o Tipo Elemental correspondente.\\nQuando está no estado Bênção do Espírito da Noite, a Amostra da Origem <color=#FFE699FF>Geo</color> que Xilonen carrega se manterá ativa do começo ao fim. Ao desbloquear o Talento de Ascensão \"Ecos de Netotiliztli\", Xilonen poderá regenerar seus pontos de Espírito da Noite através dos efeitos desse Talento de Ascensão. Quando seus pontos de Espírito da Noite alcançarem o máximo, Xilonen consome todos os pontos de Espírito da Noite e ativará as três Amostras da Origem de Xilonen por 15s.\\nQuando Amostra da Origem é ativada, reduz a RES dos Elementos correspondentes dos inimigos próximos. Efeitos de Amostras da Origem com Tipos Elementais iguais não acumulam. Esse efeito pode ser desencadeado quando Xilonen não é a personagem ativa.\\n\\n<color=#FFD780FF>Bênção do Espírito da Noite</color>\\nConsome pontos de Espírito da Noite continuamente. Quando os pontos de Espírito da Noite acabarem, ou quando lançar novamente, o estado Bênção do Espírito da Noite de Xilonen acabará. O estado Bênção do Espírito da Noite possui as seguintes características:\\n· Troca para o modo Lâmina Giratória, aumentando a Veloc. Mov. e Veloc. de Escalada de Xilonen. Ao escalar, pode usar sua forma de Ocelote para fazer um salto alto rápido.\\n· O estado Bênção do Espírito da Noite de Xilonen possui os seguintes limites: quando está nele, os pontos de Espírito da Noite de Xilonen possuem um limite de 9s. Ao ultrapassarem esse limite, serão imediatamente deduzidos.\\n\\nQuando está no estado Benção do Espírito da Noite e os pontos de Espírito da Noite acabarem, Xilonen não poderá gerar pontos de Espírito da Noite através do Talento de Ascensão \"Ecos de Netotiliztli\".\\n\\n<i>De certa forma, criar joias e fazer mix de música possuem princípios similares: filtrar as impurezas e reter só o que há de mais radiante\\nXilonen não é muito exigente para escolher isso nos dois. Ela gosta bastante!</i>",
+            "icon": "Skill_S_Xilonen_01",
+            "multipliers": {
+                "Dano de Investida": [
+                    "179.2% da DEF",
+                    "192.64% da DEF",
+                    "206.08% da DEF",
+                    "224% da DEF",
+                    "237.44% da DEF",
+                    "250.88% da DEF",
+                    "268.8% da DEF",
+                    "286.72% da DEF",
+                    "304.64% da DEF",
+                    "322.56% da DEF",
+                    "340.48% da DEF",
+                    "358.4% da DEF",
+                    "380.8% da DEF",
+                    "403.2% da DEF",
+                    "425.6% da DEF"
+                ],
+                "Diminuição de RES Elemental": [
+                    "9%",
+                    "12%",
+                    "15%",
+                    "18%",
+                    "21%",
+                    "24%",
+                    "27%",
+                    "30%",
+                    "33%",
+                    "36%",
+                    "39%",
+                    "42%",
+                    "45%",
+                    "48%",
+                    "51%"
+                ],
+                "Duração de Ativação da Amostra da Origem": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Limite de Pontos de Espírito da Noite": [
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90",
+                    "90"
+                ],
+                "Limite de Tempo de Pontos de Espírito da Noite": [
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s"
+                ],
+                "Tempo de Recarga": [
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s"
+                ]
+            },
+            "name": "Arranhão de Yohual"
+        },
+        "leveling": {
+            "books": {
+                "104350": 9,
+                "104351": 63,
+                "104352": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113042": 18
+            },
+            "worldmonster": {
+                "112104": 18,
+                "112105": 66,
+                "112106": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nFaz até 3 golpes consecutivos.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome uma certa quantidade de Stamina para fazer um chute em frente.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nSe lança do ar para atacar o chão, causando dano aos oponentes ao longo do caminho e causando Dano em AdE durante o impacto com base na DEF de Xilonen.\\n\\n<color=#FFD780FF>Estado Espírito da Noite: Lâmina Giratória</color>\\nQuando está no estado Bênção do Espírito da Noite, Xilonen troca para o modo Lâmina Giratória. Nesse estado, o Ataque Normal de Xilonen é convertido para Patins Cortantes, fazendo até 4 chutes consecutivos, e não podendo mais fazer Ataques Carregados.\\nNesse estado, ao fazer um Ataque Normal e Imersivo, converterá eles para causar <color=#FFE699FF>Dano Geo</color> que não pode ser substituído com alinhamento de Espírito da Noite e baseados na DEF de Xilonen.",
+            "icon": "Skill_A_01",
+            "multipliers": {
+                "Consumo de Stamina de Ataque Carregado": [
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20"
+                ],
+                "Dano Durante a Queda": [
+                    "63.93% da DEF",
+                    "69.14% da DEF",
+                    "74.34% da DEF",
+                    "81.77% da DEF",
+                    "86.98% da DEF",
+                    "92.93% da DEF",
+                    "101.1% da DEF",
+                    "109.28% da DEF",
+                    "117.46% da DEF",
+                    "126.38% da DEF",
+                    "135.3% da DEF",
+                    "144.22% da DEF",
+                    "153.14% da DEF",
+                    "162.06% da DEF",
+                    "170.98% da DEF"
+                ],
+                "Dano de Ataque Carregado": [
+                    "91.33%",
+                    "98.77%",
+                    "106.2%",
+                    "116.82%",
+                    "124.25%",
+                    "132.75%",
+                    "144.43%",
+                    "156.11%",
+                    "167.8%",
+                    "180.54%",
+                    "193.28%",
+                    "206.03%",
+                    "218.77%",
+                    "231.52%",
+                    "244.26%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "127.84% da DEF/159.68% da DEF",
+                    "138.24% da DEF/172.67% da DEF",
+                    "148.65% da DEF/185.67% da DEF",
+                    "163.51% da DEF/204.24% da DEF",
+                    "173.92% da DEF/217.23% da DEF",
+                    "185.81% da DEF/232.09% da DEF",
+                    "202.16% da DEF/252.51% da DEF",
+                    "218.51% da DEF/272.93% da DEF",
+                    "234.86% da DEF/293.36% da DEF",
+                    "252.7% da DEF/315.64% da DEF",
+                    "270.54% da DEF/337.92% da DEF",
+                    "288.38% da DEF/360.2% da DEF",
+                    "306.22% da DEF/382.48% da DEF",
+                    "324.05% da DEF/404.76% da DEF",
+                    "341.89% da DEF/427.04% da DEF"
+                ],
+                "Dano do 1° Golpe": [
+                    "51.79%",
+                    "56.01%",
+                    "60.22%",
+                    "66.25%",
+                    "70.46%",
+                    "75.28%",
+                    "81.9%",
+                    "88.53%",
+                    "95.15%",
+                    "102.38%",
+                    "109.61%",
+                    "116.83%",
+                    "124.06%",
+                    "131.29%",
+                    "138.51%"
+                ],
+                "Dano do 1° Golpe da Lâmina Giratória": [
+                    "56.02% da DEF",
+                    "60.58% da DEF",
+                    "65.14% da DEF",
+                    "71.66% da DEF",
+                    "76.22% da DEF",
+                    "81.43% da DEF",
+                    "88.59% da DEF",
+                    "95.76% da DEF",
+                    "102.92% da DEF",
+                    "110.74% da DEF",
+                    "118.56% da DEF",
+                    "126.38% da DEF",
+                    "134.19% da DEF",
+                    "142.01% da DEF",
+                    "149.83% da DEF"
+                ],
+                "Dano do 2° Golpe": [
+                    "27.37%+27.37%",
+                    "29.6%+29.6%",
+                    "31.83%+31.83%",
+                    "35.01%+35.01%",
+                    "37.24%+37.24%",
+                    "39.79%+39.79%",
+                    "43.29%+43.29%",
+                    "46.79%+46.79%",
+                    "50.29%+50.29%",
+                    "54.11%+54.11%",
+                    "57.93%+57.93%",
+                    "61.75%+61.75%",
+                    "65.57%+65.57%",
+                    "69.39%+69.39%",
+                    "73.21%+73.21%"
+                ],
+                "Dano do 2° Golpe da Lâmina Giratória": [
+                    "55.05% da DEF",
+                    "59.53% da DEF",
+                    "64.01% da DEF",
+                    "70.41% da DEF",
+                    "74.89% da DEF",
+                    "80.01% da DEF",
+                    "87.05% da DEF",
+                    "94.09% da DEF",
+                    "101.13% da DEF",
+                    "108.82% da DEF",
+                    "116.5% da DEF",
+                    "124.18% da DEF",
+                    "131.86% da DEF",
+                    "139.54% da DEF",
+                    "147.22% da DEF"
+                ],
+                "Dano do 3° Golpe": [
+                    "72.95%",
+                    "78.89%",
+                    "84.82%",
+                    "93.31%",
+                    "99.25%",
+                    "106.03%",
+                    "115.36%",
+                    "124.69%",
+                    "134.02%",
+                    "144.2%",
+                    "154.38%",
+                    "164.56%",
+                    "174.74%",
+                    "184.92%",
+                    "195.1%"
+                ],
+                "Dano do 3° Golpe da Lâmina Giratória": [
+                    "65.82% da DEF",
+                    "71.17% da DEF",
+                    "76.53% da DEF",
+                    "84.18% da DEF",
+                    "89.54% da DEF",
+                    "95.66% da DEF",
+                    "104.08% da DEF",
+                    "112.5% da DEF",
+                    "120.92% da DEF",
+                    "130.1% da DEF",
+                    "139.28% da DEF",
+                    "148.47% da DEF",
+                    "157.65% da DEF",
+                    "166.84% da DEF",
+                    "176.02% da DEF"
+                ],
+                "Dano do 4° Golpe da Lâmina Giratória": [
+                    "86.03% da DEF",
+                    "93.03% da DEF",
+                    "100.03% da DEF",
+                    "110.04% da DEF",
+                    "117.04% da DEF",
+                    "125.04% da DEF",
+                    "136.04% da DEF",
+                    "147.05% da DEF",
+                    "158.05% da DEF",
+                    "170.05% da DEF",
+                    "182.06% da DEF",
+                    "194.06% da DEF",
+                    "206.07% da DEF",
+                    "218.07% da DEF",
+                    "230.07% da DEF"
+                ]
+            },
+            "name": "Rugido de Ehecatl"
+        }
+    }
+}

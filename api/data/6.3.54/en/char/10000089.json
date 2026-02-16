@@ -1,0 +1,1442 @@
+{
+    "info": {
+        "name": "Furina",
+        "description": "The absolute focus of the stage of judgment, until the final applause sounds.",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_SWORD_ONE_HAND",
+        "birthday": "October 13th",
+        "element": "Hydro",
+        "constellation": "Animula Choragi",
+        "attributes": [
+            {
+                "level": 1,
+                "ascension": 0,
+                "hp": 1192,
+                "atk": 19,
+                "def": 54,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 2,
+                "ascension": 0,
+                "hp": 1291,
+                "atk": 21,
+                "def": 59,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 3,
+                "ascension": 0,
+                "hp": 1389,
+                "atk": 22,
+                "def": 63,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 4,
+                "ascension": 0,
+                "hp": 1490,
+                "atk": 24,
+                "def": 68,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 5,
+                "ascension": 0,
+                "hp": 1588,
+                "atk": 25,
+                "def": 72,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 6,
+                "ascension": 0,
+                "hp": 1689,
+                "atk": 27,
+                "def": 77,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 7,
+                "ascension": 0,
+                "hp": 1787,
+                "atk": 28,
+                "def": 81,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 8,
+                "ascension": 0,
+                "hp": 1888,
+                "atk": 30,
+                "def": 86,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 9,
+                "ascension": 0,
+                "hp": 1988,
+                "atk": 32,
+                "def": 90,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 10,
+                "ascension": 0,
+                "hp": 2087,
+                "atk": 33,
+                "def": 95,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 11,
+                "ascension": 0,
+                "hp": 2187,
+                "atk": 35,
+                "def": 99,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 12,
+                "ascension": 0,
+                "hp": 2287,
+                "atk": 36,
+                "def": 104,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 13,
+                "ascension": 0,
+                "hp": 2387,
+                "atk": 38,
+                "def": 108,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 14,
+                "ascension": 0,
+                "hp": 2488,
+                "atk": 40,
+                "def": 113,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 15,
+                "ascension": 0,
+                "hp": 2588,
+                "atk": 41,
+                "def": 118,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 16,
+                "ascension": 0,
+                "hp": 2688,
+                "atk": 43,
+                "def": 122,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 17,
+                "ascension": 0,
+                "hp": 2790,
+                "atk": 44,
+                "def": 127,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 18,
+                "ascension": 0,
+                "hp": 2890,
+                "atk": 46,
+                "def": 131,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 19,
+                "ascension": 0,
+                "hp": 2991,
+                "atk": 48,
+                "def": 136,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 20,
+                "ascension": 0,
+                "hp": 3091,
+                "atk": 49,
+                "def": 140,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 21,
+                "ascension": 1,
+                "hp": 4214,
+                "atk": 67,
+                "def": 191,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 22,
+                "ascension": 1,
+                "hp": 4315,
+                "atk": 69,
+                "def": 196,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 23,
+                "ascension": 1,
+                "hp": 4417,
+                "atk": 70,
+                "def": 201,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 24,
+                "ascension": 1,
+                "hp": 4518,
+                "atk": 72,
+                "def": 205,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 25,
+                "ascension": 1,
+                "hp": 4619,
+                "atk": 74,
+                "def": 210,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 26,
+                "ascension": 1,
+                "hp": 4722,
+                "atk": 75,
+                "def": 215,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 27,
+                "ascension": 1,
+                "hp": 4823,
+                "atk": 77,
+                "def": 219,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 28,
+                "ascension": 1,
+                "hp": 4924,
+                "atk": 78,
+                "def": 224,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 29,
+                "ascension": 1,
+                "hp": 5027,
+                "atk": 80,
+                "def": 228,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 30,
+                "ascension": 1,
+                "hp": 5128,
+                "atk": 82,
+                "def": 233,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 31,
+                "ascension": 1,
+                "hp": 5231,
+                "atk": 83,
+                "def": 238,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 32,
+                "ascension": 1,
+                "hp": 5333,
+                "atk": 85,
+                "def": 242,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 33,
+                "ascension": 1,
+                "hp": 5436,
+                "atk": 87,
+                "def": 247,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 34,
+                "ascension": 1,
+                "hp": 5537,
+                "atk": 88,
+                "def": 252,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 35,
+                "ascension": 1,
+                "hp": 5639,
+                "atk": 90,
+                "def": 256,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 36,
+                "ascension": 1,
+                "hp": 5743,
+                "atk": 92,
+                "def": 261,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 37,
+                "ascension": 1,
+                "hp": 5846,
+                "atk": 93,
+                "def": 266,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 38,
+                "ascension": 1,
+                "hp": 5948,
+                "atk": 95,
+                "def": 270,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 39,
+                "ascension": 1,
+                "hp": 6050,
+                "atk": 96,
+                "def": 275,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 40,
+                "ascension": 1,
+                "hp": 6154,
+                "atk": 98,
+                "def": 280,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 41,
+                "ascension": 2,
+                "hp": 6983,
+                "atk": 111,
+                "def": 317,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 42,
+                "ascension": 2,
+                "hp": 7086,
+                "atk": 113,
+                "def": 322,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 43,
+                "ascension": 2,
+                "hp": 7190,
+                "atk": 115,
+                "def": 327,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 44,
+                "ascension": 2,
+                "hp": 7292,
+                "atk": 116,
+                "def": 331,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 45,
+                "ascension": 2,
+                "hp": 7396,
+                "atk": 118,
+                "def": 336,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 46,
+                "ascension": 2,
+                "hp": 7500,
+                "atk": 120,
+                "def": 341,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 47,
+                "ascension": 2,
+                "hp": 7603,
+                "atk": 121,
+                "def": 345,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 48,
+                "ascension": 2,
+                "hp": 7707,
+                "atk": 123,
+                "def": 350,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 49,
+                "ascension": 2,
+                "hp": 7812,
+                "atk": 125,
+                "def": 355,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 50,
+                "ascension": 2,
+                "hp": 7916,
+                "atk": 126,
+                "def": 360,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 51,
+                "ascension": 3,
+                "hp": 8987,
+                "atk": 143,
+                "def": 408,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 52,
+                "ascension": 3,
+                "hp": 9092,
+                "atk": 145,
+                "def": 413,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 53,
+                "ascension": 3,
+                "hp": 9196,
+                "atk": 147,
+                "def": 418,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 54,
+                "ascension": 3,
+                "hp": 9301,
+                "atk": 148,
+                "def": 423,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 55,
+                "ascension": 3,
+                "hp": 9406,
+                "atk": 150,
+                "def": 427,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 56,
+                "ascension": 3,
+                "hp": 9510,
+                "atk": 152,
+                "def": 432,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 57,
+                "ascension": 3,
+                "hp": 9615,
+                "atk": 153,
+                "def": 437,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 58,
+                "ascension": 3,
+                "hp": 9720,
+                "atk": 155,
+                "def": 442,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 59,
+                "ascension": 3,
+                "hp": 9825,
+                "atk": 157,
+                "def": 446,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 60,
+                "ascension": 3,
+                "hp": 9930,
+                "atk": 158,
+                "def": 451,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 61,
+                "ascension": 4,
+                "hp": 10761,
+                "atk": 171,
+                "def": 489,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 62,
+                "ascension": 4,
+                "hp": 10866,
+                "atk": 173,
+                "def": 494,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 63,
+                "ascension": 4,
+                "hp": 10972,
+                "atk": 175,
+                "def": 499,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 64,
+                "ascension": 4,
+                "hp": 11077,
+                "atk": 177,
+                "def": 503,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 65,
+                "ascension": 4,
+                "hp": 11183,
+                "atk": 178,
+                "def": 508,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 66,
+                "ascension": 4,
+                "hp": 11289,
+                "atk": 180,
+                "def": 513,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 67,
+                "ascension": 4,
+                "hp": 11394,
+                "atk": 182,
+                "def": 518,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 68,
+                "ascension": 4,
+                "hp": 11500,
+                "atk": 183,
+                "def": 523,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 69,
+                "ascension": 4,
+                "hp": 11606,
+                "atk": 185,
+                "def": 527,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 70,
+                "ascension": 4,
+                "hp": 11712,
+                "atk": 187,
+                "def": 532,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 71,
+                "ascension": 5,
+                "hp": 12544,
+                "atk": 200,
+                "def": 570,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 72,
+                "ascension": 5,
+                "hp": 12651,
+                "atk": 202,
+                "def": 575,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 73,
+                "ascension": 5,
+                "hp": 12757,
+                "atk": 203,
+                "def": 580,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 74,
+                "ascension": 5,
+                "hp": 12863,
+                "atk": 205,
+                "def": 584,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 75,
+                "ascension": 5,
+                "hp": 12970,
+                "atk": 207,
+                "def": 589,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 76,
+                "ascension": 5,
+                "hp": 13076,
+                "atk": 208,
+                "def": 594,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 77,
+                "ascension": 5,
+                "hp": 13184,
+                "atk": 210,
+                "def": 599,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 78,
+                "ascension": 5,
+                "hp": 13291,
+                "atk": 212,
+                "def": 604,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 79,
+                "ascension": 5,
+                "hp": 13398,
+                "atk": 214,
+                "def": 609,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 80,
+                "ascension": 5,
+                "hp": 13505,
+                "atk": 215,
+                "def": 614,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 81,
+                "ascension": 6,
+                "hp": 14339,
+                "atk": 229,
+                "def": 652,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 82,
+                "ascension": 6,
+                "hp": 14446,
+                "atk": 230,
+                "def": 656,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 83,
+                "ascension": 6,
+                "hp": 14553,
+                "atk": 232,
+                "def": 661,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 84,
+                "ascension": 6,
+                "hp": 14660,
+                "atk": 234,
+                "def": 666,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 85,
+                "ascension": 6,
+                "hp": 14768,
+                "atk": 235,
+                "def": 671,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 86,
+                "ascension": 6,
+                "hp": 14876,
+                "atk": 237,
+                "def": 676,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 87,
+                "ascension": 6,
+                "hp": 14983,
+                "atk": 239,
+                "def": 681,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 88,
+                "ascension": 6,
+                "hp": 15092,
+                "atk": 241,
+                "def": 686,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 89,
+                "ascension": 6,
+                "hp": 15200,
+                "atk": 242,
+                "def": 691,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 90,
+                "ascension": 6,
+                "hp": 15307,
+                "atk": 244,
+                "def": 696,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 95,
+                "ascension": 6,
+                "hp": 15851,
+                "atk": 271,
+                "def": 720,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 100,
+                "ascension": 6,
+                "hp": 16395,
+                "atk": 299,
+                "def": 745,
+                "CRIT Rate%": "19.2"
+            }
+        ]
+    },
+    "icons": {
+        "forward": "UI_AvatarIcon_Furina",
+        "coop_img": "UI_CoopImg_Furina"
+    },
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101238": 168
+        },
+        "elemental": {
+            "104121": 1,
+            "104122": 9,
+            "104123": 9,
+            "104124": 6
+        },
+        "worldmonster": {
+            "112038": 18,
+            "112039": 30,
+            "112040": 36
+        },
+        "elitemonster": {
+            "113057": 46
+        }
+    },
+    "skills": {
+        "normalattack": {
+            "name": "Soloist's Solicitation",
+            "icon": "Skill_A_01",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "48.39%",
+                    "52.32%",
+                    "56.26%",
+                    "61.89%",
+                    "65.83%",
+                    "70.33%",
+                    "76.52%",
+                    "82.71%",
+                    "88.9%",
+                    "95.65%",
+                    "102.4%",
+                    "109.15%",
+                    "115.9%",
+                    "122.65%",
+                    "129.4%"
+                ],
+                "2-Hit DMG": [
+                    "43.73%",
+                    "47.29%",
+                    "50.85%",
+                    "55.93%",
+                    "59.49%",
+                    "63.56%",
+                    "69.15%",
+                    "74.75%",
+                    "80.34%",
+                    "86.44%",
+                    "92.54%",
+                    "98.65%",
+                    "104.75%",
+                    "110.85%",
+                    "116.95%"
+                ],
+                "3-Hit DMG": [
+                    "55.12%",
+                    "59.61%",
+                    "64.09%",
+                    "70.5%",
+                    "74.99%",
+                    "80.12%",
+                    "87.17%",
+                    "94.22%",
+                    "101.27%",
+                    "108.96%",
+                    "116.65%",
+                    "124.34%",
+                    "132.03%",
+                    "139.72%",
+                    "147.41%"
+                ],
+                "4-Hit DMG": [
+                    "73.3%",
+                    "79.26%",
+                    "85.23%",
+                    "93.75%",
+                    "99.72%",
+                    "106.54%",
+                    "115.91%",
+                    "125.29%",
+                    "134.66%",
+                    "144.89%",
+                    "155.12%",
+                    "165.35%",
+                    "175.57%",
+                    "185.8%",
+                    "196.03%"
+                ],
+                "Charged Attack DMG": [
+                    "74.22%",
+                    "80.26%",
+                    "86.3%",
+                    "94.93%",
+                    "100.97%",
+                    "107.88%",
+                    "117.37%",
+                    "126.86%",
+                    "136.35%",
+                    "146.71%",
+                    "157.07%",
+                    "167.42%",
+                    "177.78%",
+                    "188.13%",
+                    "198.49%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20"
+                ],
+                "Plunge DMG": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ],
+                "Low/High Plunge DMG": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Spiritbreath Thorn/Surging Blade DMG": [
+                    "9.46%",
+                    "10.23%",
+                    "11%",
+                    "12.1%",
+                    "12.87%",
+                    "13.75%",
+                    "14.96%",
+                    "16.17%",
+                    "17.38%",
+                    "18.7%",
+                    "20.02%",
+                    "21.34%",
+                    "22.66%",
+                    "23.98%",
+                    "25.3%"
+                ],
+                "Spiritbreath Thorn/Surging Blade DMG Interval": [
+                    "6s/6s",
+                    "6s/6s",
+                    "6s/6s",
+                    "6s/6s",
+                    "6s/6s",
+                    "6s/6s",
+                    "6s/6s",
+                    "6s/6s",
+                    "6s/6s",
+                    "6s/6s",
+                    "6s/6s",
+                    "6s/6s",
+                    "6s/6s",
+                    "6s/6s",
+                    "6s/6s"
+                ]
+            },
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 consecutive strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to unleash a solo dance, dealing Physical DMG to nearby opponents and changing her Arkhe alignment. If Salon Members or the Singer of Many Waters summoned by her Elemental Skill \"Salon Solitaire\" is present, their lineup will switch in response.\\n\\n<color=#FFD780FF>Arkhe: Seats Sacred and Secular</color>\\nAt intervals, when Furina's Normal Attacks hit, a Spiritbreath Thorn or a Surging Blade will descend based on her current Arkhe alignment, dealing Pneuma- or Ousia-aligned <color=#80C0FFFF>Hydro DMG</color>.\\nWhen Furina takes the field, her starting Arkhe alignment will be Ousia.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
+        },
+        "elementalskill": {
+            "name": "Salon Solitaire",
+            "icon": "Skill_S_Furina_01",
+            "multipliers": {
+                "Ousia Bubble DMG": [
+                    "7.86% Max HP",
+                    "8.45% Max HP",
+                    "9.04% Max HP",
+                    "9.83% Max HP",
+                    "10.42% Max HP",
+                    "11.01% Max HP",
+                    "11.8% Max HP",
+                    "12.58% Max HP",
+                    "13.37% Max HP",
+                    "14.16% Max HP",
+                    "14.94% Max HP",
+                    "15.73% Max HP",
+                    "16.71% Max HP",
+                    "17.69% Max HP",
+                    "18.68% Max HP"
+                ],
+                "Duration": [
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s"
+                ],
+                "Gentilhomme Usher DMG": [
+                    "5.96% Max HP",
+                    "6.41% Max HP",
+                    "6.85% Max HP",
+                    "7.45% Max HP",
+                    "7.9% Max HP",
+                    "8.34% Max HP",
+                    "8.94% Max HP",
+                    "9.54% Max HP",
+                    "10.13% Max HP",
+                    "10.73% Max HP",
+                    "11.32% Max HP",
+                    "11.92% Max HP",
+                    "12.67% Max HP",
+                    "13.41% Max HP",
+                    "14.16% Max HP"
+                ],
+                "Surintendante Chevalmarin DMG": [
+                    "3.23% Max HP",
+                    "3.47% Max HP",
+                    "3.72% Max HP",
+                    "4.04% Max HP",
+                    "4.28% Max HP",
+                    "4.52% Max HP",
+                    "4.85% Max HP",
+                    "5.17% Max HP",
+                    "5.49% Max HP",
+                    "5.82% Max HP",
+                    "6.14% Max HP",
+                    "6.46% Max HP",
+                    "6.87% Max HP",
+                    "7.27% Max HP",
+                    "7.68% Max HP"
+                ],
+                "Mademoiselle Crabaletta DMG": [
+                    "8.29% Max HP",
+                    "8.91% Max HP",
+                    "9.53% Max HP",
+                    "10.36% Max HP",
+                    "10.98% Max HP",
+                    "11.6% Max HP",
+                    "12.43% Max HP",
+                    "13.26% Max HP",
+                    "14.09% Max HP",
+                    "14.92% Max HP",
+                    "15.75% Max HP",
+                    "16.58% Max HP",
+                    "17.61% Max HP",
+                    "18.65% Max HP",
+                    "19.68% Max HP"
+                ],
+                "Gentilhomme Usher HP Consumption": [
+                    "2.4% Max HP",
+                    "2.4% Max HP",
+                    "2.4% Max HP",
+                    "2.4% Max HP",
+                    "2.4% Max HP",
+                    "2.4% Max HP",
+                    "2.4% Max HP",
+                    "2.4% Max HP",
+                    "2.4% Max HP",
+                    "2.4% Max HP",
+                    "2.4% Max HP",
+                    "2.4% Max HP",
+                    "2.4% Max HP",
+                    "2.4% Max HP",
+                    "2.4% Max HP"
+                ],
+                "Surintendante Chevalmarin HP Consumption": [
+                    "1.6% Max HP",
+                    "1.6% Max HP",
+                    "1.6% Max HP",
+                    "1.6% Max HP",
+                    "1.6% Max HP",
+                    "1.6% Max HP",
+                    "1.6% Max HP",
+                    "1.6% Max HP",
+                    "1.6% Max HP",
+                    "1.6% Max HP",
+                    "1.6% Max HP",
+                    "1.6% Max HP",
+                    "1.6% Max HP",
+                    "1.6% Max HP",
+                    "1.6% Max HP"
+                ],
+                "Mademoiselle Crabaletta HP Consumption": [
+                    "3.6% Max HP",
+                    "3.6% Max HP",
+                    "3.6% Max HP",
+                    "3.6% Max HP",
+                    "3.6% Max HP",
+                    "3.6% Max HP",
+                    "3.6% Max HP",
+                    "3.6% Max HP",
+                    "3.6% Max HP",
+                    "3.6% Max HP",
+                    "3.6% Max HP",
+                    "3.6% Max HP",
+                    "3.6% Max HP",
+                    "3.6% Max HP",
+                    "3.6% Max HP"
+                ],
+                "Singer of Many Waters Healing": [
+                    "4.8% Max HP+462",
+                    "5.16% Max HP+508",
+                    "5.52% Max HP+559",
+                    "6% Max HP+612",
+                    "6.36% Max HP+670",
+                    "6.72% Max HP+732",
+                    "7.2% Max HP+797",
+                    "7.68% Max HP+867",
+                    "8.16% Max HP+940",
+                    "8.64% Max HP+1017",
+                    "9.12% Max HP+1098",
+                    "9.6% Max HP+1183",
+                    "10.2% Max HP+1271",
+                    "10.8% Max HP+1364",
+                    "11.4% Max HP+1460"
+                ],
+                "CD": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ]
+            },
+            "description": "Invites the guests of the Salon Solitaire to come forth and aid in Furina's performance. Will summon either the Salon Members or the Singer of Many Waters based on Furina's current <color=#FFD780FF>Arkhe alignment</color>.\\n\\n<color=#FFD780FF>Ousia</color>\\nFoaming bubbles like celebrants shall dance, dealing <color=#80C0FFFF>AoE Hydro DMG</color> based on Furina's Max HP and summoning 3 Salon Members: the Ball Octopus-shaped Gentilhomme Usher, the Bubbly Seahorse-shaped Surintendante Chevalmarin, and the Armored Crab-shaped Mademoiselle Crabaletta.\\nThey will attack nearby opponents at intervals, prioritizing the target of the active character, dealing <color=#80C0FFFF>Hydro</color> DMG based on Max HP.\\nWhen they attack, if character(s) with more than 50% HP are nearby, the Members will increase their current attack's power based on the number of such characters, and consume said characters' HP. If 1/2/3/4 (or more) characters meet these requirements, the Members' attacks will deal 110%/120%/130%/140% of their original DMG.\\n\\n<color=#FFD780FF>Pneuma</color>\\nSummons the Singer of Many Waters, who will heal nearby active character(s) based on Max HP at intervals.\\n\\nThe Salon Members and Singer of Many Waters share a duration, and when Furina uses her Charged Attack to change the guest type, the new guests will inherit the remaining duration.\\nWhile the Salon Members or the Singer of Many Waters is on the field, Furina can move on the water's surface.\\n\\n<i>A fixed roster of regulars frequent Furina's Salon Solitaire. At other times, Mademoiselle Crabaletta, Surintendante Chevalmarin, and Gentilhomme Usher shall visit, and on gloomy Wednesdays, it is the singer who comes by.</i>"
+        },
+        "elementalburst": {
+            "name": "Let the People Rejoice",
+            "icon": "Skill_E_Furina_01",
+            "multipliers": {
+                "Skill DMG": [
+                    "11.41% Max HP",
+                    "12.26% Max HP",
+                    "13.12% Max HP",
+                    "14.26% Max HP",
+                    "15.11% Max HP",
+                    "15.97% Max HP",
+                    "17.11% Max HP",
+                    "18.25% Max HP",
+                    "19.39% Max HP",
+                    "20.53% Max HP",
+                    "21.67% Max HP",
+                    "22.81% Max HP",
+                    "24.24% Max HP",
+                    "25.66% Max HP",
+                    "27.09% Max HP"
+                ],
+                "Duration": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ],
+                "Maximum Fanfare": [
+                    "300",
+                    "300",
+                    "300",
+                    "300",
+                    "300",
+                    "300",
+                    "300",
+                    "300",
+                    "300",
+                    "300",
+                    "300",
+                    "300",
+                    "300",
+                    "300",
+                    "300"
+                ],
+                "Fanfare to DMG Increase Conversion Ratio": [
+                    "0.07%",
+                    "0.09%",
+                    "0.11%",
+                    "0.13%",
+                    "0.15%",
+                    "0.17%",
+                    "0.19%",
+                    "0.21%",
+                    "0.23%",
+                    "0.25%",
+                    "0.27%",
+                    "0.29%",
+                    "0.31%",
+                    "0.33%",
+                    "0.35%"
+                ],
+                "Fanfare to Incoming Healing Bonus Conversion Ratio": [
+                    "0.01%",
+                    "0.02%",
+                    "0.03%",
+                    "0.04%",
+                    "0.05%",
+                    "0.06%",
+                    "0.07%",
+                    "0.08%",
+                    "0.09%",
+                    "0.1%",
+                    "0.11%",
+                    "0.12%",
+                    "0.13%",
+                    "0.14%",
+                    "0.15%"
+                ],
+                "CD": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Energy Cost": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ]
+            },
+            "description": "Rouses the impulse to revel, creating a stage of foam that will deal <color=#80C0FFFF>AoE Hydro DMG</color> based on Furina's Max HP and cause nearby party members to enter the Universal Revelry state: During this time, when nearby party members' HP increases or decreases, 1 Fanfare point will be granted to Furina for each percentage point of their Max HP by which their HP changes.\\nAt the same time, Furina will increase the DMG dealt by and Incoming Healing Bonus of all nearby party members based on the amount of Fanfare she has.\\nWhen the duration ends, Furina's Fanfare points will be cleared.\\n\\n<i>\"Cheer! Give praise! Be awed! Raise your glasses! Every night bereft of banqueting is a sordid squandering of sore, sober daylight... And, uh, those who are not yet of age may have grape juice instead!\"</i>"
+        },
+        "leveling": {
+            "crown": {
+                "104319": 3
+            },
+            "books": {
+                "104341": 9,
+                "104342": 63,
+                "104343": 114
+            },
+            "worldmonster": {
+                "112038": 18,
+                "112039": 66,
+                "112040": 93
+            },
+            "weekly": {
+                "113056": 18
+            }
+        }
+    },
+    "passives": {
+        "p1": {
+            "name": "Endless Waltz",
+            "description": "When the active character in your party receives healing, if the source of the healing is not Furina herself and the healing overflows, then Furina will heal nearby party members for 2% of their Max HP once every 2s for the next 4s.",
+            "icon": "UI_Talent_S_Furina_05"
+        },
+        "p2": {
+            "name": "Unheard Confession",
+            "description": "Every 1,000 points of Furina's Max HP can buff the different Arkhe-aligned <color=#FFD780FF>Salon Solitaire</color> in the following ways:\\nWill increase Salon Members' DMG dealt by 0.7%, up to a maximum of 28%.\\nWill decrease the Singer of Many Waters' healing interval for nearby active characters by 0.4%, up to a maximum of 16%.",
+            "icon": "UI_Talent_S_Furina_06"
+        },
+        "p3": {
+            "name": "The Sea Is My Stage",
+            "description": "Xenochromatic Fontemer Aberrant ability CD decreased by 30%.",
+            "icon": "UI_Talent_S_Furina_07"
+        },
+        "p4": ""
+    },
+    "constellations": {
+        "const1": {
+            "name": "\"Love Is a Rebellious Bird That None Can Tame\"",
+            "description": "When using <color=#FFD780FF>Let the People Rejoice</color>, Furina will gain 150 Fanfare.\\nAdditionally, Furina's Fanfare limit is increased by 100.",
+            "icon": "UI_Talent_S_Furina_01"
+        },
+        "const2": {
+            "name": "\"A Woman Adapts Like Duckweed in Water\"",
+            "description": "While <color=#FFD780FF>Let the People Rejoice</color> lasts, Furina's Fanfare gain from increases or decreases in nearby characters' HP is increased by 250%. Each point of Fanfare above the limit will increase Furina's Max HP by 0.35%. Her maximum Max HP increase is 140%.",
+            "icon": "UI_Talent_S_Furina_04"
+        },
+        "const3": {
+            "name": "\"My Secret Is Hidden Within Me, No One Will Know My Name\"",
+            "description": "Increases the Level of <color=#FFD780FF>Let the People Rejoice</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Furina_02"
+        },
+        "const4": {
+            "name": "\"They Know Not Life, Who Dwelt in the Netherworld Not!\"",
+            "description": "When the Salon Members from <color=#FFD780FF>Salon Solitaire</color> hit an opponent, or the Singer of Many Waters restores HP to nearby active characters, Furina will restore 4 Energy. This effect can be triggered once every 5s.",
+            "icon": "UI_Talent_S_Furina_03"
+        },
+        "const5": {
+            "name": "\"His Name I Now Know, It Is...!\"",
+            "description": "Increases the Level of <color=#FFD780FF>Salon Solitaire</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Furina_01"
+        },
+        "const6": {
+            "name": "\"Hear Me — Let Us Raise the Chalice of Love!\"",
+            "description": "When using <color=#FFD780FF>Salon Solitaire</color>, Furina gains \"Center of Attention\" for 10s.\\nThroughout the duration, Furina's Normal Attacks, Charged Attacks, and Plunging Attacks are converted into <color=#80C0FFFF>Hydro DMG</color> which cannot be overridden by any other elemental infusion. DMG is also increased by an amount equivalent to 18% of Furina's max HP.\\nThroughout the duration, Furina's Normal Attacks (not including Arkhe: Seats Sacred and Secular Attacks), Charged Attacks, and the impact of Plunging Attacks will cause different effects up to every 0.1s after hitting opponents depending on her current Arkhe alignment:\\n\\nArkhe: Ousia\\nEvery 1s, all nearby characters in the party will be healed by 4% of Furina's max HP, for a duration of 2.9s. Triggering this effect again will extend its duration.\\nArkhe: Pneuma\\nThis Normal Attack (not including Arkhe: Seats Sacred and Secular Attacks), Charged Attack, or Plunging Attack ground impact DMG will be further increased by an amount equivalent to 25% of Furina's max HP. When any of the attacks mentioned previously hit an opponent, all nearby characters in the party will consume 1% of their current HP.\\n\\nDuring the duration of each instance of \"Center of Attention,\" the above effects can be triggered up to 6 times. \"Center of Attention\" will end when its effects have triggered 6 times or when the duration expires.",
+            "icon": "UI_Talent_S_Furina_02"
+        }
+    },
+    "energy": [
+        {
+            "source": "UNIQUE_GenerateElemBall",
+            "particles": "1",
+            "chance": "100%",
+            "cd": "2.5s"
+        }
+    ],
+    "attacks": [
+        {
+            "name": "ArkheGrade_Handler",
+            "icd_source": "Tag: NormalAttack_05 (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/20",
+            "element": "Water"
+        },
+        {
+            "name": "ArkheGrade_Handler",
+            "icd_source": "Tag: NormalAttack_05 (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/20",
+            "element": "Water"
+        },
+        {
+            "name": "ElementalArt",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Water"
+        },
+        {
+            "name": "Octopus_EnergyLaserHit",
+            "icd_source": "Tag: Furina_Octopus",
+            "icd_rule": "2 hits / 30s",
+            "gauge": "1U",
+            "poise": "LV2/15",
+            "element": "Water"
+        },
+        {
+            "name": "SeaHorse_WaterBulletHit",
+            "icd_source": "Tag: Furina_SeaHorse",
+            "icd_rule": "2 hits / 30s",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Water"
+        },
+        {
+            "name": "HermitCrab_JumpAttack",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/30",
+            "element": "Water"
+        },
+        {
+            "name": "ElementalBurst",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/120",
+            "element": "Water"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/25",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/25",
+            "element": "Water"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/100",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/100",
+            "element": "Water"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/150",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/150",
+            "element": "Water"
+        }
+    ],
+    "hyperlinks": []
+}

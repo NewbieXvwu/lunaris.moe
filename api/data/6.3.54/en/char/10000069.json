@@ -1,0 +1,1303 @@
+{
+    "info": {
+        "name": "Tighnari",
+        "description": "A young researcher well-versed in botany who currently serves as a Forest Watcher in Avidya Forest. He is a straight shooter with a warm heart — and a dab hand at guiding even the dullest of pupils.",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_BOW",
+        "birthday": "December 29th",
+        "element": "Dendro",
+        "constellation": "Vulpes Zerda",
+        "attributes": [
+            {
+                "level": 1,
+                "ascension": 0,
+                "hp": 845,
+                "atk": 21,
+                "def": 49,
+                "Dendro%": "0"
+            },
+            {
+                "level": 2,
+                "ascension": 0,
+                "hp": 915,
+                "atk": 23,
+                "def": 53,
+                "Dendro%": "0"
+            },
+            {
+                "level": 3,
+                "ascension": 0,
+                "hp": 985,
+                "atk": 24,
+                "def": 57,
+                "Dendro%": "0"
+            },
+            {
+                "level": 4,
+                "ascension": 0,
+                "hp": 1056,
+                "atk": 26,
+                "def": 61,
+                "Dendro%": "0"
+            },
+            {
+                "level": 5,
+                "ascension": 0,
+                "hp": 1126,
+                "atk": 28,
+                "def": 65,
+                "Dendro%": "0"
+            },
+            {
+                "level": 6,
+                "ascension": 0,
+                "hp": 1197,
+                "atk": 30,
+                "def": 70,
+                "Dendro%": "0"
+            },
+            {
+                "level": 7,
+                "ascension": 0,
+                "hp": 1267,
+                "atk": 31,
+                "def": 74,
+                "Dendro%": "0"
+            },
+            {
+                "level": 8,
+                "ascension": 0,
+                "hp": 1338,
+                "atk": 33,
+                "def": 78,
+                "Dendro%": "0"
+            },
+            {
+                "level": 9,
+                "ascension": 0,
+                "hp": 1409,
+                "atk": 35,
+                "def": 82,
+                "Dendro%": "0"
+            },
+            {
+                "level": 10,
+                "ascension": 0,
+                "hp": 1479,
+                "atk": 37,
+                "def": 86,
+                "Dendro%": "0"
+            },
+            {
+                "level": 11,
+                "ascension": 0,
+                "hp": 1550,
+                "atk": 38,
+                "def": 90,
+                "Dendro%": "0"
+            },
+            {
+                "level": 12,
+                "ascension": 0,
+                "hp": 1621,
+                "atk": 40,
+                "def": 94,
+                "Dendro%": "0"
+            },
+            {
+                "level": 13,
+                "ascension": 0,
+                "hp": 1692,
+                "atk": 42,
+                "def": 98,
+                "Dendro%": "0"
+            },
+            {
+                "level": 14,
+                "ascension": 0,
+                "hp": 1764,
+                "atk": 44,
+                "def": 102,
+                "Dendro%": "0"
+            },
+            {
+                "level": 15,
+                "ascension": 0,
+                "hp": 1835,
+                "atk": 45,
+                "def": 107,
+                "Dendro%": "0"
+            },
+            {
+                "level": 16,
+                "ascension": 0,
+                "hp": 1906,
+                "atk": 47,
+                "def": 111,
+                "Dendro%": "0"
+            },
+            {
+                "level": 17,
+                "ascension": 0,
+                "hp": 1977,
+                "atk": 49,
+                "def": 115,
+                "Dendro%": "0"
+            },
+            {
+                "level": 18,
+                "ascension": 0,
+                "hp": 2048,
+                "atk": 51,
+                "def": 119,
+                "Dendro%": "0"
+            },
+            {
+                "level": 19,
+                "ascension": 0,
+                "hp": 2120,
+                "atk": 52,
+                "def": 123,
+                "Dendro%": "0"
+            },
+            {
+                "level": 20,
+                "ascension": 0,
+                "hp": 2191,
+                "atk": 54,
+                "def": 127,
+                "Dendro%": "0"
+            },
+            {
+                "level": 21,
+                "ascension": 1,
+                "hp": 2987,
+                "atk": 74,
+                "def": 173,
+                "Dendro%": "0"
+            },
+            {
+                "level": 22,
+                "ascension": 1,
+                "hp": 3059,
+                "atk": 76,
+                "def": 178,
+                "Dendro%": "0"
+            },
+            {
+                "level": 23,
+                "ascension": 1,
+                "hp": 3131,
+                "atk": 77,
+                "def": 182,
+                "Dendro%": "0"
+            },
+            {
+                "level": 24,
+                "ascension": 1,
+                "hp": 3202,
+                "atk": 79,
+                "def": 186,
+                "Dendro%": "0"
+            },
+            {
+                "level": 25,
+                "ascension": 1,
+                "hp": 3274,
+                "atk": 81,
+                "def": 190,
+                "Dendro%": "0"
+            },
+            {
+                "level": 26,
+                "ascension": 1,
+                "hp": 3347,
+                "atk": 83,
+                "def": 194,
+                "Dendro%": "0"
+            },
+            {
+                "level": 27,
+                "ascension": 1,
+                "hp": 3419,
+                "atk": 84,
+                "def": 199,
+                "Dendro%": "0"
+            },
+            {
+                "level": 28,
+                "ascension": 1,
+                "hp": 3490,
+                "atk": 86,
+                "def": 203,
+                "Dendro%": "0"
+            },
+            {
+                "level": 29,
+                "ascension": 1,
+                "hp": 3563,
+                "atk": 88,
+                "def": 207,
+                "Dendro%": "0"
+            },
+            {
+                "level": 30,
+                "ascension": 1,
+                "hp": 3635,
+                "atk": 90,
+                "def": 211,
+                "Dendro%": "0"
+            },
+            {
+                "level": 31,
+                "ascension": 1,
+                "hp": 3707,
+                "atk": 92,
+                "def": 215,
+                "Dendro%": "0"
+            },
+            {
+                "level": 32,
+                "ascension": 1,
+                "hp": 3780,
+                "atk": 93,
+                "def": 220,
+                "Dendro%": "0"
+            },
+            {
+                "level": 33,
+                "ascension": 1,
+                "hp": 3853,
+                "atk": 95,
+                "def": 224,
+                "Dendro%": "0"
+            },
+            {
+                "level": 34,
+                "ascension": 1,
+                "hp": 3925,
+                "atk": 97,
+                "def": 228,
+                "Dendro%": "0"
+            },
+            {
+                "level": 35,
+                "ascension": 1,
+                "hp": 3997,
+                "atk": 99,
+                "def": 232,
+                "Dendro%": "0"
+            },
+            {
+                "level": 36,
+                "ascension": 1,
+                "hp": 4071,
+                "atk": 101,
+                "def": 236,
+                "Dendro%": "0"
+            },
+            {
+                "level": 37,
+                "ascension": 1,
+                "hp": 4143,
+                "atk": 102,
+                "def": 241,
+                "Dendro%": "0"
+            },
+            {
+                "level": 38,
+                "ascension": 1,
+                "hp": 4216,
+                "atk": 104,
+                "def": 245,
+                "Dendro%": "0"
+            },
+            {
+                "level": 39,
+                "ascension": 1,
+                "hp": 4289,
+                "atk": 106,
+                "def": 249,
+                "Dendro%": "0"
+            },
+            {
+                "level": 40,
+                "ascension": 1,
+                "hp": 4362,
+                "atk": 108,
+                "def": 253,
+                "Dendro%": "0"
+            },
+            {
+                "level": 41,
+                "ascension": 2,
+                "hp": 4949,
+                "atk": 122,
+                "def": 287,
+                "Dendro%": "7.2"
+            },
+            {
+                "level": 42,
+                "ascension": 2,
+                "hp": 5023,
+                "atk": 124,
+                "def": 292,
+                "Dendro%": "7.2"
+            },
+            {
+                "level": 43,
+                "ascension": 2,
+                "hp": 5096,
+                "atk": 126,
+                "def": 296,
+                "Dendro%": "7.2"
+            },
+            {
+                "level": 44,
+                "ascension": 2,
+                "hp": 5169,
+                "atk": 128,
+                "def": 300,
+                "Dendro%": "7.2"
+            },
+            {
+                "level": 45,
+                "ascension": 2,
+                "hp": 5242,
+                "atk": 129,
+                "def": 305,
+                "Dendro%": "7.2"
+            },
+            {
+                "level": 46,
+                "ascension": 2,
+                "hp": 5316,
+                "atk": 131,
+                "def": 309,
+                "Dendro%": "7.2"
+            },
+            {
+                "level": 47,
+                "ascension": 2,
+                "hp": 5389,
+                "atk": 133,
+                "def": 313,
+                "Dendro%": "7.2"
+            },
+            {
+                "level": 48,
+                "ascension": 2,
+                "hp": 5463,
+                "atk": 135,
+                "def": 317,
+                "Dendro%": "7.2"
+            },
+            {
+                "level": 49,
+                "ascension": 2,
+                "hp": 5537,
+                "atk": 137,
+                "def": 322,
+                "Dendro%": "7.2"
+            },
+            {
+                "level": 50,
+                "ascension": 2,
+                "hp": 5611,
+                "atk": 139,
+                "def": 326,
+                "Dendro%": "7.2"
+            },
+            {
+                "level": 51,
+                "ascension": 3,
+                "hp": 6370,
+                "atk": 157,
+                "def": 370,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 52,
+                "ascension": 3,
+                "hp": 6445,
+                "atk": 159,
+                "def": 374,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 53,
+                "ascension": 3,
+                "hp": 6518,
+                "atk": 161,
+                "def": 379,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 54,
+                "ascension": 3,
+                "hp": 6592,
+                "atk": 163,
+                "def": 383,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 55,
+                "ascension": 3,
+                "hp": 6667,
+                "atk": 165,
+                "def": 387,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 56,
+                "ascension": 3,
+                "hp": 6741,
+                "atk": 166,
+                "def": 392,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 57,
+                "ascension": 3,
+                "hp": 6815,
+                "atk": 168,
+                "def": 396,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 58,
+                "ascension": 3,
+                "hp": 6890,
+                "atk": 170,
+                "def": 400,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 59,
+                "ascension": 3,
+                "hp": 6964,
+                "atk": 172,
+                "def": 405,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 60,
+                "ascension": 3,
+                "hp": 7038,
+                "atk": 174,
+                "def": 409,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 61,
+                "ascension": 4,
+                "hp": 7627,
+                "atk": 188,
+                "def": 443,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 62,
+                "ascension": 4,
+                "hp": 7702,
+                "atk": 190,
+                "def": 447,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 63,
+                "ascension": 4,
+                "hp": 7777,
+                "atk": 192,
+                "def": 452,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 64,
+                "ascension": 4,
+                "hp": 7851,
+                "atk": 194,
+                "def": 456,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 65,
+                "ascension": 4,
+                "hp": 7926,
+                "atk": 196,
+                "def": 460,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 66,
+                "ascension": 4,
+                "hp": 8001,
+                "atk": 198,
+                "def": 465,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 67,
+                "ascension": 4,
+                "hp": 8076,
+                "atk": 199,
+                "def": 469,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 68,
+                "ascension": 4,
+                "hp": 8151,
+                "atk": 201,
+                "def": 473,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 69,
+                "ascension": 4,
+                "hp": 8226,
+                "atk": 203,
+                "def": 478,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 70,
+                "ascension": 4,
+                "hp": 8301,
+                "atk": 205,
+                "def": 482,
+                "Dendro%": "14.4"
+            },
+            {
+                "level": 71,
+                "ascension": 5,
+                "hp": 8891,
+                "atk": 220,
+                "def": 516,
+                "Dendro%": "21.6"
+            },
+            {
+                "level": 72,
+                "ascension": 5,
+                "hp": 8967,
+                "atk": 221,
+                "def": 521,
+                "Dendro%": "21.6"
+            },
+            {
+                "level": 73,
+                "ascension": 5,
+                "hp": 9042,
+                "atk": 223,
+                "def": 525,
+                "Dendro%": "21.6"
+            },
+            {
+                "level": 74,
+                "ascension": 5,
+                "hp": 9117,
+                "atk": 225,
+                "def": 530,
+                "Dendro%": "21.6"
+            },
+            {
+                "level": 75,
+                "ascension": 5,
+                "hp": 9193,
+                "atk": 227,
+                "def": 534,
+                "Dendro%": "21.6"
+            },
+            {
+                "level": 76,
+                "ascension": 5,
+                "hp": 9269,
+                "atk": 229,
+                "def": 538,
+                "Dendro%": "21.6"
+            },
+            {
+                "level": 77,
+                "ascension": 5,
+                "hp": 9345,
+                "atk": 231,
+                "def": 543,
+                "Dendro%": "21.6"
+            },
+            {
+                "level": 78,
+                "ascension": 5,
+                "hp": 9421,
+                "atk": 233,
+                "def": 547,
+                "Dendro%": "21.6"
+            },
+            {
+                "level": 79,
+                "ascension": 5,
+                "hp": 9497,
+                "atk": 234,
+                "def": 552,
+                "Dendro%": "21.6"
+            },
+            {
+                "level": 80,
+                "ascension": 5,
+                "hp": 9573,
+                "atk": 236,
+                "def": 556,
+                "Dendro%": "21.6"
+            },
+            {
+                "level": 81,
+                "ascension": 6,
+                "hp": 10163,
+                "atk": 251,
+                "def": 590,
+                "Dendro%": "28.8"
+            },
+            {
+                "level": 82,
+                "ascension": 6,
+                "hp": 10239,
+                "atk": 253,
+                "def": 595,
+                "Dendro%": "28.8"
+            },
+            {
+                "level": 83,
+                "ascension": 6,
+                "hp": 10315,
+                "atk": 255,
+                "def": 599,
+                "Dendro%": "28.8"
+            },
+            {
+                "level": 84,
+                "ascension": 6,
+                "hp": 10391,
+                "atk": 257,
+                "def": 604,
+                "Dendro%": "28.8"
+            },
+            {
+                "level": 85,
+                "ascension": 6,
+                "hp": 10467,
+                "atk": 258,
+                "def": 608,
+                "Dendro%": "28.8"
+            },
+            {
+                "level": 86,
+                "ascension": 6,
+                "hp": 10544,
+                "atk": 260,
+                "def": 612,
+                "Dendro%": "28.8"
+            },
+            {
+                "level": 87,
+                "ascension": 6,
+                "hp": 10620,
+                "atk": 262,
+                "def": 617,
+                "Dendro%": "28.8"
+            },
+            {
+                "level": 88,
+                "ascension": 6,
+                "hp": 10697,
+                "atk": 264,
+                "def": 621,
+                "Dendro%": "28.8"
+            },
+            {
+                "level": 89,
+                "ascension": 6,
+                "hp": 10774,
+                "atk": 266,
+                "def": 626,
+                "Dendro%": "28.8"
+            },
+            {
+                "level": 90,
+                "ascension": 6,
+                "hp": 10850,
+                "atk": 268,
+                "def": 630,
+                "Dendro%": "28.8"
+            },
+            {
+                "level": 95,
+                "ascension": 6,
+                "hp": 11235,
+                "atk": 298,
+                "def": 653,
+                "Dendro%": "28.8"
+            },
+            {
+                "level": 100,
+                "ascension": 6,
+                "hp": 11621,
+                "atk": 328,
+                "def": 675,
+                "Dendro%": "28.8"
+            }
+        ]
+    },
+    "icons": {
+        "forward": "UI_AvatarIcon_Tighnari",
+        "coop_img": "UI_CoopImg_Tighnari"
+    },
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101215": 168
+        },
+        "elemental": {
+            "104131": 1,
+            "104132": 9,
+            "104133": 9,
+            "104134": 6
+        },
+        "worldmonster": {
+            "112059": 18,
+            "112060": 30,
+            "112061": 36
+        },
+        "elitemonster": {
+            "113036": 46
+        }
+    },
+    "skills": {
+        "normalattack": {
+            "name": "Khanda Barrier-Buster",
+            "icon": "Skill_A_02",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "44.63%",
+                    "48.27%",
+                    "51.9%",
+                    "57.09%",
+                    "60.72%",
+                    "64.88%",
+                    "70.58%",
+                    "76.29%",
+                    "82%",
+                    "88.23%",
+                    "94.46%",
+                    "100.69%",
+                    "106.91%",
+                    "113.14%",
+                    "119.37%"
+                ],
+                "2-Hit DMG": [
+                    "41.97%",
+                    "45.38%",
+                    "48.8%",
+                    "53.68%",
+                    "57.1%",
+                    "61%",
+                    "66.37%",
+                    "71.74%",
+                    "77.1%",
+                    "82.96%",
+                    "88.82%",
+                    "94.67%",
+                    "100.53%",
+                    "106.38%",
+                    "112.24%"
+                ],
+                "3-Hit DMG": [
+                    "26.45%×2",
+                    "28.6%×2",
+                    "30.75%×2",
+                    "33.83%×2",
+                    "35.98%×2",
+                    "38.44%×2",
+                    "41.82%×2",
+                    "45.2%×2",
+                    "48.59%×2",
+                    "52.28%×2",
+                    "55.97%×2",
+                    "59.65%×2",
+                    "63.34%×2",
+                    "67.04%×2",
+                    "70.72%×2"
+                ],
+                "4-Hit DMG": [
+                    "68.63%",
+                    "74.21%",
+                    "79.8%",
+                    "87.78%",
+                    "93.37%",
+                    "99.75%",
+                    "108.53%",
+                    "117.31%",
+                    "126.08%",
+                    "135.66%",
+                    "145.24%",
+                    "154.81%",
+                    "164.39%",
+                    "173.96%",
+                    "183.54%"
+                ],
+                "Aimed Shot": [
+                    "43.86%",
+                    "47.43%",
+                    "51%",
+                    "56.1%",
+                    "59.67%",
+                    "63.75%",
+                    "69.36%",
+                    "74.97%",
+                    "80.58%",
+                    "86.7%",
+                    "92.82%",
+                    "98.94%",
+                    "105.06%",
+                    "111.18%",
+                    "117.3%"
+                ],
+                "Level 1 Aimed Shot": [
+                    "124%",
+                    "133.3%",
+                    "142.6%",
+                    "155%",
+                    "164.3%",
+                    "173.6%",
+                    "186%",
+                    "198.4%",
+                    "210.8%",
+                    "223.2%",
+                    "235.6%",
+                    "248%",
+                    "263.5%",
+                    "279%",
+                    "294.5%"
+                ],
+                "Wreath Arrow DMG": [
+                    "87.2%",
+                    "93.74%",
+                    "100.28%",
+                    "109%",
+                    "115.54%",
+                    "122.08%",
+                    "130.8%",
+                    "139.52%",
+                    "148.24%",
+                    "156.96%",
+                    "165.68%",
+                    "174.4%",
+                    "185.3%",
+                    "196.2%",
+                    "207.1%"
+                ],
+                "Clusterbloom Arrow DMG": [
+                    "38.6%",
+                    "41.5%",
+                    "44.39%",
+                    "48.25%",
+                    "51.14%",
+                    "54.04%",
+                    "57.9%",
+                    "61.76%",
+                    "65.62%",
+                    "69.48%",
+                    "73.34%",
+                    "77.2%",
+                    "82.02%",
+                    "86.85%",
+                    "91.68%"
+                ],
+                "Plunge DMG": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "Low/High Plunge DMG": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ]
+            },
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 consecutive shots with a bow.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nPerforms a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG.\\nWhile aiming, the power of Dendro will accumulate on the arrowhead before the arrow is fired. Has different effects based on how long the energy has been charged:\\n·Charge Level 1: Fires off an arrow carrying the power of flora that deals <color=#99FF88FF>Dendro DMG</color>.\\n·Charge Level 2: Fires off a Wreath Arrow that deals <color=#99FF88FF>Dendro DMG</color>. Upon hit, the Wreath Arrow will create 4 Clusterbloom Arrows that will track nearby opponents automatically and deal <color=#99FF88FF>Dendro DMG</color>.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+        },
+        "elementalskill": {
+            "name": "Vijnana-Phala Mine",
+            "icon": "Skill_S_Tighnari_01",
+            "multipliers": {
+                "Skill DMG": [
+                    "149.6%",
+                    "160.82%",
+                    "172.04%",
+                    "187%",
+                    "198.22%",
+                    "209.44%",
+                    "224.4%",
+                    "239.36%",
+                    "254.32%",
+                    "269.28%",
+                    "284.24%",
+                    "299.2%",
+                    "317.9%",
+                    "336.6%",
+                    "355.3%"
+                ],
+                "Vijnana-Khanda Field Duration": [
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s"
+                ],
+                "Vijnana Suffusion Duration": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "CD": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ]
+            },
+            "description": "Tighnari throws a Vijnana Stormheart ahead that deals <color=#99FF88FF>AoE Dendro DMG</color>, creating a Vijnana-Khanda Field that creates mysterious illusions that taunt opponents and draw their fire.\\nAdditionally, Tighnari gains the Vijnana Suffusion effect, which will decrease the Wreath Arrow's charging time by 2.4s. This effect will dissipate once the skill duration ends or after Tighnari has fired 3 Wreath Arrows.\\n\\n<i>\"If seeds wither apart from the soil, they will remain a single seed. But if returned to the soil, they shall multiply ten-million fold.\"</i>"
+        },
+        "elementalburst": {
+            "name": "Fashioner's Tanglevine Shaft",
+            "icon": "Skill_E_Tighnari_01",
+            "multipliers": {
+                "Tanglevine Shaft DMG": [
+                    "55.62%",
+                    "59.79%",
+                    "63.96%",
+                    "69.52%",
+                    "73.7%",
+                    "77.87%",
+                    "83.43%",
+                    "88.99%",
+                    "94.55%",
+                    "100.12%",
+                    "105.68%",
+                    "111.24%",
+                    "118.19%",
+                    "125.14%",
+                    "132.1%"
+                ],
+                "Secondary Tanglevine Shaft DMG": [
+                    "67.98%",
+                    "73.08%",
+                    "78.18%",
+                    "84.97%",
+                    "90.07%",
+                    "95.17%",
+                    "101.97%",
+                    "108.77%",
+                    "115.57%",
+                    "122.36%",
+                    "129.16%",
+                    "135.96%",
+                    "144.46%",
+                    "152.95%",
+                    "161.45%"
+                ],
+                "CD": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "Energy Cost": [
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40"
+                ]
+            },
+            "description": "Combines the power of all seeds to fire 6 Tanglevine Shafts that can track opponents and deal <color=#99FF88FF>Dendro DMG</color>.\\nAfter they hit, the Tanglevine Shafts will create a secondary wave of Tanglevine Shafts that can also track nearby opponents and deal <color=#99FF88FF>Dendro DMG</color> on hit.\\n\\n<i>\"Do not seek to escape so easily. The vines grow and regrow ever on. Things might get dicey if you don't clear every last one of them out.\"</i>"
+        },
+        "leveling": {
+            "crown": {
+                "104319": 3
+            },
+            "books": {
+                "104329": 9,
+                "104330": 63,
+                "104331": 114
+            },
+            "worldmonster": {
+                "112059": 18,
+                "112060": 66,
+                "112061": 93
+            },
+            "weekly": {
+                "113034": 18
+            }
+        }
+    },
+    "passives": {
+        "p1": {
+            "name": "Keen Sight",
+            "description": "After Tighnari fires a <color=#FFD780FF>Wreath Arrow</color>, his Elemental Mastery is increased by 50 for 4s.",
+            "icon": "UI_Talent_S_Tighnari_05"
+        },
+        "p2": {
+            "name": "Scholarly Blade",
+            "description": "For every point of Elemental Mastery Tighnari possesses, his Charged Attack and <color=#FFD780FF>Fashioner's Tanglevine Shaft</color> DMG are increased by 0.06%.\\nThe maximum DMG Bonus obtainable this way is 60%.",
+            "icon": "UI_Talent_S_Tighnari_06"
+        },
+        "p3": {
+            "name": "Encyclopedic Knowledge",
+            "description": "Displays the location of nearby <color=#FFD780FF>resources unique to Sumeru</color> on the mini-map.",
+            "icon": "UI_Talent_S_Tighnari_07"
+        },
+        "p4": ""
+    },
+    "constellations": {
+        "const1": {
+            "name": "Beginnings Determined at the Roots",
+            "description": "Tighnari's Charged Attack CRIT Rate is increased by 15%.",
+            "icon": "UI_Talent_S_Tighnari_01"
+        },
+        "const2": {
+            "name": "Origins Known From the Stem",
+            "description": "When there are opponents within the Vijnana-Khanda Field created by <color=#FFD780FF>Vijnana-Phala Mine</color>, Tighnari gains 20% <color=#99FF88FF>Dendro DMG Bonus</color>.\\nThe effect will last up to 6s if the field's duration ends or if it no longer has opponents within it.",
+            "icon": "UI_Talent_S_Tighnari_02"
+        },
+        "const3": {
+            "name": "Fortunes Read Amongst the Branches",
+            "description": "Increases the Level of <color=#FFD780FF>Fashioner's Tanglevine Shaft</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Tighnari_01"
+        },
+        "const4": {
+            "name": "Withering Glimpsed in the Leaves",
+            "description": "When <color=#FFD780FF>Fashioner's Tanglevine Shaft</color> is unleashed, all nearby party members gain 60 Elemental Mastery for 8s. If the Fashioner's Tanglevine Shaft triggers a Burning, Bloom, Lunar-Bloom, Quicken, or Spread reaction, their Elemental Mastery will be further increased by 60. This latter case will also refresh the buff state's duration.",
+            "icon": "UI_Talent_S_Tighnari_03"
+        },
+        "const5": {
+            "name": "Comprehension Amidst the Flowers",
+            "description": "Increases the Level of <color=#FFD780FF>Vijnana-Phala Mine</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Tighnari_02"
+        },
+        "const6": {
+            "name": "Karma Adjudged From the Leaden Fruit",
+            "description": "<color=#FFD780FF>Wreath Arrow</color>'s charging time is decreased by 0.9s, and will produce 1 additional Clusterbloom Arrow upon hit. This arrow deals 150% of Tighnari's ATK as DMG.",
+            "icon": "UI_Talent_S_Tighnari_04"
+        }
+    },
+    "energy": [
+        {
+            "source": "Ball",
+            "particles": "3",
+            "chance": "100%",
+            "cd": "0.3s"
+        },
+        {
+            "source": "Ball",
+            "particles": "1",
+            "chance": "50%",
+            "cd": "0.3s"
+        }
+    ],
+    "attacks": [
+        {
+            "name": "Bullet_Arrow_NoGrass_Material",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "4U",
+            "poise": "LV2/10",
+            "element": "-"
+        },
+        {
+            "name": "Bullet_Arrow_WithGrass_Material",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Grass"
+        },
+        {
+            "name": "AimingArrow_BeforeFission_Material",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/30",
+            "element": "Grass"
+        },
+        {
+            "name": "AimingArrow_BeforeFission_Material",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/30",
+            "element": "Grass"
+        },
+        {
+            "name": "AimingArrow_Fission_Material",
+            "icd_source": "Grp: Tighnari (Tag Miss)",
+            "icd_rule": "4 hits / 2.5s",
+            "gauge": "1U",
+            "poise": "LV3/20",
+            "element": "Grass"
+        },
+        {
+            "name": "AimingArrow_Fission_LifeOver",
+            "icd_source": "Grp: Tighnari (Tag Miss)",
+            "icd_rule": "4 hits / 2.5s",
+            "gauge": "1U",
+            "poise": "LV3/20",
+            "element": "Grass"
+        },
+        {
+            "name": "AimingArrow_Fission_Material_Talent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/20",
+            "element": "Grass"
+        },
+        {
+            "name": "AimingArrow_Fission_LifeOver_Talent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/20",
+            "element": "Grass"
+        },
+        {
+            "name": "SkillObj_ElementalArt_Ball_Material",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/50",
+            "element": "Grass"
+        },
+        {
+            "name": "ElementalBurst_Bullet_Damage1",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/30",
+            "element": "Grass"
+        },
+        {
+            "name": "ElementalBurst_Bullet_Damage2",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/30",
+            "element": "Grass"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/10",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/50",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/100",
+            "element": "-"
+        }
+    ],
+    "hyperlinks": []
+}

@@ -1,0 +1,1241 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104151": 1,
+            "104152": 9,
+            "104153": 9,
+            "104154": 6
+        },
+        "elitemonster": {
+            "113001": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100024": 168
+        },
+        "worldmonster": {
+            "112038": 18,
+            "112039": 30,
+            "112040": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Attack01",
+            "poise": "LV1/5"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Attack02",
+            "poise": "LV1/7"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Attack03",
+            "poise": "LV1/8"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Attack04_Gadget",
+            "poise": "LV1/16"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "DemiHurricane_Damage",
+            "poise": "LV7/150"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "DemiHurricane_Damage",
+            "poise": "-/0"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "DemiHurricane_Damage",
+            "poise": "-/0"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "DemiHurricane_Damage",
+            "poise": "-/0"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "DemiHurricane_Damage",
+            "poise": "-/0"
+        },
+        {
+            "element": "AntiFire",
+            "gauge": "0.0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Hurricane_Mix_Detect (!)",
+            "name": "DemiHurricane_Mix",
+            "poise": "-/0"
+        },
+        {
+            "element": "Wind",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/5"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "<color=#FFD780FF>Criação do Espírito do Vento: Experimento 6308</color> ganha 1 carga adicional.",
+            "icon": "UI_Talent_S_Sucrose_01",
+            "name": "Campo de Vácuo Acumulado"
+        },
+        "const2": {
+            "description": "A duração da <color=#FFD780FF>Criação Proibida do Espírito do Vento: Isomórfico-75 Tipo II</color> é aumentada em 2 segundos.",
+            "icon": "UI_Talent_S_Sucrose_02",
+            "name": "Beth - Forma Não-Consolidada"
+        },
+        "const3": {
+            "description": "Aumenta o nível da <color=#FFD780FF>Criação do Espírito do Vento: Experimento 6308</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Sucrose_01",
+            "name": "Alquimista Perfeita"
+        },
+        "const4": {
+            "description": "Quando os Ataques Normais e Ataques Carregados de Sucrose atingirem o inimigo cumulativamente sete vezes, o Tempo de Recarga de <color=#FFD780FF>Criação do Espírito do Vento: Experimento 6308</color> será reduzido entre 1-7s.\\nÉ possível acumular uma vez a cada 0.1s.",
+            "icon": "UI_Talent_S_Sucrose_03",
+            "name": "Alquimania"
+        },
+        "const5": {
+            "description": "Aumenta o Nível da <color=#FFD780FF>Criação Proibida do Espírito do Vento: Isomórfico-75 Tipo II</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Sucrose_02",
+            "name": "Atenção: Frasco Comum"
+        },
+        "const6": {
+            "description": "Se <color=#FFD780FF>Criação Proibida do Espírito do Vento: Isomórfico-75 Tipo II</color> aciona uma Absorção Elemental, todos os membros de equipe ganham 20% de Bônus de Dano Elemental para o elemento correspondente absorvido enquanto a habilidade estiver em duração.",
+            "icon": "UI_Talent_S_Sucrose_04",
+            "name": "Entropia Caótica"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.4s",
+            "chance": "100%",
+            "particles": "4",
+            "source": "UNIQUE_WindBlackHole_Gadget_ReviveEnergy_Detect_Hanlder"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Sucrose",
+        "forward": "UI_AvatarIcon_Sucrose"
+    },
+    "info": {
+        "attributes": [
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 14,
+                "def": 59,
+                "hp": 775,
+                "level": 1
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 15,
+                "def": 64,
+                "hp": 839,
+                "level": 2
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 17,
+                "def": 69,
+                "hp": 903,
+                "level": 3
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 18,
+                "def": 74,
+                "hp": 967,
+                "level": 4
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 78,
+                "hp": 1031,
+                "level": 5
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 83,
+                "hp": 1095,
+                "level": 6
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 88,
+                "hp": 1159,
+                "level": 7
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 93,
+                "hp": 1223,
+                "level": 8
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 98,
+                "hp": 1287,
+                "level": 9
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 103,
+                "hp": 1351,
+                "level": 10
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 108,
+                "hp": 1415,
+                "level": 11
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 112,
+                "hp": 1479,
+                "level": 12
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 117,
+                "hp": 1543,
+                "level": 13
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 122,
+                "hp": 1607,
+                "level": 14
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 127,
+                "hp": 1671,
+                "level": 15
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 132,
+                "hp": 1735,
+                "level": 16
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 137,
+                "hp": 1799,
+                "level": 17
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 142,
+                "hp": 1863,
+                "level": 18
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 147,
+                "hp": 1927,
+                "level": 19
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 151,
+                "hp": 1991,
+                "level": 20
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 48,
+                "def": 200,
+                "hp": 2634,
+                "level": 21
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 50,
+                "def": 205,
+                "hp": 2698,
+                "level": 22
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 51,
+                "def": 210,
+                "hp": 2762,
+                "level": 23
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 52,
+                "def": 215,
+                "hp": 2826,
+                "level": 24
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 53,
+                "def": 220,
+                "hp": 2890,
+                "level": 25
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 54,
+                "def": 225,
+                "hp": 2954,
+                "level": 26
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 55,
+                "def": 230,
+                "hp": 3018,
+                "level": 27
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 57,
+                "def": 234,
+                "hp": 3082,
+                "level": 28
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 58,
+                "def": 239,
+                "hp": 3146,
+                "level": 29
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 59,
+                "def": 244,
+                "hp": 3209,
+                "level": 30
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 60,
+                "def": 249,
+                "hp": 3274,
+                "level": 31
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 61,
+                "def": 254,
+                "hp": 3338,
+                "level": 32
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 63,
+                "def": 259,
+                "hp": 3402,
+                "level": 33
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 64,
+                "def": 264,
+                "hp": 3466,
+                "level": 34
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 65,
+                "def": 268,
+                "hp": 3529,
+                "level": 35
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 66,
+                "def": 273,
+                "hp": 3594,
+                "level": 36
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 67,
+                "def": 278,
+                "hp": 3657,
+                "level": 37
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 68,
+                "def": 283,
+                "hp": 3722,
+                "level": 38
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 70,
+                "def": 288,
+                "hp": 3786,
+                "level": 39
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 293,
+                "hp": 3850,
+                "level": 40
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 80,
+                "def": 329,
+                "hp": 4325,
+                "level": 41
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 81,
+                "def": 334,
+                "hp": 4389,
+                "level": 42
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 82,
+                "def": 339,
+                "hp": 4453,
+                "level": 43
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 83,
+                "def": 344,
+                "hp": 4517,
+                "level": 44
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 84,
+                "def": 348,
+                "hp": 4581,
+                "level": 45
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 85,
+                "def": 353,
+                "hp": 4645,
+                "level": 46
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 87,
+                "def": 358,
+                "hp": 4709,
+                "level": 47
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 88,
+                "def": 363,
+                "hp": 4773,
+                "level": 48
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 89,
+                "def": 368,
+                "hp": 4837,
+                "level": 49
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 90,
+                "def": 373,
+                "hp": 4901,
+                "level": 50
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 101,
+                "def": 419,
+                "hp": 5513,
+                "level": 51
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 103,
+                "def": 424,
+                "hp": 5578,
+                "level": 52
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 104,
+                "def": 429,
+                "hp": 5642,
+                "level": 53
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 105,
+                "def": 434,
+                "hp": 5705,
+                "level": 54
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 106,
+                "def": 439,
+                "hp": 5770,
+                "level": 55
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 107,
+                "def": 444,
+                "hp": 5833,
+                "level": 56
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 108,
+                "def": 449,
+                "hp": 5898,
+                "level": 57
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 110,
+                "def": 453,
+                "hp": 5961,
+                "level": 58
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 111,
+                "def": 458,
+                "hp": 6025,
+                "level": 59
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 112,
+                "def": 463,
+                "hp": 6090,
+                "level": 60
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 121,
+                "def": 499,
+                "hp": 6565,
+                "level": 61
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 122,
+                "def": 504,
+                "hp": 6629,
+                "level": 62
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 123,
+                "def": 509,
+                "hp": 6693,
+                "level": 63
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 124,
+                "def": 514,
+                "hp": 6757,
+                "level": 64
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 125,
+                "def": 519,
+                "hp": 6820,
+                "level": 65
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 127,
+                "def": 524,
+                "hp": 6885,
+                "level": 66
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 128,
+                "def": 528,
+                "hp": 6949,
+                "level": 67
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 129,
+                "def": 533,
+                "hp": 7013,
+                "level": 68
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 130,
+                "def": 538,
+                "hp": 7077,
+                "level": 69
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 131,
+                "def": 543,
+                "hp": 7141,
+                "level": 70
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 140,
+                "def": 579,
+                "hp": 7616,
+                "level": 71
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 141,
+                "def": 584,
+                "hp": 7680,
+                "level": 72
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 142,
+                "def": 589,
+                "hp": 7744,
+                "level": 73
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 144,
+                "def": 594,
+                "hp": 7808,
+                "level": 74
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 145,
+                "def": 599,
+                "hp": 7872,
+                "level": 75
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 146,
+                "def": 604,
+                "hp": 7936,
+                "level": 76
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 147,
+                "def": 608,
+                "hp": 8000,
+                "level": 77
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 148,
+                "def": 613,
+                "hp": 8064,
+                "level": 78
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 149,
+                "def": 618,
+                "hp": 8128,
+                "level": 79
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 151,
+                "def": 623,
+                "hp": 8192,
+                "level": 80
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 159,
+                "def": 659,
+                "hp": 8668,
+                "level": 81
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 161,
+                "def": 664,
+                "hp": 8731,
+                "level": 82
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 162,
+                "def": 669,
+                "hp": 8796,
+                "level": 83
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 163,
+                "def": 674,
+                "hp": 8859,
+                "level": 84
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 164,
+                "def": 679,
+                "hp": 8924,
+                "level": 85
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 165,
+                "def": 683,
+                "hp": 8987,
+                "level": 86
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 166,
+                "def": 688,
+                "hp": 9051,
+                "level": 87
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 168,
+                "def": 693,
+                "hp": 9115,
+                "level": 88
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 169,
+                "def": 698,
+                "hp": 9179,
+                "level": 89
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 170,
+                "def": 703,
+                "hp": 9244,
+                "level": 90
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 192,
+                "def": 727,
+                "hp": 9563,
+                "level": 95
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 213,
+                "def": 752,
+                "hp": 9883,
+                "level": 100
+            }
+        ],
+        "birthday": "November 26th",
+        "constellation": "Ampulla",
+        "description": "Uma alquimista cheia de curiosidade sobre todas as coisas e que pesquisa Bioalquimia.",
+        "element": "Anemo",
+        "name": "Sucrose",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_CATALYST"
+    },
+    "passives": {
+        "p1": {
+            "description": "Quando Sucrose ativa um efeito de Redemoinho, todos os personagens na equipe com o elemento correspondente (exceto Sucrose) possuem sua Proficiência Elemental aumentada em 50 por 8s.",
+            "icon": "UI_Talent_S_Sucrose_05",
+            "name": "Conversão de Catalisador"
+        },
+        "p2": {
+            "description": "Quando a <color=#FFD780FF>Criação do Espírito do Vento: Experimento 6308</color> ou a <color=#FFD780FF>Criação Proibida do Espírito do Vento: Isomórfico-75 Tipo II</color> acerta um inimigo, aumenta a Proficiência Elemental de todos os membros de equipe (exceto Sucrose) em 20% baseada na Proficiência de Sucrose por 8 segundos.",
+            "icon": "UI_Talent_S_Sucrose_06",
+            "name": "Mollis Favonius"
+        },
+        "p3": {
+            "description": "Quando Sucrose cria Materiais de Elevação de Personagens e de Armas, ela tem 10% de chance de receber o dobro de produção.",
+            "icon": "UI_Talent_Combine_Material",
+            "name": "Invenção Instável"
+        },
+        "p4": {
+            "description": "Ao concluir <color=#FFD780FF>Tarefa da Bruxa: Das Flores do País das Maravilhas</color>, Sucrose se tornará uma Personagem do tipo <color=#FFD780FF>Mágico</color>. Quando houver pelo menos 2 Personagens Mágicos na equipe, será ativado o efeito <color=#FFD780FF>Mágico: Ritual Secreto</color>, fortalecendo os Personagens Mágicos.\\n\\n<color=#FFD780FF>Mágico: Ritual Secreto</color>\\n· Nos 15 segundos após invocar um Pequeno Espírito de Vento, os Personagens próximos da equipe terão o Dano de seus Ataques Normais, Ataques Carregados, Ataques Imersivos, Habilidade Elemental e Supremo aumentado em 5.71428%.\\n· Nos 20 segundos após invocar um Grande Espírito do Vento, os Personagens Mágicos próximos da equipe terão o Dano de seus Ataques Normais, Ataques Carregados, Ataques Imersivos, Habilidade Elemental e Supremo aumentado em 7.14285%.",
+            "icon": "UI_Talent_S_Sucrose_07",
+            "name": "Presente da Noite da Bruxa: Heptatransmutação"
+        }
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Sucrose libera uma mistura instável que cria um Grande Espírito do Vento.\\nEnquanto ela persistir, o Grande Espírito do Vento irá continuamente puxar e lançar inimigos e objetos próximos, causando <color=#80FFD7FF>Dano de Anemo em AdE</color>.\\n\\n<color=#FFD780FF>Absorção Elemental</color>\\nSe o Espírito do Vento entrar em contato com os elementos <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color>, ele irá causar Dano elemental adicional baseado naquele tipo.\\nAbsorção Elemental pode ocorrer apenas uma vez por uso.\\n<i>Sucrose costumava dar nomes ao seu volátil Anemo Hypostases. Mas a sua linha de herdeiros cresceu rapidamente até ultrapassar o Barão Coelho n° 893.</i>",
+            "icon": "Skill_E_Sucrose_01",
+            "multipliers": {
+                "Adição de Dano Elemental": [
+                    "44%",
+                    "47.3%",
+                    "50.6%",
+                    "55%",
+                    "58.3%",
+                    "61.6%",
+                    "66%",
+                    "70.4%",
+                    "74.8%",
+                    "79.2%",
+                    "83.6%",
+                    "88%",
+                    "93.5%",
+                    "99%",
+                    "104.5%"
+                ],
+                "Dano Contínuo": [
+                    "148%",
+                    "159.1%",
+                    "170.2%",
+                    "185%",
+                    "196.1%",
+                    "207.2%",
+                    "222%",
+                    "236.8%",
+                    "251.6%",
+                    "266.4%",
+                    "281.2%",
+                    "296%",
+                    "314.5%",
+                    "333%",
+                    "351.5%"
+                ],
+                "Duração": [
+                    "6",
+                    "6",
+                    "6",
+                    "6",
+                    "6",
+                    "6",
+                    "6",
+                    "6",
+                    "6",
+                    "6",
+                    "6",
+                    "6",
+                    "6",
+                    "6",
+                    "6"
+                ],
+                "Energia Elemental": [
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80"
+                ],
+                "Tempo de Recarga": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ]
+            },
+            "name": "Criação Proibida do Espírito do Vento: Isomórfico-75 Tipo II"
+        },
+        "elementalskill": {
+            "description": "Cria um pequeno Espírito de Vento que puxa inimigos e objetos em direção a sua localização, lançando os inimigos em AdE e causando <color=#80FFD7FF>Dano Anemo</color> neles.\\n\\n<i>Isso é um pouco vergonhoso, mas apesar de as formas de vida elementais nascidas através desse procedimento se dissiparem muito rapidamente, elas são incrivelmente úteis durante aventuras. Até mesmo experimentos falhos podem ter aplicações práticas.</i>",
+            "icon": "Skill_S_Sucrose_01",
+            "multipliers": {
+                "Dano de Habilidade": [
+                    "211.2%",
+                    "227.04%",
+                    "242.88%",
+                    "264%",
+                    "279.84%",
+                    "295.68%",
+                    "316.8%",
+                    "337.92%",
+                    "359.04%",
+                    "380.16%",
+                    "401.28%",
+                    "422.4%",
+                    "448.8%",
+                    "475.2%",
+                    "501.6%"
+                ],
+                "Tempo de Recarga": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ]
+            },
+            "name": "Criação do Espírito do Vento: Experimento 6308"
+        },
+        "leveling": {
+            "books": {
+                "104301": 9,
+                "104302": 63,
+                "104303": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113008": 18
+            },
+            "worldmonster": {
+                "112038": 18,
+                "112039": 66,
+                "112040": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 4 ataques usando os Espíritos dos Ventos, infligindo <color=#80FFD7FF>Dano Anemo</color>.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome uma certa quantidade de Stamina que inflige <color=#80FFD7FF>Dano Anemo em uma AdE</color> após um curto período de canalização.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nConvocando os poderes dos Espíritos do Vento para si, Sucrose mergulha ao chão em pleno ar, infligindo dano a todos os inimigos em seu caminho. Inflige <color=#80FFD7FF>Dano Anemo em uma AdE</color> durante o impacto com o chão.",
+            "icon": "Skill_A_Catalyst_MD",
+            "multipliers": {
+                "Consumo de Stamina de Ataque Carregado": [
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50"
+                ],
+                "Dano Durante a Queda": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "Dano de Ataque Carregado": [
+                    "120.16%",
+                    "129.17%",
+                    "138.18%",
+                    "150.2%",
+                    "159.21%",
+                    "168.22%",
+                    "180.24%",
+                    "192.26%",
+                    "204.27%",
+                    "216.29%",
+                    "228.3%",
+                    "240.32%",
+                    "255.34%",
+                    "270.36%",
+                    "285.38%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "Dano do 1° Golpe": [
+                    "33.46%",
+                    "35.97%",
+                    "38.48%",
+                    "41.83%",
+                    "44.34%",
+                    "46.85%",
+                    "50.2%",
+                    "53.54%",
+                    "56.89%",
+                    "60.24%",
+                    "63.58%",
+                    "66.93%",
+                    "71.11%",
+                    "75.29%",
+                    "79.48%"
+                ],
+                "Dano do 2° Golpe": [
+                    "30.62%",
+                    "32.91%",
+                    "35.21%",
+                    "38.27%",
+                    "40.57%",
+                    "42.86%",
+                    "45.92%",
+                    "48.99%",
+                    "52.05%",
+                    "55.11%",
+                    "58.17%",
+                    "61.23%",
+                    "65.06%",
+                    "68.89%",
+                    "72.71%"
+                ],
+                "Dano do 3° Golpe": [
+                    "38.45%",
+                    "41.33%",
+                    "44.22%",
+                    "48.06%",
+                    "50.94%",
+                    "53.83%",
+                    "57.67%",
+                    "61.52%",
+                    "65.36%",
+                    "69.21%",
+                    "73.05%",
+                    "76.9%",
+                    "81.7%",
+                    "86.51%",
+                    "91.31%"
+                ],
+                "Dano do 4° Golpe": [
+                    "47.92%",
+                    "51.51%",
+                    "55.11%",
+                    "59.9%",
+                    "63.49%",
+                    "67.08%",
+                    "71.88%",
+                    "76.67%",
+                    "81.46%",
+                    "86.25%",
+                    "91.04%",
+                    "95.84%",
+                    "101.82%",
+                    "107.81%",
+                    "113.8%"
+                ]
+            },
+            "name": "Criação do Espírito do Vento"
+        }
+    }
+}

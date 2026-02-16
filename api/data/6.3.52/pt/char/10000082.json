@@ -1,0 +1,1286 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104131": 1,
+            "104132": 9,
+            "104133": 9,
+            "104134": 6
+        },
+        "elitemonster": {
+            "113045": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100034": 168
+        },
+        "worldmonster": {
+            "112059": 18,
+            "112060": 30,
+            "112061": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "ExtraAttack_Gadget",
+            "poise": "LV3/80"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Attack01",
+            "poise": "LV1/7"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Attack02",
+            "poise": "LV1/6"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Attack03",
+            "poise": "LV1/4"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Attack04",
+            "poise": "LV3/10"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "11 hits / 2s",
+            "icd_source": "Grp: Baizhuer_ElementalArt (Tag Miss)",
+            "name": "ElementalArt_Bullet_01_Material",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Grp: default",
+            "name": "ElementalBurst",
+            "poise": "LV3/200"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Bullet_Material",
+            "poise": "LV1/50"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "11 hits / 4s",
+            "icd_source": "Grp: Baizhuer_Talent (Tag Miss)",
+            "name": "ElementalArt_Bullet_03_Material",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Grass",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/5"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "<color=#FFD780FF>Diagnóstico Universal</color> ganha 1 carga adicional.",
+            "icon": "UI_Talent_S_Baizhuer_01",
+            "name": "Observação Atenta"
+        },
+        "const2": {
+            "description": "Quando o personagem ativo da equipe atinge um inimigo próximo com um ataque, Baizhu lançará Espírito Sérico: Corte.\\nEspírito Sérico: Corte realizará até um Ataque e retornará, causando 250% do ATQ de Baizhu como <color=#99FF88FF>Dano Dendro</color> e regenerará 20% do Espírito Sérico de <color=#FFD780FF>Diagnóstico Universal</color>.\\nO Dano causado desta forma é considerado Dano de Habilidade Elemental.\\nPode ser desencadeado uma vez a cada 5s.",
+            "icon": "UI_Talent_S_Baizhuer_02",
+            "name": "Discernimento Incisivo"
+        },
+        "const3": {
+            "description": "Aumenta o nível de <color=#FFD780FF>Cura Holística</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Baizhuer_01",
+            "name": "Estabilidade Total"
+        },
+        "const4": {
+            "description": "Durante 15s após o uso de <color=#FFD780FF>Cura Holística</color>, Baizhu aumenta a Proficiência Elemental de todos os aliados próximos em 80.",
+            "icon": "UI_Talent_S_Baizhuer_03",
+            "name": "Percepção Ancestral"
+        },
+        "const5": {
+            "description": "Aumenta o nível de <color=#FFD780FF>Diagnóstico Universal</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Baizhuer_02",
+            "name": "Sinais Ocultos da Mudança"
+        },
+        "const6": {
+            "description": "Aumenta o Dano causado pelo Espiriveio de <color=#FFD780FF>Cura Holística</color> em 8% da Vida Máxima de Baizhu.\\nAlém disso, quando <color=#FFD780FF>Espírito Sérico</color> ou Espírito Sérico: Corte atingem um inimigo, há 100% de chance de gerar um Escudo Impenetrável de <color=#FFD780FF>Cura Holística</color>. Esse efeito pode ocorrer apenas uma vez para cada Espírito Sérico ou Espírito Sérico: Corte.",
+            "icon": "UI_Talent_S_Baizhuer_04",
+            "name": "Eliminação de Qi Malicioso"
+        }
+    },
+    "energy": [
+        {
+            "cd": "1s",
+            "chance": "100%",
+            "particles": "3",
+            "source": "Ball"
+        },
+        {
+            "cd": "1s",
+            "chance": "50%",
+            "particles": "1",
+            "source": "Ball"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Baizhuer",
+        "forward": "UI_AvatarIcon_Baizhuer"
+    },
+    "info": {
+        "attributes": [
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 15,
+                "def": 39,
+                "hp": 1039,
+                "level": 1
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 16,
+                "def": 42,
+                "hp": 1125,
+                "level": 2
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 17,
+                "def": 45,
+                "hp": 1212,
+                "level": 3
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 49,
+                "hp": 1299,
+                "level": 4
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 52,
+                "hp": 1385,
+                "level": 5
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 55,
+                "hp": 1472,
+                "level": 6
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 58,
+                "hp": 1559,
+                "level": 7
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 62,
+                "hp": 1646,
+                "level": 8
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 65,
+                "hp": 1733,
+                "level": 9
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 68,
+                "hp": 1819,
+                "level": 10
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 71,
+                "hp": 1907,
+                "level": 11
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 75,
+                "hp": 1994,
+                "level": 12
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 78,
+                "hp": 2081,
+                "level": 13
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 81,
+                "hp": 2170,
+                "level": 14
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 84,
+                "hp": 2257,
+                "level": 15
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 88,
+                "hp": 2344,
+                "level": 16
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 91,
+                "hp": 2433,
+                "level": 17
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 94,
+                "hp": 2520,
+                "level": 18
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 98,
+                "hp": 2608,
+                "level": 19
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 101,
+                "hp": 2695,
+                "level": 20
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 53,
+                "def": 138,
+                "hp": 3675,
+                "level": 21
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 54,
+                "def": 141,
+                "hp": 3763,
+                "level": 22
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 56,
+                "def": 144,
+                "hp": 3851,
+                "level": 23
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 57,
+                "def": 147,
+                "hp": 3940,
+                "level": 24
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 58,
+                "def": 151,
+                "hp": 4028,
+                "level": 25
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 59,
+                "def": 154,
+                "hp": 4117,
+                "level": 26
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 61,
+                "def": 157,
+                "hp": 4206,
+                "level": 27
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 62,
+                "def": 161,
+                "hp": 4294,
+                "level": 28
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 63,
+                "def": 164,
+                "hp": 4383,
+                "level": 29
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 65,
+                "def": 167,
+                "hp": 4472,
+                "level": 30
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 66,
+                "def": 171,
+                "hp": 4561,
+                "level": 31
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 67,
+                "def": 174,
+                "hp": 4650,
+                "level": 32
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 68,
+                "def": 177,
+                "hp": 4740,
+                "level": 33
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 70,
+                "def": 181,
+                "hp": 4828,
+                "level": 34
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 184,
+                "hp": 4918,
+                "level": 35
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 72,
+                "def": 187,
+                "hp": 5008,
+                "level": 36
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 74,
+                "def": 191,
+                "hp": 5097,
+                "level": 37
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 75,
+                "def": 194,
+                "hp": 5187,
+                "level": 38
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 76,
+                "def": 197,
+                "hp": 5276,
+                "level": 39
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 77,
+                "def": 201,
+                "hp": 5366,
+                "level": 40
+            },
+            {
+                "HP%": "7.2",
+                "ascension": 2,
+                "atk": 88,
+                "def": 228,
+                "hp": 6089,
+                "level": 41
+            },
+            {
+                "HP%": "7.2",
+                "ascension": 2,
+                "atk": 89,
+                "def": 231,
+                "hp": 6179,
+                "level": 42
+            },
+            {
+                "HP%": "7.2",
+                "ascension": 2,
+                "atk": 90,
+                "def": 235,
+                "hp": 6270,
+                "level": 43
+            },
+            {
+                "HP%": "7.2",
+                "ascension": 2,
+                "atk": 92,
+                "def": 238,
+                "hp": 6359,
+                "level": 44
+            },
+            {
+                "HP%": "7.2",
+                "ascension": 2,
+                "atk": 93,
+                "def": 241,
+                "hp": 6449,
+                "level": 45
+            },
+            {
+                "HP%": "7.2",
+                "ascension": 2,
+                "atk": 94,
+                "def": 245,
+                "hp": 6540,
+                "level": 46
+            },
+            {
+                "HP%": "7.2",
+                "ascension": 2,
+                "atk": 96,
+                "def": 248,
+                "hp": 6630,
+                "level": 47
+            },
+            {
+                "HP%": "7.2",
+                "ascension": 2,
+                "atk": 97,
+                "def": 252,
+                "hp": 6721,
+                "level": 48
+            },
+            {
+                "HP%": "7.2",
+                "ascension": 2,
+                "atk": 98,
+                "def": 255,
+                "hp": 6812,
+                "level": 49
+            },
+            {
+                "HP%": "7.2",
+                "ascension": 2,
+                "atk": 100,
+                "def": 258,
+                "hp": 6902,
+                "level": 50
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 3,
+                "atk": 113,
+                "def": 293,
+                "hp": 7837,
+                "level": 51
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 3,
+                "atk": 114,
+                "def": 297,
+                "hp": 7928,
+                "level": 52
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 3,
+                "atk": 116,
+                "def": 300,
+                "hp": 8019,
+                "level": 53
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 3,
+                "atk": 117,
+                "def": 304,
+                "hp": 8110,
+                "level": 54
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 3,
+                "atk": 118,
+                "def": 307,
+                "hp": 8202,
+                "level": 55
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 3,
+                "atk": 120,
+                "def": 310,
+                "hp": 8293,
+                "level": 56
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 3,
+                "atk": 121,
+                "def": 314,
+                "hp": 8385,
+                "level": 57
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 3,
+                "atk": 122,
+                "def": 317,
+                "hp": 8476,
+                "level": 58
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 3,
+                "atk": 124,
+                "def": 321,
+                "hp": 8567,
+                "level": 59
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 3,
+                "atk": 125,
+                "def": 324,
+                "hp": 8659,
+                "level": 60
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 4,
+                "atk": 135,
+                "def": 351,
+                "hp": 9383,
+                "level": 61
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 4,
+                "atk": 137,
+                "def": 355,
+                "hp": 9475,
+                "level": 62
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 4,
+                "atk": 138,
+                "def": 358,
+                "hp": 9567,
+                "level": 63
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 4,
+                "atk": 139,
+                "def": 361,
+                "hp": 9659,
+                "level": 64
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 4,
+                "atk": 141,
+                "def": 365,
+                "hp": 9751,
+                "level": 65
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 4,
+                "atk": 142,
+                "def": 368,
+                "hp": 9844,
+                "level": 66
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 4,
+                "atk": 143,
+                "def": 372,
+                "hp": 9935,
+                "level": 67
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 4,
+                "atk": 145,
+                "def": 375,
+                "hp": 10028,
+                "level": 68
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 4,
+                "atk": 146,
+                "def": 379,
+                "hp": 10120,
+                "level": 69
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 4,
+                "atk": 147,
+                "def": 382,
+                "hp": 10213,
+                "level": 70
+            },
+            {
+                "HP%": "21.6",
+                "ascension": 5,
+                "atk": 158,
+                "def": 409,
+                "hp": 10938,
+                "level": 71
+            },
+            {
+                "HP%": "21.6",
+                "ascension": 5,
+                "atk": 159,
+                "def": 413,
+                "hp": 11032,
+                "level": 72
+            },
+            {
+                "HP%": "21.6",
+                "ascension": 5,
+                "atk": 160,
+                "def": 416,
+                "hp": 11124,
+                "level": 73
+            },
+            {
+                "HP%": "21.6",
+                "ascension": 5,
+                "atk": 162,
+                "def": 420,
+                "hp": 11217,
+                "level": 74
+            },
+            {
+                "HP%": "21.6",
+                "ascension": 5,
+                "atk": 163,
+                "def": 423,
+                "hp": 11310,
+                "level": 75
+            },
+            {
+                "HP%": "21.6",
+                "ascension": 5,
+                "atk": 164,
+                "def": 427,
+                "hp": 11403,
+                "level": 76
+            },
+            {
+                "HP%": "21.6",
+                "ascension": 5,
+                "atk": 166,
+                "def": 430,
+                "hp": 11496,
+                "level": 77
+            },
+            {
+                "HP%": "21.6",
+                "ascension": 5,
+                "atk": 167,
+                "def": 434,
+                "hp": 11590,
+                "level": 78
+            },
+            {
+                "HP%": "21.6",
+                "ascension": 5,
+                "atk": 169,
+                "def": 437,
+                "hp": 11683,
+                "level": 79
+            },
+            {
+                "HP%": "21.6",
+                "ascension": 5,
+                "atk": 170,
+                "def": 441,
+                "hp": 11777,
+                "level": 80
+            },
+            {
+                "HP%": "28.8",
+                "ascension": 6,
+                "atk": 180,
+                "def": 468,
+                "hp": 12503,
+                "level": 81
+            },
+            {
+                "HP%": "28.8",
+                "ascension": 6,
+                "atk": 182,
+                "def": 471,
+                "hp": 12597,
+                "level": 82
+            },
+            {
+                "HP%": "28.8",
+                "ascension": 6,
+                "atk": 183,
+                "def": 475,
+                "hp": 12690,
+                "level": 83
+            },
+            {
+                "HP%": "28.8",
+                "ascension": 6,
+                "atk": 184,
+                "def": 478,
+                "hp": 12784,
+                "level": 84
+            },
+            {
+                "HP%": "28.8",
+                "ascension": 6,
+                "atk": 186,
+                "def": 482,
+                "hp": 12877,
+                "level": 85
+            },
+            {
+                "HP%": "28.8",
+                "ascension": 6,
+                "atk": 187,
+                "def": 485,
+                "hp": 12972,
+                "level": 86
+            },
+            {
+                "HP%": "28.8",
+                "ascension": 6,
+                "atk": 188,
+                "def": 489,
+                "hp": 13065,
+                "level": 87
+            },
+            {
+                "HP%": "28.8",
+                "ascension": 6,
+                "atk": 190,
+                "def": 493,
+                "hp": 13160,
+                "level": 88
+            },
+            {
+                "HP%": "28.8",
+                "ascension": 6,
+                "atk": 191,
+                "def": 496,
+                "hp": 13255,
+                "level": 89
+            },
+            {
+                "HP%": "28.8",
+                "ascension": 6,
+                "atk": 193,
+                "def": 500,
+                "hp": 13348,
+                "level": 90
+            },
+            {
+                "HP%": "28.8",
+                "ascension": 6,
+                "atk": 214,
+                "def": 517,
+                "hp": 13822,
+                "level": 95
+            },
+            {
+                "HP%": "28.8",
+                "ascension": 6,
+                "atk": 236,
+                "def": 535,
+                "hp": 14297,
+                "level": 100
+            }
+        ],
+        "birthday": "April 25th",
+        "constellation": "Lagenaria",
+        "description": "O dono do Chalé de Bubu, sempre com uma cobra branca chamada Changsheng pendurada no pescoço. Um grande conhecedor de medicina, suas verdadeiras intenções são um grande mistério.",
+        "element": "Dendro",
+        "name": "Baizhu",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_CATALYST"
+    },
+    "passives": {
+        "p1": {
+            "description": "Baizhu ganha diferentes efeitos conforme a Vida atual do personagem ativo:\\n· Quando a Vida é menor do que 50%, Baizhu ganha 20% de Bônus de Cura.\\n· Quando a Vida é igual ou maior do que 50%, Baizhu ganha 25% de <color=#99FF88FF>Bônus de Dano Dendro</color>.",
+            "icon": "UI_Talent_S_Baizhuer_05",
+            "name": "Cinco Fortunas Eternas"
+        },
+        "p2": {
+            "description": "Personagens curados pelo <color=#FFD780FF>Escudo Impenetrável</color> ganharão o efeito \"Era da Proteção Verdejante\": Cada 1.000 pontos de Vida Máxima de Baizhu abaixo de 50.000 aumenta o Dano das reações de Queimaduras, Florescimento, Superflorescimento e Germinação em 2%. O Dano das reações Intensificação e Propagação aumenta em 0.8%, o de Florescimento Lunar em 0.7%. A duração é de 6s.",
+            "icon": "UI_Talent_S_Baizhuer_06",
+            "name": "Mãe Terra"
+        },
+        "p3": {
+            "description": "Quando Baizhu está na equipe, interagir com certos itens coletáveis cura a equipe em 2.5% da Vida Máxima de Baizhu.",
+            "icon": "UI_Talent_S_Baizhuer_07",
+            "name": "Nutrição Herbal"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Entra no estado Édito Pulsante, criando um Escudo Impenetrável que possui um efeito de 250% de absorção de <color=#99FF88FF>Dano Dendro</color>.\\nEnquanto estiver no estado Édito Pulsante, gerará um novo Escudo Impenetrável a cada 2.5s.\\n\\nSegundo as circunstâncias abaixo, regenerará Vida para os personagens ativos da sua equipe no campo de batalha, a quantidade regenerada é baseada na Vida Máxima de Baizhu, e atacará os inimigos lançando o Espiriveio, causando <color=#99FF88FF>Dano Dendro</color>:\\n· Quando um personagem estiver protegido pelo Escudo Impenetrável e um novo Escudo Impenetrável é gerado;\\n· Quando o efeito do Escudo Impenetrável acaba ou quando é destruído.\\n\\n<i>Se você conseguir olhar para o céu e para a terra, proteja o seu interior contra o que vem de fora e mantenha sua mente tranquila, assim nada vai poder te impedir.</i>",
+            "icon": "Skill_E_Baizhuer_01",
+            "multipliers": {
+                "Cura do Escudo Impenetrável": [
+                    "5.2% Vida Máxima + 501",
+                    "5.59% Vida Máxima + 551",
+                    "5.98% Vida Máxima + 605",
+                    "6.5% Vida Máxima + 664",
+                    "6.89% Vida Máxima + 726",
+                    "7.28% Vida Máxima + 793",
+                    "7.8% Vida Máxima + 864",
+                    "8.32% Vida Máxima + 939",
+                    "8.84% Vida Máxima + 1018",
+                    "9.36% Vida Máxima + 1102",
+                    "9.88% Vida Máxima + 1189",
+                    "10.4% Vida Máxima + 1281",
+                    "11.05% Vida Máxima + 1377",
+                    "11.7% Vida Máxima + 1477",
+                    "12.35% Vida Máxima + 1582"
+                ],
+                "Dano de Habilidade do Espiriveio": [
+                    "97.06%",
+                    "104.34%",
+                    "111.62%",
+                    "121.33%",
+                    "128.61%",
+                    "135.89%",
+                    "145.6%",
+                    "155.3%",
+                    "165.01%",
+                    "174.72%",
+                    "184.42%",
+                    "194.13%",
+                    "206.26%",
+                    "218.39%",
+                    "230.53%"
+                ],
+                "Duração do Escudo Impenetrável": [
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s"
+                ],
+                "Duração do Édito Pulsante": [
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s"
+                ],
+                "Energia Elemental": [
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80"
+                ],
+                "Escudo Impenetrável": [
+                    "0.8% da Vida Máxima + 77",
+                    "0.86% da Vida Máxima + 85",
+                    "0.92% da Vida Máxima + 93",
+                    "1% da Vida Máxima + 102",
+                    "1.06% da Vida Máxima + 112",
+                    "1.12% da Vida Máxima + 122",
+                    "1.2% da Vida Máxima + 133",
+                    "1.28% da Vida Máxima + 144",
+                    "1.36% da Vida Máxima + 157",
+                    "1.44% da Vida Máxima + 169",
+                    "1.52% da Vida Máxima + 183",
+                    "1.6% da Vida Máxima + 197",
+                    "1.7% da Vida Máxima + 212",
+                    "1.8% da Vida Máxima + 227",
+                    "1.9% da Vida Máxima + 243"
+                ],
+                "Recarga": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ]
+            },
+            "name": "Cura Holística"
+        },
+        "elementalskill": {
+            "description": "Controla um Espírito Sérico, fazendo-o atacar os inimigos próximos, causando <color=#99FF88FF>Dano Dendro</color>.\\nDepois de realizar até 3 ataques, ou quando não houver inimigos próximos, o Espírito Sérico retornará, regenerando Vida de todos os personagens da equipe próximos; a quantidade de Vida regenerada é baseada na Vida Máxima de Baizhu.\\n\\n<i>As pessoas da área médica que podem distinguir os verdadeiros sinais de uma doença dos sinais falsos, conseguem curar uma pessoa antes mesmo dos sintomas aparecerem.</i>",
+            "icon": "Skill_S_Baizhuer_01",
+            "multipliers": {
+                "Cura": [
+                    "8% da Vida Máxima + 770",
+                    "8.6% da Vida Máxima + 847",
+                    "9.2% da Vida Máxima + 931",
+                    "10% da Vida Máxima + 1021",
+                    "10.6% da Vida Máxima + 1117",
+                    "11.2% da Vida Máxima + 1220",
+                    "12% da Vida Máxima + 1329",
+                    "12.8% da Vida Máxima + 1445",
+                    "13.6% da Vida Máxima + 1567",
+                    "14.4% da Vida Máxima + 1695",
+                    "15.2% da Vida Máxima + 1830",
+                    "16% da Vida Máxima + 1971",
+                    "17% da Vida Máxima + 2119",
+                    "18% da Vida Máxima + 2273",
+                    "19% da Vida Máxima + 2433"
+                ],
+                "Dano de Habilidade": [
+                    "79.2%",
+                    "85.14%",
+                    "91.08%",
+                    "99%",
+                    "104.94%",
+                    "110.88%",
+                    "118.8%",
+                    "126.72%",
+                    "134.64%",
+                    "142.56%",
+                    "150.48%",
+                    "158.4%",
+                    "168.3%",
+                    "178.2%",
+                    "188.1%"
+                ],
+                "Tempo de Recarga": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ]
+            },
+            "name": "Diagnóstico Universal"
+        },
+        "leveling": {
+            "books": {
+                "104316": 9,
+                "104317": 63,
+                "104318": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113046": 18
+            },
+            "worldmonster": {
+                "112059": 18,
+                "112060": 66,
+                "112061": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 4 ataques que infligem <color=#99FF88FF>Dano Dendro</color>.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome uma certa quantidade de Stamina para infligir <color=#99FF88FF>Dano Dendro em uma AdE</color> após um curto período de canalização.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nReunindo o poder do Dendro, mergulha em direção ao chão em pleno ar, infligindo dano a todos os inimigos em seu caminho. Inflige <color=#99FF88FF>Dano Dendro em uma AdE</color> durante o impacto com o chão.",
+            "icon": "Skill_A_Catalyst_MD",
+            "multipliers": {
+                "Consumo de Stamina de Ataque Carregado": [
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50"
+                ],
+                "Dano Durante a Queda": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "Dano de Ataque Carregado": [
+                    "121.04%",
+                    "130.12%",
+                    "139.2%",
+                    "151.3%",
+                    "160.38%",
+                    "169.46%",
+                    "181.56%",
+                    "193.66%",
+                    "205.77%",
+                    "217.87%",
+                    "229.98%",
+                    "242.08%",
+                    "257.21%",
+                    "272.34%",
+                    "287.47%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "Dano do 1° Golpe": [
+                    "37.37%",
+                    "40.17%",
+                    "42.98%",
+                    "46.71%",
+                    "49.52%",
+                    "52.32%",
+                    "56.06%",
+                    "59.79%",
+                    "63.53%",
+                    "67.27%",
+                    "71%",
+                    "74.74%",
+                    "79.41%",
+                    "84.08%",
+                    "88.75%"
+                ],
+                "Dano do 2° Golpe": [
+                    "36.42%",
+                    "39.16%",
+                    "41.89%",
+                    "45.53%",
+                    "48.26%",
+                    "50.99%",
+                    "54.64%",
+                    "58.28%",
+                    "61.92%",
+                    "65.56%",
+                    "69.21%",
+                    "72.85%",
+                    "77.4%",
+                    "81.96%",
+                    "86.51%"
+                ],
+                "Dano do 3° Golpe": [
+                    "22.54%*2",
+                    "24.23%*2",
+                    "25.92%*2",
+                    "28.18%*2",
+                    "29.87%*2",
+                    "31.56%*2",
+                    "33.81%*2",
+                    "36.07%*2",
+                    "38.32%*2",
+                    "40.57%*2",
+                    "42.83%*2",
+                    "45.08%*2",
+                    "47.9%*2",
+                    "50.72%*2",
+                    "53.54%*2"
+                ],
+                "Dano do 4° Golpe": [
+                    "54.14%",
+                    "58.2%",
+                    "62.26%",
+                    "67.67%",
+                    "71.73%",
+                    "75.79%",
+                    "81.21%",
+                    "86.62%",
+                    "92.03%",
+                    "97.45%",
+                    "102.86%",
+                    "108.28%",
+                    "115.04%",
+                    "121.81%",
+                    "128.58%"
+                ]
+            },
+            "name": "Acupuntura Dourada"
+        }
+    }
+}

@@ -1,0 +1,1512 @@
+{
+    "info": {
+        "name": "Mavuika",
+        "description": "A líder de Natlan que herdou o Nome Antigo de \"Kiongozi\". Ela fez um voto para iluminar o futuro da nação da guerra com a Chama Sagrada.",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_CLAYMORE",
+        "birthday": "August 28th",
+        "element": "Pyro",
+        "constellation": "Sol Invictus",
+        "attributes": [
+            {
+                "level": 1,
+                "ascension": 0,
+                "hp": 977,
+                "atk": 28,
+                "def": 62,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 2,
+                "ascension": 0,
+                "hp": 1058,
+                "atk": 30,
+                "def": 67,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 3,
+                "ascension": 0,
+                "hp": 1139,
+                "atk": 33,
+                "def": 72,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 4,
+                "ascension": 0,
+                "hp": 1221,
+                "atk": 35,
+                "def": 77,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 5,
+                "ascension": 0,
+                "hp": 1303,
+                "atk": 37,
+                "def": 82,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 6,
+                "ascension": 0,
+                "hp": 1385,
+                "atk": 40,
+                "def": 87,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 7,
+                "ascension": 0,
+                "hp": 1466,
+                "atk": 42,
+                "def": 92,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 8,
+                "ascension": 0,
+                "hp": 1548,
+                "atk": 44,
+                "def": 98,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 9,
+                "ascension": 0,
+                "hp": 1630,
+                "atk": 47,
+                "def": 103,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 10,
+                "ascension": 0,
+                "hp": 1711,
+                "atk": 49,
+                "def": 108,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 11,
+                "ascension": 0,
+                "hp": 1793,
+                "atk": 51,
+                "def": 113,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 12,
+                "ascension": 0,
+                "hp": 1875,
+                "atk": 54,
+                "def": 118,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 13,
+                "ascension": 0,
+                "hp": 1957,
+                "atk": 56,
+                "def": 123,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 14,
+                "ascension": 0,
+                "hp": 2040,
+                "atk": 58,
+                "def": 129,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 15,
+                "ascension": 0,
+                "hp": 2122,
+                "atk": 61,
+                "def": 134,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 16,
+                "ascension": 0,
+                "hp": 2204,
+                "atk": 63,
+                "def": 139,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 17,
+                "ascension": 0,
+                "hp": 2288,
+                "atk": 65,
+                "def": 144,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 18,
+                "ascension": 0,
+                "hp": 2370,
+                "atk": 68,
+                "def": 149,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 19,
+                "ascension": 0,
+                "hp": 2453,
+                "atk": 70,
+                "def": 155,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 20,
+                "ascension": 0,
+                "hp": 2535,
+                "atk": 72,
+                "def": 160,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 21,
+                "ascension": 1,
+                "hp": 3456,
+                "atk": 99,
+                "def": 218,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 22,
+                "ascension": 1,
+                "hp": 3539,
+                "atk": 101,
+                "def": 223,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 23,
+                "ascension": 1,
+                "hp": 3622,
+                "atk": 104,
+                "def": 228,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 24,
+                "ascension": 1,
+                "hp": 3705,
+                "atk": 106,
+                "def": 234,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 25,
+                "ascension": 1,
+                "hp": 3788,
+                "atk": 108,
+                "def": 239,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 26,
+                "ascension": 1,
+                "hp": 3872,
+                "atk": 111,
+                "def": 244,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 27,
+                "ascension": 1,
+                "hp": 3955,
+                "atk": 113,
+                "def": 249,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 28,
+                "ascension": 1,
+                "hp": 4038,
+                "atk": 115,
+                "def": 255,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 29,
+                "ascension": 1,
+                "hp": 4122,
+                "atk": 118,
+                "def": 260,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 30,
+                "ascension": 1,
+                "hp": 4205,
+                "atk": 120,
+                "def": 265,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 31,
+                "ascension": 1,
+                "hp": 4289,
+                "atk": 123,
+                "def": 270,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 32,
+                "ascension": 1,
+                "hp": 4373,
+                "atk": 125,
+                "def": 276,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 33,
+                "ascension": 1,
+                "hp": 4457,
+                "atk": 127,
+                "def": 281,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 34,
+                "ascension": 1,
+                "hp": 4540,
+                "atk": 130,
+                "def": 286,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 35,
+                "ascension": 1,
+                "hp": 4624,
+                "atk": 132,
+                "def": 292,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 36,
+                "ascension": 1,
+                "hp": 4709,
+                "atk": 135,
+                "def": 297,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 37,
+                "ascension": 1,
+                "hp": 4793,
+                "atk": 137,
+                "def": 302,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 38,
+                "ascension": 1,
+                "hp": 4877,
+                "atk": 139,
+                "def": 308,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 39,
+                "ascension": 1,
+                "hp": 4961,
+                "atk": 142,
+                "def": 313,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 40,
+                "ascension": 1,
+                "hp": 5046,
+                "atk": 144,
+                "def": 318,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 41,
+                "ascension": 2,
+                "hp": 5726,
+                "atk": 164,
+                "def": 361,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 42,
+                "ascension": 2,
+                "hp": 5811,
+                "atk": 166,
+                "def": 366,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 43,
+                "ascension": 2,
+                "hp": 5896,
+                "atk": 169,
+                "def": 372,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 44,
+                "ascension": 2,
+                "hp": 5980,
+                "atk": 171,
+                "def": 377,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 45,
+                "ascension": 2,
+                "hp": 6065,
+                "atk": 173,
+                "def": 382,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 46,
+                "ascension": 2,
+                "hp": 6150,
+                "atk": 176,
+                "def": 388,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 47,
+                "ascension": 2,
+                "hp": 6235,
+                "atk": 178,
+                "def": 393,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 48,
+                "ascension": 2,
+                "hp": 6320,
+                "atk": 181,
+                "def": 399,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 49,
+                "ascension": 2,
+                "hp": 6406,
+                "atk": 183,
+                "def": 404,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 50,
+                "ascension": 2,
+                "hp": 6491,
+                "atk": 186,
+                "def": 409,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 51,
+                "ascension": 3,
+                "hp": 7370,
+                "atk": 211,
+                "def": 465,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 52,
+                "ascension": 3,
+                "hp": 7456,
+                "atk": 213,
+                "def": 470,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 53,
+                "ascension": 3,
+                "hp": 7541,
+                "atk": 216,
+                "def": 476,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 54,
+                "ascension": 3,
+                "hp": 7627,
+                "atk": 218,
+                "def": 481,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 55,
+                "ascension": 3,
+                "hp": 7713,
+                "atk": 220,
+                "def": 486,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 56,
+                "ascension": 3,
+                "hp": 7799,
+                "atk": 223,
+                "def": 492,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 57,
+                "ascension": 3,
+                "hp": 7885,
+                "atk": 225,
+                "def": 497,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 58,
+                "ascension": 3,
+                "hp": 7971,
+                "atk": 228,
+                "def": 503,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 59,
+                "ascension": 3,
+                "hp": 8057,
+                "atk": 230,
+                "def": 508,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 60,
+                "ascension": 3,
+                "hp": 8143,
+                "atk": 233,
+                "def": 514,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 61,
+                "ascension": 4,
+                "hp": 8824,
+                "atk": 252,
+                "def": 556,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 62,
+                "ascension": 4,
+                "hp": 8910,
+                "atk": 255,
+                "def": 562,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 63,
+                "ascension": 4,
+                "hp": 8997,
+                "atk": 257,
+                "def": 567,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 64,
+                "ascension": 4,
+                "hp": 9083,
+                "atk": 260,
+                "def": 573,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 65,
+                "ascension": 4,
+                "hp": 9170,
+                "atk": 262,
+                "def": 578,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 66,
+                "ascension": 4,
+                "hp": 9257,
+                "atk": 265,
+                "def": 584,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 67,
+                "ascension": 4,
+                "hp": 9343,
+                "atk": 267,
+                "def": 589,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 68,
+                "ascension": 4,
+                "hp": 9430,
+                "atk": 270,
+                "def": 595,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 69,
+                "ascension": 4,
+                "hp": 9517,
+                "atk": 272,
+                "def": 600,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 70,
+                "ascension": 4,
+                "hp": 9604,
+                "atk": 274,
+                "def": 606,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 71,
+                "ascension": 5,
+                "hp": 10286,
+                "atk": 294,
+                "def": 649,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 72,
+                "ascension": 5,
+                "hp": 10374,
+                "atk": 297,
+                "def": 654,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 73,
+                "ascension": 5,
+                "hp": 10461,
+                "atk": 299,
+                "def": 660,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 74,
+                "ascension": 5,
+                "hp": 10548,
+                "atk": 301,
+                "def": 665,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 75,
+                "ascension": 5,
+                "hp": 10636,
+                "atk": 304,
+                "def": 671,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 76,
+                "ascension": 5,
+                "hp": 10723,
+                "atk": 306,
+                "def": 676,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 77,
+                "ascension": 5,
+                "hp": 10811,
+                "atk": 309,
+                "def": 682,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 78,
+                "ascension": 5,
+                "hp": 10899,
+                "atk": 312,
+                "def": 687,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 79,
+                "ascension": 5,
+                "hp": 10986,
+                "atk": 314,
+                "def": 693,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 80,
+                "ascension": 5,
+                "hp": 11074,
+                "atk": 317,
+                "def": 698,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 81,
+                "ascension": 6,
+                "hp": 11758,
+                "atk": 336,
+                "def": 742,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 82,
+                "ascension": 6,
+                "hp": 11846,
+                "atk": 339,
+                "def": 747,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 83,
+                "ascension": 6,
+                "hp": 11934,
+                "atk": 341,
+                "def": 753,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 84,
+                "ascension": 6,
+                "hp": 12021,
+                "atk": 344,
+                "def": 758,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 85,
+                "ascension": 6,
+                "hp": 12109,
+                "atk": 346,
+                "def": 764,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 86,
+                "ascension": 6,
+                "hp": 12198,
+                "atk": 349,
+                "def": 769,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 87,
+                "ascension": 6,
+                "hp": 12286,
+                "atk": 351,
+                "def": 775,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 88,
+                "ascension": 6,
+                "hp": 12375,
+                "atk": 354,
+                "def": 780,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 89,
+                "ascension": 6,
+                "hp": 12464,
+                "atk": 356,
+                "def": 786,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 90,
+                "ascension": 6,
+                "hp": 12552,
+                "atk": 359,
+                "def": 792,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 95,
+                "ascension": 6,
+                "hp": 12998,
+                "atk": 399,
+                "def": 820,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 100,
+                "ascension": 6,
+                "hp": 13444,
+                "atk": 439,
+                "def": 848,
+                "CRIT DMG%": "38.4"
+            }
+        ]
+    },
+    "icons": {
+        "forward": "UI_AvatarIcon_Mavuika",
+        "coop_img": "UI_CoopImg_Mavuika"
+    },
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101253": 168
+        },
+        "elemental": {
+            "104111": 1,
+            "104112": 9,
+            "104113": 9,
+            "104114": 6
+        },
+        "worldmonster": {
+            "112104": 18,
+            "112105": 30,
+            "112106": 36
+        },
+        "elitemonster": {
+            "113066": 46
+        }
+    },
+    "skills": {
+        "normalattack": {
+            "name": "Chamas Tecem a Vida",
+            "icon": "Skill_A_04",
+            "multipliers": {
+                "Dano do 1° Golpe": [
+                    "80.04%",
+                    "86.55%",
+                    "93.06%",
+                    "102.37%",
+                    "108.88%",
+                    "116.33%",
+                    "126.57%",
+                    "136.8%",
+                    "147.04%",
+                    "158.21%",
+                    "169.38%",
+                    "180.54%",
+                    "191.71%",
+                    "202.88%",
+                    "214.05%"
+                ],
+                "Dano do 2° Golpe": [
+                    "36.48% x2",
+                    "39.45% x2",
+                    "42.42% x2",
+                    "46.66% x2",
+                    "49.63% x2",
+                    "53.02% x2",
+                    "57.69% x2",
+                    "62.36% x2",
+                    "67.02% x2",
+                    "72.11% x2",
+                    "77.2% x2",
+                    "82.29% x2",
+                    "87.38% x2",
+                    "92.47% x2",
+                    "97.56% x2"
+                ],
+                "Dano do 3° Golpe": [
+                    "33.22% x3",
+                    "35.93% x3",
+                    "38.63% x3",
+                    "42.49% x3",
+                    "45.2% x3",
+                    "48.29% x3",
+                    "52.54% x3",
+                    "56.79% x3",
+                    "61.04% x3",
+                    "65.67% x3",
+                    "70.31% x3",
+                    "74.95% x3",
+                    "79.58% x3",
+                    "84.22% x3",
+                    "88.85% x3"
+                ],
+                "Dano do 4° Golpe": [
+                    "116.19%",
+                    "125.65%",
+                    "135.11%",
+                    "148.62%",
+                    "158.08%",
+                    "168.89%",
+                    "183.75%",
+                    "198.61%",
+                    "213.47%",
+                    "229.68%",
+                    "245.9%",
+                    "262.11%",
+                    "278.32%",
+                    "294.54%",
+                    "310.75%"
+                ],
+                "Dano de Ataque Carregado": [
+                    "193.84%",
+                    "209.62%",
+                    "225.4%",
+                    "247.94%",
+                    "263.72%",
+                    "281.75%",
+                    "306.54%",
+                    "331.34%",
+                    "356.13%",
+                    "383.18%",
+                    "410.23%",
+                    "437.28%",
+                    "464.32%",
+                    "491.37%",
+                    "518.42%"
+                ],
+                "Consumo de Stamina de Ataque Carregado": [
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50"
+                ],
+                "Dano Durante a Queda": [
+                    "74.59%",
+                    "80.66%",
+                    "86.73%",
+                    "95.4%",
+                    "101.47%",
+                    "108.41%",
+                    "117.95%",
+                    "127.49%",
+                    "137.03%",
+                    "147.44%",
+                    "157.85%",
+                    "168.26%",
+                    "178.66%",
+                    "189.07%",
+                    "199.48%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "149.14%/186.29%",
+                    "161.28%/201.45%",
+                    "173.42%/216.62%",
+                    "190.77%/238.28%",
+                    "202.91%/253.44%",
+                    "216.78%/270.77%",
+                    "235.86%/294.6%",
+                    "254.93%/318.42%",
+                    "274.01%/342.25%",
+                    "294.82%/368.25%",
+                    "315.63%/394.24%",
+                    "336.44%/420.23%",
+                    "357.25%/446.23%",
+                    "378.06%/472.22%",
+                    "398.87%/498.21%"
+                ]
+            },
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 4 golpes rápidos.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome uma certa quantidade de Stamina para desferir um poderoso Esplendor Fervoroso em frente.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto."
+        },
+        "elementalskill": {
+            "name": "Momento do Nome",
+            "icon": "Skill_S_Mavuika_01",
+            "multipliers": {
+                "Dano de Habilidade": [
+                    "74.4%",
+                    "79.98%",
+                    "85.56%",
+                    "93%",
+                    "98.58%",
+                    "104.16%",
+                    "111.6%",
+                    "119.04%",
+                    "126.48%",
+                    "133.92%",
+                    "141.36%",
+                    "148.8%",
+                    "158.1%",
+                    "167.4%",
+                    "176.7%"
+                ],
+                "Dano dos Anéis das Chamas Esplendorosas": [
+                    "128%",
+                    "137.6%",
+                    "147.2%",
+                    "160%",
+                    "169.6%",
+                    "179.2%",
+                    "192%",
+                    "204.8%",
+                    "217.6%",
+                    "230.4%",
+                    "243.2%",
+                    "256%",
+                    "272%",
+                    "288%",
+                    "304%"
+                ],
+                "Intervalo de ataque dos Anéis das Chamas Esplendorosas": [
+                    "2s",
+                    "2s",
+                    "2s",
+                    "2s",
+                    "2s",
+                    "2s",
+                    "2s",
+                    "2s",
+                    "2s",
+                    "2s",
+                    "2s",
+                    "2s",
+                    "2s",
+                    "2s",
+                    "2s"
+                ],
+                "Dano do 1º Golpe do Ataque Normal da Ignimoto": [
+                    "57.26%",
+                    "61.93%",
+                    "66.59%",
+                    "73.25%",
+                    "77.91%",
+                    "83.23%",
+                    "90.56%",
+                    "97.88%",
+                    "105.21%",
+                    "113.2%",
+                    "121.19%",
+                    "129.18%",
+                    "137.17%",
+                    "145.16%",
+                    "153.15%"
+                ],
+                "Dano do 2º Golpe do Ataque Normal da Ignimoto": [
+                    "59.13%",
+                    "63.95%",
+                    "68.76%",
+                    "75.63%",
+                    "80.45%",
+                    "85.95%",
+                    "93.51%",
+                    "101.08%",
+                    "108.64%",
+                    "116.89%",
+                    "125.14%",
+                    "133.39%",
+                    "141.64%",
+                    "149.89%",
+                    "158.15%"
+                ],
+                "Dano do 3º Golpe do Ataque Normal da Ignimoto": [
+                    "69.99%",
+                    "75.68%",
+                    "81.38%",
+                    "89.52%",
+                    "95.21%",
+                    "101.72%",
+                    "110.68%",
+                    "119.63%",
+                    "128.58%",
+                    "138.35%",
+                    "148.11%",
+                    "157.88%",
+                    "167.64%",
+                    "177.41%",
+                    "187.17%"
+                ],
+                "Dano do 4º Golpe do Ataque Normal da Ignimoto": [
+                    "69.7%",
+                    "75.38%",
+                    "81.05%",
+                    "89.16%",
+                    "94.83%",
+                    "101.31%",
+                    "110.23%",
+                    "119.15%",
+                    "128.06%",
+                    "137.79%",
+                    "147.51%",
+                    "157.24%",
+                    "166.97%",
+                    "176.69%",
+                    "186.42%"
+                ],
+                "Dano do 5º Golpe do Ataque Normal da Ignimoto": [
+                    "91%",
+                    "98.41%",
+                    "105.82%",
+                    "116.4%",
+                    "123.81%",
+                    "132.27%",
+                    "143.91%",
+                    "155.55%",
+                    "167.19%",
+                    "179.89%",
+                    "192.59%",
+                    "205.29%",
+                    "217.99%",
+                    "230.68%",
+                    "243.38%"
+                ],
+                "Dano de investida da Ignimoto": [
+                    "80.84%",
+                    "87.42%",
+                    "94%",
+                    "103.4%",
+                    "109.98%",
+                    "117.5%",
+                    "127.84%",
+                    "138.18%",
+                    "148.52%",
+                    "159.8%",
+                    "171.08%",
+                    "182.36%",
+                    "193.64%",
+                    "204.92%",
+                    "216.2%"
+                ],
+                "Dano de Loop de Ataque Carregado da Ignimoto": [
+                    "98.9%",
+                    "106.95%",
+                    "115%",
+                    "126.5%",
+                    "134.55%",
+                    "143.75%",
+                    "156.4%",
+                    "169.05%",
+                    "181.7%",
+                    "195.5%",
+                    "209.3%",
+                    "223.1%",
+                    "236.9%",
+                    "250.7%",
+                    "264.5%"
+                ],
+                "Dano Final de Ataque Carregado da Ignimoto": [
+                    "137.6%",
+                    "148.8%",
+                    "160%",
+                    "176%",
+                    "187.2%",
+                    "200%",
+                    "217.6%",
+                    "235.2%",
+                    "252.8%",
+                    "272%",
+                    "291.2%",
+                    "310.4%",
+                    "329.6%",
+                    "348.8%",
+                    "368%"
+                ],
+                "Dano de ataque contra o chão da Ignimoto": [
+                    "159.96%",
+                    "172.98%",
+                    "186%",
+                    "204.6%",
+                    "217.62%",
+                    "232.5%",
+                    "252.96%",
+                    "273.42%",
+                    "293.88%",
+                    "316.2%",
+                    "338.52%",
+                    "360.84%",
+                    "383.16%",
+                    "405.48%",
+                    "427.8%"
+                ],
+                "Limite de Pontos de Espírito da Noite": [
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80"
+                ],
+                "Tempo de Recarga": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ]
+            },
+            "description": "Clamando a sua autoridade sobre o \"conflito\", Mavuika invoca os Armamentos Flamejantes, causando <color=#FF9999FF>Dano Pyro</color> com alinhamento Espírito da Noite.\\nDepois de lançar, Mavuika regenera seus pontos de Espírito da Noite até o máximo, e entra no estado Bênção do Espírito da Noite.\\n\\n<color=#FFD780FF>Armamentos Flamejantes</color>\\nLança os Armamentos Flamejantes de formas diferentes se for pressionado ou manter pressionado.\\n\\n<color=#FFD780FF>Pressionar</color>\\n\"Libertação do Nome Divino\": os Armamentos Flamejantes se manifestam como Anéis das Chamas Esplendorosas. Os Anéis das Chamas Esplendorosas acompanham o personagem ativo, e atacam os inimigos próximos periodicamente, causando <color=#FF9999FF>Dano Pyro</color> com alinhamento Espírito da Noite.\\n\\n<color=#FFD780FF>Manter pressionado</color>\\n\"Libertação do Nome Antigo\": os Armamentos Flamejantes se manifestam como a Ignimoto. Nesse estado, Mavuika pode andar na Ignimoto em altas velocidades, ou pode abrir o compartimento secreto da Ignimoto para andar sobre todo terreno, bem como planar por um tempo. Além disso, os Ataques Normais, Carregados e Imersivos de Mavuika serão convertidos para causarem <color=#FF9999FF>Dano Pyro</color> com alinhamento Espírito da Noite que não pode ser substituído. Ao correr, também causará <color=#FF9999FF>Dano Pyro</color> com alinhamento Espírito da Noite contra os inimigos no seu caminho.\\n\\nQuando está no estado Bênção do Espírito da Noite, pressionar a Habilidade Elemental permite mudar a forma dos Armamentos Flamejantes. Eles desaparecerão quando o estado Bênção do Espírito da Noite de Mavuika acabar.\\n\\n<color=#FFD780FF>Bênção do Espírito da Noite: Mavuika</color>\\nConsome pontos de Espírito da Noite continuamente de acordo com a forma dos Armamentos Flamejantes. Quando os pontos de Espírito da Noite acabarem, o estado Bênção do Espírito da Noite de Mavuika acabará.\\n\\n<i>Se você contasse para Mavuika que veículos como a Ignimoto precisam de placas para identificação em outros mundos, isso a faria feliz:\\n\"Veja bem, a minha é a única que existe, então eu poderia escolher minha placa, não é?\"</i>"
+        },
+        "elementalburst": {
+            "name": "Hora de Queimar os Céus",
+            "icon": "Skill_E_Mavuika_01",
+            "multipliers": {
+                "Dano de Habilidade": [
+                    "444.8%",
+                    "478.16%",
+                    "511.52%",
+                    "556%",
+                    "589.36%",
+                    "622.72%",
+                    "667.2%",
+                    "711.68%",
+                    "756.16%",
+                    "800.64%",
+                    "845.12%",
+                    "889.6%",
+                    "945.2%",
+                    "1000.8%",
+                    "1056.4%"
+                ],
+                "Duração do Cadinho da Vida e da Morte": [
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s"
+                ],
+                "Aumento de Dano de Golpe Solar": [
+                    "Cada ponto de Espírito Lutador/1.6% do ATQ",
+                    "Cada ponto de Espírito Lutador/1.72% do ATQ",
+                    "Cada ponto de Espírito Lutador/1.84% do ATQ",
+                    "Cada ponto de Espírito Lutador/2% do ATQ",
+                    "Cada ponto de Espírito Lutador/2.12% do ATQ",
+                    "Cada ponto de Espírito Lutador/2.24% do ATQ",
+                    "Cada ponto de Espírito Lutador/2.4% do ATQ",
+                    "Cada ponto de Espírito Lutador/2.56% do ATQ",
+                    "Cada ponto de Espírito Lutador/2.72% do ATQ",
+                    "Cada ponto de Espírito Lutador/2.88% do ATQ",
+                    "Cada ponto de Espírito Lutador/3.04% do ATQ",
+                    "Cada ponto de Espírito Lutador/3.2% do ATQ",
+                    "Cada ponto de Espírito Lutador/3.4% do ATQ",
+                    "Cada ponto de Espírito Lutador/3.6% do ATQ",
+                    "Cada ponto de Espírito Lutador/3.8% do ATQ"
+                ],
+                "Aumento de Dano do Ataque Normal da Ignimoto": [
+                    "Cada ponto de Espírito Lutador/0.26% do ATQ",
+                    "Cada ponto de Espírito Lutador/0.28% do ATQ",
+                    "Cada ponto de Espírito Lutador/0.3% do ATQ",
+                    "Cada ponto de Espírito Lutador/0.33% do ATQ",
+                    "Cada ponto de Espírito Lutador/0.35% do ATQ",
+                    "Cada ponto de Espírito Lutador/0.37% do ATQ",
+                    "Cada ponto de Espírito Lutador/0.41% do ATQ",
+                    "Cada ponto de Espírito Lutador/0.44% do ATQ",
+                    "Cada ponto de Espírito Lutador/0.47% do ATQ",
+                    "Cada ponto de Espírito Lutador/0.51% do ATQ",
+                    "Cada ponto de Espírito Lutador/0.55% do ATQ",
+                    "Cada ponto de Espírito Lutador/0.58% do ATQ",
+                    "Cada ponto de Espírito Lutador/0.62% do ATQ",
+                    "Cada ponto de Espírito Lutador/0.65% do ATQ",
+                    "Cada ponto de Espírito Lutador/0.69% do ATQ"
+                ],
+                "Aumento de Dano do Ataque Carregado da Ignimoto": [
+                    "Cada ponto de Espírito Lutador/0.52% do ATQ",
+                    "Cada ponto de Espírito Lutador/0.56% do ATQ",
+                    "Cada ponto de Espírito Lutador/0.6% do ATQ",
+                    "Cada ponto de Espírito Lutador/0.66% do ATQ",
+                    "Cada ponto de Espírito Lutador/0.7% do ATQ",
+                    "Cada ponto de Espírito Lutador/0.75% do ATQ",
+                    "Cada ponto de Espírito Lutador/0.82% do ATQ",
+                    "Cada ponto de Espírito Lutador/0.88% do ATQ",
+                    "Cada ponto de Espírito Lutador/0.95% do ATQ",
+                    "Cada ponto de Espírito Lutador/1.02% do ATQ",
+                    "Cada ponto de Espírito Lutador/1.09% do ATQ",
+                    "Cada ponto de Espírito Lutador/1.16% do ATQ",
+                    "Cada ponto de Espírito Lutador/1.24% do ATQ",
+                    "Cada ponto de Espírito Lutador/1.31% do ATQ",
+                    "Cada ponto de Espírito Lutador/1.38% do ATQ"
+                ],
+                "Tempo de Recarga": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ],
+                "Limite de Espírito Lutador": [
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200"
+                ]
+            },
+            "description": "Que as vozes do povo alcancem os tronos divinos nos céus.\\n<color=#FFD780FF>O Supremo de Mavuika não usa Energia Elemental, mas Espírito Lutador.</color>\\n\\n<color=#FFD780FF>Espírito Lutador</color>\\nQuando Mavuika possui pelo menos 50% de Espírito Lutador, ela pode consumir tudo dele para lançar seu Supremo.\\nMavuika pode obter Espírito Lutador das seguintes formas:\\n· Quando está em batalha e um membro próximo da equipe consome pontos de Espírito da Noite, eles se converterão em Espírito Lutador para Mavuika.\\n· Quando um membro próximo da equipe atinge Ataques Normais em um inimigo, Mavuika obterá 1.5 de Espírito Lutador. Esse efeito pode ser desencadeado uma vez a cada 0.1s.\\n\\nDepois de lançar, Mavuika obtém 10 pontos de Espírito da Noite, entra no estado Bênção do Espírito da Noite e sobe na Ignimoto para saltar no ar, desferindo um Golpe Solar contra os oponentes no chão, causando <color=#FF9999FF>Dano Pyro em AdE</color> com alinhamento Espírito da Noite, e entrando no estado Cadinho da Vida e da Morte.\\n\\n<color=#FFD780FF>Cadinho da Vida e da Morte</color>\\nNa sua duração, as ações de Mavuika não consumirão pontos de Espírito da Noite, e aumenta a Resistência contra Interrupção de Mavuika. Além disso, de acordo com a quantidade de Espírito Lutador ao ser lançado, aumenta o Dano causado pelo Golpe Solar e pelos Ataques Normais e Carregados no estado Libertação do Nome Antigo.\\nO estado Cadinho da Vida e da Morte será removido quando Mavuika sair do campo.\\n\\n<i>\"Mas, desta vez, eu quero destruir esse destino com minhas próprias mãos.\"</i>"
+        },
+        "leveling": {
+            "crown": {
+                "104319": 3
+            },
+            "books": {
+                "104347": 9,
+                "104348": 63,
+                "104349": 114
+            },
+            "worldmonster": {
+                "112104": 18,
+                "112105": 66,
+                "112106": 93
+            },
+            "weekly": {
+                "113068": 18
+            }
+        }
+    },
+    "passives": {
+        "p1": {
+            "name": "Presente das Flores Flamejantes",
+            "description": "Quando um membro próximo da equipe desencadeia Explosão do Espírito da Noite, aumenta o ATQ de Mavuika em 30% por 10s.",
+            "icon": "UI_Talent_S_Mavuika_05"
+        },
+        "p2": {
+            "name": "\"Kiongozi\"",
+            "description": "Depois de lançar o Supremo <color=#FFD780FF>Hora de Queimar os Céus</color>, de acordo com a quantidade de Espírito Lutador, aumenta o Dano do personagem ativo da equipe para cada ponto de Espírito Lutador em 0.2%. É possível aumentar o Dano do personagem ativo em até 40% dessa forma. Esse efeito dura 20s, e ele gradativamente reduzirá até chegar a 0.",
+            "icon": "UI_Talent_S_Mavuika_06"
+        },
+        "p3": {
+            "name": "Presente do Reino da Noite: Modo de Exaustão",
+            "description": "Após os pontos de Espírito da Noite serem esgotados, Mavuika passará a usar Flogisto para manter seu Armamento Flamejante: Ignimoto.\\nEnquanto estiver em uma área com Mecanismos de Flogisto dentro de Natlan, Transmissão do Espírito da Noite: Mavuika poderá ser usada. Quando o personagem ativo atual estiver correndo, escalando, nadando, em modos de movimento causados por certos Talentos ou a uma certa altura no ar, trocar para Mavuika ativará: Mavuika entra no estado de Bênção do Espírito da Noite e obtém pontos de Espírito da Noite equivalentes a 50% do seu valor máximo. A Transmissão do Espírito da Noite pode ser desencadeada uma vez a cada 10s pela sua própria equipe.",
+            "icon": "UI_Talent_S_Mavuika_07"
+        },
+        "p4": {
+            "name": "Luz Dispersadora da Escuridão",
+            "description": "Reduz a recarga de Transmissão do Espírito da Noite da equipe em 20%.",
+            "icon": "UI_Talent_S_Citlali_07"
+        }
+    },
+    "constellations": {
+        "const1": {
+            "name": "Explicação do Lorde da Noite",
+            "description": "Aumenta o limite máximo de pontos de Espírito da Noite de Mavuika para 120, e aumenta a taxa de obtenção de Espírito Lutador em 25%.\\nAlém disso, depois de obter Espírito Lutador, aumenta o ATQ de Mavuika em 40% por 8s.",
+            "icon": "UI_Talent_S_Mavuika_01"
+        },
+        "const2": {
+            "name": "O Preço das Cinzas",
+            "description": "Quando está no estado Bênção do Espírito da Noite, aumenta o ATQ Básico de Mavuika em 200 pontos, e obtém os seguintes efeitos de acordo com a forma dos Armamentos Flamejantes:\\n· Anéis das Chamas Esplendorosas: reduz a DEF dos inimigos próximos em 20%.\\n· Ignimoto: aumenta o Dano causado pelos Ataques Normais, Carregados e pelo Golpe Solar do Supremo <color=#FFD780FF>Hora de Queimar os Céus</color> de Mavuika, o aumento é equivalente a 60%/90%/120% do ATQ de Mavuika.",
+            "icon": "UI_Talent_S_Mavuika_02"
+        },
+        "const3": {
+            "name": "Sol em Chamas",
+            "description": "Aumenta o nível de <color=#FFD780FF>Hora de Queimar os Céus</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Mavuika_01"
+        },
+        "const4": {
+            "name": "Percepção da Líder",
+            "description": "Aumenta o efeito obtido do Talento de Ascensão \"Kiongozi\":\\nO efeito de aumento de Dano após lançar o Supremo <color=#FFD780FF>Kiongozi</color> não diminuirá com o tempo, e obtém 10% de Bônus de Dano adicional.\\nÉ necessário ter desbloqueado o Talento de Ascensão \"Kiongozi\".",
+            "icon": "UI_Talent_S_Mavuika_03"
+        },
+        "const5": {
+            "name": "Significado da Verdade",
+            "description": "Aumenta o nível da Habilidade Elemental <color=#FFD780FF>Momento do Nome</color> em 3 níveis. \\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Mavuika_02"
+        },
+        "const6": {
+            "name": "Libertação da Pessoa Nomeada",
+            "description": "Os Armamentos Flamejantes da Habilidade Elemental <color=#FFD780FF>Momento do Nome</color> são fortalecidos:\\n· Anéis das Chamas Esplendorosas: quando os Anéis das Chamas Esplendorosas atingem um inimigo, uma Ignimoto atingirá o inimigo, causando 200% do ATQ como <color=#FF9999FF>Dano Pyro em AdE</color> com alinhamento Espírito da Noite.\\n· Ignimoto: quando Mavuika montar na Ignimoto, invocará o Anel das Chamas Esplendorosas: Incêndio para acompanhá-la, que reduzirá a DEF dos oponentes próximos em 20% e causando 500% do ATQ de Mavuika como <color=#FF9999FF>Dano Pyro em AdE</color> com alinhamento Espírito da Noite a cada 3s contra os inimigos próximos. As habilidades de locomoção no terreno de Mavuika também serão melhoradas.\\n\\nAlém disso, quando Mavuika está montada na Ignimoto e não está em combate, e quando os pontos de Espírito da Noite de Mavuika caírem para 5, obtém 80 pontos de Espírito da Noite. Esse efeito pode ser desencadeado uma vez a cada 15s.",
+            "icon": "UI_Talent_S_Mavuika_04"
+        }
+    },
+    "energy": [
+        {
+            "source": "DropBall",
+            "particles": "5",
+            "chance": "100%",
+            "cd": "0.3s"
+        }
+    ],
+    "attacks": [
+        {
+            "name": "Motorcycle_ExtraAttack",
+            "icd_source": "Tag: MotorAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/120",
+            "element": "Fire"
+        },
+        {
+            "name": "Motorcycle_ExtraAttack",
+            "icd_source": "Tag: MotorAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/120",
+            "element": "Fire"
+        },
+        {
+            "name": "Gadget_ExtraAttackCollider",
+            "icd_source": "Tag: MotorAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/60",
+            "element": "Fire"
+        },
+        {
+            "name": "Gadget_ExtraAttackCollider",
+            "icd_source": "Tag: MotorAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/60",
+            "element": "Fire"
+        },
+        {
+            "name": "Gadget_SprintCollider",
+            "icd_source": "Tag: MotorAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/75",
+            "element": "Fire"
+        },
+        {
+            "name": "ElementalArt",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/75",
+            "element": "Fire"
+        },
+        {
+            "name": "Gadget_ArtHoldCollider",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/75",
+            "element": "Fire"
+        },
+        {
+            "name": "Gadget_BattleWeapon",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/50",
+            "element": "Fire"
+        },
+        {
+            "name": "Gadget_BattleWeapon",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/50",
+            "element": "Fire"
+        },
+        {
+            "name": "ElementalBurst",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV5/150",
+            "element": "Fire"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/200",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/150",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: MotorAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/150",
+            "element": "Fire"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/35",
+            "element": "-"
+        },
+        {
+            "name": "Constellation_6",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV7/75",
+            "element": "Fire"
+        },
+        {
+            "name": "Gadget_Constellation_BattleWeapon",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV3/100",
+            "element": "Fire"
+        },
+        {
+            "name": "Gadget_Constellation_BattleWeapon",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV3/100",
+            "element": "Fire"
+        }
+    ],
+    "hyperlinks": []
+}

@@ -1,0 +1,1221 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104141": 1,
+            "104142": 9,
+            "104143": 9,
+            "104144": 6
+        },
+        "elitemonster": {
+            "113058": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101224": 168
+        },
+        "worldmonster": {
+            "112065": 18,
+            "112066": 30,
+            "112067": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "4U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "Bullet_ShootArrow_Enchanted_WithoutElec",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "Bullet_ShootArrow_WithElec",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "Electric",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "Bullet_ShootArrow_Lightning",
+            "poise": "LV2/150"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Lightning_Burst (!)",
+            "name": "Bullet_ShootArrow_Lightning_Burst_01",
+            "poise": "LV2/18"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Lightning_Burst (!)",
+            "name": "Bullet_ShootArrow_Lightning_Burst_02",
+            "poise": "LV2/8"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Lightning_Burst (!)",
+            "name": "Bullet_ShootArrow_Lightning_Burst_03",
+            "poise": "LV2/8"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Lightning_Burst (!)",
+            "name": "Bullet_ShootArrow_Lightning_Burst_04",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt",
+            "poise": "LV4/50"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "The CRIT Rate of <color=#FFD780FF>Shadowpiercing Shot</color> is increased by 15%.",
+            "icon": "UI_Talent_S_Sethos_01",
+            "name": "Sealed Shrine's Spiritsong"
+        },
+        "const2": {
+            "description": "When any of the following conditions are met, Sethos gains a 15% <color=#FFACFFFF>Electro DMG Bonus</color> for 10s that may stack twice, with each stack duration counted independently:\\n· Consuming Elemental Energy through Aimed Shots. You must first unlock the Ascension Talent \"Black Kite's Enigma\" to trigger this condition.\\n· Regaining Elemental Energy by triggering Elemental Reactions using <color=#FFD780FF>Ancient Rite: The Thundering Sands</color>.\\n· Using <color=#FFD780FF>Secret Rite: Twilight Shadowpiercer</color>.",
+            "icon": "UI_Talent_S_Sethos_02",
+            "name": "Papyrus Scripture of Silent Secrets"
+        },
+        "const3": {
+            "description": "Increases the Level of <color=#FFD780FF>Normal Attack: Royal Reed Archery</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Sethos_01",
+            "name": "Ode to the Moonrise Sage"
+        },
+        "const4": {
+            "description": "When a <color=#FFD780FF>Shadowpiercing Shot</color> or <color=#FFD780FF>Dusk Bolt</color> strikes 2 or more opponents, all nearby party members gain 80 Elemental Mastery for 10s.",
+            "icon": "UI_Talent_S_Sethos_03",
+            "name": "Beneficent Plumage"
+        },
+        "const5": {
+            "description": "Increases the Level of <color=#FFD780FF>Secret Rite: Twilight Shadowpiercer</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Sethos_02",
+            "name": "Record of the Desolate God's Burning Sands"
+        },
+        "const6": {
+            "description": "After <color=#FFD780FF>Shadowpiercing Shot</color> strikes an opponent, the Elemental Energy consumed by the Ascension Talent \"Black Kite's Enigma\" will be returned. This effect can be triggered up to once every 15s. You must first unlock the Ascension Talent \"Black Kite's Enigma.\"",
+            "icon": "UI_Talent_S_Sethos_04",
+            "name": "Pylon of the Sojourning Sun Temple"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.5s",
+            "chance": "100%",
+            "particles": "2",
+            "source": "Ball"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Sethos",
+        "forward": "UI_AvatarIcon_Sethos"
+    },
+    "info": {
+        "attributes": [
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 19,
+                "def": 47,
+                "hp": 821,
+                "level": 1
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 21,
+                "def": 51,
+                "hp": 889,
+                "level": 2
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 22,
+                "def": 55,
+                "hp": 956,
+                "level": 3
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 24,
+                "def": 59,
+                "hp": 1024,
+                "level": 4
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 25,
+                "def": 62,
+                "hp": 1091,
+                "level": 5
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 27,
+                "def": 66,
+                "hp": 1160,
+                "level": 6
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 28,
+                "def": 70,
+                "hp": 1227,
+                "level": 7
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 30,
+                "def": 74,
+                "hp": 1295,
+                "level": 8
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 32,
+                "def": 78,
+                "hp": 1363,
+                "level": 9
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 33,
+                "def": 82,
+                "hp": 1430,
+                "level": 10
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 35,
+                "def": 86,
+                "hp": 1498,
+                "level": 11
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 36,
+                "def": 90,
+                "hp": 1566,
+                "level": 12
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 38,
+                "def": 93,
+                "hp": 1634,
+                "level": 13
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 40,
+                "def": 97,
+                "hp": 1701,
+                "level": 14
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 41,
+                "def": 101,
+                "hp": 1769,
+                "level": 15
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 43,
+                "def": 105,
+                "hp": 1837,
+                "level": 16
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 44,
+                "def": 109,
+                "hp": 1905,
+                "level": 17
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 46,
+                "def": 113,
+                "hp": 1973,
+                "level": 18
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 47,
+                "def": 117,
+                "hp": 2040,
+                "level": 19
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 49,
+                "def": 121,
+                "hp": 2108,
+                "level": 20
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 65,
+                "def": 159,
+                "hp": 2788,
+                "level": 21
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 66,
+                "def": 163,
+                "hp": 2857,
+                "level": 22
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 68,
+                "def": 167,
+                "hp": 2925,
+                "level": 23
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 69,
+                "def": 171,
+                "hp": 2992,
+                "level": 24
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 71,
+                "def": 175,
+                "hp": 3060,
+                "level": 25
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 73,
+                "def": 179,
+                "hp": 3127,
+                "level": 26
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 74,
+                "def": 183,
+                "hp": 3196,
+                "level": 27
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 76,
+                "def": 187,
+                "hp": 3263,
+                "level": 28
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 77,
+                "def": 190,
+                "hp": 3331,
+                "level": 29
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 79,
+                "def": 194,
+                "hp": 3398,
+                "level": 30
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 80,
+                "def": 198,
+                "hp": 3466,
+                "level": 31
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 82,
+                "def": 202,
+                "hp": 3534,
+                "level": 32
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 84,
+                "def": 206,
+                "hp": 3602,
+                "level": 33
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 85,
+                "def": 210,
+                "hp": 3670,
+                "level": 34
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 87,
+                "def": 214,
+                "hp": 3737,
+                "level": 35
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 88,
+                "def": 218,
+                "hp": 3805,
+                "level": 36
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 90,
+                "def": 221,
+                "hp": 3873,
+                "level": 37
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 92,
+                "def": 225,
+                "hp": 3941,
+                "level": 38
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 93,
+                "def": 229,
+                "hp": 4009,
+                "level": 39
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 95,
+                "def": 233,
+                "hp": 4076,
+                "level": 40
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 106,
+                "def": 262,
+                "hp": 4580,
+                "level": 41
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 108,
+                "def": 266,
+                "hp": 4647,
+                "level": 42
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 109,
+                "def": 270,
+                "hp": 4715,
+                "level": 43
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 111,
+                "def": 273,
+                "hp": 4782,
+                "level": 44
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 113,
+                "def": 277,
+                "hp": 4851,
+                "level": 45
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 114,
+                "def": 281,
+                "hp": 4919,
+                "level": 46
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 116,
+                "def": 285,
+                "hp": 4986,
+                "level": 47
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 117,
+                "def": 289,
+                "hp": 5054,
+                "level": 48
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 119,
+                "def": 293,
+                "hp": 5121,
+                "level": 49
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 120,
+                "def": 297,
+                "hp": 5189,
+                "level": 50
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 136,
+                "def": 334,
+                "hp": 5837,
+                "level": 51
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 137,
+                "def": 338,
+                "hp": 5906,
+                "level": 52
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 139,
+                "def": 342,
+                "hp": 5974,
+                "level": 53
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 140,
+                "def": 345,
+                "hp": 6041,
+                "level": 54
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 142,
+                "def": 349,
+                "hp": 6109,
+                "level": 55
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 143,
+                "def": 353,
+                "hp": 6176,
+                "level": 56
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 145,
+                "def": 357,
+                "hp": 6245,
+                "level": 57
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 147,
+                "def": 361,
+                "hp": 6312,
+                "level": 58
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 148,
+                "def": 365,
+                "hp": 6380,
+                "level": 59
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 150,
+                "def": 369,
+                "hp": 6448,
+                "level": 60
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 161,
+                "def": 397,
+                "hp": 6951,
+                "level": 61
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 163,
+                "def": 401,
+                "hp": 7019,
+                "level": 62
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 165,
+                "def": 405,
+                "hp": 7086,
+                "level": 63
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 166,
+                "def": 409,
+                "hp": 7154,
+                "level": 64
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 168,
+                "def": 413,
+                "hp": 7222,
+                "level": 65
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 169,
+                "def": 417,
+                "hp": 7290,
+                "level": 66
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 171,
+                "def": 421,
+                "hp": 7358,
+                "level": 67
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 172,
+                "def": 425,
+                "hp": 7425,
+                "level": 68
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 174,
+                "def": 428,
+                "hp": 7493,
+                "level": 69
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 176,
+                "def": 432,
+                "hp": 7561,
+                "level": 70
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 187,
+                "def": 461,
+                "hp": 8064,
+                "level": 71
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 189,
+                "def": 465,
+                "hp": 8132,
+                "level": 72
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 190,
+                "def": 469,
+                "hp": 8200,
+                "level": 73
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 192,
+                "def": 473,
+                "hp": 8268,
+                "level": 74
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 194,
+                "def": 477,
+                "hp": 8335,
+                "level": 75
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 195,
+                "def": 481,
+                "hp": 8403,
+                "level": 76
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 197,
+                "def": 484,
+                "hp": 8471,
+                "level": 77
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 198,
+                "def": 488,
+                "hp": 8539,
+                "level": 78
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 200,
+                "def": 492,
+                "hp": 8606,
+                "level": 79
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 201,
+                "def": 496,
+                "hp": 8674,
+                "level": 80
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 213,
+                "def": 525,
+                "hp": 9178,
+                "level": 81
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 215,
+                "def": 529,
+                "hp": 9245,
+                "level": 82
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 216,
+                "def": 533,
+                "hp": 9313,
+                "level": 83
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 218,
+                "def": 536,
+                "hp": 9380,
+                "level": 84
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 219,
+                "def": 540,
+                "hp": 9449,
+                "level": 85
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 221,
+                "def": 544,
+                "hp": 9516,
+                "level": 86
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 223,
+                "def": 548,
+                "hp": 9584,
+                "level": 87
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 224,
+                "def": 552,
+                "hp": 9651,
+                "level": 88
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 226,
+                "def": 556,
+                "hp": 9719,
+                "level": 89
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 227,
+                "def": 560,
+                "hp": 9787,
+                "level": 90
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 256,
+                "def": 579,
+                "hp": 10126,
+                "level": 95
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 285,
+                "def": 598,
+                "hp": 10464,
+                "level": 100
+            }
+        ],
+        "birthday": "May 31st",
+        "constellation": "Basileos Delta",
+        "description": "The Temple of Silence's heir. Burdened with secrets, he comes from the sands.",
+        "element": "Electro",
+        "name": "Sethos",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_BOW"
+    },
+    "passives": {
+        "p1": {
+            "description": "When Aiming, the charging time is decreased by 0.285s based on each point of Sethos's current Elemental Energy. Charging time can be reduced to a minimum of 0.3s through this method and a maximum of 20 Energy can be tallied. If a <color=#FFD780FF>Shadowpiercing Shot</color> is fired, consume the tallied amount of Elemental Energy; if it is a Charge Level 1 shot, then consume 50% of the tallied amount of Elemental Energy.",
+            "icon": "UI_Talent_S_Sethos_05",
+            "name": "Black Kite's Enigma"
+        },
+        "p2": {
+            "description": "Sethos gains the \"Scorching Sandshade\" effect, increasing the DMG dealt by <color=#FFD780FF>Shadowpiercing Shots</color> by 700% of Sethos's Elemental Mastery.\\nThe Scorching Sandshade effect will be canceled when any of the following conditions are met:\\n· 5s after a Shadowpiercing Shot first hits an opponent.\\n· After 4 Shadowpiercing Shots strike opponents.\\n\\nWhen a Shadowpiercing Shot affected by Scorching Sandshade first hits an opponent, Sethos will regain Scorching Sandshade after 15s.",
+            "icon": "UI_Talent_S_Sethos_06",
+            "name": "The Sand King's Boon"
+        },
+        "p3": {
+            "description": "Displays the location of nearby <color=#FFD780FF>resources unique to Sumeru</color> on the mini-map.",
+            "icon": "UI_Talent_S_Tighnari_07",
+            "name": "Thoth's Revelation"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Perform a secret rite, entering the \"Twilight Meditation\" state, during which Sethos's Normal Attacks will be converted into enemy-piercing <color=#FFD780FF>Dusk Bolts</color>: Deal <color=#FFACFFFF>Electro DMG</color> to opponents in its path, with DMG increased based on Sethos's Elemental Mastery.\\nSethos cannot perform Aimed Shots while in this state.\\nDMG dealt by Dusk Bolts is considered Charged Attack DMG.\\nThis effect will be canceled when Sethos leaves the field.\\n\\n<i>The archives of the Temple of Silence preserve many tomes left behind by Akhtamun, from the era of King Deshret. Many secret rituals of great power are recorded within, but even among the Temple of Silence, very few could master them.</i>",
+            "icon": "Skill_E_Sethos_01",
+            "multipliers": {
+                "CD": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Dusk Bolt DMG Increase": [
+                    "196.16% Elemental Mastery",
+                    "210.87% Elemental Mastery",
+                    "225.58% Elemental Mastery",
+                    "245.2% Elemental Mastery",
+                    "259.91% Elemental Mastery",
+                    "274.62% Elemental Mastery",
+                    "294.24% Elemental Mastery",
+                    "313.86% Elemental Mastery",
+                    "333.47% Elemental Mastery",
+                    "353.09% Elemental Mastery",
+                    "372.7% Elemental Mastery",
+                    "392.32% Elemental Mastery",
+                    "416.84% Elemental Mastery",
+                    "441.36% Elemental Mastery",
+                    "465.88% Elemental Mastery"
+                ],
+                "Energy Cost": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "Twilight Meditation Duration": [
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s"
+                ]
+            },
+            "name": "Secret Rite: Twilight Shadowpiercer"
+        },
+        "elementalskill": {
+            "description": "Gathers the might of thunder, dealing <color=#FFACFFFF>AoE Electro DMG</color> and quickly retreating. If this attack triggers Electro-Charged, Lunar-Charged, Superconduct, Overloaded, Quicken, Aggravate, Hyperbloom, or Electro Swirl reactions, Sethos recovers a certain amount of Elemental Energy.\\n\\n<i>\"The God indwelt Priest, the Magi who turned pits to springs, the singers of the sea of sand still spread their stories... But I know those are not legends, for they are our ancestors.\"</i>",
+            "icon": "Skill_S_Sethos_01",
+            "multipliers": {
+                "CD": [
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s"
+                ],
+                "Energy Regeneration": [
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12",
+                    "12"
+                ],
+                "Skill DMG": [
+                    "115.6%",
+                    "124.27%",
+                    "132.94%",
+                    "144.5%",
+                    "153.17%",
+                    "161.84%",
+                    "173.4%",
+                    "184.96%",
+                    "196.52%",
+                    "208.08%",
+                    "219.64%",
+                    "231.2%",
+                    "245.65%",
+                    "260.1%",
+                    "274.55%"
+                ]
+            },
+            "name": "Ancient Rite: The Thundering Sands"
+        },
+        "leveling": {
+            "books": {
+                "104335": 9,
+                "104336": 63,
+                "104337": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113043": 18
+            },
+            "worldmonster": {
+                "112065": 18,
+                "112066": 66,
+                "112067": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 3 consecutive shots with a bow.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nPerforms a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG.\\nWhile aiming, the power of Electro will accumulate on the arrowhead before the arrow is fired. Has different effects based on how long the energy has been charged:\\n·Charge Level 1: Fires off an arrow carrying the power of lightning that deals <color=#FFACFFFF>Electro DMG</color>.\\n·Charge Level 2: Fires off a <color=#FFD780FF>Shadowpiercing Shot</color> which can pierce enemies, dealing <color=#FFACFFFF>Electro DMG</color> to enemies along its path. After the Shadowpiercing Shot is fully charged, Sethos cannot move around.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+            "icon": "Skill_A_02",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "52.61%",
+                    "56.9%",
+                    "61.18%",
+                    "67.3%",
+                    "71.58%",
+                    "76.47%",
+                    "83.2%",
+                    "89.93%",
+                    "96.66%",
+                    "104%",
+                    "111.35%",
+                    "118.69%",
+                    "126.03%",
+                    "133.37%",
+                    "140.71%"
+                ],
+                "2-Hit DMG": [
+                    "23.8%+26.61%",
+                    "25.73%+28.77%",
+                    "27.67%+30.94%",
+                    "30.44%+34.03%",
+                    "32.37%+36.2%",
+                    "34.59%+38.68%",
+                    "37.63%+42.08%",
+                    "40.67%+45.48%",
+                    "43.72%+48.89%",
+                    "47.04%+52.6%",
+                    "50.36%+56.31%",
+                    "53.68%+60.02%",
+                    "57%+63.74%",
+                    "60.32%+67.45%",
+                    "63.64%+71.16%"
+                ],
+                "3-Hit DMG": [
+                    "73.99%",
+                    "80.01%",
+                    "86.03%",
+                    "94.63%",
+                    "100.66%",
+                    "107.54%",
+                    "117%",
+                    "126.47%",
+                    "135.93%",
+                    "146.25%",
+                    "156.58%",
+                    "166.9%",
+                    "177.22%",
+                    "187.55%",
+                    "197.87%"
+                ],
+                "Aimed Shot": [
+                    "43.86%",
+                    "47.43%",
+                    "51%",
+                    "56.1%",
+                    "59.67%",
+                    "63.75%",
+                    "69.36%",
+                    "74.97%",
+                    "80.58%",
+                    "86.7%",
+                    "92.82%",
+                    "98.94%",
+                    "105.06%",
+                    "111.18%",
+                    "117.3%"
+                ],
+                "Aimed Shot Charge Level 1": [
+                    "124%",
+                    "133.3%",
+                    "142.6%",
+                    "155%",
+                    "164.3%",
+                    "173.6%",
+                    "186%",
+                    "198.4%",
+                    "210.8%",
+                    "223.2%",
+                    "235.6%",
+                    "248%",
+                    "263.5%",
+                    "279%",
+                    "294.5%"
+                ],
+                "Low/High Plunge DMG": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "Plunge DMG": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "Shadowpiercing Shot DMG": [
+                    "140% ATK+134.56% Elemental Mastery",
+                    "150.5% ATK+144.65% Elemental Mastery",
+                    "161% ATK+154.74% Elemental Mastery",
+                    "175% ATK+168.2% Elemental Mastery",
+                    "185.5% ATK+178.29% Elemental Mastery",
+                    "196% ATK+188.38% Elemental Mastery",
+                    "210% ATK+201.84% Elemental Mastery",
+                    "224% ATK+215.3% Elemental Mastery",
+                    "238% ATK+228.75% Elemental Mastery",
+                    "252% ATK+242.21% Elemental Mastery",
+                    "266% ATK+255.66% Elemental Mastery",
+                    "280% ATK+269.12% Elemental Mastery",
+                    "297.5% ATK+285.94% Elemental Mastery",
+                    "315% ATK+302.76% Elemental Mastery",
+                    "332.5% ATK+319.58% Elemental Mastery"
+                ]
+            },
+            "name": "Royal Reed Archery"
+        }
+    }
+}

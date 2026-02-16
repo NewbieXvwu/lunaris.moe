@@ -1,0 +1,1347 @@
+{
+    "info": {
+        "name": "Arlecchino",
+        "description": "A Serva, a Quarta Mensageira dos Fatui. Uma diplomata calma e implacável, o \"Pai\" que todas as crianças da Casa da Lareira temem e a quem reverenciam.",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_POLE",
+        "birthday": "August 22nd",
+        "element": "Pyro",
+        "constellation": "Ignis Purgatorius",
+        "attributes": [
+            {
+                "level": 1,
+                "ascension": 0,
+                "hp": 1020,
+                "atk": 27,
+                "def": 60,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 2,
+                "ascension": 0,
+                "hp": 1105,
+                "atk": 29,
+                "def": 64,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 3,
+                "ascension": 0,
+                "hp": 1189,
+                "atk": 31,
+                "def": 69,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 4,
+                "ascension": 0,
+                "hp": 1275,
+                "atk": 33,
+                "def": 74,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 5,
+                "ascension": 0,
+                "hp": 1360,
+                "atk": 35,
+                "def": 79,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 6,
+                "ascension": 0,
+                "hp": 1445,
+                "atk": 38,
+                "def": 84,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 7,
+                "ascension": 0,
+                "hp": 1530,
+                "atk": 40,
+                "def": 89,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 8,
+                "ascension": 0,
+                "hp": 1616,
+                "atk": 42,
+                "def": 94,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 9,
+                "ascension": 0,
+                "hp": 1701,
+                "atk": 44,
+                "def": 99,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 10,
+                "ascension": 0,
+                "hp": 1786,
+                "atk": 47,
+                "def": 104,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 11,
+                "ascension": 0,
+                "hp": 1872,
+                "atk": 49,
+                "def": 109,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 12,
+                "ascension": 0,
+                "hp": 1957,
+                "atk": 51,
+                "def": 114,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 13,
+                "ascension": 0,
+                "hp": 2043,
+                "atk": 53,
+                "def": 119,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 14,
+                "ascension": 0,
+                "hp": 2130,
+                "atk": 56,
+                "def": 124,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 15,
+                "ascension": 0,
+                "hp": 2216,
+                "atk": 58,
+                "def": 129,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 16,
+                "ascension": 0,
+                "hp": 2301,
+                "atk": 60,
+                "def": 134,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 17,
+                "ascension": 0,
+                "hp": 2388,
+                "atk": 62,
+                "def": 139,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 18,
+                "ascension": 0,
+                "hp": 2474,
+                "atk": 65,
+                "def": 144,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 19,
+                "ascension": 0,
+                "hp": 2560,
+                "atk": 67,
+                "def": 149,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 20,
+                "ascension": 0,
+                "hp": 2646,
+                "atk": 69,
+                "def": 154,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 21,
+                "ascension": 1,
+                "hp": 3607,
+                "atk": 94,
+                "def": 211,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 22,
+                "ascension": 1,
+                "hp": 3694,
+                "atk": 96,
+                "def": 216,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 23,
+                "ascension": 1,
+                "hp": 3781,
+                "atk": 99,
+                "def": 221,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 24,
+                "ascension": 1,
+                "hp": 3867,
+                "atk": 101,
+                "def": 226,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 25,
+                "ascension": 1,
+                "hp": 3954,
+                "atk": 103,
+                "def": 231,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 26,
+                "ascension": 1,
+                "hp": 4042,
+                "atk": 106,
+                "def": 236,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 27,
+                "ascension": 1,
+                "hp": 4129,
+                "atk": 108,
+                "def": 241,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 28,
+                "ascension": 1,
+                "hp": 4215,
+                "atk": 110,
+                "def": 246,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 29,
+                "ascension": 1,
+                "hp": 4303,
+                "atk": 112,
+                "def": 251,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 30,
+                "ascension": 1,
+                "hp": 4390,
+                "atk": 115,
+                "def": 256,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 31,
+                "ascension": 1,
+                "hp": 4477,
+                "atk": 117,
+                "def": 261,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 32,
+                "ascension": 1,
+                "hp": 4565,
+                "atk": 119,
+                "def": 266,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 33,
+                "ascension": 1,
+                "hp": 4653,
+                "atk": 121,
+                "def": 272,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 34,
+                "ascension": 1,
+                "hp": 4740,
+                "atk": 124,
+                "def": 277,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 35,
+                "ascension": 1,
+                "hp": 4827,
+                "atk": 126,
+                "def": 282,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 36,
+                "ascension": 1,
+                "hp": 4916,
+                "atk": 128,
+                "def": 287,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 37,
+                "ascension": 1,
+                "hp": 5004,
+                "atk": 131,
+                "def": 292,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 38,
+                "ascension": 1,
+                "hp": 5091,
+                "atk": 133,
+                "def": 297,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 39,
+                "ascension": 1,
+                "hp": 5179,
+                "atk": 135,
+                "def": 302,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 40,
+                "ascension": 1,
+                "hp": 5268,
+                "atk": 138,
+                "def": 307,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 41,
+                "ascension": 2,
+                "hp": 5977,
+                "atk": 156,
+                "def": 349,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 42,
+                "ascension": 2,
+                "hp": 6066,
+                "atk": 158,
+                "def": 354,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 43,
+                "ascension": 2,
+                "hp": 6155,
+                "atk": 161,
+                "def": 359,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 44,
+                "ascension": 2,
+                "hp": 6242,
+                "atk": 163,
+                "def": 364,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 45,
+                "ascension": 2,
+                "hp": 6331,
+                "atk": 165,
+                "def": 369,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 46,
+                "ascension": 2,
+                "hp": 6420,
+                "atk": 168,
+                "def": 375,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 47,
+                "ascension": 2,
+                "hp": 6509,
+                "atk": 170,
+                "def": 380,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 48,
+                "ascension": 2,
+                "hp": 6597,
+                "atk": 172,
+                "def": 385,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 49,
+                "ascension": 2,
+                "hp": 6687,
+                "atk": 175,
+                "def": 390,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 50,
+                "ascension": 2,
+                "hp": 6776,
+                "atk": 177,
+                "def": 395,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 51,
+                "ascension": 3,
+                "hp": 7693,
+                "atk": 201,
+                "def": 449,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 52,
+                "ascension": 3,
+                "hp": 7783,
+                "atk": 203,
+                "def": 454,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 53,
+                "ascension": 3,
+                "hp": 7872,
+                "atk": 205,
+                "def": 459,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 54,
+                "ascension": 3,
+                "hp": 7961,
+                "atk": 208,
+                "def": 465,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 55,
+                "ascension": 3,
+                "hp": 8051,
+                "atk": 210,
+                "def": 470,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 56,
+                "ascension": 3,
+                "hp": 8141,
+                "atk": 212,
+                "def": 475,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 57,
+                "ascension": 3,
+                "hp": 8231,
+                "atk": 215,
+                "def": 480,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 58,
+                "ascension": 3,
+                "hp": 8320,
+                "atk": 217,
+                "def": 486,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 59,
+                "ascension": 3,
+                "hp": 8410,
+                "atk": 220,
+                "def": 491,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 60,
+                "ascension": 3,
+                "hp": 8500,
+                "atk": 222,
+                "def": 496,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 61,
+                "ascension": 4,
+                "hp": 9211,
+                "atk": 240,
+                "def": 538,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 62,
+                "ascension": 4,
+                "hp": 9301,
+                "atk": 243,
+                "def": 543,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 63,
+                "ascension": 4,
+                "hp": 9392,
+                "atk": 245,
+                "def": 548,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 64,
+                "ascension": 4,
+                "hp": 9482,
+                "atk": 247,
+                "def": 553,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 65,
+                "ascension": 4,
+                "hp": 9572,
+                "atk": 250,
+                "def": 559,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 66,
+                "ascension": 4,
+                "hp": 9663,
+                "atk": 252,
+                "def": 564,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 67,
+                "ascension": 4,
+                "hp": 9753,
+                "atk": 255,
+                "def": 569,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 68,
+                "ascension": 4,
+                "hp": 9844,
+                "atk": 257,
+                "def": 574,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 69,
+                "ascension": 4,
+                "hp": 9934,
+                "atk": 259,
+                "def": 580,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 70,
+                "ascension": 4,
+                "hp": 10025,
+                "atk": 262,
+                "def": 585,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 71,
+                "ascension": 5,
+                "hp": 10737,
+                "atk": 280,
+                "def": 627,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 72,
+                "ascension": 5,
+                "hp": 10829,
+                "atk": 283,
+                "def": 632,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 73,
+                "ascension": 5,
+                "hp": 10920,
+                "atk": 285,
+                "def": 637,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 74,
+                "ascension": 5,
+                "hp": 11011,
+                "atk": 287,
+                "def": 643,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 75,
+                "ascension": 5,
+                "hp": 11103,
+                "atk": 290,
+                "def": 648,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 76,
+                "ascension": 5,
+                "hp": 11193,
+                "atk": 292,
+                "def": 653,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 77,
+                "ascension": 5,
+                "hp": 11285,
+                "atk": 295,
+                "def": 659,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 78,
+                "ascension": 5,
+                "hp": 11377,
+                "atk": 297,
+                "def": 664,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 79,
+                "ascension": 5,
+                "hp": 11469,
+                "atk": 299,
+                "def": 669,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 80,
+                "ascension": 5,
+                "hp": 11561,
+                "atk": 302,
+                "def": 675,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 81,
+                "ascension": 6,
+                "hp": 12274,
+                "atk": 320,
+                "def": 716,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 82,
+                "ascension": 6,
+                "hp": 12366,
+                "atk": 323,
+                "def": 722,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 83,
+                "ascension": 6,
+                "hp": 12457,
+                "atk": 325,
+                "def": 727,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 84,
+                "ascension": 6,
+                "hp": 12549,
+                "atk": 328,
+                "def": 732,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 85,
+                "ascension": 6,
+                "hp": 12641,
+                "atk": 330,
+                "def": 738,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 86,
+                "ascension": 6,
+                "hp": 12734,
+                "atk": 332,
+                "def": 743,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 87,
+                "ascension": 6,
+                "hp": 12826,
+                "atk": 335,
+                "def": 749,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 88,
+                "ascension": 6,
+                "hp": 12918,
+                "atk": 337,
+                "def": 754,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 89,
+                "ascension": 6,
+                "hp": 13011,
+                "atk": 340,
+                "def": 759,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 90,
+                "ascension": 6,
+                "hp": 13103,
+                "atk": 342,
+                "def": 765,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 95,
+                "ascension": 6,
+                "hp": 13568,
+                "atk": 381,
+                "def": 792,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 100,
+                "ascension": 6,
+                "hp": 14034,
+                "atk": 419,
+                "def": 819,
+                "CRIT DMG%": "38.4"
+            }
+        ]
+    },
+    "icons": {
+        "forward": "UI_AvatarIcon_Arlecchino",
+        "coop_img": "UI_CoopImg_Arlecchino"
+    },
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101236": 168
+        },
+        "elemental": {
+            "104111": 1,
+            "104112": 9,
+            "104113": 9,
+            "104114": 6
+        },
+        "worldmonster": {
+            "112032": 18,
+            "112033": 30,
+            "112034": 36
+        },
+        "elitemonster": {
+            "113059": 46
+        }
+    },
+    "skills": {
+        "normalattack": {
+            "name": "Convite para Decapitação",
+            "icon": "Skill_A_03",
+            "multipliers": {
+                "Aumento da Máscara Vermelha da Morte": [
+                    "120.4%",
+                    "130.2%",
+                    "140%",
+                    "154%",
+                    "163.8%",
+                    "175%",
+                    "190.4%",
+                    "205.8%",
+                    "221.2%",
+                    "238%",
+                    "254.8%",
+                    "271.6%",
+                    "288.4%",
+                    "305.2%",
+                    "322%"
+                ],
+                "Dano do 1° Golpe": [
+                    "47.5%",
+                    "51.37%",
+                    "55.23%",
+                    "60.76%",
+                    "64.62%",
+                    "69.04%",
+                    "75.12%",
+                    "81.19%",
+                    "87.27%",
+                    "93.9%",
+                    "100.52%",
+                    "107.15%",
+                    "113.78%",
+                    "120.41%",
+                    "127.04%"
+                ],
+                "Dano do 2° Golpe": [
+                    "52.11%",
+                    "56.35%",
+                    "60.59%",
+                    "66.65%",
+                    "70.89%",
+                    "75.74%",
+                    "82.4%",
+                    "89.06%",
+                    "95.73%",
+                    "103%",
+                    "110.27%",
+                    "117.54%",
+                    "124.81%",
+                    "132.08%",
+                    "139.35%"
+                ],
+                "Dano do 3° Golpe": [
+                    "65.39%",
+                    "70.71%",
+                    "76.03%",
+                    "83.63%",
+                    "88.96%",
+                    "95.04%",
+                    "103.4%",
+                    "111.76%",
+                    "120.13%",
+                    "129.25%",
+                    "138.37%",
+                    "147.5%",
+                    "156.62%",
+                    "165.75%",
+                    "174.87%"
+                ],
+                "Dano do 4° Golpe": [
+                    "37.15%+37.15%",
+                    "40.17%+40.17%",
+                    "43.19%+43.19%",
+                    "47.51%+47.51%",
+                    "50.53%+50.53%",
+                    "53.99%+53.99%",
+                    "58.74%+58.74%",
+                    "63.49%+63.49%",
+                    "68.24%+68.24%",
+                    "73.43%+73.43%",
+                    "78.61%+78.61%",
+                    "83.79%+83.79%",
+                    "88.98%+88.98%",
+                    "94.16%+94.16%",
+                    "99.34%+99.34%"
+                ],
+                "Dano do 5° Golpe": [
+                    "69.98%",
+                    "75.68%",
+                    "81.37%",
+                    "89.51%",
+                    "95.21%",
+                    "101.72%",
+                    "110.67%",
+                    "119.62%",
+                    "128.57%",
+                    "138.34%",
+                    "148.1%",
+                    "157.87%",
+                    "167.63%",
+                    "177.4%",
+                    "187.16%"
+                ],
+                "Dano do 6° Golpe": [
+                    "85.38%",
+                    "92.33%",
+                    "99.28%",
+                    "109.2%",
+                    "116.15%",
+                    "124.1%",
+                    "135.02%",
+                    "145.94%",
+                    "156.86%",
+                    "168.77%",
+                    "180.68%",
+                    "192.6%",
+                    "204.51%",
+                    "216.42%",
+                    "228.34%"
+                ],
+                "Dano de Ataque Carregado": [
+                    "90.82%",
+                    "98.21%",
+                    "105.6%",
+                    "116.16%",
+                    "123.55%",
+                    "132%",
+                    "143.62%",
+                    "155.23%",
+                    "166.85%",
+                    "179.52%",
+                    "192.19%",
+                    "204.86%",
+                    "217.54%",
+                    "230.21%",
+                    "242.88%"
+                ],
+                "Consumo de Stamina de Ataque Carregado": [
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25"
+                ],
+                "Consumo de Stamina de Movimento Rápido": [
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s"
+                ],
+                "Dano Durante a Queda": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ]
+            },
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 6 golpes consecutivos.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome uma certa quantidade de Stamina, avançando contra os inimigos em frente e os atacando uma vez.\\nQuando você mantiver pressionado, Arlecchino se moverá rapidamente, consumindo Stamina. Esse movimento durará até 5s.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nMergulha no ar para atacar no chão, causando Dano contra os oponentes no caminho e causando Dano em AdE ao atingir o chão.\\n\\n<color=#FFD780FF>Máscara Vermelha da Morte</color>\\nQuando Arlecchino tem um Contrato de Vida igual ou maior que 30% de sua Vida Máxima, o Dano do Ataque Normal, Carregado e Imersivo de Arlecchino é convertido para <color=#FF9999FF>Dano Pyro</color> que não pode ser substituído.\\nQuando estiver no estado \"Máscara Vermelha da Morte\", e quando os Ataques Normais de Arlecchino atingirem um oponente, esse Ataque causará Dano adicional baseado no ATQ multiplicado por uma certa porcentagem do Contrato de Vida atual. Isso consumirá 7.5% desse Contrato de Vida. Um Contrato de Vida pode ser consumido dessa forma uma vez a cada 0.03s. Quando o Contrato de Vida é consumido dessa forma, reduz a recarga da Habilidade Elemental \"Tudo são Cinzas\" em 0.8s."
+        },
+        "elementalskill": {
+            "name": "Tudo são Cinzas",
+            "icon": "Skill_S_Arlecchino_01",
+            "multipliers": {
+                "Dano dos Espinhos": [
+                    "14.84%",
+                    "15.95%",
+                    "17.07%",
+                    "18.55%",
+                    "19.66%",
+                    "20.78%",
+                    "22.26%",
+                    "23.74%",
+                    "25.23%",
+                    "26.71%",
+                    "28.2%",
+                    "29.68%",
+                    "31.53%",
+                    "33.39%",
+                    "35.25%"
+                ],
+                "Dano do Corte": [
+                    "133.56%",
+                    "143.58%",
+                    "153.59%",
+                    "166.95%",
+                    "176.97%",
+                    "186.98%",
+                    "200.34%",
+                    "213.7%",
+                    "227.05%",
+                    "240.41%",
+                    "253.76%",
+                    "267.12%",
+                    "283.82%",
+                    "300.51%",
+                    "317.2%"
+                ],
+                "Dano de Comando da Dívida de Sangue": [
+                    "31.8%",
+                    "34.19%",
+                    "36.57%",
+                    "39.75%",
+                    "42.14%",
+                    "44.52%",
+                    "47.7%",
+                    "50.88%",
+                    "54.06%",
+                    "57.24%",
+                    "60.42%",
+                    "63.6%",
+                    "67.58%",
+                    "71.55%",
+                    "75.52%"
+                ],
+                "Tempo de Recarga": [
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s"
+                ]
+            },
+            "description": "Invoca a Lua de Sangue, causando <color=#FF9999FF>Dano Pyro</color> contra vários inimigos próximos, fazendo um golpe contra um deles que causa <color=#FF9999FF>Dano Pyro em AdE</color>.\\nInimigos atingidos por esse ataque serão marcados com o Comando da Dívida de Sangue.\\n\\n<color=#FFD780FF>Comando da Dívida de Sangue</color>\\n· Dura 30s. A cada 5s, causa 1 instância de <color=#FF9999FF>Dano Pyro</color> contra o oponente. Máximo de 2 instâncias. Esse Dano é considerado Dano de Habilidade Elemental\\n· Quando Arlecchino usa um Ataque Carregado ou lança seu Supremo \"Ascensão da Lua Ominosa\", absorve e elimina os Comandos das Dívidas de Sangue que aplicou. Cada Comando absorvido a dá um Contrato de Vida equivalente a 65% de sua Vida Máxima.\\n· Ela pode ganhar um Contrato de Vida equivalente a 145% de sua Vida Máxima dentro nos 35s após usar sua Habilidade Elemental. Lançar a Habilidade Elemental novamente durante esse período redefinirá a contagem da duração e o limite do Contrato de Vida que ganha de Comando da Dívida de Sangue.\\n\\n<i>Da forma que ela vê, não é todo grão de trigo que cai na terra que vai crescer, enquanto aqueles que ficam em seu caminho, quando queimados em chamas, podem ser usados novamente para nutrir as flores.</i>"
+        },
+        "elementalburst": {
+            "name": "Ascensão da Lua Ominosa",
+            "icon": "Skill_E_Arlecchino_01",
+            "multipliers": {
+                "Dano de Habilidade": [
+                    "370.4%",
+                    "398.18%",
+                    "425.96%",
+                    "463%",
+                    "490.78%",
+                    "518.56%",
+                    "555.6%",
+                    "592.64%",
+                    "629.68%",
+                    "666.72%",
+                    "703.76%",
+                    "740.8%",
+                    "787.1%",
+                    "833.4%",
+                    "879.7%"
+                ],
+                "Regeneração de Vida": [
+                    "150% do Contrato de Vida +150% do ATQ",
+                    "150% do Contrato de Vida +150% do ATQ",
+                    "150% do Contrato de Vida +150% do ATQ",
+                    "150% do Contrato de Vida +150% do ATQ",
+                    "150% do Contrato de Vida +150% do ATQ",
+                    "150% do Contrato de Vida +150% do ATQ",
+                    "150% do Contrato de Vida +150% do ATQ",
+                    "150% do Contrato de Vida +150% do ATQ",
+                    "150% do Contrato de Vida +150% do ATQ",
+                    "150% do Contrato de Vida +150% do ATQ",
+                    "150% do Contrato de Vida +150% do ATQ",
+                    "150% do Contrato de Vida +150% do ATQ",
+                    "150% do Contrato de Vida +150% do ATQ",
+                    "150% do Contrato de Vida +150% do ATQ",
+                    "150% do Contrato de Vida +150% do ATQ"
+                ],
+                "Tempo de Recarga": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Energia Elemental": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ]
+            },
+            "description": "Arlecchino bate as asas da Lua de Sangue, absorvendo e eliminando os Comandos da Dívida de Sangue ao seu redor, causando <color=#FF9999FF>Dano Pyro em AdE</color>, depois disso remove a recarga da Habilidade Elemental \"Tudo são Cinzas\" e regenera a própria Vida. A quantidade regenerada é baseada no valor do Contrato de Vida e no ATQ.\\n\\n<i>É comum se acreditar em Teyvat que as fases da lua são metáforas de presságios, usadas por àqueles que praticam a alquimia e astrologia.\\nEla viu a lua carmesim muitas vezes em seus sonhos. Eram presságios de desastres? Sim, mas as catástrofes previstas eram daqueles que a haviam enfurecido.</i>"
+        },
+        "leveling": {
+            "crown": {
+                "104319": 3
+            },
+            "books": {
+                "104344": 9,
+                "104345": 63,
+                "104346": 114
+            },
+            "worldmonster": {
+                "112032": 18,
+                "112033": 66,
+                "112034": 93
+            },
+            "weekly": {
+                "113060": 18
+            }
+        }
+    },
+    "passives": {
+        "p1": {
+            "name": "Somente a Dor pode ser Compensada",
+            "description": "<color=#FFD780FF>Comando da Dívida de Sangue</color> tem as seguintes características:\\n· Quando um oponente afetado por Comando da Dívida de Sangue de Arlecchino é derrotado, será concedido a ela um Contrato de Vida equivalente a 130% de sua Vida Máxima.\\n· 5s depois de um Comando da Dívida de Sangue ser aplicado, ele será elevado à Comando da Dívida de Sangue: Pagamento. Ao ser absorvido, fornecerá para Arlecchino um Contrato de Vida equivalente a 130% da sua Vida Máxima.\\nUm Contrato de Vida criado dessa forma não pode ultrapassar o limite original do valor do Contrato de Vida obtido através de <color=#FFD780FF>Tudo são Cinzas</color>.",
+            "icon": "UI_Talent_S_Arlecchino_05"
+        },
+        "p2": {
+            "name": "Somente a Força Defende",
+            "description": "Arlecchino ganha 1% de RES contra Todos os Elementos e RES Física para cada 100 pontos de ATQ que possui acima de 1.000. O aumento máximo de RES que Arlecchino pode obter dessa forma para a RES contra Todos Elementos e RES Física é de 20%.",
+            "icon": "UI_Talent_S_Arlecchino_06"
+        },
+        "p3": {
+            "name": "Somente a Lua Ominosa Sabe",
+            "description": "Enquanto em combate, Arlecchino ganha 40% de <color=#FF9999FF>Bônus de Dano Pyro</color> e somente pode ser curada através de <color=#FFD780FF>Ascensão da Lua Ominosa</color>.",
+            "icon": "UI_Talent_S_Arlecchino_07"
+        },
+        "p4": ""
+    },
+    "constellations": {
+        "const1": {
+            "name": "\"Todas as Vinganças e Dívidas são Minhas...\"",
+            "description": "Máscara Vermelha da Morte é fortalecida. O valor do aumento é de 100%. Além disso, enquanto estiver no estado Máscara Vermelha da Morte, a RES contra Interrupção de Arlecchino é aumentada quando ela realiza Ataques Normais ou Carregados.",
+            "icon": "UI_Talent_S_Arlecchino_01"
+        },
+        "const2": {
+            "name": "\"Todas as Recompensas e Retribuições são Minhas para Dar...\"",
+            "description": "<color=#FFD780FF>Comando da Dívida de Sangue</color> lança agora Comando da Dívida de Sangue: Pagamento\\nQuando Arlecchino absorve um Comando da Dívida de Sangue: Pagamento, ela lança uma Lua de Sangue que causa 900% de seu ATQ como <color=#FF9999FF>Dano Pyro em AdE</color> e aumenta todas as suas resistências elementais e físicas em 20% por 15s. Esse efeito pode ser desencadeado uma vez a cada 10s.\\nPrimeiro é necessário desbloquear o Talento de Ascensão \"Somente a Dor pode ser Compensada\".",
+            "icon": "UI_Talent_S_Arlecchino_02"
+        },
+        "const3": {
+            "name": "\"Você se Tornará um Novo Membro da Nossa Família...\"",
+            "description": "Aumenta o nível do <color=#FFD780FF>Ataque Normal: Convite para Decapitação</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Arlecchino_01"
+        },
+        "const4": {
+            "name": "\"De Hoje em Diante, Amor e Proteção Mútua...\"",
+            "description": "Quando Arlecchino absorve com sucesso Comando da Dívida de Sangue, a recarga de <color=#FFD780FF>Ascensão da Lua Ominosa</color> reduzirá em 2s, e regenerará 15 de Energia para ela. Esse efeito pode ocorrer uma vez a cada 10s.",
+            "icon": "UI_Talent_S_Arlecchino_03"
+        },
+        "const5": {
+            "name": "\"Sozinhos, Estamos Mortos...\"",
+            "description": "Aumenta o Nível de <color=#FFD780FF>Ascensão da Lua Ominosa</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Arlecchino_02"
+        },
+        "const6": {
+            "name": "\"De Hoje em Diante, Nos Deliciaremos numa Nova Vida.\"",
+            "description": "O Dano do ataque de <color=#FFD780FF>Ascensão da Lua Ominosa</color> é aumentado no valor do ATQ de Arlecchino multiplicado por 700% do Contrato de Vida atual.\\nNos 20s depois de Arlecchino usar <color=#FFD780FF>Tudo são Cinzas</color>, o Ataque Normal e o Supremo terão a Taxa CRIT aumentada em 10% e o Dano CRIT em 70%. Esse efeito pode ser desencadeado uma vez a cada 15s.",
+            "icon": "UI_Talent_S_Arlecchino_04"
+        }
+    },
+    "energy": [
+        {
+            "source": "UNIQUE_DropBall",
+            "particles": "5",
+            "chance": "100%",
+            "cd": "1.5s"
+        }
+    ],
+    "attacks": [
+        {
+            "name": "ExtraAttack",
+            "icd_source": "Tag: Arlecchino_Constellation_2 (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/150",
+            "element": "Fire"
+        },
+        {
+            "name": "ElementalArt",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/120",
+            "element": "Fire"
+        },
+        {
+            "name": "ElementalArt",
+            "icd_source": "Grp: Arlecchino_ElementalArt (Tag Miss)",
+            "icd_rule": "3 hits / 10s",
+            "gauge": "1U",
+            "poise": "LV3/25",
+            "element": "Fire"
+        },
+        {
+            "name": "ElementalArt",
+            "icd_source": "Grp: Arlecchino_ElementalArt (Tag Miss)",
+            "icd_rule": "3 hits / 10s",
+            "gauge": "1U",
+            "poise": "LV3/25",
+            "element": "Fire"
+        },
+        {
+            "name": "ElementalArt",
+            "icd_source": "Grp: Arlecchino_ElementalArt (Tag Miss)",
+            "icd_rule": "3 hits / 10s",
+            "gauge": "1U",
+            "poise": "LV3/25",
+            "element": "Fire"
+        },
+        {
+            "name": "ElementalBurst_Attack",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/250",
+            "element": "Fire"
+        },
+        {
+            "name": "ElementalBurst_Gadget",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/75",
+            "element": "Fire"
+        },
+        {
+            "name": "HPDebtsMark",
+            "icd_source": "Grp: Arlecchino_ElementalArt (Tag Miss)",
+            "icd_rule": "3 hits / 10s",
+            "gauge": "1U",
+            "poise": "LV1/25",
+            "element": "Fire"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/25",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/25",
+            "element": "Fire"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/25",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/25",
+            "element": "Fire"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/100",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/150",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/100",
+            "element": "Fire"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/150",
+            "element": "Fire"
+        }
+    ],
+    "hyperlinks": []
+}

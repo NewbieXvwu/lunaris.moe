@@ -1,0 +1,1292 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104161": 1,
+            "104162": 9,
+            "104163": 9,
+            "104164": 6
+        },
+        "elitemonster": {
+            "113023": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101202": 168
+        },
+        "worldmonster": {
+            "112044": 18,
+            "112045": 30,
+            "112046": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "27 hits / 0.5s",
+            "icd_source": "Grp: Ayaka_ExtraAttack (Tag Miss)",
+            "name": "ExtraAttack_Damage_Gadget",
+            "poise": "LV2/40"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "27 hits / 0.5s",
+            "icd_source": "Grp: Ayaka_ExtraAttack (Tag Miss)",
+            "name": "ExtraAttack_Damage_Gadget",
+            "poise": "LV3/40"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "27 hits / 0.5s",
+            "icd_source": "Grp: Ayaka_ExtraAttack (Tag Miss)",
+            "name": "ExtraAttack_Damage_Gadget",
+            "poise": "LV2/40"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "NormalAttack05_Bullet",
+            "poise": "LV7/74"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "NormalAttack05_Bullet",
+            "poise": "LV7/74"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Ice_Bloom (!)",
+            "name": "LiquidStrike",
+            "poise": "LV2/0"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "LiquidStrike_YayoiKaeshi",
+            "poise": "LV7/300"
+        },
+        {
+            "element": "Ice",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "Icespine_Strike_New",
+            "poise": "LV7/110"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "FrozenWindmillDamage",
+            "poise": "LV4/30"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "FrozenWindmillDissipate",
+            "poise": "LV5/30"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "FrozenWindmill_Sub_Damage",
+            "poise": "LV3/30"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "FrozenWindmill_Sub_Damage",
+            "poise": "LV0/0"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "FrozenWindmill_Sub_Dissipate",
+            "poise": "LV5/30"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Grp: default",
+            "name": "FrozenButterfly_Area",
+            "poise": "LV0/0"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Quando os Ataques Normal ou Carregado de Kamisato Ayaka infligem <color=#99FFFFFF>Dano Cryo</color> aos inimigos, têm uma chance de 50% de diminuir a Recarga de <color=#FFD780FF>Arte Kamisato: Hyouka</color> em 0.3s. Esse efeito só pode ocorrer uma vez a cada 0.1s.",
+            "icon": "UI_Talent_S_Ayaka_01",
+            "name": "Sosai Sumizome Sakura"
+        },
+        "const2": {
+            "description": "Ao lançar <color=#FFD780FF>Arte Kamisato: Soumetsu</color>, lança 2 Portões Souken pequenos adicionais, cada uma causando 20% do Dano da tempestade.",
+            "icon": "UI_Talent_S_Ayaka_02",
+            "name": "Lâmina da Nevasca Seki no To"
+        },
+        "const3": {
+            "description": "Aumenta o nível de <color=#FFD780FF>Arte Kamisato: Soumetsu</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Ayaka_02",
+            "name": "Flor Congelada Kamifubuki"
+        },
+        "const4": {
+            "description": "Inimigos atingidos pelo Granizo Seki no To de <color=#FFD780FF>Arte Kamisato: Soumetsu</color> terão sua DEF reduzido em 30% por 6s.",
+            "icon": "UI_Talent_S_Ayaka_03",
+            "name": "Eiki Ryuhan"
+        },
+        "const5": {
+            "description": "Aumenta o nível de <color=#FFD780FF>Arte Kamisato: Hyouka</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Ayaka_01",
+            "name": "Nuvem de Flores Irutsuki"
+        },
+        "const6": {
+            "description": "Kamisato Ayaka ganha Usuhari Butou a cada 10s, aumentando o Dano causado pelo seu Ataque Carregado em 298%. Esse bônus será dissipado 0.5s após o Ataque Carregado de Ayaka atingir um inimigo, em que o Tempo de Recarga dessa habilidade reiniciará.",
+            "icon": "UI_Talent_S_Ayaka_04",
+            "name": "Dança de Suigetsu"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.3s",
+            "chance": "50%",
+            "particles": "1",
+            "source": "DropBall_Base"
+        },
+        {
+            "cd": "0.3s",
+            "chance": "50%",
+            "particles": "1",
+            "source": "DropBall_Base"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Ayaka",
+        "forward": "UI_AvatarIcon_Ayaka"
+    },
+    "info": {
+        "attributes": [
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 61,
+                "hp": 1001,
+                "level": 1
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 66,
+                "hp": 1084,
+                "level": 2
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 71,
+                "hp": 1167,
+                "level": 3
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 76,
+                "hp": 1251,
+                "level": 4
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 81,
+                "hp": 1334,
+                "level": 5
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 86,
+                "hp": 1418,
+                "level": 6
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 40,
+                "def": 92,
+                "hp": 1501,
+                "level": 7
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 97,
+                "hp": 1586,
+                "level": 8
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 102,
+                "hp": 1670,
+                "level": 9
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 47,
+                "def": 107,
+                "hp": 1753,
+                "level": 10
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 49,
+                "def": 112,
+                "hp": 1837,
+                "level": 11
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 51,
+                "def": 117,
+                "hp": 1921,
+                "level": 12
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 53,
+                "def": 122,
+                "hp": 2005,
+                "level": 13
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 56,
+                "def": 127,
+                "hp": 2090,
+                "level": 14
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 58,
+                "def": 133,
+                "hp": 2174,
+                "level": 15
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 60,
+                "def": 138,
+                "hp": 2258,
+                "level": 16
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 62,
+                "def": 143,
+                "hp": 2343,
+                "level": 17
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 65,
+                "def": 148,
+                "hp": 2427,
+                "level": 18
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 67,
+                "def": 153,
+                "hp": 2512,
+                "level": 19
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 69,
+                "def": 158,
+                "hp": 2597,
+                "level": 20
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 94,
+                "def": 216,
+                "hp": 3540,
+                "level": 21
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 96,
+                "def": 221,
+                "hp": 3625,
+                "level": 22
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 99,
+                "def": 226,
+                "hp": 3710,
+                "level": 23
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 101,
+                "def": 231,
+                "hp": 3795,
+                "level": 24
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 103,
+                "def": 237,
+                "hp": 3880,
+                "level": 25
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 106,
+                "def": 242,
+                "hp": 3966,
+                "level": 26
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 108,
+                "def": 247,
+                "hp": 4051,
+                "level": 27
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 110,
+                "def": 252,
+                "hp": 4136,
+                "level": 28
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 112,
+                "def": 257,
+                "hp": 4223,
+                "level": 29
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 115,
+                "def": 263,
+                "hp": 4308,
+                "level": 30
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 117,
+                "def": 268,
+                "hp": 4394,
+                "level": 31
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 119,
+                "def": 273,
+                "hp": 4480,
+                "level": 32
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 121,
+                "def": 278,
+                "hp": 4566,
+                "level": 33
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 124,
+                "def": 284,
+                "hp": 4651,
+                "level": 34
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 126,
+                "def": 289,
+                "hp": 4737,
+                "level": 35
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 128,
+                "def": 294,
+                "hp": 4824,
+                "level": 36
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 131,
+                "def": 299,
+                "hp": 4910,
+                "level": 37
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 133,
+                "def": 305,
+                "hp": 4996,
+                "level": 38
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 135,
+                "def": 310,
+                "hp": 5082,
+                "level": 39
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 138,
+                "def": 315,
+                "hp": 5170,
+                "level": 40
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 156,
+                "def": 358,
+                "hp": 5865,
+                "level": 41
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 158,
+                "def": 363,
+                "hp": 5952,
+                "level": 42
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 161,
+                "def": 368,
+                "hp": 6040,
+                "level": 43
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 163,
+                "def": 373,
+                "hp": 6126,
+                "level": 44
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 165,
+                "def": 379,
+                "hp": 6213,
+                "level": 45
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 168,
+                "def": 384,
+                "hp": 6300,
+                "level": 46
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 170,
+                "def": 389,
+                "hp": 6387,
+                "level": 47
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 172,
+                "def": 395,
+                "hp": 6474,
+                "level": 48
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 175,
+                "def": 400,
+                "hp": 6562,
+                "level": 49
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 177,
+                "def": 405,
+                "hp": 6649,
+                "level": 50
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 201,
+                "def": 460,
+                "hp": 7549,
+                "level": 51
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 203,
+                "def": 466,
+                "hp": 7637,
+                "level": 52
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 205,
+                "def": 471,
+                "hp": 7725,
+                "level": 53
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 208,
+                "def": 476,
+                "hp": 7813,
+                "level": 54
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 210,
+                "def": 482,
+                "hp": 7901,
+                "level": 55
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 212,
+                "def": 487,
+                "hp": 7989,
+                "level": 56
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 215,
+                "def": 492,
+                "hp": 8077,
+                "level": 57
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 217,
+                "def": 498,
+                "hp": 8165,
+                "level": 58
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 220,
+                "def": 503,
+                "hp": 8253,
+                "level": 59
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 222,
+                "def": 509,
+                "hp": 8341,
+                "level": 60
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 240,
+                "def": 551,
+                "hp": 9039,
+                "level": 61
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 243,
+                "def": 556,
+                "hp": 9127,
+                "level": 62
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 245,
+                "def": 562,
+                "hp": 9216,
+                "level": 63
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 247,
+                "def": 567,
+                "hp": 9304,
+                "level": 64
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 250,
+                "def": 573,
+                "hp": 9393,
+                "level": 65
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 252,
+                "def": 578,
+                "hp": 9482,
+                "level": 66
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 255,
+                "def": 583,
+                "hp": 9571,
+                "level": 67
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 257,
+                "def": 589,
+                "hp": 9660,
+                "level": 68
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 259,
+                "def": 594,
+                "hp": 9749,
+                "level": 69
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 262,
+                "def": 600,
+                "hp": 9838,
+                "level": 70
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 280,
+                "def": 642,
+                "hp": 10537,
+                "level": 71
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 283,
+                "def": 648,
+                "hp": 10627,
+                "level": 72
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 285,
+                "def": 653,
+                "hp": 10716,
+                "level": 73
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 287,
+                "def": 659,
+                "hp": 10805,
+                "level": 74
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 290,
+                "def": 664,
+                "hp": 10895,
+                "level": 75
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 292,
+                "def": 670,
+                "hp": 10984,
+                "level": 76
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 295,
+                "def": 675,
+                "hp": 11074,
+                "level": 77
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 297,
+                "def": 681,
+                "hp": 11164,
+                "level": 78
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 299,
+                "def": 686,
+                "hp": 11254,
+                "level": 79
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 302,
+                "def": 692,
+                "hp": 11345,
+                "level": 80
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 320,
+                "def": 734,
+                "hp": 12044,
+                "level": 81
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 323,
+                "def": 740,
+                "hp": 12134,
+                "level": 82
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 325,
+                "def": 745,
+                "hp": 12225,
+                "level": 83
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 328,
+                "def": 751,
+                "hp": 12315,
+                "level": 84
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 330,
+                "def": 756,
+                "hp": 12405,
+                "level": 85
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 332,
+                "def": 762,
+                "hp": 12496,
+                "level": 86
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 335,
+                "def": 767,
+                "hp": 12586,
+                "level": 87
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 337,
+                "def": 773,
+                "hp": 12677,
+                "level": 88
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 340,
+                "def": 778,
+                "hp": 12768,
+                "level": 89
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 342,
+                "def": 784,
+                "hp": 12858,
+                "level": 90
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 381,
+                "def": 812,
+                "hp": 13315,
+                "level": 95
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 419,
+                "def": 840,
+                "hp": 13772,
+                "level": 100
+            }
+        ],
+        "birthday": "September 28th",
+        "constellation": "Grus Nivis",
+        "description": "Filha do Clã Kamisato da Comissão Yashiro. Solene e elegante, e também sábia e forte.",
+        "element": "Cryo",
+        "name": "Kamisato Ayaka",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_SWORD_ONE_HAND"
+    },
+    "passives": {
+        "p1": {
+            "description": "Depois de usar <color=#FFD780FF>Arte Kamisato: Hyouka</color>, os danos causados pelos Ataques Normais e Carregados da Kamisato Ayaka ganham um aumento de 30% durante 6s.",
+            "icon": "UI_Talent_S_Ayaka_05",
+            "name": "Amatsutsumi Kunitsutsumi Chinshi"
+        },
+        "p2": {
+            "description": "Quando a aplicação de Cryo no final da <color=#FFD780FF>Arte Kamisato: Senho</color> acerta um oponente, Kamisato Ayaka ganha os seguintes efeitos:\\n·Recupera 10 de Stamina\\n·Ganha 18% de <color=#99FFFFFF>Bônus de Dano Cryo</color> por 10s.",
+            "icon": "UI_Talent_S_Ayaka_06",
+            "name": "Bênção de Kanten Senmyou"
+        },
+        "p3": {
+            "description": "Quando Ayaka fabrica Materiais de Ascensão de Armas, ele tem 10% de chance de receber o dobro do produto.",
+            "icon": "UI_Talent_Combine_Weapon_Double",
+            "name": "Frutos de Shinsa"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Ayaka acumula geada com uma pose perfeita, liberando um Granizo Seki no To que avança continuamente para frente.\\n\\n<color=#FFD780FF>Granizo Seki no To</color>\\nCausa <color=#99FFFFFF>Dano Cryo</color> ao cortar continuamente o inimigos que toca com ventos gélidos e afiados como lâminas;\\nExplode após sua duração encerrar, causando <color=#99FFFFFF>Dano Cryo em uma AdE</color>.\\n\\n<i>\"A nevasca cobre os pensamentos da garça, cujo coração está inundado por compaixão\".</i>",
+            "icon": "Skill_E_Ayaka",
+            "multipliers": {
+                "Dano de Corte": [
+                    "112.3%",
+                    "120.72%",
+                    "129.15%",
+                    "140.37%",
+                    "148.8%",
+                    "157.22%",
+                    "168.45%",
+                    "179.68%",
+                    "190.91%",
+                    "202.14%",
+                    "213.37%",
+                    "224.6%",
+                    "238.64%",
+                    "252.68%",
+                    "266.71%"
+                ],
+                "Dano do Desabrochamento": [
+                    "168.45%",
+                    "181.08%",
+                    "193.72%",
+                    "210.56%",
+                    "223.2%",
+                    "235.83%",
+                    "252.68%",
+                    "269.52%",
+                    "286.37%",
+                    "303.21%",
+                    "320.06%",
+                    "336.9%",
+                    "357.96%",
+                    "379.01%",
+                    "400.07%"
+                ],
+                "Duração": [
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s"
+                ],
+                "Energia Elemental": [
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80"
+                ],
+                "Tempo de Recarga": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ]
+            },
+            "name": "Arte Kamisato: Soumetsu"
+        },
+        "elementalskill": {
+            "description": "Invoca uma flor gélida que lança os inimigos próximos para o ar, causando <color=#99FFFFFF>Dano Cryo em uma AdE</color>.\\n\\n<i>\"As nuvens cobrem a noite iluminada pela lua. A saudade cai como uma névoa, enchendo a que está contida com o desejo de vaguear.\"</i>",
+            "icon": "Skill_S_Ayaka_01",
+            "multipliers": {
+                "Dano de Habilidade": [
+                    "239.2%",
+                    "257.14%",
+                    "275.08%",
+                    "299%",
+                    "316.94%",
+                    "334.88%",
+                    "358.8%",
+                    "382.72%",
+                    "406.64%",
+                    "430.56%",
+                    "454.48%",
+                    "478.4%",
+                    "508.3%",
+                    "538.2%",
+                    "568.1%"
+                ],
+                "Tempo de Recarga": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ]
+            },
+            "name": "Arte Kamisato: Hyouka"
+        },
+        "leveling": {
+            "books": {
+                "104323": 9,
+                "104324": 63,
+                "104325": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113018": 18
+            },
+            "worldmonster": {
+                "112044": 18,
+                "112045": 66,
+                "112046": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 5 golpes rápidos.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome certa quantidade de Stamina para liberar o vento contínuo da espada.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nMergulha do ar para atingir o chão abaixo, causando Dano aos inimigos ao longo do caminho e causando Dano em uma AdE no impacto.",
+            "icon": "Skill_A_01",
+            "multipliers": {
+                "Consumo de Stamina de Ataque Carregado": [
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20"
+                ],
+                "Dano Durante a Queda": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Dano do 1° Golpe": [
+                    "45.73%",
+                    "49.45%",
+                    "53.17%",
+                    "58.49%",
+                    "62.21%",
+                    "66.46%",
+                    "72.31%",
+                    "78.16%",
+                    "84.01%",
+                    "90.39%",
+                    "96.77%",
+                    "103.15%",
+                    "109.53%",
+                    "115.91%",
+                    "122.29%"
+                ],
+                "Dano do 2° Golpe": [
+                    "48.68%",
+                    "52.65%",
+                    "56.61%",
+                    "62.27%",
+                    "66.23%",
+                    "70.76%",
+                    "76.99%",
+                    "83.22%",
+                    "89.44%",
+                    "96.24%",
+                    "103.03%",
+                    "109.82%",
+                    "116.62%",
+                    "123.41%",
+                    "130.2%"
+                ],
+                "Dano do 3° Golpe": [
+                    "62.62%",
+                    "67.72%",
+                    "72.82%",
+                    "80.1%",
+                    "85.19%",
+                    "91.02%",
+                    "99.03%",
+                    "107.04%",
+                    "115.05%",
+                    "123.79%",
+                    "132.53%",
+                    "141.26%",
+                    "150%",
+                    "158.74%",
+                    "167.48%"
+                ],
+                "Dano do 4° Golpe": [
+                    "22.65%*3",
+                    "24.49%*3",
+                    "26.33%*3",
+                    "28.97%*3",
+                    "30.81%*3",
+                    "32.92%*3",
+                    "35.81%*3",
+                    "38.71%*3",
+                    "41.61%*3",
+                    "44.77%*3",
+                    "47.93%*3",
+                    "51.09%*3",
+                    "54.25%*3",
+                    "57.41%*3",
+                    "60.57%*3"
+                ],
+                "Dano do 5° Golpe": [
+                    "78.18%",
+                    "84.55%",
+                    "90.91%",
+                    "100%",
+                    "106.36%",
+                    "113.64%",
+                    "123.64%",
+                    "133.64%",
+                    "143.64%",
+                    "154.55%",
+                    "165.45%",
+                    "176.36%",
+                    "187.27%",
+                    "198.18%",
+                    "209.09%"
+                ],
+                "Dano do Ataque Carregado": [
+                    "55.13%*3",
+                    "59.61%*3",
+                    "64.1%*3",
+                    "70.51%*3",
+                    "75%*3",
+                    "80.12%*3",
+                    "87.18%*3",
+                    "94.23%*3",
+                    "101.28%*3",
+                    "108.97%*3",
+                    "116.66%*3",
+                    "124.35%*3",
+                    "132.05%*3",
+                    "139.74%*3",
+                    "147.43%*3"
+                ]
+            },
+            "name": "Arte Kamisato: Naname"
+        }
+    }
+}

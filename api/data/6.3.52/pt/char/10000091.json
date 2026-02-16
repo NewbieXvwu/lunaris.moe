@@ -1,0 +1,1408 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104171": 1,
+            "104172": 9,
+            "104173": 9,
+            "104174": 6
+        },
+        "elitemonster": {
+            "113050": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101240": 168
+        },
+        "worldmonster": {
+            "112080": 18,
+            "112081": 30,
+            "112082": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack_3_Claymore",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack_3_Claymore",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack_3_Claymore",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack_3_Claymore",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt",
+            "poise": "LV3/150"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt",
+            "poise": "LV3/150"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt",
+            "poise": "LV3/150"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt",
+            "poise": "LV3/150"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt",
+            "poise": "LV3/150"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt",
+            "poise": "LV3/150"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt",
+            "poise": "LV3/150"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt",
+            "poise": "LV3/150"
+        },
+        {
+            "element": "Rock",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Pneuma",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_ShotGun_Bullet",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "3 hits / 12s",
+            "icd_source": "Grp: Avatar_Navia_Burst (Tag Miss)",
+            "name": "Burst_Follow_Gadget",
+            "poise": "LV1/50"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "3 hits / 12s",
+            "icd_source": "Grp: Avatar_Navia_Burst (Tag Miss)",
+            "name": "Talent_2_Driver",
+            "poise": "LV1/50"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/35"
+        },
+        {
+            "element": "Rock",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/35"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/150"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/150"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/200"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/200"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Ao lançar <color=#FFD780FF>Cerimônia Cristalina Flamejante</color> consome 1 de Fragmento da Rachadura, regenera 3 de Energia Elemental para Navia e reduz a Recarga de <color=#FFD780FF>Como um Presente do Céu Claro</color> em 1s. É possível regenerar até 9 de Energia Elemental dessa forma, e reduzir a recarga de Como um Presente do Céu Claro em 3s.",
+            "icon": "UI_Talent_S_Navia_01",
+            "name": "As Regras de uma Dama para Manter a Distância"
+        },
+        "const2": {
+            "description": "Ao lançar <color=#FFD780FF>Cerimônia Cristalina Flamejante</color> consome 1 Fragmento da Rachadura e aumenta a Taxa CRIT dessa Cerimônia Cristalina Flamejante em 12%, é possível aumentar a Taxa CRIT em até 36% dessa forma.\\nAlém disso, quando o disparo de Cerimônia Cristalina Flamejante atinge um inimigo, fará cair uma Saraivada de Suporte de <color=#FFD780FF>Como um Presente do Céu Claro</color> perto do inimigo atingido. Até uma instância de Saraivada de Suporte pode ser lançada por cada Cerimônia Cristalina Flamejante, o Dano causado pela Saraivada de Suporte é considerado Dano de Supremo.",
+            "icon": "UI_Talent_S_Navia_02",
+            "name": "Busca da Vitória da Presidente"
+        },
+        "const3": {
+            "description": "Aumenta o nível do <color=#FFD780FF>Cerimônia Cristalina Flamejante</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Navia_01",
+            "name": "Visão da Mulher de Negócios"
+        },
+        "const4": {
+            "description": "Quando <color=#FFD780FF>Como um Presente do Céu Claro</color> atinge um inimigo, reduz a <color=#FFE699FF>RES Geo</color> desse inimigo em 20% por 8s.",
+            "icon": "UI_Talent_S_Navia_03",
+            "name": "Aqueles que Juram Nunca Capitulam"
+        },
+        "const5": {
+            "description": "Aumenta o nível da <color=#FFD780FF>Como um Presente do Céu Claro</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Navia_02",
+            "name": "Negociações Resolutas"
+        },
+        "const6": {
+            "description": "Ao lançar <color=#FFD780FF>Cerimônia Cristalina Flamejante</color>, se consumir mais do que 3 Fragmentos da Rachadura, cada Fragmento da Rachadura consumido a mais aumentará o Dano CRIT de Cerimônia Cristalina Flamejante em 45%, e os fragmentos acima de 3 consumidos serão devolvidos depois de lançada a habilidade.",
+            "icon": "UI_Talent_S_Navia_04",
+            "name": "A Flexibilidade da Presidente da Spina di Rosula"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.2s",
+            "chance": "100%",
+            "particles": "3",
+            "source": "Rock_ElemBall"
+        },
+        {
+            "cd": "0.2s",
+            "chance": "50%",
+            "particles": "1",
+            "source": "Rock_ElemBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Navia",
+        "forward": "UI_AvatarIcon_Navia"
+    },
+    "info": {
+        "attributes": [
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 62,
+                "hp": 985,
+                "level": 1
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 67,
+                "hp": 1067,
+                "level": 2
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 72,
+                "hp": 1148,
+                "level": 3
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 77,
+                "hp": 1231,
+                "level": 4
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 82,
+                "hp": 1313,
+                "level": 5
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 87,
+                "hp": 1395,
+                "level": 6
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 93,
+                "hp": 1477,
+                "level": 7
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 43,
+                "def": 98,
+                "hp": 1560,
+                "level": 8
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 46,
+                "def": 103,
+                "hp": 1643,
+                "level": 9
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 48,
+                "def": 108,
+                "hp": 1724,
+                "level": 10
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 50,
+                "def": 113,
+                "hp": 1807,
+                "level": 11
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 53,
+                "def": 118,
+                "hp": 1890,
+                "level": 12
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 55,
+                "def": 124,
+                "hp": 1973,
+                "level": 13
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 57,
+                "def": 129,
+                "hp": 2056,
+                "level": 14
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 59,
+                "def": 134,
+                "hp": 2139,
+                "level": 15
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 62,
+                "def": 139,
+                "hp": 2222,
+                "level": 16
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 64,
+                "def": 145,
+                "hp": 2305,
+                "level": 17
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 66,
+                "def": 150,
+                "hp": 2388,
+                "level": 18
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 69,
+                "def": 155,
+                "hp": 2472,
+                "level": 19
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 71,
+                "def": 160,
+                "hp": 2555,
+                "level": 20
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 97,
+                "def": 218,
+                "hp": 3483,
+                "level": 21
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 99,
+                "def": 224,
+                "hp": 3566,
+                "level": 22
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 101,
+                "def": 229,
+                "hp": 3650,
+                "level": 23
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 104,
+                "def": 234,
+                "hp": 3734,
+                "level": 24
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 106,
+                "def": 239,
+                "hp": 3817,
+                "level": 25
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 108,
+                "def": 245,
+                "hp": 3902,
+                "level": 26
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 111,
+                "def": 250,
+                "hp": 3986,
+                "level": 27
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 113,
+                "def": 255,
+                "hp": 4070,
+                "level": 28
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 115,
+                "def": 260,
+                "hp": 4154,
+                "level": 29
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 118,
+                "def": 266,
+                "hp": 4238,
+                "level": 30
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 120,
+                "def": 271,
+                "hp": 4323,
+                "level": 31
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 122,
+                "def": 276,
+                "hp": 4407,
+                "level": 32
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 125,
+                "def": 282,
+                "hp": 4492,
+                "level": 33
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 127,
+                "def": 287,
+                "hp": 4576,
+                "level": 34
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 130,
+                "def": 292,
+                "hp": 4660,
+                "level": 35
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 132,
+                "def": 298,
+                "hp": 4746,
+                "level": 36
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 134,
+                "def": 303,
+                "hp": 4831,
+                "level": 37
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 137,
+                "def": 308,
+                "hp": 4915,
+                "level": 38
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 139,
+                "def": 314,
+                "hp": 5000,
+                "level": 39
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 141,
+                "def": 319,
+                "hp": 5086,
+                "level": 40
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 160,
+                "def": 362,
+                "hp": 5770,
+                "level": 41
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 163,
+                "def": 367,
+                "hp": 5856,
+                "level": 42
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 165,
+                "def": 373,
+                "hp": 5942,
+                "level": 43
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 167,
+                "def": 378,
+                "hp": 6026,
+                "level": 44
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 170,
+                "def": 383,
+                "hp": 6112,
+                "level": 45
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 172,
+                "def": 389,
+                "hp": 6198,
+                "level": 46
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 175,
+                "def": 394,
+                "hp": 6284,
+                "level": 47
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 177,
+                "def": 399,
+                "hp": 6369,
+                "level": 48
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 179,
+                "def": 405,
+                "hp": 6456,
+                "level": 49
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 182,
+                "def": 410,
+                "hp": 6542,
+                "level": 50
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 206,
+                "def": 466,
+                "hp": 7427,
+                "level": 51
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 209,
+                "def": 471,
+                "hp": 7514,
+                "level": 52
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 211,
+                "def": 476,
+                "hp": 7599,
+                "level": 53
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 214,
+                "def": 482,
+                "hp": 7686,
+                "level": 54
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 216,
+                "def": 487,
+                "hp": 7773,
+                "level": 55
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 218,
+                "def": 493,
+                "hp": 7859,
+                "level": 56
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 221,
+                "def": 498,
+                "hp": 7946,
+                "level": 57
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 223,
+                "def": 504,
+                "hp": 8033,
+                "level": 58
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 226,
+                "def": 509,
+                "hp": 8119,
+                "level": 59
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 228,
+                "def": 515,
+                "hp": 8206,
+                "level": 60
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 247,
+                "def": 558,
+                "hp": 8893,
+                "level": 61
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 250,
+                "def": 563,
+                "hp": 8979,
+                "level": 62
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 252,
+                "def": 568,
+                "hp": 9067,
+                "level": 63
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 254,
+                "def": 574,
+                "hp": 9154,
+                "level": 64
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 257,
+                "def": 579,
+                "hp": 9241,
+                "level": 65
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 259,
+                "def": 585,
+                "hp": 9329,
+                "level": 66
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 262,
+                "def": 590,
+                "hp": 9416,
+                "level": 67
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 264,
+                "def": 596,
+                "hp": 9503,
+                "level": 68
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 267,
+                "def": 601,
+                "hp": 9591,
+                "level": 69
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 269,
+                "def": 607,
+                "hp": 9679,
+                "level": 70
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 288,
+                "def": 650,
+                "hp": 10366,
+                "level": 71
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 291,
+                "def": 656,
+                "hp": 10455,
+                "level": 72
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 293,
+                "def": 661,
+                "hp": 10542,
+                "level": 73
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 295,
+                "def": 666,
+                "hp": 10630,
+                "level": 74
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 298,
+                "def": 672,
+                "hp": 10719,
+                "level": 75
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 300,
+                "def": 678,
+                "hp": 10806,
+                "level": 76
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 303,
+                "def": 683,
+                "hp": 10895,
+                "level": 77
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 305,
+                "def": 689,
+                "hp": 10984,
+                "level": 78
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 308,
+                "def": 694,
+                "hp": 11072,
+                "level": 79
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 310,
+                "def": 700,
+                "hp": 11161,
+                "level": 80
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 329,
+                "def": 743,
+                "hp": 11849,
+                "level": 81
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 332,
+                "def": 749,
+                "hp": 11938,
+                "level": 82
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 334,
+                "def": 754,
+                "hp": 12027,
+                "level": 83
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 337,
+                "def": 760,
+                "hp": 12115,
+                "level": 84
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 339,
+                "def": 765,
+                "hp": 12204,
+                "level": 85
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 342,
+                "def": 771,
+                "hp": 12294,
+                "level": 86
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 344,
+                "def": 776,
+                "hp": 12382,
+                "level": 87
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 347,
+                "def": 782,
+                "hp": 12472,
+                "level": 88
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 349,
+                "def": 788,
+                "hp": 12561,
+                "level": 89
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 352,
+                "def": 793,
+                "hp": 12650,
+                "level": 90
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 391,
+                "def": 821,
+                "hp": 13099,
+                "level": 95
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 431,
+                "def": 850,
+                "hp": 13549,
+                "level": 100
+            }
+        ],
+        "birthday": "August 16th",
+        "constellation": "Rosa Multiflora",
+        "description": "A atual Presidente da Spina di Rosula, é a patroa adorável e responsável.",
+        "element": "Geo",
+        "name": "Navia",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_CLAYMORE"
+    },
+    "passives": {
+        "p1": {
+            "description": "Nos 4s depois de lançar <color=#FFD780FF>Cerimônia Cristalina Flamejante</color>, o Dano do Ataque Normal, Carregado e Imersivo de Navia será convertido em <color=#FFE699FF>Dano Geo</color> que não pode ser substituído, e aumenta o Dano do Ataque Normal, Carregado e Imersivo de Navia em 40%.",
+            "icon": "UI_Talent_S_Navia_05",
+            "name": "Canal de Corrente Desconhecida"
+        },
+        "p2": {
+            "description": "Aumenta o ATQ de Navia em 20% para cada personagem <color=#FF9999FF>Pyro</color>/<color=#FFACFFFF>Electro</color>/<color=#99FFFFFF>Cryo</color>/<color=#80C0FFFF>Hydro</color> na equipe. Esse efeito pode ser acumulado até duas vezes.",
+            "icon": "UI_Talent_S_Navia_06",
+            "name": "Rede de Ajuda Mútua"
+        },
+        "p3": {
+            "description": "Quando enviada para uma expedição de Fontaine por 20 horas, obtém 25% a mais de recompensas.",
+            "icon": "UI_Talent_S_Navia_07",
+            "name": "Transação Detalhada"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Como líder da Spina di Rosula, invoca uma fantástica \"Salva de Canhões Dourados\", ferozmente disparando contra os inimigos em frente, causando <color=#FFE699FF>Dano Geo em AdE</color>, e em seguida continuamente realiza uma Saraivada de Suporte, periodicamente causando <color=#FFE699FF>Dano Geo</color> aos inimigos próximos.\\nQuando um tiro atingir um inimigo, concederá 1 Fragmento da Rachadura a Navia. Esse efeito pode ser desencadeado uma vez a 2.4s.\\n\\n<i>\"Os canhões da Spina di Rosula não servem para ameaçar ninguém, são só disparados antes de uma negociação para celebrá-la com sucesso de antemão.\"</i>",
+            "icon": "Skill_E_Navia_01",
+            "multipliers": {
+                "Dano da Saraivada de Suporte": [
+                    "43.15%",
+                    "46.39%",
+                    "49.62%",
+                    "53.94%",
+                    "57.17%",
+                    "60.41%",
+                    "64.72%",
+                    "69.04%",
+                    "73.36%",
+                    "77.67%",
+                    "81.99%",
+                    "86.3%",
+                    "91.69%",
+                    "97.09%",
+                    "102.48%"
+                ],
+                "Dano de Habilidade": [
+                    "75.2%",
+                    "80.84%",
+                    "86.48%",
+                    "94%",
+                    "99.64%",
+                    "105.28%",
+                    "112.8%",
+                    "120.32%",
+                    "127.84%",
+                    "135.36%",
+                    "142.88%",
+                    "150.4%",
+                    "159.8%",
+                    "169.2%",
+                    "178.6%"
+                ],
+                "Duração da Saraivada de Suporte": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "Energia Elemental": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "Tempo de Recarga": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ]
+            },
+            "name": "Como um Presente do Céu Claro"
+        },
+        "elementalskill": {
+            "description": "Quando um personagem da equipe obtém um Fragmento gerado por uma reação de Cristalização ou Cristalização Lunar, fornecerá para Navia 1 Fragmento da Rachadura. É possível acumular até 6 Fragmentos da Rachadura. Cada vez que desencadear, redefinirá a duração dos Fragmentos da Rachadura possuídos. É possível obter um Fragmento da Rachadura por segunda para Navia através da Cristalização Lunar.\\nAo lançar, Navia consumirá todos os Fragmentos da Rachadura e revelará sua refinada arma guarda-chuva, disparando vários Projéteis Cristalinos Rosados que perfuram os inimigos, infligindo <color=#FFE699FF>Dano Geo</color> contra os inimigos que atingir.\\nConsumir 0/1/2/3 ou mais Fragmentos da Rachadura disparará 5/7/9/11 Projéteis Cristalinos Rosados respectivamente. Quanto mais Projéteis Cristalinos Rosados atingirem o mesmo inimigo, maior será o Dano causado contra esse inimigo. Se os 11 Projéteis Cristalinos Rosados atingirem, causará 200% do Dano original.\\nAlém disso, quando consumir mais que três Fragmentos da Rachadura, para cada Fragmento da Rachadura excedente aumenta o Dano causado desse disparo em 15%.\\n\\n<color=#FFD780FF>Manter Pressionado</color>\\nEntra no Modo de Mira, obtendo continuamente os fragmentos de Cristalização próximos, e quando acabar a duração, Manter Pressionado disparará um Projétil Cristalino Rosado igual ao de pressionar.\\n\\nInicialmente possui dois usos.\\n\\n<color=#FFD780FF>Arkhe: Ousia</color>\\nPeriodicamente quando Navia disparar sua arma guarda-chuva invocará uma Lâmina da Fluidez que causará <color=#FFE699FF>Dano Geo</color> com Ousia.\\n\\n<i>\"Manter distância de algumas pessoas que deve se ter distância é parte da etiqueta social. Mas, bem, há outras formas de também se manter essa distância...\"</i>",
+            "icon": "Skill_S_Navia_01",
+            "multipliers": {
+                "Dano Básico do Projétil Cristalino Rosado": [
+                    "394.8%",
+                    "424.41%",
+                    "454.02%",
+                    "493.5%",
+                    "523.11%",
+                    "552.72%",
+                    "592.2%",
+                    "631.68%",
+                    "671.16%",
+                    "710.64%",
+                    "750.12%",
+                    "789.6%",
+                    "838.95%",
+                    "888.3%",
+                    "937.65%"
+                ],
+                "Dano de Lâmina da Fluidez": [
+                    "36%",
+                    "38.7%",
+                    "41.4%",
+                    "45%",
+                    "47.7%",
+                    "50.4%",
+                    "54%",
+                    "57.6%",
+                    "61.2%",
+                    "64.8%",
+                    "68.4%",
+                    "72%",
+                    "76.5%",
+                    "81%",
+                    "85.5%"
+                ],
+                "Duração do Fragmento da Rachadura": [
+                    "300s",
+                    "300s",
+                    "300s",
+                    "300s",
+                    "300s",
+                    "300s",
+                    "300s",
+                    "300s",
+                    "300s",
+                    "300s",
+                    "300s",
+                    "300s",
+                    "300s",
+                    "300s",
+                    "300s"
+                ],
+                "Intervalo de Lâmina da Fluidez": [
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s"
+                ],
+                "Tempo de Recarga": [
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s"
+                ]
+            },
+            "name": "Cerimônia Cristalina Flamejante"
+        },
+        "leveling": {
+            "books": {
+                "104338": 9,
+                "104339": 63,
+                "104340": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113054": 18
+            },
+            "worldmonster": {
+                "112080": 18,
+                "112081": 66,
+                "112082": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 4 golpes consecutivos.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nDrena Stamina ao longo do tempo para realizar um ataque giratório contínuo contra todos os inimigos próximos.\\nAo final da sequência, realiza um corte poderoso.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos em seu caminho e infligindo Dano em uma AdE durante o impacto.",
+            "icon": "Skill_A_04",
+            "multipliers": {
+                "Consumo de Stamina de Ataque Carregado": [
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s"
+                ],
+                "Dano Durante a Queda": [
+                    "74.59%",
+                    "80.66%",
+                    "86.73%",
+                    "95.4%",
+                    "101.47%",
+                    "108.41%",
+                    "117.95%",
+                    "127.49%",
+                    "137.03%",
+                    "147.44%",
+                    "157.85%",
+                    "168.26%",
+                    "178.66%",
+                    "189.07%",
+                    "199.48%"
+                ],
+                "Dano Final de Ataque Carregado": [
+                    "113.09%",
+                    "122.29%",
+                    "131.5%",
+                    "144.65%",
+                    "153.86%",
+                    "164.37%",
+                    "178.84%",
+                    "193.31%",
+                    "207.77%",
+                    "223.55%",
+                    "239.33%",
+                    "255.11%",
+                    "270.89%",
+                    "286.67%",
+                    "302.45%"
+                ],
+                "Dano de Loop de Ataque Carregado": [
+                    "62.52%",
+                    "67.61%",
+                    "72.7%",
+                    "79.97%",
+                    "85.06%",
+                    "90.87%",
+                    "98.87%",
+                    "106.87%",
+                    "114.87%",
+                    "123.59%",
+                    "132.31%",
+                    "141.04%",
+                    "149.76%",
+                    "158.49%",
+                    "167.21%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "149.14%/186.29%",
+                    "161.28%/201.45%",
+                    "173.42%/216.62%",
+                    "190.77%/238.28%",
+                    "202.91%/253.44%",
+                    "216.78%/270.77%",
+                    "235.86%/294.6%",
+                    "254.93%/318.42%",
+                    "274.01%/342.25%",
+                    "294.82%/368.25%",
+                    "315.63%/394.24%",
+                    "336.44%/420.23%",
+                    "357.25%/446.23%",
+                    "378.06%/472.22%",
+                    "398.87%/498.21%"
+                ],
+                "Dano do 1° Golpe": [
+                    "93.52%",
+                    "101.13%",
+                    "108.74%",
+                    "119.62%",
+                    "127.23%",
+                    "135.93%",
+                    "147.89%",
+                    "159.85%",
+                    "171.81%",
+                    "184.86%",
+                    "197.91%",
+                    "210.96%",
+                    "224.01%",
+                    "237.06%",
+                    "250.11%"
+                ],
+                "Dano do 2° Golpe": [
+                    "86.51%",
+                    "93.55%",
+                    "100.59%",
+                    "110.65%",
+                    "117.69%",
+                    "125.74%",
+                    "136.8%",
+                    "147.87%",
+                    "158.93%",
+                    "171%",
+                    "183.07%",
+                    "195.14%",
+                    "207.21%",
+                    "219.28%",
+                    "231.35%"
+                ],
+                "Dano do 3° Golpe": [
+                    "34.89%×3",
+                    "37.73%×3",
+                    "40.56%×3",
+                    "44.62%×3",
+                    "47.46%×3",
+                    "50.71%×3",
+                    "55.17%×3",
+                    "59.63%×3",
+                    "64.09%×3",
+                    "68.96%×3",
+                    "73.83%×3",
+                    "78.7%×3",
+                    "83.56%×3",
+                    "88.43%×3",
+                    "93.3%×3"
+                ],
+                "Dano do 4° Golpe": [
+                    "133.43%",
+                    "144.29%",
+                    "155.15%",
+                    "170.67%",
+                    "181.53%",
+                    "193.94%",
+                    "211.01%",
+                    "228.07%",
+                    "245.14%",
+                    "263.76%",
+                    "282.38%",
+                    "301%",
+                    "319.62%",
+                    "338.23%",
+                    "356.85%"
+                ],
+                "Duração Máxima": [
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s"
+                ]
+            },
+            "name": "Desistência Franca"
+        }
+    }
+}

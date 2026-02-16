@@ -1,0 +1,1339 @@
+{
+    "info": {
+        "name": "Nilou",
+        "description": "The star of the Zubayr Theater. She is full of warmth and innocence, and her dances are lively and elegant.",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_SWORD_ONE_HAND",
+        "birthday": "December 3rd",
+        "element": "Hydro",
+        "constellation": "Lotos Somno",
+        "attributes": [
+            {
+                "level": 1,
+                "ascension": 0,
+                "hp": 1182,
+                "atk": 18,
+                "def": 57,
+                "HP%": "0"
+            },
+            {
+                "level": 2,
+                "ascension": 0,
+                "hp": 1280,
+                "atk": 19,
+                "def": 61,
+                "HP%": "0"
+            },
+            {
+                "level": 3,
+                "ascension": 0,
+                "hp": 1378,
+                "atk": 21,
+                "def": 66,
+                "HP%": "0"
+            },
+            {
+                "level": 4,
+                "ascension": 0,
+                "hp": 1478,
+                "atk": 22,
+                "def": 71,
+                "HP%": "0"
+            },
+            {
+                "level": 5,
+                "ascension": 0,
+                "hp": 1576,
+                "atk": 24,
+                "def": 76,
+                "HP%": "0"
+            },
+            {
+                "level": 6,
+                "ascension": 0,
+                "hp": 1675,
+                "atk": 25,
+                "def": 80,
+                "HP%": "0"
+            },
+            {
+                "level": 7,
+                "ascension": 0,
+                "hp": 1773,
+                "atk": 27,
+                "def": 85,
+                "HP%": "0"
+            },
+            {
+                "level": 8,
+                "ascension": 0,
+                "hp": 1872,
+                "atk": 28,
+                "def": 90,
+                "HP%": "0"
+            },
+            {
+                "level": 9,
+                "ascension": 0,
+                "hp": 1972,
+                "atk": 30,
+                "def": 95,
+                "HP%": "0"
+            },
+            {
+                "level": 10,
+                "ascension": 0,
+                "hp": 2070,
+                "atk": 31,
+                "def": 99,
+                "HP%": "0"
+            },
+            {
+                "level": 11,
+                "ascension": 0,
+                "hp": 2169,
+                "atk": 33,
+                "def": 104,
+                "HP%": "0"
+            },
+            {
+                "level": 12,
+                "ascension": 0,
+                "hp": 2268,
+                "atk": 34,
+                "def": 109,
+                "HP%": "0"
+            },
+            {
+                "level": 13,
+                "ascension": 0,
+                "hp": 2368,
+                "atk": 36,
+                "def": 114,
+                "HP%": "0"
+            },
+            {
+                "level": 14,
+                "ascension": 0,
+                "hp": 2468,
+                "atk": 37,
+                "def": 118,
+                "HP%": "0"
+            },
+            {
+                "level": 15,
+                "ascension": 0,
+                "hp": 2568,
+                "atk": 39,
+                "def": 123,
+                "HP%": "0"
+            },
+            {
+                "level": 16,
+                "ascension": 0,
+                "hp": 2667,
+                "atk": 40,
+                "def": 128,
+                "HP%": "0"
+            },
+            {
+                "level": 17,
+                "ascension": 0,
+                "hp": 2767,
+                "atk": 42,
+                "def": 133,
+                "HP%": "0"
+            },
+            {
+                "level": 18,
+                "ascension": 0,
+                "hp": 2867,
+                "atk": 43,
+                "def": 138,
+                "HP%": "0"
+            },
+            {
+                "level": 19,
+                "ascension": 0,
+                "hp": 2967,
+                "atk": 45,
+                "def": 142,
+                "HP%": "0"
+            },
+            {
+                "level": 20,
+                "ascension": 0,
+                "hp": 3066,
+                "atk": 46,
+                "def": 147,
+                "HP%": "0"
+            },
+            {
+                "level": 21,
+                "ascension": 1,
+                "hp": 4180,
+                "atk": 63,
+                "def": 201,
+                "HP%": "0"
+            },
+            {
+                "level": 22,
+                "ascension": 1,
+                "hp": 4281,
+                "atk": 65,
+                "def": 205,
+                "HP%": "0"
+            },
+            {
+                "level": 23,
+                "ascension": 1,
+                "hp": 4381,
+                "atk": 66,
+                "def": 210,
+                "HP%": "0"
+            },
+            {
+                "level": 24,
+                "ascension": 1,
+                "hp": 4482,
+                "atk": 68,
+                "def": 215,
+                "HP%": "0"
+            },
+            {
+                "level": 25,
+                "ascension": 1,
+                "hp": 4582,
+                "atk": 69,
+                "def": 220,
+                "HP%": "0"
+            },
+            {
+                "level": 26,
+                "ascension": 1,
+                "hp": 4684,
+                "atk": 71,
+                "def": 225,
+                "HP%": "0"
+            },
+            {
+                "level": 27,
+                "ascension": 1,
+                "hp": 4785,
+                "atk": 72,
+                "def": 230,
+                "HP%": "0"
+            },
+            {
+                "level": 28,
+                "ascension": 1,
+                "hp": 4885,
+                "atk": 74,
+                "def": 234,
+                "HP%": "0"
+            },
+            {
+                "level": 29,
+                "ascension": 1,
+                "hp": 4987,
+                "atk": 75,
+                "def": 239,
+                "HP%": "0"
+            },
+            {
+                "level": 30,
+                "ascension": 1,
+                "hp": 5087,
+                "atk": 77,
+                "def": 244,
+                "HP%": "0"
+            },
+            {
+                "level": 31,
+                "ascension": 1,
+                "hp": 5189,
+                "atk": 78,
+                "def": 249,
+                "HP%": "0"
+            },
+            {
+                "level": 32,
+                "ascension": 1,
+                "hp": 5290,
+                "atk": 80,
+                "def": 254,
+                "HP%": "0"
+            },
+            {
+                "level": 33,
+                "ascension": 1,
+                "hp": 5392,
+                "atk": 82,
+                "def": 259,
+                "HP%": "0"
+            },
+            {
+                "level": 34,
+                "ascension": 1,
+                "hp": 5493,
+                "atk": 83,
+                "def": 264,
+                "HP%": "0"
+            },
+            {
+                "level": 35,
+                "ascension": 1,
+                "hp": 5594,
+                "atk": 85,
+                "def": 268,
+                "HP%": "0"
+            },
+            {
+                "level": 36,
+                "ascension": 1,
+                "hp": 5697,
+                "atk": 86,
+                "def": 273,
+                "HP%": "0"
+            },
+            {
+                "level": 37,
+                "ascension": 1,
+                "hp": 5799,
+                "atk": 88,
+                "def": 278,
+                "HP%": "0"
+            },
+            {
+                "level": 38,
+                "ascension": 1,
+                "hp": 5900,
+                "atk": 89,
+                "def": 283,
+                "HP%": "0"
+            },
+            {
+                "level": 39,
+                "ascension": 1,
+                "hp": 6002,
+                "atk": 91,
+                "def": 288,
+                "HP%": "0"
+            },
+            {
+                "level": 40,
+                "ascension": 1,
+                "hp": 6105,
+                "atk": 92,
+                "def": 293,
+                "HP%": "0"
+            },
+            {
+                "level": 41,
+                "ascension": 2,
+                "hp": 6927,
+                "atk": 105,
+                "def": 332,
+                "HP%": "7.2"
+            },
+            {
+                "level": 42,
+                "ascension": 2,
+                "hp": 7030,
+                "atk": 106,
+                "def": 337,
+                "HP%": "7.2"
+            },
+            {
+                "level": 43,
+                "ascension": 2,
+                "hp": 7132,
+                "atk": 108,
+                "def": 342,
+                "HP%": "7.2"
+            },
+            {
+                "level": 44,
+                "ascension": 2,
+                "hp": 7234,
+                "atk": 109,
+                "def": 347,
+                "HP%": "7.2"
+            },
+            {
+                "level": 45,
+                "ascension": 2,
+                "hp": 7337,
+                "atk": 111,
+                "def": 352,
+                "HP%": "7.2"
+            },
+            {
+                "level": 46,
+                "ascension": 2,
+                "hp": 7440,
+                "atk": 112,
+                "def": 357,
+                "HP%": "7.2"
+            },
+            {
+                "level": 47,
+                "ascension": 2,
+                "hp": 7543,
+                "atk": 114,
+                "def": 362,
+                "HP%": "7.2"
+            },
+            {
+                "level": 48,
+                "ascension": 2,
+                "hp": 7645,
+                "atk": 116,
+                "def": 367,
+                "HP%": "7.2"
+            },
+            {
+                "level": 49,
+                "ascension": 2,
+                "hp": 7750,
+                "atk": 117,
+                "def": 372,
+                "HP%": "7.2"
+            },
+            {
+                "level": 50,
+                "ascension": 2,
+                "hp": 7852,
+                "atk": 119,
+                "def": 377,
+                "HP%": "7.2"
+            },
+            {
+                "level": 51,
+                "ascension": 3,
+                "hp": 8915,
+                "atk": 135,
+                "def": 428,
+                "HP%": "14.4"
+            },
+            {
+                "level": 52,
+                "ascension": 3,
+                "hp": 9019,
+                "atk": 136,
+                "def": 433,
+                "HP%": "14.4"
+            },
+            {
+                "level": 53,
+                "ascension": 3,
+                "hp": 9122,
+                "atk": 138,
+                "def": 438,
+                "HP%": "14.4"
+            },
+            {
+                "level": 54,
+                "ascension": 3,
+                "hp": 9226,
+                "atk": 140,
+                "def": 443,
+                "HP%": "14.4"
+            },
+            {
+                "level": 55,
+                "ascension": 3,
+                "hp": 9330,
+                "atk": 141,
+                "def": 448,
+                "HP%": "14.4"
+            },
+            {
+                "level": 56,
+                "ascension": 3,
+                "hp": 9434,
+                "atk": 143,
+                "def": 453,
+                "HP%": "14.4"
+            },
+            {
+                "level": 57,
+                "ascension": 3,
+                "hp": 9538,
+                "atk": 144,
+                "def": 458,
+                "HP%": "14.4"
+            },
+            {
+                "level": 58,
+                "ascension": 3,
+                "hp": 9642,
+                "atk": 146,
+                "def": 463,
+                "HP%": "14.4"
+            },
+            {
+                "level": 59,
+                "ascension": 3,
+                "hp": 9746,
+                "atk": 147,
+                "def": 468,
+                "HP%": "14.4"
+            },
+            {
+                "level": 60,
+                "ascension": 3,
+                "hp": 9850,
+                "atk": 149,
+                "def": 473,
+                "HP%": "14.4"
+            },
+            {
+                "level": 61,
+                "ascension": 4,
+                "hp": 10675,
+                "atk": 161,
+                "def": 512,
+                "HP%": "14.4"
+            },
+            {
+                "level": 62,
+                "ascension": 4,
+                "hp": 10779,
+                "atk": 163,
+                "def": 517,
+                "HP%": "14.4"
+            },
+            {
+                "level": 63,
+                "ascension": 4,
+                "hp": 10884,
+                "atk": 165,
+                "def": 522,
+                "HP%": "14.4"
+            },
+            {
+                "level": 64,
+                "ascension": 4,
+                "hp": 10988,
+                "atk": 166,
+                "def": 527,
+                "HP%": "14.4"
+            },
+            {
+                "level": 65,
+                "ascension": 4,
+                "hp": 11093,
+                "atk": 168,
+                "def": 532,
+                "HP%": "14.4"
+            },
+            {
+                "level": 66,
+                "ascension": 4,
+                "hp": 11198,
+                "atk": 169,
+                "def": 537,
+                "HP%": "14.4"
+            },
+            {
+                "level": 67,
+                "ascension": 4,
+                "hp": 11302,
+                "atk": 171,
+                "def": 542,
+                "HP%": "14.4"
+            },
+            {
+                "level": 68,
+                "ascension": 4,
+                "hp": 11408,
+                "atk": 172,
+                "def": 547,
+                "HP%": "14.4"
+            },
+            {
+                "level": 69,
+                "ascension": 4,
+                "hp": 11513,
+                "atk": 174,
+                "def": 552,
+                "HP%": "14.4"
+            },
+            {
+                "level": 70,
+                "ascension": 4,
+                "hp": 11618,
+                "atk": 176,
+                "def": 557,
+                "HP%": "14.4"
+            },
+            {
+                "level": 71,
+                "ascension": 5,
+                "hp": 12443,
+                "atk": 188,
+                "def": 597,
+                "HP%": "21.6"
+            },
+            {
+                "level": 72,
+                "ascension": 5,
+                "hp": 12550,
+                "atk": 190,
+                "def": 602,
+                "HP%": "21.6"
+            },
+            {
+                "level": 73,
+                "ascension": 5,
+                "hp": 12655,
+                "atk": 191,
+                "def": 607,
+                "HP%": "21.6"
+            },
+            {
+                "level": 74,
+                "ascension": 5,
+                "hp": 12760,
+                "atk": 193,
+                "def": 612,
+                "HP%": "21.6"
+            },
+            {
+                "level": 75,
+                "ascension": 5,
+                "hp": 12867,
+                "atk": 195,
+                "def": 617,
+                "HP%": "21.6"
+            },
+            {
+                "level": 76,
+                "ascension": 5,
+                "hp": 12972,
+                "atk": 196,
+                "def": 622,
+                "HP%": "21.6"
+            },
+            {
+                "level": 77,
+                "ascension": 5,
+                "hp": 13078,
+                "atk": 198,
+                "def": 628,
+                "HP%": "21.6"
+            },
+            {
+                "level": 78,
+                "ascension": 5,
+                "hp": 13185,
+                "atk": 199,
+                "def": 633,
+                "HP%": "21.6"
+            },
+            {
+                "level": 79,
+                "ascension": 5,
+                "hp": 13291,
+                "atk": 201,
+                "def": 638,
+                "HP%": "21.6"
+            },
+            {
+                "level": 80,
+                "ascension": 5,
+                "hp": 13397,
+                "atk": 203,
+                "def": 643,
+                "HP%": "21.6"
+            },
+            {
+                "level": 81,
+                "ascension": 6,
+                "hp": 14224,
+                "atk": 215,
+                "def": 682,
+                "HP%": "28.8"
+            },
+            {
+                "level": 82,
+                "ascension": 6,
+                "hp": 14330,
+                "atk": 217,
+                "def": 688,
+                "HP%": "28.8"
+            },
+            {
+                "level": 83,
+                "ascension": 6,
+                "hp": 14437,
+                "atk": 218,
+                "def": 693,
+                "HP%": "28.8"
+            },
+            {
+                "level": 84,
+                "ascension": 6,
+                "hp": 14543,
+                "atk": 220,
+                "def": 698,
+                "HP%": "28.8"
+            },
+            {
+                "level": 85,
+                "ascension": 6,
+                "hp": 14649,
+                "atk": 222,
+                "def": 703,
+                "HP%": "28.8"
+            },
+            {
+                "level": 86,
+                "ascension": 6,
+                "hp": 14757,
+                "atk": 223,
+                "def": 708,
+                "HP%": "28.8"
+            },
+            {
+                "level": 87,
+                "ascension": 6,
+                "hp": 14863,
+                "atk": 225,
+                "def": 713,
+                "HP%": "28.8"
+            },
+            {
+                "level": 88,
+                "ascension": 6,
+                "hp": 14971,
+                "atk": 226,
+                "def": 718,
+                "HP%": "28.8"
+            },
+            {
+                "level": 89,
+                "ascension": 6,
+                "hp": 15079,
+                "atk": 228,
+                "def": 723,
+                "HP%": "28.8"
+            },
+            {
+                "level": 90,
+                "ascension": 6,
+                "hp": 15185,
+                "atk": 230,
+                "def": 729,
+                "HP%": "28.8"
+            },
+            {
+                "level": 95,
+                "ascension": 6,
+                "hp": 15724,
+                "atk": 255,
+                "def": 754,
+                "HP%": "28.8"
+            },
+            {
+                "level": 100,
+                "ascension": 6,
+                "hp": 16264,
+                "atk": 281,
+                "def": 780,
+                "HP%": "28.8"
+            }
+        ]
+    },
+    "icons": {
+        "forward": "UI_AvatarIcon_Nilou",
+        "coop_img": "UI_CoopImg_Nilou"
+    },
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101214": 168
+        },
+        "elemental": {
+            "104121": 1,
+            "104122": 9,
+            "104123": 9,
+            "104124": 6
+        },
+        "worldmonster": {
+            "112059": 18,
+            "112060": 30,
+            "112061": 36
+        },
+        "elitemonster": {
+            "113038": 46
+        }
+    },
+    "skills": {
+        "normalattack": {
+            "name": "Dance of Samser",
+            "icon": "Skill_A_01",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "50.31%",
+                    "54.4%",
+                    "58.5%",
+                    "64.35%",
+                    "68.44%",
+                    "73.12%",
+                    "79.56%",
+                    "85.99%",
+                    "92.43%",
+                    "99.44%",
+                    "106.46%",
+                    "113.48%",
+                    "120.5%",
+                    "127.52%",
+                    "134.54%"
+                ],
+                "2-Hit DMG": [
+                    "45.44%",
+                    "49.14%",
+                    "52.84%",
+                    "58.12%",
+                    "61.82%",
+                    "66.04%",
+                    "71.86%",
+                    "77.67%",
+                    "83.48%",
+                    "89.82%",
+                    "96.16%",
+                    "102.5%",
+                    "108.84%",
+                    "115.18%",
+                    "121.52%"
+                ],
+                "3-Hit DMG": [
+                    "70.35%",
+                    "76.08%",
+                    "81.81%",
+                    "89.99%",
+                    "95.71%",
+                    "102.26%",
+                    "111.26%",
+                    "120.26%",
+                    "129.26%",
+                    "139.07%",
+                    "148.89%",
+                    "158.71%",
+                    "168.52%",
+                    "178.34%",
+                    "188.16%"
+                ],
+                "Charged Attack DMG": [
+                    "50.22%+54.44%",
+                    "54.31%+58.87%",
+                    "58.4%+63.3%",
+                    "64.24%+69.63%",
+                    "68.33%+74.06%",
+                    "73%+79.12%",
+                    "79.42%+86.09%",
+                    "85.85%+93.05%",
+                    "92.27%+100.01%",
+                    "99.28%+107.61%",
+                    "106.29%+115.21%",
+                    "113.3%+122.8%",
+                    "120.3%+130.4%",
+                    "127.31%+137.99%",
+                    "134.32%+145.59%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20"
+                ],
+                "Plunge DMG": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ],
+                "Low/High Plunge DMG": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ]
+            },
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 3 consecutive sword strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to perform a twirling slash.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
+        },
+        "elementalskill": {
+            "name": "Dance of Haftkarsvar",
+            "icon": "Skill_S_Nilou_01",
+            "multipliers": {
+                "Skill DMG": [
+                    "3.34% Max HP",
+                    "3.59% Max HP",
+                    "3.84% Max HP",
+                    "4.17% Max HP",
+                    "4.42% Max HP",
+                    "4.67% Max HP",
+                    "5.01% Max HP",
+                    "5.34% Max HP",
+                    "5.68% Max HP",
+                    "6.01% Max HP",
+                    "6.34% Max HP",
+                    "6.68% Max HP",
+                    "7.1% Max HP",
+                    "7.51% Max HP",
+                    "7.93% Max HP"
+                ],
+                "Sword Dance/Whirling Steps 1-Hit DMG": [
+                    "4.55%/3.26% Max HP",
+                    "4.89%/3.51% Max HP",
+                    "5.24%/3.75% Max HP",
+                    "5.69%/4.08% Max HP",
+                    "6.03%/4.32% Max HP",
+                    "6.37%/4.57% Max HP",
+                    "6.83%/4.89% Max HP",
+                    "7.28%/5.22% Max HP",
+                    "7.74%/5.55% Max HP",
+                    "8.19%/5.87% Max HP",
+                    "8.65%/6.2% Max HP",
+                    "9.1%/6.52% Max HP",
+                    "9.67%/6.93% Max HP",
+                    "10.24%/7.34% Max HP",
+                    "10.81%/7.75% Max HP"
+                ],
+                "Sword Dance/Whirling Steps 2-Hit DMG": [
+                    "5.14%/3.96% Max HP",
+                    "5.53%/4.26% Max HP",
+                    "5.92%/4.55% Max HP",
+                    "6.43%/4.95% Max HP",
+                    "6.82%/5.25% Max HP",
+                    "7.2%/5.54% Max HP",
+                    "7.72%/5.94% Max HP",
+                    "8.23%/6.34% Max HP",
+                    "8.75%/6.73% Max HP",
+                    "9.26%/7.13% Max HP",
+                    "9.77%/7.52% Max HP",
+                    "10.29%/7.92% Max HP",
+                    "10.93%/8.42% Max HP",
+                    "11.58%/8.91% Max HP",
+                    "12.22%/9.41% Max HP"
+                ],
+                "Luminous Illusion/Water Wheel DMG": [
+                    "7.17%/5.06% Max HP",
+                    "7.71%/5.44% Max HP",
+                    "8.24%/5.82% Max HP",
+                    "8.96%/6.33% Max HP",
+                    "9.5%/6.71% Max HP",
+                    "10.04%/7.09% Max HP",
+                    "10.75%/7.59% Max HP",
+                    "11.47%/8.1% Max HP",
+                    "12.19%/8.6% Max HP",
+                    "12.9%/9.11% Max HP",
+                    "13.62%/9.62% Max HP",
+                    "14.34%/10.12% Max HP",
+                    "15.23%/10.76% Max HP",
+                    "16.13%/11.39% Max HP",
+                    "17.03%/12.02% Max HP"
+                ],
+                "Pirouette Duration": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ],
+                "Lunar Prayer Duration": [
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s"
+                ],
+                "Tranquility Aura Duration": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "CD": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ]
+            },
+            "description": "Enters the Pirouette state, dealing <color=#80C0FFFF>Hydro DMG</color> to nearby opponents based on Nilou's Max HP.\\nWhile she is in the Pirouette state, Nilou's Normal Attacks and Elemental Skill will cause her to enter the Sword Dance and Whirling Steps stances respectively, causing DMG she deals to be converted to <color=#80C0FFFF>Hydro DMG</color> that cannot be overridden and that is considered Elemental Skill DMG.\\n\\nIn these stances, Nilou's third dance step will end Pirouette, and has the following effects based on the type of said dance step:\\n·Sword Dance: unleashes a Luminous Illusion that deals <color=#80C0FFFF>Hydro DMG</color> to opponents it touches and grants Nilou the Lunar Prayer effect. This effect converts Nilou's Normal Attacks into Sword Dance techniques, and her final hit will unleash a Luminous Illusion.\\n·Whirling Steps: Nilou unleashes a Whirling Water Wheel that deals <color=#80C0FFFF>AoE Hydro DMG</color> and creates a Tranquility Aura that follows your active character around and applies <color=#80C0FFFF>Wet</color> to opponents within its AoE.\\n\\nNilou is unable to perform Charged Attacks when under the effect of Pirouette or Lunar Prayer. These effects will be removed once she leaves the field.\\n\\n<i>\"Daintily her toes touch the water's face, and the light that ripples forth equals even the seven heavens.\"</i>"
+        },
+        "elementalburst": {
+            "name": "Dance of Abzendegi: Distant Dreams, Listening Spring",
+            "icon": "Skill_E_Nilou_01",
+            "multipliers": {
+                "Skill DMG": [
+                    "18.43% Max HP",
+                    "19.81% Max HP",
+                    "21.2% Max HP",
+                    "23.04% Max HP",
+                    "24.42% Max HP",
+                    "25.8% Max HP",
+                    "27.65% Max HP",
+                    "29.49% Max HP",
+                    "31.33% Max HP",
+                    "33.18% Max HP",
+                    "35.02% Max HP",
+                    "36.86% Max HP",
+                    "39.17% Max HP",
+                    "41.47% Max HP",
+                    "43.78% Max HP"
+                ],
+                "Lingering Aeon DMG": [
+                    "22.53% Max HP",
+                    "24.22% Max HP",
+                    "25.91% Max HP",
+                    "28.16% Max HP",
+                    "29.85% Max HP",
+                    "31.54% Max HP",
+                    "33.79% Max HP",
+                    "36.04% Max HP",
+                    "38.3% Max HP",
+                    "40.55% Max HP",
+                    "42.8% Max HP",
+                    "45.06% Max HP",
+                    "47.87% Max HP",
+                    "50.69% Max HP",
+                    "53.5% Max HP"
+                ],
+                "CD": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ],
+                "Energy Cost": [
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70"
+                ]
+            },
+            "description": "Begins the dance of faraway dreams and springs that hear, causing a Lotus of Distant Waters to bloom, dealing <color=#80C0FFFF>AoE Hydro DMG</color> based on Nilou's Max HP and applying the Lingering Aeon effect to all opponents hit.\\nAfter an interval, opponents affected by Lingering Aeon will take <color=#80C0FFFF>Hydro DMG</color>.\\n\\n<i>\"We have never witnessed that distant dream, but this dance can bring it to life.\"</i>"
+        },
+        "leveling": {
+            "crown": {
+                "104319": 3
+            },
+            "books": {
+                "104335": 9,
+                "104336": 63,
+                "104337": 114
+            },
+            "worldmonster": {
+                "112059": 18,
+                "112060": 66,
+                "112061": 93
+            },
+            "weekly": {
+                "113033": 18
+            }
+        }
+    },
+    "passives": {
+        "p1": {
+            "name": "Court of Dancing Petals",
+            "description": "When all characters in the party are all <color=#99FF88FF>Dendro</color> or <color=#80C0FFFF>Hydro</color>, and there are at least one Dendro character and one Hydro character:\\nThe completion of the third dance step of Nilou's <color=#FFD780FF>Dance of Haftkarsvar</color> will grant all nearby characters the Golden Chalice's Bounty for 30s.\\nCharacters under the effect of Golden Chalice's Bounty will increase the Elemental Mastery of all nearby characters by 100 for 10s whenever they are hit by <color=#99FF88FF>Dendro attacks</color>. Also, triggering the Bloom or Lunar-Bloom reaction will create Bountiful Cores instead of Dendro Cores.\\nSuch Cores will burst very quickly after being created, and they have larger AoEs.\\nBountiful Cores cannot trigger Hyperbloom or Burgeon, and they share an upper numerical limit with Dendro Cores. Bountiful Core DMG is considered DMG dealt by Dendro Cores produced by Bloom.\\nShould the party not meet the conditions for this Ascension Talent, any existing Golden Chalice's Bounty effects will be canceled.",
+            "icon": "UI_Talent_S_Nilou_05"
+        },
+        "p2": {
+            "name": "Dreamy Dance of Aeons",
+            "description": "Every 1,000 points of Nilou's Max HP above 30,000 will cause the DMG dealt by Bountiful Cores created by characters affected by Golden Chalice's Bounty to increase by 9%.\\nThe maximum increase in Bountiful Core DMG that can be achieved this way is 400%.",
+            "icon": "UI_Talent_S_Nilou_06"
+        },
+        "p3": {
+            "name": "White Jade Lotus",
+            "description": "When Perfect Cooking is achieved on Food with Adventure-related effects, there is a 12% chance to obtain double the product.",
+            "icon": "UI_Talent_S_Yunjin_07"
+        },
+        "p4": ""
+    },
+    "constellations": {
+        "const1": {
+            "name": "Dance of the Waning Moon",
+            "description": "<color=#FFD780FF>Dance of Haftkarsvar</color> will be enhanced as follows:\\n·Luminous Illusion DMG is increased by 65%.\\n·The Tranquility Aura's duration is extended by 6s.",
+            "icon": "UI_Talent_S_Nilou_01"
+        },
+        "const2": {
+            "name": "The Starry Skies Their Flowers Rain",
+            "description": "After characters affected by the Golden Chalice's Bounty deal <color=#80C0FFFF>Hydro DMG</color> to an opponent, that opponent's <color=#80C0FFFF>Hydro RES</color> will be decreased by 35% for 10s. After dealing Bloom or Lunar-Bloom DMG to opponents, their <color=#99FF88FF>Dendro RES</color> will be decreased by 35% for 10s.\\nYou must first unlock the Ascension Talent \"Court of Dancing Petals.\"",
+            "icon": "UI_Talent_S_Nilou_02"
+        },
+        "const3": {
+            "name": "Beguiling Shadowstep",
+            "description": "Increases the Level of <color=#FFD780FF>Dance of Abzendegi: Distant Dreams, Listening Spring</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Nilou_01"
+        },
+        "const4": {
+            "name": "Fricative Pulse",
+            "description": "After the third dance step of <color=#FFD780FF>Dance of Haftkarsvar</color>'s Pirouette hits opponents, Nilou will gain 15 Elemental Energy, and DMG from her <color=#FFD780FF>Dance of Abzendegi: Distant Dreams, Listening Spring</color> will be increased by 50% for 8s.",
+            "icon": "UI_Talent_S_Nilou_03"
+        },
+        "const5": {
+            "name": "Twirling Light",
+            "description": "Increases the Level of <color=#FFD780FF>Dance of Haftkarsvar</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Nilou_02"
+        },
+        "const6": {
+            "name": "Frostbreaker's Melody",
+            "description": "For every 1,000 points of Max HP, Nilou's CRIT Rate and CRIT DMG will increase by 0.6% and 1.2% respectively.\\nThe maximum increase in CRIT Rate and CRIT DMG via this method is 30% and 60% respectively.",
+            "icon": "UI_Talent_S_Nilou_04"
+        }
+    },
+    "energy": [
+        {
+            "source": "Water_ElemBall_1",
+            "particles": "1",
+            "chance": "100%",
+            "cd": "0.1s"
+        },
+        {
+            "source": "Water_ElemBall_1",
+            "particles": "1",
+            "chance": "50%",
+            "cd": "0.1s"
+        },
+        {
+            "source": "Water_ElemBall_2",
+            "particles": "1",
+            "chance": "100%",
+            "cd": "0.1s"
+        },
+        {
+            "source": "Bullet_Water_ElemBall",
+            "particles": "1",
+            "chance": "100%",
+            "cd": "Instant"
+        }
+    ],
+    "attacks": [
+        {
+            "name": "Attack_01_Spec",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/52",
+            "element": "Water"
+        },
+        {
+            "name": "Attack_02_Spec",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/47",
+            "element": "Water"
+        },
+        {
+            "name": "ElementalDance",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/55",
+            "element": "Water"
+        },
+        {
+            "name": "ElementalDanceFake",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/55",
+            "element": "Water"
+        },
+        {
+            "name": "Spec_E_2",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/54",
+            "element": "Water"
+        },
+        {
+            "name": "Spec_E_3",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/66",
+            "element": "Water"
+        },
+        {
+            "name": "Spec_EArt_Over",
+            "icd_source": "Tag: Nilou_Sustained_Water",
+            "icd_rule": "4 hits / 1.9s",
+            "gauge": "1U",
+            "poise": "LV0/0",
+            "element": "Water"
+        },
+        {
+            "name": "Spec_EArt_Over",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/85",
+            "element": "Water"
+        },
+        {
+            "name": "Water_Bubble_Bullet",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/90",
+            "element": "Water"
+        },
+        {
+            "name": "ElementalBurst_Camera",
+            "icd_source": "Grp: default",
+            "icd_rule": "Standard (3h/2.5s)",
+            "gauge": "4U",
+            "poise": "-/400",
+            "element": "-"
+        },
+        {
+            "name": "Burst_Attacker",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/100",
+            "element": "Water"
+        },
+        {
+            "name": "Burst_Attacker",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/150",
+            "element": "Water"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/25",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/100",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/150",
+            "element": "-"
+        }
+    ]
+}

@@ -1,0 +1,1259 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104161": 1,
+            "104162": 9,
+            "104163": 9,
+            "104164": 6
+        },
+        "elitemonster": {
+            "113010": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100034": 168
+        },
+        "worldmonster": {
+            "112008": 18,
+            "112009": 30,
+            "112010": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Bullet",
+            "poise": "LV3/40"
+        },
+        {
+            "element": "Ice",
+            "gauge": "0U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Grp: default",
+            "name": "ElementalBurst_ApplyModifier",
+            "poise": "LV3/0"
+        },
+        {
+            "element": "Ice",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_TriggerAttack",
+            "poise": "LV4/200"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "When the Herald of Frost hits an opponent marked by a Fortune-Preserving Talisman, Qiqi regenerates 2 Energy.",
+            "icon": "UI_Talent_S_Qiqi_01",
+            "name": "Ascetics of Frost"
+        },
+        "const2": {
+            "description": "Qiqi's Normal and Charged Attack DMG against opponents affected by <color=#99FFFFFF>Cryo</color> is increased by 15%.",
+            "icon": "UI_Talent_S_Qiqi_02",
+            "name": "Frozen to the Bone"
+        },
+        "const3": {
+            "description": "Increases the Level of <color=#FFD780FF>Adeptus Art: Preserver of Fortune</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Qiqi_01",
+            "name": "Ascendant Praise"
+        },
+        "const4": {
+            "description": "Targets marked by the Fortune-Preserving Talisman have their ATK decreased by 20%.",
+            "icon": "UI_Talent_S_Qiqi_03",
+            "name": "Divine Suppression"
+        },
+        "const5": {
+            "description": "Increases the Level of <color=#FFD780FF>Adeptus Art: Herald of Frost</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Qiqi_02",
+            "name": "Crimson Lotus Bloom"
+        },
+        "const6": {
+            "description": "Using <color=#FFD780FF>Adeptus Art: Preserver of Fortune</color> revives all fallen party members nearby and regenerates 50% of their HP.\\nThis effect can only occur once every 15 mins.",
+            "icon": "UI_Talent_S_Qiqi_04",
+            "name": "Rite of Resurrection"
+        }
+    },
+    "energy": [],
+    "icons": {
+        "coop_img": "UI_CoopImg_Qiqi",
+        "forward": "UI_AvatarIcon_Qiqi"
+    },
+    "info": {
+        "attributes": [
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 72,
+                "hp": 963,
+                "level": 1
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 78,
+                "hp": 1043,
+                "level": 2
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 84,
+                "hp": 1123,
+                "level": 3
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 90,
+                "hp": 1204,
+                "level": 4
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 96,
+                "hp": 1283,
+                "level": 5
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 102,
+                "hp": 1364,
+                "level": 6
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 108,
+                "hp": 1444,
+                "level": 7
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 114,
+                "hp": 1525,
+                "level": 8
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 120,
+                "hp": 1606,
+                "level": 9
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 126,
+                "hp": 1686,
+                "level": 10
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 132,
+                "hp": 1767,
+                "level": 11
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 43,
+                "def": 138,
+                "hp": 1848,
+                "level": 12
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 45,
+                "def": 144,
+                "hp": 1929,
+                "level": 13
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 47,
+                "def": 150,
+                "hp": 2010,
+                "level": 14
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 49,
+                "def": 156,
+                "hp": 2091,
+                "level": 15
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 50,
+                "def": 162,
+                "hp": 2172,
+                "level": 16
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 52,
+                "def": 168,
+                "hp": 2254,
+                "level": 17
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 54,
+                "def": 174,
+                "hp": 2335,
+                "level": 18
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 56,
+                "def": 180,
+                "hp": 2417,
+                "level": 19
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 58,
+                "def": 186,
+                "hp": 2498,
+                "level": 20
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 79,
+                "def": 254,
+                "hp": 3405,
+                "level": 21
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 81,
+                "def": 260,
+                "hp": 3487,
+                "level": 22
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 83,
+                "def": 266,
+                "hp": 3569,
+                "level": 23
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 85,
+                "def": 272,
+                "hp": 3651,
+                "level": 24
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 87,
+                "def": 278,
+                "hp": 3732,
+                "level": 25
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 89,
+                "def": 284,
+                "hp": 3815,
+                "level": 26
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 90,
+                "def": 291,
+                "hp": 3897,
+                "level": 27
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 92,
+                "def": 297,
+                "hp": 3979,
+                "level": 28
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 94,
+                "def": 303,
+                "hp": 4062,
+                "level": 29
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 96,
+                "def": 309,
+                "hp": 4144,
+                "level": 30
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 98,
+                "def": 315,
+                "hp": 4226,
+                "level": 31
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 100,
+                "def": 321,
+                "hp": 4309,
+                "level": 32
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 102,
+                "def": 327,
+                "hp": 4392,
+                "level": 33
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 104,
+                "def": 334,
+                "hp": 4474,
+                "level": 34
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 106,
+                "def": 340,
+                "hp": 4557,
+                "level": 35
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 108,
+                "def": 346,
+                "hp": 4640,
+                "level": 36
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 110,
+                "def": 352,
+                "hp": 4723,
+                "level": 37
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 112,
+                "def": 358,
+                "hp": 4806,
+                "level": 38
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 113,
+                "def": 365,
+                "hp": 4889,
+                "level": 39
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 115,
+                "def": 371,
+                "hp": 4973,
+                "level": 40
+            },
+            {
+                "Healing%": "5.5",
+                "ascension": 2,
+                "atk": 131,
+                "def": 421,
+                "hp": 5642,
+                "level": 41
+            },
+            {
+                "Healing%": "5.5",
+                "ascension": 2,
+                "atk": 133,
+                "def": 427,
+                "hp": 5726,
+                "level": 42
+            },
+            {
+                "Healing%": "5.5",
+                "ascension": 2,
+                "atk": 135,
+                "def": 433,
+                "hp": 5809,
+                "level": 43
+            },
+            {
+                "Healing%": "5.5",
+                "ascension": 2,
+                "atk": 137,
+                "def": 439,
+                "hp": 5892,
+                "level": 44
+            },
+            {
+                "Healing%": "5.5",
+                "ascension": 2,
+                "atk": 139,
+                "def": 446,
+                "hp": 5976,
+                "level": 45
+            },
+            {
+                "Healing%": "5.5",
+                "ascension": 2,
+                "atk": 141,
+                "def": 452,
+                "hp": 6060,
+                "level": 46
+            },
+            {
+                "Healing%": "5.5",
+                "ascension": 2,
+                "atk": 143,
+                "def": 458,
+                "hp": 6144,
+                "level": 47
+            },
+            {
+                "Healing%": "5.5",
+                "ascension": 2,
+                "atk": 145,
+                "def": 464,
+                "hp": 6227,
+                "level": 48
+            },
+            {
+                "Healing%": "5.5",
+                "ascension": 2,
+                "atk": 146,
+                "def": 471,
+                "hp": 6312,
+                "level": 49
+            },
+            {
+                "Healing%": "5.5",
+                "ascension": 2,
+                "atk": 148,
+                "def": 477,
+                "hp": 6396,
+                "level": 50
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 3,
+                "atk": 169,
+                "def": 541,
+                "hp": 7262,
+                "level": 51
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 3,
+                "atk": 170,
+                "def": 548,
+                "hp": 7346,
+                "level": 52
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 3,
+                "atk": 172,
+                "def": 554,
+                "hp": 7430,
+                "level": 53
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 3,
+                "atk": 174,
+                "def": 560,
+                "hp": 7515,
+                "level": 54
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 3,
+                "atk": 176,
+                "def": 567,
+                "hp": 7600,
+                "level": 55
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 3,
+                "atk": 178,
+                "def": 573,
+                "hp": 7684,
+                "level": 56
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 3,
+                "atk": 180,
+                "def": 579,
+                "hp": 7769,
+                "level": 57
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 3,
+                "atk": 182,
+                "def": 586,
+                "hp": 7854,
+                "level": 58
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 3,
+                "atk": 184,
+                "def": 592,
+                "hp": 7939,
+                "level": 59
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 3,
+                "atk": 186,
+                "def": 598,
+                "hp": 8023,
+                "level": 60
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 4,
+                "atk": 202,
+                "def": 648,
+                "hp": 8695,
+                "level": 61
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 4,
+                "atk": 204,
+                "def": 655,
+                "hp": 8779,
+                "level": 62
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 4,
+                "atk": 206,
+                "def": 661,
+                "hp": 8865,
+                "level": 63
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 4,
+                "atk": 208,
+                "def": 667,
+                "hp": 8950,
+                "level": 64
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 4,
+                "atk": 210,
+                "def": 674,
+                "hp": 9036,
+                "level": 65
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 4,
+                "atk": 212,
+                "def": 680,
+                "hp": 9121,
+                "level": 66
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 4,
+                "atk": 214,
+                "def": 686,
+                "hp": 9206,
+                "level": 67
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 4,
+                "atk": 216,
+                "def": 693,
+                "hp": 9292,
+                "level": 68
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 4,
+                "atk": 218,
+                "def": 699,
+                "hp": 9377,
+                "level": 69
+            },
+            {
+                "Healing%": "11.1",
+                "ascension": 4,
+                "atk": 220,
+                "def": 706,
+                "hp": 9463,
+                "level": 70
+            },
+            {
+                "Healing%": "16.6",
+                "ascension": 5,
+                "atk": 235,
+                "def": 756,
+                "hp": 10135,
+                "level": 71
+            },
+            {
+                "Healing%": "16.6",
+                "ascension": 5,
+                "atk": 237,
+                "def": 762,
+                "hp": 10222,
+                "level": 72
+            },
+            {
+                "Healing%": "16.6",
+                "ascension": 5,
+                "atk": 239,
+                "def": 769,
+                "hp": 10308,
+                "level": 73
+            },
+            {
+                "Healing%": "16.6",
+                "ascension": 5,
+                "atk": 241,
+                "def": 775,
+                "hp": 10393,
+                "level": 74
+            },
+            {
+                "Healing%": "16.6",
+                "ascension": 5,
+                "atk": 243,
+                "def": 781,
+                "hp": 10480,
+                "level": 75
+            },
+            {
+                "Healing%": "16.6",
+                "ascension": 5,
+                "atk": 245,
+                "def": 788,
+                "hp": 10566,
+                "level": 76
+            },
+            {
+                "Healing%": "16.6",
+                "ascension": 5,
+                "atk": 247,
+                "def": 794,
+                "hp": 10652,
+                "level": 77
+            },
+            {
+                "Healing%": "16.6",
+                "ascension": 5,
+                "atk": 249,
+                "def": 801,
+                "hp": 10739,
+                "level": 78
+            },
+            {
+                "Healing%": "16.6",
+                "ascension": 5,
+                "atk": 251,
+                "def": 807,
+                "hp": 10826,
+                "level": 79
+            },
+            {
+                "Healing%": "16.6",
+                "ascension": 5,
+                "atk": 253,
+                "def": 814,
+                "hp": 10912,
+                "level": 80
+            },
+            {
+                "Healing%": "22.1",
+                "ascension": 6,
+                "atk": 269,
+                "def": 864,
+                "hp": 11586,
+                "level": 81
+            },
+            {
+                "Healing%": "22.1",
+                "ascension": 6,
+                "atk": 271,
+                "def": 870,
+                "hp": 11672,
+                "level": 82
+            },
+            {
+                "Healing%": "22.1",
+                "ascension": 6,
+                "atk": 273,
+                "def": 877,
+                "hp": 11759,
+                "level": 83
+            },
+            {
+                "Healing%": "22.1",
+                "ascension": 6,
+                "atk": 275,
+                "def": 883,
+                "hp": 11846,
+                "level": 84
+            },
+            {
+                "Healing%": "22.1",
+                "ascension": 6,
+                "atk": 277,
+                "def": 890,
+                "hp": 11932,
+                "level": 85
+            },
+            {
+                "Healing%": "22.1",
+                "ascension": 6,
+                "atk": 279,
+                "def": 896,
+                "hp": 12020,
+                "level": 86
+            },
+            {
+                "Healing%": "22.1",
+                "ascension": 6,
+                "atk": 281,
+                "def": 903,
+                "hp": 12106,
+                "level": 87
+            },
+            {
+                "Healing%": "22.1",
+                "ascension": 6,
+                "atk": 283,
+                "def": 909,
+                "hp": 12194,
+                "level": 88
+            },
+            {
+                "Healing%": "22.1",
+                "ascension": 6,
+                "atk": 285,
+                "def": 916,
+                "hp": 12282,
+                "level": 89
+            },
+            {
+                "Healing%": "22.1",
+                "ascension": 6,
+                "atk": 287,
+                "def": 922,
+                "hp": 12368,
+                "level": 90
+            },
+            {
+                "Healing%": "22.1",
+                "ascension": 6,
+                "atk": 319,
+                "def": 955,
+                "hp": 12807,
+                "level": 95
+            },
+            {
+                "Healing%": "22.1",
+                "ascension": 6,
+                "atk": 352,
+                "def": 988,
+                "hp": 13247,
+                "level": 100
+            }
+        ],
+        "birthday": "March 3rd",
+        "constellation": "Pristina Nola",
+        "description": "An apprentice and herb gatherer at Bubu Pharmacy. An undead with a bone-white complexion, she seldom has much in the way of words or emotion.",
+        "element": "Cryo",
+        "name": "Qiqi",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_SWORD_ONE_HAND"
+    },
+    "passives": {
+        "p1": {
+            "description": "When a character under the effects of <color=#FFD780FF>Adeptus Art: Herald of Frost</color> triggers an Elemental Reaction, their Incoming Healing Bonus is increased by 20% for 8s.",
+            "icon": "UI_Talent_S_Qiqi_05",
+            "name": "Life-Prolonging Methods"
+        },
+        "p2": {
+            "description": "When Qiqi hits opponents with her Normal and Charged Attacks, she has a 50% chance to apply a Fortune-Preserving Talisman to them for 6s. This effect can only occur once every 30s.",
+            "icon": "UI_Talent_S_Qiqi_06",
+            "name": "A Glimpse Into Arcanum"
+        },
+        "p3": {
+            "description": "Displays the location of nearby <color=#FFD780FF>resources unique to Liyue</color> on the mini-map.",
+            "icon": "UI_Talent_Collect_Local_Liyue",
+            "name": "Former Life Memories"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Qiqi releases the adeptus power sealed within her body, marking nearby opponents with a Fortune-Preserving Talisman that deals <color=#99FFFFFF>Cryo DMG</color>.\\n\\n<color=#FFD780FF>Fortune-Preserving Talisman</color>\\nWhen opponents affected by this Talisman take DMG, the character that dealt this DMG regenerates HP.\\n\\n<i>\"I am the Fortune Preserver, the Maiden of Resurrection.\"</i>\\n<i>— Qiqi does not remember these words.</i>",
+            "icon": "Skill_E_Qiqi_01",
+            "multipliers": {
+                "CD": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ],
+                "Duration": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Energy Cost": [
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80"
+                ],
+                "Healing": [
+                    "90% ATK+577",
+                    "96.75% ATK+635",
+                    "103.5% ATK+698",
+                    "112.5% ATK+765",
+                    "119.25% ATK+837",
+                    "126% ATK+914",
+                    "135% ATK+996",
+                    "144% ATK+1083",
+                    "153% ATK+1174",
+                    "162% ATK+1270",
+                    "171% ATK+1371",
+                    "180% ATK+1477",
+                    "191.25% ATK+1588",
+                    "202.5% ATK+1703",
+                    "213.75% ATK+1824"
+                ],
+                "Skill DMG": [
+                    "284.8%",
+                    "306.16%",
+                    "327.52%",
+                    "356%",
+                    "377.36%",
+                    "398.72%",
+                    "427.2%",
+                    "455.68%",
+                    "484.16%",
+                    "512.64%",
+                    "541.12%",
+                    "569.6%",
+                    "605.2%",
+                    "640.8%",
+                    "676.4%"
+                ]
+            },
+            "name": "Adeptus Art: Preserver of Fortune"
+        },
+        "elementalskill": {
+            "description": "Using the Icevein Talisman, Qiqi brings forth the Herald of Frost, dealing <color=#99FFFFFF>Cryo DMG</color> to surrounding opponents.\\n\\n<color=#FFD780FF>Herald of Frost</color>\\n·On hit, Qiqi's Normal and Charged Attacks regenerate HP for your own party members and nearby teammates. Healing scales based on Qiqi's ATK.\\n·Periodically regenerates your active character's HP.\\n·Follows the character around, dealing <color=#99FFFFFF>Cryo DMG</color> to opponents in their path.\\n\\n<i>I use this to prevent warming and rot... of Dr. Bai's precious ingredients. Yes.</i>",
+            "icon": "Skill_S_Qiqi_01",
+            "multipliers": {
+                "CD": [
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s",
+                    "30s"
+                ],
+                "Continuous Regeneration": [
+                    "69.6% ATK+451",
+                    "74.82% ATK+496",
+                    "80.04% ATK+544",
+                    "87% ATK+597",
+                    "92.22% ATK+653",
+                    "97.44% ATK+713",
+                    "104.4% ATK+777",
+                    "111.36% ATK+845",
+                    "118.32% ATK+916",
+                    "125.28% ATK+991",
+                    "132.24% ATK+1070",
+                    "139.2% ATK+1153",
+                    "147.9% ATK+1239",
+                    "156.6% ATK+1329",
+                    "165.3% ATK+1423"
+                ],
+                "Duration": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Herald of Frost DMG": [
+                    "36%",
+                    "38.7%",
+                    "41.4%",
+                    "45%",
+                    "47.7%",
+                    "50.4%",
+                    "54%",
+                    "57.6%",
+                    "61.2%",
+                    "64.8%",
+                    "68.4%",
+                    "72%",
+                    "76.5%",
+                    "81%",
+                    "85.5%"
+                ],
+                "Regeneration on Hit": [
+                    "10.56% ATK+67",
+                    "11.35% ATK+74",
+                    "12.14% ATK+81",
+                    "13.2% ATK+89",
+                    "13.99% ATK+98",
+                    "14.78% ATK+107",
+                    "15.84% ATK+116",
+                    "16.9% ATK+126",
+                    "17.95% ATK+137",
+                    "19.01% ATK+148",
+                    "20.06% ATK+160",
+                    "21.12% ATK+172",
+                    "22.44% ATK+185",
+                    "23.76% ATK+199",
+                    "25.08% ATK+213"
+                ],
+                "Skill DMG": [
+                    "96%",
+                    "103.2%",
+                    "110.4%",
+                    "120%",
+                    "127.2%",
+                    "134.4%",
+                    "144%",
+                    "153.6%",
+                    "163.2%",
+                    "172.8%",
+                    "182.4%",
+                    "192%",
+                    "204%",
+                    "216%",
+                    "228%"
+                ]
+            },
+            "name": "Adeptus Art: Herald of Frost"
+        },
+        "leveling": {
+            "books": {
+                "104310": 9,
+                "104311": 63,
+                "104312": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113006": 18
+            },
+            "worldmonster": {
+                "112008": 18,
+                "112009": 66,
+                "112010": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 5 rapid strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+            "icon": "Skill_A_01",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "37.75%",
+                    "40.83%",
+                    "43.9%",
+                    "48.29%",
+                    "51.36%",
+                    "54.87%",
+                    "59.7%",
+                    "64.53%",
+                    "69.36%",
+                    "74.63%",
+                    "79.9%",
+                    "85.17%",
+                    "90.43%",
+                    "95.7%",
+                    "100.97%"
+                ],
+                "2-Hit DMG": [
+                    "38.87%",
+                    "42.04%",
+                    "45.2%",
+                    "49.72%",
+                    "52.88%",
+                    "56.5%",
+                    "61.47%",
+                    "66.44%",
+                    "71.42%",
+                    "76.84%",
+                    "82.26%",
+                    "87.69%",
+                    "93.11%",
+                    "98.54%",
+                    "103.96%"
+                ],
+                "3-Hit DMG": [
+                    "24.17%+24.17%",
+                    "26.13%+26.13%",
+                    "28.1%+28.1%",
+                    "30.91%+30.91%",
+                    "32.88%+32.88%",
+                    "35.12%+35.12%",
+                    "38.22%+38.22%",
+                    "41.31%+41.31%",
+                    "44.4%+44.4%",
+                    "47.77%+47.77%",
+                    "51.14%+51.14%",
+                    "54.51%+54.51%",
+                    "57.89%+57.89%",
+                    "61.26%+61.26%",
+                    "64.63%+64.63%"
+                ],
+                "4-Hit DMG": [
+                    "24.68%+24.68%",
+                    "26.69%+26.69%",
+                    "28.7%+28.7%",
+                    "31.57%+31.57%",
+                    "33.58%+33.58%",
+                    "35.87%+35.87%",
+                    "39.03%+39.03%",
+                    "42.19%+42.19%",
+                    "45.35%+45.35%",
+                    "48.79%+48.79%",
+                    "52.23%+52.23%",
+                    "55.68%+55.68%",
+                    "59.12%+59.12%",
+                    "62.57%+62.57%",
+                    "66.01%+66.01%"
+                ],
+                "5-Hit DMG": [
+                    "63.04%",
+                    "68.17%",
+                    "73.3%",
+                    "80.63%",
+                    "85.76%",
+                    "91.62%",
+                    "99.69%",
+                    "107.75%",
+                    "115.81%",
+                    "124.61%",
+                    "133.41%",
+                    "142.2%",
+                    "151%",
+                    "159.79%",
+                    "168.59%"
+                ],
+                "Charged Attack DMG": [
+                    "64.33%+64.33%",
+                    "69.56%+69.56%",
+                    "74.8%+74.8%",
+                    "82.28%+82.28%",
+                    "87.52%+87.52%",
+                    "93.5%+93.5%",
+                    "101.73%+101.73%",
+                    "109.96%+109.96%",
+                    "118.18%+118.18%",
+                    "127.16%+127.16%",
+                    "136.14%+136.14%",
+                    "145.11%+145.11%",
+                    "154.09%+154.09%",
+                    "163.06%+163.06%",
+                    "172.04%+172.04%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20"
+                ],
+                "Low/High Plunge DMG": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Plunge DMG": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ]
+            },
+            "name": "Ancient Sword Art"
+        }
+    }
+}

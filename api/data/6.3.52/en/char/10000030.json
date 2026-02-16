@@ -1,0 +1,1547 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104171": 1,
+            "104172": 9,
+            "104173": 9,
+            "104174": 6
+        },
+        "elitemonster": {
+            "113009": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100058": 168
+        },
+        "worldmonster": {
+            "112002": 18,
+            "112003": 30,
+            "112004": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Rock",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "SkillObj_PrimoPillar",
+            "poise": "LV4/200"
+        },
+        {
+            "element": "Rock",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "SkillObj_PrimoPillar",
+            "poise": "LV4/200"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "SkillObj_PrimoPillar",
+            "poise": "LV1/0"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "SkillObj_PrimoPillar",
+            "poise": "LV1/0"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "SkillObj_PrimoPillar",
+            "poise": "LV1/0"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "SkillObj_PrimoPillar",
+            "poise": "LV1/0"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "RockShield",
+            "poise": "LV4/142"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "RockShield",
+            "poise": "LV4/142"
+        },
+        {
+            "element": "Rock",
+            "gauge": "4U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "GeoOrder",
+            "poise": "LV2/500"
+        },
+        {
+            "element": "Rock",
+            "gauge": "4U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "GeoOrder",
+            "poise": "LV2/500"
+        },
+        {
+            "element": "-",
+            "gauge": "4U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Grp: default",
+            "name": "GeoOrder",
+            "poise": "-/400"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack",
+            "poise": "LV3/33"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack",
+            "poise": "LV3/33"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack",
+            "poise": "LV3/33"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack",
+            "poise": "LV3/33"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack",
+            "poise": "LV4/33"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack",
+            "poise": "LV4/33"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack",
+            "poise": "LV3/34"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack",
+            "poise": "LV3/34"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack",
+            "poise": "LV3/42"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack",
+            "poise": "LV3/42"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack",
+            "poise": "LV4/45"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack",
+            "poise": "LV4/45"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack",
+            "poise": "LV6/61"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack",
+            "poise": "LV6/61"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "SkillObj_Attack05",
+            "poise": "LV2/11"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "SkillObj_Attack05",
+            "poise": "LV2/11"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "SkillObj_ExtraAttack",
+            "poise": "-/103"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "SkillObj_ExtraAttack",
+            "poise": "-/103"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "SkillObj_ExtraAttack",
+            "poise": "-/103"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "SkillObj_ExtraAttack",
+            "poise": "-/103"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Increases the maximum number of Stone Steles created by <color=#FFD780FF>Dominus Lapidis</color> that may exist simultaneously to 2.",
+            "icon": "UI_Talent_S_Zhongli_01",
+            "name": "Rock, the Backbone of Earth"
+        },
+        "const2": {
+            "description": "<color=#FFD780FF>Planet Befall</color> grants nearby characters on the field a Jade Shield when it descends.",
+            "icon": "UI_Talent_S_Zhongli_02",
+            "name": "Stone, the Cradle of Jade"
+        },
+        "const3": {
+            "description": "Increases the Level of <color=#FFD780FF>Dominus Lapidis</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Zhongli_01",
+            "name": "Jade, Shimmering through Darkness"
+        },
+        "const4": {
+            "description": "Increases <color=#FFD780FF>Planet Befall</color>'s AoE by 20% and increases the duration of Planet Befall's Petrification effect by 2s.",
+            "icon": "UI_Talent_S_Zhongli_03",
+            "name": "Topaz, Unbreakable and Fearless"
+        },
+        "const5": {
+            "description": "Increases the Level of <color=#FFD780FF>Planet Befall</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Zhongli_02",
+            "name": "Lazuli, Herald of the Order"
+        },
+        "const6": {
+            "description": "When the Jade Shield takes DMG, 40% of that incoming DMG is converted to HP for the current character.\\nA single instance of regeneration cannot exceed 8% of that character's Max HP.",
+            "icon": "UI_Talent_S_Zhongli_04",
+            "name": "Chrysos, Bounty of Dominator"
+        }
+    },
+    "energy": [
+        {
+            "cd": "1.5s",
+            "chance": "50%",
+            "particles": "1",
+            "source": "UNIQUE_ElementBall_Extra"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Zhongli",
+        "forward": "UI_AvatarIcon_Zhongli"
+    },
+    "info": {
+        "attributes": [
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 57,
+                "hp": 1144,
+                "level": 1
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 62,
+                "hp": 1239,
+                "level": 2
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 23,
+                "def": 67,
+                "hp": 1334,
+                "level": 3
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 72,
+                "hp": 1430,
+                "level": 4
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 77,
+                "hp": 1525,
+                "level": 5
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 81,
+                "hp": 1621,
+                "level": 6
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 86,
+                "hp": 1716,
+                "level": 7
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 91,
+                "hp": 1812,
+                "level": 8
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 96,
+                "hp": 1908,
+                "level": 9
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 101,
+                "hp": 2003,
+                "level": 10
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 105,
+                "hp": 2099,
+                "level": 11
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 110,
+                "hp": 2195,
+                "level": 12
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 115,
+                "hp": 2291,
+                "level": 13
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 120,
+                "hp": 2389,
+                "level": 14
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 125,
+                "hp": 2485,
+                "level": 15
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 130,
+                "hp": 2581,
+                "level": 16
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 46,
+                "def": 134,
+                "hp": 2678,
+                "level": 17
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 47,
+                "def": 139,
+                "hp": 2774,
+                "level": 18
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 49,
+                "def": 144,
+                "hp": 2871,
+                "level": 19
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 51,
+                "def": 149,
+                "hp": 2967,
+                "level": 20
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 69,
+                "def": 203,
+                "hp": 4046,
+                "level": 21
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 208,
+                "hp": 4143,
+                "level": 22
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 72,
+                "def": 213,
+                "hp": 4240,
+                "level": 23
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 74,
+                "def": 218,
+                "hp": 4337,
+                "level": 24
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 76,
+                "def": 223,
+                "hp": 4435,
+                "level": 25
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 77,
+                "def": 228,
+                "hp": 4533,
+                "level": 26
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 79,
+                "def": 232,
+                "hp": 4630,
+                "level": 27
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 81,
+                "def": 237,
+                "hp": 4727,
+                "level": 28
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 82,
+                "def": 242,
+                "hp": 4826,
+                "level": 29
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 84,
+                "def": 247,
+                "hp": 4923,
+                "level": 30
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 86,
+                "def": 252,
+                "hp": 5021,
+                "level": 31
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 87,
+                "def": 257,
+                "hp": 5120,
+                "level": 32
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 89,
+                "def": 262,
+                "hp": 5218,
+                "level": 33
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 91,
+                "def": 267,
+                "hp": 5315,
+                "level": 34
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 93,
+                "def": 272,
+                "hp": 5414,
+                "level": 35
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 94,
+                "def": 277,
+                "hp": 5513,
+                "level": 36
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 96,
+                "def": 282,
+                "hp": 5612,
+                "level": 37
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 98,
+                "def": 287,
+                "hp": 5710,
+                "level": 38
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 99,
+                "def": 292,
+                "hp": 5808,
+                "level": 39
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 101,
+                "def": 297,
+                "hp": 5908,
+                "level": 40
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 115,
+                "def": 337,
+                "hp": 6703,
+                "level": 41
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 116,
+                "def": 342,
+                "hp": 6803,
+                "level": 42
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 118,
+                "def": 347,
+                "hp": 6902,
+                "level": 43
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 120,
+                "def": 351,
+                "hp": 7001,
+                "level": 44
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 121,
+                "def": 356,
+                "hp": 7100,
+                "level": 45
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 123,
+                "def": 361,
+                "hp": 7200,
+                "level": 46
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 125,
+                "def": 366,
+                "hp": 7299,
+                "level": 47
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 126,
+                "def": 371,
+                "hp": 7399,
+                "level": 48
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 128,
+                "def": 377,
+                "hp": 7500,
+                "level": 49
+            },
+            {
+                "Geo%": "7.2",
+                "ascension": 2,
+                "atk": 130,
+                "def": 382,
+                "hp": 7599,
+                "level": 50
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 147,
+                "def": 433,
+                "hp": 8628,
+                "level": 51
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 149,
+                "def": 438,
+                "hp": 8728,
+                "level": 52
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 151,
+                "def": 443,
+                "hp": 8828,
+                "level": 53
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 153,
+                "def": 448,
+                "hp": 8929,
+                "level": 54
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 154,
+                "def": 453,
+                "hp": 9029,
+                "level": 55
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 156,
+                "def": 458,
+                "hp": 9130,
+                "level": 56
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 158,
+                "def": 463,
+                "hp": 9231,
+                "level": 57
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 159,
+                "def": 469,
+                "hp": 9331,
+                "level": 58
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 161,
+                "def": 474,
+                "hp": 9432,
+                "level": 59
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 3,
+                "atk": 163,
+                "def": 479,
+                "hp": 9533,
+                "level": 60
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 177,
+                "def": 519,
+                "hp": 10330,
+                "level": 61
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 178,
+                "def": 524,
+                "hp": 10431,
+                "level": 62
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 180,
+                "def": 529,
+                "hp": 10533,
+                "level": 63
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 182,
+                "def": 534,
+                "hp": 10633,
+                "level": 64
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 183,
+                "def": 539,
+                "hp": 10735,
+                "level": 65
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 185,
+                "def": 544,
+                "hp": 10837,
+                "level": 66
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 187,
+                "def": 549,
+                "hp": 10938,
+                "level": 67
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 189,
+                "def": 554,
+                "hp": 11040,
+                "level": 68
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 190,
+                "def": 559,
+                "hp": 11141,
+                "level": 69
+            },
+            {
+                "Geo%": "14.4",
+                "ascension": 4,
+                "atk": 192,
+                "def": 564,
+                "hp": 11243,
+                "level": 70
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 206,
+                "def": 605,
+                "hp": 12042,
+                "level": 71
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 208,
+                "def": 610,
+                "hp": 12145,
+                "level": 72
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 209,
+                "def": 615,
+                "hp": 12247,
+                "level": 73
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 211,
+                "def": 620,
+                "hp": 12349,
+                "level": 74
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 213,
+                "def": 625,
+                "hp": 12451,
+                "level": 75
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 215,
+                "def": 630,
+                "hp": 12553,
+                "level": 76
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 216,
+                "def": 635,
+                "hp": 12656,
+                "level": 77
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 218,
+                "def": 641,
+                "hp": 12759,
+                "level": 78
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 220,
+                "def": 646,
+                "hp": 12862,
+                "level": 79
+            },
+            {
+                "Geo%": "21.6",
+                "ascension": 5,
+                "atk": 222,
+                "def": 651,
+                "hp": 12965,
+                "level": 80
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 235,
+                "def": 691,
+                "hp": 13765,
+                "level": 81
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 237,
+                "def": 696,
+                "hp": 13868,
+                "level": 82
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 239,
+                "def": 701,
+                "hp": 13971,
+                "level": 83
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 241,
+                "def": 707,
+                "hp": 14074,
+                "level": 84
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 242,
+                "def": 712,
+                "hp": 14177,
+                "level": 85
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 244,
+                "def": 717,
+                "hp": 14281,
+                "level": 86
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 246,
+                "def": 722,
+                "hp": 14384,
+                "level": 87
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 248,
+                "def": 727,
+                "hp": 14488,
+                "level": 88
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 249,
+                "def": 733,
+                "hp": 14592,
+                "level": 89
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 251,
+                "def": 738,
+                "hp": 14695,
+                "level": 90
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 279,
+                "def": 764,
+                "hp": 15217,
+                "level": 95
+            },
+            {
+                "Geo%": "28.8",
+                "ascension": 6,
+                "atk": 308,
+                "def": 790,
+                "hp": 15740,
+                "level": 100
+            }
+        ],
+        "birthday": "December 31st",
+        "constellation": "???",
+        "description": "A mysterious expert contracted by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.",
+        "element": "Geo",
+        "name": "Zhongli",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_POLE"
+    },
+    "passives": {
+        "p1": {
+            "description": "When the Jade Shield takes DMG, it will Fortify:\\n·Fortified characters have 5% increased Shield Strength.\\nCan stack up to 5 times, and lasts until the Jade Shield disappears.",
+            "icon": "UI_Talent_S_Zhongli_05",
+            "name": "Resonant Waves"
+        },
+        "p2": {
+            "description": "Zhongli deals bonus DMG based on his Max HP:\\n·Normal Attack, Charged Attack, and Plunging Attack DMG is increased by 1.39% of Max HP.\\n·<color=#FFD780FF>Dominus Lapidis'</color> Stone Stele, resonance, and hold DMG is increased by 1.9% of Max HP.\\n·<color=#FFD780FF>Planet Befall's</color> DMG is increased by 33% of Max HP.",
+            "icon": "UI_Talent_S_Zhongli_06",
+            "name": "Dominance of Earth"
+        },
+        "p3": {
+            "description": "Refunds 15% of the ore used when crafting Polearm-type weapons.",
+            "icon": "UI_Talent_Forge_Pole",
+            "name": "Arcanum of Crystal"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Brings a falling meteor down to earth, dealing massive <color=#FFE699FF>Geo DMG</color> to opponents caught in its AoE and applying the <color=#FFE699FF>Petrification</color> status to them.\\n\\n<color=#FFD780FF>Petrification</color>\\nOpponents affected by the <color=#FFE699FF>Petrification</color> status cannot move.\\n\\n<i>The falling meteor punishes the unjust.</i>",
+            "icon": "Skill_E_Zhongli_01",
+            "multipliers": {
+                "CD": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "Energy Cost": [
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40"
+                ],
+                "Petrification Duration": [
+                    "3.1s",
+                    "3.2s",
+                    "3.3s",
+                    "3.4s",
+                    "3.5s",
+                    "3.6s",
+                    "3.7s",
+                    "3.8s",
+                    "3.9s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s"
+                ],
+                "Skill DMG": [
+                    "401.08%",
+                    "444.44%",
+                    "487.8%",
+                    "542%",
+                    "590.78%",
+                    "639.56%",
+                    "704.6%",
+                    "769.64%",
+                    "834.68%",
+                    "899.72%",
+                    "964.76%",
+                    "1029.8%",
+                    "1084%",
+                    "1138.2%",
+                    "1192.4%"
+                ]
+            },
+            "name": "Planet Befall"
+        },
+        "elementalskill": {
+            "description": "#Every mountain, rock and inch of land is filled with the power of Geo, but those who can wield such powers freely are few and far between.\\n\\n<color=#FFD780FF>Press</color>\\nCommands the power of earth to create a Stone Stele.\\n\\n<color=#FFD780FF>Hold</color>\\nCauses nearby Geo energy to explode, causing the following effects:\\n·If their maximum number hasn't been reached, creates a Stone Stele.\\n·Creates a shield of jade. The shield's DMG Absorption scales based on Zhongli's Max HP.\\n·Deals <color=#FFE699FF>AoE Geo DMG</color>.\\n·If there are nearby targets with the <color=#FFE699FF>Geo element</color>, it will drain a large amount of <color=#FFE699FF>Geo element</color> from a maximum of 2 such targets. This effect does not cause DMG.\\n\\n<color=#FFD780FF>Stone Stele</color>\\nWhen created, deals <color=#FFE699FF>AoE Geo DMG</color>.\\nAdditionally, it will intermittently resonate with other nearby <color=#FFE699FF>Geo constructs</color>, dealing <color=#FFE699FF>Geo DMG</color> to nearby opponents.\\nThe Stone Stele is considered a <color=#FFE699FF>Geo construct</color> that can both be climbed and used to block attacks.\\nOnly one Stele created by Zhongli himself may initially exist at any one time.\\n\\n<color=#FFD780FF>Jade Shield</color>\\nPossesses 150% DMG Absorption against all Elemental and Physical DMG.\\nCharacters protected by the Jade Shield will decrease the Elemental RES and Physical RES of opponents in a small AoE by 20%. This effect cannot be stacked.\\n\\n<i>A true master of stone may carve jade and shape gold.</i>",
+            "icon": "Skill_S_Zhongli_01",
+            "multipliers": {
+                "Additional Shield Absorption": [
+                    "12.8% Max HP",
+                    "13.76% Max HP",
+                    "14.72% Max HP",
+                    "16% Max HP",
+                    "16.96% Max HP",
+                    "17.92% Max HP",
+                    "19.2% Max HP",
+                    "20.48% Max HP",
+                    "21.76% Max HP",
+                    "23.04% Max HP",
+                    "24.32% Max HP",
+                    "25.6% Max HP",
+                    "27.2% Max HP",
+                    "28.8% Max HP",
+                    "30.4% Max HP"
+                ],
+                "Hold CD": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "Hold DMG": [
+                    "80%",
+                    "86%",
+                    "92%",
+                    "100%",
+                    "106%",
+                    "112%",
+                    "120%",
+                    "128%",
+                    "136%",
+                    "144%",
+                    "152%",
+                    "160%",
+                    "170%",
+                    "180%",
+                    "190%"
+                ],
+                "Press CD": [
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s"
+                ],
+                "Shield Base Absorption": [
+                    "1232",
+                    "1356",
+                    "1489",
+                    "1633",
+                    "1787",
+                    "1951",
+                    "2126",
+                    "2311",
+                    "2506",
+                    "2712",
+                    "2927",
+                    "3153",
+                    "3389",
+                    "3636",
+                    "3893"
+                ],
+                "Shield Duration": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ],
+                "Stone Stele/Resonance DMG": [
+                    "16%/32%",
+                    "17.2%/34.4%",
+                    "18.4%/36.8%",
+                    "20%/40%",
+                    "21.2%/42.4%",
+                    "22.4%/44.8%",
+                    "24%/48%",
+                    "25.6%/51.2%",
+                    "27.2%/54.4%",
+                    "28.8%/57.6%",
+                    "30.4%/60.8%",
+                    "32%/64%",
+                    "34%/68%",
+                    "36%/72%",
+                    "38%/76%"
+                ]
+            },
+            "name": "Dominus Lapidis"
+        },
+        "leveling": {
+            "books": {
+                "104316": 9,
+                "104317": 63,
+                "104318": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113013": 18
+            },
+            "worldmonster": {
+                "112002": 18,
+                "112003": 66,
+                "112004": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 6 consecutive spear strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to lunge forward, causing stone spears to fall along his path.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+            "icon": "Skill_A_03",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "30.77%",
+                    "33.27%",
+                    "35.78%",
+                    "39.36%",
+                    "41.86%",
+                    "44.72%",
+                    "48.66%",
+                    "52.59%",
+                    "56.53%",
+                    "60.82%",
+                    "65.74%",
+                    "71.53%",
+                    "77.31%",
+                    "83.1%",
+                    "89.41%"
+                ],
+                "2-Hit DMG": [
+                    "31.15%",
+                    "33.69%",
+                    "36.22%",
+                    "39.85%",
+                    "42.38%",
+                    "45.28%",
+                    "49.26%",
+                    "53.25%",
+                    "57.23%",
+                    "61.58%",
+                    "66.56%",
+                    "72.42%",
+                    "78.27%",
+                    "84.13%",
+                    "90.52%"
+                ],
+                "3-Hit DMG": [
+                    "38.58%",
+                    "41.72%",
+                    "44.86%",
+                    "49.34%",
+                    "52.48%",
+                    "56.07%",
+                    "61%",
+                    "65.94%",
+                    "70.87%",
+                    "76.26%",
+                    "82.42%",
+                    "89.68%",
+                    "96.93%",
+                    "104.18%",
+                    "112.1%"
+                ],
+                "4-Hit DMG": [
+                    "42.94%",
+                    "46.43%",
+                    "49.93%",
+                    "54.92%",
+                    "58.42%",
+                    "62.41%",
+                    "67.9%",
+                    "73.4%",
+                    "78.89%",
+                    "84.88%",
+                    "91.74%",
+                    "99.82%",
+                    "107.89%",
+                    "115.97%",
+                    "124.77%"
+                ],
+                "5-Hit DMG": [
+                    "10.75%×4",
+                    "11.63%×4",
+                    "12.5%×4",
+                    "13.75%×4",
+                    "14.62%×4",
+                    "15.62%×4",
+                    "17%×4",
+                    "18.38%×4",
+                    "19.75%×4",
+                    "21.25%×4",
+                    "22.97%×4",
+                    "24.99%×4",
+                    "27.01%×4",
+                    "29.03%×4",
+                    "31.24%×4"
+                ],
+                "6-Hit DMG": [
+                    "54.5%",
+                    "58.93%",
+                    "63.37%",
+                    "69.7%",
+                    "74.14%",
+                    "79.21%",
+                    "86.18%",
+                    "93.15%",
+                    "100.12%",
+                    "107.73%",
+                    "116.44%",
+                    "126.69%",
+                    "136.93%",
+                    "147.18%",
+                    "158.36%"
+                ],
+                "Charged Attack DMG": [
+                    "111.03%",
+                    "120.06%",
+                    "129.1%",
+                    "142.01%",
+                    "151.05%",
+                    "161.37%",
+                    "175.58%",
+                    "189.78%",
+                    "203.98%",
+                    "219.47%",
+                    "237.22%",
+                    "258.1%",
+                    "278.97%",
+                    "299.85%",
+                    "322.62%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25"
+                ],
+                "Low/High Plunge DMG": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Plunge DMG": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ]
+            },
+            "name": "Rain of Stone"
+        }
+    }
+}

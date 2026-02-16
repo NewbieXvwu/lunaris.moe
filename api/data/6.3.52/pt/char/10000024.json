@@ -1,0 +1,1419 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104141": 1,
+            "104142": 9,
+            "104143": 9,
+            "104144": 6
+        },
+        "elitemonster": {
+            "113002": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100028": 168
+        },
+        "worldmonster": {
+            "112035": 18,
+            "112036": 30,
+            "112037": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Electric",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ThunderCounter_Strike",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "Electric",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ThunderCounter_Strike",
+            "poise": "LV4/200"
+        },
+        {
+            "element": "Electric",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ThunderCounter_Strike",
+            "poise": "LV6/300"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ThunderShield_Gadget",
+            "poise": "LV1/50"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ThunderShield_Gadget",
+            "poise": "LV1/50"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ThunderShield_Gadget",
+            "poise": "LV1/50"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ThunderShield_Gadget",
+            "poise": "LV1/50"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ThunderShield_Gadget",
+            "poise": "LV1/50"
+        },
+        {
+            "element": "Electric",
+            "gauge": "4U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ThunderShield",
+            "poise": "LV4/400"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "Talent_ElectricAdd",
+            "poise": "LV0/30"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/35"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/150"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/200"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Quando o <color=#FFD780FF>Quebrador de Tempestades</color> é usado:\\nCria um escudo que absorve até 16% de Dano baseado na Vida Máxima de Beidou por 15 segundos.\\nEsse escudo absorve 250% do <color=#FFACFFFF>Dano Electro</color> mais eficientemente.",
+            "icon": "UI_Talent_S_Beidou_02",
+            "name": "Flagelo da Fera do Mar"
+        },
+        "const2": {
+            "description": "O Arco Relâmpago do <color=#FFD780FF>Quebrador de Tempestades</color> pode rebater em 2 alvos adicionais.",
+            "icon": "UI_Talent_S_Beidou_01",
+            "name": "Sobre o Mar Turbulento, o Trovão Surge"
+        },
+        "const3": {
+            "description": "Aumenta o nível da <color=#FFD780FF>Invocadora da Maré</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Beidou_01",
+            "name": "Invocadora da Tempestade"
+        },
+        "const4": {
+            "description": "Após ser atacada, os Ataques Normais de Beidou ganham 20% de <color=#FFACFFFF>Dano Electro</color> adicional por 10s.",
+            "icon": "UI_Talent_S_Beidou_03",
+            "name": "Vingança Impressionante"
+        },
+        "const5": {
+            "description": "Aumenta o nível do <color=#FFD780FF>Quebrador de Tempestades</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Beidou_02",
+            "name": "Caminhante da Maré Carmesim"
+        },
+        "const6": {
+            "description": "Ao longo da duração do <color=#FFD780FF>Quebrador de Tempestades</color>, a <color=#FFACFFFF>RES Electro</color> dos inimigos próximos é diminuída em 15%.",
+            "icon": "UI_Talent_S_Beidou_04",
+            "name": "Destruição do Mal"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.4s",
+            "chance": "100%",
+            "particles": "2",
+            "source": "Ball"
+        },
+        {
+            "cd": "0.4s",
+            "chance": "100%",
+            "particles": "1",
+            "source": "Ball"
+        },
+        {
+            "cd": "0.4s",
+            "chance": "100%",
+            "particles": "1",
+            "source": "Ball"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Beidou",
+        "forward": "UI_AvatarIcon_Beidou"
+    },
+    "info": {
+        "attributes": [
+            {
+                "Electro%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 54,
+                "hp": 1094,
+                "level": 1
+            },
+            {
+                "Electro%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 59,
+                "hp": 1185,
+                "level": 2
+            },
+            {
+                "Electro%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 63,
+                "hp": 1275,
+                "level": 3
+            },
+            {
+                "Electro%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 68,
+                "hp": 1365,
+                "level": 4
+            },
+            {
+                "Electro%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 72,
+                "hp": 1455,
+                "level": 5
+            },
+            {
+                "Electro%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 77,
+                "hp": 1546,
+                "level": 6
+            },
+            {
+                "Electro%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 81,
+                "hp": 1636,
+                "level": 7
+            },
+            {
+                "Electro%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 86,
+                "hp": 1727,
+                "level": 8
+            },
+            {
+                "Electro%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 90,
+                "hp": 1817,
+                "level": 9
+            },
+            {
+                "Electro%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 95,
+                "hp": 1907,
+                "level": 10
+            },
+            {
+                "Electro%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 99,
+                "hp": 1998,
+                "level": 11
+            },
+            {
+                "Electro%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 104,
+                "hp": 2088,
+                "level": 12
+            },
+            {
+                "Electro%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 108,
+                "hp": 2178,
+                "level": 13
+            },
+            {
+                "Electro%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 113,
+                "hp": 2268,
+                "level": 14
+            },
+            {
+                "Electro%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 117,
+                "hp": 2359,
+                "level": 15
+            },
+            {
+                "Electro%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 122,
+                "hp": 2450,
+                "level": 16
+            },
+            {
+                "Electro%": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 126,
+                "hp": 2540,
+                "level": 17
+            },
+            {
+                "Electro%": "0",
+                "ascension": 0,
+                "atk": 45,
+                "def": 131,
+                "hp": 2630,
+                "level": 18
+            },
+            {
+                "Electro%": "0",
+                "ascension": 0,
+                "atk": 47,
+                "def": 135,
+                "hp": 2720,
+                "level": 19
+            },
+            {
+                "Electro%": "0",
+                "ascension": 0,
+                "atk": 48,
+                "def": 140,
+                "hp": 2811,
+                "level": 20
+            },
+            {
+                "Electro%": "0",
+                "ascension": 1,
+                "atk": 64,
+                "def": 185,
+                "hp": 3718,
+                "level": 21
+            },
+            {
+                "Electro%": "0",
+                "ascension": 1,
+                "atk": 66,
+                "def": 189,
+                "hp": 3809,
+                "level": 22
+            },
+            {
+                "Electro%": "0",
+                "ascension": 1,
+                "atk": 67,
+                "def": 194,
+                "hp": 3900,
+                "level": 23
+            },
+            {
+                "Electro%": "0",
+                "ascension": 1,
+                "atk": 69,
+                "def": 198,
+                "hp": 3989,
+                "level": 24
+            },
+            {
+                "Electro%": "0",
+                "ascension": 1,
+                "atk": 70,
+                "def": 203,
+                "hp": 4080,
+                "level": 25
+            },
+            {
+                "Electro%": "0",
+                "ascension": 1,
+                "atk": 72,
+                "def": 207,
+                "hp": 4170,
+                "level": 26
+            },
+            {
+                "Electro%": "0",
+                "ascension": 1,
+                "atk": 74,
+                "def": 212,
+                "hp": 4261,
+                "level": 27
+            },
+            {
+                "Electro%": "0",
+                "ascension": 1,
+                "atk": 75,
+                "def": 216,
+                "hp": 4350,
+                "level": 28
+            },
+            {
+                "Electro%": "0",
+                "ascension": 1,
+                "atk": 77,
+                "def": 221,
+                "hp": 4441,
+                "level": 29
+            },
+            {
+                "Electro%": "0",
+                "ascension": 1,
+                "atk": 78,
+                "def": 225,
+                "hp": 4531,
+                "level": 30
+            },
+            {
+                "Electro%": "0",
+                "ascension": 1,
+                "atk": 80,
+                "def": 230,
+                "hp": 4622,
+                "level": 31
+            },
+            {
+                "Electro%": "0",
+                "ascension": 1,
+                "atk": 81,
+                "def": 234,
+                "hp": 4713,
+                "level": 32
+            },
+            {
+                "Electro%": "0",
+                "ascension": 1,
+                "atk": 83,
+                "def": 239,
+                "hp": 4802,
+                "level": 33
+            },
+            {
+                "Electro%": "0",
+                "ascension": 1,
+                "atk": 84,
+                "def": 243,
+                "hp": 4893,
+                "level": 34
+            },
+            {
+                "Electro%": "0",
+                "ascension": 1,
+                "atk": 86,
+                "def": 248,
+                "hp": 4983,
+                "level": 35
+            },
+            {
+                "Electro%": "0",
+                "ascension": 1,
+                "atk": 88,
+                "def": 252,
+                "hp": 5074,
+                "level": 36
+            },
+            {
+                "Electro%": "0",
+                "ascension": 1,
+                "atk": 89,
+                "def": 257,
+                "hp": 5163,
+                "level": 37
+            },
+            {
+                "Electro%": "0",
+                "ascension": 1,
+                "atk": 91,
+                "def": 261,
+                "hp": 5254,
+                "level": 38
+            },
+            {
+                "Electro%": "0",
+                "ascension": 1,
+                "atk": 92,
+                "def": 266,
+                "hp": 5345,
+                "level": 39
+            },
+            {
+                "Electro%": "0",
+                "ascension": 1,
+                "atk": 94,
+                "def": 270,
+                "hp": 5435,
+                "level": 40
+            },
+            {
+                "Electro%": "6",
+                "ascension": 2,
+                "atk": 105,
+                "def": 303,
+                "hp": 6106,
+                "level": 41
+            },
+            {
+                "Electro%": "6",
+                "ascension": 2,
+                "atk": 107,
+                "def": 308,
+                "hp": 6196,
+                "level": 42
+            },
+            {
+                "Electro%": "6",
+                "ascension": 2,
+                "atk": 108,
+                "def": 312,
+                "hp": 6287,
+                "level": 43
+            },
+            {
+                "Electro%": "6",
+                "ascension": 2,
+                "atk": 110,
+                "def": 317,
+                "hp": 6377,
+                "level": 44
+            },
+            {
+                "Electro%": "6",
+                "ascension": 2,
+                "atk": 112,
+                "def": 321,
+                "hp": 6467,
+                "level": 45
+            },
+            {
+                "Electro%": "6",
+                "ascension": 2,
+                "atk": 113,
+                "def": 326,
+                "hp": 6558,
+                "level": 46
+            },
+            {
+                "Electro%": "6",
+                "ascension": 2,
+                "atk": 115,
+                "def": 330,
+                "hp": 6648,
+                "level": 47
+            },
+            {
+                "Electro%": "6",
+                "ascension": 2,
+                "atk": 116,
+                "def": 335,
+                "hp": 6739,
+                "level": 48
+            },
+            {
+                "Electro%": "6",
+                "ascension": 2,
+                "atk": 118,
+                "def": 339,
+                "hp": 6828,
+                "level": 49
+            },
+            {
+                "Electro%": "6",
+                "ascension": 2,
+                "atk": 119,
+                "def": 344,
+                "hp": 6919,
+                "level": 50
+            },
+            {
+                "Electro%": "12",
+                "ascension": 3,
+                "atk": 134,
+                "def": 387,
+                "hp": 7783,
+                "level": 51
+            },
+            {
+                "Electro%": "12",
+                "ascension": 3,
+                "atk": 136,
+                "def": 391,
+                "hp": 7874,
+                "level": 52
+            },
+            {
+                "Electro%": "12",
+                "ascension": 3,
+                "atk": 137,
+                "def": 396,
+                "hp": 7965,
+                "level": 53
+            },
+            {
+                "Electro%": "12",
+                "ascension": 3,
+                "atk": 139,
+                "def": 400,
+                "hp": 8055,
+                "level": 54
+            },
+            {
+                "Electro%": "12",
+                "ascension": 3,
+                "atk": 141,
+                "def": 405,
+                "hp": 8145,
+                "level": 55
+            },
+            {
+                "Electro%": "12",
+                "ascension": 3,
+                "atk": 142,
+                "def": 409,
+                "hp": 8235,
+                "level": 56
+            },
+            {
+                "Electro%": "12",
+                "ascension": 3,
+                "atk": 144,
+                "def": 414,
+                "hp": 8326,
+                "level": 57
+            },
+            {
+                "Electro%": "12",
+                "ascension": 3,
+                "atk": 145,
+                "def": 418,
+                "hp": 8416,
+                "level": 58
+            },
+            {
+                "Electro%": "12",
+                "ascension": 3,
+                "atk": 147,
+                "def": 423,
+                "hp": 8507,
+                "level": 59
+            },
+            {
+                "Electro%": "12",
+                "ascension": 3,
+                "atk": 148,
+                "def": 427,
+                "hp": 8597,
+                "level": 60
+            },
+            {
+                "Electro%": "12",
+                "ascension": 4,
+                "atk": 160,
+                "def": 460,
+                "hp": 9268,
+                "level": 61
+            },
+            {
+                "Electro%": "12",
+                "ascension": 4,
+                "atk": 161,
+                "def": 465,
+                "hp": 9359,
+                "level": 62
+            },
+            {
+                "Electro%": "12",
+                "ascension": 4,
+                "atk": 163,
+                "def": 469,
+                "hp": 9448,
+                "level": 63
+            },
+            {
+                "Electro%": "12",
+                "ascension": 4,
+                "atk": 165,
+                "def": 474,
+                "hp": 9539,
+                "level": 64
+            },
+            {
+                "Electro%": "12",
+                "ascension": 4,
+                "atk": 166,
+                "def": 478,
+                "hp": 9629,
+                "level": 65
+            },
+            {
+                "Electro%": "12",
+                "ascension": 4,
+                "atk": 168,
+                "def": 483,
+                "hp": 9720,
+                "level": 66
+            },
+            {
+                "Electro%": "12",
+                "ascension": 4,
+                "atk": 169,
+                "def": 487,
+                "hp": 9811,
+                "level": 67
+            },
+            {
+                "Electro%": "12",
+                "ascension": 4,
+                "atk": 171,
+                "def": 492,
+                "hp": 9900,
+                "level": 68
+            },
+            {
+                "Electro%": "12",
+                "ascension": 4,
+                "atk": 172,
+                "def": 496,
+                "hp": 9991,
+                "level": 69
+            },
+            {
+                "Electro%": "12",
+                "ascension": 4,
+                "atk": 174,
+                "def": 501,
+                "hp": 10081,
+                "level": 70
+            },
+            {
+                "Electro%": "18",
+                "ascension": 5,
+                "atk": 186,
+                "def": 534,
+                "hp": 10752,
+                "level": 71
+            },
+            {
+                "Electro%": "18",
+                "ascension": 5,
+                "atk": 187,
+                "def": 539,
+                "hp": 10842,
+                "level": 72
+            },
+            {
+                "Electro%": "18",
+                "ascension": 5,
+                "atk": 189,
+                "def": 543,
+                "hp": 10933,
+                "level": 73
+            },
+            {
+                "Electro%": "18",
+                "ascension": 5,
+                "atk": 190,
+                "def": 548,
+                "hp": 11024,
+                "level": 74
+            },
+            {
+                "Electro%": "18",
+                "ascension": 5,
+                "atk": 192,
+                "def": 552,
+                "hp": 11113,
+                "level": 75
+            },
+            {
+                "Electro%": "18",
+                "ascension": 5,
+                "atk": 193,
+                "def": 557,
+                "hp": 11204,
+                "level": 76
+            },
+            {
+                "Electro%": "18",
+                "ascension": 5,
+                "atk": 195,
+                "def": 561,
+                "hp": 11294,
+                "level": 77
+            },
+            {
+                "Electro%": "18",
+                "ascension": 5,
+                "atk": 196,
+                "def": 566,
+                "hp": 11385,
+                "level": 78
+            },
+            {
+                "Electro%": "18",
+                "ascension": 5,
+                "atk": 198,
+                "def": 570,
+                "hp": 11475,
+                "level": 79
+            },
+            {
+                "Electro%": "18",
+                "ascension": 5,
+                "atk": 200,
+                "def": 575,
+                "hp": 11565,
+                "level": 80
+            },
+            {
+                "Electro%": "24",
+                "ascension": 6,
+                "atk": 211,
+                "def": 608,
+                "hp": 12237,
+                "level": 81
+            },
+            {
+                "Electro%": "24",
+                "ascension": 6,
+                "atk": 213,
+                "def": 612,
+                "hp": 12327,
+                "level": 82
+            },
+            {
+                "Electro%": "24",
+                "ascension": 6,
+                "atk": 214,
+                "def": 617,
+                "hp": 12417,
+                "level": 83
+            },
+            {
+                "Electro%": "24",
+                "ascension": 6,
+                "atk": 216,
+                "def": 621,
+                "hp": 12507,
+                "level": 84
+            },
+            {
+                "Electro%": "24",
+                "ascension": 6,
+                "atk": 217,
+                "def": 626,
+                "hp": 12598,
+                "level": 85
+            },
+            {
+                "Electro%": "24",
+                "ascension": 6,
+                "atk": 219,
+                "def": 630,
+                "hp": 12688,
+                "level": 86
+            },
+            {
+                "Electro%": "24",
+                "ascension": 6,
+                "atk": 220,
+                "def": 635,
+                "hp": 12779,
+                "level": 87
+            },
+            {
+                "Electro%": "24",
+                "ascension": 6,
+                "atk": 222,
+                "def": 639,
+                "hp": 12868,
+                "level": 88
+            },
+            {
+                "Electro%": "24",
+                "ascension": 6,
+                "atk": 224,
+                "def": 644,
+                "hp": 12959,
+                "level": 89
+            },
+            {
+                "Electro%": "24",
+                "ascension": 6,
+                "atk": 225,
+                "def": 648,
+                "hp": 13050,
+                "level": 90
+            },
+            {
+                "Electro%": "24",
+                "ascension": 6,
+                "atk": 254,
+                "def": 671,
+                "hp": 13501,
+                "level": 95
+            },
+            {
+                "Electro%": "24",
+                "ascension": 6,
+                "atk": 283,
+                "def": 693,
+                "hp": 13953,
+                "level": 100
+            }
+        ],
+        "birthday": "February 14th",
+        "constellation": "Victor Mare",
+        "description": "Líder da Frota Crux. Ela é uma chefe sem limites e franca.",
+        "element": "Electro",
+        "name": "Beidou",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_CLAYMORE"
+    },
+    "passives": {
+        "p1": {
+            "description": "Ao atacar com <color=#FFD780FF>Invocadora da Maré</color> no exato momento em que o personagem é atingido, concede o bônus de Dano máximo.",
+            "icon": "UI_Talent_S_Beidou_05",
+            "name": "Retribuição"
+        },
+        "p2": {
+            "description": "Obtém os seguintes efeitos por 10s após lançar a <color=#FFD780FF>Invocadora da Maré</color> com seu bônus máximo de Dano:\\nO Dano causado pelos Ataques Normais e Carregados aumenta em 15%. A Vel. de Ataque dos Ataques Normais ou Carregados é aumentada em 15%.\\nReduz grandemente o atraso antes de lançar Ataques Carregados.",
+            "icon": "UI_Talent_S_Beidou_06",
+            "name": "Tormenta Elétrica"
+        },
+        "p3": {
+            "description": "Diminui o consumo de Stamina ao Nadar de todos os seus personagens em 20%.\\nNão acumulável com Talentos Passivos que concedem exatamente os mesmos efeitos.",
+            "icon": "UI_Talent_Explosion_Swim",
+            "name": "Conquistadora das Marés"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Nada com que se deva preocupar. Se alguém levantar uma mão contra ela ou contra os seus homens, ela se vingará dez vezes mais com espada e trovão.\\n\\n<color=#FFD780FF>Pressionar</color>\\nAcumulando o poder dos raios, Beidou balança sua lâmina para frente ferozmente, causando <color=#FFACFFFF>Dano Electro</color>.\\n\\n<color=#FFD780FF>Manter pressionado</color>\\nLevanta sua arma como um escudo. Dano Máximo absorvido aumenta conforme a Vida Máxima de Beidou.\\nAtaca usando a energia armazenada no Espadão ao soltar ou quando a duração da habilidade expira, causando <color=#FFACFFFF>Dano Electro</color>. Dano causado aumenta com o número de vezes em que Beidou é atacada ao longo da duração da habilidade. O maior Bônus de Dano será atingido quando esse efeito for desencadeado duas vezes.\\nO escudo possui as seguintes propriedades:\\nTem 250% de eficiência em absorção de <color=#FFACFFFF>Dano Electro</color>\\nAplica o <color=#FFACFFFF>Elemento Electro</color> para a Beidou ao ativar.\\n\\n<i>Conquistar o alto-mar! Seguir as ondas e perseguir a tempestade!</i>",
+            "icon": "Skill_S_Beidou_01",
+            "multipliers": {
+                "Absorção de Dano de Escudo": [
+                    "14.4% da Vida Máxima +1386",
+                    "15.48% da Vida Máxima +1525",
+                    "16.56% da Vida Máxima +1675",
+                    "18% da Vida Máxima +1837",
+                    "19.08% da Vida Máxima +2010",
+                    "20.16% da Vida Máxima +2195",
+                    "21.6% da Vida Máxima +2392",
+                    "23.04% da Vida Máxima +2600",
+                    "24.48% da Vida Máxima +2819",
+                    "25.92% da Vida Máxima +3050",
+                    "27.36% da Vida Máxima +3293",
+                    "28.8% da Vida Máxima +3547",
+                    "30.6% da Vida Máxima +3813",
+                    "32.4% da Vida Máxima +4090",
+                    "34.2% da Vida Máxima +4379"
+                ],
+                "Aumenta o Dano ao ser Atacado": [
+                    "160%",
+                    "172%",
+                    "184%",
+                    "200%",
+                    "212%",
+                    "224%",
+                    "240%",
+                    "256%",
+                    "272%",
+                    "288%",
+                    "304%",
+                    "320%",
+                    "340%",
+                    "360%",
+                    "380%"
+                ],
+                "Dano Básico": [
+                    "121.6%",
+                    "130.72%",
+                    "139.84%",
+                    "152%",
+                    "161.12%",
+                    "170.24%",
+                    "182.4%",
+                    "194.56%",
+                    "206.72%",
+                    "218.88%",
+                    "231.04%",
+                    "243.2%",
+                    "258.4%",
+                    "273.6%",
+                    "288.8%"
+                ],
+                "Tempo de Recarga": [
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s"
+                ]
+            },
+            "name": "Invocadora da Maré"
+        },
+        "elementalskill": {
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 4 golpes consecutivos.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nDrena Stamina ao longo do tempo para realizar um ataque giratório contínuo contra todos os inimigos próximos.\\nAo final da sequência, realiza um corte poderoso.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nMergulha em pleno ar para golpear o chão, danificando inimigos em seu caminho e infligindo Dano em uma AdE durante o impacto.",
+            "icon": "Skill_A_04",
+            "multipliers": {
+                "Consumo de Stamina de Ataque Carregado": [
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s"
+                ],
+                "Dano Durante a Queda": [
+                    "74.59%",
+                    "80.66%",
+                    "86.73%",
+                    "95.4%",
+                    "101.47%",
+                    "108.41%",
+                    "117.95%",
+                    "127.49%",
+                    "137.03%",
+                    "147.44%",
+                    "157.85%",
+                    "168.26%",
+                    "178.66%",
+                    "189.07%",
+                    "199.48%"
+                ],
+                "Dano Final de Ataque Carregado": [
+                    "101.78%",
+                    "110.07%",
+                    "118.35%",
+                    "130.18%",
+                    "138.47%",
+                    "147.94%",
+                    "160.96%",
+                    "173.97%",
+                    "186.99%",
+                    "201.2%",
+                    "215.4%",
+                    "229.6%",
+                    "243.8%",
+                    "258%",
+                    "272.2%"
+                ],
+                "Dano de Loop de Ataque Carregado": [
+                    "56.29%",
+                    "60.87%",
+                    "65.45%",
+                    "71.99%",
+                    "76.57%",
+                    "81.81%",
+                    "89.01%",
+                    "96.21%",
+                    "103.41%",
+                    "111.26%",
+                    "119.12%",
+                    "126.97%",
+                    "134.82%",
+                    "142.68%",
+                    "150.53%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "149.14%/186.29%",
+                    "161.28%/201.45%",
+                    "173.42%/216.62%",
+                    "190.77%/238.28%",
+                    "202.91%/253.44%",
+                    "216.78%/270.77%",
+                    "235.86%/294.6%",
+                    "254.93%/318.42%",
+                    "274.01%/342.25%",
+                    "294.82%/368.25%",
+                    "315.63%/394.24%",
+                    "336.44%/420.23%",
+                    "357.25%/446.23%",
+                    "378.06%/472.22%",
+                    "398.87%/498.21%"
+                ],
+                "Dano do 1° Golpe": [
+                    "70%",
+                    "75.7%",
+                    "81.4%",
+                    "89.54%",
+                    "95.24%",
+                    "101.75%",
+                    "110.7%",
+                    "119.66%",
+                    "128.61%",
+                    "138.38%",
+                    "148.15%",
+                    "157.92%",
+                    "167.68%",
+                    "177.45%",
+                    "187.22%"
+                ],
+                "Dano do 2° Golpe": [
+                    "63.12%",
+                    "68.26%",
+                    "73.4%",
+                    "80.74%",
+                    "85.88%",
+                    "91.75%",
+                    "99.82%",
+                    "107.9%",
+                    "115.97%",
+                    "124.78%",
+                    "133.59%",
+                    "142.4%",
+                    "151.2%",
+                    "160.01%",
+                    "168.82%"
+                ],
+                "Dano do 3° Golpe": [
+                    "80.32%",
+                    "86.86%",
+                    "93.4%",
+                    "102.74%",
+                    "109.28%",
+                    "116.75%",
+                    "127.02%",
+                    "137.3%",
+                    "147.57%",
+                    "158.78%",
+                    "169.99%",
+                    "181.2%",
+                    "192.4%",
+                    "203.61%",
+                    "214.82%"
+                ],
+                "Dano do 4° golpe": [
+                    "101.22%",
+                    "109.46%",
+                    "117.7%",
+                    "129.47%",
+                    "137.71%",
+                    "147.13%",
+                    "160.07%",
+                    "173.02%",
+                    "185.97%",
+                    "200.09%",
+                    "214.21%",
+                    "228.34%",
+                    "242.46%",
+                    "256.59%",
+                    "270.71%"
+                ],
+                "Duração Máxima": [
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s"
+                ]
+            },
+            "name": "Desgraça dos Demônios"
+        },
+        "leveling": {
+            "books": {
+                "104316": 9,
+                "104317": 63,
+                "104318": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113005": 18
+            },
+            "worldmonster": {
+                "112035": 18,
+                "112036": 66,
+                "112037": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 5 golpes consecutivos.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nDrena Stamina ao longo do tempo para realizar cortes contínuos.\\nAo final da sequência, realiza um corte ainda mais poderoso.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nMergulha em pleno ar para golpear o chão, danificando inimigos em seu caminho e infligindo dano em uma AdE durante o impacto.",
+            "icon": "Skill_A_04",
+            "multipliers": {
+                "Consumo de Stamina de Ataque Carregado": [
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s"
+                ],
+                "Dano Durante a Queda": [
+                    "74.59%",
+                    "80.66%",
+                    "86.73%",
+                    "95.4%",
+                    "101.47%",
+                    "108.41%",
+                    "117.95%",
+                    "127.49%",
+                    "137.03%",
+                    "147.44%",
+                    "157.85%",
+                    "168.26%",
+                    "178.66%",
+                    "189.07%",
+                    "199.48%"
+                ],
+                "Dano Final de Ataque Carregado": [
+                    "101.82%",
+                    "110.11%",
+                    "118.4%",
+                    "130.24%",
+                    "138.53%",
+                    "148%",
+                    "161.02%",
+                    "174.05%",
+                    "187.07%",
+                    "201.28%",
+                    "217.56%",
+                    "236.71%",
+                    "255.85%",
+                    "275%",
+                    "295.88%"
+                ],
+                "Dano de Loop de Ataque Carregado": [
+                    "56.24%",
+                    "60.82%",
+                    "65.4%",
+                    "71.94%",
+                    "76.52%",
+                    "81.75%",
+                    "88.94%",
+                    "96.14%",
+                    "103.33%",
+                    "111.18%",
+                    "120.17%",
+                    "130.75%",
+                    "141.32%",
+                    "151.9%",
+                    "163.43%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "149.14%/186.29%",
+                    "161.28%/201.45%",
+                    "173.42%/216.62%",
+                    "190.77%/238.28%",
+                    "202.91%/253.44%",
+                    "216.78%/270.77%",
+                    "235.86%/294.6%",
+                    "254.93%/318.42%",
+                    "274.01%/342.25%",
+                    "294.82%/368.25%",
+                    "315.63%/394.24%",
+                    "336.44%/420.23%",
+                    "357.25%/446.23%",
+                    "378.06%/472.22%",
+                    "398.87%/498.21%"
+                ],
+                "Dano do 1° Golpe": [
+                    "71.12%",
+                    "76.91%",
+                    "82.7%",
+                    "90.97%",
+                    "96.76%",
+                    "103.38%",
+                    "112.47%",
+                    "121.57%",
+                    "130.67%",
+                    "140.59%",
+                    "151.96%",
+                    "165.33%",
+                    "178.71%",
+                    "192.08%",
+                    "206.67%"
+                ],
+                "Dano do 2° Golpe": [
+                    "70.86%",
+                    "76.63%",
+                    "82.4%",
+                    "90.64%",
+                    "96.41%",
+                    "103%",
+                    "112.06%",
+                    "121.13%",
+                    "130.19%",
+                    "140.08%",
+                    "151.41%",
+                    "164.73%",
+                    "178.06%",
+                    "191.38%",
+                    "205.92%"
+                ],
+                "Dano do 3° Golpe": [
+                    "88.32%",
+                    "95.51%",
+                    "102.7%",
+                    "112.97%",
+                    "120.16%",
+                    "128.38%",
+                    "139.67%",
+                    "150.97%",
+                    "162.27%",
+                    "174.59%",
+                    "188.71%",
+                    "205.32%",
+                    "221.92%",
+                    "238.53%",
+                    "256.65%"
+                ],
+                "Dano do 4° Golpe": [
+                    "86.52%",
+                    "93.56%",
+                    "100.6%",
+                    "110.66%",
+                    "117.7%",
+                    "125.75%",
+                    "136.82%",
+                    "147.88%",
+                    "158.95%",
+                    "171.02%",
+                    "184.85%",
+                    "201.12%",
+                    "217.39%",
+                    "233.65%",
+                    "251.4%"
+                ],
+                "Dano do 5° Golpe": [
+                    "112.14%",
+                    "121.27%",
+                    "130.4%",
+                    "143.44%",
+                    "152.57%",
+                    "163%",
+                    "177.34%",
+                    "191.69%",
+                    "206.03%",
+                    "221.68%",
+                    "239.61%",
+                    "260.7%",
+                    "281.78%",
+                    "302.87%",
+                    "325.87%"
+                ],
+                "Duração Máxima": [
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s"
+                ]
+            },
+            "name": "Conquista do Oceano"
+        }
+    }
+}

@@ -1,0 +1,1264 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104161": 1,
+            "104162": 9,
+            "104163": 9,
+            "104164": 6
+        },
+        "elitemonster": {
+            "113076": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101232": 168
+        },
+        "worldmonster": {
+            "112083": 18,
+            "112084": 30,
+            "112085": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "6 hits / 1.5s",
+            "icd_source": "Grp: Escoffier_ElementalArt (Tag Miss)",
+            "name": "ElementalArt",
+            "poise": "LV1/100"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "6 hits / 1.5s",
+            "icd_source": "Grp: Escoffier_ElementalArt (Tag Miss)",
+            "name": "Bullet_ElementalArt_Attacker_01",
+            "poise": "LV1/30"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "6 hits / 1.5s",
+            "icd_source": "Grp: Escoffier_ElementalArt (Tag Miss)",
+            "name": "Bullet_Constellation_Split",
+            "poise": "LV1/30"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "6 hits / 1.5s",
+            "icd_source": "Grp: Escoffier_ElementalArt (Tag Miss)",
+            "name": "Bullet_ElementalArt_Attacker_02",
+            "poise": "LV1/30"
+        },
+        {
+            "element": "Ice",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "SkillObj_Pneuma_Attack",
+            "poise": "LV3/20"
+        },
+        {
+            "element": "Ice",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV5/150"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/25"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "队伍中4名角色的元素类型均为<color=#80C0FFFF>水元素</color>或<color=#99FFFFFF>冰元素</color>时，爱可菲施放元素战技<color=#FFD780FF>{LINK#S11122}低温烹饪{/LINK}</color>或元素爆发<color=#FFD780FF>{LINK#S11125}花刀技法{/LINK}</color>后的15秒内，队伍中附近的所有角色造成<color=#99FFFFFF>冰元素伤害</color>时的暴击伤害提升60%。\\n需要解锁突破天赋「灵感浸入调味」。",
+            "icon": "UI_Talent_S_Escoffier_01",
+            "name": "味蕾绽放的餐前旋舞"
+        },
+        "const2": {
+            "description": "爱可菲以{LINK#N11120001}<color=#FFD780FF>低温冷藏模式</color>{/LINK}启动厨艺机关时，将获得「现制名肴」效果，持续15秒：持续期间，爱可菲获得5层「冷煮」，除爱可菲外的附近的当前场上角色普通攻击、重击、下落攻击、元素战技和元素爆发对敌人造成<color=#99FFFFFF>冰元素伤害</color>时，将消耗1层「冷煮」，提升造成的伤害，提升值相当于爱可菲攻击力的240%。\\n一次<color=#99FFFFFF>冰元素伤害</color>同时命中多名敌人时，会依据命中敌人的数量消耗「冷煮」的层数。",
+            "icon": "UI_Talent_S_Escoffier_02",
+            "name": "鲜香味腴的炖煮艺术"
+        },
+        "const3": {
+            "description": "元素战技<color=#FFD780FF>{LINK#S11122}低温烹饪{/LINK}</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Escoffier_01",
+            "name": "焦糖褐变的烘烤魔法"
+        },
+        "const4": {
+            "description": "{LINK#P1122101}<color=#FFD780FF>康复食疗</color>{/LINK}的持续时间延长6秒。持续期间，通过<color=#FFD780FF>康复食疗</color>触发治疗时，有几率使治疗量提升100%，并为爱可菲恢复2点元素能量，几率相当于爱可菲自己的暴击率。一次<color=#FFD780FF>康复食疗</color>持续期间，该效果至多触发7次。\\n需要解锁突破天赋「美食胜过良药」。",
+            "icon": "UI_Talent_S_Escoffier_03",
+            "name": "迷迭生香的配比秘方"
+        },
+        "const5": {
+            "description": "元素爆发<color=#FFD780FF>{LINK#S11125}花刀技法{/LINK}</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Escoffier_02",
+            "name": "千种酱汁的风味交响"
+        },
+        "const6": {
+            "description": "{LINK#N11120001}<color=#FFD780FF>厨艺机关·低温冷藏模式</color>{/LINK}获得强化：\\n·队伍中自己的当前场上角色的普通攻击、重击或下落攻击命中敌人时，厨艺机关·低温冷藏模式将发射一枚额外的特级冻霜芭菲，造成爱可菲500%攻击力的<color=#99FFFFFF>冰元素范围伤害</color>。该伤害视为元素战技伤害。\\n该效果每0.5秒至多触发一次，一次厨艺机关·低温冷藏模式持续期间，该效果至多触发6次。",
+            "icon": "UI_Talent_S_Escoffier_04",
+            "name": "虹彩缤纷的甜点茶话"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.3s",
+            "chance": "100%",
+            "particles": "4",
+            "source": "GenerateBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Escoffier",
+        "forward": "UI_AvatarIcon_Escoffier"
+    },
+    "info": {
+        "attributes": [
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 57,
+                "hp": 1039,
+                "level": 1
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 62,
+                "hp": 1125,
+                "level": 2
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 66,
+                "hp": 1212,
+                "level": 3
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 71,
+                "hp": 1299,
+                "level": 4
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 76,
+                "hp": 1385,
+                "level": 5
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 81,
+                "hp": 1472,
+                "level": 6
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 40,
+                "def": 85,
+                "hp": 1559,
+                "level": 7
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 43,
+                "def": 90,
+                "hp": 1646,
+                "level": 8
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 45,
+                "def": 95,
+                "hp": 1733,
+                "level": 9
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 47,
+                "def": 100,
+                "hp": 1819,
+                "level": 10
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 50,
+                "def": 105,
+                "hp": 1907,
+                "level": 11
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 52,
+                "def": 109,
+                "hp": 1994,
+                "level": 12
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 54,
+                "def": 114,
+                "hp": 2081,
+                "level": 13
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 56,
+                "def": 119,
+                "hp": 2170,
+                "level": 14
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 59,
+                "def": 124,
+                "hp": 2257,
+                "level": 15
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 61,
+                "def": 128,
+                "hp": 2344,
+                "level": 16
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 63,
+                "def": 133,
+                "hp": 2433,
+                "level": 17
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 65,
+                "def": 138,
+                "hp": 2520,
+                "level": 18
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 68,
+                "def": 143,
+                "hp": 2608,
+                "level": 19
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 70,
+                "def": 148,
+                "hp": 2695,
+                "level": 20
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 95,
+                "def": 201,
+                "hp": 3675,
+                "level": 21
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 98,
+                "def": 206,
+                "hp": 3763,
+                "level": 22
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 100,
+                "def": 211,
+                "hp": 3851,
+                "level": 23
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 102,
+                "def": 216,
+                "hp": 3940,
+                "level": 24
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 105,
+                "def": 221,
+                "hp": 4028,
+                "level": 25
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 107,
+                "def": 226,
+                "hp": 4117,
+                "level": 26
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 109,
+                "def": 231,
+                "hp": 4206,
+                "level": 27
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 112,
+                "def": 235,
+                "hp": 4294,
+                "level": 28
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 114,
+                "def": 240,
+                "hp": 4383,
+                "level": 29
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 116,
+                "def": 245,
+                "hp": 4472,
+                "level": 30
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 119,
+                "def": 250,
+                "hp": 4561,
+                "level": 31
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 121,
+                "def": 255,
+                "hp": 4650,
+                "level": 32
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 123,
+                "def": 260,
+                "hp": 4740,
+                "level": 33
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 125,
+                "def": 265,
+                "hp": 4828,
+                "level": 34
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 128,
+                "def": 270,
+                "hp": 4918,
+                "level": 35
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 130,
+                "def": 275,
+                "hp": 5008,
+                "level": 36
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 132,
+                "def": 279,
+                "hp": 5097,
+                "level": 37
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 135,
+                "def": 284,
+                "hp": 5187,
+                "level": 38
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 137,
+                "def": 289,
+                "hp": 5276,
+                "level": 39
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 139,
+                "def": 294,
+                "hp": 5366,
+                "level": 40
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 158,
+                "def": 334,
+                "hp": 6089,
+                "level": 41
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 161,
+                "def": 339,
+                "hp": 6179,
+                "level": 42
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 163,
+                "def": 344,
+                "hp": 6270,
+                "level": 43
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 165,
+                "def": 349,
+                "hp": 6359,
+                "level": 44
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 168,
+                "def": 354,
+                "hp": 6449,
+                "level": 45
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 170,
+                "def": 358,
+                "hp": 6540,
+                "level": 46
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 172,
+                "def": 363,
+                "hp": 6630,
+                "level": 47
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 175,
+                "def": 368,
+                "hp": 6721,
+                "level": 48
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 177,
+                "def": 373,
+                "hp": 6812,
+                "level": 49
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 179,
+                "def": 378,
+                "hp": 6902,
+                "level": 50
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 204,
+                "def": 430,
+                "hp": 7837,
+                "level": 51
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 206,
+                "def": 435,
+                "hp": 7928,
+                "level": 52
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 208,
+                "def": 440,
+                "hp": 8019,
+                "level": 53
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 211,
+                "def": 445,
+                "hp": 8110,
+                "level": 54
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 213,
+                "def": 450,
+                "hp": 8202,
+                "level": 55
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 215,
+                "def": 455,
+                "hp": 8293,
+                "level": 56
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 218,
+                "def": 460,
+                "hp": 8385,
+                "level": 57
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 220,
+                "def": 465,
+                "hp": 8476,
+                "level": 58
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 223,
+                "def": 470,
+                "hp": 8567,
+                "level": 59
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 225,
+                "def": 475,
+                "hp": 8659,
+                "level": 60
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 244,
+                "def": 514,
+                "hp": 9383,
+                "level": 61
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 246,
+                "def": 519,
+                "hp": 9475,
+                "level": 62
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 249,
+                "def": 524,
+                "hp": 9567,
+                "level": 63
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 251,
+                "def": 529,
+                "hp": 9659,
+                "level": 64
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 253,
+                "def": 535,
+                "hp": 9751,
+                "level": 65
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 256,
+                "def": 540,
+                "hp": 9844,
+                "level": 66
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 258,
+                "def": 545,
+                "hp": 9935,
+                "level": 67
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 261,
+                "def": 550,
+                "hp": 10028,
+                "level": 68
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 263,
+                "def": 555,
+                "hp": 10120,
+                "level": 69
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 265,
+                "def": 560,
+                "hp": 10213,
+                "level": 70
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 284,
+                "def": 600,
+                "hp": 10938,
+                "level": 71
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 287,
+                "def": 605,
+                "hp": 11032,
+                "level": 72
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 289,
+                "def": 610,
+                "hp": 11124,
+                "level": 73
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 291,
+                "def": 615,
+                "hp": 11217,
+                "level": 74
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 294,
+                "def": 620,
+                "hp": 11310,
+                "level": 75
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 296,
+                "def": 625,
+                "hp": 11403,
+                "level": 76
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 299,
+                "def": 630,
+                "hp": 11496,
+                "level": 77
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 301,
+                "def": 635,
+                "hp": 11590,
+                "level": 78
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 304,
+                "def": 640,
+                "hp": 11683,
+                "level": 79
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 306,
+                "def": 646,
+                "hp": 11777,
+                "level": 80
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 325,
+                "def": 685,
+                "hp": 12503,
+                "level": 81
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 327,
+                "def": 690,
+                "hp": 12597,
+                "level": 82
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 330,
+                "def": 696,
+                "hp": 12690,
+                "level": 83
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 332,
+                "def": 701,
+                "hp": 12784,
+                "level": 84
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 335,
+                "def": 706,
+                "hp": 12877,
+                "level": 85
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 337,
+                "def": 711,
+                "hp": 12972,
+                "level": 86
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 339,
+                "def": 716,
+                "hp": 13065,
+                "level": 87
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 342,
+                "def": 721,
+                "hp": 13160,
+                "level": 88
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 344,
+                "def": 727,
+                "hp": 13255,
+                "level": 89
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 347,
+                "def": 732,
+                "hp": 13348,
+                "level": 90
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 386,
+                "def": 758,
+                "hp": 13822,
+                "level": 95
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 425,
+                "def": 784,
+                "hp": 14297,
+                "level": 100
+            }
+        ],
+        "birthday": "June 8th",
+        "constellation": "香糕塔座",
+        "description": "闻名枫丹的前德波大饭店主厨，有着「甜点大校」荣誉的「技术料理」先驱，对烹饪的要求无比严格。",
+        "element": "Cryo",
+        "name": "爱可菲",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_POLE"
+    },
+    "passives": {
+        "p1": {
+            "description": "施放元素爆发<color=#FFD780FF>{LINK#S11125}花刀技法{/LINK}</color>后，爱可菲将获得「康复食疗」效果，持续9秒：每1秒为附近的当前场上角色恢复生命值，回复值受益于爱可菲自己攻击力的138.24%。",
+            "icon": "UI_Talent_S_Escoffier_05",
+            "name": "美食胜过良药"
+        },
+        "p2": {
+            "description": "当队伍中存在1/2/3/4名<color=#80C0FFFF>水元素</color>或<color=#99FFFFFF>冰元素</color>角色时，爱可菲的元素战技<color=#FFD780FF>{LINK#S11122}低温烹饪{/LINK}</color>或元素爆发<color=#FFD780FF>{LINK#S11125}花刀技法{/LINK}</color>命中敌人时，将使该敌人的<color=#80C0FFFF>水元素抗性</color>与<color=#99FFFFFF>冰元素抗性</color>降低5%/10%/15%/55%，持续12秒。",
+            "icon": "UI_Talent_S_Escoffier_06",
+            "name": "灵感浸入调味"
+        },
+        "p3": {
+            "description": "#长按施放元素战技<color=#FFD780FF>{LINK#S11122}低温烹饪{/LINK}</color>时，将以「即兴烹饪」模式启动全频谱多重任务厨艺机关。\\n\\n<color=#FFD780FF>厨艺机关·即兴烹饪模式</color>\\n·在场上放置厨艺机关。厨艺机关可以吸收元素攻击。吸收的元素能量达到临界值时，将使爱可菲事先放入其中的食材转化为美食。\\n·爱可菲需要时间采购新的食材，每周只能通过这种方式制作一定数量的料理。制作料理的次数每周一凌晨4点重置。{TIMEZONE}",
+            "icon": "UI_Talent_S_Escoffier_08",
+            "name": "时时刻刻的即兴料理"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "展现极致的刀工，造成<color=#99FFFFFF>冰元素范围伤害</color>，并为队伍中附近的所有角色恢复生命值，回复量受益于爱可菲的攻击力。",
+            "icon": "Skill_E_Escoffier_01",
+            "multipliers": {
+                "元素能量": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "冷却时间": [
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒"
+                ],
+                "技能伤害": [
+                    "592.8%",
+                    "637.26%",
+                    "681.72%",
+                    "741%",
+                    "785.46%",
+                    "829.92%",
+                    "889.2%",
+                    "948.48%",
+                    "1007.76%",
+                    "1067.04%",
+                    "1126.32%",
+                    "1185.6%",
+                    "1259.7%",
+                    "1333.8%",
+                    "1407.9%"
+                ],
+                "治疗量": [
+                    "172.03%攻击力+1079",
+                    "184.93%攻击力+1186",
+                    "197.84%攻击力+1303",
+                    "215.04%攻击力+1429",
+                    "227.94%攻击力+1564",
+                    "240.84%攻击力+1708",
+                    "258.05%攻击力+1861",
+                    "275.25%攻击力+2022",
+                    "292.45%攻击力+2193",
+                    "309.66%攻击力+2373",
+                    "326.86%攻击力+2562",
+                    "344.06%攻击力+2759",
+                    "365.57%攻击力+2966",
+                    "387.07%攻击力+3182",
+                    "408.58%攻击力+3407"
+                ]
+            },
+            "name": "花刀技法"
+        },
+        "elementalskill": {
+            "description": "敬请见证「料理」的真意！依据点按、长按，以不同的方式展现枫丹引以为傲的厨艺。\\n\\n<color=#FFD780FF>点按</color>\\n以「低温冷藏」模式启动全频谱多重任务厨艺机关，对周围的敌人造成<color=#99FFFFFF>冰元素范围伤害</color>。\\n\\n<color=#FFD780FF>厨艺机关·低温冷藏模式</color>\\n将跟随当前场上角色，并将间歇性对附近的敌人发射「冻霜芭菲」，造成<color=#99FFFFFF>冰元素伤害</color>。\\n\\n<color=#FFD780FF>始基力：荒性</color>\\n每隔一段时间，爱可菲以「低温冷藏」模式启动厨艺机关时，将唤出流涌之刃，造成具有荒性的<color=#99FFFFFF>冰元素范围伤害</color>。\\n\\n<color=#FFD780FF>长按</color>\\n以{LINK#N11120002}<color=#FFD780FF>即兴烹饪模式</color>{/LINK}启动全频谱多重任务厨艺机关。",
+            "icon": "Skill_S_Escoffier_01",
+            "multipliers": {
+                "低温冷藏模式持续时间": [
+                    "20秒",
+                    "20秒",
+                    "20秒",
+                    "20秒",
+                    "20秒",
+                    "20秒",
+                    "20秒",
+                    "20秒",
+                    "20秒",
+                    "20秒",
+                    "20秒",
+                    "20秒",
+                    "20秒",
+                    "20秒",
+                    "20秒"
+                ],
+                "冻霜芭菲伤害": [
+                    "120%",
+                    "129%",
+                    "138%",
+                    "150%",
+                    "159%",
+                    "168%",
+                    "180%",
+                    "192%",
+                    "204%",
+                    "216%",
+                    "228%",
+                    "240%",
+                    "255%",
+                    "270%",
+                    "285%"
+                ],
+                "技能伤害": [
+                    "50.4%",
+                    "54.18%",
+                    "57.96%",
+                    "63%",
+                    "66.78%",
+                    "70.56%",
+                    "75.6%",
+                    "80.64%",
+                    "85.68%",
+                    "90.72%",
+                    "95.76%",
+                    "100.8%",
+                    "107.1%",
+                    "113.4%",
+                    "119.7%"
+                ],
+                "流涌之刃伤害": [
+                    "33.6%",
+                    "36.12%",
+                    "38.64%",
+                    "42%",
+                    "44.52%",
+                    "47.04%",
+                    "50.4%",
+                    "53.76%",
+                    "57.12%",
+                    "60.48%",
+                    "63.84%",
+                    "67.2%",
+                    "71.4%",
+                    "75.6%",
+                    "79.8%"
+                ],
+                "流涌之刃冷却间隔": [
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒"
+                ],
+                "点按冷却时间": [
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒"
+                ],
+                "长按冷却时间": [
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒",
+                    "6秒"
+                ]
+            },
+            "name": "低温烹饪"
+        },
+        "leveling": {
+            "books": {
+                "104341": 9,
+                "104342": 63,
+                "104343": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113068": 18
+            },
+            "worldmonster": {
+                "112083": 18,
+                "112084": 66,
+                "112085": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>普通攻击</color>\\n进行至多三段的连续枪击。\\n\\n<color=#FFD780FF>重击</color>\\n消耗一定体力，进行上挑攻击。\\n\\n<color=#FFD780FF>下落攻击</color>\\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+            "icon": "Skill_A_03",
+            "multipliers": {
+                "一段伤害": [
+                    "51.55%",
+                    "55.75%",
+                    "59.94%",
+                    "65.94%",
+                    "70.13%",
+                    "74.93%",
+                    "81.52%",
+                    "88.12%",
+                    "94.71%",
+                    "101.9%",
+                    "109.1%",
+                    "116.29%",
+                    "123.48%",
+                    "130.68%",
+                    "137.87%"
+                ],
+                "三段伤害": [
+                    "33%+40.33%",
+                    "35.69%+43.62%",
+                    "38.37%+46.9%",
+                    "42.21%+51.59%",
+                    "44.89%+54.87%",
+                    "47.96%+58.62%",
+                    "52.19%+63.78%",
+                    "56.41%+68.94%",
+                    "60.63%+74.1%",
+                    "65.23%+79.73%",
+                    "69.84%+85.36%",
+                    "74.44%+90.98%",
+                    "79.05%+96.61%",
+                    "83.65%+102.24%",
+                    "88.25%+107.87%"
+                ],
+                "下坠期间伤害": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ],
+                "二段伤害": [
+                    "47.59%",
+                    "51.47%",
+                    "55.34%",
+                    "60.88%",
+                    "64.75%",
+                    "69.18%",
+                    "75.26%",
+                    "81.35%",
+                    "87.44%",
+                    "94.08%",
+                    "100.72%",
+                    "107.36%",
+                    "114%",
+                    "120.64%",
+                    "127.28%"
+                ],
+                "低空/高空坠地冲击伤害": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "重击伤害": [
+                    "115.41%",
+                    "124.81%",
+                    "134.2%",
+                    "147.62%",
+                    "157.01%",
+                    "167.75%",
+                    "182.51%",
+                    "197.27%",
+                    "212.04%",
+                    "228.14%",
+                    "244.24%",
+                    "260.35%",
+                    "276.45%",
+                    "292.56%",
+                    "308.66%"
+                ],
+                "重击体力消耗": [
+                    "25点",
+                    "25点",
+                    "25点",
+                    "25点",
+                    "25点",
+                    "25点",
+                    "25点",
+                    "25点",
+                    "25点",
+                    "25点",
+                    "25点",
+                    "25点",
+                    "25点",
+                    "25点",
+                    "25点"
+                ]
+            },
+            "name": "后厨手艺"
+        }
+    }
+}

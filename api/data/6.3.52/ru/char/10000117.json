@@ -1,0 +1,782 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        }
+    },
+    "attacks": [],
+    "constellations": null,
+    "energy": [],
+    "icons": {
+        "coop_img": "UI_CoopImg_MannequinBoy",
+        "forward": "UI_AvatarIcon_MannequinBoy"
+    },
+    "info": {
+        "attributes": [
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 18,
+                "def": 57,
+                "hp": 912,
+                "level": 1
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 62,
+                "hp": 987,
+                "level": 2
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 67,
+                "hp": 1062,
+                "level": 3
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 71,
+                "hp": 1138,
+                "level": 4
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 76,
+                "hp": 1213,
+                "level": 5
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 81,
+                "hp": 1288,
+                "level": 6
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 86,
+                "hp": 1363,
+                "level": 7
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 90,
+                "hp": 1439,
+                "level": 8
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 95,
+                "hp": 1514,
+                "level": 9
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 100,
+                "hp": 1589,
+                "level": 10
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 104,
+                "hp": 1665,
+                "level": 11
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 109,
+                "hp": 1740,
+                "level": 12
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 114,
+                "hp": 1815,
+                "level": 13
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 119,
+                "hp": 1890,
+                "level": 14
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 123,
+                "hp": 1966,
+                "level": 15
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 40,
+                "def": 128,
+                "hp": 2042,
+                "level": 16
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 133,
+                "hp": 2116,
+                "level": 17
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 43,
+                "def": 138,
+                "hp": 2192,
+                "level": 18
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 142,
+                "hp": 2267,
+                "level": 19
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 46,
+                "def": 147,
+                "hp": 2342,
+                "level": 20
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 61,
+                "def": 194,
+                "hp": 3098,
+                "level": 21
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 62,
+                "def": 199,
+                "hp": 3174,
+                "level": 22
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 63,
+                "def": 204,
+                "hp": 3250,
+                "level": 23
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 65,
+                "def": 209,
+                "hp": 3324,
+                "level": 24
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 66,
+                "def": 213,
+                "hp": 3400,
+                "level": 25
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 68,
+                "def": 218,
+                "hp": 3475,
+                "level": 26
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 69,
+                "def": 223,
+                "hp": 3551,
+                "level": 27
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 228,
+                "hp": 3625,
+                "level": 28
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 72,
+                "def": 232,
+                "hp": 3701,
+                "level": 29
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 74,
+                "def": 237,
+                "hp": 3776,
+                "level": 30
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 75,
+                "def": 242,
+                "hp": 3851,
+                "level": 31
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 77,
+                "def": 246,
+                "hp": 3927,
+                "level": 32
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 78,
+                "def": 251,
+                "hp": 4002,
+                "level": 33
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 80,
+                "def": 256,
+                "hp": 4078,
+                "level": 34
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 81,
+                "def": 261,
+                "hp": 4152,
+                "level": 35
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 83,
+                "def": 265,
+                "hp": 4228,
+                "level": 36
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 84,
+                "def": 270,
+                "hp": 4303,
+                "level": 37
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 86,
+                "def": 275,
+                "hp": 4378,
+                "level": 38
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 87,
+                "def": 280,
+                "hp": 4454,
+                "level": 39
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 88,
+                "def": 284,
+                "hp": 4529,
+                "level": 40
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 99,
+                "def": 319,
+                "hp": 5089,
+                "level": 41
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 101,
+                "def": 324,
+                "hp": 5163,
+                "level": 42
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 102,
+                "def": 329,
+                "hp": 5239,
+                "level": 43
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 104,
+                "def": 333,
+                "hp": 5314,
+                "level": 44
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 105,
+                "def": 338,
+                "hp": 5389,
+                "level": 45
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 107,
+                "def": 343,
+                "hp": 5465,
+                "level": 46
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 108,
+                "def": 348,
+                "hp": 5540,
+                "level": 47
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 110,
+                "def": 352,
+                "hp": 5616,
+                "level": 48
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 111,
+                "def": 357,
+                "hp": 5690,
+                "level": 49
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 113,
+                "def": 362,
+                "hp": 5766,
+                "level": 50
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 127,
+                "def": 407,
+                "hp": 6486,
+                "level": 51
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 128,
+                "def": 412,
+                "hp": 6562,
+                "level": 52
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 130,
+                "def": 417,
+                "hp": 6637,
+                "level": 53
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 131,
+                "def": 421,
+                "hp": 6712,
+                "level": 54
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 133,
+                "def": 426,
+                "hp": 6788,
+                "level": 55
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 134,
+                "def": 431,
+                "hp": 6863,
+                "level": 56
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 136,
+                "def": 435,
+                "hp": 6938,
+                "level": 57
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 137,
+                "def": 440,
+                "hp": 7013,
+                "level": 58
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 138,
+                "def": 445,
+                "hp": 7089,
+                "level": 59
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 140,
+                "def": 450,
+                "hp": 7164,
+                "level": 60
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 151,
+                "def": 485,
+                "hp": 7723,
+                "level": 61
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 152,
+                "def": 489,
+                "hp": 7799,
+                "level": 62
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 154,
+                "def": 494,
+                "hp": 7874,
+                "level": 63
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 155,
+                "def": 499,
+                "hp": 7949,
+                "level": 64
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 157,
+                "def": 504,
+                "hp": 8024,
+                "level": 65
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 158,
+                "def": 508,
+                "hp": 8100,
+                "level": 66
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 160,
+                "def": 513,
+                "hp": 8175,
+                "level": 67
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 161,
+                "def": 518,
+                "hp": 8250,
+                "level": 68
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 163,
+                "def": 523,
+                "hp": 8326,
+                "level": 69
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 164,
+                "def": 527,
+                "hp": 8401,
+                "level": 70
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 175,
+                "def": 562,
+                "hp": 8960,
+                "level": 71
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 176,
+                "def": 567,
+                "hp": 9035,
+                "level": 72
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 178,
+                "def": 572,
+                "hp": 9111,
+                "level": 73
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 179,
+                "def": 577,
+                "hp": 9186,
+                "level": 74
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 181,
+                "def": 581,
+                "hp": 9261,
+                "level": 75
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 182,
+                "def": 586,
+                "hp": 9337,
+                "level": 76
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 184,
+                "def": 591,
+                "hp": 9412,
+                "level": 77
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 185,
+                "def": 595,
+                "hp": 9487,
+                "level": 78
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 187,
+                "def": 600,
+                "hp": 9562,
+                "level": 79
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 188,
+                "def": 605,
+                "hp": 9638,
+                "level": 80
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 199,
+                "def": 640,
+                "hp": 10197,
+                "level": 81
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 201,
+                "def": 645,
+                "hp": 10272,
+                "level": 82
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 202,
+                "def": 649,
+                "hp": 10348,
+                "level": 83
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 204,
+                "def": 654,
+                "hp": 10423,
+                "level": 84
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 205,
+                "def": 659,
+                "hp": 10498,
+                "level": 85
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 207,
+                "def": 664,
+                "hp": 10573,
+                "level": 86
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 208,
+                "def": 668,
+                "hp": 10649,
+                "level": 87
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 209,
+                "def": 673,
+                "hp": 10724,
+                "level": 88
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 211,
+                "def": 678,
+                "hp": 10799,
+                "level": 89
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 212,
+                "def": 683,
+                "hp": 10875,
+                "level": 90
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 239,
+                "def": 706,
+                "hp": 11251,
+                "level": 95
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 267,
+                "def": 730,
+                "hp": 11627,
+                "level": 100
+            }
+        ],
+        "birthday": "",
+        "constellation": "——",
+        "description": "Манекен, подаренный вам с Паймон ведьмой под псевдонимом «Октавия». Наделён талантом исследовать тайны, заключённые в Астральном пределе.",
+        "element": "",
+        "name": "Манекен (м)",
+        "rarity": "QUALITY_ORANGE_SP",
+        "weapon": "WEAPON_SWORD_ONE_HAND"
+    },
+    "passives": {
+        "p1": {
+            "description": "Когда Манекен покидает поле боя, если созданная им Запретная зона всё ещё активна, то она взрывается, нанося урон по площади элементом Манекена, равный 200% от его силы атаки.",
+            "icon": "UI_Talent_S_LittleIdol_05",
+            "name": "Корректировка линий фронта"
+        },
+        "p2": {
+            "description": "Когда Манекен вне поля боя, а его энергия ниже 30%, он восстанавливает себе 2 ед. энергии каждую секунду.",
+            "icon": "UI_Talent_S_LittleIdol_06",
+            "name": "Боеготовность"
+        },
+        "p3": {
+            "description": "Когда Манекен использует элементальный навык или взрыв стихии, его образ сменяется на случайную существующую конфигурацию.",
+            "icon": "UI_Talent_S_LittleIdol_07",
+            "name": "Пируэт перевоплощений"
+        },
+        "p4": ""
+    },
+    "skills": null
+}

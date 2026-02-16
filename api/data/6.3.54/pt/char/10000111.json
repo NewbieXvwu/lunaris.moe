@@ -1,0 +1,1490 @@
+{
+    "info": {
+        "name": "Varesa",
+        "description": "Uma guerreira e também dona de um pomar no relaxado e tranquilo Coletivo da Fartura, que adora heróis poderosos e um monte de comida!",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_CATALYST",
+        "birthday": "November 15th",
+        "element": "Electro",
+        "constellation": "Mascara Luctatori",
+        "attributes": [
+            {
+                "level": 1,
+                "ascension": 0,
+                "hp": 989,
+                "atk": 28,
+                "def": 61,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 2,
+                "ascension": 0,
+                "hp": 1071,
+                "atk": 30,
+                "def": 66,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 3,
+                "ascension": 0,
+                "hp": 1153,
+                "atk": 32,
+                "def": 71,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 4,
+                "ascension": 0,
+                "hp": 1236,
+                "atk": 35,
+                "def": 76,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 5,
+                "ascension": 0,
+                "hp": 1318,
+                "atk": 37,
+                "def": 81,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 6,
+                "ascension": 0,
+                "hp": 1401,
+                "atk": 39,
+                "def": 86,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 7,
+                "ascension": 0,
+                "hp": 1483,
+                "atk": 42,
+                "def": 91,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 8,
+                "ascension": 0,
+                "hp": 1566,
+                "atk": 44,
+                "def": 96,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 9,
+                "ascension": 0,
+                "hp": 1649,
+                "atk": 46,
+                "def": 101,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 10,
+                "ascension": 0,
+                "hp": 1731,
+                "atk": 49,
+                "def": 107,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 11,
+                "ascension": 0,
+                "hp": 1814,
+                "atk": 51,
+                "def": 112,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 12,
+                "ascension": 0,
+                "hp": 1897,
+                "atk": 53,
+                "def": 117,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 13,
+                "ascension": 0,
+                "hp": 1980,
+                "atk": 56,
+                "def": 122,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 14,
+                "ascension": 0,
+                "hp": 2064,
+                "atk": 58,
+                "def": 127,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 15,
+                "ascension": 0,
+                "hp": 2147,
+                "atk": 60,
+                "def": 132,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 16,
+                "ascension": 0,
+                "hp": 2230,
+                "atk": 63,
+                "def": 137,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 17,
+                "ascension": 0,
+                "hp": 2314,
+                "atk": 65,
+                "def": 142,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 18,
+                "ascension": 0,
+                "hp": 2397,
+                "atk": 67,
+                "def": 148,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 19,
+                "ascension": 0,
+                "hp": 2481,
+                "atk": 70,
+                "def": 153,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 20,
+                "ascension": 0,
+                "hp": 2564,
+                "atk": 72,
+                "def": 158,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 21,
+                "ascension": 1,
+                "hp": 3496,
+                "atk": 98,
+                "def": 215,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 22,
+                "ascension": 1,
+                "hp": 3580,
+                "atk": 100,
+                "def": 220,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 23,
+                "ascension": 1,
+                "hp": 3664,
+                "atk": 103,
+                "def": 226,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 24,
+                "ascension": 1,
+                "hp": 3748,
+                "atk": 105,
+                "def": 231,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 25,
+                "ascension": 1,
+                "hp": 3832,
+                "atk": 108,
+                "def": 236,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 26,
+                "ascension": 1,
+                "hp": 3917,
+                "atk": 110,
+                "def": 241,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 27,
+                "ascension": 1,
+                "hp": 4001,
+                "atk": 112,
+                "def": 246,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 28,
+                "ascension": 1,
+                "hp": 4085,
+                "atk": 115,
+                "def": 251,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 29,
+                "ascension": 1,
+                "hp": 4170,
+                "atk": 117,
+                "def": 257,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 30,
+                "ascension": 1,
+                "hp": 4254,
+                "atk": 119,
+                "def": 262,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 31,
+                "ascension": 1,
+                "hp": 4339,
+                "atk": 122,
+                "def": 267,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 32,
+                "ascension": 1,
+                "hp": 4424,
+                "atk": 124,
+                "def": 272,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 33,
+                "ascension": 1,
+                "hp": 4509,
+                "atk": 127,
+                "def": 278,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 34,
+                "ascension": 1,
+                "hp": 4593,
+                "atk": 129,
+                "def": 283,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 35,
+                "ascension": 1,
+                "hp": 4678,
+                "atk": 131,
+                "def": 288,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 36,
+                "ascension": 1,
+                "hp": 4764,
+                "atk": 134,
+                "def": 293,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 37,
+                "ascension": 1,
+                "hp": 4849,
+                "atk": 136,
+                "def": 298,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 38,
+                "ascension": 1,
+                "hp": 4934,
+                "atk": 138,
+                "def": 304,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 39,
+                "ascension": 1,
+                "hp": 5019,
+                "atk": 141,
+                "def": 309,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 40,
+                "ascension": 1,
+                "hp": 5105,
+                "atk": 143,
+                "def": 314,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 41,
+                "ascension": 2,
+                "hp": 5793,
+                "atk": 163,
+                "def": 357,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 42,
+                "ascension": 2,
+                "hp": 5879,
+                "atk": 165,
+                "def": 362,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 43,
+                "ascension": 2,
+                "hp": 5965,
+                "atk": 167,
+                "def": 367,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 44,
+                "ascension": 2,
+                "hp": 6050,
+                "atk": 170,
+                "def": 372,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 45,
+                "ascension": 2,
+                "hp": 6136,
+                "atk": 172,
+                "def": 378,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 46,
+                "ascension": 2,
+                "hp": 6222,
+                "atk": 175,
+                "def": 383,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 47,
+                "ascension": 2,
+                "hp": 6308,
+                "atk": 177,
+                "def": 388,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 48,
+                "ascension": 2,
+                "hp": 6394,
+                "atk": 179,
+                "def": 394,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 49,
+                "ascension": 2,
+                "hp": 6481,
+                "atk": 182,
+                "def": 399,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 50,
+                "ascension": 2,
+                "hp": 6567,
+                "atk": 184,
+                "def": 404,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 51,
+                "ascension": 3,
+                "hp": 7456,
+                "atk": 209,
+                "def": 459,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 52,
+                "ascension": 3,
+                "hp": 7543,
+                "atk": 212,
+                "def": 464,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 53,
+                "ascension": 3,
+                "hp": 7629,
+                "atk": 214,
+                "def": 470,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 54,
+                "ascension": 3,
+                "hp": 7716,
+                "atk": 217,
+                "def": 475,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 55,
+                "ascension": 3,
+                "hp": 7803,
+                "atk": 219,
+                "def": 480,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 56,
+                "ascension": 3,
+                "hp": 7890,
+                "atk": 221,
+                "def": 486,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 57,
+                "ascension": 3,
+                "hp": 7977,
+                "atk": 224,
+                "def": 491,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 58,
+                "ascension": 3,
+                "hp": 8064,
+                "atk": 226,
+                "def": 496,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 59,
+                "ascension": 3,
+                "hp": 8151,
+                "atk": 229,
+                "def": 502,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 60,
+                "ascension": 3,
+                "hp": 8238,
+                "atk": 231,
+                "def": 507,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 61,
+                "ascension": 4,
+                "hp": 8927,
+                "atk": 251,
+                "def": 549,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 62,
+                "ascension": 4,
+                "hp": 9014,
+                "atk": 253,
+                "def": 555,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 63,
+                "ascension": 4,
+                "hp": 9102,
+                "atk": 255,
+                "def": 560,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 64,
+                "ascension": 4,
+                "hp": 9189,
+                "atk": 258,
+                "def": 566,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 65,
+                "ascension": 4,
+                "hp": 9277,
+                "atk": 260,
+                "def": 571,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 66,
+                "ascension": 4,
+                "hp": 9365,
+                "atk": 263,
+                "def": 576,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 67,
+                "ascension": 4,
+                "hp": 9452,
+                "atk": 265,
+                "def": 582,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 68,
+                "ascension": 4,
+                "hp": 9540,
+                "atk": 268,
+                "def": 587,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 69,
+                "ascension": 4,
+                "hp": 9628,
+                "atk": 270,
+                "def": 593,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 70,
+                "ascension": 4,
+                "hp": 9716,
+                "atk": 273,
+                "def": 598,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 71,
+                "ascension": 5,
+                "hp": 10406,
+                "atk": 292,
+                "def": 641,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 72,
+                "ascension": 5,
+                "hp": 10495,
+                "atk": 295,
+                "def": 646,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 73,
+                "ascension": 5,
+                "hp": 10583,
+                "atk": 297,
+                "def": 651,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 74,
+                "ascension": 5,
+                "hp": 10671,
+                "atk": 299,
+                "def": 657,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 75,
+                "ascension": 5,
+                "hp": 10760,
+                "atk": 302,
+                "def": 662,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 76,
+                "ascension": 5,
+                "hp": 10848,
+                "atk": 304,
+                "def": 668,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 77,
+                "ascension": 5,
+                "hp": 10937,
+                "atk": 307,
+                "def": 673,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 78,
+                "ascension": 5,
+                "hp": 11026,
+                "atk": 309,
+                "def": 679,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 79,
+                "ascension": 5,
+                "hp": 11115,
+                "atk": 312,
+                "def": 684,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 80,
+                "ascension": 5,
+                "hp": 11204,
+                "atk": 314,
+                "def": 690,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 81,
+                "ascension": 6,
+                "hp": 11895,
+                "atk": 334,
+                "def": 732,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 82,
+                "ascension": 6,
+                "hp": 11984,
+                "atk": 336,
+                "def": 738,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 83,
+                "ascension": 6,
+                "hp": 12073,
+                "atk": 339,
+                "def": 743,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 84,
+                "ascension": 6,
+                "hp": 12162,
+                "atk": 341,
+                "def": 749,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 85,
+                "ascension": 6,
+                "hp": 12251,
+                "atk": 344,
+                "def": 754,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 86,
+                "ascension": 6,
+                "hp": 12341,
+                "atk": 346,
+                "def": 760,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 87,
+                "ascension": 6,
+                "hp": 12430,
+                "atk": 349,
+                "def": 765,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 88,
+                "ascension": 6,
+                "hp": 12520,
+                "atk": 351,
+                "def": 771,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 89,
+                "ascension": 6,
+                "hp": 12610,
+                "atk": 354,
+                "def": 776,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 90,
+                "ascension": 6,
+                "hp": 12699,
+                "atk": 356,
+                "def": 782,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 95,
+                "ascension": 6,
+                "hp": 13150,
+                "atk": 396,
+                "def": 809,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 100,
+                "ascension": 6,
+                "hp": 13602,
+                "atk": 437,
+                "def": 837,
+                "CRIT Rate%": "19.2"
+            }
+        ]
+    },
+    "icons": {
+        "forward": "UI_AvatarIcon_Varesa",
+        "coop_img": "UI_CoopImg_Varesa"
+    },
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101254": 168
+        },
+        "elemental": {
+            "104141": 1,
+            "104142": 9,
+            "104143": 9,
+            "104144": 6
+        },
+        "worldmonster": {
+            "112101": 18,
+            "112102": 30,
+            "112103": 36
+        },
+        "elitemonster": {
+            "113072": 46
+        }
+    },
+    "skills": {
+        "normalattack": {
+            "name": "Chifres Poderosos",
+            "icon": "Skill_A_Catalyst_MD",
+            "multipliers": {
+                "Dano do 1° Golpe": [
+                    "46.78%",
+                    "50.29%",
+                    "53.8%",
+                    "58.47%",
+                    "61.98%",
+                    "65.49%",
+                    "70.17%",
+                    "74.85%",
+                    "79.52%",
+                    "84.2%",
+                    "88.88%",
+                    "93.56%",
+                    "99.4%",
+                    "105.25%",
+                    "111.1%"
+                ],
+                "Dano do 2° Golpe": [
+                    "40.03%",
+                    "43.03%",
+                    "46.03%",
+                    "50.03%",
+                    "53.04%",
+                    "56.04%",
+                    "60.04%",
+                    "64.04%",
+                    "68.05%",
+                    "72.05%",
+                    "76.05%",
+                    "80.06%",
+                    "85.06%",
+                    "90.06%",
+                    "95.07%"
+                ],
+                "Dano do 3° Golpe": [
+                    "56.31%",
+                    "60.54%",
+                    "64.76%",
+                    "70.39%",
+                    "74.61%",
+                    "78.84%",
+                    "84.47%",
+                    "90.1%",
+                    "95.73%",
+                    "101.36%",
+                    "106.99%",
+                    "112.63%",
+                    "119.66%",
+                    "126.7%",
+                    "133.74%"
+                ],
+                "Dano de Ataque Carregado": [
+                    "89.28%",
+                    "95.98%",
+                    "102.67%",
+                    "111.6%",
+                    "118.3%",
+                    "124.99%",
+                    "133.92%",
+                    "142.85%",
+                    "151.78%",
+                    "160.7%",
+                    "169.63%",
+                    "178.56%",
+                    "189.72%",
+                    "200.88%",
+                    "212.04%"
+                ],
+                "Consumo de Stamina de Ataque Carregado": [
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50"
+                ],
+                "Dano Durante a Queda": [
+                    "74.59%",
+                    "80.66%",
+                    "86.73%",
+                    "95.4%",
+                    "101.47%",
+                    "108.41%",
+                    "117.95%",
+                    "127.49%",
+                    "137.03%",
+                    "147.44%",
+                    "157.85%",
+                    "168.26%",
+                    "178.66%",
+                    "189.07%",
+                    "199.48%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "149.14%/186.29%",
+                    "161.28%/201.45%",
+                    "173.42%/216.62%",
+                    "190.77%/238.28%",
+                    "202.91%/253.44%",
+                    "216.78%/270.77%",
+                    "235.86%/294.6%",
+                    "254.93%/318.42%",
+                    "274.01%/342.25%",
+                    "294.82%/368.25%",
+                    "315.63%/394.24%",
+                    "336.44%/420.23%",
+                    "357.25%/446.23%",
+                    "378.06%/472.22%",
+                    "398.87%/498.21%"
+                ],
+                "Dano do 1° Golpe do Estado Calor Escaldante": [
+                    "54.41%",
+                    "58.49%",
+                    "62.57%",
+                    "68.01%",
+                    "72.09%",
+                    "76.17%",
+                    "81.61%",
+                    "87.05%",
+                    "92.49%",
+                    "97.93%",
+                    "103.37%",
+                    "108.81%",
+                    "115.62%",
+                    "122.42%",
+                    "129.22%"
+                ],
+                "Dano do 2° Golpe do Estado Calor Escaldante": [
+                    "52.03%",
+                    "55.93%",
+                    "59.83%",
+                    "65.04%",
+                    "68.94%",
+                    "72.84%",
+                    "78.04%",
+                    "83.25%",
+                    "88.45%",
+                    "93.65%",
+                    "98.85%",
+                    "104.06%",
+                    "110.56%",
+                    "117.06%",
+                    "123.57%"
+                ],
+                "Dano do 3° Golpe do Estado Calor Escaldante": [
+                    "73.59%",
+                    "79.11%",
+                    "84.62%",
+                    "91.98%",
+                    "97.5%",
+                    "103.02%",
+                    "110.38%",
+                    "117.74%",
+                    "125.1%",
+                    "132.46%",
+                    "139.81%",
+                    "147.17%",
+                    "156.37%",
+                    "165.57%",
+                    "174.77%"
+                ],
+                "Dano de Ataque Carregado do Estado Calor Escaldante": [
+                    "92.64%",
+                    "99.59%",
+                    "106.54%",
+                    "115.8%",
+                    "122.75%",
+                    "129.7%",
+                    "138.96%",
+                    "148.22%",
+                    "157.49%",
+                    "166.75%",
+                    "176.02%",
+                    "185.28%",
+                    "196.86%",
+                    "208.44%",
+                    "220.02%"
+                ],
+                "Consumo de Stamina de Ataque Carregado do Estado Calor Escaldante": [
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50"
+                ],
+                "Dano Durante a Queda no Estado Calor Escaldante": [
+                    "74.59%",
+                    "80.66%",
+                    "86.73%",
+                    "95.4%",
+                    "101.47%",
+                    "108.41%",
+                    "117.95%",
+                    "127.49%",
+                    "137.03%",
+                    "147.44%",
+                    "157.85%",
+                    "168.26%",
+                    "178.66%",
+                    "189.07%",
+                    "199.48%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude no Estado Calor Escaldante": [
+                    "223.72%/279.43%",
+                    "241.93%/302.18%",
+                    "260.13%/324.92%",
+                    "286.15%/357.41%",
+                    "304.36%/380.16%",
+                    "325.17%/406.15%",
+                    "353.78%/441.89%",
+                    "382.4%/477.64%",
+                    "411.01%/513.38%",
+                    "442.23%/552.37%",
+                    "473.45%/591.36%",
+                    "504.66%/630.35%",
+                    "535.88%/669.34%",
+                    "567.09%/708.33%",
+                    "598.31%/747.32%"
+                ]
+            },
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nTenho que tentar lutar como os maiores campeões lutadores! Varesa realiza até três ataques, causando <color=#FFACFFFF>Dano Electro</color>\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome uma certa quantidade de Stamina para dar uma cabeçada contra os inimigos em frente, causando <color=#FFACFFFF>Dano Electro</color> com alinhamento Espírito da Noite, e aproveitando o impulso para saltar no ar.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nSe lança do ar para atacar o chão, causando dano aos oponentes ao longo do caminho, e ao impactar o chão causa <color=#FFACFFFF>Dano Electro em AdE</color> com alinhamento Espírito da Noite. Se Varesa estiver em combate, ou se essa Onda Mergulhadora atingir um inimigo, ela obtém 25 pontos de Espírito da Noite. Quando Varesa alcançar o limite máximo de pontos de Espírito da Noite obtidos desta forma, entrará no estado Calor Escaldante.\\n\\n<color=#FFD780FF>Calor Escaldante</color>\\nQuando estiver nesse estado, os Ataques Normais, Carregados e Imersivos de Varesa obtêm os respectivos fortalecimentos:\\n\\n<color=#FFD780FF>Ataque Normal</color>\\nLutando como estrela lutadora! Lança até 3 ataques, causando mais <color=#FFACFFFF>Dano Electro</color>.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome uma certa quantidade de Stamina para avançar contra os inimigos, causando mais <color=#FFACFFFF>Dano Electro</color> com alinhamento Espírito da Noite, e aproveitando o impulso para saltar no ar.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nConsome todos os pontos de Espírito da Noite para mergulhar do ar até o chão, causando Dano contra os inimigos no caminho, e causando mais <color=#FFACFFFF>Dano Electro</color> com alinhamento Espírito da Noite ao impactar contra o chão."
+        },
+        "elementalskill": {
+            "name": "Cavalgando o Arco-Íris da Noite",
+            "icon": "Skill_S_Varesa_01",
+            "multipliers": {
+                "Dano de Investida": [
+                    "74.48%",
+                    "80.07%",
+                    "85.65%",
+                    "93.1%",
+                    "98.69%",
+                    "104.27%",
+                    "111.72%",
+                    "119.17%",
+                    "126.62%",
+                    "134.06%",
+                    "141.51%",
+                    "148.96%",
+                    "158.27%",
+                    "167.58%",
+                    "176.89%"
+                ],
+                "Dano de Investida do Estado Calor Escaldante": [
+                    "106.4%",
+                    "114.38%",
+                    "122.36%",
+                    "133%",
+                    "140.98%",
+                    "148.96%",
+                    "159.6%",
+                    "170.24%",
+                    "180.88%",
+                    "191.52%",
+                    "202.16%",
+                    "212.8%",
+                    "226.1%",
+                    "239.4%",
+                    "252.7%"
+                ],
+                "Duração do Ataque Perseguidor": [
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s"
+                ],
+                "Limite de Pontos de Espírito da Noite": [
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40"
+                ],
+                "Tempo de Recarga": [
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s"
+                ]
+            },
+            "description": "Com passos velozes como raios e trovões, Varesa exibe o verdadeiro espírito da luta livre, avançando em frente uma certa distância, e causando <color=#FFACFFFF>Dano Electro</color> com alinhamento Espírito da Noite contra os inimigos no caminho.\\nDepois de lançar, Varesa obtém 20 pontos de Espírito da Noite, e obtém o efeito Ataque Perseguidor: na sua duração, aumenta a Resistência contra Interrupção de Varesa, e ao pressionar seu Ataque Normal, ela realiza um Ataque Carregado rápido, e esse Ataque Carregado rápido não consumirá Stamina. O efeito Ataque Perseguidor desaparecerá depois que o Ataque Carregado for lançado.\\nExibe um estilo de luta diferente se pressionar ou manter pressionado.\\n\\n<color=#FFD780FF>Pressionar</color>\\nAvança uma certa distância em frente.\\n\\n<color=#FFD780FF>Manter pressionado</color>\\nVaresa entra no estado Bênção do Espírito da Noite, e troca para o modo Investida Frenética.\\n\\n<color=#FFD780FF>Investida Frenética</color>\\nConsome continuamente os pontos de Espírito da Noite. Nesse estado, a Veloc. Mov. e a Resistência contra Interrupção de Varesa aumentam, e ela pode usar os diferentes terrenos para saltar no ar, ou pode consumir mais pontos de Espírito da Noite para se locomover sobre a água e Flogisto Líquido, ficando imune ao Dano do Flogisto Líquido.\\n\\n<color=#FFD780FF>Bênção do Espírito da Noite: Varesa</color>\\nQuando acabar de consumir os pontos de Espírito da Noite, o estado Bênção do Espírito da Noite de Varesa acabará. Quando Varesa estiver no modo Investida Frenética ou no estado Calor Escaldante, será considerado como se ela estivesse na Bênção do Espírito da Noite o tempo inteiro.\\n\\nPossui 2 usos. Quando Varesa entra no estado Calor Escaldante, ela obterá um uso adicional do pressionar rápido de sua Habilidade Elemental, e seu Dano será aumentado.\\n\\n<color=#FFD780FF>Calor Escaldante</color>\\n· Quando não está no estado Calor Escaldante, Varesa pode fazer Ataques Imersivos para regenerar pontos de Espírito da Noite. Quando os regenerar até o máximo dessa forma, ou quando lançar o Supremo <color=#FFD780FF>A Estrela Chegou!</color>, Varesa entra no estado Calor Escaldante.\\n· Quando estiver no estado Calor Escaldante, o Ataque Normal, a Habilidade Elemental e o Supremo de Varesa obterão fortalecimentos respectivos, e lançará um Supremo especial pouco tempo após realizar um Ataque Imersivo.\\n· O estado Calor Escaldante dura até 15s, e acabará quando os pontos de Espírito da Noite se exaurirem, ou um certo tempo após sair de uma batalha.\\n\\n<i>\"Agora, eu sou a heroína.\"</i>"
+        },
+        "elementalburst": {
+            "name": "A Estrela Chegou!",
+            "icon": "Skill_E_Varesa_01",
+            "multipliers": {
+                "Dano do Chute Voador": [
+                    "345.12%",
+                    "371%",
+                    "396.89%",
+                    "431.4%",
+                    "457.28%",
+                    "483.17%",
+                    "517.68%",
+                    "552.19%",
+                    "586.7%",
+                    "621.22%",
+                    "655.73%",
+                    "690.24%",
+                    "733.38%",
+                    "776.52%",
+                    "819.66%"
+                ],
+                "Dano do Chute Voador do Estado Calor Escaldante": [
+                    "575.2%",
+                    "618.34%",
+                    "661.48%",
+                    "719%",
+                    "762.14%",
+                    "805.28%",
+                    "862.8%",
+                    "920.32%",
+                    "977.84%",
+                    "1035.36%",
+                    "1092.88%",
+                    "1150.4%",
+                    "1222.3%",
+                    "1294.2%",
+                    "1366.1%"
+                ],
+                "Recarga": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ],
+                "Energia Elemental": [
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70"
+                ],
+                "Dano do Grande Colapso Vulcânico": [
+                    "402.64%",
+                    "432.84%",
+                    "463.04%",
+                    "503.3%",
+                    "533.5%",
+                    "563.7%",
+                    "603.96%",
+                    "644.22%",
+                    "684.49%",
+                    "724.75%",
+                    "765.02%",
+                    "805.28%",
+                    "855.61%",
+                    "905.94%",
+                    "956.27%"
+                ],
+                "Energia Elemental do Grande Colapso Vulcânico": [
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30",
+                    "30"
+                ]
+            },
+            "description": "Salta no ar para usar o impulso da queda para fazer um poderos Chute Voador, causando <color=#FFACFFFF>Dano Electro em AdE</color> com alinhamento Espírito da Noite contra os inimigos, igual aos heróis da justiça nos pergaminhos para crianças!\\nDepois de lançar, Varesa regenera seus pontos de Espírito da Noite até o máximo, e entra no estado Calor Escaldante.\\n\\nQuando está no Calor Escaldante, o Supremo de Varesa causará mais <color=#FFACFFFF>Dano Electro em AdE</color> com alinhamento Espírito da Noite contra os inimigos.\\n\\nAlém disso, quando Varesa fizer um Ataque Imersivo durante o estado Calor Escaldante, pouco tempo depois entrará no estado \"Força Extrema\".\\n\\n<color=#FFD780FF>Força Extrema</color>\\nAumenta a Resistência contra Interrupção de Varesa. Nesse estado, Varesa ignorará a recarga do Supremo, e consumirá menos Energia Elemental, lançando o Supremo especial \"A Estrela Chegou: Grande Colapso Vulcânico\": lança um excepcionalmente poderoso Ataque Imersivo: Fúria do Redemoinho Vulcânico, causando <color=#FFACFFFF>Dano Electro em AdE</color> com alinhamento Espírito da Noite ao impactar o chão, e sai do estado Força Extrema. Esse Dano é considerado Dano de Ataque Imersivo.\\nDepois de lançar a Habilidade Elemental, sai do estado Força Extrema.\\n<i>Na verdade, o nome original que Varesa deu para esse movimento foi \"Chute Supersônico Rompedor dos Céus e da Dinâmica Heroica Invencível da Justiça\". Entretanto, esse nome era muito grande, e ela passou a ter vergonha de gritá-lo, mesmo com sua máscara. Por isso, ela preferiu utilizar o que hoje é o seu nome atual.</i>"
+        },
+        "leveling": {
+            "crown": {
+                "104319": 3
+            },
+            "books": {
+                "104353": 9,
+                "104354": 63,
+                "104355": 114
+            },
+            "worldmonster": {
+                "112101": 18,
+                "112102": 66,
+                "112103": 93
+            },
+            "weekly": {
+                "113070": 18
+            }
+        }
+    },
+    "passives": {
+        "p1": {
+            "name": "Poder e Salto Triplo!",
+            "description": "Depois de lançar a Habilidade Elemental <color=#FFD780FF>Cavalgando o Arco-Íris da Noite</color>, Varesa obtém Imersão Colorida por 5s.\\nNesse período, quando Varesa fizer um Ataque Imersivo, aumenta o Dano causado por Onda Mergulhadora em 50% de ATQ. Se Varesa estiver no estado Calor Escaldante, aumenta o Dano causado pela Onda Mergulhadora em 180% de ATQ.\\n\\nO efeito Imersão Colorida será removido depois que a Onda Mergulhadora atingir um inimigo ou quando a duração acabar.",
+            "icon": "UI_Talent_S_Varesa_05"
+        },
+        "p2": {
+            "name": "A Heroína Tá de Volta!",
+            "description": "Quando um membro próximo da equipe desencadeia a Explosão do Espírito da Noite, aumenta o ATQ de Varesa em 35% por 12s. Esse efeito pode ser acumulado até 2 vezes, e a duração de cada acúmulo é contada de forma independente.",
+            "icon": "UI_Talent_S_Varesa_06"
+        },
+        "p3": {
+            "name": "Presente do Reino da Noite: Chamas Queimadoras do Mal",
+            "description": "Depois de consumir pontos de Espírito da Noite, Varesa passará a consumir Flogisto para manter o modo \"Investida Frenética\" do estado Bênção do Espírito da Noite.\\nQuando está em uma área de Natlan com Dispositivos de Flogisto, ou a uma certa altura no ar, ela pode realizar a Transmissão do Espírito da Noite: Varesa. Quando o personagem ativo está correndo, ou em um estado de movimento especial concedido por um Talento, ou a uma certa altura no ar e ao trocar para Varesa: ela entra no estado Bênção do Espírito da Noite, trocando para o modo Investida Frenética e obtendo 20 pontos de Espírito da Noite. Essa Transmissão do Espírito da Noite pode ser desencadeada uma vez a cada 10s por equipe.\\nAlém disso, nas áreas de Natlan onde existe o mecanismo de Flogisto, ao utilizar a diferença de terreno para saltar, Varesa não sofrerá Dano de Queda.",
+            "icon": "UI_Talent_S_Varesa_07"
+        },
+        "p4": {
+            "name": "Coração Incinerador, Em Frente!",
+            "description": "Varesa obtém um aumento de velocidade ao correr. Quando não está em combate, correr consumirá mais Stamina.\\nAlém disso, quando está em uma área de Natlan com Dispositivo de Flogisto e um personagem da equipe utilizar um Alimento, poderá regenerar 20 de Flogisto. Esse efeito pode ser desencadeado uma vez a cada 10s, e não surtirá efeito em Domínios, Domínios Dizimados e Abismo do Espiral.",
+            "icon": "UI_Talent_S_Varesa_08"
+        }
+    },
+    "constellations": {
+        "const1": {
+            "name": "Fervor Inextinguível",
+            "description": "O efeito do Talento de Ascensão \"Poder e Salto Triplo!\" é fortalecido.\\nQuando fizer um Ataque Imersivo: Fúria do Redemoinho Vulcânico especial, Varesa obtém Imersão Colorida por 5s.\\nEnquanto Imersão Colorida durar, independentemente de Varesa estar ou não no estado Calor Escaldante, quando realizar um Ataque Imersivo, o Dano causado pela Onda Mergulhadora será convertido em um adicional de 180% do ATQ. Esse efeito requer que o Talento de Ascensão \"Poder e Salto Triplo!\" esteja desbloqueado.\\n\\nQuando Varesa estiver no modo Investida Frenética do estado Bênção do Espírito da Noite, reduz o consumo de pontos de Espírito da Noite ou de Flogisto em 30%.",
+            "icon": "UI_Talent_S_Varesa_01"
+        },
+        "const2": {
+            "name": "Além da Luz",
+            "description": "Independentemente de Varesa estar ou não no estado Calor Escaldante, entrará no estado Força Extrema quando fizer um Ataque Imersivo.\\nQuando estiver em Força Extrema, sua Resistência contra Interrupção será aumentada ainda mais.\\nAlém disso, quando a Onda Mergulhadora do Ataque Imersivo de Varesa atingir um inimigo, regenerará 11.5 de Energia Elemental para ela.",
+            "icon": "UI_Talent_S_Varesa_02"
+        },
+        "const3": {
+            "name": "Determinação Inabalável",
+            "description": "Aumenta o nível do Supremo <color=#FFD780FF>A Estrela Chegou!</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Varesa_01"
+        },
+        "const4": {
+            "name": "Coragem para Enfrentar o Caminho Futuro",
+            "description": "Ao lançar o Supremo <color=#FFD780FF>A Estrela Chegou!</color>, gera efeitos fortalecedores correspondentes de acordo com o estado de Varesa. Se Varesa:\\n· Não estiver no estado Calor Escaldante ou Força Extrema: Varesa obtém o efeito Fúria Corajosa por 15s, aumentando o Dano causado pela Onda Mergulhadora do Ataque Imersivo de Varesa com base em 500% de seu ATQ. É possível aumentar em até 20.000 dessa forma. Esse efeito será removido quando a Onda Mergulhadora atingir um inimigo ou quando sua duração acabar.\\n· Quando estiver no estado Calor Escaldante ou Força Extrema: aumenta o Dano causado por essa instância do Supremo <color=#FFD780FF>A Estrela Chegou!</color> em 100%.",
+            "icon": "UI_Talent_S_Varesa_03"
+        },
+        "const5": {
+            "name": "Pensamentos à Deriva em uma Brisa Suave",
+            "description": "Aumenta o nível do <color=#FFD780FF>Ataque Normal: Chifres Poderosos</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Varesa_02"
+        },
+        "const6": {
+            "name": "Triunfo da Heroína",
+            "description": "Ao entrar no estado Força Extrema, regenera 30 pontos de Energia Elemental para Varesa.\\nAumenta a Taxa CRIT do Ataque Imersivo e do Supremo <color=#FFD780FF>A Estrela Chegou!</color> de Varesa em 10%, e o Dano CRIT em 100%.\\nAlém disso, quando Varesa mantém pressionado para lançar sua Habilidade Elemental <color=#FFD780FF>Cavalgando o Arco-Íris da Noite</color>, ou quando pressionar sua Habilidade Elemental durante \"Investida Frenética\", Varesa regenera seus pontos de Espírito da Noite até o limite máximo.",
+            "icon": "UI_Talent_S_Varesa_04"
+        }
+    },
+    "energy": [
+        {
+            "source": "ElementalArt_DropBall",
+            "particles": "2",
+            "chance": "100%",
+            "cd": "0.1s"
+        },
+        {
+            "source": "ElementalArt_DropBall",
+            "particles": "1",
+            "chance": "50%",
+            "cd": "0.1s"
+        }
+    ],
+    "attacks": [
+        {
+            "name": "Combat_NormalAttack",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/10",
+            "element": "Electric"
+        },
+        {
+            "name": "Combat_NormalAttack",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/9",
+            "element": "Electric"
+        },
+        {
+            "name": "Combat_NormalAttack",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/13",
+            "element": "Electric"
+        },
+        {
+            "name": "Combat_NormalAttack",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/8",
+            "element": "Electric"
+        },
+        {
+            "name": "Combat_NormalAttack",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/7",
+            "element": "Electric"
+        },
+        {
+            "name": "Combat_NormalAttack",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/10",
+            "element": "Electric"
+        },
+        {
+            "name": "Combat_ExtraAttack",
+            "icd_source": "Tag: Varesa_CombatCycle (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/80",
+            "element": "Electric"
+        },
+        {
+            "name": "Combat_ExtraAttack",
+            "icd_source": "Tag: Varesa_CombatCycle (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/120",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalBurst",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/150",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalBurst",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/100",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalBurst",
+            "icd_source": "Tag: Varesa_CombatCycle (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/75",
+            "element": "Electric"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/5",
+            "element": "Electric"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/5",
+            "element": "Electric"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/100",
+            "element": "Electric"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/50",
+            "element": "Electric"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/100",
+            "element": "Electric"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/50",
+            "element": "Electric"
+        },
+        {
+            "name": "Level_Interaction_01",
+            "icd_source": "Grp: default",
+            "icd_rule": "Standard (3h/2.5s)",
+            "gauge": "0U",
+            "poise": "LV0/0",
+            "element": "-"
+        },
+        {
+            "name": "Level_Interaction_02",
+            "icd_source": "Grp: default",
+            "icd_rule": "Standard (3h/2.5s)",
+            "gauge": "0U",
+            "poise": "LV0/0",
+            "element": "-"
+        },
+        {
+            "name": "ElementalArt_Bullet",
+            "icd_source": "Tag: Varesa_CombatCycle (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/50",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalArt_Berserker_Bullet",
+            "icd_source": "Tag: Varesa_CombatCycle (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/75",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalArt_Berserker_Bullet_NoDropBall",
+            "icd_source": "Tag: Varesa_CombatCycle (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/75",
+            "element": "Electric"
+        }
+    ],
+    "hyperlinks": []
+}

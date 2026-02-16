@@ -1,0 +1,1359 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104131": 1,
+            "104132": 9,
+            "104133": 9,
+            "104134": 6
+        },
+        "elitemonster": {
+            "113079": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101263": 168
+        },
+        "worldmonster": {
+            "112125": 18,
+            "112126": 30,
+            "112127": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Grass",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: MoonOvergrowDamage (!)",
+            "name": "ExtraAttack_MoonLight_Gadget",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "Grass",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: MoonOvergrowDamage (!)",
+            "name": "ExtraAttack_MoonLight_Gadget",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "Grass",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: MoonOvergrowDamage (!)",
+            "name": "ExtraAttack_MoonLight_Gadget",
+            "poise": "LV3/30"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ElementalArt (!)",
+            "name": "ElementalArt",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Nefer_ElementalBurst (!)",
+            "name": "SkillObj_ElementalBurst_Attacker",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Nefer_ElementalBurst (!)",
+            "name": "SkillObj_ElementalBurst_Attacker",
+            "poise": "LV5/100"
+        },
+        {
+            "element": "Grass",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/5"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "Grass",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: MoonOvergrowDamage (!)",
+            "name": "Constellation_6_Gadget",
+            "poise": "LV3/30"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Aumenta o Dano Básico causado por Florescimento Lunar de {LINK#N11220002}<color=#FFD780FF>Truque Fantástico</color>{/LINK} de Nefer. O aumento é equivalente a 60% da Proficiência Elemental de Nefer. Esse efeito é cumulativo com o bônus de {LINK#N11220003}<color=#FFD780FF>Cortina do Segredo Falso</color>{/LINK}.",
+            "icon": "UI_Talent_S_Nefer_01",
+            "name": "O Plano é o Começo do Sucesso"
+        },
+        "const2": {
+            "description": "Fortalece o efeito do Talento de Ascensão {LINK#P1222101}<color=#FFD780FF>Aposta Sob o Luar</color>{/LINK}: prolonga a duração de {LINK#N11220003}<color=#FFD780FF>Cortina do Segredo Falso</color>{/LINK} por 5s, aumenta o máximo de acúmulos para 5, e o Dano de {LINK#N11220002}<color=#FFD780FF>Truque Fantástico</color>{/LINK} para 140% do Dano original causado. Quando Nefer lançar sua Habilidade Elemental <color=#FFD780FF>{LINK#S11222}Estratégia de Senet: Dança de Mil Noites{/LINK}</color>, imediatamente obtém 2 acúmulos de Cortina do Segredo Falso. Além disso, quando acumular 5 Cortinas do Segredo Falso, ou quando redefinir a duração dos 5 acúmulos, aumenta a Proficiência Elemental de Nefer em 200 por 8s.\\nÉ necessário desbloquear o Talento de Ascensão Aposta Sob o Luar.",
+            "icon": "UI_Talent_S_Nefer_02",
+            "name": "Precisão Planejada"
+        },
+        "const3": {
+            "description": "Aumenta o nível da Habilidade Elemental <color=#FFD780FF>{LINK#S11222}Estratégia de Senet: Dança de Mil Noites{/LINK}</color> em 3 níveis. \\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Nefer_01",
+            "name": "Vestígios das Mentiras"
+        },
+        "const4": {
+            "description": "Quando Nefer é a personagem ativa e está no estado {LINK#N11220001}<color=#FFD780FF>Baile das Sombras</color>{/LINK}, o Orvalho Verdejante obtém um aumento de velocidade de 25%.\\nAlém disso, quando Nefer está no Baile das Sombras, reduz a <color=#99FF88FF>RES Dendro</color> dos inimigos próximos em 20%. Quando Nefer não estiver no estado Baile das Sombras ou após se afastar uma certa distância dos inimigos, removerá esse efeito após 4.5s.",
+            "icon": "UI_Talent_S_Nefer_03",
+            "name": "Mergulho da Rede do Mistério"
+        },
+        "const5": {
+            "description": "Aumenta o nível do Supremo <color=#FFD780FF>{LINK#S11225}Voto Sagrado: Fantasma do Olho Verdadeiro{/LINK}</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Nefer_02",
+            "name": "Oportunidade Única"
+        },
+        "const6": {
+            "description": "Quando Nefer lança {LINK#N11220002}<color=#FFD780FF>Truque Fantástico</color>{/LINK}, seu próprio Dano do 2° Golpe será convertido para <color=#99FF88FF>Dano Dendro em AdE</color> equivalente a 85% de sua Proficiência Elemental. Além disso, quando a duração do ataque de Truque Fantástico acabar, causa uma instância de <color=#99FF88FF>Dano Dendro em AdE</color> equivalente a 120% de sua Proficiência Elemental. Esse Dano é considerado Dano de Florescimento Lunar causado por Truque Fantástico.\\n\\n<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>\\nO Dano de Florescimento Lunar de Nefer é {LINK#N11190007}<color=#FFD780FF>Elevado</color>{/LINK} em 15%.",
+            "icon": "UI_Talent_S_Nefer_04",
+            "name": "Momento da Reviravolta Decisiva"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.2s",
+            "chance": "66%",
+            "particles": "3",
+            "source": "ElementalArt_DropBall"
+        },
+        {
+            "cd": "0.2s",
+            "chance": "33%",
+            "particles": "2",
+            "source": "ElementalArt_DropBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Nefer",
+        "forward": "UI_AvatarIcon_Nefer"
+    },
+    "info": {
+        "attributes": [
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 62,
+                "hp": 989,
+                "level": 1
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 67,
+                "hp": 1071,
+                "level": 2
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 73,
+                "hp": 1153,
+                "level": 3
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 78,
+                "hp": 1236,
+                "level": 4
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 83,
+                "hp": 1318,
+                "level": 5
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 88,
+                "hp": 1401,
+                "level": 6
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 40,
+                "def": 93,
+                "hp": 1483,
+                "level": 7
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 99,
+                "hp": 1567,
+                "level": 8
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 45,
+                "def": 104,
+                "hp": 1650,
+                "level": 9
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 47,
+                "def": 109,
+                "hp": 1732,
+                "level": 10
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 49,
+                "def": 114,
+                "hp": 1815,
+                "level": 11
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 51,
+                "def": 119,
+                "hp": 1898,
+                "level": 12
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 54,
+                "def": 125,
+                "hp": 1981,
+                "level": 13
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 56,
+                "def": 130,
+                "hp": 2065,
+                "level": 14
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 58,
+                "def": 135,
+                "hp": 2148,
+                "level": 15
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 60,
+                "def": 140,
+                "hp": 2231,
+                "level": 16
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 63,
+                "def": 146,
+                "hp": 2315,
+                "level": 17
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 65,
+                "def": 151,
+                "hp": 2398,
+                "level": 18
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 67,
+                "def": 156,
+                "hp": 2482,
+                "level": 19
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 70,
+                "def": 161,
+                "hp": 2565,
+                "level": 20
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 95,
+                "def": 220,
+                "hp": 3497,
+                "level": 21
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 97,
+                "def": 225,
+                "hp": 3581,
+                "level": 22
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 99,
+                "def": 231,
+                "hp": 3666,
+                "level": 23
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 102,
+                "def": 236,
+                "hp": 3750,
+                "level": 24
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 104,
+                "def": 241,
+                "hp": 3834,
+                "level": 25
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 106,
+                "def": 247,
+                "hp": 3919,
+                "level": 26
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 109,
+                "def": 252,
+                "hp": 4003,
+                "level": 27
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 111,
+                "def": 257,
+                "hp": 4087,
+                "level": 28
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 113,
+                "def": 262,
+                "hp": 4172,
+                "level": 29
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 115,
+                "def": 268,
+                "hp": 4256,
+                "level": 30
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 118,
+                "def": 273,
+                "hp": 4341,
+                "level": 31
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 120,
+                "def": 278,
+                "hp": 4426,
+                "level": 32
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 122,
+                "def": 284,
+                "hp": 4511,
+                "level": 33
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 125,
+                "def": 289,
+                "hp": 4595,
+                "level": 34
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 127,
+                "def": 294,
+                "hp": 4680,
+                "level": 35
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 129,
+                "def": 300,
+                "hp": 4766,
+                "level": 36
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 132,
+                "def": 305,
+                "hp": 4851,
+                "level": 37
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 134,
+                "def": 311,
+                "hp": 4936,
+                "level": 38
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 136,
+                "def": 316,
+                "hp": 5021,
+                "level": 39
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 138,
+                "def": 321,
+                "hp": 5107,
+                "level": 40
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 157,
+                "def": 365,
+                "hp": 5795,
+                "level": 41
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 159,
+                "def": 370,
+                "hp": 5881,
+                "level": 42
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 162,
+                "def": 375,
+                "hp": 5967,
+                "level": 43
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 164,
+                "def": 381,
+                "hp": 6052,
+                "level": 44
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 166,
+                "def": 386,
+                "hp": 6138,
+                "level": 45
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 169,
+                "def": 392,
+                "hp": 6224,
+                "level": 46
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 171,
+                "def": 397,
+                "hp": 6310,
+                "level": 47
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 173,
+                "def": 402,
+                "hp": 6396,
+                "level": 48
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 176,
+                "def": 408,
+                "hp": 6483,
+                "level": 49
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 178,
+                "def": 413,
+                "hp": 6569,
+                "level": 50
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 202,
+                "def": 469,
+                "hp": 7459,
+                "level": 51
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 205,
+                "def": 475,
+                "hp": 7546,
+                "level": 52
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 207,
+                "def": 480,
+                "hp": 7632,
+                "level": 53
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 209,
+                "def": 486,
+                "hp": 7719,
+                "level": 54
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 212,
+                "def": 491,
+                "hp": 7806,
+                "level": 55
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 214,
+                "def": 497,
+                "hp": 7893,
+                "level": 56
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 216,
+                "def": 502,
+                "hp": 7980,
+                "level": 57
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 219,
+                "def": 508,
+                "hp": 8067,
+                "level": 58
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 221,
+                "def": 513,
+                "hp": 8154,
+                "level": 59
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 223,
+                "def": 519,
+                "hp": 8241,
+                "level": 60
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 242,
+                "def": 562,
+                "hp": 8931,
+                "level": 61
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 244,
+                "def": 567,
+                "hp": 9018,
+                "level": 62
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 247,
+                "def": 573,
+                "hp": 9106,
+                "level": 63
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 249,
+                "def": 578,
+                "hp": 9193,
+                "level": 64
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 252,
+                "def": 584,
+                "hp": 9281,
+                "level": 65
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 254,
+                "def": 589,
+                "hp": 9369,
+                "level": 66
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 256,
+                "def": 595,
+                "hp": 9456,
+                "level": 67
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 259,
+                "def": 600,
+                "hp": 9544,
+                "level": 68
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 261,
+                "def": 606,
+                "hp": 9632,
+                "level": 69
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 264,
+                "def": 612,
+                "hp": 9720,
+                "level": 70
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 282,
+                "def": 655,
+                "hp": 10410,
+                "level": 71
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 285,
+                "def": 661,
+                "hp": 10499,
+                "level": 72
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 287,
+                "def": 666,
+                "hp": 10587,
+                "level": 73
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 289,
+                "def": 672,
+                "hp": 10675,
+                "level": 74
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 292,
+                "def": 677,
+                "hp": 10764,
+                "level": 75
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 294,
+                "def": 683,
+                "hp": 10852,
+                "level": 76
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 297,
+                "def": 688,
+                "hp": 10941,
+                "level": 77
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 299,
+                "def": 694,
+                "hp": 11030,
+                "level": 78
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 301,
+                "def": 700,
+                "hp": 11119,
+                "level": 79
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 304,
+                "def": 705,
+                "hp": 11208,
+                "level": 80
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 323,
+                "def": 749,
+                "hp": 11900,
+                "level": 81
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 325,
+                "def": 754,
+                "hp": 11989,
+                "level": 82
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 327,
+                "def": 760,
+                "hp": 12078,
+                "level": 83
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 330,
+                "def": 766,
+                "hp": 12167,
+                "level": 84
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 332,
+                "def": 771,
+                "hp": 12256,
+                "level": 85
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 335,
+                "def": 777,
+                "hp": 12346,
+                "level": 86
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 337,
+                "def": 782,
+                "hp": 12435,
+                "level": 87
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 340,
+                "def": 788,
+                "hp": 12525,
+                "level": 88
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 342,
+                "def": 794,
+                "hp": 12615,
+                "level": 89
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 344,
+                "def": 799,
+                "hp": 12704,
+                "level": 90
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 383,
+                "def": 828,
+                "hp": 13155,
+                "level": 95
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 422,
+                "def": 856,
+                "hp": 13607,
+                "level": 100
+            }
+        ],
+        "birthday": "May 9th",
+        "constellation": "Ludus Latrunculorum",
+        "description": "A dona incrivelmente engenhosa da Curadoria dos Segredos.",
+        "element": "Dendro",
+        "name": "Nefer",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_CATALYST"
+    },
+    "passives": {
+        "p1": {
+            "description": "Nefer obtém os seguintes fortalecimentos de acordo com o <color=#FFD780FF>Presságio Lunar</color> da equipe.\\n\\n<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>: ao lançar a Habilidade Elemental <color=#FFD780FF>{LINK#S11222}Estratégia de Senet: Dança de Mil Noites{/LINK}</color>, mudará os Núcleos Dendro em campo para Núcleos da Falsidade, e nos próximos 15s, quando um personagem próximo desencadear Florescimento Lunar, substituirá os Núcleos Dendro e Núcleos da Riqueza para gerar Núcleos da Falsidade. Os Núcleos da Falsidade não podem desencadear Superflorescimento e Germinação, e também não podem explodir.\\nQuando Nefer realizar um Ataque Carregado ou {LINK#N11220002}<color=#FFD780FF>Truque Fantástico</color>{/LINK}, poderá absorver os Núcleos da Falsidade dentro de uma certa AdE. Cada Núcleo da Falsidade absorvido fará ela obter 1 acúmulo de {LINK#N11220003}<color=#FFD780FF>Cortina do Segredo Falso</color>{/LINK}. Quando esse efeito acumular até 3 vezes ou redefinir a duração de 3 acúmulos, aumenta a Proficiência Elemental de Nefer em 100 por 8s.",
+            "icon": "UI_Talent_S_Nefer_05",
+            "name": "Aposta Sob o Luar"
+        },
+        "p2": {
+            "description": "Quando Nefer está no estado {LINK#N11220001}<color=#FFD780FF>Baile das Sombras</color>{/LINK}, durante 5s após um membro da equipe desencadear uma reação de Florescimento Lunar, o estado <color=#FFD780FF>{LINK#S11221}Postura da Serpente{/LINK}</color> de Nefer fornecerá {LINK#N11190008}<color=#FFD780FF>Orvalho Verdejante</color>{/LINK} adicional. A cada 100 pontos de Proficiência Elemental de Nefer acima de 500, esse efeito adicional de provisão será fortalecido em 10%. O aumento máximo que pode ser alcançado dessa forma é de 50%.",
+            "icon": "UI_Talent_S_Nefer_06",
+            "name": "Filha das Areias"
+        },
+        "p3": {
+            "description": "Quando um membro da equipe desencadeia Florescimento, converte para desencadear Florescimento Lunar, e aumenta o Dano Básico causado por Florescimento Lunar para o personagem da equipe com base na Proficiência Elemental de Nefer: cada ponto de Proficiência Elemental aumenta o Dano Básico de Florescimento Lunar em 0.0175%. É possível aumentar o Dano em até 14% dessa forma.\\n\\nAlém disso, quando Nefer está na equipe, aumenta o <color=#FFD780FF>Presságio Lunar</color> da equipe em um nível.",
+            "icon": "UI_Talent_S_Nefer_07",
+            "name": "Bênção do Presságio Lunar: Corredor Sob a Sombra do Crepúsculo"
+        },
+        "p4": {
+            "description": "Ganha 25% de recompensas a mais quando enviada numa Expedição em Nod-Krai por 20 horas.\n\\nAlém disso, como mestre da Curadoria dos Segredos, Nefer parece ter alguma forma de obter informações, e algumas facções da Cidade de Nasha parecem ter muito interesse nelas...",
+            "icon": "UI_Talent_S_Nefer_08",
+            "name": "Conspiração do Cofre Dourado"
+        }
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Concede a revelação para os mistérios da falsidade através da visão verdade de Thoth, causando <color=#99FF88FF>Dano Dendro em AdE</color> contra os inimigos em frente. Ao lançar, Nefer consome todas as {LINK#N11220003}<color=#FFD780FF>Cortinas do Segredo Falso</color>{/LINK}, aumentando o Dano dessa instância do Supremo.\\n\\n<i>\"As bênçãos do Rei Íbis proclamadas pelos cantos das areias escaldantes são, na verdade, mais parecidas com maldições perversas.\"</i>",
+            "icon": "Skill_E_Nefer_01",
+            "multipliers": {
+                "Aumento de Dano": [
+                    "13% por acúmulo de Cortina do Segredo Falso",
+                    "16% por acúmulo de Cortina do Segredo Falso",
+                    "19% por acúmulo de Cortina do Segredo Falso",
+                    "22% por acúmulo de Cortina do Segredo Falso",
+                    "25% por acúmulo de Cortina do Segredo Falso",
+                    "28% por acúmulo de Cortina do Segredo Falso",
+                    "31% por acúmulo de Cortina do Segredo Falso",
+                    "34% por acúmulo de Cortina do Segredo Falso",
+                    "37% por acúmulo de Cortina do Segredo Falso",
+                    "40% por acúmulo de Cortina do Segredo Falso",
+                    "43% por acúmulo de Cortina do Segredo Falso",
+                    "46% por acúmulo de Cortina do Segredo Falso",
+                    "49% por acúmulo de Cortina do Segredo Falso",
+                    "52% por acúmulo de Cortina do Segredo Falso",
+                    "55% por acúmulo de Cortina do Segredo Falso"
+                ],
+                "Dano do 1° Golpe": [
+                    "224.64% do ATQ + 449.28% da Proficiência Elemental",
+                    "241.49% do ATQ + 482.98% da Proficiência Elemental",
+                    "258.34% do ATQ + 516.67% da Proficiência Elemental",
+                    "280.8% do ATQ + 561.6% da Proficiência Elemental",
+                    "297.65% do ATQ + 595.3% da Proficiência Elemental",
+                    "314.5% do ATQ + 628.99% da Proficiência Elemental",
+                    "336.96% do ATQ + 673.92% da Proficiência Elemental",
+                    "359.42% do ATQ + 718.85% da Proficiência Elemental",
+                    "381.89% do ATQ + 763.78% da Proficiência Elemental",
+                    "404.35% do ATQ + 808.7% da Proficiência Elemental",
+                    "426.82% do ATQ + 853.63% da Proficiência Elemental",
+                    "449.28% do ATQ + 898.56% da Proficiência Elemental",
+                    "477.36% do ATQ + 954.72% da Proficiência Elemental",
+                    "505.44% do ATQ + 1010.88% da Proficiência Elemental",
+                    "533.52% do ATQ + 1067.04% da Proficiência Elemental"
+                ],
+                "Dano do 2° Golpe": [
+                    "336.96% do ATQ + 673.92% da Proficiência Elemental",
+                    "362.23% do ATQ + 724.46% da Proficiência Elemental",
+                    "387.5% do ATQ + 775.01% da Proficiência Elemental",
+                    "421.2% do ATQ + 842.4% da Proficiência Elemental",
+                    "446.47% do ATQ + 892.94% da Proficiência Elemental",
+                    "471.74% do ATQ + 943.49% da Proficiência Elemental",
+                    "505.44% do ATQ + 1010.88% da Proficiência Elemental",
+                    "539.14% do ATQ + 1078.27% da Proficiência Elemental",
+                    "572.83% do ATQ + 1145.66% da Proficiência Elemental",
+                    "606.53% do ATQ + 1213.06% da Proficiência Elemental",
+                    "640.22% do ATQ + 1280.45% da Proficiência Elemental",
+                    "673.92% do ATQ + 1347.84% da Proficiência Elemental",
+                    "716.04% do ATQ + 1432.08% da Proficiência Elemental",
+                    "758.16% do ATQ + 1516.32% da Proficiência Elemental",
+                    "800.28% do ATQ + 1600.56% da Proficiência Elemental"
+                ],
+                "Energia Elemental": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "Tempo de Recarga": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ]
+            },
+            "name": "Voto Sagrado: Fantasma do Olho Verdadeiro"
+        },
+        "elementalskill": {
+            "description": "Uma dança que dissolveu dinastias, gelada como uma noite de inverno no grande mar de areias, mas ainda com o carinho remanescente do luar. Nefer avança em frente, causando <color=#99FF88FF>Dano Dendro em AdE</color> e entrando no estado {LINK#N11220001}<color=#FFD780FF>Baile das Sombras</color>{/LINK}.\\nNo estado Baile das Sombras, se possuir pelo menos 1 {LINK#N11190008}<color=#FFD780FF>Orvalho Verdejante</color>{/LINK}, o Ataque Carregado lançado de Nefer será substituído pelo Ataque Carregado especial {LINK#N11220002}<color=#FFD780FF>Truque Fantástico</color>{/LINK} que não consome Stamina. O estado Baile das Sombras aumenta a RES contra interrupção de Nefer.\\n\\nInicialmente possui 2 Usos.\\n\\n<i>\"O mundo é um jogo em que as peças continuam escondidas por trás de um véu. Para evitar cair numa armadilha, é necessário coletar toda informação possível. Esse é o significado do segredo.\"</i>",
+            "icon": "Skill_S_Nefer_01",
+            "multipliers": {
+                "1ª Fase de Sombra Vazia do Truque Fantástico": [
+                    "96% da Proficiência Elemental",
+                    "103.2% da Proficiência Elemental",
+                    "110.4% da Proficiência Elemental",
+                    "120% da Proficiência Elemental",
+                    "127.2% da Proficiência Elemental",
+                    "134.4% da Proficiência Elemental",
+                    "144% da Proficiência Elemental",
+                    "153.6% da Proficiência Elemental",
+                    "163.2% da Proficiência Elemental",
+                    "172.8% da Proficiência Elemental",
+                    "182.4% da Proficiência Elemental",
+                    "192% da Proficiência Elemental",
+                    "204% da Proficiência Elemental",
+                    "216% da Proficiência Elemental",
+                    "228% da Proficiência Elemental"
+                ],
+                "3ª Fase de Sombra Vazia do Truque Fantástico": [
+                    "96% da Proficiência Elemental",
+                    "103.2% da Proficiência Elemental",
+                    "110.4% da Proficiência Elemental",
+                    "120% da Proficiência Elemental",
+                    "127.2% da Proficiência Elemental",
+                    "134.4% da Proficiência Elemental",
+                    "144% da Proficiência Elemental",
+                    "153.6% da Proficiência Elemental",
+                    "163.2% da Proficiência Elemental",
+                    "172.8% da Proficiência Elemental",
+                    "182.4% da Proficiência Elemental",
+                    "192% da Proficiência Elemental",
+                    "204% da Proficiência Elemental",
+                    "216% da Proficiência Elemental",
+                    "228% da Proficiência Elemental"
+                ],
+                "Dano de Habilidade": [
+                    "76.38% do ATQ + 152.77% da Proficiência Elemental",
+                    "82.11% do ATQ + 164.23% da Proficiência Elemental",
+                    "87.84% do ATQ + 175.68% da Proficiência Elemental",
+                    "95.48% do ATQ + 190.96% da Proficiência Elemental",
+                    "101.21% do ATQ + 202.42% da Proficiência Elemental",
+                    "106.94% do ATQ + 213.88% da Proficiência Elemental",
+                    "114.58% do ATQ + 229.15% da Proficiência Elemental",
+                    "122.21% do ATQ + 244.43% da Proficiência Elemental",
+                    "129.85% do ATQ + 259.71% da Proficiência Elemental",
+                    "137.49% do ATQ + 274.98% da Proficiência Elemental",
+                    "145.13% do ATQ + 290.26% da Proficiência Elemental",
+                    "152.77% do ATQ + 305.54% da Proficiência Elemental",
+                    "162.32% do ATQ + 324.63% da Proficiência Elemental",
+                    "171.86% do ATQ + 343.73% da Proficiência Elemental",
+                    "181.41% do ATQ + 362.82% da Proficiência Elemental"
+                ],
+                "Dano do 1° Golpe Próprio de Truque Fantástico": [
+                    "24.64% do ATQ + 49.28% da Proficiência Elemental",
+                    "26.49% do ATQ + 52.98% da Proficiência Elemental",
+                    "28.34% do ATQ + 56.67% da Proficiência Elemental",
+                    "30.8% do ATQ + 61.6% da Proficiência Elemental",
+                    "32.65% do ATQ + 65.3% da Proficiência Elemental",
+                    "34.5% do ATQ + 68.99% da Proficiência Elemental",
+                    "36.96% do ATQ + 73.92% da Proficiência Elemental",
+                    "39.42% do ATQ + 78.85% da Proficiência Elemental",
+                    "41.89% do ATQ + 83.78% da Proficiência Elemental",
+                    "44.35% do ATQ + 88.7% da Proficiência Elemental",
+                    "46.82% do ATQ + 93.63% da Proficiência Elemental",
+                    "49.28% do ATQ + 98.56% da Proficiência Elemental",
+                    "52.36% do ATQ + 104.72% da Proficiência Elemental",
+                    "55.44% do ATQ + 110.88% da Proficiência Elemental",
+                    "58.52% do ATQ + 117.04% da Proficiência Elemental"
+                ],
+                "Dano do 2° Golpe Próprio de Truque Fantástico": [
+                    "32.03% do ATQ + 64.06% da Proficiência Elemental",
+                    "34.43% do ATQ + 68.87% da Proficiência Elemental",
+                    "36.84% do ATQ + 73.67% da Proficiência Elemental",
+                    "40.04% do ATQ + 80.08% da Proficiência Elemental",
+                    "42.44% do ATQ + 84.88% da Proficiência Elemental",
+                    "44.84% do ATQ + 89.69% da Proficiência Elemental",
+                    "48.05% do ATQ + 96.1% da Proficiência Elemental",
+                    "51.25% do ATQ + 102.5% da Proficiência Elemental",
+                    "54.45% do ATQ + 108.91% da Proficiência Elemental",
+                    "57.66% do ATQ + 115.32% da Proficiência Elemental",
+                    "60.86% do ATQ + 121.72% da Proficiência Elemental",
+                    "64.06% do ATQ + 128.13% da Proficiência Elemental",
+                    "68.07% do ATQ + 136.14% da Proficiência Elemental",
+                    "72.07% do ATQ + 144.14% da Proficiência Elemental",
+                    "76.08% do ATQ + 152.15% da Proficiência Elemental"
+                ],
+                "Duração do Baile das Sombras": [
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s"
+                ],
+                "Tempo de Recarga": [
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s"
+                ],
+                "Usos de Truque Fantástico": [
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ]
+            },
+            "name": "Estratégia de Senet: Dança de Mil Noites"
+        },
+        "leveling": {
+            "books": {
+                "104359": 9,
+                "104360": 63,
+                "104361": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113074": 18
+            },
+            "worldmonster": {
+                "112125": 18,
+                "112126": 66,
+                "112127": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 4 chutes com sua postura de serpente feroz e elegante, causando <color=#99FF88FF>Dano Dendro</color>.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nEntra na Postura da Serpente, consumindo Stamina para se mover rapidamente por até 2.5s. Ao soltar essa Habilidade, quando a duração acabar ou a Stamina exaurir, Nefer retornará para o estado da Postura da Serpente, e consome uma certa quantidade adicional de Stamina para causar <color=#99FF88FF>Dano Dendro</color> contra o inimigo. Quando estiver no estado {LINK#N11220001}<color=#FFD780FF>Baile das Sombras</color>{/LINK}, seu consumo adicional de Stamina será reduzido.\\nAlém disso, quando Nefer está em Postura da Serpente, e lançar sua Habilidade Elemental <color=#FFD780FF>{LINK#S11222}Estratégia de Senet: Dança de Mil Noites{/LINK}</color>, ou quando correr, não mais sairá da Postura da Serpente.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nReunindo o poder do Dendro, mergulha em direção ao chão em pleno ar, infligindo dano a todos os inimigos em seu caminho. Inflige <color=#99FF88FF>Dano Dendro em uma AdE</color> durante o impacto com o chão.",
+            "icon": "Skill_A_Catalyst_MD",
+            "multipliers": {
+                "Consumo de Stamina de Ataque Carregado": [
+                    "50 pontos",
+                    "50 pontos",
+                    "50 pontos",
+                    "50 pontos",
+                    "50 pontos",
+                    "50 pontos",
+                    "50 pontos",
+                    "50 pontos",
+                    "50 pontos",
+                    "50 pontos",
+                    "50 pontos",
+                    "50 pontos",
+                    "50 pontos",
+                    "50 pontos",
+                    "50 pontos"
+                ],
+                "Consumo de Stamina do Carregamento do Ataque Carregado": [
+                    "18.15/s",
+                    "18.15/s",
+                    "18.15/s",
+                    "18.15/s",
+                    "18.15/s",
+                    "18.15/s",
+                    "18.15/s",
+                    "18.15/s",
+                    "18.15/s",
+                    "18.15/s",
+                    "18.15/s",
+                    "18.15/s",
+                    "18.15/s",
+                    "18.15/s",
+                    "18.15/s"
+                ],
+                "Custo de Stamina do Ataque Carregado do Baile das Sombras": [
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25"
+                ],
+                "Dano Durante a Queda": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "Dano de Ataque Carregado": [
+                    "130.88%",
+                    "140.7%",
+                    "150.51%",
+                    "163.6%",
+                    "173.42%",
+                    "183.23%",
+                    "196.32%",
+                    "209.41%",
+                    "222.5%",
+                    "235.58%",
+                    "248.67%",
+                    "261.76%",
+                    "278.12%",
+                    "294.48%",
+                    "310.84%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "Dano do 1° Golpe": [
+                    "38.07%",
+                    "40.93%",
+                    "43.78%",
+                    "47.59%",
+                    "50.44%",
+                    "53.3%",
+                    "57.11%",
+                    "60.91%",
+                    "64.72%",
+                    "68.53%",
+                    "72.34%",
+                    "76.14%",
+                    "80.9%",
+                    "85.66%",
+                    "90.42%"
+                ],
+                "Dano do 2° Golpe": [
+                    "37.56%",
+                    "40.38%",
+                    "43.2%",
+                    "46.96%",
+                    "49.77%",
+                    "52.59%",
+                    "56.35%",
+                    "60.1%",
+                    "63.86%",
+                    "67.62%",
+                    "71.37%",
+                    "75.13%",
+                    "79.82%",
+                    "84.52%",
+                    "89.21%"
+                ],
+                "Dano do 3° Golpe": [
+                    "25.24%*2",
+                    "27.13%*2",
+                    "29.03%*2",
+                    "31.55%*2",
+                    "33.44%*2",
+                    "35.34%*2",
+                    "37.86%*2",
+                    "40.38%*2",
+                    "42.91%*2",
+                    "45.43%*2",
+                    "47.96%*2",
+                    "50.48%*2",
+                    "53.64%*2",
+                    "56.79%*2",
+                    "59.94%*2"
+                ],
+                "Dano do 4° Golpe": [
+                    "60.99%",
+                    "65.57%",
+                    "70.14%",
+                    "76.24%",
+                    "80.82%",
+                    "85.39%",
+                    "91.49%",
+                    "97.59%",
+                    "103.69%",
+                    "109.79%",
+                    "115.89%",
+                    "121.99%",
+                    "129.61%",
+                    "137.24%",
+                    "144.86%"
+                ]
+            },
+            "name": "Mensagem da Serpente Itinerante"
+        }
+    }
+}

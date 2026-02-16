@@ -1,0 +1,1325 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104141": 1,
+            "104142": 9,
+            "104143": 9,
+            "104144": 6
+        },
+        "elitemonster": {
+            "113002": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100021": 168
+        },
+        "worldmonster": {
+            "112005": 18,
+            "112006": 30,
+            "112007": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Electric",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ClawMark_Click",
+            "poise": "LV3/140"
+        },
+        {
+            "element": "Electric",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ClawMark_Click",
+            "poise": "LV3/140"
+        },
+        {
+            "element": "Electric",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ClawMark_Burst",
+            "poise": "LV5/300"
+        },
+        {
+            "element": "Electric",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ClawMark_Burst",
+            "poise": "LV3/300"
+        },
+        {
+            "element": "Electric",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "LycanMode",
+            "poise": "LV3/51"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ChargedBlade (!)",
+            "name": "Talent_ChargedBlade",
+            "poise": "LV2/69"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/35"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/150"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/200"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Grp: default",
+            "name": "HexenzirkelSkill",
+            "poise": "LV3/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Ao obter um Orbe Elemental ou Partícula Elemental, aumenta o Dano de Razor em 10% por 8s.",
+            "icon": "UI_Talent_S_Razor_01",
+            "name": "Natureza do Lobo"
+        },
+        "const2": {
+            "description": "Aumenta a Taxa Crítica contra inimigos com menos de 30% de Vida em 10%.",
+            "icon": "UI_Talent_S_Razor_02",
+            "name": "Supressão"
+        },
+        "const3": {
+            "description": "Aumenta o nível do <color=#FFD780FF>Dente de Relâmpago</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Razor_02",
+            "name": "Espírito Animal"
+        },
+        "const4": {
+            "description": "Ao pressionar para lançar a <color=#FFD780FF>Garra e Trovão</color>, diminui a DEF dos inimigos acertados em 15% por 7s.",
+            "icon": "UI_Talent_S_Razor_03",
+            "name": "Mordida"
+        },
+        "const5": {
+            "description": "Aumenta o nível da <color=#FFD780FF>Garra e Trovão</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Razor_01",
+            "name": "Garras Afiadas"
+        },
+        "const6": {
+            "description": "A cada 10s, a espada de Razor recarrega, fazendo com que o próximo Ataque Normal libere um relâmpago que causa 100% de <color=#FFACFFFF>Dano Electro</color> do ATQ de Razor.\\nQuando Razor não estiver usando o <color=#FFD780FF>Dente de Relâmpago</color>, um golpe de relâmpago contra o inimigo concederá um Selo Electro a Razor pela <color=#FFD780FF>Garra e Trovão</color>.",
+            "icon": "UI_Talent_S_Razor_04",
+            "name": "Lupus Fulguris"
+        }
+    },
+    "energy": [
+        {
+            "cd": "1s",
+            "chance": "100%",
+            "particles": "3",
+            "source": "ClawMark_Click_DropBall_Base"
+        },
+        {
+            "cd": "1s",
+            "chance": "100%",
+            "particles": "4",
+            "source": "ClawMark_Burst_DropBall_Base"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Razor",
+        "forward": "UI_AvatarIcon_Razor"
+    },
+    "info": {
+        "attributes": [
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 63,
+                "hp": 1003,
+                "level": 1
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 68,
+                "hp": 1086,
+                "level": 2
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 23,
+                "def": 73,
+                "hp": 1168,
+                "level": 3
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 79,
+                "hp": 1252,
+                "level": 4
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 84,
+                "hp": 1334,
+                "level": 5
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 89,
+                "hp": 1417,
+                "level": 6
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 94,
+                "hp": 1499,
+                "level": 7
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 99,
+                "hp": 1583,
+                "level": 8
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 105,
+                "hp": 1666,
+                "level": 9
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 110,
+                "hp": 1748,
+                "level": 10
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 115,
+                "hp": 1831,
+                "level": 11
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 120,
+                "hp": 1914,
+                "level": 12
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 125,
+                "hp": 1997,
+                "level": 13
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 130,
+                "hp": 2079,
+                "level": 14
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 136,
+                "hp": 2162,
+                "level": 15
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 141,
+                "hp": 2246,
+                "level": 16
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 45,
+                "def": 146,
+                "hp": 2328,
+                "level": 17
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 47,
+                "def": 151,
+                "hp": 2411,
+                "level": 18
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 49,
+                "def": 156,
+                "hp": 2493,
+                "level": 19
+            },
+            {
+                "Physical%": "0",
+                "ascension": 0,
+                "atk": 50,
+                "def": 162,
+                "hp": 2577,
+                "level": 20
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 67,
+                "def": 214,
+                "hp": 3408,
+                "level": 21
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 68,
+                "def": 219,
+                "hp": 3491,
+                "level": 22
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 70,
+                "def": 224,
+                "hp": 3575,
+                "level": 23
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 230,
+                "hp": 3657,
+                "level": 24
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 73,
+                "def": 235,
+                "hp": 3740,
+                "level": 25
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 75,
+                "def": 240,
+                "hp": 3822,
+                "level": 26
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 76,
+                "def": 245,
+                "hp": 3906,
+                "level": 27
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 78,
+                "def": 250,
+                "hp": 3988,
+                "level": 28
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 80,
+                "def": 256,
+                "hp": 4071,
+                "level": 29
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 81,
+                "def": 261,
+                "hp": 4153,
+                "level": 30
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 83,
+                "def": 266,
+                "hp": 4237,
+                "level": 31
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 84,
+                "def": 271,
+                "hp": 4320,
+                "level": 32
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 86,
+                "def": 276,
+                "hp": 4402,
+                "level": 33
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 88,
+                "def": 282,
+                "hp": 4485,
+                "level": 34
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 89,
+                "def": 287,
+                "hp": 4568,
+                "level": 35
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 91,
+                "def": 292,
+                "hp": 4651,
+                "level": 36
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 92,
+                "def": 297,
+                "hp": 4733,
+                "level": 37
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 94,
+                "def": 302,
+                "hp": 4816,
+                "level": 38
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 96,
+                "def": 308,
+                "hp": 4900,
+                "level": 39
+            },
+            {
+                "Physical%": "0",
+                "ascension": 1,
+                "atk": 97,
+                "def": 313,
+                "hp": 4982,
+                "level": 40
+            },
+            {
+                "Physical%": "7.5",
+                "ascension": 2,
+                "atk": 109,
+                "def": 351,
+                "hp": 5597,
+                "level": 41
+            },
+            {
+                "Physical%": "7.5",
+                "ascension": 2,
+                "atk": 111,
+                "def": 356,
+                "hp": 5680,
+                "level": 42
+            },
+            {
+                "Physical%": "7.5",
+                "ascension": 2,
+                "atk": 113,
+                "def": 362,
+                "hp": 5763,
+                "level": 43
+            },
+            {
+                "Physical%": "7.5",
+                "ascension": 2,
+                "atk": 114,
+                "def": 367,
+                "hp": 5845,
+                "level": 44
+            },
+            {
+                "Physical%": "7.5",
+                "ascension": 2,
+                "atk": 116,
+                "def": 372,
+                "hp": 5928,
+                "level": 45
+            },
+            {
+                "Physical%": "7.5",
+                "ascension": 2,
+                "atk": 117,
+                "def": 377,
+                "hp": 6012,
+                "level": 46
+            },
+            {
+                "Physical%": "7.5",
+                "ascension": 2,
+                "atk": 119,
+                "def": 382,
+                "hp": 6094,
+                "level": 47
+            },
+            {
+                "Physical%": "7.5",
+                "ascension": 2,
+                "atk": 121,
+                "def": 388,
+                "hp": 6177,
+                "level": 48
+            },
+            {
+                "Physical%": "7.5",
+                "ascension": 2,
+                "atk": 122,
+                "def": 393,
+                "hp": 6259,
+                "level": 49
+            },
+            {
+                "Physical%": "7.5",
+                "ascension": 2,
+                "atk": 124,
+                "def": 398,
+                "hp": 6343,
+                "level": 50
+            },
+            {
+                "Physical%": "15",
+                "ascension": 3,
+                "atk": 139,
+                "def": 448,
+                "hp": 7135,
+                "level": 51
+            },
+            {
+                "Physical%": "15",
+                "ascension": 3,
+                "atk": 141,
+                "def": 453,
+                "hp": 7218,
+                "level": 52
+            },
+            {
+                "Physical%": "15",
+                "ascension": 3,
+                "atk": 143,
+                "def": 458,
+                "hp": 7301,
+                "level": 53
+            },
+            {
+                "Physical%": "15",
+                "ascension": 3,
+                "atk": 144,
+                "def": 463,
+                "hp": 7383,
+                "level": 54
+            },
+            {
+                "Physical%": "15",
+                "ascension": 3,
+                "atk": 146,
+                "def": 469,
+                "hp": 7467,
+                "level": 55
+            },
+            {
+                "Physical%": "15",
+                "ascension": 3,
+                "atk": 147,
+                "def": 474,
+                "hp": 7549,
+                "level": 56
+            },
+            {
+                "Physical%": "15",
+                "ascension": 3,
+                "atk": 149,
+                "def": 479,
+                "hp": 7632,
+                "level": 57
+            },
+            {
+                "Physical%": "15",
+                "ascension": 3,
+                "atk": 151,
+                "def": 484,
+                "hp": 7714,
+                "level": 58
+            },
+            {
+                "Physical%": "15",
+                "ascension": 3,
+                "atk": 152,
+                "def": 489,
+                "hp": 7798,
+                "level": 59
+            },
+            {
+                "Physical%": "15",
+                "ascension": 3,
+                "atk": 154,
+                "def": 495,
+                "hp": 7881,
+                "level": 60
+            },
+            {
+                "Physical%": "15",
+                "ascension": 4,
+                "atk": 166,
+                "def": 533,
+                "hp": 8496,
+                "level": 61
+            },
+            {
+                "Physical%": "15",
+                "ascension": 4,
+                "atk": 168,
+                "def": 538,
+                "hp": 8579,
+                "level": 62
+            },
+            {
+                "Physical%": "15",
+                "ascension": 4,
+                "atk": 169,
+                "def": 544,
+                "hp": 8661,
+                "level": 63
+            },
+            {
+                "Physical%": "15",
+                "ascension": 4,
+                "atk": 171,
+                "def": 549,
+                "hp": 8744,
+                "level": 64
+            },
+            {
+                "Physical%": "15",
+                "ascension": 4,
+                "atk": 172,
+                "def": 554,
+                "hp": 8827,
+                "level": 65
+            },
+            {
+                "Physical%": "15",
+                "ascension": 4,
+                "atk": 174,
+                "def": 559,
+                "hp": 8910,
+                "level": 66
+            },
+            {
+                "Physical%": "15",
+                "ascension": 4,
+                "atk": 176,
+                "def": 564,
+                "hp": 8993,
+                "level": 67
+            },
+            {
+                "Physical%": "15",
+                "ascension": 4,
+                "atk": 177,
+                "def": 570,
+                "hp": 9075,
+                "level": 68
+            },
+            {
+                "Physical%": "15",
+                "ascension": 4,
+                "atk": 179,
+                "def": 575,
+                "hp": 9159,
+                "level": 69
+            },
+            {
+                "Physical%": "15",
+                "ascension": 4,
+                "atk": 180,
+                "def": 580,
+                "hp": 9241,
+                "level": 70
+            },
+            {
+                "Physical%": "22.5",
+                "ascension": 5,
+                "atk": 193,
+                "def": 619,
+                "hp": 9856,
+                "level": 71
+            },
+            {
+                "Physical%": "22.5",
+                "ascension": 5,
+                "atk": 194,
+                "def": 624,
+                "hp": 9939,
+                "level": 72
+            },
+            {
+                "Physical%": "22.5",
+                "ascension": 5,
+                "atk": 196,
+                "def": 629,
+                "hp": 10022,
+                "level": 73
+            },
+            {
+                "Physical%": "22.5",
+                "ascension": 5,
+                "atk": 197,
+                "def": 634,
+                "hp": 10105,
+                "level": 74
+            },
+            {
+                "Physical%": "22.5",
+                "ascension": 5,
+                "atk": 199,
+                "def": 639,
+                "hp": 10187,
+                "level": 75
+            },
+            {
+                "Physical%": "22.5",
+                "ascension": 5,
+                "atk": 201,
+                "def": 645,
+                "hp": 10271,
+                "level": 76
+            },
+            {
+                "Physical%": "22.5",
+                "ascension": 5,
+                "atk": 202,
+                "def": 650,
+                "hp": 10353,
+                "level": 77
+            },
+            {
+                "Physical%": "22.5",
+                "ascension": 5,
+                "atk": 204,
+                "def": 655,
+                "hp": 10436,
+                "level": 78
+            },
+            {
+                "Physical%": "22.5",
+                "ascension": 5,
+                "atk": 205,
+                "def": 660,
+                "hp": 10518,
+                "level": 79
+            },
+            {
+                "Physical%": "22.5",
+                "ascension": 5,
+                "atk": 207,
+                "def": 665,
+                "hp": 10602,
+                "level": 80
+            },
+            {
+                "Physical%": "30",
+                "ascension": 6,
+                "atk": 219,
+                "def": 704,
+                "hp": 11217,
+                "level": 81
+            },
+            {
+                "Physical%": "30",
+                "ascension": 6,
+                "atk": 221,
+                "def": 709,
+                "hp": 11299,
+                "level": 82
+            },
+            {
+                "Physical%": "30",
+                "ascension": 6,
+                "atk": 222,
+                "def": 714,
+                "hp": 11383,
+                "level": 83
+            },
+            {
+                "Physical%": "30",
+                "ascension": 6,
+                "atk": 224,
+                "def": 720,
+                "hp": 11465,
+                "level": 84
+            },
+            {
+                "Physical%": "30",
+                "ascension": 6,
+                "atk": 226,
+                "def": 725,
+                "hp": 11548,
+                "level": 85
+            },
+            {
+                "Physical%": "30",
+                "ascension": 6,
+                "atk": 227,
+                "def": 730,
+                "hp": 11630,
+                "level": 86
+            },
+            {
+                "Physical%": "30",
+                "ascension": 6,
+                "atk": 229,
+                "def": 735,
+                "hp": 11714,
+                "level": 87
+            },
+            {
+                "Physical%": "30",
+                "ascension": 6,
+                "atk": 230,
+                "def": 740,
+                "hp": 11796,
+                "level": 88
+            },
+            {
+                "Physical%": "30",
+                "ascension": 6,
+                "atk": 232,
+                "def": 746,
+                "hp": 11879,
+                "level": 89
+            },
+            {
+                "Physical%": "30",
+                "ascension": 6,
+                "atk": 234,
+                "def": 751,
+                "hp": 11962,
+                "level": 90
+            },
+            {
+                "Physical%": "30",
+                "ascension": 6,
+                "atk": 263,
+                "def": 777,
+                "hp": 12376,
+                "level": 95
+            },
+            {
+                "Physical%": "30",
+                "ascension": 6,
+                "atk": 293,
+                "def": 803,
+                "hp": 12790,
+                "level": 100
+            }
+        ],
+        "birthday": "September 9th",
+        "constellation": "Lupus Minor",
+        "description": "Um garoto que vive entre os lobos no Reino dos Lobos em Mondstadt, longe da civilização. É ágil como um relâmpago.",
+        "element": "Electro",
+        "name": "Razor",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_CLAYMORE"
+    },
+    "passives": {
+        "p1": {
+            "description": "Diminui a Recarga da <color=#FFD780FF>Garra e Trovão</color> em 18%. Usar <color=#FFD780FF>Dente de Relâmpago</color> redefine a Recarga da <color=#FFD780FF>Garra e Trovão</color>.",
+            "icon": "UI_Talent_S_Razor_05",
+            "name": "Despertamento"
+        },
+        "p2": {
+            "description": "Quando a Energia de Razor está abaixo de 50%, aumenta a Recarga de Energia em 30%.",
+            "icon": "UI_Talent_S_Razor_06",
+            "name": "Fome"
+        },
+        "p3": {
+            "description": "Diminui o consumo de Stamina ao Correr de todos os seus personagens em 20%.\\nNão acumulável com Talentos Passivos que concedem exatamente os mesmos efeitos.",
+            "icon": "UI_Talent_Explosion_Sprint",
+            "name": "Corrida de Lobos"
+        },
+        "p4": {
+            "description": "Depois de completar <color=#FFD780FF>Tarefa da Bruxa: Dos Pequenos Lobos</color>, Razor se torna um personagem <color=#FFD780FF>Mágico</color>. Quando possuir pelo menos 2 personagens Mágicos na equipe, obtém o efeito <color=#FFD780FF>Mágico: Ritual Secreto</color>, fortalecendo os personagens Mágicos.\\nAlém disso, o Supremo <color=#FFD780FF>Dente de Relâmpago</color> de Razor é fortalecido: aumenta o Dano causado de <color=#FFD780FF>Lobo do Trovão</color> em 70% do ATQ de Razor.\\n\\n<color=#FFD780FF>Mágico: Ritual Secreto</color>\\nDurante a invocação do Lobo do Trovão do Supremo <color=#FFD780FF>Dente de Relâmpago</color>, se os Selos Electro da Habilidade Elemental de Razor <color=#FFD780FF>Garra e Trovão</color> sobre-acumularem, o Lobo do Trovão causará ataques de raios elétricos contra os inimigos próximos equivalente a 150% do ATQ de Razor como Dano Electro em AdE, e regenera 7 de Energia Elemental para Razor. Esse efeito pode ser desencadeado uma vez por segundo.",
+            "icon": "UI_Talent_S_Razor_07",
+            "name": "Presente da Noite da Bruxa: Torrente Elétrica"
+        }
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Chongyun golpeia o chão com seu Espadão, causando uma explosão Cryo em uma AdE circular na sua frente que inflige <color=#99FFFFFF>Dano Cryo</color>.\\nDepois de um curto intervalo, o ar frio criado pela explosão Cryo se coalescerá em um Campo Gelado Chonghua, em que todos os personagens que usem Espada, Espadão ou Lança receberão <color=#99FFFFFF>encantamento Cryo</color>.\\n\\n<i>\"Um anel de cristal e tudo que se segue é o silêncio. Os rios não se movem, e as nuvens estão pesadas com o gelo. Os portões do altar se abrem, e o mal é banido.\"</i>",
+            "icon": "Skill_S_Chongyun_01",
+            "multipliers": {
+                "Dano de Habilidade": [
+                    "172.04%",
+                    "184.94%",
+                    "197.85%",
+                    "215.05%",
+                    "227.95%",
+                    "240.86%",
+                    "258.06%",
+                    "275.26%",
+                    "292.47%",
+                    "309.67%",
+                    "326.88%",
+                    "344.08%",
+                    "365.58%",
+                    "387.09%",
+                    "408.59%"
+                ],
+                "Duração da Área": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ],
+                "Duração do Encantamento": [
+                    "2s",
+                    "2.1s",
+                    "2.2s",
+                    "2.3s",
+                    "2.4s",
+                    "2.5s",
+                    "2.6s",
+                    "2.7s",
+                    "2.8s",
+                    "2.9s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s"
+                ],
+                "Tempo de Recarga": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ]
+            },
+            "name": "Lâmina Espiritual - Geada de Chongyun"
+        },
+        "elementalskill": {
+            "description": "Caça sua presa usando as técnicas ensinadas para ele por seu mestre e seu Lupical.\\n\\n<color=#FFD780FF>Pressionar</color>\\nBalança suas Garras de Lobo do Trovão, causando <color=#FFACFFFF>Dano Electro</color> nos inimigos em frente do Razor.\\nAo atacar um inimigo, Razor ganha um Selo Electro que aumenta sua taxa de Recarga de Energia.\\nRazor pode ter até 3 Selos Electro simultaneamente, e ganhar um novo Selo Electro recarrega sua duração.\\n\\n<color=#FFD780FF>Manter pressionado</color>\\nReúne energia Electro para desencadear uma tempestade de raios em uma pequena AdE, causando <color=#FFACFFFF>Dano Electro</color> massivo e removendo todos os Selos Electro de Razor.\\nCada Selo Electro removido dessa maneira será convertido em Energia para o Razor.\\n\\n<i>É quando relâmpagos caem que às vezes você pode ver de relance o olhar de um predador, analisando sua presa profundamente dentro dos olhos do Razor.</i>",
+            "icon": "Skill_S_Razor_01",
+            "multipliers": {
+                "Bônus de Recarga de Energia": [
+                    "20% por Selo Electro",
+                    "20% por Selo Electro",
+                    "20% por Selo Electro",
+                    "20% por Selo Electro",
+                    "20% por Selo Electro",
+                    "20% por Selo Electro",
+                    "20% por Selo Electro",
+                    "20% por Selo Electro",
+                    "20% por Selo Electro",
+                    "20% por Selo Electro",
+                    "20% por Selo Electro",
+                    "20% por Selo Electro",
+                    "20% por Selo Electro",
+                    "20% por Selo Electro",
+                    "20% por Selo Electro"
+                ],
+                "Dano de Habilidade ao Manter Pressionado": [
+                    "295.2%",
+                    "317.34%",
+                    "339.48%",
+                    "369%",
+                    "391.14%",
+                    "413.28%",
+                    "442.8%",
+                    "472.32%",
+                    "501.84%",
+                    "531.36%",
+                    "560.88%",
+                    "590.4%",
+                    "627.3%",
+                    "664.2%",
+                    "701.1%"
+                ],
+                "Dano de Habilidade de Pressionar": [
+                    "199.2%",
+                    "214.14%",
+                    "229.08%",
+                    "249%",
+                    "263.94%",
+                    "278.88%",
+                    "298.8%",
+                    "318.72%",
+                    "338.64%",
+                    "358.56%",
+                    "378.48%",
+                    "398.4%",
+                    "423.3%",
+                    "448.2%",
+                    "473.1%"
+                ],
+                "Duração do Selo Electro": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ],
+                "Energia Regenerada": [
+                    "5 por cada Selo Electro Absorvido",
+                    "5 por cada Selo Electro Absorvido",
+                    "5 por cada Selo Electro Absorvido",
+                    "5 por cada Selo Electro Absorvido",
+                    "5 por cada Selo Electro Absorvido",
+                    "5 por cada Selo Electro Absorvido",
+                    "5 por cada Selo Electro Absorvido",
+                    "5 por cada Selo Electro Absorvido",
+                    "5 por cada Selo Electro Absorvido",
+                    "5 por cada Selo Electro Absorvido",
+                    "5 por cada Selo Electro Absorvido",
+                    "5 por cada Selo Electro Absorvido",
+                    "5 por cada Selo Electro Absorvido",
+                    "5 por cada Selo Electro Absorvido",
+                    "5 por cada Selo Electro Absorvido"
+                ],
+                "Recarga ao Manter Pressionado": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ],
+                "Recarga do Pressionar": [
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s"
+                ]
+            },
+            "name": "Garra e Trovão"
+        },
+        "leveling": {
+            "books": {
+                "104304": 9,
+                "104305": 63,
+                "104306": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113004": 18
+            },
+            "worldmonster": {
+                "112005": 18,
+                "112006": 66,
+                "112007": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 4 golpes consecutivos.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nDrena Stamina ao longo do tempo para realizar um ataque giratório contínuo contra todos os inimigos próximos.\\nAo final da sequência, realiza um corte poderoso.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nMergulha em pleno ar para golpear o chão, danificando inimigos em seu caminho e infligindo Dano em uma AdE durante o impacto.",
+            "icon": "Skill_A_04",
+            "multipliers": {
+                "Consumo de Stamina de Ataque Carregado": [
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s"
+                ],
+                "Dano Durante a Queda": [
+                    "82.05%",
+                    "88.72%",
+                    "95.4%",
+                    "104.94%",
+                    "111.62%",
+                    "119.25%",
+                    "129.75%",
+                    "140.24%",
+                    "150.74%",
+                    "162.19%",
+                    "173.63%",
+                    "185.08%",
+                    "196.53%",
+                    "207.98%",
+                    "219.43%"
+                ],
+                "Dano Final de Ataque Carregado": [
+                    "113.09%",
+                    "122.29%",
+                    "131.5%",
+                    "144.65%",
+                    "153.86%",
+                    "164.37%",
+                    "178.84%",
+                    "193.31%",
+                    "207.77%",
+                    "223.55%",
+                    "239.33%",
+                    "255.11%",
+                    "270.89%",
+                    "286.67%",
+                    "302.45%"
+                ],
+                "Dano de Loop de Ataque Carregado": [
+                    "62.54%",
+                    "67.63%",
+                    "72.72%",
+                    "79.99%",
+                    "85.08%",
+                    "90.9%",
+                    "98.9%",
+                    "106.9%",
+                    "114.9%",
+                    "123.62%",
+                    "132.35%",
+                    "141.08%",
+                    "149.8%",
+                    "158.53%",
+                    "167.26%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "164.06%/204.92%",
+                    "177.41%/221.6%",
+                    "190.77%/238.28%",
+                    "209.84%/262.1%",
+                    "223.2%/278.78%",
+                    "238.46%/297.85%",
+                    "259.44%/324.06%",
+                    "280.43%/350.27%",
+                    "301.41%/376.48%",
+                    "324.3%/405.07%",
+                    "347.19%/433.66%",
+                    "370.09%/462.26%",
+                    "392.98%/490.85%",
+                    "415.87%/519.44%",
+                    "438.76%/548.04%"
+                ],
+                "Dano do 1° Golpe": [
+                    "95.92%",
+                    "102.46%",
+                    "109%",
+                    "117.72%",
+                    "124.26%",
+                    "131.89%",
+                    "141.7%",
+                    "151.51%",
+                    "161.32%",
+                    "171.13%",
+                    "180.94%",
+                    "190.75%",
+                    "200.56%",
+                    "210.37%",
+                    "220.18%"
+                ],
+                "Dano do 2° Golpe": [
+                    "82.63%",
+                    "88.27%",
+                    "93.9%",
+                    "101.41%",
+                    "107.05%",
+                    "113.62%",
+                    "122.07%",
+                    "130.52%",
+                    "138.97%",
+                    "147.42%",
+                    "155.87%",
+                    "164.32%",
+                    "172.78%",
+                    "181.23%",
+                    "189.68%"
+                ],
+                "Dano do 3° golpe ": [
+                    "103.31%",
+                    "110.36%",
+                    "117.4%",
+                    "126.79%",
+                    "133.84%",
+                    "142.05%",
+                    "152.62%",
+                    "163.19%",
+                    "173.75%",
+                    "184.32%",
+                    "194.88%",
+                    "205.45%",
+                    "216.02%",
+                    "226.58%",
+                    "237.15%"
+                ],
+                "Dano do 4° golpe": [
+                    "136.05%",
+                    "145.32%",
+                    "154.6%",
+                    "166.97%",
+                    "176.24%",
+                    "187.07%",
+                    "200.98%",
+                    "214.89%",
+                    "228.81%",
+                    "242.72%",
+                    "256.64%",
+                    "270.55%",
+                    "284.46%",
+                    "298.38%",
+                    "312.29%"
+                ],
+                "Duração Máxima": [
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s"
+                ]
+            },
+            "name": "Presa de Aço"
+        }
+    }
+}

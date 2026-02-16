@@ -1,0 +1,1381 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104121": 1,
+            "104122": 9,
+            "104123": 9,
+            "104124": 6
+        },
+        "elitemonster": {
+            "113079": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101268": 168
+        },
+        "worldmonster": {
+            "112002": 18,
+            "112003": 30,
+            "112004": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "ExtraAttack",
+            "poise": "LV2/8"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "ExtraAttack",
+            "poise": "LV2/6"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "ExtraAttack",
+            "poise": "LV3/11"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "ExtraAttack",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "Grass",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: MoonOvergrowDamage (!)",
+            "name": "MoonExtraAttack",
+            "poise": "LV3/20"
+        },
+        {
+            "element": "Grass",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: MoonOvergrowDamage (!)",
+            "name": "MoonExtraAttack",
+            "poise": "LV3/20"
+        },
+        {
+            "element": "Grass",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: MoonOvergrowDamage (!)",
+            "name": "MoonExtraAttack",
+            "poise": "LV3/20"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Electric",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: MoonShockDamage (!)",
+            "name": "ElementalArt_AvatarGadget",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Rock",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: MoonCrystallizeWaterDamage (!)",
+            "name": "ElementalArt_AvatarGadget",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Grass",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: MoonOvergrowDamage (!)",
+            "name": "ElementalArt_Overgrow_BulletTrigger",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "Water",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "Water",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/5"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Во время применения элементального навыка <color=#FFD780FF>Вечные приливы</color> сразу активируется эффект, аналогичный {LINK#N11250001}<color=#FFD780FF>Гравитационному возмущению</color>{/LINK}. Этот эффект может возникнуть раз в 15 сек.\\n\\n<color=#FFD780FF>Лунное знамение - Высшее сияние</color>\\nВо время активации Гравитационного возмущения, в зависимости от Лунной реакции, которая принесла Коломбине больше всего Зыби тяготения, возникают следующие эффекты:\\n· <color=#FFD780FF>Лунный заряд</color>: восстанавливает 6 ед. энергии активному персонажу вашего отряда.\\n· <color=#FFD780FF>Лунная бутонизация</color>: повышает сопротивление прерыванию активного персонажа вашего отряда на 8 сек.\\n· <color=#FFD780FF>Лунный кристалл</color>: на 8 сек. создаёт <color=#FFD780FF>Щит моря дождей</color>, который поглощает <color=#80C0FFFF>Гидро урон</color> с 250% эффективностью. Его поглощение урона равно 12% от макс. HP Коломбины.\\n\\nУрон Лунных реакций всех персонажей отряда поблизости {LINK#N11190007}<color=#FFD780FF>возвышается</color>{/LINK} на 1,5%.",
+            "icon": "UI_Talent_S_Columbina_01",
+            "name": "Сияние над цветами и вершинами"
+        },
+        "const2": {
+            "description": "{LINK#N11250001}<color=#FFD780FF>Сила тяготения</color>{/LINK} накапливается на 34% быстрее.\\nАктивируя <color=#FFD780FF>Гравитационное возмущение</color>, Коломбина получает эффект <color=#FFD780FF>Бледного сияния</color>, который повышает макс. HP на 40% на 8 сек.\\n<color=#FFD780FF>Лунное знамение - Высшее сияние</color>:\\nПри активации данного <color=#FFD780FF>Гравитационного возмущения</color> во время действия <color=#FFD780FF>Бледного сияния</color>, в зависимости от Лунной реакции, которая принесла Коломбине больше всего Силы тяготения, возникают следующие эффекты:\\n·<color=#FFD780FF>Лунный заряд</color>: сила атаки активного персонажа вашего отряда повышается на 1% от макс. HP Коломбины.\\n·<color=#FFD780FF>Лунная бутонизация</color>: мастерство стихий активного персонажа вашего отряда повышается на 0,35% от макс. HP Коломбины.\\n·<color=#FFD780FF>Лунный кристалл</color>: защита активного персонажа вашего отряда повышается на 1% от макс. HP Коломбины.\\n\\nУрон Лунных реакций всех персонажей отряда поблизости {LINK#N11190007}<color=#FFD780FF>возвышается</color>{/LINK} на 7%.",
+            "icon": "UI_Talent_S_Columbina_02",
+            "name": "Сопровождая в ночном пути"
+        },
+        "const3": {
+            "description": "Увеличивает уровень навыка <color=#FFD780FF>{LINK#S11252}Вечные приливы{/LINK}</color> на 3.\\nМакс. уровень: 15.\\n\\nУрон Лунных реакций всех персонажей отряда поблизости {LINK#N11190007}<color=#FFD780FF>возвышается</color>{/LINK} на 1,5%.",
+            "icon": "UI_Talent_U_Columbina_01",
+            "name": "Призрачный свет и рябь на озере грёз"
+        },
+        "const4": {
+            "description": "Во время активации {LINK#N11250001}<color=#FFD780FF>Гравитационного возмущения</color>{/LINK} Коломбина восстанавливает 4 ед. энергии.\\nКроме того, если лунная реакция, которая принесла Коломбине больше всего <color=#FFD780FF>Силы тяготения</color>, - Лунный заряд/Лунная бутонизация/Лунный кристалл, то урон Лунных реакций данного Гравитационного возмущения повышается на 12,5%/2,5%/12,5% от макс. HP Коломбины соответственно. Эффект может возникнуть один раз в 15 сек.\\n\\nУрон Лунных реакций всех персонажей отряда поблизости {LINK#N11190007}<color=#FFD780FF>возвышается</color>{/LINK} на 1,5%.",
+            "icon": "UI_Talent_S_Columbina_03",
+            "name": "Вершины в цветочной дымке"
+        },
+        "const5": {
+            "description": "Увеличивает уровень навыка <color=#FFD780FF>{LINK#S11255}Тоска во свете луны{/LINK}</color> на 3.\\nМакс. уровень: 15.\\n\\nУрон Лунных реакций всех персонажей отряда поблизости {LINK#N11190007}<color=#FFD780FF>возвышается</color>{/LINK} на 1,5%.",
+            "icon": "UI_Talent_U_Columbina_02",
+            "name": "Одинокая песнь в тишине"
+        },
+        "const6": {
+            "description": "На 8 сек. после того, как персонажи во {LINK#N11250002}<color=#FFD780FF>Владениях луны</color>{/LINK} активируют Лунные реакции, крит. урон соответствующих элементов, которые участвовали в реакциях, для персонажей отряда повышается на 80%. Эффекты повышения крит. урона для элементов одного типа не складываются.\\n\\nУрон Лунных реакций всех персонажей отряда поблизости {LINK#N11190007}<color=#FFD780FF>возвышается</color>{/LINK} на 7%.",
+            "icon": "UI_Talent_S_Columbina_04",
+            "name": "Сквозь тьму за лунным светом"
+        }
+    },
+    "energy": [
+        {
+            "cd": "3.5s (Tick)",
+            "chance": "66%",
+            "particles": "1",
+            "source": "DropBall"
+        },
+        {
+            "cd": "3.5s (Tick)",
+            "chance": "33%",
+            "particles": "2",
+            "source": "DropBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Columbina",
+        "forward": "UI_AvatarIcon_Columbina"
+    },
+    "info": {
+        "attributes": [
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 7,
+                "def": 40,
+                "hp": 1144,
+                "level": 1
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 8,
+                "def": 43,
+                "hp": 1239,
+                "level": 2
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 9,
+                "def": 47,
+                "hp": 1334,
+                "level": 3
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 9,
+                "def": 50,
+                "hp": 1430,
+                "level": 4
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 10,
+                "def": 53,
+                "hp": 1525,
+                "level": 5
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 11,
+                "def": 57,
+                "hp": 1621,
+                "level": 6
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 11,
+                "def": 60,
+                "hp": 1716,
+                "level": 7
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 12,
+                "def": 63,
+                "hp": 1812,
+                "level": 8
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 12,
+                "def": 67,
+                "hp": 1908,
+                "level": 9
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 13,
+                "def": 70,
+                "hp": 2003,
+                "level": 10
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 14,
+                "def": 74,
+                "hp": 2099,
+                "level": 11
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 14,
+                "def": 77,
+                "hp": 2195,
+                "level": 12
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 15,
+                "def": 80,
+                "hp": 2291,
+                "level": 13
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 16,
+                "def": 84,
+                "hp": 2389,
+                "level": 14
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 16,
+                "def": 87,
+                "hp": 2485,
+                "level": 15
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 17,
+                "def": 90,
+                "hp": 2581,
+                "level": 16
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 17,
+                "def": 94,
+                "hp": 2678,
+                "level": 17
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 18,
+                "def": 97,
+                "hp": 2774,
+                "level": 18
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 101,
+                "hp": 2871,
+                "level": 19
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 104,
+                "hp": 2967,
+                "level": 20
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 26,
+                "def": 142,
+                "hp": 4046,
+                "level": 21
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 27,
+                "def": 145,
+                "hp": 4143,
+                "level": 22
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 28,
+                "def": 149,
+                "hp": 4240,
+                "level": 23
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 28,
+                "def": 152,
+                "hp": 4337,
+                "level": 24
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 29,
+                "def": 155,
+                "hp": 4435,
+                "level": 25
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 30,
+                "def": 159,
+                "hp": 4533,
+                "level": 26
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 30,
+                "def": 162,
+                "hp": 4630,
+                "level": 27
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 31,
+                "def": 166,
+                "hp": 4727,
+                "level": 28
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 31,
+                "def": 169,
+                "hp": 4826,
+                "level": 29
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 32,
+                "def": 173,
+                "hp": 4923,
+                "level": 30
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 33,
+                "def": 176,
+                "hp": 5021,
+                "level": 31
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 33,
+                "def": 179,
+                "hp": 5120,
+                "level": 32
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 34,
+                "def": 183,
+                "hp": 5218,
+                "level": 33
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 35,
+                "def": 186,
+                "hp": 5315,
+                "level": 34
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 35,
+                "def": 190,
+                "hp": 5414,
+                "level": 35
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 36,
+                "def": 193,
+                "hp": 5513,
+                "level": 36
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 37,
+                "def": 197,
+                "hp": 5612,
+                "level": 37
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 37,
+                "def": 200,
+                "hp": 5710,
+                "level": 38
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 38,
+                "def": 204,
+                "hp": 5808,
+                "level": 39
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 38,
+                "def": 207,
+                "hp": 5908,
+                "level": 40
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 44,
+                "def": 235,
+                "hp": 6703,
+                "level": 41
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 44,
+                "def": 238,
+                "hp": 6803,
+                "level": 42
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 45,
+                "def": 242,
+                "hp": 6902,
+                "level": 43
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 46,
+                "def": 245,
+                "hp": 7001,
+                "level": 44
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 46,
+                "def": 249,
+                "hp": 7100,
+                "level": 45
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 47,
+                "def": 252,
+                "hp": 7200,
+                "level": 46
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 48,
+                "def": 256,
+                "hp": 7299,
+                "level": 47
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 48,
+                "def": 259,
+                "hp": 7399,
+                "level": 48
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 49,
+                "def": 263,
+                "hp": 7500,
+                "level": 49
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 49,
+                "def": 266,
+                "hp": 7599,
+                "level": 50
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 56,
+                "def": 302,
+                "hp": 8628,
+                "level": 51
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 57,
+                "def": 306,
+                "hp": 8728,
+                "level": 52
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 57,
+                "def": 309,
+                "hp": 8828,
+                "level": 53
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 58,
+                "def": 313,
+                "hp": 8929,
+                "level": 54
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 59,
+                "def": 316,
+                "hp": 9029,
+                "level": 55
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 59,
+                "def": 320,
+                "hp": 9130,
+                "level": 56
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 60,
+                "def": 323,
+                "hp": 9231,
+                "level": 57
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 61,
+                "def": 327,
+                "hp": 9331,
+                "level": 58
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 61,
+                "def": 331,
+                "hp": 9432,
+                "level": 59
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 62,
+                "def": 334,
+                "hp": 9533,
+                "level": 60
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 67,
+                "def": 362,
+                "hp": 10330,
+                "level": 61
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 68,
+                "def": 366,
+                "hp": 10431,
+                "level": 62
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 69,
+                "def": 369,
+                "hp": 10533,
+                "level": 63
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 69,
+                "def": 373,
+                "hp": 10633,
+                "level": 64
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 70,
+                "def": 376,
+                "hp": 10735,
+                "level": 65
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 71,
+                "def": 380,
+                "hp": 10837,
+                "level": 66
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 71,
+                "def": 383,
+                "hp": 10938,
+                "level": 67
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 72,
+                "def": 387,
+                "hp": 11040,
+                "level": 68
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 73,
+                "def": 390,
+                "hp": 11141,
+                "level": 69
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 73,
+                "def": 394,
+                "hp": 11243,
+                "level": 70
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 78,
+                "def": 422,
+                "hp": 12042,
+                "level": 71
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 79,
+                "def": 426,
+                "hp": 12145,
+                "level": 72
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 80,
+                "def": 429,
+                "hp": 12247,
+                "level": 73
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 80,
+                "def": 433,
+                "hp": 12349,
+                "level": 74
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 81,
+                "def": 436,
+                "hp": 12451,
+                "level": 75
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 82,
+                "def": 440,
+                "hp": 12553,
+                "level": 76
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 82,
+                "def": 443,
+                "hp": 12656,
+                "level": 77
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 83,
+                "def": 447,
+                "hp": 12759,
+                "level": 78
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 84,
+                "def": 451,
+                "hp": 12862,
+                "level": 79
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 84,
+                "def": 454,
+                "hp": 12965,
+                "level": 80
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 90,
+                "def": 482,
+                "hp": 13765,
+                "level": 81
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 90,
+                "def": 486,
+                "hp": 13868,
+                "level": 82
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 91,
+                "def": 490,
+                "hp": 13971,
+                "level": 83
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 92,
+                "def": 493,
+                "hp": 14074,
+                "level": 84
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 92,
+                "def": 497,
+                "hp": 14177,
+                "level": 85
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 93,
+                "def": 500,
+                "hp": 14281,
+                "level": 86
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 94,
+                "def": 504,
+                "hp": 14384,
+                "level": 87
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 94,
+                "def": 508,
+                "hp": 14488,
+                "level": 88
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 95,
+                "def": 511,
+                "hp": 14592,
+                "level": 89
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 96,
+                "def": 515,
+                "hp": 14695,
+                "level": 90
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 106,
+                "def": 533,
+                "hp": 15217,
+                "level": 95
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 117,
+                "def": 552,
+                "hp": 15740,
+                "level": 100
+            }
+        ],
+        "birthday": "January 14th",
+        "constellation": "???",
+        "description": "Дева Луны, рождённая в Нод-Крае, она же небесная луна, что вернулась домой.",
+        "element": "Hydro",
+        "name": "Коломбина",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_CATALYST"
+    },
+    "passives": {
+        "p1": {
+            "description": "Активируя {LINK#N11250001}<color=#FFD780FF>Гравитационное возмущение</color>{/LINK}, Коломбина получает эффект Лунного безумия, который на 10 сек. повышает её шанс крит. попадания на 5%. Этот эффект складывается до 3 раз.",
+            "icon": "UI_Talent_S_Columbina_05",
+            "name": "Прелесть лунного безумия"
+        },
+        "p2": {
+            "description": "Персонажи во {LINK#N11250002}<color=#FFD780FF>Владениях луны</color>{/LINK}, вызывая разные Лунные реакции, получают соответствующие эффекты:\\n·<color=#FFD780FF>Лунный заряд</color>: интервал между атаками грозовой тучи сокращается на 0,5 сек.\\n·<color=#FFD780FF>Лунная бутонизация</color>: при активации Лунной бутонизации отряд получает особенную {LINK#N11250003}<color=#FFD780FF>Росу лунных кряжей</color>{/LINK}. Отряд может получать Росу лунных кряжей таким способом не чаще 3 раз в 18 сек.\\n·<color=#FFD780FF>Лунный кристалл</color>: при активации Гармонии лунного света каждая Лунная пелена с вероятностью 33% выполняет дополнительную атаку.",
+            "icon": "UI_Talent_S_Columbina_06",
+            "name": "Закон новолуния"
+        },
+        "p3": {
+            "description": "Когда персонажи отряда активируют реакции Заряжен, Бутонизация и Гидро Кристалл, они превращаются в реакции Лунный заряд, Лунная бутонизация и Лунный кристалл соответственно, а базовый урон Лунных реакций персонажей отряда увеличивается на 0,2% за каждую 1000 ед. макс. HP Коломбины. Максимальное увеличение урона, которое можно получить таким образом, составляет 7%.\\n\\nКроме того, когда Коломбина в отряде, уровень <color=#FFD780FF>Лунного знамения</color> отряда повышается на 1.",
+            "icon": "UI_Talent_S_Columbina_07",
+            "name": "Дар лунного знамения: Отданный тебе лунный свет"
+        },
+        "p4": {
+            "description": "Если вы находитесь в Нод-Крае и персонаж вашего отряда теряет создание, Коломбина воскрешает его и восстанавливает его HP. Количество восстанавливаемого HP зависит от уровня дружбы Коломбины. Этот эффект может возникнуть один раз в 100 сек.\\nКроме того, у Коломбины особая связь с некоторыми маленькими животными, на которых воздействует куувяки...",
+            "icon": "UI_Talent_S_Columbina_08",
+            "name": "Бдение луны"
+        }
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Горы и моря сливаются под непорочным светом молодого месяца, на короткое время превращая местность поблизости во {LINK#N11250002}<color=#FFD780FF>Владения луны</color>{/LINK} и нанося <color=#80C0FFFF>Гидро урон по площади</color>.",
+            "icon": "Skill_E_Columbina_01",
+            "multipliers": {
+                "Время отката": [
+                    "15 сек.",
+                    "15 сек.",
+                    "15 сек.",
+                    "15 сек.",
+                    "15 сек.",
+                    "15 сек.",
+                    "15 сек.",
+                    "15 сек.",
+                    "15 сек.",
+                    "15 сек.",
+                    "15 сек.",
+                    "15 сек.",
+                    "15 сек.",
+                    "15 сек.",
+                    "15 сек."
+                ],
+                "Длительность Владений луны": [
+                    "20 сек.",
+                    "20 сек.",
+                    "20 сек.",
+                    "20 сек.",
+                    "20 сек.",
+                    "20 сек.",
+                    "20 сек.",
+                    "20 сек.",
+                    "20 сек.",
+                    "20 сек.",
+                    "20 сек.",
+                    "20 сек.",
+                    "20 сек.",
+                    "20 сек.",
+                    "20 сек."
+                ],
+                "Повышение урона Лунных реакций": [
+                    "13%",
+                    "16%",
+                    "19%",
+                    "22%",
+                    "25%",
+                    "28%",
+                    "31%",
+                    "34%",
+                    "37%",
+                    "40%",
+                    "43%",
+                    "46%",
+                    "49%",
+                    "52%",
+                    "55%"
+                ],
+                "Потребление энергии": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "Урон навыка": [
+                    "32.24% макс. HP",
+                    "34.66% макс. HP",
+                    "37.08% макс. HP",
+                    "40.3% макс. HP",
+                    "42.72% макс. HP",
+                    "45.14% макс. HP",
+                    "48.36% макс. HP",
+                    "51.58% макс. HP",
+                    "54.81% макс. HP",
+                    "58.03% макс. HP",
+                    "61.26% макс. HP",
+                    "64.48% макс. HP",
+                    "68.51% макс. HP",
+                    "72.54% макс. HP",
+                    "76.57% макс. HP"
+                ]
+            },
+            "name": "Тоска во свете луны"
+        },
+        "elementalskill": {
+            "description": "Призывает прилив лунного моря, наносит <color=#80C0FFFF>Гидро урон по площади</color> и создаёт {LINK#N11250001}<color=#FFD780FF>Зыбь тяготения</color>{/LINK}.\\n<color=#FFD780FF>Зыбь тяготения</color> следует за активным персонажем и периодически атакует врагов поблизости, нанося <color=#80C0FFFF>Гидро урон по площади</color>. Во время действия <color=#FFD780FF>Зыби тяготения</color>, когда персонажи отряда поблизости вызывают Лунные реакции или наносят ими урон, Коломбина будет получать особую <color=#FFD780FF>Силу тяготения</color>. Когда она достигает максимума, в зависимости от реакции, которая принесла Коломбине больше всего <color=#FFD780FF>Силы тяготения</color>, врагам будет нанесён урон разных типов.\\n<color=#FFD780FF>Лунное знамение - Высшее сияние</color>: <color=#FFD780FF>Зыбь тяготения</color> наносит <color=#80C0FFFF>Гидро урон по большей площади</color>.",
+            "icon": "Skill_S_Columbina_01",
+            "multipliers": {
+                "Время отката": [
+                    "17 сек.",
+                    "17 сек.",
+                    "17 сек.",
+                    "17 сек.",
+                    "17 сек.",
+                    "17 сек.",
+                    "17 сек.",
+                    "17 сек.",
+                    "17 сек.",
+                    "17 сек.",
+                    "17 сек.",
+                    "17 сек.",
+                    "17 сек.",
+                    "17 сек.",
+                    "17 сек."
+                ],
+                "Длительность Зыби тяготения": [
+                    "25 сек.",
+                    "25 сек.",
+                    "25 сек.",
+                    "25 сек.",
+                    "25 сек.",
+                    "25 сек.",
+                    "25 сек.",
+                    "25 сек.",
+                    "25 сек.",
+                    "25 сек.",
+                    "25 сек.",
+                    "25 сек.",
+                    "25 сек.",
+                    "25 сек.",
+                    "25 сек."
+                ],
+                "Максимум Силы тяготения": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "Периодический урон Зыби тяготения": [
+                    "9.36% макс. HP",
+                    "10.06% макс. HP",
+                    "10.76% макс. HP",
+                    "11.7% макс. HP",
+                    "12.4% макс. HP",
+                    "13.1% макс. HP",
+                    "14.04% макс. HP",
+                    "14.98% макс. HP",
+                    "15.91% макс. HP",
+                    "16.85% макс. HP",
+                    "17.78% макс. HP",
+                    "18.72% макс. HP",
+                    "19.89% макс. HP",
+                    "21.06% макс. HP",
+                    "22.23% макс. HP"
+                ],
+                "Урон Лунного заряда Гравитационного возмущения": [
+                    "4.7% макс. HP",
+                    "5.06% макс. HP",
+                    "5.41% макс. HP",
+                    "5.88% макс. HP",
+                    "6.23% макс. HP",
+                    "6.59% макс. HP",
+                    "7.06% макс. HP",
+                    "7.53% макс. HP",
+                    "8% макс. HP",
+                    "8.47% макс. HP",
+                    "8.94% макс. HP",
+                    "9.41% макс. HP",
+                    "10% макс. HP",
+                    "10.58% макс. HP",
+                    "11.17% макс. HP"
+                ],
+                "Урон Лунного кристалла Гравитационного возмущения": [
+                    "8.82% макс. HP",
+                    "9.49% макс. HP",
+                    "10.15% макс. HP",
+                    "11.03% макс. HP",
+                    "11.69% макс. HP",
+                    "12.35% макс. HP",
+                    "13.24% макс. HP",
+                    "14.12% макс. HP",
+                    "15% макс. HP",
+                    "15.88% макс. HP",
+                    "16.77% макс. HP",
+                    "17.65% макс. HP",
+                    "18.75% макс. HP",
+                    "19.85% макс. HP",
+                    "20.96% макс. HP"
+                ],
+                "Урон Лунной бутонизации Гравитационного возмущения": [
+                    "1.41% макс. HP ×5",
+                    "1.51% макс. HP ×5",
+                    "1.62% макс. HP ×5",
+                    "1.76% макс. HP ×5",
+                    "1.87% макс. HP ×5",
+                    "1.97% макс. HP ×5",
+                    "2.11% макс. HP ×5",
+                    "2.25% макс. HP ×5",
+                    "2.39% макс. HP ×5",
+                    "2.53% макс. HP ×5",
+                    "2.68% макс. HP ×5",
+                    "2.82% макс. HP ×5",
+                    "2.99% макс. HP ×5",
+                    "3.17% макс. HP ×5",
+                    "3.34% макс. HP ×5"
+                ],
+                "Урон навыка": [
+                    "16.72% макс. HP",
+                    "17.97% макс. HP",
+                    "19.23% макс. HP",
+                    "20.9% макс. HP",
+                    "22.15% макс. HP",
+                    "23.41% макс. HP",
+                    "25.08% макс. HP",
+                    "26.75% макс. HP",
+                    "28.42% макс. HP",
+                    "30.1% макс. HP",
+                    "31.77% макс. HP",
+                    "33.44% макс. HP",
+                    "35.53% макс. HP",
+                    "37.62% макс. HP",
+                    "39.71% макс. HP"
+                ]
+            },
+            "name": "Вечные приливы"
+        },
+        "leveling": {
+            "books": {
+                "104356": 9,
+                "104357": 63,
+                "104358": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113081": 18
+            },
+            "worldmonster": {
+                "112002": 18,
+                "112003": 66,
+                "112004": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Обычная атака:</color>\\nПризывает волны лунного сияния и выполняет до трёх атак, наносящих <color=#80C0FFFF>Гидро урон</color>.\\n\\n<color=#FFD780FF>Заряженная атака:</color>\\nПосле прочтения краткого заклинания, на которое тратится определённое количество выносливости, наносит <color=#80C0FFFF>Гидро урон по площади</color>.\\nЕсли есть хотя бы 1 {LINK#N11190008}<color=#FFD780FF>Зелёная роса</color>{/LINK}, заряженная атака Коломбины сменяется на особенную заряженную атаку <color=#FFD780FF>Очищение лунной росой</color> которая не расходует выносливость: расходуется 1 Зелёная роса и 3 раза наносится <color=#99FF88FF>Дендро урон по площади</color> врагам впереди. Такой урон считается уроном Лунной бутонизации.\\n\\n<color=#FFD780FF>Атака в падении:</color>\\nСтремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит <color=#80C0FFFF>Гидро урон по площади</color>.",
+            "icon": "Skill_A_Catalyst_MD",
+            "multipliers": {
+                "Потребление выносливости": [
+                    "50 ед.",
+                    "50 ед.",
+                    "50 ед.",
+                    "50 ед.",
+                    "50 ед.",
+                    "50 ед.",
+                    "50 ед.",
+                    "50 ед.",
+                    "50 ед.",
+                    "50 ед.",
+                    "50 ед.",
+                    "50 ед.",
+                    "50 ед.",
+                    "50 ед.",
+                    "50 ед."
+                ],
+                "Урон Очищения лунной росой": [
+                    "1.51% макс. HP ×3",
+                    "1.62% макс. HP ×3",
+                    "1.74% макс. HP ×3",
+                    "1.89% макс. HP ×3",
+                    "2% макс. HP ×3",
+                    "2.12% макс. HP ×3",
+                    "2.27% макс. HP ×3",
+                    "2.42% макс. HP ×3",
+                    "2.57% макс. HP ×3",
+                    "2.72% макс. HP ×3",
+                    "2.87% макс. HP ×3",
+                    "3.02% макс. HP ×3",
+                    "3.21% макс. HP ×3",
+                    "3.4% макс. HP ×3",
+                    "3.59% макс. HP ×3"
+                ],
+                "Урон атаки 1": [
+                    "46.79%",
+                    "50.3%",
+                    "53.81%",
+                    "58.49%",
+                    "62%",
+                    "65.51%",
+                    "70.19%",
+                    "74.87%",
+                    "79.55%",
+                    "84.23%",
+                    "88.9%",
+                    "93.58%",
+                    "99.43%",
+                    "105.28%",
+                    "111.13%"
+                ],
+                "Урон атаки 2": [
+                    "36.63%",
+                    "39.37%",
+                    "42.12%",
+                    "45.78%",
+                    "48.53%",
+                    "51.28%",
+                    "54.94%",
+                    "58.6%",
+                    "62.26%",
+                    "65.93%",
+                    "69.59%",
+                    "73.25%",
+                    "77.83%",
+                    "82.41%",
+                    "86.99%"
+                ],
+                "Урон атаки 3": [
+                    "58.48%",
+                    "62.87%",
+                    "67.26%",
+                    "73.11%",
+                    "77.49%",
+                    "81.88%",
+                    "87.73%",
+                    "93.57%",
+                    "99.42%",
+                    "105.27%",
+                    "111.12%",
+                    "116.97%",
+                    "124.28%",
+                    "131.59%",
+                    "138.9%"
+                ],
+                "Урон в падении": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "Урон заряженной атаки": [
+                    "116.08%",
+                    "124.79%",
+                    "133.49%",
+                    "145.1%",
+                    "153.81%",
+                    "162.51%",
+                    "174.12%",
+                    "185.73%",
+                    "197.34%",
+                    "208.94%",
+                    "220.55%",
+                    "232.16%",
+                    "246.67%",
+                    "261.18%",
+                    "275.69%"
+                ],
+                "Урон низкого/высокого удара": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ]
+            },
+            "name": "Ливень лунных рос"
+        }
+    }
+}

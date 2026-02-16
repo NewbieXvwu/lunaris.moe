@@ -1,0 +1,1485 @@
+{
+    "info": {
+        "name": "Cyno",
+        "description": "O General Mahamatra responsável por supervisionar os pesquisadores da Academia.\\nDizem que quando ele está trabalhando, o General Mahamatra é ainda mais eficiente do que o \"Grande Vayuvyastra\" feito pelo Kshahrewar.",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_POLE",
+        "birthday": "June 23rd",
+        "element": "Electro",
+        "constellation": "Lupus Aureus",
+        "attributes": [
+            {
+                "level": 1,
+                "ascension": 0,
+                "hp": 972,
+                "atk": 25,
+                "def": 67,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 2,
+                "ascension": 0,
+                "hp": 1053,
+                "atk": 27,
+                "def": 72,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 3,
+                "ascension": 0,
+                "hp": 1134,
+                "atk": 29,
+                "def": 78,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 4,
+                "ascension": 0,
+                "hp": 1215,
+                "atk": 31,
+                "def": 84,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 5,
+                "ascension": 0,
+                "hp": 1296,
+                "atk": 33,
+                "def": 89,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 6,
+                "ascension": 0,
+                "hp": 1378,
+                "atk": 35,
+                "def": 95,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 7,
+                "ascension": 0,
+                "hp": 1459,
+                "atk": 37,
+                "def": 100,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 8,
+                "ascension": 0,
+                "hp": 1540,
+                "atk": 39,
+                "def": 106,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 9,
+                "ascension": 0,
+                "hp": 1622,
+                "atk": 41,
+                "def": 112,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 10,
+                "ascension": 0,
+                "hp": 1703,
+                "atk": 43,
+                "def": 117,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 11,
+                "ascension": 0,
+                "hp": 1784,
+                "atk": 45,
+                "def": 123,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 12,
+                "ascension": 0,
+                "hp": 1866,
+                "atk": 48,
+                "def": 128,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 13,
+                "ascension": 0,
+                "hp": 1948,
+                "atk": 50,
+                "def": 134,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 14,
+                "ascension": 0,
+                "hp": 2030,
+                "atk": 52,
+                "def": 140,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 15,
+                "ascension": 0,
+                "hp": 2112,
+                "atk": 54,
+                "def": 145,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 16,
+                "ascension": 0,
+                "hp": 2194,
+                "atk": 56,
+                "def": 151,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 17,
+                "ascension": 0,
+                "hp": 2276,
+                "atk": 58,
+                "def": 157,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 18,
+                "ascension": 0,
+                "hp": 2358,
+                "atk": 60,
+                "def": 162,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 19,
+                "ascension": 0,
+                "hp": 2441,
+                "atk": 62,
+                "def": 168,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 20,
+                "ascension": 0,
+                "hp": 2522,
+                "atk": 64,
+                "def": 174,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 21,
+                "ascension": 1,
+                "hp": 3439,
+                "atk": 88,
+                "def": 237,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 22,
+                "ascension": 1,
+                "hp": 3521,
+                "atk": 90,
+                "def": 242,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 23,
+                "ascension": 1,
+                "hp": 3604,
+                "atk": 92,
+                "def": 248,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 24,
+                "ascension": 1,
+                "hp": 3687,
+                "atk": 94,
+                "def": 254,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 25,
+                "ascension": 1,
+                "hp": 3769,
+                "atk": 96,
+                "def": 259,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 26,
+                "ascension": 1,
+                "hp": 3853,
+                "atk": 98,
+                "def": 265,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 27,
+                "ascension": 1,
+                "hp": 3936,
+                "atk": 100,
+                "def": 271,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 28,
+                "ascension": 1,
+                "hp": 4018,
+                "atk": 102,
+                "def": 276,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 29,
+                "ascension": 1,
+                "hp": 4102,
+                "atk": 104,
+                "def": 282,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 30,
+                "ascension": 1,
+                "hp": 4185,
+                "atk": 107,
+                "def": 288,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 31,
+                "ascension": 1,
+                "hp": 4268,
+                "atk": 109,
+                "def": 294,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 32,
+                "ascension": 1,
+                "hp": 4352,
+                "atk": 111,
+                "def": 299,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 33,
+                "ascension": 1,
+                "hp": 4435,
+                "atk": 113,
+                "def": 305,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 34,
+                "ascension": 1,
+                "hp": 4518,
+                "atk": 115,
+                "def": 311,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 35,
+                "ascension": 1,
+                "hp": 4602,
+                "atk": 117,
+                "def": 317,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 36,
+                "ascension": 1,
+                "hp": 4686,
+                "atk": 119,
+                "def": 322,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 37,
+                "ascension": 1,
+                "hp": 4770,
+                "atk": 121,
+                "def": 328,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 38,
+                "ascension": 1,
+                "hp": 4854,
+                "atk": 124,
+                "def": 334,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 39,
+                "ascension": 1,
+                "hp": 4937,
+                "atk": 126,
+                "def": 340,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 40,
+                "ascension": 1,
+                "hp": 5022,
+                "atk": 128,
+                "def": 345,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 41,
+                "ascension": 2,
+                "hp": 5698,
+                "atk": 145,
+                "def": 392,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 42,
+                "ascension": 2,
+                "hp": 5782,
+                "atk": 147,
+                "def": 398,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 43,
+                "ascension": 2,
+                "hp": 5867,
+                "atk": 149,
+                "def": 404,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 44,
+                "ascension": 2,
+                "hp": 5951,
+                "atk": 152,
+                "def": 409,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 45,
+                "ascension": 2,
+                "hp": 6035,
+                "atk": 154,
+                "def": 415,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 46,
+                "ascension": 2,
+                "hp": 6120,
+                "atk": 156,
+                "def": 421,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 47,
+                "ascension": 2,
+                "hp": 6204,
+                "atk": 158,
+                "def": 427,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 48,
+                "ascension": 2,
+                "hp": 6289,
+                "atk": 160,
+                "def": 433,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 49,
+                "ascension": 2,
+                "hp": 6375,
+                "atk": 162,
+                "def": 439,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 50,
+                "ascension": 2,
+                "hp": 6459,
+                "atk": 164,
+                "def": 444,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 51,
+                "ascension": 3,
+                "hp": 7334,
+                "atk": 187,
+                "def": 504,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 52,
+                "ascension": 3,
+                "hp": 7419,
+                "atk": 189,
+                "def": 510,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 53,
+                "ascension": 3,
+                "hp": 7504,
+                "atk": 191,
+                "def": 516,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 54,
+                "ascension": 3,
+                "hp": 7589,
+                "atk": 193,
+                "def": 522,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 55,
+                "ascension": 3,
+                "hp": 7675,
+                "atk": 195,
+                "def": 528,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 56,
+                "ascension": 3,
+                "hp": 7761,
+                "atk": 198,
+                "def": 534,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 57,
+                "ascension": 3,
+                "hp": 7846,
+                "atk": 200,
+                "def": 540,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 58,
+                "ascension": 3,
+                "hp": 7932,
+                "atk": 202,
+                "def": 546,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 59,
+                "ascension": 3,
+                "hp": 8017,
+                "atk": 204,
+                "def": 552,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 60,
+                "ascension": 3,
+                "hp": 8103,
+                "atk": 206,
+                "def": 557,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 61,
+                "ascension": 4,
+                "hp": 8781,
+                "atk": 224,
+                "def": 604,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 62,
+                "ascension": 4,
+                "hp": 8866,
+                "atk": 226,
+                "def": 610,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 63,
+                "ascension": 4,
+                "hp": 8953,
+                "atk": 228,
+                "def": 616,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 64,
+                "ascension": 4,
+                "hp": 9038,
+                "atk": 230,
+                "def": 622,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 65,
+                "ascension": 4,
+                "hp": 9125,
+                "atk": 232,
+                "def": 628,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 66,
+                "ascension": 4,
+                "hp": 9212,
+                "atk": 235,
+                "def": 634,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 67,
+                "ascension": 4,
+                "hp": 9297,
+                "atk": 237,
+                "def": 640,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 68,
+                "ascension": 4,
+                "hp": 9384,
+                "atk": 239,
+                "def": 646,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 69,
+                "ascension": 4,
+                "hp": 9470,
+                "atk": 241,
+                "def": 651,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 70,
+                "ascension": 4,
+                "hp": 9557,
+                "atk": 243,
+                "def": 657,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 71,
+                "ascension": 5,
+                "hp": 10236,
+                "atk": 261,
+                "def": 704,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 72,
+                "ascension": 5,
+                "hp": 10323,
+                "atk": 263,
+                "def": 710,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 73,
+                "ascension": 5,
+                "hp": 10410,
+                "atk": 265,
+                "def": 716,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 74,
+                "ascension": 5,
+                "hp": 10496,
+                "atk": 267,
+                "def": 722,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 75,
+                "ascension": 5,
+                "hp": 10584,
+                "atk": 270,
+                "def": 728,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 76,
+                "ascension": 5,
+                "hp": 10670,
+                "atk": 272,
+                "def": 734,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 77,
+                "ascension": 5,
+                "hp": 10758,
+                "atk": 274,
+                "def": 740,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 78,
+                "ascension": 5,
+                "hp": 10845,
+                "atk": 276,
+                "def": 746,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 79,
+                "ascension": 5,
+                "hp": 10933,
+                "atk": 278,
+                "def": 752,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 80,
+                "ascension": 5,
+                "hp": 11020,
+                "atk": 281,
+                "def": 758,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 81,
+                "ascension": 6,
+                "hp": 11700,
+                "atk": 298,
+                "def": 805,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 82,
+                "ascension": 6,
+                "hp": 11788,
+                "atk": 300,
+                "def": 811,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 83,
+                "ascension": 6,
+                "hp": 11875,
+                "atk": 302,
+                "def": 817,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 84,
+                "ascension": 6,
+                "hp": 11963,
+                "atk": 305,
+                "def": 823,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 85,
+                "ascension": 6,
+                "hp": 12050,
+                "atk": 307,
+                "def": 829,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 86,
+                "ascension": 6,
+                "hp": 12139,
+                "atk": 309,
+                "def": 835,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 87,
+                "ascension": 6,
+                "hp": 12226,
+                "atk": 311,
+                "def": 841,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 88,
+                "ascension": 6,
+                "hp": 12315,
+                "atk": 314,
+                "def": 847,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 89,
+                "ascension": 6,
+                "hp": 12403,
+                "atk": 316,
+                "def": 853,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 90,
+                "ascension": 6,
+                "hp": 12491,
+                "atk": 318,
+                "def": 859,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 95,
+                "ascension": 6,
+                "hp": 12934,
+                "atk": 354,
+                "def": 890,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 100,
+                "ascension": 6,
+                "hp": 13379,
+                "atk": 390,
+                "def": 920,
+                "CRIT DMG%": "38.4"
+            }
+        ]
+    },
+    "icons": {
+        "forward": "UI_AvatarIcon_Cyno",
+        "coop_img": "UI_CoopImg_Cyno"
+    },
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101225": 168
+        },
+        "elemental": {
+            "104141": 1,
+            "104142": 9,
+            "104143": 9,
+            "104144": 6
+        },
+        "worldmonster": {
+            "112008": 18,
+            "112009": 30,
+            "112010": 36
+        },
+        "elitemonster": {
+            "113037": 46
+        }
+    },
+    "skills": {
+        "normalattack": {
+            "name": "Lança da Invocação",
+            "icon": "Skill_A_03",
+            "multipliers": {
+                "Dano do 1° Golpe": [
+                    "49.26%",
+                    "53.27%",
+                    "57.28%",
+                    "63%",
+                    "67.01%",
+                    "71.6%",
+                    "77.9%",
+                    "84.2%",
+                    "90.5%",
+                    "97.37%",
+                    "104.24%",
+                    "111.12%",
+                    "117.99%",
+                    "124.86%",
+                    "131.73%"
+                ],
+                "Dano do 2° Golpe": [
+                    "47.92%",
+                    "51.82%",
+                    "55.72%",
+                    "61.29%",
+                    "65.19%",
+                    "69.65%",
+                    "75.78%",
+                    "81.91%",
+                    "88.04%",
+                    "94.73%",
+                    "101.41%",
+                    "108.1%",
+                    "114.79%",
+                    "121.47%",
+                    "128.16%"
+                ],
+                "Dano do 3° Golpe": [
+                    "29.31%+29.31%",
+                    "31.69%+31.69%",
+                    "34.08%+34.08%",
+                    "37.48%+37.48%",
+                    "39.87%+39.87%",
+                    "42.6%+42.6%",
+                    "46.34%+46.34%",
+                    "50.09%+50.09%",
+                    "53.84%+53.84%",
+                    "57.93%+57.93%",
+                    "62.02%+62.02%",
+                    "66.11%+66.11%",
+                    "70.2%+70.2%",
+                    "74.29%+74.29%",
+                    "78.38%+78.38%"
+                ],
+                "Dano do 4° Golpe": [
+                    "75.89%",
+                    "82.07%",
+                    "88.24%",
+                    "97.07%",
+                    "103.25%",
+                    "110.31%",
+                    "120.01%",
+                    "129.72%",
+                    "139.43%",
+                    "150.02%",
+                    "160.61%",
+                    "171.2%",
+                    "181.78%",
+                    "192.37%",
+                    "202.96%"
+                ],
+                "Dano de Ataque Carregado": [
+                    "122.38%",
+                    "132.34%",
+                    "142.3%",
+                    "156.53%",
+                    "166.49%",
+                    "177.87%",
+                    "193.53%",
+                    "209.18%",
+                    "224.83%",
+                    "241.91%",
+                    "258.99%",
+                    "276.06%",
+                    "293.14%",
+                    "310.21%",
+                    "327.29%"
+                ],
+                "Consumo de Stamina do Ataque Carregado": [
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25"
+                ],
+                "Dano Durante a Queda": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ]
+            },
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 4 golpes com a lança.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome uma certa quantidade de Stamina para se lançar para frente, infligindo Dano em seu trajeto.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto."
+        },
+        "elementalskill": {
+            "name": "Ritual Secreto: Travessia Abissal",
+            "icon": "Skill_S_Cyno_01",
+            "multipliers": {
+                "Dano de Habilidade": [
+                    "130.4%",
+                    "140.18%",
+                    "149.96%",
+                    "163%",
+                    "172.78%",
+                    "182.56%",
+                    "195.6%",
+                    "208.64%",
+                    "221.68%",
+                    "234.72%",
+                    "247.76%",
+                    "260.8%",
+                    "277.1%",
+                    "293.4%",
+                    "309.7%"
+                ],
+                "Dano de Ritual Mortuário": [
+                    "156.8%",
+                    "168.56%",
+                    "180.32%",
+                    "196%",
+                    "207.76%",
+                    "219.52%",
+                    "235.2%",
+                    "250.88%",
+                    "266.56%",
+                    "282.24%",
+                    "297.92%",
+                    "313.6%",
+                    "333.2%",
+                    "352.8%",
+                    "372.4%"
+                ],
+                "Extensão da duração do Juramento Desbravador": [
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s"
+                ],
+                "Recarga": [
+                    "7.5",
+                    "7.5",
+                    "7.5",
+                    "7.5",
+                    "7.5",
+                    "7.5",
+                    "7.5",
+                    "7.5",
+                    "7.5",
+                    "7.5",
+                    "7.5",
+                    "7.5",
+                    "7.5",
+                    "7.5",
+                    "7.5"
+                ],
+                "Recarga de Ritual Mortuário": [
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s"
+                ]
+            },
+            "description": "Avança rapidamente, infligindo <color=#FFACFFFF>Dano Electro</color> contra os inimigos no caminho.\\n\\nQuando Cyno está sob o estado \"Juramento Desbravador\" de seu Supremo \"Ritual Sagrado: Agilidade Lupina\", lançará <color=#FFD780FF>Ritual Mortuário</color>, usando o poder dos raios para infligir <color=#FFACFFFF>Dano Electro em AdE</color> e prolongar a duração de \"Juramento Desbravador\".\\n\\n<i>\"Esse julgamento não possui escolha. Não há rejeição ou aceitação... Pois já fomos julgados há muito tempo.\"</i>"
+        },
+        "elementalburst": {
+            "name": "Ritual Sagrado: Agilidade Lupina",
+            "icon": "Skill_E_Cyno_01",
+            "multipliers": {
+                "Dano do 1° Golpe": [
+                    "78.28%",
+                    "84.66%",
+                    "91.03%",
+                    "100.13%",
+                    "106.5%",
+                    "113.78%",
+                    "123.8%",
+                    "133.81%",
+                    "143.82%",
+                    "154.75%",
+                    "165.67%",
+                    "176.59%",
+                    "187.52%",
+                    "198.44%",
+                    "209.36%"
+                ],
+                "Dano do 2° Golpe": [
+                    "82.47%",
+                    "89.18%",
+                    "95.89%",
+                    "105.48%",
+                    "112.2%",
+                    "119.87%",
+                    "130.42%",
+                    "140.96%",
+                    "151.51%",
+                    "163.02%",
+                    "174.53%",
+                    "186.03%",
+                    "197.54%",
+                    "209.05%",
+                    "220.56%"
+                ],
+                "Dano do 3° Golpe": [
+                    "104.63%",
+                    "113.15%",
+                    "121.67%",
+                    "133.83%",
+                    "142.35%",
+                    "152.08%",
+                    "165.47%",
+                    "178.85%",
+                    "192.23%",
+                    "206.83%",
+                    "221.43%",
+                    "236.03%",
+                    "250.63%",
+                    "265.23%",
+                    "279.83%"
+                ],
+                "Dano do 4° Golpe": [
+                    "51.69%+51.69%",
+                    "55.9%+55.9%",
+                    "60.11%+60.11%",
+                    "66.12%+66.12%",
+                    "70.33%+70.33%",
+                    "75.14%+75.14%",
+                    "81.75%+81.75%",
+                    "88.36%+88.36%",
+                    "94.97%+94.97%",
+                    "102.19%+102.19%",
+                    "109.4%+109.4%",
+                    "116.61%+116.61%",
+                    "123.83%+123.83%",
+                    "131.04%+131.04%",
+                    "138.25%+138.25%"
+                ],
+                "Dano do 5° Golpe": [
+                    "130.84%",
+                    "141.49%",
+                    "152.15%",
+                    "167.36%",
+                    "178.01%",
+                    "190.18%",
+                    "206.92%",
+                    "223.65%",
+                    "240.39%",
+                    "258.65%",
+                    "276.9%",
+                    "295.16%",
+                    "313.42%",
+                    "331.68%",
+                    "349.93%"
+                ],
+                "Dano de Ataque Carregado": [
+                    "101.05%",
+                    "109.27%",
+                    "117.5%",
+                    "129.25%",
+                    "137.48%",
+                    "146.88%",
+                    "159.8%",
+                    "172.72%",
+                    "185.65%",
+                    "199.75%",
+                    "213.85%",
+                    "227.95%",
+                    "242.05%",
+                    "256.15%",
+                    "270.25%"
+                ],
+                "Consumo de Stamina de Ataque Carregado": [
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25"
+                ],
+                "Dano Durante a Queda": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Bônus de Proficiência Elemental": [
+                    "100",
+                    "100",
+                    "100",
+                    "100",
+                    "100",
+                    "100",
+                    "100",
+                    "100",
+                    "100",
+                    "100",
+                    "100",
+                    "100",
+                    "100",
+                    "100",
+                    "100"
+                ],
+                "Duração Básica": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ],
+                "Tempo de Recarga": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ],
+                "Energia Elemental": [
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80"
+                ]
+            },
+            "description": "Invoca um espírito divino para possuí-lo, transformando-o no Juramento Desbravador.\\n\\n<color=#FFD780FF>Juramento Desbravador</color>\\nO Dano que Cyno inflige por Ataques Normais, Carregados e Imersivos é convertido para <color=#FFACFFFF>Dano Electro</color> que não pode ser substituído;\\n· Aumenta a Proficiência Elemental de Cyno, aumenta sua Resistência contra Interrupção e o torna imune ao Dano infligido pela reação Eletricamente Carregado.\\n\\nEsse efeito desaparecerá quando Cyno sair do campo de batalha, e dura até 18s.\\n\\n<i>Os rituais secretos passados pela nação antiga são como o julgamento final do General Mahamatra.</i>\\n<i>Não importa se agora ou no passado, se uma grande tempestade ou serpente, ninguém abalará o poder da lei.</i>"
+        },
+        "leveling": {
+            "crown": {
+                "104319": 3
+            },
+            "books": {
+                "104329": 9,
+                "104330": 63,
+                "104331": 114
+            },
+            "worldmonster": {
+                "112008": 18,
+                "112009": 66,
+                "112010": 93
+            },
+            "weekly": {
+                "113032": 18
+            }
+        }
+    },
+    "passives": {
+        "p1": {
+            "name": "Julgamento das Plumas",
+            "description": "Quando Cyno está com o estado Juramento Desbravador ativado pelo <color=#FFD780FF>Ritual Sagrado: Agilidade Lupina</color>, Cyno entrará periodicamente no estado \"Vidente do Fim\". Se ele lançar <color=#FFD780FF>Ritual Secreto: Travessia Abissal</color> enquanto estiver neste estado, desencadeará o efeito \"Adjudicação\", aumentando o Dano deste Ritual Secreto: Travessia Abissal em 35%, e disparando 3 Raios da Desolação que infligem 100% do ATQ de Cyno como <color=#FFACFFFF>Dano Electro.</color>\\nO Dano do Raio da Desolação é considerado Dano de Habilidade Elemental.",
+            "icon": "UI_Talent_S_Cyno_05"
+        },
+        "p2": {
+            "name": "Soberania dos Nove Arcos",
+            "description": "Os valores de Dano de Cyno aumentam baseados na Proficiência Elemental do seguinte modo:\\n· O Dano de Ataque Normal no estado Juramento Desbravador é aumentado em 150% da Proficiência Elemental.\\n· O Dano do Raio da Desolação do seu Talento de Ascensão \"Julgamento das Plumas\" é aumentado em 250% da Proficiência Elemental.",
+            "icon": "UI_Talent_S_Cyno_06"
+        },
+        "p3": {
+            "name": "O Dom do Silêncio",
+            "description": "Ganha 25% a mais de recompensas quando enviado numa Expedição em Sumeru por 20 horas.",
+            "icon": "UI_Talent_S_Cyno_07"
+        },
+        "p4": ""
+    },
+    "constellations": {
+        "const1": {
+            "name": "Decreto: Vigilância Incansável",
+            "description": "Ao lançar <color=#FFD780FF>Ritual Sagrado: Agilidade Lupina</color>, aumenta a Vel. de ATQ do Ataque Normal de Cyno em 20% por 10s. Se ao lançar <color=#FFD780FF>Ritual Secreto: Travessia Abissal</color> desencadear o efeito \"Adjudicação\" do Talento de Ascensão \"Julgamento das Plumas\", redefinirá a duração do efeito de aumento da Vel. de ATQ do Ataque Normal.\\nVocê deve desbloquear o Talento de Ascensão \"Julgamento das Plumas\" primeiro.",
+            "icon": "UI_Talent_S_Cyno_01"
+        },
+        "const2": {
+            "name": "Cerimônia: Retorno das Almas",
+            "description": "Quando os Ataques Normais de Cyno acertam os oponentes, seu <color=#FFACFFFF>Bônus de Dano Electro</color> irá aumentar em 10% por 4s. Esse efeito pode ser desencadeado uma vez a cada 0.1s. Máximo de 5 acúmulos.",
+            "icon": "UI_Talent_S_Cyno_02"
+        },
+        "const3": {
+            "name": "Édito: Punição da Lei",
+            "description": "Aumenta o nível de <color=#FFD780FF>Ritual Sagrado: Agilidade Lupina</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Cyno_01"
+        },
+        "const4": {
+            "name": "Austeridade: Defesa Intimidante",
+            "description": "Quando Cyno está no estado Juramento Desbravador de <color=#FFD780FF>Ritual Sagrado: Agilidade Lupina</color>, ao desencadear as reações Eletricamente Carregado, Carga Lunar, Supercondutor, Sobrecarga, Aceleração, Intensificação, Superflorescimento e Redemoinho Electro, regenerará 3 de Energia Elemental para todos os membros próximos da equipe (com exceção do próprio Cyno).\\nEsse efeito pode ser desencadeado até 5 vezes por uso de <color=#FFD780FF>Ritual Sagrado: Agilidade Lupina</color>.",
+            "icon": "UI_Talent_S_Cyno_03"
+        },
+        "const5": {
+            "name": "Ritual Funerário: Passagem da Aura Estelar",
+            "description": "Aumenta o Nível de <color=#FFD780FF>Ritual Secreto: Travessia Abissal</color> em 3.\\nO aumento máximo de nível é 15.",
+            "icon": "UI_Talent_U_Cyno_02"
+        },
+        "const6": {
+            "name": "Vestes: Balança da Justiça",
+            "description": "Após usar <color=#FFD780FF>Ritual Sagrado: Agilidade Lupina</color> ou desencadear o efeito \"Adjudicação\" do Talento de Ascensão \"Julgamento das Plumas\", Cyno ganha 4 acúmulos do efeito \"Dia do Chacal\". Quando Cyno acerta oponentes com Ataques Normais, será consumido 1 acúmulo de \"Dia do Chacal\" para lançar um Raio da Desolação.\\nO \"Dia do Chacal\" dura por 8s, e possui no máximo 8 acúmulos. Ele será cancelado quando o estado Juramento Desbravador do \"Ritual Sagrado: Agilidade Lupina\" acabar.\\nO máximo de 1 Raio da Desolação pode ser lançado a cada 0,4s.\\nVocê precisa desbloquear o Talento de Ascensão \"Julgamento das Plumas\" primeiro.",
+            "icon": "UI_Talent_S_Cyno_04"
+        }
+    },
+    "energy": [
+        {
+            "source": "ElementalArt_DropBall",
+            "particles": "1",
+            "chance": "33%",
+            "cd": "0.5s"
+        },
+        {
+            "source": "ElementalArt_DropBall",
+            "particles": "1",
+            "chance": "100%",
+            "cd": "0.5s"
+        },
+        {
+            "source": "ElementalArt_DropBall",
+            "particles": "3",
+            "chance": "100%",
+            "cd": "0.5s"
+        }
+    ],
+    "attacks": [
+        {
+            "name": "ExtraAttack_Bullet",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "icd_rule": "24 hits / 0.5s",
+            "gauge": "1U",
+            "poise": "LV5/120",
+            "element": "-"
+        },
+        {
+            "name": "ExtraAttack_Bullet",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "icd_rule": "24 hits / 0.5s",
+            "gauge": "1U",
+            "poise": "LV6/120",
+            "element": "-"
+        },
+        {
+            "name": "ElementalArt_Bullet",
+            "icd_source": "Tag: Cyno_ElementalArt_Bullet",
+            "icd_rule": "7 hits / 0.2s",
+            "gauge": "1U",
+            "poise": "LV3/50",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalArt_Bullet",
+            "icd_source": "Tag: Cyno_ElementalArt_Bullet",
+            "icd_rule": "7 hits / 0.2s",
+            "gauge": "1U",
+            "poise": "LV3/50",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalArt_Click_BurstMode",
+            "icd_source": "Grp: Cyno_ElementalArt (Tag Miss)",
+            "icd_rule": "None (1 hit/2.5s)",
+            "gauge": "1U",
+            "poise": "LV5/75",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalArt_Click_BurstMode",
+            "icd_source": "Grp: Cyno_ElementalArt (Tag Miss)",
+            "icd_rule": "None (1 hit/2.5s)",
+            "gauge": "1U",
+            "poise": "LV5/75",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalBurst",
+            "icd_source": "Grp: default",
+            "icd_rule": "Standard (3h/2.5s)",
+            "gauge": "4U",
+            "poise": "-/400",
+            "element": "-"
+        },
+        {
+            "name": "ElementalArt_Blade_Hit",
+            "icd_source": "Grp: Cyno_ElementalArt_Blade (Tag Miss)",
+            "icd_rule": "11 hits / 2.5s",
+            "gauge": "1U",
+            "poise": "LV2/25",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalArt_Blade_Hit",
+            "icd_source": "Grp: Cyno_ElementalArt_Blade (Tag Miss)",
+            "icd_rule": "11 hits / 2.5s",
+            "gauge": "1U",
+            "poise": "LV2/25",
+            "element": "Electric"
+        },
+        {
+            "name": "Constellation_6_Blade",
+            "icd_source": "Grp: Cyno_Constellation_6 (Tag Miss)",
+            "icd_rule": "Standard (3h/2.5s)",
+            "gauge": "1U",
+            "poise": "LV2/25",
+            "element": "Electric"
+        },
+        {
+            "name": "Constellation_6_Blade",
+            "icd_source": "Grp: Cyno_Constellation_6 (Tag Miss)",
+            "icd_rule": "Standard (3h/2.5s)",
+            "gauge": "1U",
+            "poise": "LV2/25",
+            "element": "Electric"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/25",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/25",
+            "element": "Electric"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/150",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/100",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/150",
+            "element": "Electric"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/100",
+            "element": "Electric"
+        },
+        {
+            "name": "BurstMode_ExtraAttack_Bullet",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "icd_rule": "24 hits / 0.5s",
+            "gauge": "1U",
+            "poise": "LV5/120",
+            "element": "Electric"
+        },
+        {
+            "name": "BurstMode_ExtraAttack_Bullet",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "icd_rule": "24 hits / 0.5s",
+            "gauge": "1U",
+            "poise": "LV6/120",
+            "element": "Electric"
+        }
+    ],
+    "hyperlinks": []
+}

@@ -1,0 +1,1933 @@
+{
+    "info": {
+        "name": "恰斯卡",
+        "description": "特拉洛坎的「调停人」，万千争端的终结者。",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_BOW",
+        "birthday": "December 10th",
+        "element": "Anemo",
+        "constellation": "神鹫座",
+        "attributes": [
+            {
+                "level": 1,
+                "ascension": 0,
+                "hp": 763,
+                "atk": 27,
+                "def": 48,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 2,
+                "ascension": 0,
+                "hp": 826,
+                "atk": 29,
+                "def": 52,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 3,
+                "ascension": 0,
+                "hp": 889,
+                "atk": 31,
+                "def": 56,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 4,
+                "ascension": 0,
+                "hp": 953,
+                "atk": 34,
+                "def": 60,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 5,
+                "ascension": 0,
+                "hp": 1017,
+                "atk": 36,
+                "def": 64,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 6,
+                "ascension": 0,
+                "hp": 1081,
+                "atk": 38,
+                "def": 68,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 7,
+                "ascension": 0,
+                "hp": 1144,
+                "atk": 40,
+                "def": 72,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 8,
+                "ascension": 0,
+                "hp": 1208,
+                "atk": 43,
+                "def": 76,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 9,
+                "ascension": 0,
+                "hp": 1272,
+                "atk": 45,
+                "def": 80,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 10,
+                "ascension": 0,
+                "hp": 1335,
+                "atk": 47,
+                "def": 84,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 11,
+                "ascension": 0,
+                "hp": 1399,
+                "atk": 50,
+                "def": 88,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 12,
+                "ascension": 0,
+                "hp": 1464,
+                "atk": 52,
+                "def": 92,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 13,
+                "ascension": 0,
+                "hp": 1528,
+                "atk": 54,
+                "def": 96,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 14,
+                "ascension": 0,
+                "hp": 1592,
+                "atk": 56,
+                "def": 100,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 15,
+                "ascension": 0,
+                "hp": 1656,
+                "atk": 59,
+                "def": 104,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 16,
+                "ascension": 0,
+                "hp": 1721,
+                "atk": 61,
+                "def": 108,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 17,
+                "ascension": 0,
+                "hp": 1785,
+                "atk": 63,
+                "def": 112,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 18,
+                "ascension": 0,
+                "hp": 1849,
+                "atk": 65,
+                "def": 116,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 19,
+                "ascension": 0,
+                "hp": 1914,
+                "atk": 68,
+                "def": 120,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 20,
+                "ascension": 0,
+                "hp": 1978,
+                "atk": 70,
+                "def": 124,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 21,
+                "ascension": 1,
+                "hp": 2697,
+                "atk": 95,
+                "def": 169,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 22,
+                "ascension": 1,
+                "hp": 2762,
+                "atk": 98,
+                "def": 173,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 23,
+                "ascension": 1,
+                "hp": 2827,
+                "atk": 100,
+                "def": 177,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 24,
+                "ascension": 1,
+                "hp": 2892,
+                "atk": 102,
+                "def": 181,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 25,
+                "ascension": 1,
+                "hp": 2956,
+                "atk": 105,
+                "def": 186,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 26,
+                "ascension": 1,
+                "hp": 3022,
+                "atk": 107,
+                "def": 190,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 27,
+                "ascension": 1,
+                "hp": 3087,
+                "atk": 109,
+                "def": 194,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 28,
+                "ascension": 1,
+                "hp": 3152,
+                "atk": 112,
+                "def": 198,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 29,
+                "ascension": 1,
+                "hp": 3217,
+                "atk": 114,
+                "def": 202,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 30,
+                "ascension": 1,
+                "hp": 3282,
+                "atk": 116,
+                "def": 206,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 31,
+                "ascension": 1,
+                "hp": 3348,
+                "atk": 119,
+                "def": 210,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 32,
+                "ascension": 1,
+                "hp": 3413,
+                "atk": 121,
+                "def": 214,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 33,
+                "ascension": 1,
+                "hp": 3479,
+                "atk": 123,
+                "def": 218,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 34,
+                "ascension": 1,
+                "hp": 3544,
+                "atk": 125,
+                "def": 222,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 35,
+                "ascension": 1,
+                "hp": 3609,
+                "atk": 128,
+                "def": 227,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 36,
+                "ascension": 1,
+                "hp": 3676,
+                "atk": 130,
+                "def": 231,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 37,
+                "ascension": 1,
+                "hp": 3741,
+                "atk": 132,
+                "def": 235,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 38,
+                "ascension": 1,
+                "hp": 3807,
+                "atk": 135,
+                "def": 239,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 39,
+                "ascension": 1,
+                "hp": 3872,
+                "atk": 137,
+                "def": 243,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 40,
+                "ascension": 1,
+                "hp": 3939,
+                "atk": 139,
+                "def": 247,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 41,
+                "ascension": 2,
+                "hp": 4469,
+                "atk": 158,
+                "def": 280,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 42,
+                "ascension": 2,
+                "hp": 4535,
+                "atk": 161,
+                "def": 285,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 43,
+                "ascension": 2,
+                "hp": 4602,
+                "atk": 163,
+                "def": 289,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 44,
+                "ascension": 2,
+                "hp": 4667,
+                "atk": 165,
+                "def": 293,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 45,
+                "ascension": 2,
+                "hp": 4734,
+                "atk": 168,
+                "def": 297,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 46,
+                "ascension": 2,
+                "hp": 4800,
+                "atk": 170,
+                "def": 301,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 47,
+                "ascension": 2,
+                "hp": 4866,
+                "atk": 172,
+                "def": 305,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 48,
+                "ascension": 2,
+                "hp": 4933,
+                "atk": 175,
+                "def": 310,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 49,
+                "ascension": 2,
+                "hp": 5000,
+                "atk": 177,
+                "def": 314,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 50,
+                "ascension": 2,
+                "hp": 5066,
+                "atk": 179,
+                "def": 318,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 51,
+                "ascension": 3,
+                "hp": 5752,
+                "atk": 204,
+                "def": 361,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 52,
+                "ascension": 3,
+                "hp": 5819,
+                "atk": 206,
+                "def": 365,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 53,
+                "ascension": 3,
+                "hp": 5885,
+                "atk": 208,
+                "def": 369,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 54,
+                "ascension": 3,
+                "hp": 5952,
+                "atk": 211,
+                "def": 374,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 55,
+                "ascension": 3,
+                "hp": 6020,
+                "atk": 213,
+                "def": 378,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 56,
+                "ascension": 3,
+                "hp": 6087,
+                "atk": 215,
+                "def": 382,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 57,
+                "ascension": 3,
+                "hp": 6154,
+                "atk": 218,
+                "def": 386,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 58,
+                "ascension": 3,
+                "hp": 6221,
+                "atk": 220,
+                "def": 390,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 59,
+                "ascension": 3,
+                "hp": 6288,
+                "atk": 223,
+                "def": 395,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 60,
+                "ascension": 3,
+                "hp": 6355,
+                "atk": 225,
+                "def": 399,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 61,
+                "ascension": 4,
+                "hp": 6887,
+                "atk": 244,
+                "def": 432,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 62,
+                "ascension": 4,
+                "hp": 6954,
+                "atk": 246,
+                "def": 436,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 63,
+                "ascension": 4,
+                "hp": 7022,
+                "atk": 249,
+                "def": 441,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 64,
+                "ascension": 4,
+                "hp": 7089,
+                "atk": 251,
+                "def": 445,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 65,
+                "ascension": 4,
+                "hp": 7157,
+                "atk": 253,
+                "def": 449,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 66,
+                "ascension": 4,
+                "hp": 7225,
+                "atk": 256,
+                "def": 453,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 67,
+                "ascension": 4,
+                "hp": 7292,
+                "atk": 258,
+                "def": 458,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 68,
+                "ascension": 4,
+                "hp": 7360,
+                "atk": 261,
+                "def": 462,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 69,
+                "ascension": 4,
+                "hp": 7428,
+                "atk": 263,
+                "def": 466,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 70,
+                "ascension": 4,
+                "hp": 7495,
+                "atk": 265,
+                "def": 470,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 71,
+                "ascension": 5,
+                "hp": 8028,
+                "atk": 284,
+                "def": 504,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 72,
+                "ascension": 5,
+                "hp": 8097,
+                "atk": 287,
+                "def": 508,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 73,
+                "ascension": 5,
+                "hp": 8164,
+                "atk": 289,
+                "def": 512,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 74,
+                "ascension": 5,
+                "hp": 8232,
+                "atk": 291,
+                "def": 517,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 75,
+                "ascension": 5,
+                "hp": 8301,
+                "atk": 294,
+                "def": 521,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 76,
+                "ascension": 5,
+                "hp": 8369,
+                "atk": 296,
+                "def": 525,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 77,
+                "ascension": 5,
+                "hp": 8438,
+                "atk": 299,
+                "def": 530,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 78,
+                "ascension": 5,
+                "hp": 8506,
+                "atk": 301,
+                "def": 534,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 79,
+                "ascension": 5,
+                "hp": 8575,
+                "atk": 304,
+                "def": 538,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 80,
+                "ascension": 5,
+                "hp": 8643,
+                "atk": 306,
+                "def": 542,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 81,
+                "ascension": 6,
+                "hp": 9177,
+                "atk": 325,
+                "def": 576,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 82,
+                "ascension": 6,
+                "hp": 9245,
+                "atk": 327,
+                "def": 580,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 83,
+                "ascension": 6,
+                "hp": 9314,
+                "atk": 330,
+                "def": 585,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 84,
+                "ascension": 6,
+                "hp": 9383,
+                "atk": 332,
+                "def": 589,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 85,
+                "ascension": 6,
+                "hp": 9451,
+                "atk": 335,
+                "def": 593,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 86,
+                "ascension": 6,
+                "hp": 9521,
+                "atk": 337,
+                "def": 598,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 87,
+                "ascension": 6,
+                "hp": 9589,
+                "atk": 339,
+                "def": 602,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 88,
+                "ascension": 6,
+                "hp": 9659,
+                "atk": 342,
+                "def": 606,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 89,
+                "ascension": 6,
+                "hp": 9728,
+                "atk": 344,
+                "def": 611,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 90,
+                "ascension": 6,
+                "hp": 9797,
+                "atk": 347,
+                "def": 615,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 95,
+                "ascension": 6,
+                "hp": 10144,
+                "atk": 386,
+                "def": 637,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 100,
+                "ascension": 6,
+                "hp": 10493,
+                "atk": 425,
+                "def": 659,
+                "CRIT Rate%": "19.2"
+            }
+        ]
+    },
+    "icons": {
+        "forward": "UI_AvatarIcon_Chasca",
+        "coop_img": "UI_CoopImg_Chasca"
+    },
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101253": 168
+        },
+        "elemental": {
+            "104151": 1,
+            "104152": 9,
+            "104153": 9,
+            "104154": 6
+        },
+        "worldmonster": {
+            "112101": 18,
+            "112102": 30,
+            "112103": 36
+        },
+        "elitemonster": {
+            "113067": 46
+        }
+    },
+    "skills": {
+        "normalattack": {
+            "name": "迷羽流击",
+            "icon": "Skill_A_02",
+            "multipliers": {
+                "一段伤害": [
+                    "48.01%",
+                    "51.92%",
+                    "55.82%",
+                    "61.41%",
+                    "65.31%",
+                    "69.78%",
+                    "75.92%",
+                    "82.06%",
+                    "88.2%",
+                    "94.9%",
+                    "101.6%",
+                    "108.3%",
+                    "115%",
+                    "121.69%",
+                    "128.39%"
+                ],
+                "二段伤害": [
+                    "44.59%",
+                    "48.22%",
+                    "51.85%",
+                    "57.03%",
+                    "60.66%",
+                    "64.81%",
+                    "70.51%",
+                    "76.22%",
+                    "81.92%",
+                    "88.14%",
+                    "94.36%",
+                    "100.58%",
+                    "106.8%",
+                    "113.03%",
+                    "119.25%"
+                ],
+                "三段伤害": [
+                    "29.7%*2",
+                    "32.11%*2",
+                    "34.53%*2",
+                    "37.99%*2",
+                    "40.4%*2",
+                    "43.17%*2",
+                    "46.96%*2",
+                    "50.76%*2",
+                    "54.56%*2",
+                    "58.7%*2",
+                    "62.85%*2",
+                    "66.99%*2",
+                    "71.14%*2",
+                    "75.28%*2",
+                    "79.42%*2"
+                ],
+                "四段伤害": [
+                    "25.47%*3",
+                    "27.54%*3",
+                    "29.61%*3",
+                    "32.57%*3",
+                    "34.65%*3",
+                    "37.02%*3",
+                    "40.27%*3",
+                    "43.53%*3",
+                    "46.79%*3",
+                    "50.34%*3",
+                    "53.9%*3",
+                    "57.45%*3",
+                    "61%*3",
+                    "64.56%*3",
+                    "68.11%*3"
+                ],
+                "瞄准射击": [
+                    "43.86%",
+                    "47.43%",
+                    "51%",
+                    "56.1%",
+                    "59.67%",
+                    "63.75%",
+                    "69.36%",
+                    "74.97%",
+                    "80.58%",
+                    "86.7%",
+                    "92.82%",
+                    "98.94%",
+                    "105.06%",
+                    "111.18%",
+                    "117.3%"
+                ],
+                "满蓄力瞄准射击": [
+                    "124%",
+                    "133.3%",
+                    "142.6%",
+                    "155%",
+                    "164.3%",
+                    "173.6%",
+                    "186%",
+                    "198.4%",
+                    "210.8%",
+                    "223.2%",
+                    "235.6%",
+                    "248%",
+                    "263.5%",
+                    "279%",
+                    "294.5%"
+                ],
+                "下坠期间伤害": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "低空/高空坠地冲击伤害": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ]
+            },
+            "description": "<color=#FFD780FF>普通攻击</color>\\n进行至多四段的连续弓箭射击。\\n\\n<color=#FFD780FF>重击</color>\\n进行伤害更高、更为精准的<color=#FFD780FF>瞄准射击</color>。\\n瞄准时，强风会在箭矢上持续积聚。聚满了强风之力的箭矢会造成<color=#80FFD7FF>风元素伤害</color>。\\n\\n<color=#FFD780FF>下落攻击</color>\\n从空中射出箭雨，并迅速下坠冲击地面，攻击下落路径上的敌人，在落地时造成范围伤害。"
+        },
+        "elementalskill": {
+            "name": "灵缰追影",
+            "icon": "Skill_S_Chasca_01",
+            "multipliers": {
+                "共鸣伤害": [
+                    "60%",
+                    "64.5%",
+                    "69%",
+                    "75%",
+                    "79.5%",
+                    "84%",
+                    "90%",
+                    "96%",
+                    "102%",
+                    "108%",
+                    "114%",
+                    "120%",
+                    "127.5%",
+                    "135%",
+                    "142.5%"
+                ],
+                "多重瞄准点按伤害": [
+                    "36%",
+                    "38.7%",
+                    "41.4%",
+                    "45%",
+                    "47.7%",
+                    "50.4%",
+                    "54%",
+                    "57.6%",
+                    "61.2%",
+                    "64.8%",
+                    "68.4%",
+                    "72%",
+                    "76.5%",
+                    "81%",
+                    "85.5%"
+                ],
+                "追影弹伤害": [
+                    "48.8%",
+                    "52.46%",
+                    "56.12%",
+                    "61%",
+                    "64.66%",
+                    "68.32%",
+                    "73.2%",
+                    "78.08%",
+                    "82.96%",
+                    "87.84%",
+                    "92.72%",
+                    "97.6%",
+                    "103.7%",
+                    "109.8%",
+                    "115.9%"
+                ],
+                "焕光追影弹伤害": [
+                    "166.57%",
+                    "179.06%",
+                    "191.56%",
+                    "208.21%",
+                    "220.71%",
+                    "233.2%",
+                    "249.86%",
+                    "266.52%",
+                    "283.17%",
+                    "299.83%",
+                    "316.49%",
+                    "333.14%",
+                    "353.97%",
+                    "374.79%",
+                    "395.61%"
+                ],
+                "夜魂值上限": [
+                    "80点",
+                    "80点",
+                    "80点",
+                    "80点",
+                    "80点",
+                    "80点",
+                    "80点",
+                    "80点",
+                    "80点",
+                    "80点",
+                    "80点",
+                    "80点",
+                    "80点",
+                    "80点",
+                    "80点"
+                ],
+                "冷却时间": [
+                    "6.5秒",
+                    "6.5秒",
+                    "6.5秒",
+                    "6.5秒",
+                    "6.5秒",
+                    "6.5秒",
+                    "6.5秒",
+                    "6.5秒",
+                    "6.5秒",
+                    "6.5秒",
+                    "6.5秒",
+                    "6.5秒",
+                    "6.5秒",
+                    "6.5秒",
+                    "6.5秒"
+                ]
+            },
+            "description": "恰斯卡与武器中寄宿的意志共鸣，造成具有夜魂性质的<color=#80FFD7FF>风元素范围伤害</color>。\\n施放后，恰斯卡将获得80点夜魂值，并进入夜魂加持状态。\\n\\n<color=#FFD780FF>夜魂加持·恰斯卡</color>\\n持续消耗夜魂值。夜魂值耗尽时，或是再次施放时，恰斯卡的夜魂加持将会结束。夜魂加持状态具有如下特性：\\n·搭乘「灵枪·仪式杖」，提升恰斯卡的移动速度与抗打断能力，在这种状态下，恰斯卡将持续消耗夜魂值，维持悬浮状态，进行冲刺或抬升高度时，将额外消耗夜魂值；\\n·进行普通攻击与重击时，依据点按、长按，将转为以不同的方式进行「多重瞄准」。\\n\\n<color=#FFD780FF>多重瞄准</color>\\n<color=#FFD780FF>点按</color>\\n对前方的敌人造成具有夜魂性质的<color=#80FFD7FF>风元素伤害</color>，该伤害视为普通攻击造成的伤害。\\n<color=#FFD780FF>长按</color>\\n进入瞄准状态，并选定一定范围内一定数量的敌人，根据蓄力时间长短，依次装填至多6枚「追影弹」；填充6枚或停止蓄力时，将依序向选定的敌人发射。\\n\\n<color=#FFD780FF>追影弹</color>\\n·造成具有夜魂性质的<color=#80FFD7FF>风元素伤害</color>，该伤害视为重击造成的伤害；\\n·根据队伍中其他角色的元素类型，第四枚、第五枚与第六枚装填入弹匣的「追影弹」将会发生元素转化；队伍中每存在一名<color=#FF9999FF>火元素</color>、<color=#80C0FFFF>水元素</color>、<color=#99FFFFFF>冰元素</color>或<color=#FFACFFFF>雷元素</color>角色，一枚「追影弹」便会随机转化为对应元素类型之一的「焕光追影弹」，造成具有夜魂性质的对应元素伤害，该伤害视为重击造成的伤害；\\n·后装填入弹匣的「追影弹」会优先发射。\\n\\n此外，在夜魂加持状态下，长按施放元素战技<color=#FFD780FF>灵缰追影</color>时，恰斯卡将转为进行具有夜魂性质的下落攻击，松开技能时可以中断下落攻击，并维持悬浮状态；在下落攻击过程中落地时，恰斯卡的夜魂加持将会结束。\\n\\n<i>理论上，只要她愿意，那缰绳可以牵起任何一样东西…但是，能有什么比一把巨大的手炮更帅呢？</i>"
+        },
+        "elementalburst": {
+            "name": "索魂命袭",
+            "icon": "Skill_E_Chasca_01",
+            "multipliers": {
+                "裂风索魂弹伤害": [
+                    "88%",
+                    "94.6%",
+                    "101.2%",
+                    "110%",
+                    "116.6%",
+                    "123.2%",
+                    "132%",
+                    "140.8%",
+                    "149.6%",
+                    "158.4%",
+                    "167.2%",
+                    "176%",
+                    "187%",
+                    "198%",
+                    "209%"
+                ],
+                "索魂弹伤害": [
+                    "103.4%",
+                    "111.15%",
+                    "118.91%",
+                    "129.25%",
+                    "137%",
+                    "144.76%",
+                    "155.1%",
+                    "165.44%",
+                    "175.78%",
+                    "186.12%",
+                    "196.46%",
+                    "206.8%",
+                    "219.72%",
+                    "232.65%",
+                    "245.57%"
+                ],
+                "溢光索魂弹伤害": [
+                    "206.8%",
+                    "222.31%",
+                    "237.82%",
+                    "258.5%",
+                    "274.01%",
+                    "289.52%",
+                    "310.2%",
+                    "330.88%",
+                    "351.56%",
+                    "372.24%",
+                    "392.92%",
+                    "413.6%",
+                    "439.45%",
+                    "465.3%",
+                    "491.15%"
+                ],
+                "冷却时间": [
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒"
+                ],
+                "元素能量": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ]
+            },
+            "description": "恰斯卡集注意志，射出一枚「裂风索魂弹」，造成具有夜魂性质的<color=#80FFD7FF>风元素范围伤害</color>。此后，裂风索魂弹将分裂成六枚「索魂弹」，攻击附近的敌人。\\n\\n<color=#FFD780FF>索魂弹</color>\\n·造成具有夜魂性质的<color=#80FFD7FF>风元素伤害</color>；\\n·队伍中每存在一名<color=#FF9999FF>火元素</color>、<color=#80C0FFFF>水元素</color>、<color=#99FFFFFF>冰元素</color>或<color=#FFACFFFF>雷元素</color>角色，两枚索魂弹便将随机转化为对应元素类型之一的「溢光索魂弹」，造成具有夜魂性质的对应元素伤害。\\n\\n<i>没人可以从夜晚的絮语与月光之中逃脱，正如没有被盯上的敌人可以逃离她专注的眼睛。</i>"
+        },
+        "leveling": {
+            "crown": {
+                "104319": 3
+            },
+            "books": {
+                "104353": 9,
+                "104354": 63,
+                "104355": 114
+            },
+            "worldmonster": {
+                "112101": 18,
+                "112102": 66,
+                "112103": 93
+            },
+            "weekly": {
+                "113061": 18
+            }
+        }
+    },
+    "passives": {
+        "p1": {
+            "name": "子弹的戏法",
+            "description": "进行元素战技<color=#FFD780FF>灵缰追影</color>中的<color=#FFD780FF>多重瞄准</color>的蓄力时，若队伍中存在符合元素转化条件的元素类型的角色，则依据符合条件的不同元素的数量，获得以下效果：\\n·每种元素有33.3%/66.7%/100%的几率触发「附灵转化」，使第三枚装入弹匣的<color=#FFD780FF>追影弹</color>随机转化为对应元素类型之一的<color=#FFD780FF>焕光追影弹</color>；\\n·每种元素将为恰斯卡产生一层「焕影之灵」效果，使焕光追影弹造成的伤害提升15%/35%/65%，该效果持续至本次多重瞄准结束，至多叠加3层。",
+            "icon": "UI_Talent_S_Chasca_05"
+        },
+        "p2": {
+            "name": "掩护的心意",
+            "description": "队伍中的附近的角色触发「夜魂迸发」时，恰斯卡会对附近的敌人发射「流焰追影弹」，造成具有夜魂性质的<color=#80FFD7FF>风元素伤害</color>，该伤害相当于元素战技<color=#FFD780FF>灵缰追影</color>中的<color=#FFD780FF>追影弹</color>的150%；若队伍中存在<color=#FF9999FF>火元素</color>、<color=#80C0FFFF>水元素</color>、<color=#99FFFFFF>冰元素</color>或<color=#FFACFFFF>雷元素</color>角色，则流焰追影弹会发生元素转化，造成具有夜魂性质的对应元素伤害，该伤害相当于元素战技<color=#FFD780FF>灵缰追影</color>中的<color=#FFD780FF>焕光追影弹</color>的150%。\\n通过上述方式造成的伤害视为重击伤害。",
+            "icon": "UI_Talent_S_Chasca_06"
+        },
+        "p3": {
+            "name": "夜域赐礼·不熄炽心",
+            "description": "在夜魂值耗竭后，恰斯卡将会转而消耗燃素来维持夜魂加持。\\n在纳塔存在燃素机制的区域时，能够进行夜魂传递·恰斯卡。当前场上角色位于空中时，切换恰斯卡登场时触发：恰斯卡将进入夜魂加持状态，并获得32点夜魂值。自己的队伍每10秒可以触发一次夜魂传递。",
+            "icon": "UI_Talent_S_Chasca_07"
+        },
+        "p4": {
+            "name": "调停的真意",
+            "description": "队伍中自己的角色击败敌人时，将恢复25点燃素，该效果每12秒至多触发一次。\\n该效果在秘境、征讨领域、深境螺旋中无效。",
+            "icon": "UI_Talent_S_Chasca_08"
+        }
+    },
+    "constellations": {
+        "const1": {
+            "name": "弹匣，躁动的轮盘",
+            "description": "触发突破天赋「子弹的戏法」中的「附灵转化」时，会额外使第二枚装入弹匣的<color=#FFD780FF>追影弹</color>转化为<color=#FFD780FF>焕光追影弹</color>。\\n触发「附灵转化」的几率增加：若队伍中存在符合元素转化条件的元素类型的角色，则触发「附灵转化」的几率提升33.3%，至多提升至100%。\\n\\n需要解锁突破天赋「子弹的戏法」。\\n此外，不处于战斗状态下时，恰斯卡的夜魂加持状态消耗的夜魂值与燃素降低30%。",
+            "icon": "UI_Talent_S_Chasca_01"
+        },
+        "const2": {
+            "name": "枪口，灼烧的轻烟",
+            "description": "恰斯卡登场时，获得一层突破天赋「子弹的戏法」的「焕影之灵」。该效果需要解锁突破天赋「子弹的戏法」。\\n此外，施放元素战技<color=#FFD780FF>灵缰追影</color>中的<color=#FFD780FF>多重瞄准</color>时，恰斯卡的<color=#FFD780FF>焕光追影弹</color>命中敌人时，会根据<color=#FFD780FF>焕光追影弹</color>的元素类型，造成相当于恰斯卡攻击力400%的对应元素范围伤害，该伤害视为重击伤害。每次施放<color=#FFD780FF>多重瞄准</color>至多触发一次该效果。",
+            "icon": "UI_Talent_S_Chasca_02"
+        },
+        "const3": {
+            "name": "笼绳，缜密的掌控",
+            "description": "元素战技<color=#FFD780FF>灵缰追影</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Chasca_01"
+        },
+        "const4": {
+            "name": "星火，瞬息的击发",
+            "description": "元素爆发<color=#FFD780FF>索魂命袭</color>中的<color=#FFD780FF>溢光索魂弹</color>命中敌人时，将为恰斯卡恢复1.5点元素能量，并会根据<color=#FFD780FF>溢光索魂弹</color>的元素类型，造成相当于恰斯卡攻击力400%的对应元素范围伤害，该伤害视为重击伤害。\\n上述造成对应元素范围伤害的效果，每次施放<color=#FFD780FF>索魂命袭</color>至多触发1次该效果。",
+            "icon": "UI_Talent_S_Chasca_03"
+        },
+        "const5": {
+            "name": "帽檐，沙影的轮廓",
+            "description": "元素爆发<color=#FFD780FF>索魂命袭</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Chasca_02"
+        },
+        "const6": {
+            "name": "相决，斗争的荣光",
+            "description": "恰斯卡进行<color=#FFD780FF>多重瞄准</color>所需的蓄力时间减少，且触发突破天赋「子弹的戏法」中的「附灵转化」后，恰斯卡将获得「命袭」状态，在接下来的3秒内，恰斯卡下一次施放元素战技<color=#FFD780FF>灵缰追影</color>中的<color=#FFD780FF>多重瞄准</color>时，会立即完成蓄力，并且本次<color=#FFD780FF>多重瞄准</color>中的<color=#FFD780FF>追影弹</color>和<color=#FFD780FF>焕光追影弹</color>的暴击伤害提升120%。每3秒至多获得一次「命袭」效果。\\n\\n上述效果需要解锁突破天赋「子弹的戏法」。",
+            "icon": "UI_Talent_S_Chasca_04"
+        }
+    },
+    "energy": [
+        {
+            "source": "ElementalArt_ElementalBall",
+            "particles": "5",
+            "chance": "100%",
+            "cd": "Instant"
+        }
+    ],
+    "attacks": [
+        {
+            "name": "Bullet_ShootArrow_04",
+            "icd_source": "Tag: NormalAttack_04 (!)",
+            "icd_rule": "Independent",
+            "gauge": "4U",
+            "poise": "LV1/8",
+            "element": "-"
+        },
+        {
+            "name": "Bullet_ShootArrow_04",
+            "icd_source": "Tag: NormalAttack_04 (!)",
+            "icd_rule": "Independent",
+            "gauge": "4U",
+            "poise": "LV1/8",
+            "element": "-"
+        },
+        {
+            "name": "Bullet_ShootArrow_04",
+            "icd_source": "Tag: NormalAttack_04 (!)",
+            "icd_rule": "Independent",
+            "gauge": "4U",
+            "poise": "LV1/8",
+            "element": "-"
+        },
+        {
+            "name": "ShootArrow_Enchanted_WithoutWind",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "4U",
+            "poise": "LV2/10",
+            "element": "-"
+        },
+        {
+            "name": "Bullet_ShootArrow_WithWind",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Wind"
+        },
+        {
+            "name": "ElementalArt_HoverAir",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalArt_HoverAir",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Fire"
+        },
+        {
+            "name": "ElementalArt_HoverAir",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Ice"
+        },
+        {
+            "name": "ElementalArt_HoverAir",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Water"
+        },
+        {
+            "name": "ElementalArt_HoverAir",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Wind"
+        },
+        {
+            "name": "ElementalArt_HoverAir",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/50",
+            "element": "Wind"
+        },
+        {
+            "name": "MultiAimAttack",
+            "icd_source": "Tag: Chasca_FastShoot (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Wind"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Electric"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Fire"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Ice"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Water"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Extra (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Wind"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Electric"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Fire"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Ice"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Water"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Extra (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Wind"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Electric"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Fire"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Ice"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Water"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Extra (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Wind"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Electric"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Fire"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Ice"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Water"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Extra (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Wind"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Electric"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Fire"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Ice"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Water"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Extra (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Wind"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Electric"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Fire"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Ice"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Water"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Extra (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Wind"
+        },
+        {
+            "name": "MultiAimAttack_Shoot",
+            "icd_source": "Tag: Chasca_FastShoot (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Wind"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Electric"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Fire"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Ice"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Water"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Extra (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Wind"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Electric"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Fire"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Ice"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Water"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Extra (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Wind"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Electric"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Fire"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Ice"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Water"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Extra (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Wind"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Electric"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Fire"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Ice"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Water"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Extra (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Wind"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Electric"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Fire"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Ice"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Water"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Extra (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Wind"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Electric"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Fire"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Ice"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Base (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Water"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Grp: Chasca_MultiAimAttack_Extra (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Wind"
+        },
+        {
+            "name": "MultiAimAttack_Shoot_Enhanced",
+            "icd_source": "Tag: Chasca_FastShoot (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Wind"
+        },
+        {
+            "name": "SkillObj_MultiAimBullet_Wind",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Wind"
+        },
+        {
+            "name": "SkillObj_MultiAimBullet_Fire",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Fire"
+        },
+        {
+            "name": "SkillObj_MultiAimBullet_Elec",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Electric"
+        },
+        {
+            "name": "SkillObj_MultiAimBullet_Water",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Water"
+        },
+        {
+            "name": "SkillObj_MultiAimBullet_Ice",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/20",
+            "element": "Ice"
+        },
+        {
+            "name": "Bullet_ElementalBurst_Bullet",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/100",
+            "element": "Wind"
+        },
+        {
+            "name": "Bullet_ElementalBurst_ChildBullet_Wind",
+            "icd_source": "Grp: Chasca_MultiAimAttack_ElementalBurst (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/30",
+            "element": "Wind"
+        },
+        {
+            "name": "Bullet_ElementalBurst_ChildBullet_Fire",
+            "icd_source": "Grp: Chasca_MultiAimAttack_ElementalBurst (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/30",
+            "element": "Fire"
+        },
+        {
+            "name": "Bullet_ElementalBurst_ChildBullet_Elec",
+            "icd_source": "Grp: Chasca_MultiAimAttack_ElementalBurst (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/30",
+            "element": "Electric"
+        },
+        {
+            "name": "Bullet_ElementalBurst_ChildBullet_Water",
+            "icd_source": "Grp: Chasca_MultiAimAttack_ElementalBurst (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/30",
+            "element": "Water"
+        },
+        {
+            "name": "Bullet_ElementalBurst_ChildBullet_Ice",
+            "icd_source": "Grp: Chasca_MultiAimAttack_ElementalBurst (Tag Miss)",
+            "icd_rule": "2 hits / 1.5s",
+            "gauge": "1U",
+            "poise": "LV2/30",
+            "element": "Ice"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/10",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/10",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/50",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/50",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/100",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/100",
+            "element": "-"
+        }
+    ]
+}

@@ -1,0 +1,1331 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104131": 1,
+            "104132": 9,
+            "104133": 9,
+            "104134": 6
+        },
+        "elitemonster": {
+            "113040": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101217": 168
+        },
+        "worldmonster": {
+            "112059": 18,
+            "112060": 30,
+            "112061": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "ExtraAttack_Gadget",
+            "poise": "LV3/80"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Attack01",
+            "poise": "LV2/7"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Attack02",
+            "poise": "LV2/6"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Attack03",
+            "poise": "LV2/8"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Attack04",
+            "poise": "LV3/10"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "11 hits / 1s",
+            "icd_source": "Tag: Nahida_Chain_Normal",
+            "name": "ElementalArt",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Click",
+            "poise": "LV2/75"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_RayCast",
+            "poise": "LV2/100"
+        },
+        {
+            "element": "Grass",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/5"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: Nahida_Chain_Constellation",
+            "name": "Constellation_6",
+            "poise": "LV2/30"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "When the <color=#FFD780FF>Shrine of Maya</color> is unleashed and the Elemental Types of the party members are being tabulated, the count will add 1 to the number of Pyro, Electro, and Hydro characters respectively.",
+            "icon": "UI_Talent_S_Nahida_01",
+            "name": "The Seed of Stored Knowledge"
+        },
+        "const2": {
+            "description": "Opponents that are marked by <color=#FFD780FF>Seeds of Skandha</color> applied by Nahida herself will be affected by the following effects:\\n· Burning, Bloom, Hyperbloom, and Burgeon Reaction DMG they receive can score CRIT Hits. CRIT Rate and CRIT DMG are fixed at 20% and 100% respectively. CRIT Rate from this effect stacks with CRIT Rate from similar effects that allow these Elemental Reactions to CRIT.\\n· Within 8s of being affected by Quicken, Aggravate, or Spread, DEF is decreased by 30%.\\n· The CRIT Rate and CRIT DMG of Lunar-Bloom DMG received are increased by 10% and 20% respectively.",
+            "icon": "UI_Talent_S_Nahida_02",
+            "name": "The Root of All Fullness"
+        },
+        "const3": {
+            "description": "Increases the Level of <color=#FFD780FF>All Schemes to Know</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Nahida_01",
+            "name": "The Shoot of Conscious Attainment"
+        },
+        "const4": {
+            "description": "When 1/2/3/4 (or more) nearby opponents are affected by <color=#FFD780FF>All Schemes to Know</color>'s Seeds of Skandha, Nahida's Elemental Mastery will be increased by 100/120/140/160.",
+            "icon": "UI_Talent_S_Nahida_03",
+            "name": "The Stem of Manifest Inference"
+        },
+        "const5": {
+            "description": "Increases the Level of <color=#FFD780FF>Illusory Heart</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Nahida_02",
+            "name": "The Leaves of Enlightening Speech"
+        },
+        "const6": {
+            "description": "When Nahida hits an opponent affected by <color=#FFD780FF>All Schemes to Know</color>'s Seeds of Skandha with Normal or Charged Attacks after unleashing <color=#FFD780FF>Illusory Heart</color>, she will use Tri-Karma Purification: Karmic Oblivion on this opponent and all connected opponents, dealing <color=#99FF88FF>Dendro DMG</color> based on 200% of Nahida's ATK and 400% of her Elemental Mastery.\\nDMG dealt by Tri-Karma Purification: Karmic Oblivion is considered Elemental Skill DMG and can be triggered once every 0.2s.\\nThis effect can last up to 10s and will be removed after Nahida has unleashed 6 instances of Tri-Karma Purification: Karmic Oblivion.",
+            "icon": "UI_Talent_S_Nahida_04",
+            "name": "The Fruit of Reason's Culmination"
+        }
+    },
+    "energy": [
+        {
+            "cd": "7s",
+            "chance": "100%",
+            "particles": "3",
+            "source": "ElementalArt_DropBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Nahida",
+        "forward": "UI_AvatarIcon_Nahida"
+    },
+    "info": {
+        "attributes": [
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 23,
+                "def": 49,
+                "hp": 807,
+                "level": 1
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 25,
+                "def": 53,
+                "hp": 873,
+                "level": 2
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 27,
+                "def": 57,
+                "hp": 940,
+                "level": 3
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 29,
+                "def": 61,
+                "hp": 1008,
+                "level": 4
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 31,
+                "def": 65,
+                "hp": 1075,
+                "level": 5
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 33,
+                "def": 70,
+                "hp": 1143,
+                "level": 6
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 35,
+                "def": 74,
+                "hp": 1210,
+                "level": 7
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 37,
+                "def": 78,
+                "hp": 1278,
+                "level": 8
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 39,
+                "def": 82,
+                "hp": 1345,
+                "level": 9
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 41,
+                "def": 86,
+                "hp": 1412,
+                "level": 10
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 43,
+                "def": 90,
+                "hp": 1480,
+                "level": 11
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 45,
+                "def": 94,
+                "hp": 1548,
+                "level": 12
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 47,
+                "def": 98,
+                "hp": 1615,
+                "level": 13
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 49,
+                "def": 102,
+                "hp": 1684,
+                "level": 14
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 51,
+                "def": 107,
+                "hp": 1752,
+                "level": 15
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 53,
+                "def": 111,
+                "hp": 1819,
+                "level": 16
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 54,
+                "def": 115,
+                "hp": 1888,
+                "level": 17
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 56,
+                "def": 119,
+                "hp": 1956,
+                "level": 18
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 58,
+                "def": 123,
+                "hp": 2024,
+                "level": 19
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 60,
+                "def": 127,
+                "hp": 2092,
+                "level": 20
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 82,
+                "def": 173,
+                "hp": 2852,
+                "level": 21
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 84,
+                "def": 178,
+                "hp": 2921,
+                "level": 22
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 86,
+                "def": 182,
+                "hp": 2989,
+                "level": 23
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 88,
+                "def": 186,
+                "hp": 3058,
+                "level": 24
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 90,
+                "def": 190,
+                "hp": 3126,
+                "level": 25
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 92,
+                "def": 194,
+                "hp": 3196,
+                "level": 26
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 94,
+                "def": 199,
+                "hp": 3264,
+                "level": 27
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 96,
+                "def": 203,
+                "hp": 3333,
+                "level": 28
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 98,
+                "def": 207,
+                "hp": 3402,
+                "level": 29
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 100,
+                "def": 211,
+                "hp": 3471,
+                "level": 30
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 102,
+                "def": 215,
+                "hp": 3540,
+                "level": 31
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 104,
+                "def": 220,
+                "hp": 3609,
+                "level": 32
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 106,
+                "def": 224,
+                "hp": 3679,
+                "level": 33
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 108,
+                "def": 228,
+                "hp": 3747,
+                "level": 34
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 110,
+                "def": 232,
+                "hp": 3817,
+                "level": 35
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 112,
+                "def": 236,
+                "hp": 3887,
+                "level": 36
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 114,
+                "def": 241,
+                "hp": 3956,
+                "level": 37
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 116,
+                "def": 245,
+                "hp": 4026,
+                "level": 38
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 118,
+                "def": 249,
+                "hp": 4095,
+                "level": 39
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 120,
+                "def": 253,
+                "hp": 4165,
+                "level": 40
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 136,
+                "def": 287,
+                "hp": 4726,
+                "level": 41
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 138,
+                "def": 292,
+                "hp": 4796,
+                "level": 42
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 140,
+                "def": 296,
+                "hp": 4866,
+                "level": 43
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 142,
+                "def": 300,
+                "hp": 4936,
+                "level": 44
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 144,
+                "def": 305,
+                "hp": 5006,
+                "level": 45
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 146,
+                "def": 309,
+                "hp": 5076,
+                "level": 46
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 149,
+                "def": 313,
+                "hp": 5146,
+                "level": 47
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 151,
+                "def": 317,
+                "hp": 5216,
+                "level": 48
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 153,
+                "def": 322,
+                "hp": 5287,
+                "level": 49
+            },
+            {
+                "EM": 29,
+                "ascension": 2,
+                "atk": 155,
+                "def": 326,
+                "hp": 5357,
+                "level": 50
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 176,
+                "def": 370,
+                "hp": 6083,
+                "level": 51
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 178,
+                "def": 374,
+                "hp": 6154,
+                "level": 52
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 180,
+                "def": 379,
+                "hp": 6224,
+                "level": 53
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 182,
+                "def": 383,
+                "hp": 6295,
+                "level": 54
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 184,
+                "def": 387,
+                "hp": 6366,
+                "level": 55
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 186,
+                "def": 392,
+                "hp": 6437,
+                "level": 56
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 188,
+                "def": 396,
+                "hp": 6508,
+                "level": 57
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 190,
+                "def": 400,
+                "hp": 6579,
+                "level": 58
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 192,
+                "def": 405,
+                "hp": 6650,
+                "level": 59
+            },
+            {
+                "EM": 58,
+                "ascension": 3,
+                "atk": 194,
+                "def": 409,
+                "hp": 6721,
+                "level": 60
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 210,
+                "def": 443,
+                "hp": 7283,
+                "level": 61
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 212,
+                "def": 447,
+                "hp": 7354,
+                "level": 62
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 214,
+                "def": 452,
+                "hp": 7426,
+                "level": 63
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 216,
+                "def": 456,
+                "hp": 7497,
+                "level": 64
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 218,
+                "def": 460,
+                "hp": 7568,
+                "level": 65
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 220,
+                "def": 465,
+                "hp": 7640,
+                "level": 66
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 223,
+                "def": 469,
+                "hp": 7711,
+                "level": 67
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 225,
+                "def": 473,
+                "hp": 7783,
+                "level": 68
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 227,
+                "def": 478,
+                "hp": 7855,
+                "level": 69
+            },
+            {
+                "EM": 58,
+                "ascension": 4,
+                "atk": 229,
+                "def": 482,
+                "hp": 7926,
+                "level": 70
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 245,
+                "def": 516,
+                "hp": 8490,
+                "level": 71
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 247,
+                "def": 521,
+                "hp": 8562,
+                "level": 72
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 249,
+                "def": 525,
+                "hp": 8634,
+                "level": 73
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 251,
+                "def": 530,
+                "hp": 8706,
+                "level": 74
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 253,
+                "def": 534,
+                "hp": 8778,
+                "level": 75
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 255,
+                "def": 538,
+                "hp": 8850,
+                "level": 76
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 257,
+                "def": 543,
+                "hp": 8923,
+                "level": 77
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 260,
+                "def": 547,
+                "hp": 8995,
+                "level": 78
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 262,
+                "def": 552,
+                "hp": 9068,
+                "level": 79
+            },
+            {
+                "EM": 86,
+                "ascension": 5,
+                "atk": 264,
+                "def": 556,
+                "hp": 9140,
+                "level": 80
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 280,
+                "def": 590,
+                "hp": 9704,
+                "level": 81
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 282,
+                "def": 595,
+                "hp": 9777,
+                "level": 82
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 284,
+                "def": 599,
+                "hp": 9850,
+                "level": 83
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 286,
+                "def": 604,
+                "hp": 9922,
+                "level": 84
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 288,
+                "def": 608,
+                "hp": 9995,
+                "level": 85
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 291,
+                "def": 612,
+                "hp": 10068,
+                "level": 86
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 293,
+                "def": 617,
+                "hp": 10141,
+                "level": 87
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 295,
+                "def": 621,
+                "hp": 10214,
+                "level": 88
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 297,
+                "def": 626,
+                "hp": 10287,
+                "level": 89
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 299,
+                "def": 630,
+                "hp": 10360,
+                "level": 90
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 333,
+                "def": 653,
+                "hp": 10728,
+                "level": 95
+            },
+            {
+                "EM": 115,
+                "ascension": 6,
+                "atk": 366,
+                "def": 675,
+                "hp": 11096,
+                "level": 100
+            }
+        ],
+        "birthday": "October 27th",
+        "constellation": "Sapientia Oromasdis",
+        "description": "A caged bird secluded within the confines of the Sanctuary of Surasthana who can only see the world in her dreams.",
+        "element": "Dendro",
+        "name": "Nahida",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_CATALYST"
+    },
+    "passives": {
+        "p1": {
+            "description": "When unleashing <color=#FFD780FF>Illusory Heart</color>, the Shrine of Maya will gain the following effects:\\nThe Elemental Mastery of the active character within the field will be increased by 25% of the Elemental Mastery of the party member with the highest Elemental Mastery.\\nYou can gain a maximum of 250 Elemental Mastery in this manner.",
+            "icon": "UI_Talent_S_Nahida_05",
+            "name": "Compassion Illuminated"
+        },
+        "p2": {
+            "description": "Each point of Nahida's Elemental Mastery beyond 200 will grant 0.1% Bonus DMG and 0.03% CRIT Rate to Tri-Karma Purification from <color=#FFD780FF>All Schemes to Know</color>.\\nA maximum of 80% Bonus DMG and 24% CRIT Rate can be granted to Tri-Karma Purification in this manner.",
+            "icon": "UI_Talent_S_Nahida_06",
+            "name": "Awakening Elucidated"
+        },
+        "p3": {
+            "description": "Nahida can use <color=#FFD780FF>All Schemes to Know</color> to interact with some harvestable items within a fixed AoE.\\nThis skill may even have some other effects...",
+            "icon": "UI_Talent_S_Nahida_07",
+            "name": "On All Things Meditated"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Manifests the Court of Dreams and expands the Shrine of Maya.\\n\\nWhen the Shrine of Maya field is unleashed, the following effects will be separately unleashed based on the Elemental Types present within the party.\\n·<color=#FF9999FF>Pyro</color>: While Nahida remains within the Shrine of Maya, the DMG dealt by Tri-Karma Purification from \"All Schemes to Know\" is increased.\\n·<color=#FFACFFFF>Electro</color>: While Nahida remains within the Shrine of Maya, the interval between each Tri-Karma Purification from \"All Schemes to Know\" is decreased.\\n·<color=#80C0FFFF>Hydro</color>: The Shrine of Maya's duration is increased.\\n\\nIf there are at least 2 party members of the aforementioned Elemental Types present when the field is deployed, the aforementioned effects will be increased further.\\n\\nEven if Nahida is not on the field, these bonuses will still take effect so long as party members are within the Shrine of Maya.\\n\\n<i>Perhaps all that dwell under the bowers of trees are naught but a fleeting upside-down dream in the eyes of the God of Wisdom.</i>",
+            "icon": "Skill_E_Nahida_01",
+            "multipliers": {
+                "Base Duration": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "CD": [
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s"
+                ],
+                "Electro: Trigger Interval Decrease": [
+                    "2 Characters 0.37s",
+                    "2 Characters 0.4s",
+                    "2 Characters 0.43s",
+                    "2 Characters 0.47s",
+                    "2 Characters 0.49s",
+                    "2 Characters 0.52s",
+                    "2 Characters 0.56s",
+                    "2 Characters 0.6s",
+                    "2 Characters 0.63s",
+                    "2 Characters 0.67s",
+                    "2 Characters 0.71s",
+                    "2 Characters 0.74s",
+                    "2 Characters 0.79s",
+                    "2 Characters 0.84s",
+                    "2 Characters 0.88s"
+                ],
+                "Energy Cost": [
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50"
+                ],
+                "Hydro: Duration Extension": [
+                    "2 Characters 5.02s",
+                    "2 Characters 5.39s",
+                    "2 Characters 5.77s",
+                    "2 Characters 6.27s",
+                    "2 Characters 6.65s",
+                    "2 Characters 7.02s",
+                    "2 Characters 7.52s",
+                    "2 Characters 8.03s",
+                    "2 Characters 8.53s",
+                    "2 Characters 9.03s",
+                    "2 Characters 9.53s",
+                    "2 Characters 10.03s",
+                    "2 Characters 10.66s",
+                    "2 Characters 11.29s",
+                    "2 Characters 11.91s"
+                ],
+                "Pyro: DMG Bonus": [
+                    "2 Characters 22.32%",
+                    "2 Characters 23.99%",
+                    "2 Characters 25.67%",
+                    "2 Characters 27.9%",
+                    "2 Characters 29.57%",
+                    "2 Characters 31.25%",
+                    "2 Characters 33.48%",
+                    "2 Characters 35.71%",
+                    "2 Characters 37.94%",
+                    "2 Characters 40.18%",
+                    "2 Characters 42.41%",
+                    "2 Characters 44.64%",
+                    "2 Characters 47.43%",
+                    "2 Characters 50.22%",
+                    "2 Characters 53.01%"
+                ]
+            },
+            "name": "Illusory Heart"
+        },
+        "elementalskill": {
+            "description": "Sends forth karmic bonds of wood and tree from her side, dealing <color=#99FF88FF>AoE Dendro DMG</color> and marking up to 8 opponents hit with the Seed of Skandha.\\nWhen held, this skill will trigger differently.\\n\\n<color=#FFD780FF>Hold</color>\\nEnters Aiming Mode, which will allow you to select a limited number of opponents within a limited area. During this time, Nahida's resistance to interruption will be increased.\\nWhen released, this skill deals <color=#99FF88FF>Dendro DMG</color> to these opponents and marks them with the Seed of Skandha.\\nAiming Mode will last up to 5s and can select a maximum of 8 opponents.\\n\\n<color=#FFD780FF>Seed of Skandha</color>\\nOpponents who have been marked by the Seed of Skandha will be linked to one another up till a certain distance.\\nAfter you trigger Elemental Reactions on opponents who are affected by the Seeds of Skandha or when they take DMG from Dendro Cores (including Burgeon and Hyperbloom DMG), Nahida will unleash Tri-Karma Purification on the opponents and all connected opponents, dealing <color=#99FF88FF>Dendro DMG</color> based on her ATK and Elemental Mastery.\\nYou can trigger at most 1 Tri-Karma Purification within a short period of time.\\n\\n<i>Lo, the god of grass and trees shines her ultimate truth into the void, illuminating the origin and destruction of the three karmas.</i>",
+            "icon": "Skill_S_Nahida_01",
+            "multipliers": {
+                "Hold CD": [
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s"
+                ],
+                "Hold DMG": [
+                    "130.4%",
+                    "140.18%",
+                    "149.96%",
+                    "163%",
+                    "172.78%",
+                    "182.56%",
+                    "195.6%",
+                    "208.64%",
+                    "221.68%",
+                    "234.72%",
+                    "247.76%",
+                    "260.8%",
+                    "277.1%",
+                    "293.4%",
+                    "309.7%"
+                ],
+                "Press CD": [
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s"
+                ],
+                "Press DMG": [
+                    "98.4%",
+                    "105.78%",
+                    "113.16%",
+                    "123%",
+                    "130.38%",
+                    "137.76%",
+                    "147.6%",
+                    "157.44%",
+                    "167.28%",
+                    "177.12%",
+                    "186.96%",
+                    "196.8%",
+                    "209.1%",
+                    "221.4%",
+                    "233.7%"
+                ],
+                "Seed of Skandha Duration": [
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s",
+                    "25s"
+                ],
+                "Tri-Karma Purification DMG": [
+                    "103.2% ATK+206.4% Elemental Mastery",
+                    "110.94% ATK+221.88% Elemental Mastery",
+                    "118.68% ATK+237.36% Elemental Mastery",
+                    "129% ATK+258% Elemental Mastery",
+                    "136.74% ATK+273.48% Elemental Mastery",
+                    "144.48% ATK+288.96% Elemental Mastery",
+                    "154.8% ATK+309.6% Elemental Mastery",
+                    "165.12% ATK+330.24% Elemental Mastery",
+                    "175.44% ATK+350.88% Elemental Mastery",
+                    "185.76% ATK+371.52% Elemental Mastery",
+                    "196.08% ATK+392.16% Elemental Mastery",
+                    "206.4% ATK+412.8% Elemental Mastery",
+                    "219.3% ATK+438.6% Elemental Mastery",
+                    "232.2% ATK+464.4% Elemental Mastery",
+                    "245.1% ATK+490.2% Elemental Mastery"
+                ],
+                "Tri-Karma Purification Trigger Interval": [
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s"
+                ]
+            },
+            "name": "All Schemes to Know"
+        },
+        "leveling": {
+            "books": {
+                "104332": 9,
+                "104333": 63,
+                "104334": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113041": 18
+            },
+            "worldmonster": {
+                "112059": 18,
+                "112060": 66,
+                "112061": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 attacks that deal <color=#99FF88FF>Dendro DMG</color> to opponents in front of her.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to deal <color=#99FF88FF>AoE Dendro DMG</color> to opponents in front of her after a short casting time.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nCalling upon the might of Dendro, Nahida plunges towards the ground from mid-air, damaging all opponents in her path. Deals <color=#99FF88FF>AoE Dendro DMG</color> upon impact with the ground.",
+            "icon": "Skill_A_Catalyst_MD",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "40.3%",
+                    "43.33%",
+                    "46.35%",
+                    "50.38%",
+                    "53.4%",
+                    "56.43%",
+                    "60.46%",
+                    "64.49%",
+                    "68.52%",
+                    "72.55%",
+                    "76.58%",
+                    "80.61%",
+                    "85.65%",
+                    "90.69%",
+                    "95.72%"
+                ],
+                "2-Hit DMG": [
+                    "36.97%",
+                    "39.75%",
+                    "42.52%",
+                    "46.22%",
+                    "48.99%",
+                    "51.76%",
+                    "55.46%",
+                    "59.16%",
+                    "62.86%",
+                    "66.55%",
+                    "70.25%",
+                    "73.95%",
+                    "78.57%",
+                    "83.19%",
+                    "87.81%"
+                ],
+                "3-Hit DMG": [
+                    "45.87%",
+                    "49.31%",
+                    "52.76%",
+                    "57.34%",
+                    "60.78%",
+                    "64.22%",
+                    "68.81%",
+                    "73.4%",
+                    "77.99%",
+                    "82.57%",
+                    "87.16%",
+                    "91.75%",
+                    "97.48%",
+                    "103.22%",
+                    "108.95%"
+                ],
+                "4-Hit DMG": [
+                    "58.41%",
+                    "62.79%",
+                    "67.17%",
+                    "73.01%",
+                    "77.39%",
+                    "81.77%",
+                    "87.61%",
+                    "93.45%",
+                    "99.29%",
+                    "105.13%",
+                    "110.97%",
+                    "116.81%",
+                    "124.11%",
+                    "131.41%",
+                    "138.72%"
+                ],
+                "Charged Attack DMG": [
+                    "132%",
+                    "141.9%",
+                    "151.8%",
+                    "165%",
+                    "174.9%",
+                    "184.8%",
+                    "198%",
+                    "211.2%",
+                    "224.4%",
+                    "237.6%",
+                    "250.8%",
+                    "264%",
+                    "280.5%",
+                    "297%",
+                    "313.5%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50"
+                ],
+                "Low/High Plunge DMG": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "Plunge DMG": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ]
+            },
+            "name": "Akara"
+        }
+    }
+}

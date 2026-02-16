@@ -1,0 +1,1296 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104151": 1,
+            "104152": 9,
+            "104153": 9,
+            "104154": 6
+        },
+        "elitemonster": {
+            "113058": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101241": 168
+        },
+        "worldmonster": {
+            "112008": 18,
+            "112009": 30,
+            "112010": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "7 hits / 0.5s",
+            "icd_source": "Tag: Liuyun_ExtraAttack",
+            "name": "ExtraAttack_Bullet",
+            "poise": "LV4/90"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack_Bullet_01",
+            "poise": "LV2/7"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack_Bullet_02",
+            "poise": "LV2/7"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack_Bullet_03",
+            "poise": "LV2/9"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack_Bullet_04",
+            "poise": "LV3/12"
+        },
+        {
+            "element": "Wind",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Move_Collider",
+            "poise": "LV3/30"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "ElementalArt_ExtraFallingAttack",
+            "poise": "LV7/150"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "ElementalArt_ExtraFallingAttack",
+            "poise": "LV7/75"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "ElementalArt_ExtraFallingAttack",
+            "poise": "LV3/75"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementBurst",
+            "poise": "LV5/100"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementBurst_Drone",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "Wind",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/5"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "<color=#FFD780FF>Nuvens Brancas na Alvorada</color> ganha 1 uso adicional.",
+            "icon": "UI_Talent_S_Liuyun_01",
+            "name": "Vento Purificador"
+        },
+        "const2": {
+            "description": "Depois de lançar a Escada Celestial de <color=#FFD780FF>Nuvens Brancas na Alvorada</color>, aumenta o ATQ de Xianyun em 20% por 15s.\\nAlém disso, o efeito do Talento de Ascensão \"Pense a Adeptus em seu Reino\" obtém um aumento: quando o Bambu Estelar criado por <color=#FFD780FF>As Estrelas se Reúnem no Crepúsculo</color> possuir acúmulos de Ajuda Adepti, aumentará o Dano da onda de choque do Ataque Imersivo do personagem ativo próximo. O aumento é equivalente a 400% do ATQ de Xianyun. É possível aumentar o Dano da onda de choque do Ataque Imersivo do personagem ativo próximo em até 18.000.\\nSó um oponente pode sofrer o aumento de Dano de uma onda de choque de um Ataque. Cada personagem pode desencadear esse efeito uma vez a cada 0.4s.\\nÉ necessário desbloquear primeiro o Talento de Ascensão \"Pense a Adeptus em seu Reino\".",
+            "icon": "UI_Talent_S_Liuyun_02",
+            "name": "Alheia ao Mundo"
+        },
+        "const3": {
+            "description": "Aumenta o nível da <color=#FFD780FF>As Estrelas se Reúnem no Crepúsculo</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Liuyun_02",
+            "name": "Criações das Estrelas e da Lua"
+        },
+        "const4": {
+            "description": "Depois de lançar 1/2/3 Escadas Celestiais em uma instância da Transfiguração de Nuvens de <color=#FFD780FF>Nuvens Brancas na Alvorada</color>, quando uma Onda das Nuvens é lançada nessa instância e atingir inimigos, curará todos os membros próximos da equipe. A cura é equivalente a 50%/80%/150% do ATQ de Xianyun. Esse efeito pode ser desencadeado uma vez a cada 5s.",
+            "icon": "UI_Talent_S_Liuyun_03",
+            "name": "Pérola Gourmet Misteriosa"
+        },
+        "const5": {
+            "description": "Aumenta o nível de <color=#FFD780FF>Nuvens Brancas na Alvorada</color> em 3.\\nNível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Liuyun_01",
+            "name": "Beleza Matinal"
+        },
+        "const6": {
+            "description": "Após Xianyun usar 1/2/3 Escadas Celestiais dentro de uma Transfiguração de Nuvens causada por <color=#FFD780FF>Nuvens Brancas na Alvorada</color>, o Dano CRIT de uma Onda das Nuvens criada nesta instância de Transfiguração de Nuvens será aumentado em 15%/35%/70%.\\nDentro de 16s após Xianyun utilizar <color=#FFD780FF>As Estrelas se Reúnem no Crepúsculo</color>, o uso de Nuvens Brancas na Alvorada não entrará em recarga. Este efeito será cancelado após ela usar Nuvens Brancas na Alvorada 8 vezes.",
+            "icon": "UI_Talent_S_Liuyun_04",
+            "name": "Espírito da Guardiã das Nuvens"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.2s",
+            "chance": "100%",
+            "particles": "5",
+            "source": "DropBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Liuyun",
+        "forward": "UI_AvatarIcon_Liuyun"
+    },
+    "info": {
+        "attributes": [
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 45,
+                "hp": 810,
+                "level": 1
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 48,
+                "hp": 878,
+                "level": 2
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 52,
+                "hp": 945,
+                "level": 3
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 56,
+                "hp": 1013,
+                "level": 4
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 59,
+                "hp": 1080,
+                "level": 5
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 63,
+                "hp": 1148,
+                "level": 6
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 67,
+                "hp": 1215,
+                "level": 7
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 71,
+                "hp": 1284,
+                "level": 8
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 43,
+                "def": 74,
+                "hp": 1352,
+                "level": 9
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 46,
+                "def": 78,
+                "hp": 1419,
+                "level": 10
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 48,
+                "def": 82,
+                "hp": 1487,
+                "level": 11
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 50,
+                "def": 86,
+                "hp": 1555,
+                "level": 12
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 52,
+                "def": 89,
+                "hp": 1623,
+                "level": 13
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 54,
+                "def": 93,
+                "hp": 1692,
+                "level": 14
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 57,
+                "def": 97,
+                "hp": 1760,
+                "level": 15
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 59,
+                "def": 101,
+                "hp": 1828,
+                "level": 16
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 61,
+                "def": 104,
+                "hp": 1897,
+                "level": 17
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 63,
+                "def": 108,
+                "hp": 1965,
+                "level": 18
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 65,
+                "def": 112,
+                "hp": 2034,
+                "level": 19
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 68,
+                "def": 116,
+                "hp": 2102,
+                "level": 20
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 92,
+                "def": 158,
+                "hp": 2866,
+                "level": 21
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 94,
+                "def": 161,
+                "hp": 2935,
+                "level": 22
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 97,
+                "def": 165,
+                "hp": 3003,
+                "level": 23
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 99,
+                "def": 169,
+                "hp": 3072,
+                "level": 24
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 101,
+                "def": 173,
+                "hp": 3141,
+                "level": 25
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 103,
+                "def": 177,
+                "hp": 3211,
+                "level": 26
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 106,
+                "def": 180,
+                "hp": 3280,
+                "level": 27
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 108,
+                "def": 184,
+                "hp": 3349,
+                "level": 28
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 110,
+                "def": 188,
+                "hp": 3418,
+                "level": 29
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 112,
+                "def": 192,
+                "hp": 3487,
+                "level": 30
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 114,
+                "def": 196,
+                "hp": 3557,
+                "level": 31
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 117,
+                "def": 199,
+                "hp": 3627,
+                "level": 32
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 119,
+                "def": 203,
+                "hp": 3696,
+                "level": 33
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 121,
+                "def": 207,
+                "hp": 3765,
+                "level": 34
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 123,
+                "def": 211,
+                "hp": 3835,
+                "level": 35
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 126,
+                "def": 215,
+                "hp": 3905,
+                "level": 36
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 128,
+                "def": 219,
+                "hp": 3975,
+                "level": 37
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 130,
+                "def": 222,
+                "hp": 4045,
+                "level": 38
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 132,
+                "def": 226,
+                "hp": 4114,
+                "level": 39
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 135,
+                "def": 230,
+                "hp": 4185,
+                "level": 40
+            },
+            {
+                "ATK%": "7.2",
+                "ascension": 2,
+                "atk": 153,
+                "def": 261,
+                "hp": 4748,
+                "level": 41
+            },
+            {
+                "ATK%": "7.2",
+                "ascension": 2,
+                "atk": 155,
+                "def": 265,
+                "hp": 4819,
+                "level": 42
+            },
+            {
+                "ATK%": "7.2",
+                "ascension": 2,
+                "atk": 157,
+                "def": 269,
+                "hp": 4889,
+                "level": 43
+            },
+            {
+                "ATK%": "7.2",
+                "ascension": 2,
+                "atk": 160,
+                "def": 273,
+                "hp": 4959,
+                "level": 44
+            },
+            {
+                "ATK%": "7.2",
+                "ascension": 2,
+                "atk": 162,
+                "def": 277,
+                "hp": 5029,
+                "level": 45
+            },
+            {
+                "ATK%": "7.2",
+                "ascension": 2,
+                "atk": 164,
+                "def": 281,
+                "hp": 5100,
+                "level": 46
+            },
+            {
+                "ATK%": "7.2",
+                "ascension": 2,
+                "atk": 166,
+                "def": 284,
+                "hp": 5170,
+                "level": 47
+            },
+            {
+                "ATK%": "7.2",
+                "ascension": 2,
+                "atk": 169,
+                "def": 288,
+                "hp": 5241,
+                "level": 48
+            },
+            {
+                "ATK%": "7.2",
+                "ascension": 2,
+                "atk": 171,
+                "def": 292,
+                "hp": 5312,
+                "level": 49
+            },
+            {
+                "ATK%": "7.2",
+                "ascension": 2,
+                "atk": 173,
+                "def": 296,
+                "hp": 5383,
+                "level": 50
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 3,
+                "atk": 197,
+                "def": 336,
+                "hp": 6111,
+                "level": 51
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 3,
+                "atk": 199,
+                "def": 340,
+                "hp": 6183,
+                "level": 52
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 3,
+                "atk": 201,
+                "def": 344,
+                "hp": 6253,
+                "level": 53
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 3,
+                "atk": 203,
+                "def": 348,
+                "hp": 6324,
+                "level": 54
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 3,
+                "atk": 206,
+                "def": 352,
+                "hp": 6396,
+                "level": 55
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 3,
+                "atk": 208,
+                "def": 356,
+                "hp": 6467,
+                "level": 56
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 3,
+                "atk": 210,
+                "def": 360,
+                "hp": 6538,
+                "level": 57
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 3,
+                "atk": 213,
+                "def": 364,
+                "hp": 6610,
+                "level": 58
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 3,
+                "atk": 215,
+                "def": 368,
+                "hp": 6681,
+                "level": 59
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 3,
+                "atk": 217,
+                "def": 371,
+                "hp": 6752,
+                "level": 60
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 4,
+                "atk": 235,
+                "def": 403,
+                "hp": 7317,
+                "level": 61
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 4,
+                "atk": 238,
+                "def": 406,
+                "hp": 7389,
+                "level": 62
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 4,
+                "atk": 240,
+                "def": 410,
+                "hp": 7461,
+                "level": 63
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 4,
+                "atk": 242,
+                "def": 414,
+                "hp": 7532,
+                "level": 64
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 4,
+                "atk": 245,
+                "def": 418,
+                "hp": 7604,
+                "level": 65
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 4,
+                "atk": 247,
+                "def": 422,
+                "hp": 7676,
+                "level": 66
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 4,
+                "atk": 249,
+                "def": 426,
+                "hp": 7748,
+                "level": 67
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 4,
+                "atk": 252,
+                "def": 430,
+                "hp": 7820,
+                "level": 68
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 4,
+                "atk": 254,
+                "def": 434,
+                "hp": 7892,
+                "level": 69
+            },
+            {
+                "ATK%": "14.4",
+                "ascension": 4,
+                "atk": 256,
+                "def": 438,
+                "hp": 7964,
+                "level": 70
+            },
+            {
+                "ATK%": "21.6",
+                "ascension": 5,
+                "atk": 274,
+                "def": 469,
+                "hp": 8530,
+                "level": 71
+            },
+            {
+                "ATK%": "21.6",
+                "ascension": 5,
+                "atk": 277,
+                "def": 473,
+                "hp": 8603,
+                "level": 72
+            },
+            {
+                "ATK%": "21.6",
+                "ascension": 5,
+                "atk": 279,
+                "def": 477,
+                "hp": 8675,
+                "level": 73
+            },
+            {
+                "ATK%": "21.6",
+                "ascension": 5,
+                "atk": 281,
+                "def": 481,
+                "hp": 8747,
+                "level": 74
+            },
+            {
+                "ATK%": "21.6",
+                "ascension": 5,
+                "atk": 284,
+                "def": 485,
+                "hp": 8820,
+                "level": 75
+            },
+            {
+                "ATK%": "21.6",
+                "ascension": 5,
+                "atk": 286,
+                "def": 489,
+                "hp": 8892,
+                "level": 76
+            },
+            {
+                "ATK%": "21.6",
+                "ascension": 5,
+                "atk": 288,
+                "def": 493,
+                "hp": 8965,
+                "level": 77
+            },
+            {
+                "ATK%": "21.6",
+                "ascension": 5,
+                "atk": 291,
+                "def": 497,
+                "hp": 9038,
+                "level": 78
+            },
+            {
+                "ATK%": "21.6",
+                "ascension": 5,
+                "atk": 293,
+                "def": 501,
+                "hp": 9111,
+                "level": 79
+            },
+            {
+                "ATK%": "21.6",
+                "ascension": 5,
+                "atk": 295,
+                "def": 505,
+                "hp": 9184,
+                "level": 80
+            },
+            {
+                "ATK%": "28.8",
+                "ascension": 6,
+                "atk": 314,
+                "def": 536,
+                "hp": 9750,
+                "level": 81
+            },
+            {
+                "ATK%": "28.8",
+                "ascension": 6,
+                "atk": 316,
+                "def": 540,
+                "hp": 9823,
+                "level": 82
+            },
+            {
+                "ATK%": "28.8",
+                "ascension": 6,
+                "atk": 318,
+                "def": 544,
+                "hp": 9896,
+                "level": 83
+            },
+            {
+                "ATK%": "28.8",
+                "ascension": 6,
+                "atk": 321,
+                "def": 548,
+                "hp": 9969,
+                "level": 84
+            },
+            {
+                "ATK%": "28.8",
+                "ascension": 6,
+                "atk": 323,
+                "def": 552,
+                "hp": 10042,
+                "level": 85
+            },
+            {
+                "ATK%": "28.8",
+                "ascension": 6,
+                "atk": 325,
+                "def": 556,
+                "hp": 10116,
+                "level": 86
+            },
+            {
+                "ATK%": "28.8",
+                "ascension": 6,
+                "atk": 328,
+                "def": 560,
+                "hp": 10189,
+                "level": 87
+            },
+            {
+                "ATK%": "28.8",
+                "ascension": 6,
+                "atk": 330,
+                "def": 565,
+                "hp": 10262,
+                "level": 88
+            },
+            {
+                "ATK%": "28.8",
+                "ascension": 6,
+                "atk": 333,
+                "def": 569,
+                "hp": 10336,
+                "level": 89
+            },
+            {
+                "ATK%": "28.8",
+                "ascension": 6,
+                "atk": 335,
+                "def": 573,
+                "hp": 10409,
+                "level": 90
+            },
+            {
+                "ATK%": "28.8",
+                "ascension": 6,
+                "atk": 373,
+                "def": 593,
+                "hp": 10779,
+                "level": 95
+            },
+            {
+                "ATK%": "28.8",
+                "ascension": 6,
+                "atk": 410,
+                "def": 613,
+                "hp": 11149,
+                "level": 100
+            }
+        ],
+        "birthday": "April 11th",
+        "constellation": "Grus Serena",
+        "description": "Uma dos Adepti Poderosos e Iluminados de Jueyun, conhecida como Retentora de Nuvem. Domina as artes mecânicas, seu coração percorre o mundo efêmero dos mortais, e seu nome entre eles é Xianyun.",
+        "element": "Anemo",
+        "name": "Xianyun",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_CATALYST"
+    },
+    "passives": {
+        "p1": {
+            "description": "Cada oponente atingido pelas Ondas das Nuvens da <color=#FFD780FF>Nuvens Brancas na Alvorada</color> concederá a todos os membros da equipe próximos 1 acúmulo de Pena Tempestuosa por 20s. Máximo de 4 acúmulos. Isso fará com que a Taxa CRIT do Dano de Ataque Imersivo dos personagens aumente em 4%/6%/8%/10% respectivamente.\\nCada Pena Tempestuosa criada ao atingir um oponente tem uma duração independente.",
+            "icon": "UI_Talent_S_Liuyun_05",
+            "name": "Perseguição da Pena Gelada"
+        },
+        "p2": {
+            "description": "Quando o Bambu Estelar criado por <color=#FFD780FF>As Estrelas se Reúnem no Crepúsculo</color> tem acúmulos de Ajuda Adepti, aumentará o Dano da onda de choque do Ataque Imersivo do personagem ativo próximo. O aumento é equivalente a 200% do ATQ de Xianyun. É possível aumentar o Dano da onda de choque do Ataque Imersivo do personagem ativo próximo em até 9.000.\\nSó um oponente pode sofrer o aumento de Dano de uma onda de choque de um Ataque. Cada personagem pode desencadear esse efeito uma vez a cada 0.4s.",
+            "icon": "UI_Talent_S_Liuyun_06",
+            "name": "Pense a Adeptus em seu Reino"
+        },
+        "p3": {
+            "description": "Aumenta a velocidade de planar para os personagens da equipe em 15%.\\nNão acumula com outros Talentos Passivos que fornecem o mesmo efeito.",
+            "icon": "UI_Talent_S_Liuyun_07",
+            "name": "Como uma Garça"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Invoca uma brisa sagrada que causa <color=#80FFD7FF>Dano Anemo em AdE</color> e regenera Vida para todos os personagens próximos da equipe. A quantidade regenerada é baseada no ATQ de Xianyun, e invoca um mecanismo Bambu Estelar.\\n<color=#FFD780FF>Bambu Estelar</color>\\n· Continuamente segue o personagem ativo no campo, e periodicamente regenera Vida para todos os membros próximos da equipe. A quantidade regenerada é baseada no ATQ de Xianyun.\\n· Inicia com 8 acúmulos de Ajuda Adepti. Ao possuir Ajuda Adepti, aumenta a altura do salto do personagem ativo próximo da equipe.\\n· Quando o personagem completar um Ataque Imersivo, Bambu Estelar consome 1 acúmulo de Ajuda Adepti e causa <color=#80FFD7FF>Dano Anemo em AdE</color>.\\nSó é possível existir um Bambu Estelar ativo no campo.\\n\\n<i>Essa é a mais nova invenção da série de Artesanato Lunar. As invenções anteriores foram a Máquina de Culinária Suprema, o Mecanismo Movedor de Neve, a Máquina Doméstica Suprema, o Dispositivo Flutuante Carregador e o Aparador. Essa série de invenções era para jovens humanos que a Retentora de Nuvem admirava, por isso não foram feitos com uma certa meio-Adeptus em mente. Entretanto, quando a ofereceram Bambu Estelar, uma certa discípula dela disse essas palavras, sem emoção: \"Não, obrigada.\"\\nPor isso, Retentora de Nuvem não teve escolha a não ser manter isso com ela.</i>",
+            "icon": "Skill_E_Liuyun_01",
+            "multipliers": {
+                "Cura": [
+                    "92.16% do ATQ + 578",
+                    "99.07% do ATQ + 636",
+                    "105.98% do ATQ + 698",
+                    "115.2% do ATQ + 766",
+                    "122.11% do ATQ + 838",
+                    "129.02% do ATQ + 915",
+                    "138.24% do ATQ + 997",
+                    "147.46% do ATQ + 1083",
+                    "156.67% do ATQ + 1175",
+                    "165.89% do ATQ + 1271",
+                    "175.1% do ATQ + 1372",
+                    "184.32% do ATQ + 1478",
+                    "195.84% do ATQ + 1589",
+                    "207.36% do ATQ + 1705",
+                    "218.88% do ATQ + 1825"
+                ],
+                "Cura Contínua": [
+                    "43.01% do ATQ + 270",
+                    "46.23% do ATQ + 297",
+                    "49.46% do ATQ + 326",
+                    "53.76% do ATQ + 357",
+                    "56.99% do ATQ + 391",
+                    "60.21% do ATQ + 427",
+                    "64.51% do ATQ + 465",
+                    "68.81% do ATQ + 506",
+                    "73.11% do ATQ + 548",
+                    "77.41% do ATQ + 593",
+                    "81.72% do ATQ + 640",
+                    "86.02% do ATQ + 690",
+                    "91.39% do ATQ + 742",
+                    "96.77% do ATQ + 795",
+                    "102.14% do ATQ + 852"
+                ],
+                "Dano de Bambu Estelar": [
+                    "39.2%",
+                    "42.14%",
+                    "45.08%",
+                    "49%",
+                    "51.94%",
+                    "54.88%",
+                    "58.8%",
+                    "62.72%",
+                    "66.64%",
+                    "70.56%",
+                    "74.48%",
+                    "78.4%",
+                    "83.3%",
+                    "88.2%",
+                    "93.1%"
+                ],
+                "Dano de Habilidade": [
+                    "108%",
+                    "116.1%",
+                    "124.2%",
+                    "135%",
+                    "143.1%",
+                    "151.2%",
+                    "162%",
+                    "172.8%",
+                    "183.6%",
+                    "194.4%",
+                    "205.2%",
+                    "216%",
+                    "229.5%",
+                    "243%",
+                    "256.5%"
+                ],
+                "Duração": [
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s"
+                ],
+                "Energia Elemental": [
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70"
+                ],
+                "Recarga": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ]
+            },
+            "name": "As Estrelas se Reúnem no Crepúsculo"
+        },
+        "elementalskill": {
+            "description": "Xianyun entra no estado de Transfiguração de Nuvens, no qual ela não sofrerá Dano de Queda e usará a Escada Celestial uma vez.\\nNeste estado, seu Ataque Imersivo será convertido em uma Onda das Nuvens, que causará <color=#80FFD7FF>Dano Anemo em uma AdE</color> e encerrará o estado de Transfiguração de Nuvens. Este dano será considerado como Dano de Ataque Imersivo.\\nCada uso da Escada Celestial neste estado aumentará o Dano e a AdE da próxima Onda das Nuvens.\\n\\n<color=#FFD780FF>Escada Celestial</color>\\nPode ser usada enquanto estiver no ar. Xianyun dará um salto à frente, causando <color=#80FFD7FF>Dano Anemo</color> aos alvos ao longo de seu caminho.\\nUm estado de Transfiguração de Nuvens pode lançar Escada Celestial até 3 vezes e causar 1 instância de Dano da Escada Celestial a um oponente qualquer.\\nSe a Escada Celestial não for usada novamente em um curto período, o estado de Transfiguração de Nuvens será cancelado.\\n\\nSe Xianyun não usar a Onda das Nuvens durante este estado, o próximo tempo de recarga de Nuvens Brancas na Alvorada será reduzido em 3s.\\n<i>Tenha cuidado ao segurar a mão da Retentora de Nuvem - ela tem uma aderência como a de uma garça.</i>",
+            "icon": "Skill_S_Liuyun_01",
+            "multipliers": {
+                "Dano de Habilidade": [
+                    "24.8%",
+                    "26.66%",
+                    "28.52%",
+                    "31%",
+                    "32.86%",
+                    "34.72%",
+                    "37.2%",
+                    "39.68%",
+                    "42.16%",
+                    "44.64%",
+                    "47.12%",
+                    "49.6%",
+                    "52.7%",
+                    "55.8%",
+                    "58.9%"
+                ],
+                "Dano de Onda das Nuvens": [
+                    "116%/148%/337.6%",
+                    "124.7%/159.1%/362.92%",
+                    "133.4%/170.2%/388.24%",
+                    "145%/185%/422%",
+                    "153.7%/196.1%/447.32%",
+                    "162.4%/207.2%/472.64%",
+                    "174%/222%/506.4%",
+                    "185.6%/236.8%/540.16%",
+                    "197.2%/251.6%/573.92%",
+                    "208.8%/266.4%/607.68%",
+                    "220.4%/281.2%/641.44%",
+                    "232%/296%/675.2%",
+                    "246.5%/314.5%/717.4%",
+                    "261%/333%/759.6%",
+                    "275.5%/351.5%/801.8%"
+                ],
+                "Tempo de Recarga": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ]
+            },
+            "name": "Nuvens Brancas na Alvorada"
+        },
+        "leveling": {
+            "books": {
+                "104316": 9,
+                "104317": 63,
+                "104318": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113055": 18
+            },
+            "worldmonster": {
+                "112008": 18,
+                "112009": 66,
+                "112010": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 4 ataques de brisa, infligindo <color=#80FFD7FF>Dano Anemo</color>.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome uma certa quantidade de Stamina, lançando um Anel de Brisa que inflige <color=#80FFD7FF>Dano Anemo</color> contra os inimigos em frente.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nReúne o poder do Anemo, mergulhando ao chão em pleno ar, infligindo dano a todos os inimigos em seu caminho. Inflige <color=#80FFD7FF>Dano Anemo em uma AdE</color> durante o impacto com o chão.",
+            "icon": "Skill_A_Catalyst_MD",
+            "multipliers": {
+                "Consumo de Stamina de Ataque Carregado": [
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50"
+                ],
+                "Dano Durante a Queda": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "Dano de Ataque Carregado": [
+                    "123.12%",
+                    "132.35%",
+                    "141.59%",
+                    "153.9%",
+                    "163.13%",
+                    "172.37%",
+                    "184.68%",
+                    "196.99%",
+                    "209.3%",
+                    "221.62%",
+                    "233.93%",
+                    "246.24%",
+                    "261.63%",
+                    "277.02%",
+                    "292.41%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "Dano do 1° Golpe": [
+                    "40.3%",
+                    "43.33%",
+                    "46.35%",
+                    "50.38%",
+                    "53.4%",
+                    "56.42%",
+                    "60.45%",
+                    "64.48%",
+                    "68.51%",
+                    "72.54%",
+                    "76.57%",
+                    "80.6%",
+                    "85.64%",
+                    "90.68%",
+                    "95.72%"
+                ],
+                "Dano do 2° Golpe": [
+                    "38.86%",
+                    "41.77%",
+                    "44.68%",
+                    "48.57%",
+                    "51.48%",
+                    "54.4%",
+                    "58.28%",
+                    "62.17%",
+                    "66.05%",
+                    "69.94%",
+                    "73.82%",
+                    "77.71%",
+                    "82.57%",
+                    "87.42%",
+                    "92.28%"
+                ],
+                "Dano do 3° Golpe": [
+                    "48.88%",
+                    "52.54%",
+                    "56.21%",
+                    "61.1%",
+                    "64.76%",
+                    "68.43%",
+                    "73.32%",
+                    "78.2%",
+                    "83.09%",
+                    "87.98%",
+                    "92.87%",
+                    "97.76%",
+                    "103.86%",
+                    "109.97%",
+                    "116.08%"
+                ],
+                "Dano do 4° Golpe": [
+                    "64.92%",
+                    "69.79%",
+                    "74.65%",
+                    "81.15%",
+                    "86.01%",
+                    "90.88%",
+                    "97.38%",
+                    "103.87%",
+                    "110.36%",
+                    "116.85%",
+                    "123.34%",
+                    "129.83%",
+                    "137.95%",
+                    "146.06%",
+                    "154.18%"
+                ]
+            },
+            "name": "Palavras de Ventos e Flores"
+        }
+    }
+}

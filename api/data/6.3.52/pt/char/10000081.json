@@ -1,0 +1,1239 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104131": 1,
+            "104132": 9,
+            "104133": 9,
+            "104134": 6
+        },
+        "elitemonster": {
+            "113040": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101223": 168
+        },
+        "worldmonster": {
+            "112059": 18,
+            "112060": 30,
+            "112061": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt",
+            "poise": "LV7/75"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Kaveh_ExtraStrike (!)",
+            "name": "ElementalBurst",
+            "poise": "LV7/25"
+        },
+        {
+            "element": "Grass",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/35"
+        },
+        {
+            "element": "Grass",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/35"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/150"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/200"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/150"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/200"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Dentro de 3s após utilizar <color=#FFD780FF>Genialidade Artística</color>, a <color=#99FF88FF>RES Dendro</color> de Kaveh é aumentada em 50% e ele receberá 25% a mais de cura.",
+            "icon": "UI_Talent_S_Kaveh_01",
+            "name": "Saudações Sublimes"
+        },
+        "const2": {
+            "description": "A Vel. de ATQ do Ataque Normal de Kaveh aumenta em 15% durante <color=#FFD780FF>Palácio Resplandecente</color>.",
+            "icon": "UI_Talent_S_Kaveh_02",
+            "name": "A Grande Estrada"
+        },
+        "const3": {
+            "description": "Aumenta o nível de <color=#FFD780FF>Palácio Resplandecente</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Kaveh_02",
+            "name": "Oferenda da Torre Dourada"
+        },
+        "const4": {
+            "description": "Núcleos Dendro criados pela reação de Florescimento ou Florescimento Lunar de Kaveh têm o Dano aumentado em 60%.",
+            "icon": "UI_Talent_S_Kaveh_03",
+            "name": "Festa dos Cem Pilares"
+        },
+        "const5": {
+            "description": "Aumenta o nível de <color=#FFD780FF>Genialidade Artística</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Kaveh_01",
+            "name": "Tesouros Sagrados"
+        },
+        "const6": {
+            "description": "Quando os Ataques Normais, Carregados ou Imersivos de Kaveh atingem os oponentes durante <color=#FFD780FF>Palácio Resplandecente</color>, ativarão Luz Celestial na posição do oponente, causando 61.8% do ATQ de Kaveh como <color=#99FF88FF>Dano Dendro em AdE</color> e fazendo com que os Núcleos Dendro dentro da AdE explodam. Este efeito pode ser ativado uma vez a cada 3s.",
+            "icon": "UI_Talent_S_Kaveh_04",
+            "name": "Utopia Celestial"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.2s",
+            "chance": "100%",
+            "particles": "2",
+            "source": "ElementalArt_ElementalBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Kaveh",
+        "forward": "UI_AvatarIcon_Kaveh"
+    },
+    "info": {
+        "attributes": [
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 20,
+                "def": 63,
+                "hp": 1003,
+                "level": 1
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 21,
+                "def": 68,
+                "hp": 1086,
+                "level": 2
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 23,
+                "def": 73,
+                "hp": 1168,
+                "level": 3
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 24,
+                "def": 79,
+                "hp": 1252,
+                "level": 4
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 26,
+                "def": 84,
+                "hp": 1334,
+                "level": 5
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 28,
+                "def": 89,
+                "hp": 1417,
+                "level": 6
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 29,
+                "def": 94,
+                "hp": 1499,
+                "level": 7
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 31,
+                "def": 99,
+                "hp": 1583,
+                "level": 8
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 33,
+                "def": 105,
+                "hp": 1666,
+                "level": 9
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 34,
+                "def": 110,
+                "hp": 1748,
+                "level": 10
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 36,
+                "def": 115,
+                "hp": 1831,
+                "level": 11
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 37,
+                "def": 120,
+                "hp": 1914,
+                "level": 12
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 39,
+                "def": 125,
+                "hp": 1997,
+                "level": 13
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 41,
+                "def": 130,
+                "hp": 2079,
+                "level": 14
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 42,
+                "def": 136,
+                "hp": 2162,
+                "level": 15
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 44,
+                "def": 141,
+                "hp": 2246,
+                "level": 16
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 45,
+                "def": 146,
+                "hp": 2328,
+                "level": 17
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 47,
+                "def": 151,
+                "hp": 2411,
+                "level": 18
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 49,
+                "def": 156,
+                "hp": 2493,
+                "level": 19
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 50,
+                "def": 162,
+                "hp": 2577,
+                "level": 20
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 67,
+                "def": 214,
+                "hp": 3408,
+                "level": 21
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 68,
+                "def": 219,
+                "hp": 3491,
+                "level": 22
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 70,
+                "def": 224,
+                "hp": 3575,
+                "level": 23
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 71,
+                "def": 230,
+                "hp": 3657,
+                "level": 24
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 73,
+                "def": 235,
+                "hp": 3740,
+                "level": 25
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 75,
+                "def": 240,
+                "hp": 3822,
+                "level": 26
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 76,
+                "def": 245,
+                "hp": 3906,
+                "level": 27
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 78,
+                "def": 250,
+                "hp": 3988,
+                "level": 28
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 80,
+                "def": 256,
+                "hp": 4071,
+                "level": 29
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 81,
+                "def": 261,
+                "hp": 4153,
+                "level": 30
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 83,
+                "def": 266,
+                "hp": 4237,
+                "level": 31
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 84,
+                "def": 271,
+                "hp": 4320,
+                "level": 32
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 86,
+                "def": 276,
+                "hp": 4402,
+                "level": 33
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 88,
+                "def": 282,
+                "hp": 4485,
+                "level": 34
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 89,
+                "def": 287,
+                "hp": 4568,
+                "level": 35
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 91,
+                "def": 292,
+                "hp": 4651,
+                "level": 36
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 92,
+                "def": 297,
+                "hp": 4733,
+                "level": 37
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 94,
+                "def": 302,
+                "hp": 4816,
+                "level": 38
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 96,
+                "def": 308,
+                "hp": 4900,
+                "level": 39
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 97,
+                "def": 313,
+                "hp": 4982,
+                "level": 40
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 109,
+                "def": 351,
+                "hp": 5597,
+                "level": 41
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 111,
+                "def": 356,
+                "hp": 5680,
+                "level": 42
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 113,
+                "def": 362,
+                "hp": 5763,
+                "level": 43
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 114,
+                "def": 367,
+                "hp": 5845,
+                "level": 44
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 116,
+                "def": 372,
+                "hp": 5928,
+                "level": 45
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 117,
+                "def": 377,
+                "hp": 6012,
+                "level": 46
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 119,
+                "def": 382,
+                "hp": 6094,
+                "level": 47
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 121,
+                "def": 388,
+                "hp": 6177,
+                "level": 48
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 122,
+                "def": 393,
+                "hp": 6259,
+                "level": 49
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 124,
+                "def": 398,
+                "hp": 6343,
+                "level": 50
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 139,
+                "def": 448,
+                "hp": 7135,
+                "level": 51
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 141,
+                "def": 453,
+                "hp": 7218,
+                "level": 52
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 143,
+                "def": 458,
+                "hp": 7301,
+                "level": 53
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 144,
+                "def": 463,
+                "hp": 7383,
+                "level": 54
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 146,
+                "def": 469,
+                "hp": 7467,
+                "level": 55
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 147,
+                "def": 474,
+                "hp": 7549,
+                "level": 56
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 149,
+                "def": 479,
+                "hp": 7632,
+                "level": 57
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 151,
+                "def": 484,
+                "hp": 7714,
+                "level": 58
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 152,
+                "def": 489,
+                "hp": 7798,
+                "level": 59
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 154,
+                "def": 495,
+                "hp": 7881,
+                "level": 60
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 166,
+                "def": 533,
+                "hp": 8496,
+                "level": 61
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 168,
+                "def": 538,
+                "hp": 8579,
+                "level": 62
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 169,
+                "def": 544,
+                "hp": 8661,
+                "level": 63
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 171,
+                "def": 549,
+                "hp": 8744,
+                "level": 64
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 172,
+                "def": 554,
+                "hp": 8827,
+                "level": 65
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 174,
+                "def": 559,
+                "hp": 8910,
+                "level": 66
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 176,
+                "def": 564,
+                "hp": 8993,
+                "level": 67
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 177,
+                "def": 570,
+                "hp": 9075,
+                "level": 68
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 179,
+                "def": 575,
+                "hp": 9159,
+                "level": 69
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 180,
+                "def": 580,
+                "hp": 9241,
+                "level": 70
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 193,
+                "def": 619,
+                "hp": 9856,
+                "level": 71
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 194,
+                "def": 624,
+                "hp": 9939,
+                "level": 72
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 196,
+                "def": 629,
+                "hp": 10022,
+                "level": 73
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 197,
+                "def": 634,
+                "hp": 10105,
+                "level": 74
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 199,
+                "def": 639,
+                "hp": 10187,
+                "level": 75
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 201,
+                "def": 645,
+                "hp": 10271,
+                "level": 76
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 202,
+                "def": 650,
+                "hp": 10353,
+                "level": 77
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 204,
+                "def": 655,
+                "hp": 10436,
+                "level": 78
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 205,
+                "def": 660,
+                "hp": 10518,
+                "level": 79
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 207,
+                "def": 665,
+                "hp": 10602,
+                "level": 80
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 219,
+                "def": 704,
+                "hp": 11217,
+                "level": 81
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 221,
+                "def": 709,
+                "hp": 11299,
+                "level": 82
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 222,
+                "def": 714,
+                "hp": 11383,
+                "level": 83
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 224,
+                "def": 720,
+                "hp": 11465,
+                "level": 84
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 226,
+                "def": 725,
+                "hp": 11548,
+                "level": 85
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 227,
+                "def": 730,
+                "hp": 11630,
+                "level": 86
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 229,
+                "def": 735,
+                "hp": 11714,
+                "level": 87
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 230,
+                "def": 740,
+                "hp": 11796,
+                "level": 88
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 232,
+                "def": 746,
+                "hp": 11879,
+                "level": 89
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 234,
+                "def": 751,
+                "hp": 11962,
+                "level": 90
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 263,
+                "def": 777,
+                "hp": 12376,
+                "level": 95
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 293,
+                "def": 803,
+                "hp": 12790,
+                "level": 100
+            }
+        ],
+        "birthday": "July 9th",
+        "constellation": "Paradisaea",
+        "description": "Um arquiteto renomado de Sumeru, é preocupado demais com muitas coisas. Um esteta perturbado pela realidade.",
+        "element": "Dendro",
+        "name": "Kaveh",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_CLAYMORE"
+    },
+    "passives": {
+        "p1": {
+            "description": "Quando um Dano é causado por um Núcleo Dendro (Incluindo Dano causado por Germinação e Superflorescimento) em Kaveh, ele recupera Vida igual a 300% da sua Proficiência Elemental. Este efeito pode ser ativado uma vez a cada 0.5s.",
+            "icon": "UI_Talent_S_Kaveh_05",
+            "name": "Responsabilidade do Arquiteto"
+        },
+        "p2": {
+            "description": "Durante o <color=#FFD780FF>Palácio Resplandecente</color>, quando o Ataque Normal, Ataque Carregado ou Ataque Imersivo de Kaveh atinge os oponentes, sua Proficiência Elemental aumenta em 25. Este efeito pode ser ativado uma vez a cada 0.1s, com o máximo de 4 acúmulos.\\nEste efeito é cancelado quando o efeito de Palácio Resplandecente acaba.",
+            "icon": "UI_Talent_S_Kaveh_06",
+            "name": "Conceitos Criativos do Artesão"
+        },
+        "p3": {
+            "description": "Quando Kaveh cria uma decoração dos tipos Paisagem, Estrutura ou Pátio, ele tem 100% de chance de reembolsar uma parte dos materiais utilizados.",
+            "icon": "UI_Talent_S_Yoimiya_07",
+            "name": "A Arte do Orçamento"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Libera a energia de Mehrak completamente, criando um espaço mapeado cúbico que causa <color=#99FF88FF>Dano Dendro em AdE</color> contra os inimigos dentro dele, explode todos os Núcleos Dendro dentro da AdE e fortalece as habilidades de combate de Kaveh por um tempo:\\n· Aumenta a AdE dos Ataques Normais, Carregados e Imersivos de Kaveh, e converte seu Dano de Ataque em <color=#99FF88FF>Dano Dendro</color> que não pode ser substituído;\\n· Núcleos Dendro criados por todos os membros da sua própria equipe, através da reação de Florescimento ou Florescimento Lunar, causarão mais Dano ao explodirem;\\n· Aumenta a Resistência contra Interrupção de Kaveh.\\nEsses efeitos serão removidos quando Kaveh sair do campo de batalha.\\n\\n<i>\"Todo estilo de um edifício inclui o ponto de vista único de um arquiteto e, por esse ângulo, pode-se dizer que os prédios são condensações de memórias humanas.\"</i>",
+            "icon": "Skill_E_Kaveh_01",
+            "multipliers": {
+                "Bônus de Dano do Núcleo Dendro": [
+                    "27.49%",
+                    "29.55%",
+                    "31.61%",
+                    "34.36%",
+                    "36.42%",
+                    "38.48%",
+                    "41.23%",
+                    "43.98%",
+                    "46.73%",
+                    "49.48%",
+                    "52.23%",
+                    "54.98%",
+                    "58.41%",
+                    "61.85%",
+                    "65.28%"
+                ],
+                "Dano de Habilidade": [
+                    "160%",
+                    "172%",
+                    "184%",
+                    "200%",
+                    "212%",
+                    "224%",
+                    "240%",
+                    "256%",
+                    "272%",
+                    "288%",
+                    "304%",
+                    "320%",
+                    "340%",
+                    "360%",
+                    "380%"
+                ],
+                "Duração": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "Energia Elemental": [
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80"
+                ],
+                "Tempo de Recarga": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ]
+            },
+            "name": "Palácio Resplandecente"
+        },
+        "elementalskill": {
+            "description": "Usa a habilidade de mapeamento de Mehrak ofensivamente, fazendo um escaneamento circular que causa <color=#99FF88FF>Dano Dendro em AdE</color> e escaneando todos os Núcleos Dendro dentro da AdE, fazendo-os explodir imediatamente.\\n\\n<i>Mehrak foi criado modificando tecnologia antiga, e talvez possua outras funções além de mapeamento...</i>",
+            "icon": "Skill_S_Kaveh_01",
+            "multipliers": {
+                "Dano de Habilidade": [
+                    "204%",
+                    "219.3%",
+                    "234.6%",
+                    "255%",
+                    "270.3%",
+                    "285.6%",
+                    "306%",
+                    "326.4%",
+                    "346.8%",
+                    "367.2%",
+                    "387.6%",
+                    "408%",
+                    "433.5%",
+                    "459%",
+                    "484.5%"
+                ],
+                "Tempo de Recarga": [
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s"
+                ]
+            },
+            "name": "Genialidade Artística"
+        },
+        "leveling": {
+            "books": {
+                "104332": 9,
+                "104333": 63,
+                "104334": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113047": 18
+            },
+            "worldmonster": {
+                "112059": 18,
+                "112060": 66,
+                "112061": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nUsa Mehrak para realizar até 4 golpes consecutivos.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nDrena Stamina ao longo do tempo para realizar cortes contínuos.\\nAo final da sequência, realiza um corte ainda mais poderoso.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nMergulha em pleno ar para golpear o chão, causando danos aos inimigos em seu caminho e infligindo dano em uma AdE durante o impacto.",
+            "icon": "Skill_A_04",
+            "multipliers": {
+                "Consumo de Stamina de Ataque Carregado": [
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s"
+                ],
+                "Dano Durante a Queda": [
+                    "74.59%",
+                    "80.66%",
+                    "86.73%",
+                    "95.4%",
+                    "101.47%",
+                    "108.41%",
+                    "117.95%",
+                    "127.49%",
+                    "137.03%",
+                    "147.44%",
+                    "157.85%",
+                    "168.26%",
+                    "178.66%",
+                    "189.07%",
+                    "199.48%"
+                ],
+                "Dano Final de Ataque Carregado": [
+                    "96.15%",
+                    "103.97%",
+                    "111.8%",
+                    "122.98%",
+                    "130.81%",
+                    "139.75%",
+                    "152.05%",
+                    "164.35%",
+                    "176.64%",
+                    "190.06%",
+                    "203.48%",
+                    "216.89%",
+                    "230.31%",
+                    "243.72%",
+                    "257.14%"
+                ],
+                "Dano de Loop de Ataque Carregado": [
+                    "53.15%",
+                    "57.47%",
+                    "61.8%",
+                    "67.98%",
+                    "72.31%",
+                    "77.25%",
+                    "84.05%",
+                    "90.85%",
+                    "97.64%",
+                    "105.06%",
+                    "112.48%",
+                    "119.89%",
+                    "127.31%",
+                    "134.72%",
+                    "142.14%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "149.14%/186.29%",
+                    "161.28%/201.45%",
+                    "173.42%/216.62%",
+                    "190.77%/238.28%",
+                    "202.91%/253.44%",
+                    "216.78%/270.77%",
+                    "235.86%/294.6%",
+                    "254.93%/318.42%",
+                    "274.01%/342.25%",
+                    "294.82%/368.25%",
+                    "315.63%/394.24%",
+                    "336.44%/420.23%",
+                    "357.25%/446.23%",
+                    "378.06%/472.22%",
+                    "398.87%/498.21%"
+                ],
+                "Dano do 1° Golpe": [
+                    "76.19%",
+                    "82.39%",
+                    "88.59%",
+                    "97.45%",
+                    "103.65%",
+                    "110.73%",
+                    "120.48%",
+                    "130.22%",
+                    "139.97%",
+                    "150.6%",
+                    "161.23%",
+                    "171.86%",
+                    "182.49%",
+                    "193.12%",
+                    "203.75%"
+                ],
+                "Dano do 2° Golpe": [
+                    "69.64%",
+                    "75.31%",
+                    "80.98%",
+                    "89.07%",
+                    "94.74%",
+                    "101.22%",
+                    "110.13%",
+                    "119.03%",
+                    "127.94%",
+                    "137.66%",
+                    "147.37%",
+                    "157.09%",
+                    "166.81%",
+                    "176.53%",
+                    "186.24%"
+                ],
+                "Dano do 3° Golpe": [
+                    "84.26%",
+                    "91.12%",
+                    "97.98%",
+                    "107.78%",
+                    "114.63%",
+                    "122.47%",
+                    "133.25%",
+                    "144.03%",
+                    "154.81%",
+                    "166.56%",
+                    "178.32%",
+                    "190.08%",
+                    "201.83%",
+                    "213.59%",
+                    "225.35%"
+                ],
+                "Dano do 4° Golpe": [
+                    "102.69%",
+                    "111.05%",
+                    "119.4%",
+                    "131.35%",
+                    "139.7%",
+                    "149.26%",
+                    "162.39%",
+                    "175.53%",
+                    "188.66%",
+                    "202.99%",
+                    "217.32%",
+                    "231.65%",
+                    "245.97%",
+                    "260.3%",
+                    "274.63%"
+                ],
+                "Duração Máxima": [
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s"
+                ]
+            },
+            "name": "Configuração Esquemática"
+        }
+    }
+}

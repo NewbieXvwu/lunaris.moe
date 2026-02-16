@@ -1,0 +1,1483 @@
+{
+    "info": {
+        "name": "Lauma",
+        "description": "A Maiden blessed by moonlight and the grove alike, hope born to the Frostmoon Scions.",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_CATALYST",
+        "birthday": "March 1st",
+        "element": "Dendro",
+        "constellation": "Cerva Nivea",
+        "attributes": [
+            {
+                "level": 1,
+                "ascension": 0,
+                "hp": 829,
+                "atk": 20,
+                "def": 52,
+                "EM": 0
+            },
+            {
+                "level": 2,
+                "ascension": 0,
+                "hp": 898,
+                "atk": 21,
+                "def": 56,
+                "EM": 0
+            },
+            {
+                "level": 3,
+                "ascension": 0,
+                "hp": 967,
+                "atk": 23,
+                "def": 61,
+                "EM": 0
+            },
+            {
+                "level": 4,
+                "ascension": 0,
+                "hp": 1037,
+                "atk": 25,
+                "def": 65,
+                "EM": 0
+            },
+            {
+                "level": 5,
+                "ascension": 0,
+                "hp": 1106,
+                "atk": 26,
+                "def": 69,
+                "EM": 0
+            },
+            {
+                "level": 6,
+                "ascension": 0,
+                "hp": 1175,
+                "atk": 28,
+                "def": 74,
+                "EM": 0
+            },
+            {
+                "level": 7,
+                "ascension": 0,
+                "hp": 1244,
+                "atk": 30,
+                "def": 78,
+                "EM": 0
+            },
+            {
+                "level": 8,
+                "ascension": 0,
+                "hp": 1314,
+                "atk": 31,
+                "def": 82,
+                "EM": 0
+            },
+            {
+                "level": 9,
+                "ascension": 0,
+                "hp": 1383,
+                "atk": 33,
+                "def": 87,
+                "EM": 0
+            },
+            {
+                "level": 10,
+                "ascension": 0,
+                "hp": 1452,
+                "atk": 35,
+                "def": 91,
+                "EM": 0
+            },
+            {
+                "level": 11,
+                "ascension": 0,
+                "hp": 1522,
+                "atk": 36,
+                "def": 96,
+                "EM": 0
+            },
+            {
+                "level": 12,
+                "ascension": 0,
+                "hp": 1592,
+                "atk": 38,
+                "def": 100,
+                "EM": 0
+            },
+            {
+                "level": 13,
+                "ascension": 0,
+                "hp": 1661,
+                "atk": 40,
+                "def": 104,
+                "EM": 0
+            },
+            {
+                "level": 14,
+                "ascension": 0,
+                "hp": 1732,
+                "atk": 41,
+                "def": 109,
+                "EM": 0
+            },
+            {
+                "level": 15,
+                "ascension": 0,
+                "hp": 1801,
+                "atk": 43,
+                "def": 113,
+                "EM": 0
+            },
+            {
+                "level": 16,
+                "ascension": 0,
+                "hp": 1871,
+                "atk": 45,
+                "def": 117,
+                "EM": 0
+            },
+            {
+                "level": 17,
+                "ascension": 0,
+                "hp": 1942,
+                "atk": 46,
+                "def": 122,
+                "EM": 0
+            },
+            {
+                "level": 18,
+                "ascension": 0,
+                "hp": 2011,
+                "atk": 48,
+                "def": 126,
+                "EM": 0
+            },
+            {
+                "level": 19,
+                "ascension": 0,
+                "hp": 2082,
+                "atk": 50,
+                "def": 131,
+                "EM": 0
+            },
+            {
+                "level": 20,
+                "ascension": 0,
+                "hp": 2151,
+                "atk": 51,
+                "def": 135,
+                "EM": 0
+            },
+            {
+                "level": 21,
+                "ascension": 1,
+                "hp": 2933,
+                "atk": 70,
+                "def": 184,
+                "EM": 0
+            },
+            {
+                "level": 22,
+                "ascension": 1,
+                "hp": 3004,
+                "atk": 72,
+                "def": 189,
+                "EM": 0
+            },
+            {
+                "level": 23,
+                "ascension": 1,
+                "hp": 3074,
+                "atk": 74,
+                "def": 193,
+                "EM": 0
+            },
+            {
+                "level": 24,
+                "ascension": 1,
+                "hp": 3145,
+                "atk": 75,
+                "def": 197,
+                "EM": 0
+            },
+            {
+                "level": 25,
+                "ascension": 1,
+                "hp": 3215,
+                "atk": 77,
+                "def": 202,
+                "EM": 0
+            },
+            {
+                "level": 26,
+                "ascension": 1,
+                "hp": 3286,
+                "atk": 79,
+                "def": 206,
+                "EM": 0
+            },
+            {
+                "level": 27,
+                "ascension": 1,
+                "hp": 3357,
+                "atk": 80,
+                "def": 211,
+                "EM": 0
+            },
+            {
+                "level": 28,
+                "ascension": 1,
+                "hp": 3427,
+                "atk": 82,
+                "def": 215,
+                "EM": 0
+            },
+            {
+                "level": 29,
+                "ascension": 1,
+                "hp": 3499,
+                "atk": 84,
+                "def": 220,
+                "EM": 0
+            },
+            {
+                "level": 30,
+                "ascension": 1,
+                "hp": 3569,
+                "atk": 85,
+                "def": 224,
+                "EM": 0
+            },
+            {
+                "level": 31,
+                "ascension": 1,
+                "hp": 3641,
+                "atk": 87,
+                "def": 228,
+                "EM": 0
+            },
+            {
+                "level": 32,
+                "ascension": 1,
+                "hp": 3712,
+                "atk": 89,
+                "def": 233,
+                "EM": 0
+            },
+            {
+                "level": 33,
+                "ascension": 1,
+                "hp": 3783,
+                "atk": 91,
+                "def": 237,
+                "EM": 0
+            },
+            {
+                "level": 34,
+                "ascension": 1,
+                "hp": 3854,
+                "atk": 92,
+                "def": 242,
+                "EM": 0
+            },
+            {
+                "level": 35,
+                "ascension": 1,
+                "hp": 3925,
+                "atk": 94,
+                "def": 246,
+                "EM": 0
+            },
+            {
+                "level": 36,
+                "ascension": 1,
+                "hp": 3997,
+                "atk": 96,
+                "def": 251,
+                "EM": 0
+            },
+            {
+                "level": 37,
+                "ascension": 1,
+                "hp": 4068,
+                "atk": 97,
+                "def": 255,
+                "EM": 0
+            },
+            {
+                "level": 38,
+                "ascension": 1,
+                "hp": 4140,
+                "atk": 99,
+                "def": 260,
+                "EM": 0
+            },
+            {
+                "level": 39,
+                "ascension": 1,
+                "hp": 4211,
+                "atk": 101,
+                "def": 264,
+                "EM": 0
+            },
+            {
+                "level": 40,
+                "ascension": 1,
+                "hp": 4283,
+                "atk": 103,
+                "def": 269,
+                "EM": 0
+            },
+            {
+                "level": 41,
+                "ascension": 2,
+                "hp": 4860,
+                "atk": 116,
+                "def": 305,
+                "EM": 29
+            },
+            {
+                "level": 42,
+                "ascension": 2,
+                "hp": 4932,
+                "atk": 118,
+                "def": 310,
+                "EM": 29
+            },
+            {
+                "level": 43,
+                "ascension": 2,
+                "hp": 5004,
+                "atk": 120,
+                "def": 314,
+                "EM": 29
+            },
+            {
+                "level": 44,
+                "ascension": 2,
+                "hp": 5076,
+                "atk": 121,
+                "def": 319,
+                "EM": 29
+            },
+            {
+                "level": 45,
+                "ascension": 2,
+                "hp": 5148,
+                "atk": 123,
+                "def": 323,
+                "EM": 29
+            },
+            {
+                "level": 46,
+                "ascension": 2,
+                "hp": 5220,
+                "atk": 125,
+                "def": 328,
+                "EM": 29
+            },
+            {
+                "level": 47,
+                "ascension": 2,
+                "hp": 5292,
+                "atk": 127,
+                "def": 332,
+                "EM": 29
+            },
+            {
+                "level": 48,
+                "ascension": 2,
+                "hp": 5364,
+                "atk": 128,
+                "def": 337,
+                "EM": 29
+            },
+            {
+                "level": 49,
+                "ascension": 2,
+                "hp": 5437,
+                "atk": 130,
+                "def": 341,
+                "EM": 29
+            },
+            {
+                "level": 50,
+                "ascension": 2,
+                "hp": 5509,
+                "atk": 132,
+                "def": 346,
+                "EM": 29
+            },
+            {
+                "level": 51,
+                "ascension": 3,
+                "hp": 6255,
+                "atk": 150,
+                "def": 393,
+                "EM": 58
+            },
+            {
+                "level": 52,
+                "ascension": 3,
+                "hp": 6328,
+                "atk": 151,
+                "def": 397,
+                "EM": 58
+            },
+            {
+                "level": 53,
+                "ascension": 3,
+                "hp": 6400,
+                "atk": 153,
+                "def": 402,
+                "EM": 58
+            },
+            {
+                "level": 54,
+                "ascension": 3,
+                "hp": 6473,
+                "atk": 155,
+                "def": 406,
+                "EM": 58
+            },
+            {
+                "level": 55,
+                "ascension": 3,
+                "hp": 6546,
+                "atk": 157,
+                "def": 411,
+                "EM": 58
+            },
+            {
+                "level": 56,
+                "ascension": 3,
+                "hp": 6619,
+                "atk": 158,
+                "def": 415,
+                "EM": 58
+            },
+            {
+                "level": 57,
+                "ascension": 3,
+                "hp": 6692,
+                "atk": 160,
+                "def": 420,
+                "EM": 58
+            },
+            {
+                "level": 58,
+                "ascension": 3,
+                "hp": 6765,
+                "atk": 162,
+                "def": 425,
+                "EM": 58
+            },
+            {
+                "level": 59,
+                "ascension": 3,
+                "hp": 6838,
+                "atk": 164,
+                "def": 429,
+                "EM": 58
+            },
+            {
+                "level": 60,
+                "ascension": 3,
+                "hp": 6911,
+                "atk": 165,
+                "def": 434,
+                "EM": 58
+            },
+            {
+                "level": 61,
+                "ascension": 4,
+                "hp": 7489,
+                "atk": 179,
+                "def": 470,
+                "EM": 58
+            },
+            {
+                "level": 62,
+                "ascension": 4,
+                "hp": 7562,
+                "atk": 181,
+                "def": 475,
+                "EM": 58
+            },
+            {
+                "level": 63,
+                "ascension": 4,
+                "hp": 7636,
+                "atk": 183,
+                "def": 479,
+                "EM": 58
+            },
+            {
+                "level": 64,
+                "ascension": 4,
+                "hp": 7709,
+                "atk": 184,
+                "def": 484,
+                "EM": 58
+            },
+            {
+                "level": 65,
+                "ascension": 4,
+                "hp": 7783,
+                "atk": 186,
+                "def": 488,
+                "EM": 58
+            },
+            {
+                "level": 66,
+                "ascension": 4,
+                "hp": 7857,
+                "atk": 188,
+                "def": 493,
+                "EM": 58
+            },
+            {
+                "level": 67,
+                "ascension": 4,
+                "hp": 7930,
+                "atk": 190,
+                "def": 498,
+                "EM": 58
+            },
+            {
+                "level": 68,
+                "ascension": 4,
+                "hp": 8004,
+                "atk": 192,
+                "def": 502,
+                "EM": 58
+            },
+            {
+                "level": 69,
+                "ascension": 4,
+                "hp": 8078,
+                "atk": 193,
+                "def": 507,
+                "EM": 58
+            },
+            {
+                "level": 70,
+                "ascension": 4,
+                "hp": 8151,
+                "atk": 195,
+                "def": 512,
+                "EM": 58
+            },
+            {
+                "level": 71,
+                "ascension": 5,
+                "hp": 8730,
+                "atk": 209,
+                "def": 548,
+                "EM": 86
+            },
+            {
+                "level": 72,
+                "ascension": 5,
+                "hp": 8805,
+                "atk": 211,
+                "def": 553,
+                "EM": 86
+            },
+            {
+                "level": 73,
+                "ascension": 5,
+                "hp": 8879,
+                "atk": 212,
+                "def": 557,
+                "EM": 86
+            },
+            {
+                "level": 74,
+                "ascension": 5,
+                "hp": 8953,
+                "atk": 214,
+                "def": 562,
+                "EM": 86
+            },
+            {
+                "level": 75,
+                "ascension": 5,
+                "hp": 9027,
+                "atk": 216,
+                "def": 567,
+                "EM": 86
+            },
+            {
+                "level": 76,
+                "ascension": 5,
+                "hp": 9101,
+                "atk": 218,
+                "def": 571,
+                "EM": 86
+            },
+            {
+                "level": 77,
+                "ascension": 5,
+                "hp": 9176,
+                "atk": 220,
+                "def": 576,
+                "EM": 86
+            },
+            {
+                "level": 78,
+                "ascension": 5,
+                "hp": 9250,
+                "atk": 221,
+                "def": 581,
+                "EM": 86
+            },
+            {
+                "level": 79,
+                "ascension": 5,
+                "hp": 9325,
+                "atk": 223,
+                "def": 585,
+                "EM": 86
+            },
+            {
+                "level": 80,
+                "ascension": 5,
+                "hp": 9400,
+                "atk": 225,
+                "def": 590,
+                "EM": 86
+            },
+            {
+                "level": 81,
+                "ascension": 6,
+                "hp": 9980,
+                "atk": 239,
+                "def": 626,
+                "EM": 115
+            },
+            {
+                "level": 82,
+                "ascension": 6,
+                "hp": 10054,
+                "atk": 241,
+                "def": 631,
+                "EM": 115
+            },
+            {
+                "level": 83,
+                "ascension": 6,
+                "hp": 10129,
+                "atk": 242,
+                "def": 636,
+                "EM": 115
+            },
+            {
+                "level": 84,
+                "ascension": 6,
+                "hp": 10204,
+                "atk": 244,
+                "def": 640,
+                "EM": 115
+            },
+            {
+                "level": 85,
+                "ascension": 6,
+                "hp": 10278,
+                "atk": 246,
+                "def": 645,
+                "EM": 115
+            },
+            {
+                "level": 86,
+                "ascension": 6,
+                "hp": 10354,
+                "atk": 248,
+                "def": 650,
+                "EM": 115
+            },
+            {
+                "level": 87,
+                "ascension": 6,
+                "hp": 10428,
+                "atk": 250,
+                "def": 654,
+                "EM": 115
+            },
+            {
+                "level": 88,
+                "ascension": 6,
+                "hp": 10504,
+                "atk": 251,
+                "def": 659,
+                "EM": 115
+            },
+            {
+                "level": 89,
+                "ascension": 6,
+                "hp": 10579,
+                "atk": 253,
+                "def": 664,
+                "EM": 115
+            },
+            {
+                "level": 90,
+                "ascension": 6,
+                "hp": 10654,
+                "atk": 255,
+                "def": 669,
+                "EM": 115
+            },
+            {
+                "level": 95,
+                "ascension": 6,
+                "hp": 11032,
+                "atk": 284,
+                "def": 692,
+                "EM": 115
+            },
+            {
+                "level": 100,
+                "ascension": 6,
+                "hp": 11411,
+                "atk": 312,
+                "def": 716,
+                "EM": 115
+            }
+        ]
+    },
+    "icons": {
+        "forward": "UI_AvatarIcon_Lauma",
+        "coop_img": "UI_CoopImg_Lauma"
+    },
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101263": 168
+        },
+        "elemental": {
+            "104131": 1,
+            "104132": 9,
+            "104133": 9,
+            "104134": 6
+        },
+        "worldmonster": {
+            "112125": 18,
+            "112126": 30,
+            "112127": 36
+        },
+        "elitemonster": {
+            "113078": 46
+        }
+    },
+    "skills": {
+        "normalattack": {
+            "name": "Peregrination of Linnunrata",
+            "icon": "Skill_A_Catalyst_MD",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "33.7%",
+                    "36.23%",
+                    "38.76%",
+                    "42.13%",
+                    "44.66%",
+                    "47.18%",
+                    "50.55%",
+                    "53.92%",
+                    "57.29%",
+                    "60.66%",
+                    "64.03%",
+                    "67.4%",
+                    "71.62%",
+                    "75.83%",
+                    "80.04%"
+                ],
+                "2-Hit DMG": [
+                    "31.8%",
+                    "34.19%",
+                    "36.58%",
+                    "39.76%",
+                    "42.14%",
+                    "44.53%",
+                    "47.71%",
+                    "50.89%",
+                    "54.07%",
+                    "57.25%",
+                    "60.43%",
+                    "63.61%",
+                    "67.59%",
+                    "71.56%",
+                    "75.54%"
+                ],
+                "3-Hit DMG": [
+                    "44.5%",
+                    "47.83%",
+                    "51.17%",
+                    "55.62%",
+                    "58.96%",
+                    "62.3%",
+                    "66.75%",
+                    "71.19%",
+                    "75.64%",
+                    "80.09%",
+                    "84.54%",
+                    "88.99%",
+                    "94.56%",
+                    "100.12%",
+                    "105.68%"
+                ],
+                "Spirit Envoy Form Movement Stamina Cost": [
+                    "25/s",
+                    "25/s",
+                    "25/s",
+                    "25/s",
+                    "25/s",
+                    "25/s",
+                    "25/s",
+                    "25/s",
+                    "25/s",
+                    "25/s",
+                    "25/s",
+                    "25/s",
+                    "25/s",
+                    "25/s",
+                    "25/s"
+                ],
+                "Spirit Envoy Form Jumping Stamina Cost": [
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10",
+                    "10"
+                ],
+                "Spirit Envoy Form Max Duration": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ],
+                "Spirit Envoy Metamorphosis CD": [
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s"
+                ],
+                "Spiritcall Prayer Stamina Cost": [
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50"
+                ],
+                "Spiritcall Prayer DMG": [
+                    "129.04%",
+                    "138.72%",
+                    "148.4%",
+                    "161.3%",
+                    "170.98%",
+                    "180.66%",
+                    "193.56%",
+                    "206.46%",
+                    "219.37%",
+                    "232.27%",
+                    "245.18%",
+                    "258.08%",
+                    "274.21%",
+                    "290.34%",
+                    "306.47%"
+                ],
+                "Plunge DMG": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "Low/High Plunge DMG": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ]
+            },
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 3 attacks that deal <color=#99FF88FF>Dendro DMG</color>\\n\\n<color=#FFD780FF>Charged Attack</color>\\nLauma undergoes Spirit Envoy Metamorphosis, transforming into an envoy of the tranquil forest and consuming Stamina to charge forward for up to 10s. While in this state, Lauma's interruption resistance is increased, and she can consume additional Stamina to perform up to two consecutive jumps.\\nWhen exiting the Spirit Envoy state, Spirit Envoy Metamorphosis will enter cooldown, during which time, Lauma's Charged Attack will be transformed into Spiritcall Prayer: Consumes a certain amount of Stamina to deal <color=#99FF88FF>AoE Dendro DMG</color> to opponents in front of her after a short casting time.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nCalling upon the might of Dendro, Lauma plunges towards the ground from mid-air, damaging all opponents in her path and dealing <color=#99FF88FF>AoE Dendro DMG</color> upon impact with the ground."
+        },
+        "elementalskill": {
+            "name": "Runo: Dawnless Rest of Karsikko",
+            "icon": "Skill_S_Lauma_01",
+            "multipliers": {
+                "Press DMG": [
+                    "121.6%",
+                    "130.72%",
+                    "139.84%",
+                    "152%",
+                    "161.12%",
+                    "170.24%",
+                    "182.4%",
+                    "194.56%",
+                    "206.72%",
+                    "218.88%",
+                    "231.04%",
+                    "243.2%",
+                    "258.4%",
+                    "273.6%",
+                    "288.8%"
+                ],
+                "1-Hit Hold DMG": [
+                    "158.08%",
+                    "169.94%",
+                    "181.79%",
+                    "197.6%",
+                    "209.46%",
+                    "221.31%",
+                    "237.12%",
+                    "252.93%",
+                    "268.74%",
+                    "284.54%",
+                    "300.35%",
+                    "316.16%",
+                    "335.92%",
+                    "355.68%",
+                    "375.44%"
+                ],
+                "2-Hit Hold DMG": [
+                    "152% Elemental Mastery Per Verdant Dew",
+                    "163.4% Elemental Mastery Per Verdant Dew",
+                    "174.8% Elemental Mastery Per Verdant Dew",
+                    "190% Elemental Mastery Per Verdant Dew",
+                    "201.4% Elemental Mastery Per Verdant Dew",
+                    "212.8% Elemental Mastery Per Verdant Dew",
+                    "228% Elemental Mastery Per Verdant Dew",
+                    "243.2% Elemental Mastery Per Verdant Dew",
+                    "258.4% Elemental Mastery Per Verdant Dew",
+                    "273.6% Elemental Mastery Per Verdant Dew",
+                    "288.8% Elemental Mastery Per Verdant Dew",
+                    "304% Elemental Mastery Per Verdant Dew",
+                    "323% Elemental Mastery Per Verdant Dew",
+                    "342% Elemental Mastery Per Verdant Dew",
+                    "361% Elemental Mastery Per Verdant Dew"
+                ],
+                "Frostgrove Sanctuary Attack DMG": [
+                    "96% ATK+192% Elemental Mastery",
+                    "103.2% ATK+206.4% Elemental Mastery",
+                    "110.4% ATK+220.8% Elemental Mastery",
+                    "120% ATK+240% Elemental Mastery",
+                    "127.2% ATK+254.4% Elemental Mastery",
+                    "134.4% ATK+268.8% Elemental Mastery",
+                    "144% ATK+288% Elemental Mastery",
+                    "153.6% ATK+307.2% Elemental Mastery",
+                    "163.2% ATK+326.4% Elemental Mastery",
+                    "172.8% ATK+345.6% Elemental Mastery",
+                    "182.4% ATK+364.8% Elemental Mastery",
+                    "192% ATK+384% Elemental Mastery",
+                    "204% ATK+408% Elemental Mastery",
+                    "216% ATK+432% Elemental Mastery",
+                    "228% ATK+456% Elemental Mastery"
+                ],
+                "Frostgrove Sanctuary Duration": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Moon Song Duration": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Elemental RES Decrease": [
+                    "2.5%",
+                    "5%",
+                    "7.5%",
+                    "10%",
+                    "12.5%",
+                    "15%",
+                    "17.5%",
+                    "20%",
+                    "22.5%",
+                    "25%",
+                    "28%",
+                    "31%",
+                    "34%",
+                    "37%",
+                    "40%"
+                ],
+                "Elemental RES Decrease Duration": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ],
+                "CD": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ]
+            },
+            "description": "Silently incants an ancient hymn, summoning a {LINK#N11190001}<color=#FFD780FF>Frostgrove Sanctuary</color>{/LINK} with different effects depending on whether you Tap or Hold.\\n\\n<color=#FFD780FF>Tap</color>\\nIntone a Hymn of Hunting, dealing <color=#99FF88FF>AoE Dendro DMG</color>.\\n\\n<color=#FFD780FF>Hold</color>\\nCan be unleashed when you have at least 1 {LINK#N11190008}<color=#FFD780FF>Verdant Dew</color>{/LINK}. Lauma consumes all Verdant Dew and intones a Hymn of Eternal Rest, dealing one regular instance of <color=#99FF88FF>AoE Dendro DMG</color> and another instance of <color=#99FF88FF>AoE Dendro DMG</color> that is considered Lunar-Bloom DMG. Each Verdant Dew consumed will give Lauma one stack of {LINK#N11190002}<color=#FFD780FF>Moon Song</color>{/LINK}. Each time you Hold to cast an Elemental Skill, a maximum of 3 Verdant Dew can be consumed in this way.\\n\\nAdditionally, when Lauma's Elemental Skill or attacks from Frostgrove Sanctuary hit an opponent, that opponent's <color=#99FF88FF>Dendro RES</color> and <color=#80C0FFFF>Hydro RES</color> will be decreased for 10s."
+        },
+        "elementalburst": {
+            "name": "Runo: All Hearts Become the Beating Moon",
+            "icon": "Skill_E_Lauma_01",
+            "multipliers": {
+                "Pale Hymn Stacks Gained From Elemental Burst": [
+                    "18",
+                    "18",
+                    "18",
+                    "18",
+                    "18",
+                    "18",
+                    "18",
+                    "18",
+                    "18",
+                    "18",
+                    "18",
+                    "18",
+                    "18",
+                    "18",
+                    "18"
+                ],
+                "Moon Song to Pale Hymn Conversion": [
+                    "6 Stacks Per Moon Song",
+                    "6 Stacks Per Moon Song",
+                    "6 Stacks Per Moon Song",
+                    "6 Stacks Per Moon Song",
+                    "6 Stacks Per Moon Song",
+                    "6 Stacks Per Moon Song",
+                    "6 Stacks Per Moon Song",
+                    "6 Stacks Per Moon Song",
+                    "6 Stacks Per Moon Song",
+                    "6 Stacks Per Moon Song",
+                    "6 Stacks Per Moon Song",
+                    "6 Stacks Per Moon Song",
+                    "6 Stacks Per Moon Song",
+                    "6 Stacks Per Moon Song",
+                    "6 Stacks Per Moon Song"
+                ],
+                "Bloom, Hyperbloom, and Burgeon DMG Increase": [
+                    "277.76% Elemental Mastery",
+                    "298.59% Elemental Mastery",
+                    "319.42% Elemental Mastery",
+                    "347.2% Elemental Mastery",
+                    "368.03% Elemental Mastery",
+                    "388.86% Elemental Mastery",
+                    "416.64% Elemental Mastery",
+                    "444.42% Elemental Mastery",
+                    "472.19% Elemental Mastery",
+                    "499.97% Elemental Mastery",
+                    "527.74% Elemental Mastery",
+                    "555.52% Elemental Mastery",
+                    "590.24% Elemental Mastery",
+                    "624.96% Elemental Mastery",
+                    "659.68% Elemental Mastery"
+                ],
+                "Lunar-Bloom DMG Increase": [
+                    "222.24% Elemental Mastery",
+                    "238.91% Elemental Mastery",
+                    "255.58% Elemental Mastery",
+                    "277.8% Elemental Mastery",
+                    "294.47% Elemental Mastery",
+                    "311.14% Elemental Mastery",
+                    "333.36% Elemental Mastery",
+                    "355.58% Elemental Mastery",
+                    "377.81% Elemental Mastery",
+                    "400.03% Elemental Mastery",
+                    "422.26% Elemental Mastery",
+                    "444.48% Elemental Mastery",
+                    "472.26% Elemental Mastery",
+                    "500.04% Elemental Mastery",
+                    "527.82% Elemental Mastery"
+                ],
+                "Pale Hymn Duration": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "CD": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Energy Cost": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ]
+            },
+            "description": "Let the wishes of all beings become as moonlight that bathes the earth. Lauma incants a sacred song of the far north, gaining 18 stacks of {LINK#N11190003}<color=#FFD780FF>Pale Hymn</color>{/LINK}.\\nAdditionally, if Lauma uses her Elemental Burst while she has {LINK#N11190002}<color=#FFD780FF>Moon Song</color>{/LINK}, or she gains Moon Song within 15s of using her Elemental Burst, she will consume all Moon Song stacks and gain 6 stacks of Pale Hymn for every Moon Song stack consumed. This effect can only be triggered once for each Elemental Burst used, including the 15 seconds following its use.\\n\\n<color=#FFD780FF>Pale Hymn</color>\\nWhen nearby party members deal Bloom, Hyperbloom, Burgeon, or Lunar-Bloom DMG, 1 stack of Pale Hymn will be consumed and the DMG dealt will be increased based on Lauma's Elemental Mastery. If this DMG hits multiple opponents at once, then multiple stacks of Pale Hymn will be consumed, depending on how many opponents are hit.\\nThe duration for each stack of Pale Hymn is counted independently."
+        },
+        "leveling": {
+            "crown": {
+                "104319": 3
+            },
+            "books": {
+                "104356": 9,
+                "104357": 63,
+                "104358": 114
+            },
+            "worldmonster": {
+                "112125": 18,
+                "112126": 66,
+                "112127": 93
+            },
+            "weekly": {
+                "113070": 18
+            }
+        }
+    },
+    "passives": {
+        "p1": {
+            "name": "Light for the Frosty Night",
+            "description": "For the next 20s after Lauma uses her Elemental Skill <color=#FFD780FF>{LINK#S11192}Runo: Dawnless Rest of Karsikko{/LINK}</color>, corresponding differing buff effects will be granted depending on the party's <color=#FFD780FF>Moonsign</color>. The buffs provided by different Moonsign levels cannot stack.\\n\\n<color=#FFD780FF>Moonsign: Nascent Gleam</color>\\nBloom, Hyperbloom, and Burgeon DMG dealt by all nearby party members can score CRIT Hits, with CRIT Rate fixed at 15%, and CRIT DMG fixed at 100%. CRIT Rate from this effect stacks with CRIT Rate from similar effects that allow these Elemental Reactions to CRIT.\\n\\n<color=#FFD780FF>Moonsign: Ascendant Gleam</color>\\nAll nearby party members' Lunar-Bloom DMG CRIT Rate +10%, CRIT DMG +20%.",
+            "icon": "UI_Talent_S_Lauma_05"
+        },
+        "p2": {
+            "name": "Cleansing for the Spring",
+            "description": "Each point of Elemental Mastery Lauma has will give her the following bonuses:\\n· DMG dealt by her Elemental Skill is increased by 0.04%. The maximum increase obtainable this way is 32%.\\n· The cooldown of her Charged Attack <color=#FFD780FF>Spirit Envoy Metamorphosis</color> is reduced by 0.02%. The maximum reduction obtainable this way is 20%.",
+            "icon": "UI_Talent_S_Lauma_06"
+        },
+        "p3": {
+            "name": "Moonsign Benediction: Nature's Chorus",
+            "description": "When a Bloom reaction is triggered by a party member, it will be converted into the Lunar-Bloom reaction, with every point of Elemental Mastery that Lauma has increasing Lunar-Bloom's Base DMG by 0.0175%, up to a maximum of 14%.\\n\\nAdditionally, when Lauma is in the party, the party's <color=#FFD780FF>Moonsign</color> will increase by 1 level.",
+            "icon": "UI_Talent_S_Lauma_07"
+        },
+        "p4": {
+            "name": "Prayers for the Forest",
+            "description": "Displays the location of nearby <color=#FFD780FF>resources unique to Nod-Krai</color> on the mini-map.\\nAdditionally, Lauma appears to have a special affinity with some small animals affected by kuuvahki...",
+            "icon": "UI_Talent_S_Lauma_08"
+        }
+    },
+    "constellations": {
+        "const1": {
+            "name": "\"O Lips, Weave Me Songs and Psalms\"",
+            "description": "After Lauma uses her Elemental Skill <color=#FFD780FF>{LINK#S11192}Runo: Dawnless Rest of Karsikko{/LINK}</color> or her Elemental Burst <color=#FFD780FF>{LINK#S11195}Runo: All Hearts Become the Beating Moon{/LINK}</color>, she will gain Threads of Life for 20s.\\nDuring this time, when nearby party members trigger Lunar-Bloom reactions, nearby active characters will recover HP equal to 500% of Lauma's Elemental Mastery. This effect can be triggered once every 1.9s.\\nAdditionally, the Stamina cost for Lauma's Spirit Envoy Form will be reduced by 40%, and its Max Duration will be extended by 5s.",
+            "icon": "UI_Talent_S_Lauma_01"
+        },
+        "const2": {
+            "name": "\"Twine Warnings and Tales From the North\"",
+            "description": "The Elemental Burst <color=#FFD780FF>{LINK#S11195}Runo: All Hearts Become the Beating Moon{/LINK}</color> is enhanced:\\n· {LINK#N11190003}<color=#FFD780FF>Pale Hymn</color>{/LINK} effects are increased: All nearby party members' Bloom, Hyperbloom, and Burgeon DMG is further increased by 500% of Lauma's Elemental Mastery, and their Lunar-Bloom DMG is further increased by 400% of Lauma's Elemental Mastery.\\n\\n<color=#FFD780FF>Moonsign: Ascendant Gleam</color>: All nearby party members' Lunar-Bloom DMG is increased by 40%.",
+            "icon": "UI_Talent_S_Lauma_02"
+        },
+        "const3": {
+            "name": "\"Seek Not to Tread the Sly Fox's Path\"",
+            "description": "Increases the Level of <color=#FFD780FF>{LINK#S11195}Runo: All Hearts Become the Beating Moon{/LINK}</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Lauma_01"
+        },
+        "const4": {
+            "name": "\"Nor Yearn for the Great Bear's Might\"",
+            "description": "When attacks from the {LINK#N11190001}<color=#FFD780FF>Frostgrove Sanctuary</color>{/LINK} summoned by her Elemental Skill <color=#FFD780FF>{LINK#S11192}Runo: Dawnless Rest of Karsikko{/LINK}</color> hit opponents, Lauma will regain 4 Elemental Energy. This effect can be triggered once every 5s.",
+            "icon": "UI_Talent_S_Lauma_03"
+        },
+        "const5": {
+            "name": "\"If Truth May Be Subject to Witness\"",
+            "description": "Increases the Level of <color=#FFD780FF>{LINK#S11192}Runo: Dawnless Rest of Karsikko{/LINK}</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Lauma_02"
+        },
+        "const6": {
+            "name": "\"I Offer Blood and Tears to the Moonlight\"",
+            "description": "When the {LINK#N11190001}<color=#FFD780FF>Frostgrove Sanctuary</color>{/LINK} attacks opponents, it will deal 1 additional instance of <color=#99FF88FF>AoE Dendro DMG</color> equal to 185% of Lauma's Elemental Mastery. This DMG is considered Lunar-Bloom DMG. This instance of DMG will not consume any {LINK#N11190003}<color=#FFD780FF>Pale Hymn</color>{/LINK} stacks and will provide Lauma with 2 stacks of Pale Hymn, as well as refreshing the duration of Pale Hymn stacks gained in this manner.\\nThis effect can occur up to 8 times during each Frostgrove Sanctuary. When using the Elemental Skill <color=#FFD780FF>{LINK#S11192}Runo: Dawnless Rest of Karsikko{/LINK}</color>, all Pale Hymn stacks gained in this manner will be removed.\\n\\nAdditionally, when Lauma uses a Normal Attack while she has Pale Hymn stacks, she will consume 1 stack to convert this to deal <color=#99FF88FF>Dendro DMG</color> equal to 150% of her Elemental Mastery. This DMG is considered Lunar-Bloom DMG.\\n\\n<color=#FFD780FF>Moonsign: Ascendant Gleam</color>: All nearby party members' Lunar-Bloom DMG is {LINK#N11190007}<color=#FFD780FF>elevated</color>{/LINK} by 25%.",
+            "icon": "UI_Talent_S_Lauma_04"
+        }
+    },
+    "energy": [
+        {
+            "source": "ElementalArt_DropBall",
+            "particles": "1",
+            "chance": "66%",
+            "cd": "3.3s"
+        },
+        {
+            "source": "ElementalArt_DropBall",
+            "particles": "2",
+            "chance": "33%",
+            "cd": "3.3s"
+        }
+    ],
+    "attacks": [
+        {
+            "name": "ElementalArt",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV1/30",
+            "element": "Grass"
+        },
+        {
+            "name": "ElementalArt_Click",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/50",
+            "element": "Grass"
+        },
+        {
+            "name": "ElementalArt_Hold",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/50",
+            "element": "Grass"
+        },
+        {
+            "name": "ElementalArt_Hold",
+            "icd_source": "Tag: MoonOvergrowDamage (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV1/30",
+            "element": "Grass"
+        },
+        {
+            "name": "ElementalArt_Hold",
+            "icd_source": "Tag: MoonOvergrowDamage (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV1/30",
+            "element": "Grass"
+        },
+        {
+            "name": "ElementalArt_Hold",
+            "icd_source": "Tag: MoonOvergrowDamage (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV1/30",
+            "element": "Grass"
+        },
+        {
+            "name": "ElementalBurst",
+            "icd_source": "Tag: MoonOvergrowDamage (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV1/30",
+            "element": "Grass"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/5",
+            "element": "Grass"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/50",
+            "element": "Grass"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/100",
+            "element": "Grass"
+        },
+        {
+            "name": "Attack01",
+            "icd_source": "Tag: MoonOvergrowDamage (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/7",
+            "element": "Grass"
+        },
+        {
+            "name": "Attack01",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/7",
+            "element": "Grass"
+        },
+        {
+            "name": "Attack02",
+            "icd_source": "Tag: MoonOvergrowDamage (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/7",
+            "element": "Grass"
+        },
+        {
+            "name": "Attack02",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/7",
+            "element": "Grass"
+        },
+        {
+            "name": "Attack03",
+            "icd_source": "Tag: MoonOvergrowDamage (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/10",
+            "element": "Grass"
+        },
+        {
+            "name": "Attack03",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Grass"
+        },
+        {
+            "name": "ExtraAttack_Damage",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/80",
+            "element": "Grass"
+        }
+    ]
+}

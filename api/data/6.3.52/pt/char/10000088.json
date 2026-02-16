@@ -1,0 +1,1484 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104161": 1,
+            "104162": 9,
+            "104163": 9,
+            "104164": 6
+        },
+        "elitemonster": {
+            "113052": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101232": 168
+        },
+        "worldmonster": {
+            "112083": 18,
+            "112084": 30,
+            "112085": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Attack01",
+            "poise": "LV1/9"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Attack01",
+            "poise": "LV1/9"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Attack01",
+            "poise": "LV1/9"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Attack02",
+            "poise": "LV1/8"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Attack02",
+            "poise": "LV1/8"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "Attack02",
+            "poise": "LV1/8"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "SkillObj_NormalAttack_03",
+            "poise": "LV2/12"
+        },
+        {
+            "element": "Ice",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "ExtraAttack_Gadget",
+            "poise": "LV1/20"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "ExtraAttack_Gadget",
+            "poise": "LV3/80"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Click",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArtHold_RayCast",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "2 hits / 12s",
+            "icd_source": "Tag: Charlotte_ArtDot",
+            "name": "ElementalArtHold_RayCast",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "2 hits / 12s",
+            "icd_source": "Tag: Charlotte_ArtDot",
+            "name": "ElementalArtHold_RayCast",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 4s",
+            "icd_source": "Tag: Charlotte_BurstCamera",
+            "name": "SkillObj_ElementalBurst_Stage",
+            "poise": "LV1/25"
+        },
+        {
+            "element": "Ice",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_ElementalBurst_Stage",
+            "poise": "LV2/200"
+        },
+        {
+            "element": "Ice",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/5"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "Constellation_ExtraCamera_Gadget",
+            "poise": "LV2/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Depois de <color=#FFD780FF>Determinado: Confirmação Geral</color> curar um personagem, aplicará a marca de Verificação no personagem, que o curará uma vez a cada 2s com base em 80% do ATQ de Charlotte. Esse efeito dura 6s.",
+            "icon": "UI_Talent_S_Charlotte_01",
+            "name": "Necessidade de Verificar Fatos"
+        },
+        "const2": {
+            "description": "Ao lançar <color=#FFD780FF>Enquadramento: Composição do Ponto de Congelamento</color>, quando Monsieur Verite atingir 1/2/3 ou mais inimigos, aumenta o ATQ de Charlotte em 10%/20%/30% por 12s.",
+            "icon": "UI_Talent_S_Charlotte_02",
+            "name": "Dever de Buscar a Verdade"
+        },
+        "const3": {
+            "description": "Aumenta o nível de <color=#FFD780FF>Determinado: Confirmação Geral</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Charlotte_01",
+            "name": "Imperativo pela Independência"
+        },
+        "const4": {
+            "description": "Quando <color=#FFD780FF>Determinado: Confirmação Geral</color> atinge um inimigo marcado por Silhueta Instantânea ou Foco Impressionante, aumenta o Dano causado em 10% e regenera 2 de Energia Elemental para Charlotte. A Energia Elemental pode ser regenerada até 5 vezes a cada 20s desta forma.",
+            "icon": "UI_Talent_S_Charlotte_03",
+            "name": "Responsabilidade para Supervisionar"
+        },
+        "const5": {
+            "description": "Aumenta o nível de <color=#FFD780FF>Enquadramento: Composição do Ponto de Congelamento</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Charlotte_02",
+            "name": "Princípio de Consciência"
+        },
+        "const6": {
+            "description": "Quando o Ataque Normal e Carregado do personagem ativo atingem um inimigo marcado por Foco Impressionante de <color=#FFD780FF>Enquadramento: Composição do Ponto de Congelamento</color>, Monsieur Verite fará um Ataque Coordenado que causa 180% do ATQ de Charlotte como <color=#99FFFFFF>Dano Cryo em AdE</color>, e cura os personagens ativos na AdE em 42% do ATQ de Charlotte. Esse efeito pode ser desencadeado uma vez a cada 6s, e tanto o Dano quanto a cura realizados serão considerados como causados pelo Supremo de Charlotte.",
+            "icon": "UI_Talent_S_Charlotte_04",
+            "name": "Resumo de Interesse"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.3s",
+            "chance": "100%",
+            "particles": "3",
+            "source": "UNIQUE_DropBall_Click"
+        },
+        {
+            "cd": "0.3s",
+            "chance": "100%",
+            "particles": "5",
+            "source": "UNIQUE_DropBall_Hold"
+        },
+        {
+            "cd": "0.3s",
+            "chance": "100%",
+            "particles": "3",
+            "source": "UNIQUE_DropBall_Hold"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Charlotte",
+        "forward": "UI_AvatarIcon_Charlotte"
+    },
+    "info": {
+        "attributes": [
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 15,
+                "def": 46,
+                "hp": 903,
+                "level": 1
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 16,
+                "def": 50,
+                "hp": 978,
+                "level": 2
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 17,
+                "def": 53,
+                "hp": 1052,
+                "level": 3
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 18,
+                "def": 57,
+                "hp": 1127,
+                "level": 4
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 61,
+                "hp": 1201,
+                "level": 5
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 65,
+                "hp": 1275,
+                "level": 6
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 68,
+                "hp": 1349,
+                "level": 7
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 23,
+                "def": 72,
+                "hp": 1424,
+                "level": 8
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 76,
+                "hp": 1499,
+                "level": 9
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 80,
+                "hp": 1573,
+                "level": 10
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 84,
+                "hp": 1648,
+                "level": 11
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 87,
+                "hp": 1722,
+                "level": 12
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 91,
+                "hp": 1797,
+                "level": 13
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 95,
+                "hp": 1871,
+                "level": 14
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 99,
+                "hp": 1946,
+                "level": 15
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 103,
+                "hp": 2021,
+                "level": 16
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 106,
+                "hp": 2095,
+                "level": 17
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 110,
+                "hp": 2170,
+                "level": 18
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 114,
+                "hp": 2244,
+                "level": 19
+            },
+            {
+                "ATK%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 118,
+                "hp": 2319,
+                "level": 20
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 49,
+                "def": 156,
+                "hp": 3067,
+                "level": 21
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 51,
+                "def": 159,
+                "hp": 3142,
+                "level": 22
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 52,
+                "def": 163,
+                "hp": 3217,
+                "level": 23
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 53,
+                "def": 167,
+                "hp": 3291,
+                "level": 24
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 54,
+                "def": 171,
+                "hp": 3366,
+                "level": 25
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 55,
+                "def": 174,
+                "hp": 3440,
+                "level": 26
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 57,
+                "def": 178,
+                "hp": 3515,
+                "level": 27
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 58,
+                "def": 182,
+                "hp": 3589,
+                "level": 28
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 59,
+                "def": 186,
+                "hp": 3664,
+                "level": 29
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 60,
+                "def": 190,
+                "hp": 3738,
+                "level": 30
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 61,
+                "def": 193,
+                "hp": 3813,
+                "level": 31
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 63,
+                "def": 197,
+                "hp": 3888,
+                "level": 32
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 64,
+                "def": 201,
+                "hp": 3962,
+                "level": 33
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 65,
+                "def": 205,
+                "hp": 4037,
+                "level": 34
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 66,
+                "def": 208,
+                "hp": 4111,
+                "level": 35
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 67,
+                "def": 212,
+                "hp": 4186,
+                "level": 36
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 68,
+                "def": 216,
+                "hp": 4260,
+                "level": 37
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 70,
+                "def": 220,
+                "hp": 4335,
+                "level": 38
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 224,
+                "hp": 4410,
+                "level": 39
+            },
+            {
+                "ATK%": "0",
+                "ascension": 1,
+                "atk": 72,
+                "def": 227,
+                "hp": 4484,
+                "level": 40
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 81,
+                "def": 255,
+                "hp": 5038,
+                "level": 41
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 82,
+                "def": 259,
+                "hp": 5112,
+                "level": 42
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 83,
+                "def": 263,
+                "hp": 5187,
+                "level": 43
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 85,
+                "def": 267,
+                "hp": 5261,
+                "level": 44
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 86,
+                "def": 271,
+                "hp": 5336,
+                "level": 45
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 87,
+                "def": 274,
+                "hp": 5410,
+                "level": 46
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 88,
+                "def": 278,
+                "hp": 5485,
+                "level": 47
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 89,
+                "def": 282,
+                "hp": 5559,
+                "level": 48
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 91,
+                "def": 286,
+                "hp": 5633,
+                "level": 49
+            },
+            {
+                "ATK%": "6",
+                "ascension": 2,
+                "atk": 92,
+                "def": 290,
+                "hp": 5708,
+                "level": 50
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 103,
+                "def": 326,
+                "hp": 6421,
+                "level": 51
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 104,
+                "def": 329,
+                "hp": 6496,
+                "level": 52
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 106,
+                "def": 333,
+                "hp": 6571,
+                "level": 53
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 107,
+                "def": 337,
+                "hp": 6645,
+                "level": 54
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 108,
+                "def": 341,
+                "hp": 6720,
+                "level": 55
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 109,
+                "def": 345,
+                "hp": 6794,
+                "level": 56
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 110,
+                "def": 348,
+                "hp": 6869,
+                "level": 57
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 112,
+                "def": 352,
+                "hp": 6943,
+                "level": 58
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 113,
+                "def": 356,
+                "hp": 7018,
+                "level": 59
+            },
+            {
+                "ATK%": "12",
+                "ascension": 3,
+                "atk": 114,
+                "def": 360,
+                "hp": 7093,
+                "level": 60
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 123,
+                "def": 388,
+                "hp": 7646,
+                "level": 61
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 124,
+                "def": 392,
+                "hp": 7721,
+                "level": 62
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 125,
+                "def": 395,
+                "hp": 7795,
+                "level": 63
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 127,
+                "def": 399,
+                "hp": 7870,
+                "level": 64
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 128,
+                "def": 403,
+                "hp": 7944,
+                "level": 65
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 129,
+                "def": 407,
+                "hp": 8019,
+                "level": 66
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 130,
+                "def": 410,
+                "hp": 8094,
+                "level": 67
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 131,
+                "def": 414,
+                "hp": 8168,
+                "level": 68
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 133,
+                "def": 418,
+                "hp": 8243,
+                "level": 69
+            },
+            {
+                "ATK%": "12",
+                "ascension": 4,
+                "atk": 134,
+                "def": 422,
+                "hp": 8317,
+                "level": 70
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 143,
+                "def": 450,
+                "hp": 8871,
+                "level": 71
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 144,
+                "def": 454,
+                "hp": 8945,
+                "level": 72
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 145,
+                "def": 457,
+                "hp": 9020,
+                "level": 73
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 146,
+                "def": 461,
+                "hp": 9095,
+                "level": 74
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 147,
+                "def": 465,
+                "hp": 9169,
+                "level": 75
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 149,
+                "def": 469,
+                "hp": 9244,
+                "level": 76
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 150,
+                "def": 473,
+                "hp": 9318,
+                "level": 77
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 151,
+                "def": 476,
+                "hp": 9392,
+                "level": 78
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 152,
+                "def": 480,
+                "hp": 9466,
+                "level": 79
+            },
+            {
+                "ATK%": "18",
+                "ascension": 5,
+                "atk": 153,
+                "def": 484,
+                "hp": 9541,
+                "level": 80
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 162,
+                "def": 512,
+                "hp": 10095,
+                "level": 81
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 164,
+                "def": 516,
+                "hp": 10169,
+                "level": 82
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 165,
+                "def": 520,
+                "hp": 10244,
+                "level": 83
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 166,
+                "def": 523,
+                "hp": 10318,
+                "level": 84
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 167,
+                "def": 527,
+                "hp": 10393,
+                "level": 85
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 168,
+                "def": 531,
+                "hp": 10467,
+                "level": 86
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 170,
+                "def": 535,
+                "hp": 10542,
+                "level": 87
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 171,
+                "def": 538,
+                "hp": 10616,
+                "level": 88
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 172,
+                "def": 542,
+                "hp": 10691,
+                "level": 89
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 173,
+                "def": 546,
+                "hp": 10766,
+                "level": 90
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 195,
+                "def": 565,
+                "hp": 11138,
+                "level": 95
+            },
+            {
+                "ATK%": "24",
+                "ascension": 6,
+                "atk": 217,
+                "def": 584,
+                "hp": 11511,
+                "level": 100
+            }
+        ],
+        "birthday": "April 10th",
+        "constellation": "Hualina Veritas",
+        "description": "A jornalista cheia de energia do Pássaro a Vapor, sempre correndo atrás da \"verdade\".",
+        "element": "Cryo",
+        "name": "Charlotte",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_CATALYST"
+    },
+    "passives": {
+        "p1": {
+            "description": "Ao derrotar inimigos marcados por Foco Impressionante, reduz a recarga de <color=#FFD780FF>Enquadramento: Composição do Ponto de Congelamento</color> em 2s. A recarga da Habilidade Elemental pode ser reduzida até 4 vezes a cada 12s dessa forma.",
+            "icon": "UI_Talent_S_Charlotte_05",
+            "name": "Momento do Impacto"
+        },
+        "p2": {
+            "description": "Quando a equipe contém 1/2/3 personagens de Fontaine além da própria Charlotte, ela ganha 5%/10%/15% de Bônus de Cura. Quando a equipe contém 1/2/3 personagens que não são de Fontaine, Charlotte ganha 5%/10%/15% de Bônus de Dano Cryo.",
+            "icon": "UI_Talent_S_Charlotte_06",
+            "name": "Investigação Diversa"
+        },
+        "p3": {
+            "description": "Depois de ativar a Lente de Zoom de Análise Especial, não causará mais o efeito original de manter pressionada a Habilidade Elemental \"Enquadramento: Composição do Ponto de Congelamento\", mas agora vai poder tirar fotos de um jeito mais especial...",
+            "icon": "UI_Talent_S_Charlotte_07",
+            "name": "Obturador em Primeira Pessoa"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Condensando o gelo para criar a assinatura do Pássaro a Vapor, Charlotte cria a \"Área de Flash\", causando <color=#99FFFFFF>Dano Cryo em AdE</color> e regenerando Vida para todos os membros próximos da equipe. A quantidade regenerada é baseada no ATQ de Charlotte.\\n\\n<color=#FFD780FF>Área de Flash</color>\\n· Em sua duração, Monsieur Verite periodicamente atacará os inimigos dentro da AdE, causando <color=#99FFFFFF>Dano Cryo</color>.\\n· Personagens ativos no interior da área terão sua Vida regenerada continuamente, a quantidade regenerada é baseada no ATQ de Charlotte.\\n\\n<i>\"Ouvir as histórias de múltiplas perspectivas para recriar o que aconteceu é a chave de uma notícia... Bem, é assim que você escolhe o melhor ângulo para o artigo!\"</i>",
+            "icon": "Skill_E_Charlotte_01",
+            "multipliers": {
+                "Cura ao lançar": [
+                    "256.57% do ATQ + 1608",
+                    "275.82% do ATQ + 1769",
+                    "295.06% do ATQ + 1944",
+                    "320.72% do ATQ + 2131",
+                    "339.96% do ATQ + 2332",
+                    "359.2% do ATQ + 2547",
+                    "384.86% do ATQ + 2775",
+                    "410.52% do ATQ + 3016",
+                    "436.17% do ATQ + 3271",
+                    "461.83% do ATQ + 3539",
+                    "487.49% do ATQ + 3820",
+                    "513.15% do ATQ + 4115",
+                    "545.22% do ATQ + 4424",
+                    "577.29% do ATQ + 4745",
+                    "609.36% do ATQ + 5081"
+                ],
+                "Dano da Câmera": [
+                    "6.47%",
+                    "6.95%",
+                    "7.44%",
+                    "8.08%",
+                    "8.57%",
+                    "9.06%",
+                    "9.7%",
+                    "10.35%",
+                    "11%",
+                    "11.64%",
+                    "12.29%",
+                    "12.94%",
+                    "13.74%",
+                    "14.55%",
+                    "15.36%"
+                ],
+                "Dano de Habilidade": [
+                    "77.62%",
+                    "83.44%",
+                    "89.26%",
+                    "97.02%",
+                    "102.84%",
+                    "108.66%",
+                    "116.42%",
+                    "124.19%",
+                    "131.95%",
+                    "139.71%",
+                    "147.47%",
+                    "155.23%",
+                    "164.93%",
+                    "174.64%",
+                    "184.34%"
+                ],
+                "Duração da Área de Flash": [
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s"
+                ],
+                "Energia Elemental": [
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80"
+                ],
+                "Regeneração Contínua da Câmera": [
+                    "9.22% do ATQ + 57",
+                    "9.91% do ATQ + 63",
+                    "10.6% do ATQ + 69",
+                    "11.52% do ATQ + 76",
+                    "12.21% do ATQ + 83",
+                    "12.9% do ATQ + 91",
+                    "13.82% do ATQ + 99",
+                    "14.75% do ATQ + 108",
+                    "15.67% do ATQ + 117",
+                    "16.59% do ATQ + 126",
+                    "17.51% do ATQ + 136",
+                    "18.43% do ATQ + 147",
+                    "19.58% do ATQ + 158",
+                    "20.74% do ATQ + 169",
+                    "21.89% do ATQ + 181"
+                ],
+                "Tempo de Recarga": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ]
+            },
+            "name": "Determinado: Confirmação Geral"
+        },
+        "elementalskill": {
+            "description": "Usando os instintos aguçados de uma repórter, Charlotte usa suas habilidades de fotografia para produzir efeitos diferentes ao pressionar ou manter pressionada a Habilidade.\\n\\n<color=#FFD780FF>Pressionar</color>\\nTira uma foto usando Monsieur Verite, causando <color=#99FFFFFF>Dano Cryo em AdE</color> contra os inimigos em frente, e marcando até 5 inimigos atingidos com Silhueta Instantânea. Na duração de Silhueta Instantânea, causará periodicamente <color=#99FFFFFF>Dano Cryo</color> contra os inimigos.\\n\\n<color=#FFD780FF>Manter Pressionado</color>\\nAbre o Visor do Monsieur Verite, entrando no estado Composição. O Visor irá gradualmente aumentar até virar a Foto Enorme enquanto estiver mantendo pressionado. Nesse estado, Charlotte é capaz de se mover e mudar de direção.\\nQuando terminar de manter pressionado, Monsieur Verite causará <color=#99FFFFFF>Dano Cryo</color> contra os inimigos fixados pelo Visor, e os aplicará com a mesma Silhueta Instantânea causada ao pressionar. Se a Habilidade for lançada depois que o Visor chegar em Foto Enorme, a duração e o Dano de Foco Impressionante serão mais altos, mas o tempo de recarga da Habilidade será maior.\\nO estado Composição pode durar até 15 segundos e marcar até 5 inimigos.\\n\\n<i>\"Fotografia jornalística precisa de ângulos simples com temas excepcionais, mas acima de tudo, você precisa ter talento pra capturar o momento!\"</i>",
+            "icon": "Skill_S_Charlotte_01",
+            "multipliers": {
+                "Dano da Marca \"Foco Impressionante\"": [
+                    "40.6%",
+                    "43.65%",
+                    "46.69%",
+                    "50.75%",
+                    "53.79%",
+                    "56.84%",
+                    "60.9%",
+                    "64.96%",
+                    "69.02%",
+                    "73.08%",
+                    "77.14%",
+                    "81.2%",
+                    "86.27%",
+                    "91.35%",
+                    "96.43%"
+                ],
+                "Dano de Manter Pressionado Fotografar": [
+                    "139.2%",
+                    "149.64%",
+                    "160.08%",
+                    "174%",
+                    "184.44%",
+                    "194.88%",
+                    "208.8%",
+                    "222.72%",
+                    "236.64%",
+                    "250.56%",
+                    "264.48%",
+                    "278.4%",
+                    "295.8%",
+                    "313.2%",
+                    "330.6%"
+                ],
+                "Dano de Marca \"Silhueta Instantânea\"": [
+                    "39.2%",
+                    "42.14%",
+                    "45.08%",
+                    "49%",
+                    "51.94%",
+                    "54.88%",
+                    "58.8%",
+                    "62.72%",
+                    "66.64%",
+                    "70.56%",
+                    "74.48%",
+                    "78.4%",
+                    "83.3%",
+                    "88.2%",
+                    "93.1%"
+                ],
+                "Dano de Pressionar Fotografar": [
+                    "67.2%",
+                    "72.24%",
+                    "77.28%",
+                    "84%",
+                    "89.04%",
+                    "94.08%",
+                    "100.8%",
+                    "107.52%",
+                    "114.24%",
+                    "120.96%",
+                    "127.68%",
+                    "134.4%",
+                    "142.8%",
+                    "151.2%",
+                    "159.6%"
+                ],
+                "Duração da Marca \"Foco Impressionante\"": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "Duração de Marca \"Silhueta Instantânea\"": [
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s"
+                ],
+                "Intervalo de Ativação da Marca \"Foco Impressionante\"": [
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s"
+                ],
+                "Intervalo de ativação de Marca \"Silhueta Instantânea\"": [
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s",
+                    "1.5s"
+                ],
+                "Recarga": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "Recarga de lançamento de Foto Enorme": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ]
+            },
+            "name": "Enquadramento: Composição do Ponto de Congelamento"
+        },
+        "leveling": {
+            "books": {
+                "104341": 9,
+                "104342": 63,
+                "104343": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113054": 18
+            },
+            "worldmonster": {
+                "112083": 18,
+                "112084": 66,
+                "112085": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nMira nos alvos com o Monsieur Verite, e com sua câmera personalizada, Charlotte desfere 3 golpes consecutivos, causando <color=#99FFFFFF>Dano Cryo.</color>\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome uma certa quantidade de Stamina, e depois de uma curta preparação, envia Monsieur Verite para causar <color=#99FFFFFF>Dano Cryo em AdE</color>.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nReunindo o poder do Cryo, mergulha em direção ao chão, causando Dano contra todos os oponentes no caminho e causando <color=#99FFFFFF>Dano Cryo em AdE</color> ao impactar com o chão.\\n\\n<color=#FFD780FF>Arkhe: Pneuma</color>\\nPeriodicamente, ao lançar um Ataque Carregado, um Espinho Espiritual cairá e perfurará os inimigos, causando <color=#99FFFFFF>Dano Cryo em AdE</color> com Pneuma contra os oponentes.",
+            "icon": "Skill_A_Catalyst_MD",
+            "multipliers": {
+                "Consumo de Stamina de Ataque Carregado": [
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50"
+                ],
+                "Dano Durante a Queda": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "Dano de Ataque Carregado": [
+                    "100.51%",
+                    "108.05%",
+                    "115.59%",
+                    "125.64%",
+                    "133.18%",
+                    "140.72%",
+                    "150.77%",
+                    "160.82%",
+                    "170.87%",
+                    "180.92%",
+                    "190.97%",
+                    "201.02%",
+                    "213.59%",
+                    "226.15%",
+                    "238.72%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "Dano do 1° Golpe": [
+                    "49.85%",
+                    "53.58%",
+                    "57.32%",
+                    "62.31%",
+                    "66.05%",
+                    "69.78%",
+                    "74.77%",
+                    "79.75%",
+                    "84.74%",
+                    "89.72%",
+                    "94.71%",
+                    "99.69%",
+                    "105.92%",
+                    "112.15%",
+                    "118.38%"
+                ],
+                "Dano do 2° Golpe": [
+                    "43.38%",
+                    "46.63%",
+                    "49.88%",
+                    "54.22%",
+                    "57.47%",
+                    "60.73%",
+                    "65.06%",
+                    "69.4%",
+                    "73.74%",
+                    "78.08%",
+                    "82.41%",
+                    "86.75%",
+                    "92.17%",
+                    "97.59%",
+                    "103.02%"
+                ],
+                "Dano do 3° Golpe": [
+                    "64.6%",
+                    "69.45%",
+                    "74.29%",
+                    "80.75%",
+                    "85.6%",
+                    "90.44%",
+                    "96.9%",
+                    "103.36%",
+                    "109.82%",
+                    "116.28%",
+                    "122.74%",
+                    "129.2%",
+                    "137.28%",
+                    "145.35%",
+                    "153.43%"
+                ],
+                "Dano do Espinho Espiritual": [
+                    "11.17%",
+                    "12.01%",
+                    "12.84%",
+                    "13.96%",
+                    "14.8%",
+                    "15.64%",
+                    "16.75%",
+                    "17.87%",
+                    "18.99%",
+                    "20.1%",
+                    "21.22%",
+                    "22.34%",
+                    "23.73%",
+                    "25.13%",
+                    "26.52%"
+                ],
+                "Intervalo de Espinho Espiritual": [
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s"
+                ]
+            },
+            "name": "Foto de Cores Frias"
+        }
+    }
+}

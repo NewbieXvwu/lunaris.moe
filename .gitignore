@@ -1,0 +1,31 @@
+# IDE / 工具
+.ace-tool/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# 临时文件
+*.tmp
+*.part
+*.log
+
+# 运行时日志（backup 流水线产生）
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+nul

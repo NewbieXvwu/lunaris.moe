@@ -1,0 +1,1344 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104171": 1,
+            "104172": 9,
+            "104173": 9,
+            "104174": 6
+        },
+        "elitemonster": {
+            "113084": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100030": 168
+        },
+        "worldmonster": {
+            "112125": 18,
+            "112126": 30,
+            "112127": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Rock",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: MoonCrystallizeWaterDamage (!)",
+            "name": "ExtraAttack",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "Rock",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: MoonCrystallizeWaterDamage (!)",
+            "name": "ElementalArt",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: MoonCrystallizeWaterDamage (!)",
+            "name": "ElementalArt",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Rock",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: MoonCrystallizeWaterDamage (!)",
+            "name": "ElementalArt_Extra",
+            "poise": "LV0/50"
+        },
+        {
+            "element": "Rock",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: MoonCrystallizeWaterDamage (!)",
+            "name": "ElementalArt_Extra",
+            "poise": "LV0/50"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Extra",
+            "poise": "LV3/75"
+        },
+        {
+            "element": "Rock",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: MoonCrystallizeWaterDamage (!)",
+            "name": "ElementalBurst",
+            "poise": "LV0/100"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV5/75"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "After using the Elemental Skill <color=#FFD780FF>{LINK#S11262}Heaven and Earth Made Manifest{/LINK}</color>, Zibai will immediately gain 100 {LINK#N11260001}<color=#FFD780FF>Phase Shift Radiance</color>{/LINK}, and the max number of <color=#FFD780FF>Spirit Steed's Stride</color> usages per <color=#FFD780FF>Lunar Phase Shift</color> mode is increased to 5 times.\\nAdditionally, each time you switch to the Lunar Phase Shift mode, the first Spirit Steed's Stride's 2nd-hit Lunar-Crystallize Reaction DMG is increased by 220%.",
+            "icon": "UI_Talent_S_Zibai_01",
+            "name": "Burst Forth With Vigor, But Enter in Silence"
+        },
+        "const2": {
+            "description": "When in the {LINK#N11260001}<color=#FFD780FF>Lunar Phase Shift</color>{/LINK} mode, all nearby party members' Lunar-Crystallize Reaction DMG is increased by 30%.\\n\\n<color=#FFD780FF>Moonsign: Ascendant Gleam</color>: Ascension Talent <color=#FFD780FF>{LINK#P1262101}The Selenic Adeptus Descends{/LINK}</color> is enhanced: the 2nd hit of <color=#FFD780FF>Spirit Steed's Stride</color> deals additional DMG equal to 550% of Zibai's DEF. You must first unlock the Ascension Talent \"The Selenic Adeptus Descends.\"",
+            "icon": "UI_Talent_S_Zibai_02",
+            "name": "At Birth Are Souls Born, and in Death Leave But Husks"
+        },
+        "const3": {
+            "description": "Increases the Level of Elemental Skill <color=#FFD780FF>{LINK#S11262}Heaven and Earth Made Manifest{/LINK}</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Zibai_01",
+            "name": "Free From Constraints and Worldly Ties"
+        },
+        "const4": {
+            "description": "While in the {LINK#N11260001}<color=#FFD780FF>Lunar Phase Shift</color>{/LINK} mode, Zibai's Normal Attack sequence will not reset, and when <color=#FFD780FF>Spirit Steed's Stride</color> hits opponents, Zibai will gain the <color=#FFD780FF>\"Scattermoon Splendor\"</color> effect: The next time she uses Normal Attacks, her 4th hit will deal 250% of the original Lunar-Crystallize Reaction DMG.",
+            "icon": "UI_Talent_S_Zibai_03",
+            "name": "The Spirit Passes, Then Form Follows"
+        },
+        "const5": {
+            "description": "Increases the Level of <color=#FFD780FF>{LINK#S11265}Tri-Sphere Eminence{/LINK}</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Zibai_02",
+            "name": "Perceive the Worthless and Debate It Not"
+        },
+        "const6": {
+            "description": "While Zibai is in the {LINK#N11260001}<color=#FFD780FF>Lunar Phase Shift</color>{/LINK} mode, her <color=#FFD780FF>Phase Shift Radiance</color> gain rate is increased by 50%.\\nAdditionally, <color=#FFD780FF>Spirit Steed's Stride</color> will change such that it will consume all Phase Shift Radiance. This will {LINK#N11190007}<color=#FFD780FF>elevate</color>{/LINK} the DMG dealt by this instance of Spirit Steed's Stride and the Lunar-Crystallize Reaction DMG dealt by Zibai within the next 3s by 1.6% for every point consumed above 70. This effect cannot stack.",
+            "icon": "UI_Talent_S_Zibai_04",
+            "name": "The World, A Journey in Passing"
+        }
+    },
+    "energy": [
+        {
+            "cd": "2s",
+            "chance": "100%",
+            "particles": "1",
+            "source": "DropElemBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Zibai",
+        "forward": "UI_AvatarIcon_Zibai"
+    },
+    "info": {
+        "attributes": [
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 18,
+                "def": 74,
+                "hp": 1006,
+                "level": 1
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 81,
+                "hp": 1089,
+                "level": 2
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 87,
+                "hp": 1173,
+                "level": 3
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 93,
+                "hp": 1257,
+                "level": 4
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 23,
+                "def": 99,
+                "hp": 1341,
+                "level": 5
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 106,
+                "hp": 1425,
+                "level": 6
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 112,
+                "hp": 1509,
+                "level": 7
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 118,
+                "hp": 1593,
+                "level": 8
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 124,
+                "hp": 1678,
+                "level": 9
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 130,
+                "hp": 1761,
+                "level": 10
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 137,
+                "hp": 1846,
+                "level": 11
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 143,
+                "hp": 1930,
+                "level": 12
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 149,
+                "hp": 2015,
+                "level": 13
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 156,
+                "hp": 2100,
+                "level": 14
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 162,
+                "hp": 2184,
+                "level": 15
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 168,
+                "hp": 2269,
+                "level": 16
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 174,
+                "hp": 2354,
+                "level": 17
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 181,
+                "hp": 2439,
+                "level": 18
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 187,
+                "hp": 2524,
+                "level": 19
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 45,
+                "def": 193,
+                "hp": 2609,
+                "level": 20
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 62,
+                "def": 263,
+                "hp": 3557,
+                "level": 21
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 63,
+                "def": 270,
+                "hp": 3642,
+                "level": 22
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 65,
+                "def": 276,
+                "hp": 3728,
+                "level": 23
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 66,
+                "def": 282,
+                "hp": 3813,
+                "level": 24
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 68,
+                "def": 289,
+                "hp": 3899,
+                "level": 25
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 69,
+                "def": 295,
+                "hp": 3985,
+                "level": 26
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 301,
+                "hp": 4071,
+                "level": 27
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 72,
+                "def": 308,
+                "hp": 4156,
+                "level": 28
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 74,
+                "def": 314,
+                "hp": 4243,
+                "level": 29
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 75,
+                "def": 321,
+                "hp": 4328,
+                "level": 30
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 77,
+                "def": 327,
+                "hp": 4415,
+                "level": 31
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 78,
+                "def": 333,
+                "hp": 4501,
+                "level": 32
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 80,
+                "def": 340,
+                "hp": 4588,
+                "level": 33
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 81,
+                "def": 346,
+                "hp": 4673,
+                "level": 34
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 83,
+                "def": 353,
+                "hp": 4760,
+                "level": 35
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 84,
+                "def": 359,
+                "hp": 4847,
+                "level": 36
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 86,
+                "def": 365,
+                "hp": 4934,
+                "level": 37
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 87,
+                "def": 372,
+                "hp": 5020,
+                "level": 38
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 89,
+                "def": 378,
+                "hp": 5107,
+                "level": 39
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 90,
+                "def": 385,
+                "hp": 5194,
+                "level": 40
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 103,
+                "def": 436,
+                "hp": 5893,
+                "level": 41
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 104,
+                "def": 443,
+                "hp": 5981,
+                "level": 42
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 106,
+                "def": 449,
+                "hp": 6068,
+                "level": 43
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 107,
+                "def": 456,
+                "hp": 6155,
+                "level": 44
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 109,
+                "def": 462,
+                "hp": 6242,
+                "level": 45
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 110,
+                "def": 469,
+                "hp": 6330,
+                "level": 46
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 112,
+                "def": 475,
+                "hp": 6417,
+                "level": 47
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 113,
+                "def": 482,
+                "hp": 6505,
+                "level": 48
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 115,
+                "def": 488,
+                "hp": 6593,
+                "level": 49
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 116,
+                "def": 495,
+                "hp": 6681,
+                "level": 50
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 132,
+                "def": 562,
+                "hp": 7585,
+                "level": 51
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 134,
+                "def": 568,
+                "hp": 7674,
+                "level": 52
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 135,
+                "def": 575,
+                "hp": 7761,
+                "level": 53
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 137,
+                "def": 581,
+                "hp": 7850,
+                "level": 54
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 138,
+                "def": 588,
+                "hp": 7938,
+                "level": 55
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 140,
+                "def": 594,
+                "hp": 8027,
+                "level": 56
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 141,
+                "def": 601,
+                "hp": 8115,
+                "level": 57
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 143,
+                "def": 608,
+                "hp": 8204,
+                "level": 58
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 144,
+                "def": 614,
+                "hp": 8292,
+                "level": 59
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 146,
+                "def": 621,
+                "hp": 8381,
+                "level": 60
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 158,
+                "def": 673,
+                "hp": 9082,
+                "level": 61
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 160,
+                "def": 679,
+                "hp": 9171,
+                "level": 62
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 161,
+                "def": 686,
+                "hp": 9260,
+                "level": 63
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 163,
+                "def": 692,
+                "hp": 9349,
+                "level": 64
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 164,
+                "def": 699,
+                "hp": 9438,
+                "level": 65
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 166,
+                "def": 706,
+                "hp": 9528,
+                "level": 66
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 167,
+                "def": 712,
+                "hp": 9616,
+                "level": 67
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 169,
+                "def": 719,
+                "hp": 9706,
+                "level": 68
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 170,
+                "def": 725,
+                "hp": 9795,
+                "level": 69
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 172,
+                "def": 732,
+                "hp": 9885,
+                "level": 70
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 184,
+                "def": 784,
+                "hp": 10587,
+                "level": 71
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 186,
+                "def": 791,
+                "hp": 10677,
+                "level": 72
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 187,
+                "def": 797,
+                "hp": 10767,
+                "level": 73
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 189,
+                "def": 804,
+                "hp": 10856,
+                "level": 74
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 191,
+                "def": 811,
+                "hp": 10947,
+                "level": 75
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 192,
+                "def": 817,
+                "hp": 11036,
+                "level": 76
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 194,
+                "def": 824,
+                "hp": 11127,
+                "level": 77
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 195,
+                "def": 831,
+                "hp": 11217,
+                "level": 78
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 197,
+                "def": 838,
+                "hp": 11308,
+                "level": 79
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 198,
+                "def": 844,
+                "hp": 11399,
+                "level": 80
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 211,
+                "def": 896,
+                "hp": 12102,
+                "level": 81
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 212,
+                "def": 903,
+                "hp": 12192,
+                "level": 82
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 214,
+                "def": 910,
+                "hp": 12283,
+                "level": 83
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 215,
+                "def": 916,
+                "hp": 12373,
+                "level": 84
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 217,
+                "def": 923,
+                "hp": 12464,
+                "level": 85
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 218,
+                "def": 930,
+                "hp": 12555,
+                "level": 86
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 220,
+                "def": 937,
+                "hp": 12646,
+                "level": 87
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 222,
+                "def": 943,
+                "hp": 12737,
+                "level": 88
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 223,
+                "def": 950,
+                "hp": 12829,
+                "level": 89
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 225,
+                "def": 957,
+                "hp": 12919,
+                "level": 90
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 250,
+                "def": 991,
+                "hp": 13378,
+                "level": 95
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 275,
+                "def": 1025,
+                "hp": 13838,
+                "level": 100
+            }
+        ],
+        "birthday": "May 15th",
+        "constellation": "Equa Alba",
+        "description": "The White Horse Adeptus from Liyue's legends, known as Zibai. The most mysterious figure in Liyue's myths.",
+        "element": "Geo",
+        "name": "Zibai",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_SWORD_ONE_HAND"
+    },
+    "passives": {
+        "p1": {
+            "description": "When casting the Elemental Skill <color=#FFD780FF>{LINK#S11262}Heaven and Earth Made Manifest{/LINK}</color>, or when triggering Moondrift Harmony, Zibai gains the <color=#FFD780FF>Moonfall</color> effect for 4s: The DMG dealt by the 2nd hit of {LINK#N11260001}<color=#FFD780FF>Spirit Steed's Stride</color>{/LINK} is increased by 60% of Zibai's DEF.",
+            "icon": "UI_Talent_S_Zibai_05",
+            "name": "The Selenic Adeptus Descends"
+        },
+        "p2": {
+            "description": "Other <color=#FFE699FF>Geo</color> party members increase Zibai's DEF by 15% each. Other <color=#80C0FFFF>Hydro</color> party members increase her Elemental Mastery by 60 each.",
+            "icon": "UI_Talent_S_Zibai_06",
+            "name": "Layered Peaks Pierce the Clouds"
+        },
+        "p3": {
+            "description": "When a party member triggers a Hydro Crystallize reaction, it will be converted into the Lunar-Crystallize reaction, with every 100 DEF that Zibai has increasing Lunar-Crystallize's Base DMG by 0.7%, up to a maximum of 14%.\\n\\nAdditionally, when Zibai is in the party, the party's <color=#FFD780FF>Moonsign</color> will increase by 1 level.",
+            "icon": "UI_Talent_S_Zibai_07",
+            "name": "Moonsign Benediction: The Coursing Sun and Moon"
+        },
+        "p4": {
+            "description": "At night (18:00 – 06:00), when not in combat, restore 1 Elemental Energy to Zibai every 2 seconds.\\nThis effect does not work in Domains, Trounce Domains, or the Spiral Abyss.",
+            "icon": "UI_Talent_S_Zibai_08",
+            "name": "Moonlit Flower Forest"
+        }
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Zibai operates the Jadelight Canopy, dealing two instances of <color=#FFE699FF>Geo DMG</color>, with the second damage instance being considered Lunar-Crystallize Reaction DMG.",
+            "icon": "Skill_E_Zibai_01",
+            "multipliers": {
+                "CD": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Energy Cost": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "Skill 1-Hit DMG": [
+                    "126.96% DEF",
+                    "136.48% DEF",
+                    "146% DEF",
+                    "158.7% DEF",
+                    "168.22% DEF",
+                    "177.74% DEF",
+                    "190.44% DEF",
+                    "203.14% DEF",
+                    "215.83% DEF",
+                    "228.53% DEF",
+                    "241.22% DEF",
+                    "253.92% DEF",
+                    "269.79% DEF",
+                    "285.66% DEF",
+                    "301.53% DEF"
+                ],
+                "Skill 2-Hit DMG": [
+                    "177.74% DEF",
+                    "191.07% DEF",
+                    "204.41% DEF",
+                    "222.18% DEF",
+                    "235.51% DEF",
+                    "248.84% DEF",
+                    "266.62% DEF",
+                    "284.39% DEF",
+                    "302.16% DEF",
+                    "319.94% DEF",
+                    "337.71% DEF",
+                    "355.49% DEF",
+                    "377.71% DEF",
+                    "399.92% DEF",
+                    "422.14% DEF"
+                ]
+            },
+            "name": "Tri-Sphere Eminence"
+        },
+        "elementalskill": {
+            "description": "Summoning a shadow of her former powers, she switches to the {LINK#N11260001}<color=#FFD780FF>Lunar Phase Shift</color>{/LINK} mode.\\nIn this mode, Zibai's Normal Attacks and Charged Attacks will deal <color=#FFE699FF>Geo DMG</color> that cannot be overridden by other infusions, and she can accrue special <color=#FFD780FF>Phase Shift Radiance</color> through different methods. Zibai can consume Phase Shift Radiance to unleash the special Elemental Skill <color=#FFD780FF>Spirit Steed's Stride</color>.\\n\\n<color=#FFD780FF>Moonsign: Ascendant Gleam</color>\\nWhile in the <color=#FFD780FF>Lunar Phase Shift</color> mode, when Zibai performs Normal Attacks, the fourth attack will deal an additional instance of <color=#FFE699FF>Geo DMG</color>, which is considered Lunar-Crystallize Reaction DMG.",
+            "icon": "Skill_S_Zibai_01",
+            "multipliers": {
+                "CD": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ],
+                "Lunar Phase Shift 1-Hit DMG": [
+                    "56.58% DEF",
+                    "60.82% DEF",
+                    "65.07% DEF",
+                    "70.72% DEF",
+                    "74.97% DEF",
+                    "79.21% DEF",
+                    "84.87% DEF",
+                    "90.53% DEF",
+                    "96.18% DEF",
+                    "101.84% DEF",
+                    "107.5% DEF",
+                    "113.16% DEF",
+                    "120.23% DEF",
+                    "127.3% DEF",
+                    "134.38% DEF"
+                ],
+                "Lunar Phase Shift 2-Hit DMG": [
+                    "52.1% DEF",
+                    "56.01% DEF",
+                    "59.92% DEF",
+                    "65.13% DEF",
+                    "69.03% DEF",
+                    "72.94% DEF",
+                    "78.15% DEF",
+                    "83.36% DEF",
+                    "88.57% DEF",
+                    "93.78% DEF",
+                    "98.99% DEF",
+                    "104.2% DEF",
+                    "110.71% DEF",
+                    "117.23% DEF",
+                    "123.74% DEF"
+                ],
+                "Lunar Phase Shift 3-Hit DMG": [
+                    "34.57%+34.57% DEF",
+                    "37.16%+37.16% DEF",
+                    "39.75%+39.75% DEF",
+                    "43.21%+43.21% DEF",
+                    "45.8%+45.8% DEF",
+                    "48.4%+48.4% DEF",
+                    "51.85%+51.85% DEF",
+                    "55.31%+55.31% DEF",
+                    "58.77%+58.77% DEF",
+                    "62.22%+62.22% DEF",
+                    "65.68%+65.68% DEF",
+                    "69.14%+69.14% DEF",
+                    "73.46%+73.46% DEF",
+                    "77.78%+77.78% DEF",
+                    "82.1%+82.1% DEF"
+                ],
+                "Lunar Phase Shift 4-Hit Ascendant Gleam DMG": [
+                    "29.46% DEF",
+                    "31.67% DEF",
+                    "33.87% DEF",
+                    "36.82% DEF",
+                    "39.03% DEF",
+                    "41.24% DEF",
+                    "44.18% DEF",
+                    "47.13% DEF",
+                    "50.08% DEF",
+                    "53.02% DEF",
+                    "55.97% DEF",
+                    "58.91% DEF",
+                    "62.59% DEF",
+                    "66.28% DEF",
+                    "69.96% DEF"
+                ],
+                "Lunar Phase Shift 4-Hit DMG": [
+                    "87.18% DEF",
+                    "93.72% DEF",
+                    "100.26% DEF",
+                    "108.97% DEF",
+                    "115.51% DEF",
+                    "122.05% DEF",
+                    "130.77% DEF",
+                    "139.49% DEF",
+                    "148.2% DEF",
+                    "156.92% DEF",
+                    "165.64% DEF",
+                    "174.36% DEF",
+                    "185.25% DEF",
+                    "196.15% DEF",
+                    "207.05% DEF"
+                ],
+                "Lunar Phase Shift Charged Attack DMG": [
+                    "65.95%+65.95% DEF",
+                    "70.9%+70.9% DEF",
+                    "75.84%+75.84% DEF",
+                    "82.44%+82.44% DEF",
+                    "87.38%+87.38% DEF",
+                    "92.33%+92.33% DEF",
+                    "98.93%+98.93% DEF",
+                    "105.52%+105.52% DEF",
+                    "112.12%+112.12% DEF",
+                    "118.71%+118.71% DEF",
+                    "125.3%+125.3% DEF",
+                    "131.9%+131.9% DEF",
+                    "140.14%+140.14% DEF",
+                    "148.39%+148.39% DEF",
+                    "156.63%+156.63% DEF"
+                ],
+                "Lunar Phase Shift Duration": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Spirit Steed's Stride 1-Hit DMG": [
+                    "172.53% DEF",
+                    "185.47% DEF",
+                    "198.41% DEF",
+                    "215.66% DEF",
+                    "228.6% DEF",
+                    "241.54% DEF",
+                    "258.79% DEF",
+                    "276.04% DEF",
+                    "293.3% DEF",
+                    "310.55% DEF",
+                    "327.8% DEF",
+                    "345.06% DEF",
+                    "366.62% DEF",
+                    "388.19% DEF",
+                    "409.75% DEF"
+                ],
+                "Spirit Steed's Stride 2-Hit DMG": [
+                    "140.97% DEF",
+                    "151.54% DEF",
+                    "162.11% DEF",
+                    "176.21% DEF",
+                    "186.78% DEF",
+                    "197.36% DEF",
+                    "211.45% DEF",
+                    "225.55% DEF",
+                    "239.65% DEF",
+                    "253.74% DEF",
+                    "267.84% DEF",
+                    "281.94% DEF",
+                    "299.56% DEF",
+                    "317.18% DEF",
+                    "334.8% DEF"
+                ]
+            },
+            "name": "Heaven and Earth Made Manifest"
+        },
+        "leveling": {
+            "books": {
+                "104316": 9,
+                "104317": 63,
+                "104318": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113075": 18
+            },
+            "worldmonster": {
+                "112125": 18,
+                "112126": 66,
+                "112127": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 rapid strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+            "icon": "Skill_A_01",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "50.55%",
+                    "54.67%",
+                    "58.78%",
+                    "64.66%",
+                    "68.78%",
+                    "73.48%",
+                    "79.95%",
+                    "86.41%",
+                    "92.88%",
+                    "99.93%",
+                    "106.99%",
+                    "114.04%",
+                    "121.1%",
+                    "128.15%",
+                    "135.2%"
+                ],
+                "2-Hit DMG": [
+                    "46.55%",
+                    "50.34%",
+                    "54.13%",
+                    "59.54%",
+                    "63.33%",
+                    "67.66%",
+                    "73.62%",
+                    "79.57%",
+                    "85.53%",
+                    "92.02%",
+                    "98.52%",
+                    "105.01%",
+                    "111.51%",
+                    "118.01%",
+                    "124.5%"
+                ],
+                "3-Hit DMG": [
+                    "30.89%+30.89%",
+                    "33.4%+33.4%",
+                    "35.92%+35.92%",
+                    "39.51%+39.51%",
+                    "42.02%+42.02%",
+                    "44.9%+44.9%",
+                    "48.85%+48.85%",
+                    "52.8%+52.8%",
+                    "56.75%+56.75%",
+                    "61.06%+61.06%",
+                    "65.37%+65.37%",
+                    "69.68%+69.68%",
+                    "73.99%+73.99%",
+                    "78.3%+78.3%",
+                    "82.61%+82.61%"
+                ],
+                "4-Hit DMG": [
+                    "77.9%",
+                    "84.24%",
+                    "90.58%",
+                    "99.63%",
+                    "105.97%",
+                    "113.22%",
+                    "123.18%",
+                    "133.15%",
+                    "143.11%",
+                    "153.98%",
+                    "164.85%",
+                    "175.72%",
+                    "186.59%",
+                    "197.46%",
+                    "208.32%"
+                ],
+                "Charged Attack DMG": [
+                    "73.66%+73.66%",
+                    "79.65%+79.65%",
+                    "85.65%+85.65%",
+                    "94.21%+94.21%",
+                    "100.21%+100.21%",
+                    "107.06%+107.06%",
+                    "116.48%+116.48%",
+                    "125.91%+125.91%",
+                    "135.33%+135.33%",
+                    "145.61%+145.61%",
+                    "155.88%+155.88%",
+                    "166.16%+166.16%",
+                    "176.44%+176.44%",
+                    "186.72%+186.72%",
+                    "196.99%+196.99%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20"
+                ],
+                "Low/High Plunge DMG": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Plunge DMG": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ]
+            },
+            "name": "Golden Blade's Petaled Touch"
+        }
+    }
+}

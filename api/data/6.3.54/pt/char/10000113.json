@@ -1,0 +1,1413 @@
+{
+    "info": {
+        "name": "Ifa",
+        "description": "Um veterinário do Clã das Plumas de Flores que ama profundamente todas as coisas vivas, sejam as pessoas e animais.",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_CATALYST",
+        "birthday": "March 23rd",
+        "element": "Anemo",
+        "constellation": "Catena Opele",
+        "attributes": [
+            {
+                "level": 1,
+                "ascension": 0,
+                "hp": 845,
+                "atk": 15,
+                "def": 51,
+                "EM": 0
+            },
+            {
+                "level": 2,
+                "ascension": 0,
+                "hp": 915,
+                "atk": 16,
+                "def": 55,
+                "EM": 0
+            },
+            {
+                "level": 3,
+                "ascension": 0,
+                "hp": 985,
+                "atk": 17,
+                "def": 59,
+                "EM": 0
+            },
+            {
+                "level": 4,
+                "ascension": 0,
+                "hp": 1055,
+                "atk": 19,
+                "def": 63,
+                "EM": 0
+            },
+            {
+                "level": 5,
+                "ascension": 0,
+                "hp": 1124,
+                "atk": 20,
+                "def": 68,
+                "EM": 0
+            },
+            {
+                "level": 6,
+                "ascension": 0,
+                "hp": 1194,
+                "atk": 21,
+                "def": 72,
+                "EM": 0
+            },
+            {
+                "level": 7,
+                "ascension": 0,
+                "hp": 1264,
+                "atk": 22,
+                "def": 76,
+                "EM": 0
+            },
+            {
+                "level": 8,
+                "ascension": 0,
+                "hp": 1334,
+                "atk": 24,
+                "def": 80,
+                "EM": 0
+            },
+            {
+                "level": 9,
+                "ascension": 0,
+                "hp": 1404,
+                "atk": 25,
+                "def": 84,
+                "EM": 0
+            },
+            {
+                "level": 10,
+                "ascension": 0,
+                "hp": 1473,
+                "atk": 26,
+                "def": 88,
+                "EM": 0
+            },
+            {
+                "level": 11,
+                "ascension": 0,
+                "hp": 1543,
+                "atk": 27,
+                "def": 93,
+                "EM": 0
+            },
+            {
+                "level": 12,
+                "ascension": 0,
+                "hp": 1613,
+                "atk": 29,
+                "def": 97,
+                "EM": 0
+            },
+            {
+                "level": 13,
+                "ascension": 0,
+                "hp": 1683,
+                "atk": 30,
+                "def": 101,
+                "EM": 0
+            },
+            {
+                "level": 14,
+                "ascension": 0,
+                "hp": 1752,
+                "atk": 31,
+                "def": 105,
+                "EM": 0
+            },
+            {
+                "level": 15,
+                "ascension": 0,
+                "hp": 1822,
+                "atk": 32,
+                "def": 109,
+                "EM": 0
+            },
+            {
+                "level": 16,
+                "ascension": 0,
+                "hp": 1892,
+                "atk": 33,
+                "def": 114,
+                "EM": 0
+            },
+            {
+                "level": 17,
+                "ascension": 0,
+                "hp": 1962,
+                "atk": 35,
+                "def": 118,
+                "EM": 0
+            },
+            {
+                "level": 18,
+                "ascension": 0,
+                "hp": 2032,
+                "atk": 36,
+                "def": 122,
+                "EM": 0
+            },
+            {
+                "level": 19,
+                "ascension": 0,
+                "hp": 2101,
+                "atk": 37,
+                "def": 126,
+                "EM": 0
+            },
+            {
+                "level": 20,
+                "ascension": 0,
+                "hp": 2171,
+                "atk": 38,
+                "def": 130,
+                "EM": 0
+            },
+            {
+                "level": 21,
+                "ascension": 1,
+                "hp": 2872,
+                "atk": 51,
+                "def": 172,
+                "EM": 0
+            },
+            {
+                "level": 22,
+                "ascension": 1,
+                "hp": 2942,
+                "atk": 52,
+                "def": 177,
+                "EM": 0
+            },
+            {
+                "level": 23,
+                "ascension": 1,
+                "hp": 3012,
+                "atk": 53,
+                "def": 181,
+                "EM": 0
+            },
+            {
+                "level": 24,
+                "ascension": 1,
+                "hp": 3082,
+                "atk": 55,
+                "def": 185,
+                "EM": 0
+            },
+            {
+                "level": 25,
+                "ascension": 1,
+                "hp": 3152,
+                "atk": 56,
+                "def": 189,
+                "EM": 0
+            },
+            {
+                "level": 26,
+                "ascension": 1,
+                "hp": 3221,
+                "atk": 57,
+                "def": 193,
+                "EM": 0
+            },
+            {
+                "level": 27,
+                "ascension": 1,
+                "hp": 3291,
+                "atk": 58,
+                "def": 198,
+                "EM": 0
+            },
+            {
+                "level": 28,
+                "ascension": 1,
+                "hp": 3361,
+                "atk": 59,
+                "def": 202,
+                "EM": 0
+            },
+            {
+                "level": 29,
+                "ascension": 1,
+                "hp": 3431,
+                "atk": 61,
+                "def": 206,
+                "EM": 0
+            },
+            {
+                "level": 30,
+                "ascension": 1,
+                "hp": 3500,
+                "atk": 62,
+                "def": 210,
+                "EM": 0
+            },
+            {
+                "level": 31,
+                "ascension": 1,
+                "hp": 3570,
+                "atk": 63,
+                "def": 214,
+                "EM": 0
+            },
+            {
+                "level": 32,
+                "ascension": 1,
+                "hp": 3640,
+                "atk": 64,
+                "def": 219,
+                "EM": 0
+            },
+            {
+                "level": 33,
+                "ascension": 1,
+                "hp": 3710,
+                "atk": 66,
+                "def": 223,
+                "EM": 0
+            },
+            {
+                "level": 34,
+                "ascension": 1,
+                "hp": 3780,
+                "atk": 67,
+                "def": 227,
+                "EM": 0
+            },
+            {
+                "level": 35,
+                "ascension": 1,
+                "hp": 3849,
+                "atk": 68,
+                "def": 231,
+                "EM": 0
+            },
+            {
+                "level": 36,
+                "ascension": 1,
+                "hp": 3919,
+                "atk": 69,
+                "def": 235,
+                "EM": 0
+            },
+            {
+                "level": 37,
+                "ascension": 1,
+                "hp": 3989,
+                "atk": 71,
+                "def": 240,
+                "EM": 0
+            },
+            {
+                "level": 38,
+                "ascension": 1,
+                "hp": 4059,
+                "atk": 72,
+                "def": 244,
+                "EM": 0
+            },
+            {
+                "level": 39,
+                "ascension": 1,
+                "hp": 4129,
+                "atk": 73,
+                "def": 248,
+                "EM": 0
+            },
+            {
+                "level": 40,
+                "ascension": 1,
+                "hp": 4198,
+                "atk": 74,
+                "def": 252,
+                "EM": 0
+            },
+            {
+                "level": 41,
+                "ascension": 2,
+                "hp": 4717,
+                "atk": 83,
+                "def": 283,
+                "EM": 24
+            },
+            {
+                "level": 42,
+                "ascension": 2,
+                "hp": 4786,
+                "atk": 85,
+                "def": 287,
+                "EM": 24
+            },
+            {
+                "level": 43,
+                "ascension": 2,
+                "hp": 4857,
+                "atk": 86,
+                "def": 292,
+                "EM": 24
+            },
+            {
+                "level": 44,
+                "ascension": 2,
+                "hp": 4926,
+                "atk": 87,
+                "def": 296,
+                "EM": 24
+            },
+            {
+                "level": 45,
+                "ascension": 2,
+                "hp": 4996,
+                "atk": 88,
+                "def": 300,
+                "EM": 24
+            },
+            {
+                "level": 46,
+                "ascension": 2,
+                "hp": 5066,
+                "atk": 90,
+                "def": 304,
+                "EM": 24
+            },
+            {
+                "level": 47,
+                "ascension": 2,
+                "hp": 5135,
+                "atk": 91,
+                "def": 308,
+                "EM": 24
+            },
+            {
+                "level": 48,
+                "ascension": 2,
+                "hp": 5206,
+                "atk": 92,
+                "def": 313,
+                "EM": 24
+            },
+            {
+                "level": 49,
+                "ascension": 2,
+                "hp": 5275,
+                "atk": 93,
+                "def": 317,
+                "EM": 24
+            },
+            {
+                "level": 50,
+                "ascension": 2,
+                "hp": 5345,
+                "atk": 95,
+                "def": 321,
+                "EM": 24
+            },
+            {
+                "level": 51,
+                "ascension": 3,
+                "hp": 6013,
+                "atk": 106,
+                "def": 361,
+                "EM": 48
+            },
+            {
+                "level": 52,
+                "ascension": 3,
+                "hp": 6083,
+                "atk": 108,
+                "def": 365,
+                "EM": 48
+            },
+            {
+                "level": 53,
+                "ascension": 3,
+                "hp": 6153,
+                "atk": 109,
+                "def": 370,
+                "EM": 48
+            },
+            {
+                "level": 54,
+                "ascension": 3,
+                "hp": 6222,
+                "atk": 110,
+                "def": 374,
+                "EM": 48
+            },
+            {
+                "level": 55,
+                "ascension": 3,
+                "hp": 6292,
+                "atk": 111,
+                "def": 378,
+                "EM": 48
+            },
+            {
+                "level": 56,
+                "ascension": 3,
+                "hp": 6362,
+                "atk": 113,
+                "def": 382,
+                "EM": 48
+            },
+            {
+                "level": 57,
+                "ascension": 3,
+                "hp": 6432,
+                "atk": 114,
+                "def": 386,
+                "EM": 48
+            },
+            {
+                "level": 58,
+                "ascension": 3,
+                "hp": 6501,
+                "atk": 115,
+                "def": 390,
+                "EM": 48
+            },
+            {
+                "level": 59,
+                "ascension": 3,
+                "hp": 6571,
+                "atk": 116,
+                "def": 395,
+                "EM": 48
+            },
+            {
+                "level": 60,
+                "ascension": 3,
+                "hp": 6641,
+                "atk": 118,
+                "def": 399,
+                "EM": 48
+            },
+            {
+                "level": 61,
+                "ascension": 4,
+                "hp": 7159,
+                "atk": 127,
+                "def": 430,
+                "EM": 48
+            },
+            {
+                "level": 62,
+                "ascension": 4,
+                "hp": 7230,
+                "atk": 128,
+                "def": 434,
+                "EM": 48
+            },
+            {
+                "level": 63,
+                "ascension": 4,
+                "hp": 7299,
+                "atk": 129,
+                "def": 438,
+                "EM": 48
+            },
+            {
+                "level": 64,
+                "ascension": 4,
+                "hp": 7369,
+                "atk": 130,
+                "def": 443,
+                "EM": 48
+            },
+            {
+                "level": 65,
+                "ascension": 4,
+                "hp": 7438,
+                "atk": 132,
+                "def": 447,
+                "EM": 48
+            },
+            {
+                "level": 66,
+                "ascension": 4,
+                "hp": 7509,
+                "atk": 133,
+                "def": 451,
+                "EM": 48
+            },
+            {
+                "level": 67,
+                "ascension": 4,
+                "hp": 7579,
+                "atk": 134,
+                "def": 455,
+                "EM": 48
+            },
+            {
+                "level": 68,
+                "ascension": 4,
+                "hp": 7648,
+                "atk": 135,
+                "def": 459,
+                "EM": 48
+            },
+            {
+                "level": 69,
+                "ascension": 4,
+                "hp": 7718,
+                "atk": 137,
+                "def": 463,
+                "EM": 48
+            },
+            {
+                "level": 70,
+                "ascension": 4,
+                "hp": 7787,
+                "atk": 138,
+                "def": 468,
+                "EM": 48
+            },
+            {
+                "level": 71,
+                "ascension": 5,
+                "hp": 8306,
+                "atk": 147,
+                "def": 499,
+                "EM": 72
+            },
+            {
+                "level": 72,
+                "ascension": 5,
+                "hp": 8376,
+                "atk": 148,
+                "def": 503,
+                "EM": 72
+            },
+            {
+                "level": 73,
+                "ascension": 5,
+                "hp": 8446,
+                "atk": 149,
+                "def": 507,
+                "EM": 72
+            },
+            {
+                "level": 74,
+                "ascension": 5,
+                "hp": 8516,
+                "atk": 151,
+                "def": 511,
+                "EM": 72
+            },
+            {
+                "level": 75,
+                "ascension": 5,
+                "hp": 8585,
+                "atk": 152,
+                "def": 516,
+                "EM": 72
+            },
+            {
+                "level": 76,
+                "ascension": 5,
+                "hp": 8655,
+                "atk": 153,
+                "def": 520,
+                "EM": 72
+            },
+            {
+                "level": 77,
+                "ascension": 5,
+                "hp": 8725,
+                "atk": 154,
+                "def": 524,
+                "EM": 72
+            },
+            {
+                "level": 78,
+                "ascension": 5,
+                "hp": 8795,
+                "atk": 156,
+                "def": 528,
+                "EM": 72
+            },
+            {
+                "level": 79,
+                "ascension": 5,
+                "hp": 8864,
+                "atk": 157,
+                "def": 532,
+                "EM": 72
+            },
+            {
+                "level": 80,
+                "ascension": 5,
+                "hp": 8934,
+                "atk": 158,
+                "def": 537,
+                "EM": 72
+            },
+            {
+                "level": 81,
+                "ascension": 6,
+                "hp": 9453,
+                "atk": 167,
+                "def": 568,
+                "EM": 96
+            },
+            {
+                "level": 82,
+                "ascension": 6,
+                "hp": 9522,
+                "atk": 169,
+                "def": 572,
+                "EM": 96
+            },
+            {
+                "level": 83,
+                "ascension": 6,
+                "hp": 9593,
+                "atk": 170,
+                "def": 576,
+                "EM": 96
+            },
+            {
+                "level": 84,
+                "ascension": 6,
+                "hp": 9662,
+                "atk": 171,
+                "def": 580,
+                "EM": 96
+            },
+            {
+                "level": 85,
+                "ascension": 6,
+                "hp": 9732,
+                "atk": 172,
+                "def": 584,
+                "EM": 96
+            },
+            {
+                "level": 86,
+                "ascension": 6,
+                "hp": 9801,
+                "atk": 173,
+                "def": 589,
+                "EM": 96
+            },
+            {
+                "level": 87,
+                "ascension": 6,
+                "hp": 9871,
+                "atk": 175,
+                "def": 593,
+                "EM": 96
+            },
+            {
+                "level": 88,
+                "ascension": 6,
+                "hp": 9941,
+                "atk": 176,
+                "def": 597,
+                "EM": 96
+            },
+            {
+                "level": 89,
+                "ascension": 6,
+                "hp": 10011,
+                "atk": 177,
+                "def": 601,
+                "EM": 96
+            },
+            {
+                "level": 90,
+                "ascension": 6,
+                "hp": 10081,
+                "atk": 178,
+                "def": 605,
+                "EM": 96
+            },
+            {
+                "level": 95,
+                "ascension": 6,
+                "hp": 10429,
+                "atk": 201,
+                "def": 626,
+                "EM": 96
+            },
+            {
+                "level": 100,
+                "ascension": 6,
+                "hp": 10778,
+                "atk": 224,
+                "def": 647,
+                "EM": 96
+            }
+        ]
+    },
+    "icons": {
+        "forward": "UI_AvatarIcon_Ifa",
+        "coop_img": "UI_CoopImg_Ifa"
+    },
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101250": 168
+        },
+        "elemental": {
+            "104151": 1,
+            "104152": 9,
+            "104153": 9,
+            "104154": 6
+        },
+        "worldmonster": {
+            "112101": 18,
+            "112102": 30,
+            "112103": 36
+        },
+        "elitemonster": {
+            "113072": 46
+        }
+    },
+    "skills": {
+        "normalattack": {
+            "name": "Ritual Dispersador dos Ventos",
+            "icon": "Skill_A_Catalyst_MD",
+            "multipliers": {
+                "Dano do 1° Golpe": [
+                    "53.61%",
+                    "57.63%",
+                    "61.65%",
+                    "67.01%",
+                    "71.03%",
+                    "75.05%",
+                    "80.41%",
+                    "85.77%",
+                    "91.13%",
+                    "96.49%",
+                    "101.85%",
+                    "107.21%",
+                    "113.92%",
+                    "120.62%",
+                    "127.32%"
+                ],
+                "Dano do 2° Golpe": [
+                    "47.47%",
+                    "51.03%",
+                    "54.59%",
+                    "59.33%",
+                    "62.89%",
+                    "66.45%",
+                    "71.2%",
+                    "75.95%",
+                    "80.69%",
+                    "85.44%",
+                    "90.19%",
+                    "94.93%",
+                    "100.87%",
+                    "106.8%",
+                    "112.73%"
+                ],
+                "Dano do 3° Golpe": [
+                    "74.76%",
+                    "80.37%",
+                    "85.97%",
+                    "93.45%",
+                    "99.05%",
+                    "104.66%",
+                    "112.14%",
+                    "119.61%",
+                    "127.09%",
+                    "134.57%",
+                    "142.04%",
+                    "149.52%",
+                    "158.86%",
+                    "168.21%",
+                    "177.55%"
+                ],
+                "Dano de Ataque Carregado": [
+                    "147.04%",
+                    "158.07%",
+                    "169.1%",
+                    "183.8%",
+                    "194.83%",
+                    "205.86%",
+                    "220.56%",
+                    "235.26%",
+                    "249.97%",
+                    "264.67%",
+                    "279.38%",
+                    "294.08%",
+                    "312.46%",
+                    "330.84%",
+                    "349.22%"
+                ],
+                "Consumo de Stamina de Ataque Carregado": [
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50"
+                ],
+                "Dano Durante a Queda": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ]
+            },
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 3 ataques, infligindo <color=#80FFD7FF>Dano Anemo</color>.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome uma certa quantidade de Stamina para disparar em frente, causando <color=#80FFD7FF>Dano Anemo em uma AdE</color>.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nMergulha ao chão em pleno ar, infligindo dano a todos os inimigos em seu caminho. Inflige <color=#80FFD7FF>Dano Anemo em uma AdE</color> durante o impacto com o chão."
+        },
+        "elementalskill": {
+            "name": "Prevenção de Doenças Aéreas",
+            "icon": "Skill_S_Ifa_01",
+            "multipliers": {
+                "Dano do Projétil Medicinal": [
+                    "133.36%",
+                    "143.36%",
+                    "153.36%",
+                    "166.7%",
+                    "176.7%",
+                    "186.7%",
+                    "200.04%",
+                    "213.38%",
+                    "226.71%",
+                    "240.05%",
+                    "253.38%",
+                    "266.72%",
+                    "283.39%",
+                    "300.06%",
+                    "316.73%"
+                ],
+                "Cura do Projétil Medicinal ao Acertar": [
+                    "20.16% da Proficiência Elemental + 48.15",
+                    "21.67% da Proficiência Elemental + 52.96",
+                    "23.18% da Proficiência Elemental + 58.18",
+                    "25.2% da Proficiência Elemental + 63.8",
+                    "26.71% da Proficiência Elemental + 69.82",
+                    "28.22% da Proficiência Elemental + 76.24",
+                    "30.24% da Proficiência Elemental + 83.06",
+                    "32.26% da Proficiência Elemental + 90.28",
+                    "34.27% da Proficiência Elemental + 97.91",
+                    "36.29% da Proficiência Elemental + 105.93",
+                    "38.3% da Proficiência Elemental + 114.36",
+                    "40.32% da Proficiência Elemental + 123.19",
+                    "42.84% da Proficiência Elemental + 132.42",
+                    "45.36% da Proficiência Elemental + 142.05",
+                    "47.88% da Proficiência Elemental + 152.08"
+                ],
+                "Limite de Pontos de Espírito da Noite": [
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80"
+                ],
+                "Tempo de Recarga": [
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s"
+                ]
+            },
+            "description": "É hora dos manos! Ifa invoca Cacucu como seu suporte na batalha.\\nDepois de lançar, Ifa obtém 80 pontos de Espírito da Noite, e entra no estado {LINK#N11130003}<color=#FFD780FF>Bênção do Espírito da Noite</color>{/LINK}. Enquanto estiver nesse estado, Ifa flutuará com a ajuda de Cacucu, e ao fazer um Ataque Normal, realizará um {LINK#N11130001}<color=#FFD780FF>Disparo de Suporte</color>{/LINK} de maneiras diferentes caso pressione ou mantenha pressionado, disparando um Projétil Medicinal que pode regenerar Vida para todos os membros da equipe.\\n\\nAlém disso, quando estiver no estado Bênção do Espírito da Noite, ao manter pressionado para lançar a Habilidade Elemental <color=#FFD780FF>Prevenção de Doenças Aéreas</color>, Ifa realizará um Ataque Imersivo com alinhamento Espírito da Noite. Soltar o botão da Habilidade Elemental interromperá o Ataque Imersivo, mantendo-se no ar flutuando. Quando o Ataque Imersivo atingir o chão, o estado Bênção do Espírito da Noite de Ifa acabará."
+        },
+        "elementalburst": {
+            "name": "Campo de Composto Sedativo",
+            "icon": "Skill_E_Ifa_01",
+            "multipliers": {
+                "Dano de Habilidade": [
+                    "508.48%",
+                    "546.62%",
+                    "584.75%",
+                    "635.6%",
+                    "673.74%",
+                    "711.87%",
+                    "762.72%",
+                    "813.57%",
+                    "864.42%",
+                    "915.26%",
+                    "966.11%",
+                    "1016.96%",
+                    "1080.52%",
+                    "1144.08%",
+                    "1207.64%"
+                ],
+                "Dano da Marca Tranquilizante": [
+                    "108.96%",
+                    "117.13%",
+                    "125.3%",
+                    "136.2%",
+                    "144.37%",
+                    "152.54%",
+                    "163.44%",
+                    "174.34%",
+                    "185.23%",
+                    "196.13%",
+                    "207.02%",
+                    "217.92%",
+                    "231.54%",
+                    "245.16%",
+                    "258.78%"
+                ],
+                "Recarga": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Energia Elemental": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ]
+            },
+            "description": "Dispara um Sedativo Terapêutico contra um (temporariamente agressivo) oponente. O sedativo explodirá ao atingir, gerando uma corrente de vento que atrai os objetos e inimigos próximos, causando <color=#80FFD7FF>Dano Anemo em AdE</color> com alinhamento Espírito da Noite.\\nQuando o Sedativo Terapêutico atinge um oponente afetado por <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color>, aplicará o efeito {LINK#N11130004}<color=#FFD780FF>Marca Tranquilizante</color>{/LINK} nele."
+        },
+        "leveling": {
+            "crown": {
+                "104319": 3
+            },
+            "books": {
+                "104353": 9,
+                "104354": 63,
+                "104355": 114
+            },
+            "worldmonster": {
+                "112101": 18,
+                "112102": 66,
+                "112103": 93
+            },
+            "weekly": {
+                "113074": 18
+            }
+        }
+    },
+    "passives": {
+        "p1": {
+            "name": "Campo de Visão Médica",
+            "description": "Quando Ifa está no estado Bênção do Espírito da Noite, obtém 1 ponto de {LINK#N11130002}<color=#FFD780FF>Essencial do Resgate</color>{/LINK} para cada ponto de Espírito da Noite da soma total de todos os membros atuais da equipe. Essencial do Resgate pode aumentar o Dano causado por Redemoinho, Eletricamente Carregado e Carga Lunar de personagens próximos.",
+            "icon": "UI_Talent_S_Ifa_05"
+        },
+        "p2": {
+            "name": "Acordo de Resgate Mútuo",
+            "description": "Quando o membro próximo da equipe desencadeia a Explosão do Espírito da Noite, aumenta a Proficiência Elemental de Ifa em 80 pontos por 10s.",
+            "icon": "UI_Talent_S_Ifa_06"
+        },
+        "p3": {
+            "name": "Presente do Reino da Noite: Resgate de Emergência Focado",
+            "description": "Depois que os pontos de Espírito da Noite de Ifa acabarem, ele mudará para consumir Flogisto para manter a Bênção do Espírito da Noite.\\nEnquanto estiver numa área de Natlan com Dispositivos de Flogisto, ele pode usar Transmissão do Espírito da Noite: Ifa. Quando o personagem estiver em uma certa altura no ar, trocar para Ifa como personagem ativo desencadeará: Ifa entra no estado Bênção do Espírito da Noite e obtém 32 pontos de Espírito da Noite. Sua própria equipe pode entrar em Transmissão do Espírito da Noite uma vez a cada 10s.",
+            "icon": "UI_Talent_S_Ifa_07"
+        },
+        "p4": {
+            "name": "Compressa Quente Tática",
+            "description": "Quando está em uma área de Natlan com Dispositivo de Flogisto, quando o personagem ativo da equipe ou um Sauriano habitado possui menos de 40% de Vida, Ifa consome 10 de Flogisto para regenerar 40% Vida para ele. Esse efeito pode ser desencadeado uma vez a cada 10s, e não surte efeito em domínios, Domínios Dizimados e Abismo do Espiral.",
+            "icon": "UI_Talent_S_Ifa_08"
+        }
+    },
+    "constellations": {
+        "const1": {
+            "name": "Concocção de Poção Vitífera",
+            "description": "Quando o {LINK#N11130001}<color=#FFD780FF>Disparo de Suporte</color>{/LINK} atinge um inimigo, regenera 6 de Energia Elemental para Ifa. É possível regenerar Energia Elemental dessa forma uma vez a cada 8s.",
+            "icon": "UI_Talent_S_Ifa_01"
+        },
+        "const2": {
+            "name": "Espírito Guia da Oração Balística",
+            "description": "Quando Ifa está no estado Bênção do Espírito da Noite, cada ponto de Espírito da Noite acima da soma atual total de 60 pontos de Espírito da Noite de todos os membros da equipe faz Ifa obter 4 pontos de {LINK#N11130002}<color=#FFD780FF>Essencial do Resgate</color>{/LINK}.\\nAlém disso, o limite de Essencial do Resgate de Ifa é aumentado em 50 pontos.\\nÉ necessário ter desbloqueado o Talento de Ascensão {LINK#P1132101}<color=#FFD780FF>Campo de Visão Médica</color>{/LINK}.",
+            "icon": "UI_Talent_S_Ifa_02"
+        },
+        "const3": {
+            "name": "Refutação em Negociações Com a Noite",
+            "description": "Aumenta o nível da Habilidade Elemental <color=#FFD780FF>{LINK#S11132}Prevenção de Doenças Aéreas{/LINK}</color> em 3 níveis. \\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Ifa_01"
+        },
+        "const4": {
+            "name": "Permutação do Recipiente Deteriorado",
+            "description": "Prolonga a duração da corrente de vento aprisionadora gerada pelo Supremo <color=#FFD780FF>{LINK#S11135}Campo de Composto Sedativo{/LINK}</color> por 3s.\\nAlém disso, depois de lançar o Supremo <color=#FFD780FF>Campo de Composto Sedativo</color>, aumenta a Proficiência Elemental de Ifa em 100 por 15s.",
+            "icon": "UI_Talent_S_Ifa_03"
+        },
+        "const5": {
+            "name": "Voto de Coexistência Universal",
+            "description": "Aumenta o nível do Supremo <color=#FFD780FF>{LINK#S11135}Campo de Composto Sedativo{/LINK}</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Ifa_02"
+        },
+        "const6": {
+            "name": "Juramento em um Nó Emplumado",
+            "description": "Quando Ifa mantém pressionado para fazer {LINK#N11130001}<color=#FFD780FF>Disparo de Suporte</color>{/LINK}, possui 50% de chance de disparar um Projétil Medicinal adicional, causando Dano Anemo com base em 120% do ATQ de Ifa. Esse Dano é considerado Dano de Ataque Normal.\\nAlém disso, quando não está em combate, o estado Bênção do Espírito da Noite de Ifa consome 20% a menos de pontos de Espírito da Noite e de Flogisto.",
+            "icon": "UI_Talent_S_Ifa_04"
+        }
+    },
+    "energy": [
+        {
+            "source": "DropBall",
+            "particles": "4",
+            "chance": "50%",
+            "cd": "0.2s"
+        },
+        {
+            "source": "DropBall",
+            "particles": "5",
+            "chance": "50%",
+            "cd": "0.2s"
+        }
+    ],
+    "attacks": [
+        {
+            "name": "NormalAttack_Bullet_01",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/10",
+            "element": "Wind"
+        },
+        {
+            "name": "NormalAttack_Bullet_02",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/8",
+            "element": "Wind"
+        },
+        {
+            "name": "NormalAttack_Bullet_03",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/14",
+            "element": "Wind"
+        },
+        {
+            "name": "ExtraAttack_Bullet",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV5/80",
+            "element": "Wind"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/5",
+            "element": "Wind"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/50",
+            "element": "Wind"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/100",
+            "element": "Wind"
+        },
+        {
+            "name": "NyxState_FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/5",
+            "element": "Wind"
+        },
+        {
+            "name": "NyxState_FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/50",
+            "element": "Wind"
+        },
+        {
+            "name": "NyxState_FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/100",
+            "element": "Wind"
+        },
+        {
+            "name": "HoverAttack_Bullet_01",
+            "icd_source": "Tag: Ifa_Eart_Bullet",
+            "icd_rule": "2 hits / 12s",
+            "gauge": "1U",
+            "poise": "LV2/40",
+            "element": "Wind"
+        },
+        {
+            "name": "HoverAttack_Talent_6_Bullet_01",
+            "icd_source": "Tag: Ifa_Eart_Bullet",
+            "icd_rule": "2 hits / 12s",
+            "gauge": "1U",
+            "poise": "LV2/40",
+            "element": "Wind"
+        },
+        {
+            "name": "ElementalBurst",
+            "icd_source": "Tag: Ifa_Burst_ExtraHit",
+            "icd_rule": "2 hits / 2s",
+            "gauge": "1U",
+            "poise": "LV2/120",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalBurst",
+            "icd_source": "Tag: Ifa_Burst_ExtraHit",
+            "icd_rule": "2 hits / 2s",
+            "gauge": "1U",
+            "poise": "LV2/120",
+            "element": "Fire"
+        },
+        {
+            "name": "ElementalBurst",
+            "icd_source": "Tag: Ifa_Burst_ExtraHit",
+            "icd_rule": "2 hits / 2s",
+            "gauge": "1U",
+            "poise": "LV2/120",
+            "element": "Ice"
+        },
+        {
+            "name": "ElementalBurst",
+            "icd_source": "Tag: Ifa_Burst_ExtraHit",
+            "icd_rule": "2 hits / 2s",
+            "gauge": "1U",
+            "poise": "LV2/120",
+            "element": "Water"
+        },
+        {
+            "name": "ElementalBurst_Bullet",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/120",
+            "element": "Wind"
+        }
+    ],
+    "hyperlinks": [
+        {
+            "id": 11130001,
+            "name": "Disparo de Suporte",
+            "description": "Quando está no estado Bênção do Espírito da Noite, o Ataque Normal de Ifa passa a realizar Disparos de Suporte.\\nPressionar\\nDispara Projétil Medicinal.\\nManter Pressionado\\nContinuamente dispara Projéteis Medicinais.\\nProjétil Medicinal\\nCausa Dano Anemo com alinhamento Espírito da Noite, e quando atinge um inimigo próximo, regenera Vida para todos os membros da equipe. A Vida regenerada é baseada na Proficiência Elemental de Ifa.",
+            "params": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "id": 11130002,
+            "name": "Essencial do Resgate",
+            "description": "Máximo de 150 pontos. Cada ponto de Essencial do Resgate que Ifa possui aumenta o Dano causado por Reações de Redemoinho e Eletricamente Carregado dos membros próximos da equipe em 1.5%. O Dano causado por Reações de Eletricamente Carregado aumenta em 0.2% para cada ponto de Essencial do Resgate. Os pontos de Essencial do Resgate serão eliminados quando o estado Bênção do Espírito da Noite acabar.",
+            "params": [
+                "150",
+                "0.015",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "id": 11130003,
+            "name": "Bênção do Espírito da Noite: Ifa",
+            "description": "Consome continuamente pontos de Espírito da Noite. Quando os pontos de Espírito da Noite acabarem, ou quando lançar novamente, encerrará o estado Bênção do Espírito da Noite de Ifa. O estado Bênção do Espírito da Noite possui os seguintes atributos:\\n· Flutua com a ajuda de Cacucu, aumentando a Veloc. Mov. e Resistência contra Interrupção de Ifa. Nesse estado, Ifa continuamente consome pontos de Espírito da Noite para flutuar no ar. Ao correr ou ascender, consome pontos de Espírito da Noite adicionais.\\n· Ao fazer um Ataque Normal, lança Disparo de Suporte de maneiras diferentes se pressionar ou manter pressionado.",
+            "params": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "id": 11130004,
+            "name": "Marca Tranquilizante",
+            "description": "Esse efeito explodirá e desaparecerá depois de um tempo, e causa Dano em AdE do Tipo Elemental correspondente. O Sedativo Terapêutico pode aplicar Marca Tranquilizante até 4 inimigos atingidos. Não é possível que o inimigo seja afetado por Marcas Tranquilizantes de mais de um Tipo Elemental.",
+            "params": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "id": 11130005,
+            "name": "Sutileza da Serpente",
+            "description": "Skirk pode consumir Sutileza da Serpente para manter seu modo Lampejo de Sete Fases ou para usar seu Supremo, Arte Apodrecida: Obliteração.\\n\\nSkirk pode obter pontos de Sutileza da Serpente das seguintes formas:\\n· Após usar sua Habilidade Elemental, Devastação: Lampejo.\\n· Após ativar o efeito de seu Talento de Ascensão, \"Razão Além da Razão\", ao absorver Fendas do Vazio.\\n\\nQuando Skirk sai de campo ou quando o Lampejo de Sete Fases termina, seus pontos de Sutileza da Serpente serão removidos.",
+            "params": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "id": 11130006,
+            "name": "Lampejo de Sete Fases",
+            "description": "Skirk entrará nesse modo por um tempo determinado ao usar a Habilidade Elemental Devastação: Lampejo. Este modo possui as seguintes propriedades:\\n· Consome continuamente Sutileza da Serpente.\\n· Aumenta a AdE dos Ataques Normais e Carregados, além da Resistência contra Interrupção de Skirk.\\n· Ataques Normais, Carregados e Imersivos são convertidos em Dano Cryo que não pode ser substituído.\\n· Seu Supremo, Arte Apodrecida: Obliteração, é convertido no Supremo especial Devastação: Obliteração.\\n· Skirk pode se mover sobre a água ao Correr.\\n· Skirk sairá desse modo quando a Sutileza da Serpente se esgotar completamente ou quando a duração terminar. Em seguida, a Habilidade Elemental entrará em Recarga.",
+            "params": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "id": 11130007,
+            "name": "Razão Além da Razão",
+            "description": "Quando membros próximos da equipe desencadearem reações de Congelado, Supercondutor, Redemoinho Cryo ou Cristalização Cryo contra inimigos, uma Fenda do Vazio será criada próxima a esse inimigo. Esse efeito pode ser desencadeado uma vez a cada 2,5s. Um máximo de 3 Fendas do Vazio criadas pela própria Skirk pode existir simultaneamente em campo.\\n\\nSkirk pode usar os seguintes métodos para absorver Fendas do Vazio próximas:\\n· Ao acertar um inimigo com um Ataque Carregado no modo Lampejo de Sete Fases.\\n· Ao usar o Supremo especial Devastação: Obliteração enquanto estiver no modo Lampejo de Sete Fases.\\n· Ao Manter pressionada sua Habilidade Elemental Devastação: Lampejo para realizar um movimento rápido.\\n\\nCada Fenda absorvida concederá a ela 8 pontos de Sutileza da Serpente.",
+            "params": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "id": 11130008,
+            "name": "Retorno à Desolação",
+            "description": "Quando membros próximos da equipe de Tipo Elemental Hydro atingirem um inimigo com um ataque Hydro, ou quando os outros personagens próximos da equipe de Tipo Elemental Cryo, exceto a própria Skirk, atingirem um inimigo com um ataque Cryo, Skirk receberá o efeito \"Encruzilhada da Morte\" por 20s. Máximo de 3 acúmulos, com a duração de cada acúmulo contada independentemente.\\nCada personagem pode conceder no máximo 1 acúmulo de \"Encruzilhada da Morte\" para Skirk dessa maneira.\\nCada acúmulo de \"Encruzilhada da Morte\" aumenta o Dano do Ataque Normal causado por Skirk no modo Lampejo de Sete Fases em 110%/120%/170% de seu Dano original e também aumenta o Dano causado por seu Supremo Arte Apodrecida: Obliteração em 105%/115%/160% de seu Dano original.",
+            "params": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "id": 11130009,
+            "name": "Mistério da Chuva Neblinada",
+            "description": "Quando os inimigos ou personagens próximos da equipe tocam o Mistério da Chuva Neblinada, gera efeitos diferentes de acordo com o modo que foi desencadeado:\\nSe for o inimigo que tocou o Mistério da Chuva Neblinada, o Mistério da Chuva Neblinada explodirá, causando Dano Hydro em AdE contra os inimigos próximos.\\nSe for o personagem próximo da equipe que tocou o Mistério da Chuva Neblinada, o Mistério da Chuva Neblinada ricocheteará quem o tocou para alto no ar.\\n\\nSó é possível existir um Mistério da Chuva Neblinada criado por Dahlia simultaneamente.",
+            "params": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "id": 11130010,
+            "name": "Graça de Favonius",
+            "description": "Quando Dahlia lança seu Supremo Pregação Radiante, concede esse efeito para os personagens da equipe.\\nQuando o efeito Escudo da Graça acabar na sua duração, ou quando é destruído por Dano, Dahlia consome 1 acúmulo do efeito Bons Desejos para recriar o Escudo da Graça.",
+            "params": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "id": 11130011,
+            "name": "Bons Desejos",
+            "description": "Dahlia pode obter o efeito Bons Desejos das seguintes formas:\\n· Quando o personagem ativo atual estiver sob o efeito Graça de Favonius, e seu Ataque Normal atingir inimigos 4 vezes, Dahlia obtém 1 acúmulo do efeito Bons Desejos.\\n· Depois que desencadear o efeito do Talento de Ascensão \"Amor Concedido Pelo Vento\".\\n\\nDahlia pode obter até X acúmulos de Bons Desejos em cada duração do efeito Graça de Favonius.",
+            "params": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ]
+}

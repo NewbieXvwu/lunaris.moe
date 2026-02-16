@@ -1,0 +1,1283 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104131": 1,
+            "104132": 9,
+            "104133": 9,
+            "104134": 6
+        },
+        "elitemonster": {
+            "113065": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101250": 168
+        },
+        "worldmonster": {
+            "112101": 18,
+            "112102": 30,
+            "112103": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "HookMove_Attack",
+            "poise": "LV2/100"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 2s",
+            "icd_source": "Tag: Kinich_Eart_Normal_Bullet",
+            "name": "EArt_Bullet_Normal",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 1.2s",
+            "icd_source": "Tag: Kinich_Eart_Final_Bullet",
+            "name": "EArt_Bullet_Final",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 1.2s",
+            "icd_source": "Tag: Kinich_Eart_Final_Bullet",
+            "name": "EArt_Bullet_Final",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 1.2s",
+            "icd_source": "Tag: Kinich_Eart_Final_Bullet",
+            "name": "EArt_Bullet_Final",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 1.2s",
+            "icd_source": "Tag: Kinich_Eart_Final_Bullet",
+            "name": "EArt_Bullet_Final",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 1.2s",
+            "icd_source": "Tag: Kinich_Eart_Final_Bullet",
+            "name": "EArt_Bullet_Final",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 1.2s",
+            "icd_source": "Tag: Kinich_Eart_Final_Bullet",
+            "name": "EArt_Bullet_Final",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_PixelDragon",
+            "poise": "LV3/35"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "Burst_Laser_Bullet",
+            "poise": "LV2/35"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "ExtraAttack_Gadget",
+            "poise": "LV2/40"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/35"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/150"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/200"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Após Kinich aterrissar do balanço de <color=#FFD780FF>Caçador de Dossel: Montando nas Alturas</color>, sua Veloc. Mov. aumentará em 30% por 6s. \\nAlém disso, o Dano CRIT do Canhão Perfurador Giratório é aumentado em 100%.",
+            "icon": "UI_Talent_S_Kinich_01",
+            "name": "Bico de Papagaio"
+        },
+        "const2": {
+            "description": "Quando a Habilidade Elemental de Kinich atinge os oponentes, ela reduzirá a <color=#99FF88FF>RES Dendro</color> deles em 30% por 6s. \\nAlém disso, o primeiro Canhão Perfurador Giratório que Kinich dispara após entrar no estado de Bênção do Espírito da Noite tem a AdE aumentada, e seu Dano aumenta em 100%.",
+            "icon": "UI_Talent_S_Kinich_02",
+            "name": "Palma do Tigre Estelar"
+        },
+        "const3": {
+            "description": "Aumenta o nível do <color=#FFD780FF>Caçador de Dossel: Montando nas Alturas</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Kinich_01",
+            "name": "Garras de Protodilo"
+        },
+        "const4": {
+            "description": "Quando estiver sob a Bênção do Espírito da Noite, Kinich restaurará 5 de Energia após usar seu Disparo Circular ou após disparar o Canhão Perfurador Giratório. A regeneração de Energia pode acontecer dessa maneira uma vez a cada 2.8s.\\nAlém disso, o Dano causado por <color=#FFD780FF>Saúdem o Poderoso Dragão Soberano</color> é aumentado em 70%.",
+            "icon": "UI_Talent_S_Kinich_03",
+            "name": "Pena de Beija-flor"
+        },
+        "const5": {
+            "description": "Aumenta o nível de <color=#FFD780FF>Saúdem o Poderoso Dragão Soberano</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Kinich_02",
+            "name": "Cauda de Macaco Uivador"
+        },
+        "const6": {
+            "description": "Quando o Canhão Perfurador Giratório atinge um inimigo, ricocheteia entre inimigos uma vez, causando <color=#99FF88FF>Dano Dendro</color> equivalente a 700% do ATQ de Kinich.\\nSe esse Canhão Perfurador Giratório desencadear o efeito de fortalecimento do Canhão Perfurador Giratório do Talento de Ascensão \"Contrato do Espírito Flamejante\" ou da Constelação \"Palma do Tigre Estelar\" , o ataque ricocheteador obterá o efeito de fortalecimento descrito acima.",
+            "icon": "UI_Talent_S_Kinich_04",
+            "name": "Forma da Besta Auspiciosa"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.4s",
+            "chance": "100%",
+            "particles": "5",
+            "source": "ElemBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Kinich",
+        "forward": "UI_AvatarIcon_Kinich"
+    },
+    "info": {
+        "attributes": [
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 62,
+                "hp": 1001,
+                "level": 1
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 68,
+                "hp": 1084,
+                "level": 2
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 73,
+                "hp": 1167,
+                "level": 3
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 78,
+                "hp": 1251,
+                "level": 4
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 83,
+                "hp": 1334,
+                "level": 5
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 88,
+                "hp": 1418,
+                "level": 6
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 94,
+                "hp": 1501,
+                "level": 7
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 99,
+                "hp": 1586,
+                "level": 8
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 43,
+                "def": 104,
+                "hp": 1670,
+                "level": 9
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 45,
+                "def": 109,
+                "hp": 1753,
+                "level": 10
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 47,
+                "def": 115,
+                "hp": 1837,
+                "level": 11
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 50,
+                "def": 120,
+                "hp": 1921,
+                "level": 12
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 52,
+                "def": 125,
+                "hp": 2005,
+                "level": 13
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 54,
+                "def": 130,
+                "hp": 2090,
+                "level": 14
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 56,
+                "def": 136,
+                "hp": 2174,
+                "level": 15
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 58,
+                "def": 141,
+                "hp": 2258,
+                "level": 16
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 61,
+                "def": 146,
+                "hp": 2343,
+                "level": 17
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 63,
+                "def": 151,
+                "hp": 2427,
+                "level": 18
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 65,
+                "def": 157,
+                "hp": 2512,
+                "level": 19
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 67,
+                "def": 162,
+                "hp": 2597,
+                "level": 20
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 92,
+                "def": 221,
+                "hp": 3540,
+                "level": 21
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 94,
+                "def": 226,
+                "hp": 3625,
+                "level": 22
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 96,
+                "def": 231,
+                "hp": 3710,
+                "level": 23
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 98,
+                "def": 237,
+                "hp": 3795,
+                "level": 24
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 100,
+                "def": 242,
+                "hp": 3880,
+                "level": 25
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 103,
+                "def": 247,
+                "hp": 3966,
+                "level": 26
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 105,
+                "def": 253,
+                "hp": 4051,
+                "level": 27
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 107,
+                "def": 258,
+                "hp": 4136,
+                "level": 28
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 109,
+                "def": 263,
+                "hp": 4223,
+                "level": 29
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 111,
+                "def": 269,
+                "hp": 4308,
+                "level": 30
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 114,
+                "def": 274,
+                "hp": 4394,
+                "level": 31
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 116,
+                "def": 279,
+                "hp": 4480,
+                "level": 32
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 118,
+                "def": 285,
+                "hp": 4566,
+                "level": 33
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 120,
+                "def": 290,
+                "hp": 4651,
+                "level": 34
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 122,
+                "def": 295,
+                "hp": 4737,
+                "level": 35
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 125,
+                "def": 301,
+                "hp": 4824,
+                "level": 36
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 127,
+                "def": 306,
+                "hp": 4910,
+                "level": 37
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 129,
+                "def": 311,
+                "hp": 4996,
+                "level": 38
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 131,
+                "def": 317,
+                "hp": 5082,
+                "level": 39
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 134,
+                "def": 322,
+                "hp": 5170,
+                "level": 40
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 152,
+                "def": 366,
+                "hp": 5865,
+                "level": 41
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 154,
+                "def": 371,
+                "hp": 5952,
+                "level": 42
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 156,
+                "def": 377,
+                "hp": 6040,
+                "level": 43
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 158,
+                "def": 382,
+                "hp": 6126,
+                "level": 44
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 161,
+                "def": 387,
+                "hp": 6213,
+                "level": 45
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 163,
+                "def": 393,
+                "hp": 6300,
+                "level": 46
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 165,
+                "def": 398,
+                "hp": 6387,
+                "level": 47
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 167,
+                "def": 404,
+                "hp": 6474,
+                "level": 48
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 170,
+                "def": 409,
+                "hp": 6562,
+                "level": 49
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 172,
+                "def": 415,
+                "hp": 6649,
+                "level": 50
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 195,
+                "def": 471,
+                "hp": 7549,
+                "level": 51
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 197,
+                "def": 476,
+                "hp": 7637,
+                "level": 52
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 200,
+                "def": 482,
+                "hp": 7725,
+                "level": 53
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 202,
+                "def": 487,
+                "hp": 7813,
+                "level": 54
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 204,
+                "def": 493,
+                "hp": 7901,
+                "level": 55
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 207,
+                "def": 498,
+                "hp": 7989,
+                "level": 56
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 209,
+                "def": 504,
+                "hp": 8077,
+                "level": 57
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 211,
+                "def": 509,
+                "hp": 8165,
+                "level": 58
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 213,
+                "def": 515,
+                "hp": 8253,
+                "level": 59
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 216,
+                "def": 520,
+                "hp": 8341,
+                "level": 60
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 234,
+                "def": 564,
+                "hp": 9039,
+                "level": 61
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 236,
+                "def": 569,
+                "hp": 9127,
+                "level": 62
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 238,
+                "def": 575,
+                "hp": 9216,
+                "level": 63
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 241,
+                "def": 580,
+                "hp": 9304,
+                "level": 64
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 243,
+                "def": 586,
+                "hp": 9393,
+                "level": 65
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 245,
+                "def": 591,
+                "hp": 9482,
+                "level": 66
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 247,
+                "def": 597,
+                "hp": 9571,
+                "level": 67
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 250,
+                "def": 602,
+                "hp": 9660,
+                "level": 68
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 252,
+                "def": 608,
+                "hp": 9749,
+                "level": 69
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 254,
+                "def": 613,
+                "hp": 9838,
+                "level": 70
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 272,
+                "def": 657,
+                "hp": 10537,
+                "level": 71
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 275,
+                "def": 662,
+                "hp": 10627,
+                "level": 72
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 277,
+                "def": 668,
+                "hp": 10716,
+                "level": 73
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 279,
+                "def": 674,
+                "hp": 10805,
+                "level": 74
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 282,
+                "def": 679,
+                "hp": 10895,
+                "level": 75
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 284,
+                "def": 685,
+                "hp": 10984,
+                "level": 76
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 286,
+                "def": 690,
+                "hp": 11074,
+                "level": 77
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 289,
+                "def": 696,
+                "hp": 11164,
+                "level": 78
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 291,
+                "def": 702,
+                "hp": 11254,
+                "level": 79
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 293,
+                "def": 707,
+                "hp": 11345,
+                "level": 80
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 311,
+                "def": 751,
+                "hp": 12044,
+                "level": 81
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 314,
+                "def": 756,
+                "hp": 12134,
+                "level": 82
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 316,
+                "def": 762,
+                "hp": 12225,
+                "level": 83
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 318,
+                "def": 768,
+                "hp": 12315,
+                "level": 84
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 321,
+                "def": 773,
+                "hp": 12405,
+                "level": 85
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 323,
+                "def": 779,
+                "hp": 12496,
+                "level": 86
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 325,
+                "def": 785,
+                "hp": 12586,
+                "level": 87
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 328,
+                "def": 790,
+                "hp": 12677,
+                "level": 88
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 330,
+                "def": 796,
+                "hp": 12768,
+                "level": 89
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 332,
+                "def": 802,
+                "hp": 12858,
+                "level": 90
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 370,
+                "def": 830,
+                "hp": 13315,
+                "level": 95
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 407,
+                "def": 859,
+                "hp": 13772,
+                "level": 100
+            }
+        ],
+        "birthday": "November 11th",
+        "constellation": "Chimaera Alebriius",
+        "description": "Um Caçador de Saurianos de Huitztlan, é habilidoso em contar custos.",
+        "element": "Dendro",
+        "name": "Kinich",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_CLAYMORE"
+    },
+    "passives": {
+        "p1": {
+            "description": "Quando está no estado Bênção do Espírito da Noite, os oponentes atingidos pela Habilidade Elemental de Kinich entrarão no estado Desolação, e quando sofrerem Dano de Queimaduras ou Germinação, regenerarão 7 pontos de Espírito da Noite para ele. Os pontos de Espírito da Noite podem ser ganhos dessa forma uma vez a cada 0.8s. O estado de Desolação persistirá até que essa instância do estado Bênção do Espírito da Noite de Kinich acabe.",
+            "icon": "UI_Talent_S_Kinich_05",
+            "name": "Preço da Desolação"
+        },
+        "p2": {
+            "description": "Depois que um membro próximo da equipe ativa a Explosão do Espírito da Noite, Kinich ganha 1 acúmulo de Experiência do Caçador que dura 15s. Máximo de 2 acúmulos. Quando Kinich usa o Canhão Perfurador Giratório de <color=#FFD780FF>Caçador de Dossel: Montando nas Alturas</color>, todos os acúmulos serão consumidos, com cada um aumentando o Dano causado pelo disparo do Canhão em 320% do ATQ de Kinich.",
+            "icon": "UI_Talent_S_Kinich_06",
+            "name": "Contrato do Espírito Flamejante"
+        },
+        "p3": {
+            "description": "Quando Kinich está no ar logo após o golpe no ar de <color=#FFD780FF>Caçador de Dossel: Montando nas Alturas</color>, pode consumir 10 de Flogisto para fazer outro balanço no ar.\\nQuando estiver em uma área com um Dispositivo de Flogisto em Natlan, ele pode usar Transmissão do Espírito da Noite: Kinich. Quando o personagem ativo estiver correndo, em estados de movimento causados por Talentos específicos, ou no ar, mudar para Kinich ativará uma das seguintes ações de acordo com as circunstâncias:\\n· Quando puder interagir com Selo da Grama na sua direção: dispara uma Corda-gancho nele e se move.\\n· Quando há um inimigo por perto e está no estado de combate: desencadeia Caçador de Dossel: Montando nas Alturas nesse inimigo.\\nCaso contrário, Kinich dispara uma Corda-gancho e balançará no ar. Kinich priorizará Selos da Grama como alvos para se prender.\\nSua equipe pode usar Transmissão do Espírito da Noite uma vez a cada 10s.\\n\\nQuando estiver interagindo com Selos da Grama e outros itens que podem interagir com Yumkassauros, \"Caçador de Dossel: Montando nas Alturas\" será convertido em \"Mimésis Yumkassauro\", que faz interações com tais itens seguir regras aplicáveis a Yumkassauros, e que não farão \"Caçador de Dossel: Montando nas Alturas\" entrar em Recarga.",
+            "icon": "UI_Talent_S_Kinich_08",
+            "name": "Presente do Reino da Noite: Pagamento Completo"
+        },
+        "p4": {
+            "description": "Quando estiver em uma área de Natlan com Dispositivos de Flogisto, interagir com alguns itens coletáveis aumentará a Veloc. Mov. dos membros da equipe em 15% por 10s. Além disso, exibe no mini-mapa o local das <color=#FFD780FF>especialidades de Natlan</color> próximas.",
+            "icon": "UI_Talent_S_Kachina_08",
+            "name": "Emissário Veloz"
+        }
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Lança o poder do Dragão Soberano Poderoso Ajaw (de forma limitada, condicional, restrita, contratual, parcial e temporária), causando <color=#99FF88FF>Dano Dendro em AdE</color> com alinhamento de Espírito da Noite. Ajaw periodicamente lançará sua Respiração Draconiana, causando <color=#99FF88FF>Dano Dendro em AdE</color> com alinhamento de Espírito da Noite.\\nAo lançar, se Kinich estiver no estado Bênção do Espírito da Noite, a duração da Bênção do Espírito da Noite é prolongada em 1.7s.\\n\\n<i>\"Isso mesmo! Você está perante o Dragão Soberano K'uhul Ajaw! Se aproxime, se ajoelhe e beije meus pés!\"</i>",
+            "icon": "Skill_E_Kinich_01",
+            "multipliers": {
+                "Dano da Respiração Draconiana": [
+                    "120.74%",
+                    "129.79%",
+                    "138.85%",
+                    "150.92%",
+                    "159.98%",
+                    "169.03%",
+                    "181.1%",
+                    "193.18%",
+                    "205.25%",
+                    "217.32%",
+                    "229.4%",
+                    "241.47%",
+                    "256.56%",
+                    "271.66%",
+                    "286.75%"
+                ],
+                "Dano de Habilidade": [
+                    "134%",
+                    "144.05%",
+                    "154.1%",
+                    "167.5%",
+                    "177.55%",
+                    "187.6%",
+                    "201%",
+                    "214.4%",
+                    "227.8%",
+                    "241.2%",
+                    "254.6%",
+                    "268%",
+                    "284.75%",
+                    "301.5%",
+                    "318.25%"
+                ],
+                "Duração": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Energia Elemental": [
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70"
+                ],
+                "Tempo de Recarga": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ]
+            },
+            "name": "Saúdem o Poderoso Dragão Soberano"
+        },
+        "elementalskill": {
+            "description": "Usando suas habilidades de caçador de grandes presas, Kinich se move rapidamente ou ataca seus inimigos.\\nQuando um oponente, ou objeto que pode ser atacado está por perto, dispara o gancho contra o oponente, se prende a ele e entra no estado Bênção do Espírito da Noite com 0 pontos de Espírito da Noite. Se não houver oponentes por perto, ele dispara um gancho e balança no ar, e a Recarga de sua Habilidade diminui em 60%. \\nPode manter pressionado. Ao manter pressionado, mira o gancho.\\n\\n<color=#FFD780FF>Bênção do Espírito da Noite: Kinich</color>\\nA Bênção do Espírito da Noite de Kinich dura 10s e gera 2 pontos de Espírito da Noite por segundo.\\nNesse estado, Kinich se prende a um oponente próximo e faz um ataque variável:\\n· Usar um Ataque Normal fará um Disparo Circular contra o alvo preso de acordo com a direção atual de movimento, causando <color=#99FF88FF>Dano Dendro</color> com o alinhamento de Espírito da Noite e gerando 3 pontos de Espírito da Noite. O Dano do Disparo Circular é considerado Dano de Habilidade Elemental.\\n· Quando os pontos de Espírito da Noite estão no máximo, ele pode usar a Habilidade Elemental \"Canhão Perfurador Giratório\": consome todos os pontos de Espírito da Noite para causar <color=#99FF88FF>Dano Dendro</color> com o alinhamento de Espírito da Noite. Quando mantém pressionado \"Canhão Perfurador Giratório\", é possível mirar no alvo. Após disparar, Kinich tentará se prender a seu alvo.\\nEnquanto estiver no estado Bênção do Espírito da Noite, depois que se prender a um inimigo ou atirar o Canhão Perfurador Giratório, gera um Ponto Cego ao lado do inimigo, e se Kinich entrar nele, gerará 4 pontos de Espírito da Noite, removendo o Ponto Cego.\\nSe a conexão do gancho quebrar devido à distância ou outro motivo, usar um Ataque Normal estabelecerá uma nova conexão com um oponente próximo e fará um Disparo Circular.\\n\\n<i>\"Tudo tem um custo. Sugiro você fazer uma oferta aceitável... O quê? Não, eu não aceito prestações.\"</i>",
+            "icon": "Skill_S_Kinich_01",
+            "multipliers": {
+                "Dano do Canhão Perfurador Giratório": [
+                    "687.44%",
+                    "739%",
+                    "790.56%",
+                    "859.3%",
+                    "910.86%",
+                    "962.42%",
+                    "1031.16%",
+                    "1099.9%",
+                    "1168.65%",
+                    "1237.39%",
+                    "1306.14%",
+                    "1374.88%",
+                    "1460.81%",
+                    "1546.74%",
+                    "1632.67%"
+                ],
+                "Dano do Disparo Circular": [
+                    "57.28%×2",
+                    "61.58%×2",
+                    "65.87%×2",
+                    "71.6%×2",
+                    "75.9%×2",
+                    "80.19%×2",
+                    "85.92%×2",
+                    "91.65%×2",
+                    "97.38%×2",
+                    "103.1%×2",
+                    "108.83%×2",
+                    "114.56%×2",
+                    "121.72%×2",
+                    "128.88%×2",
+                    "136.04%×2"
+                ],
+                "Limite de Pontos de Espírito da Noite": [
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20"
+                ],
+                "Tempo de Recarga": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ]
+            },
+            "name": "Caçador de Dossel: Montando nas Alturas"
+        },
+        "leveling": {
+            "books": {
+                "104350": 9,
+                "104351": 63,
+                "104352": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113062": 18
+            },
+            "worldmonster": {
+                "112101": 18,
+                "112102": 66,
+                "112103": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 3 ataques rápidos.\\nDepois de usar sua Habilidade Elemental \"Caçador de Dossel: Montando nas Alturas\", pode fazer um Ataque Normal no ar antes de aterrissar.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome uma certa quantidade Stamina para girar e jogar seu Espadão contra seus oponentes.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nMergulha em pleno ar para golpear o chão, causando Dano aos inimigos ao longo do caminho e infligindo Dano em AdE durante o impacto.",
+            "icon": "Skill_A_04",
+            "multipliers": {
+                "Consumo de Stamina de Ataque Carregado": [
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50"
+                ],
+                "Dano Durante a Queda": [
+                    "74.59%",
+                    "80.66%",
+                    "86.73%",
+                    "95.4%",
+                    "101.47%",
+                    "108.41%",
+                    "117.95%",
+                    "127.49%",
+                    "137.03%",
+                    "147.44%",
+                    "157.85%",
+                    "168.26%",
+                    "178.66%",
+                    "189.07%",
+                    "199.48%"
+                ],
+                "Dano de Ataque Carregado": [
+                    "48.42% x3",
+                    "52.36% x3",
+                    "56.3% x3",
+                    "61.93% x3",
+                    "65.87% x3",
+                    "70.38% x3",
+                    "76.57% x3",
+                    "82.76% x3",
+                    "88.95% x3",
+                    "95.71% x3",
+                    "102.47% x3",
+                    "109.22% x3",
+                    "115.98% x3",
+                    "122.73% x3",
+                    "129.49% x3"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "149.14%/186.29%",
+                    "161.28%/201.45%",
+                    "173.42%/216.62%",
+                    "190.77%/238.28%",
+                    "202.91%/253.44%",
+                    "216.78%/270.77%",
+                    "235.86%/294.6%",
+                    "254.93%/318.42%",
+                    "274.01%/342.25%",
+                    "294.82%/368.25%",
+                    "315.63%/394.24%",
+                    "336.44%/420.23%",
+                    "357.25%/446.23%",
+                    "378.06%/472.22%",
+                    "398.87%/498.21%"
+                ],
+                "Dano do 1° Golpe": [
+                    "98.99%",
+                    "107.04%",
+                    "115.1%",
+                    "126.61%",
+                    "134.67%",
+                    "143.88%",
+                    "156.54%",
+                    "169.2%",
+                    "181.86%",
+                    "195.67%",
+                    "209.48%",
+                    "223.29%",
+                    "237.11%",
+                    "250.92%",
+                    "264.73%"
+                ],
+                "Dano do 2° Golpe": [
+                    "82.9%",
+                    "89.65%",
+                    "96.4%",
+                    "106.04%",
+                    "112.79%",
+                    "120.5%",
+                    "131.1%",
+                    "141.71%",
+                    "152.31%",
+                    "163.88%",
+                    "175.45%",
+                    "187.02%",
+                    "198.58%",
+                    "210.15%",
+                    "221.72%"
+                ],
+                "Dano do 3° Golpe": [
+                    "123.5%",
+                    "133.55%",
+                    "143.6%",
+                    "157.96%",
+                    "168.01%",
+                    "179.5%",
+                    "195.3%",
+                    "211.09%",
+                    "226.89%",
+                    "244.12%",
+                    "261.35%",
+                    "278.58%",
+                    "295.82%",
+                    "313.05%",
+                    "330.28%"
+                ],
+                "Dano do Ataque Normal no Ar": [
+                    "167.7%",
+                    "181.35%",
+                    "195%",
+                    "214.5%",
+                    "228.15%",
+                    "243.75%",
+                    "265.2%",
+                    "286.65%",
+                    "308.1%",
+                    "331.5%",
+                    "354.9%",
+                    "378.3%",
+                    "401.7%",
+                    "425.1%",
+                    "448.5%"
+                ]
+            },
+            "name": "Estilo do Sol Noturno"
+        }
+    }
+}

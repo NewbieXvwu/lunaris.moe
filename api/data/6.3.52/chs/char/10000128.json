@@ -1,0 +1,1428 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104151": 1,
+            "104152": 9,
+            "104153": 9,
+            "104154": 6
+        },
+        "elitemonster": {
+            "113085": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100021": 168
+        },
+        "worldmonster": {
+            "112122": 18,
+            "112123": 30,
+            "112124": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt",
+            "poise": "LV5/100"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "Special_ElementalArt",
+            "poise": "LV4/65"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "Special_ElementalArt",
+            "poise": "LV4/65"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "Special_ElementalArt",
+            "poise": "LV4/65"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "Special_ElementalArt",
+            "poise": "LV4/65"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "Special_ElementalArt",
+            "poise": "LV4/35"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "Special_ElementalArt",
+            "poise": "-/35"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV7/130"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV7/130"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV7/130"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV7/130"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV7/130"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV4/70"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "法尔伽切换至{LINK#N11280001}<color=#FFD780FF>狂飙突进</color>{/LINK}模式时，将额外获得一次特殊元素战技{LINK#N11280002}<color=#FFD780FF>四风将起</color>{/LINK}的可用次数。\\n此外，切换至<color=#FFD780FF>狂飙突进</color>模式后，法尔伽将获得<color=#FFD780FF>「歌中的佳酿」</color>效果：施放特殊元素战技<color=#FFD780FF>四风将起</color>时，或进行特殊重击<color=#FFD780FF>苍噬</color>时，将消耗该效果，使<color=#FFD780FF>四风将起</color>或<color=#FFD780FF>苍噬</color>造成原本200%的伤害。",
+            "icon": "UI_Talent_S_Varka_01",
+            "name": "「来吧，朋友，让我们在月下共舞」"
+        },
+        "const2": {
+            "description": "施放特殊元素战技{LINK#N11280002}<color=#FFD780FF>四风将起</color>{/LINK}时，或进行特殊重击<color=#FFD780FF>苍噬</color>时，法尔伽将会进行一次额外攻击，造成800%攻击力的<color=#80FFD7FF>风元素范围伤害</color>。",
+            "icon": "UI_Talent_S_Varka_02",
+            "name": "「待天光破晓，我们便要踏上征途」"
+        },
+        "const3": {
+            "description": "元素战技<color=#FFD780FF>{LINK#S11282}烈风终坠{/LINK}</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Varka_01",
+            "name": "「朋友，莫要再饮令人落泪的苦酒」"
+        },
+        "const4": {
+            "description": "法尔伽触发扩散反应时，依据参与反应的元素类型，使队伍中附近的所有角色分别获得20%<color=#80FFD7FF>风元素伤害加成</color>与对应元素伤害加成，持续10秒。",
+            "icon": "UI_Talent_S_Varka_03",
+            "name": "「因为无人能夺去我们歌唱的自由」"
+        },
+        "const5": {
+            "description": "元素爆发<color=#FFD780FF>{LINK#S11285}我即朔风{/LINK}</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Varka_02",
+            "name": "「斟满杯中佳酿吧，暴君来了又去」"
+        },
+        "const6": {
+            "description": "{LINK#N11280001}<color=#FFD780FF>狂飙突进</color>{/LINK}模式获得强化：\\n·施放特殊元素战技{LINK#N11280002}<color=#FFD780FF>四风将起</color>{/LINK}后的短暂时间内，法尔伽可以点按元素战技或长按普通攻击，不消耗四风将起的可用次数，进行一次额外的特殊重击<color=#FFD780FF>苍噬</color>；\\n·进行特殊重击<color=#FFD780FF>苍噬</color>后的短暂时间内，法尔伽可以点按元素战技，不消耗四风将起的可用次数，施放一次额外的<color=#FFD780FF>四风将起</color>。\\n通过上述方式进行额外的特殊重击苍噬或施放额外的特殊元素战技四风将起时，无法触发上述效果。\\n\\n此外，突破天赋<color=#FFD780FF>{LINK#P1282201}「风帜的先引」{/LINK}</color>中<color=#FFD780FF>「苍牙之誓」</color>的效果获得强化：每层<color=#FFD780FF>「苍牙之誓」</color>还会使法尔伽的暴击伤害提升15%。",
+            "icon": "UI_Talent_S_Varka_04",
+            "name": "「我心爱的蒙德呀，依然屹立如初」"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.3s",
+            "chance": "100%",
+            "particles": "6",
+            "source": "Ball"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Varka",
+        "forward": "UI_AvatarIcon_Varka"
+    },
+    "info": {
+        "attributes": [
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 62,
+                "hp": 982,
+                "level": 1
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 67,
+                "hp": 1063,
+                "level": 2
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 72,
+                "hp": 1145,
+                "level": 3
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 77,
+                "hp": 1227,
+                "level": 4
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 83,
+                "hp": 1309,
+                "level": 5
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 88,
+                "hp": 1391,
+                "level": 6
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 93,
+                "hp": 1473,
+                "level": 7
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 98,
+                "hp": 1555,
+                "level": 8
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 46,
+                "def": 103,
+                "hp": 1638,
+                "level": 9
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 48,
+                "def": 108,
+                "hp": 1719,
+                "level": 10
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 50,
+                "def": 114,
+                "hp": 1802,
+                "level": 11
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 53,
+                "def": 119,
+                "hp": 1884,
+                "level": 12
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 55,
+                "def": 124,
+                "hp": 1967,
+                "level": 13
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 57,
+                "def": 129,
+                "hp": 2050,
+                "level": 14
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 60,
+                "def": 134,
+                "hp": 2133,
+                "level": 15
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 62,
+                "def": 140,
+                "hp": 2215,
+                "level": 16
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 64,
+                "def": 145,
+                "hp": 2299,
+                "level": 17
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 67,
+                "def": 150,
+                "hp": 2381,
+                "level": 18
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 69,
+                "def": 155,
+                "hp": 2465,
+                "level": 19
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 71,
+                "def": 161,
+                "hp": 2547,
+                "level": 20
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 97,
+                "def": 219,
+                "hp": 3472,
+                "level": 21
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 99,
+                "def": 224,
+                "hp": 3556,
+                "level": 22
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 102,
+                "def": 230,
+                "hp": 3639,
+                "level": 23
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 104,
+                "def": 235,
+                "hp": 3723,
+                "level": 24
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 106,
+                "def": 240,
+                "hp": 3806,
+                "level": 25
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 109,
+                "def": 245,
+                "hp": 3891,
+                "level": 26
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 111,
+                "def": 251,
+                "hp": 3974,
+                "level": 27
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 113,
+                "def": 256,
+                "hp": 4058,
+                "level": 28
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 116,
+                "def": 261,
+                "hp": 4142,
+                "level": 29
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 118,
+                "def": 266,
+                "hp": 4226,
+                "level": 30
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 121,
+                "def": 272,
+                "hp": 4310,
+                "level": 31
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 123,
+                "def": 277,
+                "hp": 4394,
+                "level": 32
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 125,
+                "def": 282,
+                "hp": 4479,
+                "level": 33
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 128,
+                "def": 288,
+                "hp": 4562,
+                "level": 34
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 130,
+                "def": 293,
+                "hp": 4647,
+                "level": 35
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 132,
+                "def": 298,
+                "hp": 4732,
+                "level": 36
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 135,
+                "def": 304,
+                "hp": 4817,
+                "level": 37
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 137,
+                "def": 309,
+                "hp": 4901,
+                "level": 38
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 139,
+                "def": 314,
+                "hp": 4986,
+                "level": 39
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 142,
+                "def": 320,
+                "hp": 5071,
+                "level": 40
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 161,
+                "def": 363,
+                "hp": 5754,
+                "level": 41
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 163,
+                "def": 368,
+                "hp": 5839,
+                "level": 42
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 166,
+                "def": 374,
+                "hp": 5925,
+                "level": 43
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 168,
+                "def": 379,
+                "hp": 6009,
+                "level": 44
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 170,
+                "def": 384,
+                "hp": 6094,
+                "level": 45
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 173,
+                "def": 390,
+                "hp": 6180,
+                "level": 46
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 175,
+                "def": 395,
+                "hp": 6265,
+                "level": 47
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 178,
+                "def": 401,
+                "hp": 6351,
+                "level": 48
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 180,
+                "def": 406,
+                "hp": 6437,
+                "level": 49
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 182,
+                "def": 411,
+                "hp": 6523,
+                "level": 50
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 207,
+                "def": 467,
+                "hp": 7406,
+                "level": 51
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 210,
+                "def": 472,
+                "hp": 7492,
+                "level": 52
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 212,
+                "def": 478,
+                "hp": 7577,
+                "level": 53
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 214,
+                "def": 483,
+                "hp": 7664,
+                "level": 54
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 217,
+                "def": 489,
+                "hp": 7750,
+                "level": 55
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 219,
+                "def": 494,
+                "hp": 7837,
+                "level": 56
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 222,
+                "def": 500,
+                "hp": 7923,
+                "level": 57
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 224,
+                "def": 505,
+                "hp": 8009,
+                "level": 58
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 226,
+                "def": 511,
+                "hp": 8096,
+                "level": 59
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 229,
+                "def": 516,
+                "hp": 8182,
+                "level": 60
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 248,
+                "def": 559,
+                "hp": 8867,
+                "level": 61
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 250,
+                "def": 565,
+                "hp": 8953,
+                "level": 62
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 253,
+                "def": 570,
+                "hp": 9041,
+                "level": 63
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 255,
+                "def": 576,
+                "hp": 9127,
+                "level": 64
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 258,
+                "def": 581,
+                "hp": 9214,
+                "level": 65
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 260,
+                "def": 587,
+                "hp": 9302,
+                "level": 66
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 263,
+                "def": 592,
+                "hp": 9388,
+                "level": 67
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 265,
+                "def": 598,
+                "hp": 9476,
+                "level": 68
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 267,
+                "def": 603,
+                "hp": 9563,
+                "level": 69
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 270,
+                "def": 609,
+                "hp": 9650,
+                "level": 70
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 289,
+                "def": 652,
+                "hp": 10336,
+                "level": 71
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 292,
+                "def": 657,
+                "hp": 10424,
+                "level": 72
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 294,
+                "def": 663,
+                "hp": 10512,
+                "level": 73
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 296,
+                "def": 668,
+                "hp": 10599,
+                "level": 74
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 299,
+                "def": 674,
+                "hp": 10688,
+                "level": 75
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 301,
+                "def": 680,
+                "hp": 10775,
+                "level": 76
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 304,
+                "def": 685,
+                "hp": 10863,
+                "level": 77
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 306,
+                "def": 691,
+                "hp": 10952,
+                "level": 78
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 309,
+                "def": 696,
+                "hp": 11040,
+                "level": 79
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 311,
+                "def": 702,
+                "hp": 11128,
+                "level": 80
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 330,
+                "def": 745,
+                "hp": 11815,
+                "level": 81
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 333,
+                "def": 751,
+                "hp": 11903,
+                "level": 82
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 335,
+                "def": 756,
+                "hp": 11992,
+                "level": 83
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 338,
+                "def": 762,
+                "hp": 12080,
+                "level": 84
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 340,
+                "def": 767,
+                "hp": 12168,
+                "level": 85
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 343,
+                "def": 773,
+                "hp": 12258,
+                "level": 86
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 345,
+                "def": 779,
+                "hp": 12346,
+                "level": 87
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 348,
+                "def": 784,
+                "hp": 12436,
+                "level": 88
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 350,
+                "def": 790,
+                "hp": 12525,
+                "level": 89
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 353,
+                "def": 795,
+                "hp": 12613,
+                "level": 90
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 392,
+                "def": 824,
+                "hp": 13061,
+                "level": 95
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 432,
+                "def": 852,
+                "hp": 13510,
+                "level": 100
+            }
+        ],
+        "birthday": "January 1st",
+        "constellation": "天狼座",
+        "description": "测试角色",
+        "element": "Anemo",
+        "name": "法尔伽",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_CLAYMORE"
+    },
+    "passives": {
+        "p1": {
+            "description": "队伍中存在<color=#FF9999FF>火元素</color>、<color=#80C0FFFF>水元素</color>、<color=#FFACFFFF>雷元素</color>或<color=#99FFFFFF>冰元素</color>角色时，基于法尔伽的攻击力，每1000点攻击力都将使法尔伽获得10%<color=#80FFD7FF>风元素伤害加成</color>与对应元素伤害加成（上述元素类型中，至多有一种元素类型可以通过这种方式获得伤害加成），至多通过这种方式获得25%。\\n\\n此外，如果队伍中存在至少2名<color=#80FFD7FF>风元素</color>角色，或存在至少2名元素类型相同的<color=#FF9999FF>火元素</color>、<color=#80C0FFFF>水元素</color>、<color=#FFACFFFF>雷元素</color>或<color=#99FFFFFF>冰元素</color>角色，法尔伽在{LINK#N11280001}<color=#FFD780FF>狂飙突进</color>{/LINK}模式下进行的普通攻击、重击、特殊重击<color=#FFD780FF>苍噬</color>与施放的特殊元素战技{LINK#N11280002}<color=#FFD780FF>四风将起</color>{/LINK}将造成原本140%的伤害；若队伍中同时存在至少2名<color=#80FFD7FF>风元素</color>角色与至少2名元素类型相同的<color=#FF9999FF>火元素</color>、<color=#80C0FFFF>水元素</color>、<color=#FFACFFFF>雷元素</color>或<color=#99FFFFFF>冰元素</color>角色，则会使上述效果提升至220%。",
+            "icon": "UI_Talent_S_Varka_06",
+            "name": "晓风的行军"
+        },
+        "p2": {
+            "description": "队伍中附近的角色触发扩散反应时，法尔伽将获得一层<color=#FFD780FF>「苍牙之誓」</color>，使法尔伽的普通攻击、重击、特殊重击<color=#FFD780FF>苍噬</color>与施放的特殊元素战技{LINK#N11280002}<color=#FFD780FF>四风将起</color>{/LINK}造成的伤害提升7.5%。该效果持续8秒，至多叠加4层，每名角色每1秒至多通过这种方式使法尔伽获得一层<color=#FFD780FF>「苍牙之誓」</color>。",
+            "icon": "UI_Talent_S_Varka_05",
+            "name": "风帜的先引"
+        },
+        "p3": {
+            "description": "队伍中每有一名蒙德角色，元素战技<color=#FFD780FF>烈风终坠</color>的冷却时间就会缩短5%。\\n该效果在秘境、征讨领域、深境螺旋中无效。",
+            "icon": "UI_Talent_S_Varka_07",
+            "name": "归风的凯歌"
+        },
+        "p4": {
+            "description": "完成<color=#FFD780FF>魔女的课业·无题之题</color>后，法尔伽将成为<color=#FFD780FF>魔导</color>角色。队伍中编入至少2名魔导角色时，将获得<color=#FFD780FF>魔导·秘仪</color>效果，使魔导角色获得强化。\\n\\n<color=#FFD780FF>魔导·秘仪</color>\\n特殊元素战技{LINK#N11280002}<color=#FFD780FF>四风将起</color>{/LINK}获得强化：法尔伽在{LINK#N11280001}<color=#FFD780FF>狂飙突进</color>{/LINK}模式下的普通攻击命中敌人时，<color=#FFD780FF>四风将起</color>的冷却时间将会转为缩短1秒。",
+            "icon": "UI_Talent_S_Varka_08",
+            "name": "魔女的前夜礼·重光临晨"
+        }
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "以最强的北风骑士之名，向前方挥出强力的二连斩，造成两次<color=#80FFD7FF>风元素伤害</color>。\\n若队伍中存在<color=#FF9999FF>火元素</color>、<color=#80C0FFFF>水元素</color>、<color=#FFACFFFF>雷元素</color>或<color=#99FFFFFF>冰元素</color>角色，则第一次斩击将会按照上述元素类型的优先级，转为造成对应元素伤害。",
+            "icon": "Skill_E_Varka_01",
+            "multipliers": {
+                "元素能量": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "冷却时间": [
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒"
+                ],
+                "技能第一段伤害": [
+                    "336.96%",
+                    "362.23%",
+                    "387.5%",
+                    "421.2%",
+                    "446.47%",
+                    "471.74%",
+                    "505.44%",
+                    "539.14%",
+                    "572.83%",
+                    "606.53%",
+                    "640.22%",
+                    "673.92%",
+                    "716.04%",
+                    "758.16%",
+                    "800.28%"
+                ],
+                "技能第二段伤害": [
+                    "181.44%",
+                    "195.05%",
+                    "208.66%",
+                    "226.8%",
+                    "240.41%",
+                    "254.02%",
+                    "272.16%",
+                    "290.3%",
+                    "308.45%",
+                    "326.59%",
+                    "344.74%",
+                    "362.88%",
+                    "385.56%",
+                    "408.24%",
+                    "430.92%"
+                ]
+            },
+            "name": "我即朔风"
+        },
+        "elementalskill": {
+            "description": "以绝对的力量，呈现西风剑术的真髓，依据点按、长按，以不同的方式产生效果。\\n\\n<color=#FFD780FF>点按</color>\\n向前方腾跃而起并顺势劈斩，造成<color=#80FFD7FF>风元素范围伤害</color>，并切换至{LINK#N11280001}<color=#FFD780FF>狂飙突进</color>{/LINK}模式。\\n处于<color=#FFD780FF>狂飙突进</color>模式下时，法尔伽的普通攻击造成的伤害提高，无法进行下落攻击，且进行普通攻击与重击时，将根据队伍中角色的元素类型，使双持的大剑分别造成无法被附魔覆盖的对应元素伤害。\\n此外，处于<color=#FFD780FF>狂飙突进</color>模式下时，若队伍中存在<color=#FF9999FF>火元素</color>、<color=#80C0FFFF>水元素</color>、<color=#FFACFFFF>雷元素</color>或<color=#99FFFFFF>冰元素</color>角色，法尔伽的元素战技<color=#FFD780FF>烈风终坠</color>将会被替换为特殊的元素战技{LINK#N11280002}<color=#FFD780FF>四风将起</color>{/LINK}，造成对应元素伤害与<color=#80FFD7FF>风元素伤害</color>；此外，法尔伽还可以消耗特殊元素战技<color=#FFD780FF>四风将起</color>的可使用次数，进行不消耗体力的特殊重击<color=#FFD780FF>苍噬</color>，造成对应元素伤害与<color=#80FFD7FF>风元素伤害</color>。\\n\\n<color=#FFD780FF>长按</color>\\n进行蓄力后，向前方腾跃而起，蓄力时间会提升腾跃距离。",
+            "icon": "Skill_S_Varka_01",
+            "multipliers": {
+                "四风将起伤害": [
+                    "131.56%+70.84%",
+                    "141.43%+76.15%",
+                    "151.29%+81.47%",
+                    "164.45%+88.55%",
+                    "174.32%+93.86%",
+                    "184.18%+99.18%",
+                    "197.34%+106.26%",
+                    "210.5%+113.34%",
+                    "223.65%+120.43%",
+                    "236.81%+127.51%",
+                    "249.96%+134.6%",
+                    "263.12%+141.68%",
+                    "279.57%+150.53%",
+                    "296.01%+159.39%",
+                    "312.46%+168.25%"
+                ],
+                "四风将起冷却时间": [
+                    "11秒",
+                    "11秒",
+                    "11秒",
+                    "11秒",
+                    "11秒",
+                    "11秒",
+                    "11秒",
+                    "11秒",
+                    "11秒",
+                    "11秒",
+                    "11秒",
+                    "11秒",
+                    "11秒",
+                    "11秒",
+                    "11秒"
+                ],
+                "技能伤害": [
+                    "278.4%",
+                    "299.28%",
+                    "320.16%",
+                    "348%",
+                    "368.88%",
+                    "389.76%",
+                    "417.6%",
+                    "445.44%",
+                    "473.28%",
+                    "501.12%",
+                    "528.96%",
+                    "556.8%",
+                    "591.6%",
+                    "626.4%",
+                    "661.2%"
+                ],
+                "点按冷却时间": [
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒",
+                    "16秒"
+                ],
+                "狂飙突进·一段伤害": [
+                    "81.82%",
+                    "88.48%",
+                    "95.14%",
+                    "104.66%",
+                    "111.32%",
+                    "118.93%",
+                    "129.4%",
+                    "139.86%",
+                    "150.33%",
+                    "161.75%",
+                    "173.16%",
+                    "184.58%",
+                    "196%",
+                    "207.42%",
+                    "218.83%"
+                ],
+                "狂飙突进·三段伤害": [
+                    "40.55%+75.3%",
+                    "43.85%+81.43%",
+                    "47.15%+87.56%",
+                    "51.86%+96.31%",
+                    "55.16%+102.44%",
+                    "58.93%+109.45%",
+                    "64.12%+119.08%",
+                    "69.3%+128.71%",
+                    "74.49%+138.34%",
+                    "80.15%+148.85%",
+                    "85.81%+159.35%",
+                    "91.46%+169.86%",
+                    "97.12%+180.37%",
+                    "102.78%+190.87%",
+                    "108.44%+201.38%"
+                ],
+                "狂飙突进·二段伤害": [
+                    "29.99%+55.69%",
+                    "32.43%+60.22%",
+                    "34.87%+64.75%",
+                    "38.35%+71.23%",
+                    "40.79%+75.76%",
+                    "43.58%+80.94%",
+                    "47.42%+88.06%",
+                    "51.25%+95.19%",
+                    "55.09%+102.31%",
+                    "59.27%+110.08%",
+                    "63.46%+117.85%",
+                    "67.64%+125.62%",
+                    "71.83%+133.39%",
+                    "76.01%+141.16%",
+                    "80.19%+148.93%"
+                ],
+                "狂飙突进·五段伤害": [
+                    "87.19%+46.95%",
+                    "94.28%+50.77%",
+                    "101.38%+54.59%",
+                    "111.52%+60.05%",
+                    "118.62%+63.87%",
+                    "126.73%+68.24%",
+                    "137.88%+74.24%",
+                    "149.03%+80.25%",
+                    "160.18%+86.25%",
+                    "172.35%+92.8%",
+                    "184.51%+99.35%",
+                    "196.68%+105.9%",
+                    "208.84%+112.45%",
+                    "221.01%+119.01%",
+                    "233.18%+125.56%"
+                ],
+                "狂飙突进·四段伤害": [
+                    "69.29%+37.31%",
+                    "74.93%+40.35%",
+                    "80.57%+43.38%",
+                    "88.63%+47.72%",
+                    "94.27%+50.76%",
+                    "100.71%+54.23%",
+                    "109.57%+59%",
+                    "118.44%+63.77%",
+                    "127.3%+68.55%",
+                    "136.97%+73.75%",
+                    "146.64%+78.96%",
+                    "156.3%+84.16%",
+                    "165.97%+89.37%",
+                    "175.64%+94.58%",
+                    "185.31%+99.78%"
+                ],
+                "狂飙突进·持续时间": [
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒",
+                    "12秒"
+                ],
+                "狂飙突进·重击伤害": [
+                    "107.05%+57.64%",
+                    "115.76%+62.33%",
+                    "124.48%+67.02%",
+                    "136.92%+73.73%",
+                    "145.64%+78.42%",
+                    "155.59%+83.78%",
+                    "169.29%+91.15%",
+                    "182.98%+98.53%",
+                    "196.67%+105.9%",
+                    "211.61%+113.94%",
+                    "226.54%+121.99%",
+                    "241.48%+130.03%",
+                    "256.42%+138.07%",
+                    "271.36%+146.11%",
+                    "286.29%+154.16%"
+                ],
+                "苍噬伤害": [
+                    "70.2%*2+37.8%*2",
+                    "75.46%*2+40.63%*2",
+                    "80.73%*2+43.47%*2",
+                    "87.75%*2+47.25%*2",
+                    "93.01%*2+50.09%*2",
+                    "98.28%*2+52.92%*2",
+                    "105.3%*2+56.7%*2",
+                    "112.32%*2+60.48%*2",
+                    "119.34%*2+64.26%*2",
+                    "126.36%*2+68.04%*2",
+                    "133.38%*2+71.82%*2",
+                    "140.4%*2+75.6%*2",
+                    "149.18%*2+80.33%*2",
+                    "157.95%*2+85.05%*2",
+                    "166.73%*2+89.78%*2"
+                ],
+                "长按冷却时间": [
+                    "8秒",
+                    "8秒",
+                    "8秒",
+                    "8秒",
+                    "8秒",
+                    "8秒",
+                    "8秒",
+                    "8秒",
+                    "8秒",
+                    "8秒",
+                    "8秒",
+                    "8秒",
+                    "8秒",
+                    "8秒",
+                    "8秒"
+                ]
+            },
+            "name": "烈风终坠"
+        },
+        "leveling": {
+            "books": {
+                "104301": 9,
+                "104302": 63,
+                "104303": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113074": 18
+            },
+            "worldmonster": {
+                "112122": 18,
+                "112123": 66,
+                "112124": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>普通攻击</color>\\n仿拟古代骑士的战舞，双持大剑进行至多五段的连续攻击。\\n\\n<color=#FFD780FF>重击</color>\\n消耗一定体力，向前方突进后，进行一次格外有力的双剑挥砍。\\n\\n<color=#FFD780FF>下落攻击</color>\\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+            "icon": "Skill_A_04",
+            "multipliers": {
+                "一段伤害": [
+                    "65.46%",
+                    "70.79%",
+                    "76.12%",
+                    "83.73%",
+                    "89.06%",
+                    "95.14%",
+                    "103.52%",
+                    "111.89%",
+                    "120.26%",
+                    "129.4%",
+                    "138.53%",
+                    "147.66%",
+                    "156.8%",
+                    "165.93%",
+                    "175.07%"
+                ],
+                "三段伤害": [
+                    "32.44%+60.24%",
+                    "35.08%+65.14%",
+                    "37.72%+70.05%",
+                    "41.49%+77.05%",
+                    "44.13%+81.95%",
+                    "47.15%+87.56%",
+                    "51.29%+95.26%",
+                    "55.44%+102.97%",
+                    "59.59%+110.67%",
+                    "64.12%+119.08%",
+                    "68.64%+127.48%",
+                    "73.17%+135.89%",
+                    "77.7%+144.29%",
+                    "82.22%+152.7%",
+                    "86.75%+161.1%"
+                ],
+                "下坠期间伤害": [
+                    "74.59%",
+                    "80.66%",
+                    "86.73%",
+                    "95.4%",
+                    "101.47%",
+                    "108.41%",
+                    "117.95%",
+                    "127.49%",
+                    "137.03%",
+                    "147.44%",
+                    "157.85%",
+                    "168.26%",
+                    "178.66%",
+                    "189.07%",
+                    "199.48%"
+                ],
+                "二段伤害": [
+                    "23.99%+44.55%",
+                    "25.94%+48.18%",
+                    "27.89%+51.8%",
+                    "30.68%+56.98%",
+                    "32.64%+60.61%",
+                    "34.87%+64.75%",
+                    "37.94%+70.45%",
+                    "41%+76.15%",
+                    "44.07%+81.85%",
+                    "47.42%+88.06%",
+                    "50.77%+94.28%",
+                    "54.11%+100.5%",
+                    "57.46%+106.71%",
+                    "60.81%+112.93%",
+                    "64.16%+119.15%"
+                ],
+                "五段伤害": [
+                    "69.75%+37.56%",
+                    "75.43%+40.61%",
+                    "81.1%+43.67%",
+                    "89.21%+48.04%",
+                    "94.89%+51.1%",
+                    "101.38%+54.59%",
+                    "110.3%+59.39%",
+                    "119.22%+64.2%",
+                    "128.15%+69%",
+                    "137.88%+74.24%",
+                    "147.61%+79.48%",
+                    "157.34%+84.72%",
+                    "167.08%+89.96%",
+                    "176.81%+95.2%",
+                    "186.54%+100.44%"
+                ],
+                "低空/高空坠地冲击伤害": [
+                    "149.14%/186.29%",
+                    "161.28%/201.45%",
+                    "173.42%/216.62%",
+                    "190.77%/238.28%",
+                    "202.91%/253.44%",
+                    "216.78%/270.77%",
+                    "235.86%/294.6%",
+                    "254.93%/318.42%",
+                    "274.01%/342.25%",
+                    "294.82%/368.25%",
+                    "315.63%/394.24%",
+                    "336.44%/420.23%",
+                    "357.25%/446.23%",
+                    "378.06%/472.22%",
+                    "398.87%/498.21%"
+                ],
+                "四段伤害": [
+                    "55.43%+29.85%",
+                    "59.94%+32.28%",
+                    "64.46%+34.71%",
+                    "70.9%+38.18%",
+                    "75.41%+40.61%",
+                    "80.57%+43.38%",
+                    "87.66%+47.2%",
+                    "94.75%+51.02%",
+                    "101.84%+54.84%",
+                    "109.57%+59%",
+                    "117.31%+63.17%",
+                    "125.04%+67.33%",
+                    "132.78%+71.5%",
+                    "140.51%+75.66%",
+                    "148.25%+79.83%"
+                ],
+                "重击伤害": [
+                    "85.64%+46.11%",
+                    "92.61%+49.87%",
+                    "99.58%+53.62%",
+                    "109.54%+58.98%",
+                    "116.51%+62.74%",
+                    "124.48%+67.02%",
+                    "135.43%+72.92%",
+                    "146.38%+78.82%",
+                    "157.34%+84.72%",
+                    "169.29%+91.15%",
+                    "181.24%+97.59%",
+                    "193.19%+104.02%",
+                    "205.13%+110.46%",
+                    "217.08%+116.89%",
+                    "229.03%+123.33%"
+                ],
+                "重击体力消耗": [
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点"
+                ]
+            },
+            "name": "西风剑术·流光之舞"
+        }
+    }
+}

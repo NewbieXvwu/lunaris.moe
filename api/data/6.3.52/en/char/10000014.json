@@ -1,0 +1,1223 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104121": 1,
+            "104122": 9,
+            "104123": 9,
+            "104124": 6
+        },
+        "elitemonster": {
+            "113012": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100025": 168
+        },
+        "worldmonster": {
+            "112008": 18,
+            "112009": 30,
+            "112010": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "ExtraAttack_Damage",
+            "poise": "LV3/30"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "ExtraAttack_Damage",
+            "poise": "LV3/30"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Barbara_Water_Damage (!)",
+            "name": "Attack01",
+            "poise": "LV1/7"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Barbara_Water_Damage (!)",
+            "name": "Attack02",
+            "poise": "LV1/7"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Barbara_Water_Damage (!)",
+            "name": "Attack03",
+            "poise": "LV1/7"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Barbara_Water_Damage (!)",
+            "name": "Attack04Damage",
+            "poise": "LV2/9"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "WetShiled",
+            "poise": "LV4/40"
+        },
+        {
+            "element": "Water",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/5"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Barbara regenerates 1 Energy every 10s.",
+            "icon": "UI_Talent_S_Barbara_01",
+            "name": "Gleeful Songs"
+        },
+        "const2": {
+            "description": "Decreases the CD of <color=#FFD780FF>Let the Show Begin♪</color> by 15%.\\nDuring the ability's duration, your active character gains a 15% <color=#80C0FFFF>Hydro DMG Bonus</color>.",
+            "icon": "UI_Talent_S_Barbara_02",
+            "name": "Vitality Burst"
+        },
+        "const3": {
+            "description": "Increases the Level of <color=#FFD780FF>Shining Miracle♪</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Barbara_02",
+            "name": "Star of Tomorrow"
+        },
+        "const4": {
+            "description": "Every opponent Barbara hits with her Charged Attack regenerates 1 Energy for her.\\nA maximum of 5 energy can be regenerated in this manner with any one Charged Attack.",
+            "icon": "UI_Talent_S_Barbara_03",
+            "name": "Attentiveness Be My Power"
+        },
+        "const5": {
+            "description": "Increases the Level of <color=#FFD780FF>Let the Show Begin♪</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Barbara_01",
+            "name": "The Purest Companionship"
+        },
+        "const6": {
+            "description": "When Barbara is in the party but not on the field, and one of your own party members falls:\\n·Automatically revives the fallen character.\\n·Fully restores the revived character's HP to 100%.\\nThis effect can only occur once every 15 mins.",
+            "icon": "UI_Talent_S_Barbara_04",
+            "name": "Dedicating Everything to You"
+        }
+    },
+    "energy": [],
+    "icons": {
+        "coop_img": "UI_CoopImg_Barbara",
+        "forward": "UI_AvatarIcon_Barbara"
+    },
+    "info": {
+        "attributes": [
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 13,
+                "def": 56,
+                "hp": 821,
+                "level": 1
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 14,
+                "def": 61,
+                "hp": 889,
+                "level": 2
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 16,
+                "def": 65,
+                "hp": 956,
+                "level": 3
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 17,
+                "def": 70,
+                "hp": 1024,
+                "level": 4
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 18,
+                "def": 75,
+                "hp": 1091,
+                "level": 5
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 79,
+                "hp": 1160,
+                "level": 6
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 84,
+                "hp": 1227,
+                "level": 7
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 88,
+                "hp": 1295,
+                "level": 8
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 93,
+                "hp": 1363,
+                "level": 9
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 23,
+                "def": 98,
+                "hp": 1430,
+                "level": 10
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 102,
+                "hp": 1498,
+                "level": 11
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 107,
+                "hp": 1566,
+                "level": 12
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 112,
+                "hp": 1634,
+                "level": 13
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 116,
+                "hp": 1701,
+                "level": 14
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 121,
+                "hp": 1769,
+                "level": 15
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 126,
+                "hp": 1837,
+                "level": 16
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 130,
+                "hp": 1905,
+                "level": 17
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 135,
+                "hp": 1973,
+                "level": 18
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 139,
+                "hp": 2040,
+                "level": 19
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 144,
+                "hp": 2108,
+                "level": 20
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 45,
+                "def": 191,
+                "hp": 2788,
+                "level": 21
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 46,
+                "def": 195,
+                "hp": 2857,
+                "level": 22
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 48,
+                "def": 200,
+                "hp": 2925,
+                "level": 23
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 49,
+                "def": 204,
+                "hp": 2992,
+                "level": 24
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 50,
+                "def": 209,
+                "hp": 3060,
+                "level": 25
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 51,
+                "def": 214,
+                "hp": 3127,
+                "level": 26
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 52,
+                "def": 218,
+                "hp": 3196,
+                "level": 27
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 53,
+                "def": 223,
+                "hp": 3263,
+                "level": 28
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 54,
+                "def": 228,
+                "hp": 3331,
+                "level": 29
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 55,
+                "def": 232,
+                "hp": 3398,
+                "level": 30
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 56,
+                "def": 237,
+                "hp": 3466,
+                "level": 31
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 58,
+                "def": 242,
+                "hp": 3534,
+                "level": 32
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 59,
+                "def": 246,
+                "hp": 3602,
+                "level": 33
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 60,
+                "def": 251,
+                "hp": 3670,
+                "level": 34
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 61,
+                "def": 255,
+                "hp": 3737,
+                "level": 35
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 62,
+                "def": 260,
+                "hp": 3805,
+                "level": 36
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 63,
+                "def": 265,
+                "hp": 3873,
+                "level": 37
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 64,
+                "def": 269,
+                "hp": 3941,
+                "level": 38
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 65,
+                "def": 274,
+                "hp": 4009,
+                "level": 39
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 66,
+                "def": 279,
+                "hp": 4076,
+                "level": 40
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 75,
+                "def": 313,
+                "hp": 4580,
+                "level": 41
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 76,
+                "def": 318,
+                "hp": 4647,
+                "level": 42
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 77,
+                "def": 322,
+                "hp": 4715,
+                "level": 43
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 78,
+                "def": 327,
+                "hp": 4782,
+                "level": 44
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 79,
+                "def": 331,
+                "hp": 4851,
+                "level": 45
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 80,
+                "def": 336,
+                "hp": 4919,
+                "level": 46
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 81,
+                "def": 341,
+                "hp": 4986,
+                "level": 47
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 82,
+                "def": 345,
+                "hp": 5054,
+                "level": 48
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 83,
+                "def": 350,
+                "hp": 5121,
+                "level": 49
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 84,
+                "def": 355,
+                "hp": 5189,
+                "level": 50
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 95,
+                "def": 399,
+                "hp": 5837,
+                "level": 51
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 96,
+                "def": 404,
+                "hp": 5906,
+                "level": 52
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 97,
+                "def": 408,
+                "hp": 5974,
+                "level": 53
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 98,
+                "def": 413,
+                "hp": 6041,
+                "level": 54
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 99,
+                "def": 417,
+                "hp": 6109,
+                "level": 55
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 101,
+                "def": 422,
+                "hp": 6176,
+                "level": 56
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 102,
+                "def": 427,
+                "hp": 6245,
+                "level": 57
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 103,
+                "def": 431,
+                "hp": 6312,
+                "level": 58
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 104,
+                "def": 436,
+                "hp": 6380,
+                "level": 59
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 105,
+                "def": 441,
+                "hp": 6448,
+                "level": 60
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 113,
+                "def": 475,
+                "hp": 6951,
+                "level": 61
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 114,
+                "def": 480,
+                "hp": 7019,
+                "level": 62
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 115,
+                "def": 484,
+                "hp": 7086,
+                "level": 63
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 116,
+                "def": 489,
+                "hp": 7154,
+                "level": 64
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 118,
+                "def": 494,
+                "hp": 7222,
+                "level": 65
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 119,
+                "def": 498,
+                "hp": 7290,
+                "level": 66
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 120,
+                "def": 503,
+                "hp": 7358,
+                "level": 67
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 121,
+                "def": 507,
+                "hp": 7425,
+                "level": 68
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 122,
+                "def": 512,
+                "hp": 7493,
+                "level": 69
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 123,
+                "def": 517,
+                "hp": 7561,
+                "level": 70
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 131,
+                "def": 551,
+                "hp": 8064,
+                "level": 71
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 132,
+                "def": 556,
+                "hp": 8132,
+                "level": 72
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 133,
+                "def": 560,
+                "hp": 8200,
+                "level": 73
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 135,
+                "def": 565,
+                "hp": 8268,
+                "level": 74
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 136,
+                "def": 570,
+                "hp": 8335,
+                "level": 75
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 137,
+                "def": 574,
+                "hp": 8403,
+                "level": 76
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 138,
+                "def": 579,
+                "hp": 8471,
+                "level": 77
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 139,
+                "def": 584,
+                "hp": 8539,
+                "level": 78
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 140,
+                "def": 588,
+                "hp": 8606,
+                "level": 79
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 141,
+                "def": 593,
+                "hp": 8674,
+                "level": 80
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 149,
+                "def": 627,
+                "hp": 9178,
+                "level": 81
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 150,
+                "def": 632,
+                "hp": 9245,
+                "level": 82
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 152,
+                "def": 636,
+                "hp": 9313,
+                "level": 83
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 153,
+                "def": 641,
+                "hp": 9380,
+                "level": 84
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 154,
+                "def": 646,
+                "hp": 9449,
+                "level": 85
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 155,
+                "def": 650,
+                "hp": 9516,
+                "level": 86
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 156,
+                "def": 655,
+                "hp": 9584,
+                "level": 87
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 157,
+                "def": 660,
+                "hp": 9651,
+                "level": 88
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 158,
+                "def": 664,
+                "hp": 9719,
+                "level": 89
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 159,
+                "def": 669,
+                "hp": 9787,
+                "level": 90
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 180,
+                "def": 692,
+                "hp": 10126,
+                "level": 95
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 200,
+                "def": 715,
+                "hp": 10464,
+                "level": 100
+            }
+        ],
+        "birthday": "July 5th",
+        "constellation": "Crater",
+        "description": "Every citizen of Mondstadt adores Barbara. She learned the word \"idol\" from a magazine.",
+        "element": "Hydro",
+        "name": "Barbara",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_CATALYST"
+    },
+    "passives": {
+        "p1": {
+            "description": "The Stamina Consumption of characters within <color=#FFD780FF>Let the Show Begin♪</color>'s Melody Loop is reduced by 12%.",
+            "icon": "UI_Talent_S_Barbara_05",
+            "name": "Glorious Season"
+        },
+        "p2": {
+            "description": "When your active character gains an Elemental Orb/Particle, the duration of the Melody Loop of <color=#FFD780FF>Let the Show Begin♪</color> is extended by 1s.\\nThe maximum extension is 5s.",
+            "icon": "UI_Talent_S_Barbara_06",
+            "name": "Encore"
+        },
+        "p3": {
+            "description": "When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.",
+            "icon": "UI_Talent_Cook_Heal",
+            "name": "With My Whole Heart♪"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Heals your own party members and nearby teammates for a large amount of HP that scales with Barbara's Max HP.\\n\\n<i>Barbara's desire to heal strengthens her will to fight and sing.</i>",
+            "icon": "Skill_E_Barbara_01",
+            "multipliers": {
+                "CD": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ],
+                "Energy Cost": [
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80"
+                ],
+                "Regeneration": [
+                    "17.6% Max HP+1694",
+                    "18.92% Max HP+1864",
+                    "20.24% Max HP+2047",
+                    "22% Max HP+2245",
+                    "23.32% Max HP+2457",
+                    "24.64% Max HP+2683",
+                    "26.4% Max HP+2923",
+                    "28.16% Max HP+3177",
+                    "29.92% Max HP+3445",
+                    "31.68% Max HP+3728",
+                    "33.44% Max HP+4024",
+                    "35.2% Max HP+4335",
+                    "37.4% Max HP+4660",
+                    "39.6% Max HP+4999",
+                    "41.8% Max HP+5352"
+                ]
+            },
+            "name": "Shining Miracle♪"
+        },
+        "elementalskill": {
+            "description": "Summons water droplets resembling musical notes that form a Melody Loop, dealing <color=#80C0FFFF>Hydro DMG</color> to surrounding opponents and applying the <color=#80C0FFFF>Wet</color> status to them.\\n\\n<color=#FFD780FF>Melody Loop</color>\\n·On hit, Barbara's Normal Attacks heal your own party members and nearby teammates for a certain amount of HP, which scales with Barbara's Max HP.\\n·On hit, Barbara's Charged Attack generates 4 times the amount of healing.\\n·Periodically regenerates your own active character's HP.\\n·Applies the <color=#80C0FFFF>Wet</color> status to the character and to opponents who come in contact with them.\\n\\n<i>Barbara's music is the magic that heals her companions.</i>",
+            "icon": "Skill_S_Barbara_01",
+            "multipliers": {
+                "CD": [
+                    "32s",
+                    "32s",
+                    "32s",
+                    "32s",
+                    "32s",
+                    "32s",
+                    "32s",
+                    "32s",
+                    "32s",
+                    "32s",
+                    "32s",
+                    "32s",
+                    "32s",
+                    "32s",
+                    "32s"
+                ],
+                "Continuous Regeneration": [
+                    "4% Max HP+385",
+                    "4.3% Max HP+424",
+                    "4.6% Max HP+465",
+                    "5% Max HP+510",
+                    "5.3% Max HP+559",
+                    "5.6% Max HP+610",
+                    "6% Max HP+664",
+                    "6.4% Max HP+722",
+                    "6.8% Max HP+783",
+                    "7.2% Max HP+847",
+                    "7.6% Max HP+915",
+                    "8% Max HP+986",
+                    "8.5% Max HP+1059",
+                    "9% Max HP+1136",
+                    "9.5% Max HP+1217"
+                ],
+                "Droplet DMG": [
+                    "58.4%",
+                    "62.78%",
+                    "67.16%",
+                    "73%",
+                    "77.38%",
+                    "81.76%",
+                    "87.6%",
+                    "93.44%",
+                    "99.28%",
+                    "105.12%",
+                    "110.96%",
+                    "116.8%",
+                    "124.1%",
+                    "131.4%",
+                    "138.7%"
+                ],
+                "Duration": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "HP Regeneration Per Hit": [
+                    "0.75% Max HP+72",
+                    "0.81% Max HP+79",
+                    "0.86% Max HP+87",
+                    "0.94% Max HP+96",
+                    "0.99% Max HP+105",
+                    "1.05% Max HP+114",
+                    "1.13% Max HP+125",
+                    "1.2% Max HP+135",
+                    "1.27% Max HP+147",
+                    "1.35% Max HP+159",
+                    "1.43% Max HP+172",
+                    "1.5% Max HP+185",
+                    "1.59% Max HP+199",
+                    "1.69% Max HP+213",
+                    "1.78% Max HP+228"
+                ]
+            },
+            "name": "Let the Show Begin♪"
+        },
+        "leveling": {
+            "books": {
+                "104301": 9,
+                "104302": 63,
+                "104303": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113007": 18
+            },
+            "worldmonster": {
+                "112008": 18,
+                "112009": 66,
+                "112010": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 water splash attacks that deal <color=#80C0FFFF>Hydro DMG</color>.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to deal <color=#80C0FFFF>AoE Hydro DMG</color> after a short casting time.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nGathering the might of Hydro, Barbara plunges towards the ground from mid-air, damaging all opponents in her path. Deals <color=#80C0FFFF>AoE Hydro DMG</color> upon impact with the ground.",
+            "icon": "Skill_A_Catalyst_MD",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "37.84%",
+                    "40.68%",
+                    "43.52%",
+                    "47.3%",
+                    "50.14%",
+                    "52.98%",
+                    "56.76%",
+                    "60.54%",
+                    "64.33%",
+                    "68.11%",
+                    "72.05%",
+                    "77.19%",
+                    "82.34%",
+                    "87.49%",
+                    "92.63%"
+                ],
+                "2-Hit DMG": [
+                    "35.52%",
+                    "38.18%",
+                    "40.85%",
+                    "44.4%",
+                    "47.06%",
+                    "49.73%",
+                    "53.28%",
+                    "56.83%",
+                    "60.38%",
+                    "63.94%",
+                    "67.63%",
+                    "72.46%",
+                    "77.29%",
+                    "82.12%",
+                    "86.95%"
+                ],
+                "3-Hit DMG": [
+                    "41.04%",
+                    "44.12%",
+                    "47.2%",
+                    "51.3%",
+                    "54.38%",
+                    "57.46%",
+                    "61.56%",
+                    "65.66%",
+                    "69.77%",
+                    "73.87%",
+                    "78.14%",
+                    "83.72%",
+                    "89.3%",
+                    "94.88%",
+                    "100.47%"
+                ],
+                "4-Hit DMG": [
+                    "55.2%",
+                    "59.34%",
+                    "63.48%",
+                    "69%",
+                    "73.14%",
+                    "77.28%",
+                    "82.8%",
+                    "88.32%",
+                    "93.84%",
+                    "99.36%",
+                    "105.1%",
+                    "112.61%",
+                    "120.12%",
+                    "127.62%",
+                    "135.13%"
+                ],
+                "Charged Attack DMG": [
+                    "166.24%",
+                    "178.71%",
+                    "191.18%",
+                    "207.8%",
+                    "220.27%",
+                    "232.74%",
+                    "249.36%",
+                    "265.98%",
+                    "282.61%",
+                    "299.23%",
+                    "316.52%",
+                    "339.13%",
+                    "361.74%",
+                    "384.35%",
+                    "406.96%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50"
+                ],
+                "Low/High Plunge DMG": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "Plunge DMG": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ]
+            },
+            "name": "Whisper of Water"
+        }
+    }
+}

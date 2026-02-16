@@ -1,0 +1,1386 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104111": 1,
+            "104112": 9,
+            "104113": 9,
+            "104114": 6
+        },
+        "elitemonster": {
+            "113016": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100029": 168
+        },
+        "worldmonster": {
+            "112038": 18,
+            "112039": 30,
+            "112040": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "ExtraAttack_Bullet",
+            "poise": "LV5/120"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "ExtraAttack_Bullet",
+            "poise": "LV6/120"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "ExtraAttack_CrimsonPlum_Bullet",
+            "poise": "LV5/120"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "24 hits / 0.5s",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "name": "ExtraAttack_CrimsonPlum_Bullet",
+            "poise": "LV6/120"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "CrimsonPlum",
+            "poise": "LV1/1"
+        },
+        {
+            "element": "Fire",
+            "gauge": "0U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Grp: default",
+            "name": "CrimsonPlum",
+            "poise": "LV3/120"
+        },
+        {
+            "element": "Fire",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "VermilionBite",
+            "poise": "LV3/250"
+        },
+        {
+            "element": "Fire",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "VermilionBite",
+            "poise": "LV3/250"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "Fire",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "Fire",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Sob o estado de <color=#FFD780FF>Dança de Borboleta</color> aplicado por <color=#FFD780FF>Guia do Além</color>, o Ataque Carregado de Hutao não consome Stamina.",
+            "icon": "UI_Talent_S_Hutao_03",
+            "name": "Buquê Carmesim"
+        },
+        "const2": {
+            "description": "<color=#FFD780FF>Pétalas Sangrentas</color> causa Dano adicional equivalente a 10% da Vida Máxima de Hutao.\\nAlém disso, <color=#FFD780FF>Pacificadora de Espíritos</color> pode aplicar efeito de <color=#FFD780FF>Pétalas Sangrentas</color> aos inimigos acertados.",
+            "icon": "UI_Talent_S_Hutao_01",
+            "name": "Mau Presságio"
+        },
+        "const3": {
+            "description": "O nível de Habilidade <color=#FFD780FF>Guia do Além</color> aumenta em 3 níveis.\\nPode ser aumentado até 15 níveis.",
+            "icon": "UI_Talent_U_Hutao_01",
+            "name": "Ritual de Sangria"
+        },
+        "const4": {
+            "description": "Quando os inimigos sob estado de <color=#FFD780FF>Pétalas Sangrentas</color> aplicado por Hutao forem derrotados, a Taxa CRIT de todos os aliados (menos Hutao) ao redor aumenta em 12% por 15s.",
+            "icon": "UI_Talent_S_Hutao_02",
+            "name": "Jardim do Descanso Eterno"
+        },
+        "const5": {
+            "description": "Aumenta o nível do <color=#FFD780FF>Pacificadora de Espíritos</color> em 3 níveis.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Hutao_02",
+            "name": "Incenso de Flores"
+        },
+        "const6": {
+            "description": "O efeito será ativado quando a Vida de Hutao for inferior a 25%, ou o Dano recebido for suficiente para derrotá-la.\\nO Dano recebido não irá derrubar Hutao, e nos primeiros 10s, a RES Elemental e RES Física irão aumentar em 200%, entretanto, a Taxa CRIT aumenta em 100%, e a sua Resistência contra Interrupção aumenta significativamente.\\nO efeito será ativado automaticamente quando a Vida for 1.\\nO efeito apenas pode ser ativado a cada 60s.",
+            "icon": "UI_Talent_S_Hutao_04",
+            "name": "Abraço das Borboletas"
+        }
+    },
+    "energy": [
+        {
+            "cd": "Instant",
+            "chance": "100%",
+            "particles": "2",
+            "source": "DropBall_Handler"
+        },
+        {
+            "cd": "Instant",
+            "chance": "50%",
+            "particles": "1",
+            "source": "DropBall_Handler"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Hutao",
+        "forward": "UI_AvatarIcon_Hutao"
+    },
+    "info": {
+        "attributes": [
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 8,
+                "def": 68,
+                "hp": 1211,
+                "level": 1
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 9,
+                "def": 74,
+                "hp": 1311,
+                "level": 2
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 10,
+                "def": 80,
+                "hp": 1412,
+                "level": 3
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 10,
+                "def": 85,
+                "hp": 1513,
+                "level": 4
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 11,
+                "def": 91,
+                "hp": 1614,
+                "level": 5
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 12,
+                "def": 97,
+                "hp": 1716,
+                "level": 6
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 12,
+                "def": 102,
+                "hp": 1816,
+                "level": 7
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 13,
+                "def": 108,
+                "hp": 1918,
+                "level": 8
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 14,
+                "def": 114,
+                "hp": 2019,
+                "level": 9
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 15,
+                "def": 119,
+                "hp": 2120,
+                "level": 10
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 15,
+                "def": 125,
+                "hp": 2222,
+                "level": 11
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 16,
+                "def": 131,
+                "hp": 2323,
+                "level": 12
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 17,
+                "def": 137,
+                "hp": 2425,
+                "level": 13
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 17,
+                "def": 142,
+                "hp": 2528,
+                "level": 14
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 18,
+                "def": 148,
+                "hp": 2630,
+                "level": 15
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 154,
+                "hp": 2731,
+                "level": 16
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 160,
+                "hp": 2834,
+                "level": 17
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 165,
+                "hp": 2936,
+                "level": 18
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 171,
+                "hp": 3039,
+                "level": 19
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 177,
+                "hp": 3141,
+                "level": 20
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 29,
+                "def": 241,
+                "hp": 4282,
+                "level": 21
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 30,
+                "def": 247,
+                "hp": 4384,
+                "level": 22
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 31,
+                "def": 253,
+                "hp": 4487,
+                "level": 23
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 31,
+                "def": 259,
+                "hp": 4590,
+                "level": 24
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 32,
+                "def": 264,
+                "hp": 4693,
+                "level": 25
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 33,
+                "def": 270,
+                "hp": 4797,
+                "level": 26
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 34,
+                "def": 276,
+                "hp": 4900,
+                "level": 27
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 34,
+                "def": 282,
+                "hp": 5003,
+                "level": 28
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 35,
+                "def": 288,
+                "hp": 5107,
+                "level": 29
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 36,
+                "def": 294,
+                "hp": 5210,
+                "level": 30
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 36,
+                "def": 299,
+                "hp": 5314,
+                "level": 31
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 37,
+                "def": 305,
+                "hp": 5418,
+                "level": 32
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 38,
+                "def": 311,
+                "hp": 5523,
+                "level": 33
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 38,
+                "def": 317,
+                "hp": 5625,
+                "level": 34
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 39,
+                "def": 323,
+                "hp": 5730,
+                "level": 35
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 40,
+                "def": 329,
+                "hp": 5835,
+                "level": 36
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 41,
+                "def": 335,
+                "hp": 5939,
+                "level": 37
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 41,
+                "def": 340,
+                "hp": 6043,
+                "level": 38
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 42,
+                "def": 346,
+                "hp": 6147,
+                "level": 39
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 43,
+                "def": 352,
+                "hp": 6253,
+                "level": 40
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 49,
+                "def": 400,
+                "hp": 7094,
+                "level": 41
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 49,
+                "def": 406,
+                "hp": 7200,
+                "level": 42
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 50,
+                "def": 412,
+                "hp": 7305,
+                "level": 43
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 51,
+                "def": 417,
+                "hp": 7409,
+                "level": 44
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 51,
+                "def": 423,
+                "hp": 7514,
+                "level": 45
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 52,
+                "def": 429,
+                "hp": 7620,
+                "level": 46
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 53,
+                "def": 435,
+                "hp": 7725,
+                "level": 47
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 54,
+                "def": 441,
+                "hp": 7830,
+                "level": 48
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 54,
+                "def": 447,
+                "hp": 7937,
+                "level": 49
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 55,
+                "def": 453,
+                "hp": 8042,
+                "level": 50
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 62,
+                "def": 514,
+                "hp": 9131,
+                "level": 51
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 63,
+                "def": 520,
+                "hp": 9238,
+                "level": 52
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 64,
+                "def": 526,
+                "hp": 9343,
+                "level": 53
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 65,
+                "def": 532,
+                "hp": 9450,
+                "level": 54
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 65,
+                "def": 538,
+                "hp": 9556,
+                "level": 55
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 66,
+                "def": 544,
+                "hp": 9663,
+                "level": 56
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 67,
+                "def": 550,
+                "hp": 9769,
+                "level": 57
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 68,
+                "def": 556,
+                "hp": 9876,
+                "level": 58
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 68,
+                "def": 562,
+                "hp": 9982,
+                "level": 59
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 69,
+                "def": 568,
+                "hp": 10089,
+                "level": 60
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 75,
+                "def": 616,
+                "hp": 10933,
+                "level": 61
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 76,
+                "def": 622,
+                "hp": 11039,
+                "level": 62
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 76,
+                "def": 628,
+                "hp": 11147,
+                "level": 63
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 77,
+                "def": 634,
+                "hp": 11254,
+                "level": 64
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 78,
+                "def": 640,
+                "hp": 11362,
+                "level": 65
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 78,
+                "def": 646,
+                "hp": 11469,
+                "level": 66
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 79,
+                "def": 652,
+                "hp": 11576,
+                "level": 67
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 80,
+                "def": 658,
+                "hp": 11684,
+                "level": 68
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 81,
+                "def": 664,
+                "hp": 11791,
+                "level": 69
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 81,
+                "def": 670,
+                "hp": 11899,
+                "level": 70
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 87,
+                "def": 718,
+                "hp": 12744,
+                "level": 71
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 88,
+                "def": 724,
+                "hp": 12853,
+                "level": 72
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 89,
+                "def": 730,
+                "hp": 12961,
+                "level": 73
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 89,
+                "def": 736,
+                "hp": 13069,
+                "level": 74
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 90,
+                "def": 742,
+                "hp": 13178,
+                "level": 75
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 91,
+                "def": 748,
+                "hp": 13286,
+                "level": 76
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 92,
+                "def": 755,
+                "hp": 13395,
+                "level": 77
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 92,
+                "def": 761,
+                "hp": 13504,
+                "level": 78
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 93,
+                "def": 767,
+                "hp": 13612,
+                "level": 79
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 94,
+                "def": 773,
+                "hp": 13721,
+                "level": 80
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 100,
+                "def": 821,
+                "hp": 14568,
+                "level": 81
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 100,
+                "def": 827,
+                "hp": 14677,
+                "level": 82
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 101,
+                "def": 833,
+                "hp": 14786,
+                "level": 83
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 102,
+                "def": 839,
+                "hp": 14895,
+                "level": 84
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 103,
+                "def": 845,
+                "hp": 15004,
+                "level": 85
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 103,
+                "def": 851,
+                "hp": 15114,
+                "level": 86
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 104,
+                "def": 858,
+                "hp": 15223,
+                "level": 87
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 105,
+                "def": 864,
+                "hp": 15333,
+                "level": 88
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 106,
+                "def": 870,
+                "hp": 15443,
+                "level": 89
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 106,
+                "def": 876,
+                "hp": 15552,
+                "level": 90
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 118,
+                "def": 907,
+                "hp": 16104,
+                "level": 95
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 130,
+                "def": 938,
+                "hp": 16658,
+                "level": 100
+            }
+        ],
+        "birthday": "July 15th",
+        "constellation": "Papilio Charontis",
+        "description": "A 77.ª diretora da Funerária de Wangsheng. Apesar de ser jovem, já está encarregada de todos os assuntos funerários de Liyue.",
+        "element": "Pyro",
+        "name": "Hutao",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_POLE"
+    },
+    "passives": {
+        "p1": {
+            "description": "Após o estado da <color=#FFD780FF>Dança de Borboleta</color> aplicado por <color=#FFD780FF>Guia do Além</color> terminar, a Taxa CRIT de todos os personagens (menos Hutao) na equipe aumenta em 12% por 8s.",
+            "icon": "UI_Talent_S_Hutao_05",
+            "name": "Crisálida"
+        },
+        "p2": {
+            "description": "Quando a Vida de Hutao ficar inferior ou igual a 50%, obterá 33% de <color=#FF9999FF>bônus de Dano Pyro</color>.",
+            "icon": "UI_Talent_S_Hutao_06",
+            "name": "Sangue Fervendo"
+        },
+        "p3": {
+            "description": "Quando uma Comida Perfeita é feita, tem uma chance de 18% de receber uma Comida Estranha de mesmo tipo.",
+            "icon": "UI_Talent_Cook_ExtraFailedItem",
+            "name": "Quanto Mais, Melhor"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Balança a sua alma flamejante, causando <color=#FF9999FF>Dano Pyro</color> em uma grande AdE.\\nAo acertar nos inimigos, restaura a Vida de Hutao baseando na sua Vida Máxima. Esse efeito pode ser aplicado até 5 inimigos acertados.\\nAo acertar, se a Vida de Hutao for inferior ou igual a 50%, pode causar um maior Dano e Cura.\\n\\n<i>Se um falecido ainda está ativo no mundo mortal, a Funerária de Wangsheng poderia ficar inquieta. A cremação é uma maneira que pode acalmar Hutao, todavia, quanto mais preocupada ela fica, maior as suas chamas.</i>",
+            "icon": "Skill_E_Hutao_01",
+            "multipliers": {
+                "Dano de Habilidade": [
+                    "303.27%",
+                    "321.43%",
+                    "339.59%",
+                    "363.2%",
+                    "381.36%",
+                    "399.52%",
+                    "423.13%",
+                    "446.74%",
+                    "470.34%",
+                    "493.95%",
+                    "517.56%",
+                    "541.17%",
+                    "564.78%",
+                    "588.38%",
+                    "611.99%"
+                ],
+                "Energia Elemental": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "Habilidade de Regeneração de Vida Baixa": [
+                    "8.35% da Vida Máxima",
+                    "8.85% da Vida Máxima",
+                    "9.35% da Vida Máxima",
+                    "10% da Vida Máxima",
+                    "10.5% da Vida Máxima",
+                    "11% da Vida Máxima",
+                    "11.65% da Vida Máxima",
+                    "12.3% da Vida Máxima",
+                    "12.95% da Vida Máxima",
+                    "13.6% da Vida Máxima",
+                    "14.25% da Vida Máxima",
+                    "14.9% da Vida Máxima",
+                    "15.55% da Vida Máxima",
+                    "16.2% da Vida Máxima",
+                    "16.85% da Vida Máxima"
+                ],
+                "Quando a Vida estiver baixa, Dano de Habilidade": [
+                    "379.09%",
+                    "401.79%",
+                    "424.49%",
+                    "454%",
+                    "476.7%",
+                    "499.4%",
+                    "528.91%",
+                    "558.42%",
+                    "587.93%",
+                    "617.44%",
+                    "646.95%",
+                    "676.46%",
+                    "705.97%",
+                    "735.48%",
+                    "764.99%"
+                ],
+                "Regeneração de Habilidades": [
+                    "6.26% da Vida Máxima",
+                    "6.64% da Vida Máxima",
+                    "7.01% da Vida Máxima",
+                    "7.5% da Vida Máxima",
+                    "7.87% da Vida Máxima",
+                    "8.25% da Vida Máxima",
+                    "8.74% da Vida Máxima",
+                    "9.22% da Vida Máxima",
+                    "9.71% da Vida Máxima",
+                    "10.2% da Vida Máxima",
+                    "10.69% da Vida Máxima",
+                    "11.17% da Vida Máxima",
+                    "11.66% da Vida Máxima",
+                    "12.15% da Vida Máxima",
+                    "12.64% da Vida Máxima"
+                ],
+                "Tempo de Recarga": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ]
+            },
+            "name": "Pacificadora de Espíritos"
+        },
+        "elementalskill": {
+            "description": "Somente as chamas eternas podem limpar esse mundo.\\nHutao consome uma parte de Vida e repele os inimigos próximos, entrando no estado de Dança de Borboleta.\\n\\n<color=#FFD780FF>Dança de Borboleta</color>\\n·A Dança de Borboleta aumenta o ATQ de Hutao com base em sua Vida Máxima. O ATQ obtido dessa forma não poderá ultrapassar 400% do seu ATQ Básico;\\n·O Dano do ATQ é transformado em <color=#FF9999FF>Dano Pyro</color>. Esse dano elemental não pode ser substituído por outro encantamento elemental;\\n·O Ataque Carregado pode causar aos inimigos atingidos o efeito de Pétalas Sangrentas;\\n·Aumenta a resistência de Hutao a interrupções.\\n\\n<color=#FFD780FF>Pétalas Sangrentas</color>\\nOs inimigos afetados pelas Pétalas Sangrentas receberão a cada 4s <color=#FF9999FF>Dano Pyro</color> uma vez. Esse dano é considerado dano de habilidade elemental.\\nSó é possível existir um efeito de Pétalas Sangrentas por alvo, e sua duração só pode ser renovada por Hutao.\\n\\n<color=#FFD780FF>Dança de Borboleta</color> só se dissipará quando sua duração terminar ou quando Hutao for retirada do combate ou ser derrotada.\\n\\n<i>A primeira regra para se aprender a técnica secreta de Hutao é: \"A lança abre o caminho para a vida depois da morte, e as borboletas ligam este mundo e o próximo\".</i>",
+            "icon": "Skill_S_Hutao_01",
+            "multipliers": {
+                "Aumenta o ATQ": [
+                    "3.84% da Vida Máxima",
+                    "4.07% da Vida Máxima",
+                    "4.3% da Vida Máxima",
+                    "4.6% da Vida Máxima",
+                    "4.83% da Vida Máxima",
+                    "5.06% da Vida Máxima",
+                    "5.36% da Vida Máxima",
+                    "5.66% da Vida Máxima",
+                    "5.96% da Vida Máxima",
+                    "6.26% da Vida Máxima",
+                    "6.55% da Vida Máxima",
+                    "6.85% da Vida Máxima",
+                    "7.15% da Vida Máxima",
+                    "7.45% da Vida Máxima",
+                    "7.75% da Vida Máxima"
+                ],
+                "Consumo da Habilidade": [
+                    "30% da Vida atual",
+                    "30% da Vida atual",
+                    "30% da Vida atual",
+                    "30% da Vida atual",
+                    "30% da Vida atual",
+                    "30% da Vida atual",
+                    "30% da Vida atual",
+                    "30% da Vida atual",
+                    "30% da Vida atual",
+                    "30% da Vida atual",
+                    "30% da Vida atual",
+                    "30% da Vida atual",
+                    "30% da Vida atual",
+                    "30% da Vida atual",
+                    "30% da Vida atual"
+                ],
+                "Dano de Pétalas Sangrentas ": [
+                    "64%",
+                    "68.8%",
+                    "73.6%",
+                    "80%",
+                    "84.8%",
+                    "89.6%",
+                    "96%",
+                    "102.4%",
+                    "108.8%",
+                    "115.2%",
+                    "121.6%",
+                    "128%",
+                    "136%",
+                    "144%",
+                    "152%"
+                ],
+                "Duração": [
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s"
+                ],
+                "Duração de Pétalas Sangrentas": [
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s",
+                    "8s"
+                ],
+                "Tempo de Recarga": [
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s"
+                ]
+            },
+            "name": "Guia do Além"
+        },
+        "leveling": {
+            "books": {
+                "104313": 9,
+                "104314": 63,
+                "104315": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113014": 18
+            },
+            "worldmonster": {
+                "112038": 18,
+                "112039": 66,
+                "112040": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 6 golpes com a lança.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome uma certa quantidade de Stamina para se lançar para frente, infligindo Dano em seu trajeto.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+            "icon": "Skill_A_03",
+            "multipliers": {
+                "Consumo de Stamina de Ataque Carregado": [
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25"
+                ],
+                "Dano Durante a Queda": [
+                    "65.42%",
+                    "69.88%",
+                    "74.34%",
+                    "80.29%",
+                    "84.75%",
+                    "89.95%",
+                    "96.64%",
+                    "103.33%",
+                    "110.02%",
+                    "116.71%",
+                    "123.4%",
+                    "130.1%",
+                    "136.79%",
+                    "143.48%",
+                    "150.17%"
+                ],
+                "Dano de Ataque Carregado": [
+                    "135.96%",
+                    "145.23%",
+                    "154.5%",
+                    "166.86%",
+                    "176.13%",
+                    "186.94%",
+                    "200.85%",
+                    "214.76%",
+                    "228.66%",
+                    "242.56%",
+                    "256.47%",
+                    "270.37%",
+                    "284.28%",
+                    "298.18%",
+                    "312.09%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "130.81%/163.39%",
+                    "139.73%/174.53%",
+                    "148.65%/185.67%",
+                    "160.54%/200.52%",
+                    "169.46%/211.66%",
+                    "179.86%/224.66%",
+                    "193.24%/241.37%",
+                    "206.62%/258.08%",
+                    "220%/274.79%",
+                    "233.38%/291.5%",
+                    "246.76%/308.21%",
+                    "260.13%/324.92%",
+                    "273.51%/341.63%",
+                    "286.89%/358.34%",
+                    "300.27%/375.05%"
+                ],
+                "Dano do 1° Golpe": [
+                    "46.89%",
+                    "50.08%",
+                    "53.28%",
+                    "57.54%",
+                    "60.74%",
+                    "64.47%",
+                    "69.26%",
+                    "74.06%",
+                    "78.85%",
+                    "83.65%",
+                    "88.44%",
+                    "93.24%",
+                    "98.04%",
+                    "102.83%",
+                    "107.63%"
+                ],
+                "Dano do 2° Golpe": [
+                    "48.25%",
+                    "51.54%",
+                    "54.83%",
+                    "59.22%",
+                    "62.51%",
+                    "66.35%",
+                    "71.28%",
+                    "76.22%",
+                    "81.15%",
+                    "86.09%",
+                    "91.02%",
+                    "95.96%",
+                    "100.89%",
+                    "105.83%",
+                    "110.76%"
+                ],
+                "Dano do 3° Golpe": [
+                    "61.05%",
+                    "65.21%",
+                    "69.38%",
+                    "74.92%",
+                    "79.09%",
+                    "83.94%",
+                    "90.19%",
+                    "96.43%",
+                    "102.67%",
+                    "108.92%",
+                    "115.16%",
+                    "121.41%",
+                    "127.65%",
+                    "133.89%",
+                    "140.14%"
+                ],
+                "Dano do 4° Golpe": [
+                    "65.64%",
+                    "70.12%",
+                    "74.59%",
+                    "80.56%",
+                    "85.03%",
+                    "90.26%",
+                    "96.97%",
+                    "103.68%",
+                    "110.4%",
+                    "117.11%",
+                    "123.82%",
+                    "130.54%",
+                    "137.25%",
+                    "143.96%",
+                    "150.68%"
+                ],
+                "Dano do 5° Golpe": [
+                    "33.27%+35.2%",
+                    "35.54%+37.6%",
+                    "37.81%+40%",
+                    "40.84%+43.2%",
+                    "43.1%+45.6%",
+                    "45.75%+48.4%",
+                    "49.15%+52%",
+                    "52.56%+55.6%",
+                    "55.96%+59.2%",
+                    "59.36%+62.8%",
+                    "62.77%+66.4%",
+                    "66.17%+70%",
+                    "69.57%+73.6%",
+                    "72.98%+77.2%",
+                    "76.38%+80.8%"
+                ],
+                "Dano do 6° Golpe": [
+                    "85.96%",
+                    "91.82%",
+                    "97.68%",
+                    "105.49%",
+                    "111.36%",
+                    "118.19%",
+                    "126.98%",
+                    "135.78%",
+                    "144.57%",
+                    "153.36%",
+                    "162.15%",
+                    "170.94%",
+                    "179.73%",
+                    "188.52%",
+                    "197.31%"
+                ]
+            },
+            "name": "Lança Secreta de Wangsheng"
+        }
+    }
+}

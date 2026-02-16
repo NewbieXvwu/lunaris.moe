@@ -1,0 +1,1398 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104111": 1,
+            "104112": 9,
+            "104113": 9,
+            "104114": 6
+        },
+        "elitemonster": {
+            "113051": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101236": 168
+        },
+        "worldmonster": {
+            "112032": 18,
+            "112033": 30,
+            "112034": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "4U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "ShootArrow_Enchanted_WithoutFire",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "Bullet_ShootArrow_WithFire",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "Bullet_ShootArrow_WithFire_BeforeFission",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "Bullet_ShootArrow_WithFire_BeforeFission",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Fire",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "SkillObj_ShootArrow_OusiaAgent",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "6 hits / 1s",
+            "icd_source": "Grp: Avatar_Liney_ExtraAttack (Tag Miss)",
+            "name": "Bullet_FissionAgent_EndBoom",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "6 hits / 1s",
+            "icd_source": "Grp: Avatar_Liney_ExtraAttack (Tag Miss)",
+            "name": "Bullet_FissionAgent_EndBoom_Constellation_6",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "6 hits / 1s",
+            "icd_source": "Grp: Avatar_Liney_ExtraAttack (Tag Miss)",
+            "name": "SkillObj_FissionAgent_EndBoom_Enhanced",
+            "poise": "LV2/90"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt",
+            "poise": "LV4/60"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV2/40"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV7/120"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Lyney can have 2 <color=#FFD780FF>Grin-Malkin Hats</color> present at once.\\nAdditionally, Prop Arrows will summon 2 Grin-Malkin Hats and grant Lyney 1 extra stack of Prop Surplus. This effect can occur once every 15s.",
+            "icon": "UI_Talent_S_Liney_01",
+            "name": "Whimsical Wonders"
+        },
+        "const2": {
+            "description": "When Lyney is on the field, he will gain a stack of Crisp Focus every 2s. Each stack will increase his CRIT DMG by 20%. Max 3 stacks. This effect will be canceled when Lyney leaves the field.",
+            "icon": "UI_Talent_S_Liney_03",
+            "name": "Loquacious Cajoling"
+        },
+        "const3": {
+            "description": "Increases the Level of <color=#FFD780FF>Normal Attack: Card Force Translocation</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Liney_01",
+            "name": "Prestidigitation"
+        },
+        "const4": {
+            "description": "After an opponent is hit by Lyney's <color=#FF9999FF>Pyro</color> Charged Attack, this opponent's <color=#FF9999FF>Pyro RES</color> will be decreased by 20% for 6s.",
+            "icon": "UI_Talent_S_Liney_02",
+            "name": "Well-Versed, Well-Rehearsed"
+        },
+        "const5": {
+            "description": "Increases the Level of <color=#FFD780FF>Wondrous Trick: Miracle Parade</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Liney_02",
+            "name": "To Pierce Enigmas"
+        },
+        "const6": {
+            "description": "When Lyney fires a <color=#FFD780FF>Prop Arrow</color>, he will fire a Pyrotechnic Strike: Reprised that will deal 80% of a Pyrotechnic Strike's DMG. This DMG is considered Charged Attack DMG.",
+            "icon": "UI_Talent_S_Liney_04",
+            "name": "Guarded Smile"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.3s",
+            "chance": "100%",
+            "particles": "5",
+            "source": "DropBall_Base"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Liney",
+        "forward": "UI_AvatarIcon_Liney"
+    },
+    "info": {
+        "attributes": [
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 42,
+                "hp": 858,
+                "level": 1
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 45,
+                "hp": 929,
+                "level": 2
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 49,
+                "hp": 1000,
+                "level": 3
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 52,
+                "hp": 1072,
+                "level": 4
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 56,
+                "hp": 1144,
+                "level": 5
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 59,
+                "hp": 1216,
+                "level": 6
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 63,
+                "hp": 1287,
+                "level": 7
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 66,
+                "hp": 1359,
+                "level": 8
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 70,
+                "hp": 1431,
+                "level": 9
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 43,
+                "def": 73,
+                "hp": 1502,
+                "level": 10
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 45,
+                "def": 77,
+                "hp": 1574,
+                "level": 11
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 48,
+                "def": 80,
+                "hp": 1646,
+                "level": 12
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 50,
+                "def": 84,
+                "hp": 1719,
+                "level": 13
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 52,
+                "def": 87,
+                "hp": 1791,
+                "level": 14
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 54,
+                "def": 91,
+                "hp": 1864,
+                "level": 15
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 56,
+                "def": 94,
+                "hp": 1936,
+                "level": 16
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 58,
+                "def": 98,
+                "hp": 2009,
+                "level": 17
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 60,
+                "def": 102,
+                "hp": 2081,
+                "level": 18
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 62,
+                "def": 105,
+                "hp": 2154,
+                "level": 19
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 64,
+                "def": 109,
+                "hp": 2226,
+                "level": 20
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 88,
+                "def": 148,
+                "hp": 3034,
+                "level": 21
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 90,
+                "def": 152,
+                "hp": 3107,
+                "level": 22
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 92,
+                "def": 155,
+                "hp": 3180,
+                "level": 23
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 94,
+                "def": 159,
+                "hp": 3253,
+                "level": 24
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 96,
+                "def": 162,
+                "hp": 3326,
+                "level": 25
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 98,
+                "def": 166,
+                "hp": 3400,
+                "level": 26
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 100,
+                "def": 170,
+                "hp": 3473,
+                "level": 27
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 102,
+                "def": 173,
+                "hp": 3546,
+                "level": 28
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 104,
+                "def": 177,
+                "hp": 3619,
+                "level": 29
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 107,
+                "def": 180,
+                "hp": 3692,
+                "level": 30
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 109,
+                "def": 184,
+                "hp": 3766,
+                "level": 31
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 111,
+                "def": 187,
+                "hp": 3840,
+                "level": 32
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 113,
+                "def": 191,
+                "hp": 3914,
+                "level": 33
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 115,
+                "def": 195,
+                "hp": 3987,
+                "level": 34
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 117,
+                "def": 198,
+                "hp": 4060,
+                "level": 35
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 119,
+                "def": 202,
+                "hp": 4135,
+                "level": 36
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 121,
+                "def": 205,
+                "hp": 4209,
+                "level": 37
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 124,
+                "def": 209,
+                "hp": 4283,
+                "level": 38
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 126,
+                "def": 213,
+                "hp": 4356,
+                "level": 39
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 128,
+                "def": 216,
+                "hp": 4431,
+                "level": 40
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 145,
+                "def": 245,
+                "hp": 5027,
+                "level": 41
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 147,
+                "def": 249,
+                "hp": 5102,
+                "level": 42
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 149,
+                "def": 253,
+                "hp": 5177,
+                "level": 43
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 152,
+                "def": 256,
+                "hp": 5251,
+                "level": 44
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 154,
+                "def": 260,
+                "hp": 5325,
+                "level": 45
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 156,
+                "def": 264,
+                "hp": 5400,
+                "level": 46
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 158,
+                "def": 267,
+                "hp": 5474,
+                "level": 47
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 160,
+                "def": 271,
+                "hp": 5549,
+                "level": 48
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 162,
+                "def": 275,
+                "hp": 5625,
+                "level": 49
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 164,
+                "def": 278,
+                "hp": 5699,
+                "level": 50
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 187,
+                "def": 316,
+                "hp": 6471,
+                "level": 51
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 189,
+                "def": 320,
+                "hp": 6546,
+                "level": 52
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 191,
+                "def": 323,
+                "hp": 6621,
+                "level": 53
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 193,
+                "def": 327,
+                "hp": 6697,
+                "level": 54
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 195,
+                "def": 331,
+                "hp": 6772,
+                "level": 55
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 198,
+                "def": 334,
+                "hp": 6848,
+                "level": 56
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 200,
+                "def": 338,
+                "hp": 6923,
+                "level": 57
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 202,
+                "def": 342,
+                "hp": 6999,
+                "level": 58
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 204,
+                "def": 345,
+                "hp": 7074,
+                "level": 59
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 206,
+                "def": 349,
+                "hp": 7150,
+                "level": 60
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 224,
+                "def": 378,
+                "hp": 7748,
+                "level": 61
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 226,
+                "def": 382,
+                "hp": 7823,
+                "level": 62
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 228,
+                "def": 386,
+                "hp": 7900,
+                "level": 63
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 230,
+                "def": 389,
+                "hp": 7975,
+                "level": 64
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 232,
+                "def": 393,
+                "hp": 8051,
+                "level": 65
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 235,
+                "def": 397,
+                "hp": 8128,
+                "level": 66
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 237,
+                "def": 400,
+                "hp": 8203,
+                "level": 67
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 239,
+                "def": 404,
+                "hp": 8280,
+                "level": 68
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 241,
+                "def": 408,
+                "hp": 8356,
+                "level": 69
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 243,
+                "def": 412,
+                "hp": 8432,
+                "level": 70
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 261,
+                "def": 441,
+                "hp": 9031,
+                "level": 71
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 263,
+                "def": 445,
+                "hp": 9109,
+                "level": 72
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 265,
+                "def": 448,
+                "hp": 9185,
+                "level": 73
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 267,
+                "def": 452,
+                "hp": 9261,
+                "level": 74
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 270,
+                "def": 456,
+                "hp": 9339,
+                "level": 75
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 272,
+                "def": 460,
+                "hp": 9415,
+                "level": 76
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 274,
+                "def": 463,
+                "hp": 9492,
+                "level": 77
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 276,
+                "def": 467,
+                "hp": 9569,
+                "level": 78
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 278,
+                "def": 471,
+                "hp": 9647,
+                "level": 79
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 281,
+                "def": 475,
+                "hp": 9724,
+                "level": 80
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 298,
+                "def": 504,
+                "hp": 10324,
+                "level": 81
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 300,
+                "def": 508,
+                "hp": 10401,
+                "level": 82
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 302,
+                "def": 511,
+                "hp": 10478,
+                "level": 83
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 305,
+                "def": 515,
+                "hp": 10555,
+                "level": 84
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 307,
+                "def": 519,
+                "hp": 10633,
+                "level": 85
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 309,
+                "def": 523,
+                "hp": 10711,
+                "level": 86
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 311,
+                "def": 527,
+                "hp": 10788,
+                "level": 87
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 314,
+                "def": 530,
+                "hp": 10866,
+                "level": 88
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 316,
+                "def": 534,
+                "hp": 10944,
+                "level": 89
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 318,
+                "def": 538,
+                "hp": 11021,
+                "level": 90
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 354,
+                "def": 557,
+                "hp": 11413,
+                "level": 95
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 390,
+                "def": 576,
+                "hp": 11805,
+                "level": 100
+            }
+        ],
+        "birthday": "February 2nd",
+        "constellation": "Felis Fuscus",
+        "description": "A famed Fontainian magician who possesses great stage presence as well as gift of the gab. Audiences are enthralled by his exquisite skills, and they hang on to his every clever word.",
+        "element": "Pyro",
+        "name": "Lyney",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_BOW"
+    },
+    "passives": {
+        "p1": {
+            "description": "If Lyney consumes HP when firing off a <color=#FFD780FF>Prop Arrow</color>, the Grin-Malkin hat summoned by the arrow will, upon hitting an opponent, restore 3 Energy to Lyney and increase DMG dealt by 80% of his ATK.",
+            "icon": "UI_Talent_S_Liney_05",
+            "name": "Perilous Performance"
+        },
+        "p2": {
+            "description": "The DMG Lyney deals to opponents affected by <color=#FF9999FF>Pyro</color> will receive the following buffs:\\n·Increases the DMG dealt by 60%.\\n·Each <color=#FF9999FF>Pyro</color> party member other than Lyney will cause the DMG dealt to increase by an additional 20%.\\nLyney can deal up to 100% increased DMG to opponents affected by <color=#FF9999FF>Pyro</color> in this way.",
+            "icon": "UI_Talent_S_Liney_06",
+            "name": "Conclusive Ovation"
+        },
+        "p3": {
+            "description": "Displays the location of nearby <color=#FFD780FF>resources unique to Fontaine</color> on the mini-map.",
+            "icon": "UI_Talent_S_Liney_07",
+            "name": "Trivial Observations"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Unleashing his magic, Lyney turns himself into a Grin-Malkin Cat that can move around quickly. (Not to be mistaken for the Grin-Malkin Hat. They're two different props!)\\nWhen the Grin-Malkin Cat gets close to opponents, it will send flames falling down on them, dealing at most 1 instance of <color=#FF9999FF>Pyro DMG</color> to each opponent. When the duration ends, he will dismiss the Grin-Malkin Cat and ignite fireworks that deal <color=#FF9999FF>AoE Pyro DMG</color>, summon 1 Grin-Malkin Hat, and grant himself 1 Prop Surplus stack.\\n\\nGrin-Malkin Cat can be actively canceled.\\n\\n<i>\"Watch closely now. This is a time for miracles, and it belongs to just the two of us!\"</i>",
+            "icon": "Skill_E_Liney_01",
+            "multipliers": {
+                "CD": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Duration": [
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s",
+                    "3s"
+                ],
+                "Energy Cost": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "Explosive Firework DMG": [
+                    "414%",
+                    "445.05%",
+                    "476.1%",
+                    "517.5%",
+                    "548.55%",
+                    "579.6%",
+                    "621%",
+                    "662.4%",
+                    "703.8%",
+                    "745.2%",
+                    "786.6%",
+                    "828%",
+                    "879.75%",
+                    "931.5%",
+                    "983.25%"
+                ],
+                "Skill DMG": [
+                    "154%",
+                    "165.55%",
+                    "177.1%",
+                    "192.5%",
+                    "204.05%",
+                    "215.6%",
+                    "231%",
+                    "246.4%",
+                    "261.8%",
+                    "277.2%",
+                    "292.6%",
+                    "308%",
+                    "327.25%",
+                    "346.5%",
+                    "365.75%"
+                ]
+            },
+            "name": "Wondrous Trick: Miracle Parade"
+        },
+        "elementalskill": {
+            "description": "Lyney does a flourish with his hat, unleashing a firework surprise!\\nWhen used, he will clear all current Prop Surplus stacks and deal <color=#FF9999FF>AoE Pyro DMG</color> to opponents in front of him. DMG will be increased according to the stacks cleared, and this will also regenerate Lyney's HP based on his Max HP.\\n\\nWhen a Grin-Malkin Hat created by Lyney is on the field, the fireworks will cause it to explode, dealing <color=#FF9999FF>AoE Pyro DMG</color> equal to that of a Pyrotechnic Strike.\\nThe DMG dealt through the Grin-Malkin Hat in this way is considered Charged Attack DMG.\\n\\n<i>\"Everyone knows that magicians will intentionally misdirect the audience... Ah, yes, while you were looking my way, the hat and assistant over there have both disappeared... Fascinating, is it not?\"</i>",
+            "icon": "Skill_S_Liney_01",
+            "multipliers": {
+                "CD": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "HP Regeneration": [
+                    "20%/Stack",
+                    "20%/Stack",
+                    "20%/Stack",
+                    "20%/Stack",
+                    "20%/Stack",
+                    "20%/Stack",
+                    "20%/Stack",
+                    "20%/Stack",
+                    "20%/Stack",
+                    "20%/Stack",
+                    "20%/Stack",
+                    "20%/Stack",
+                    "20%/Stack",
+                    "20%/Stack",
+                    "20%/Stack"
+                ],
+                "Skill DMG": [
+                    "167.2%",
+                    "179.74%",
+                    "192.28%",
+                    "209%",
+                    "221.54%",
+                    "234.08%",
+                    "250.8%",
+                    "267.52%",
+                    "284.24%",
+                    "300.96%",
+                    "317.68%",
+                    "334.4%",
+                    "355.3%",
+                    "376.2%",
+                    "397.1%"
+                ],
+                "Skill DMG Bonus": [
+                    "53.2% ATK/Stack",
+                    "57.19% ATK/Stack",
+                    "61.18% ATK/Stack",
+                    "66.5% ATK/Stack",
+                    "70.49% ATK/Stack",
+                    "74.48% ATK/Stack",
+                    "79.8% ATK/Stack",
+                    "85.12% ATK/Stack",
+                    "90.44% ATK/Stack",
+                    "95.76% ATK/Stack",
+                    "101.08% ATK/Stack",
+                    "106.4% ATK/Stack",
+                    "113.05% ATK/Stack",
+                    "119.7% ATK/Stack",
+                    "126.35% ATK/Stack"
+                ]
+            },
+            "name": "Bewildering Lights"
+        },
+        "leveling": {
+            "books": {
+                "104338": 9,
+                "104339": 63,
+                "104340": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113047": 18
+            },
+            "worldmonster": {
+                "112032": 18,
+                "112033": 66,
+                "112034": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 consecutive shots with a bow.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nPerforms a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG.\\nWhile aiming, flames will run across the arrowhead before being fired. Different effects will occur based on the time spent charging.\\n·Charge Level 1: Fires off a Pyro-infused arrow, dealing <color=#FF9999FF>Pyro DMG</color>.\\n·Charge Level 2: Fires off a Prop Arrow that deals <color=#FF9999FF>Pyro DMG</color>, and upon hit, it will summon a Grin-Malkin Hat.\\nWhen firing the Prop Arrow, and when Lyney has more than 60% HP, he will consume a portion of his HP to obtain 1 Prop Surplus stack. Max 5 stacks. The effect will be removed after the character spends 30s out of combat.\\nThe lowest Lyney can drop to through this method is 60% of his Max HP.\\n\\n<color=#FFD780FF>Grin-Malkin Hat</color>\\n·Can taunt nearby opponents and attract their attacks. Each opponent can only be taunted by the Hat once every 5s.\\n·The Hat will inherit a percentage of Lyney's Max HP.\\n·If destroyed, or if its duration expires, it will fire off a <color=#FFD780FF>Pyrotechnic Strike</color> at 1 nearby opponent, dealing <color=#FF9999FF>Pyro DMG</color>.\\nOnly 1 Hat can exist at any given time.\\n\\n<color=#FFD780FF>Arkhe: Pneuma</color>\\nAt certain intervals, the Prop Arrow will cause a Spiritbreath Thorn to descend upon its hit location, dealing Pneuma-aligned <color=#FF9999FF>Pyro DMG</color>.",
+            "icon": "Skill_A_02",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "38.79%",
+                    "41.94%",
+                    "45.1%",
+                    "49.61%",
+                    "52.77%",
+                    "56.38%",
+                    "61.34%",
+                    "66.3%",
+                    "71.26%",
+                    "76.67%",
+                    "82.08%",
+                    "87.49%",
+                    "92.91%",
+                    "98.32%",
+                    "103.73%"
+                ],
+                "2-Hit DMG": [
+                    "38.01%",
+                    "41.11%",
+                    "44.2%",
+                    "48.62%",
+                    "51.71%",
+                    "55.25%",
+                    "60.11%",
+                    "64.97%",
+                    "69.84%",
+                    "75.14%",
+                    "80.44%",
+                    "85.75%",
+                    "91.05%",
+                    "96.36%",
+                    "101.66%"
+                ],
+                "3-Hit DMG": [
+                    "27.26%+27.26%",
+                    "29.48%+29.48%",
+                    "31.7%+31.7%",
+                    "34.87%+34.87%",
+                    "37.09%+37.09%",
+                    "39.63%+39.63%",
+                    "43.11%+43.11%",
+                    "46.6%+46.6%",
+                    "50.09%+50.09%",
+                    "53.89%+53.89%",
+                    "57.69%+57.69%",
+                    "61.5%+61.5%",
+                    "65.3%+65.3%",
+                    "69.11%+69.11%",
+                    "72.91%+72.91%"
+                ],
+                "4-Hit DMG": [
+                    "56.93%",
+                    "61.57%",
+                    "66.2%",
+                    "72.82%",
+                    "77.45%",
+                    "82.75%",
+                    "90.03%",
+                    "97.31%",
+                    "104.6%",
+                    "112.54%",
+                    "120.48%",
+                    "128.43%",
+                    "136.37%",
+                    "144.32%",
+                    "152.26%"
+                ],
+                "Aimed Shot": [
+                    "43.86%",
+                    "47.43%",
+                    "51%",
+                    "56.1%",
+                    "59.67%",
+                    "63.75%",
+                    "69.36%",
+                    "74.97%",
+                    "80.58%",
+                    "86.7%",
+                    "92.82%",
+                    "98.94%",
+                    "105.06%",
+                    "111.18%",
+                    "117.3%"
+                ],
+                "Aimed Shot Charge Level 1": [
+                    "124%",
+                    "133.3%",
+                    "142.6%",
+                    "155%",
+                    "164.3%",
+                    "173.6%",
+                    "186%",
+                    "198.4%",
+                    "210.8%",
+                    "223.2%",
+                    "235.6%",
+                    "248%",
+                    "263.5%",
+                    "279%",
+                    "294.5%"
+                ],
+                "Grin-Malkin Hat Duration": [
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s",
+                    "4s"
+                ],
+                "Grin-Malkin Hat Inherited HP": [
+                    "64%",
+                    "68.8%",
+                    "73.6%",
+                    "80%",
+                    "84.8%",
+                    "89.6%",
+                    "96%",
+                    "102.4%",
+                    "108.8%",
+                    "115.2%",
+                    "121.6%",
+                    "128%",
+                    "136%",
+                    "144%",
+                    "152%"
+                ],
+                "HP Cost": [
+                    "20% Max HP",
+                    "20% Max HP",
+                    "20% Max HP",
+                    "20% Max HP",
+                    "20% Max HP",
+                    "20% Max HP",
+                    "20% Max HP",
+                    "20% Max HP",
+                    "20% Max HP",
+                    "20% Max HP",
+                    "20% Max HP",
+                    "20% Max HP",
+                    "20% Max HP",
+                    "20% Max HP",
+                    "20% Max HP"
+                ],
+                "Low/High Plunge DMG": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "Plunge DMG": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "Prop Arrow DMG": [
+                    "172.8%",
+                    "185.76%",
+                    "198.72%",
+                    "216%",
+                    "228.96%",
+                    "241.92%",
+                    "259.2%",
+                    "276.48%",
+                    "293.76%",
+                    "311.04%",
+                    "328.32%",
+                    "345.6%",
+                    "367.2%",
+                    "388.8%",
+                    "410.4%"
+                ],
+                "Pyrotechnic Strike DMG": [
+                    "212%",
+                    "227.9%",
+                    "243.8%",
+                    "265%",
+                    "280.9%",
+                    "296.8%",
+                    "318%",
+                    "339.2%",
+                    "360.4%",
+                    "381.6%",
+                    "402.8%",
+                    "424%",
+                    "450.5%",
+                    "477%",
+                    "503.5%"
+                ],
+                "Spiritbreath Thorn DMG": [
+                    "27.55%",
+                    "29.62%",
+                    "31.68%",
+                    "34.44%",
+                    "36.51%",
+                    "38.57%",
+                    "41.33%",
+                    "44.08%",
+                    "46.84%",
+                    "49.59%",
+                    "52.35%",
+                    "55.1%",
+                    "58.55%",
+                    "61.99%",
+                    "65.44%"
+                ],
+                "Spiritbreath Thorn Interval": [
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s"
+                ]
+            },
+            "name": "Card Force Translocation"
+        }
+    }
+}

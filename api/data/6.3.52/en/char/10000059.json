@@ -1,0 +1,1338 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104151": 1,
+            "104152": 9,
+            "104153": 9,
+            "104154": 6
+        },
+        "elitemonster": {
+            "113035": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101201": 168
+        },
+        "worldmonster": {
+            "112035": 18,
+            "112036": 30,
+            "112037": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Wind",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Strike",
+            "poise": "LV4/150"
+        },
+        {
+            "element": "Wind",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Strike",
+            "poise": "LV4/175"
+        },
+        {
+            "element": "Wind",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Strike",
+            "poise": "LV4/175"
+        },
+        {
+            "element": "Wind",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Strike",
+            "poise": "LV4/200"
+        },
+        {
+            "element": "Wind",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Strike",
+            "poise": "LV4/200"
+        },
+        {
+            "element": "Wind",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Strike",
+            "poise": "LV4/225"
+        },
+        {
+            "element": "Wind",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Strike",
+            "poise": "LV4/225"
+        },
+        {
+            "element": "Wind",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Strike_Max",
+            "poise": "LV6/250"
+        },
+        {
+            "element": "Wind",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Strike_Max",
+            "poise": "LV6/250"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_WindHole",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_WindHole",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_WindHole",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_WindHole",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_WindHole",
+            "poise": "LV7/100"
+        },
+        {
+            "element": "Wind",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/5"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "For 5s after Shikanoin Heizou takes the field, his Normal Attack SPD is increased by 15%. He also gains 1 Declension stack for <color=#FFD780FF>Heartstopper Strike</color>. This effect can be triggered once every 10s.",
+            "icon": "UI_Talent_S_Heizo_01",
+            "name": "Named Juvenile Casebook"
+        },
+        "const2": {
+            "description": "The pull effect of the Arresting Windtunnel created by <color=#FFD780FF>Windmuster Kick</color> is enhanced, and its duration is increased to 1s.",
+            "icon": "UI_Talent_S_Heizo_02",
+            "name": "Investigative Collection"
+        },
+        "const3": {
+            "description": "Increases the Level of <color=#FFD780FF>Heartstopper Strike</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Heizo_01",
+            "name": "Esoteric Puzzle Book"
+        },
+        "const4": {
+            "description": "The first Windmuster Iris explosion in each <color=#FFD780FF>Windmuster Kick</color> will regenerate 9 Elemental Energy for Shikanoin Heizou. Every subsequent explosion in that Windmuster Kick will each regenerate an additional 1.5 Energy for Heizou.\\nOne <color=#FFD780FF>Windmuster Kick</color> can regenerate a total of 13.5 Energy for Heizou in this manner.",
+            "icon": "UI_Talent_S_Heizo_03",
+            "name": "Tome of Lies"
+        },
+        "const5": {
+            "description": "Increases the Level of <color=#FFD780FF>Windmuster Kick</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Heizo_02",
+            "name": "Secret Archive"
+        },
+        "const6": {
+            "description": "Each Declension stack will increase the CRIT Rate of the <color=#FFD780FF>Heartstopper Strike</color> unleashed by 4%. When Heizou possesses Conviction, this Heartstopper Strike's CRIT DMG is increased by 32%.",
+            "icon": "UI_Talent_S_Heizo_04",
+            "name": "Curious Casefiles"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.2s",
+            "chance": "100%",
+            "particles": "2",
+            "source": "ElementalArt_ElementalBall"
+        },
+        {
+            "cd": "0.2s",
+            "chance": "50%",
+            "particles": "1",
+            "source": "ElementalArt_ElementalBall"
+        },
+        {
+            "cd": "0.2s",
+            "chance": "50%",
+            "particles": "1",
+            "source": "ElementalArt_ElementalBall"
+        },
+        {
+            "cd": "0.2s",
+            "chance": "100%",
+            "particles": "1",
+            "source": "ElementalArt_ElementalBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Heizo",
+        "forward": "UI_AvatarIcon_Heizo"
+    },
+    "info": {
+        "attributes": [
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 57,
+                "hp": 894,
+                "level": 1
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 62,
+                "hp": 968,
+                "level": 2
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 67,
+                "hp": 1041,
+                "level": 3
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 72,
+                "hp": 1115,
+                "level": 4
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 76,
+                "hp": 1188,
+                "level": 5
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 81,
+                "hp": 1263,
+                "level": 6
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 86,
+                "hp": 1336,
+                "level": 7
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 90,
+                "hp": 1410,
+                "level": 8
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 95,
+                "hp": 1484,
+                "level": 9
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 100,
+                "hp": 1557,
+                "level": 10
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 105,
+                "hp": 1632,
+                "level": 11
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 109,
+                "hp": 1705,
+                "level": 12
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 114,
+                "hp": 1779,
+                "level": 13
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 119,
+                "hp": 1852,
+                "level": 14
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 124,
+                "hp": 1927,
+                "level": 15
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 128,
+                "hp": 2001,
+                "level": 16
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 133,
+                "hp": 2074,
+                "level": 17
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 45,
+                "def": 138,
+                "hp": 2148,
+                "level": 18
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 47,
+                "def": 143,
+                "hp": 2221,
+                "level": 19
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 0,
+                "atk": 48,
+                "def": 147,
+                "hp": 2296,
+                "level": 20
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 64,
+                "def": 195,
+                "hp": 3036,
+                "level": 21
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 66,
+                "def": 200,
+                "hp": 3111,
+                "level": 22
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 67,
+                "def": 204,
+                "hp": 3185,
+                "level": 23
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 69,
+                "def": 209,
+                "hp": 3258,
+                "level": 24
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 70,
+                "def": 214,
+                "hp": 3332,
+                "level": 25
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 72,
+                "def": 219,
+                "hp": 3405,
+                "level": 26
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 74,
+                "def": 223,
+                "hp": 3480,
+                "level": 27
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 75,
+                "def": 228,
+                "hp": 3553,
+                "level": 28
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 77,
+                "def": 233,
+                "hp": 3627,
+                "level": 29
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 78,
+                "def": 237,
+                "hp": 3700,
+                "level": 30
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 80,
+                "def": 242,
+                "hp": 3774,
+                "level": 31
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 81,
+                "def": 247,
+                "hp": 3849,
+                "level": 32
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 83,
+                "def": 252,
+                "hp": 3922,
+                "level": 33
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 84,
+                "def": 256,
+                "hp": 3996,
+                "level": 34
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 86,
+                "def": 261,
+                "hp": 4069,
+                "level": 35
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 88,
+                "def": 266,
+                "hp": 4143,
+                "level": 36
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 89,
+                "def": 271,
+                "hp": 4217,
+                "level": 37
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 91,
+                "def": 275,
+                "hp": 4291,
+                "level": 38
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 92,
+                "def": 280,
+                "hp": 4365,
+                "level": 39
+            },
+            {
+                "Anemo%": "0",
+                "ascension": 1,
+                "atk": 94,
+                "def": 285,
+                "hp": 4438,
+                "level": 40
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 105,
+                "def": 320,
+                "hp": 4987,
+                "level": 41
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 107,
+                "def": 325,
+                "hp": 5060,
+                "level": 42
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 108,
+                "def": 329,
+                "hp": 5134,
+                "level": 43
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 110,
+                "def": 334,
+                "hp": 5208,
+                "level": 44
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 112,
+                "def": 339,
+                "hp": 5282,
+                "level": 45
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 113,
+                "def": 344,
+                "hp": 5356,
+                "level": 46
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 115,
+                "def": 348,
+                "hp": 5429,
+                "level": 47
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 116,
+                "def": 353,
+                "hp": 5503,
+                "level": 48
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 118,
+                "def": 358,
+                "hp": 5577,
+                "level": 49
+            },
+            {
+                "Anemo%": "6",
+                "ascension": 2,
+                "atk": 119,
+                "def": 363,
+                "hp": 5651,
+                "level": 50
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 134,
+                "def": 408,
+                "hp": 6356,
+                "level": 51
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 136,
+                "def": 413,
+                "hp": 6431,
+                "level": 52
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 137,
+                "def": 417,
+                "hp": 6505,
+                "level": 53
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 139,
+                "def": 422,
+                "hp": 6578,
+                "level": 54
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 141,
+                "def": 427,
+                "hp": 6652,
+                "level": 55
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 142,
+                "def": 432,
+                "hp": 6725,
+                "level": 56
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 144,
+                "def": 436,
+                "hp": 6800,
+                "level": 57
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 145,
+                "def": 441,
+                "hp": 6873,
+                "level": 58
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 147,
+                "def": 446,
+                "hp": 6947,
+                "level": 59
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 3,
+                "atk": 148,
+                "def": 451,
+                "hp": 7021,
+                "level": 60
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 160,
+                "def": 486,
+                "hp": 7569,
+                "level": 61
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 161,
+                "def": 490,
+                "hp": 7643,
+                "level": 62
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 163,
+                "def": 495,
+                "hp": 7716,
+                "level": 63
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 165,
+                "def": 500,
+                "hp": 7790,
+                "level": 64
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 166,
+                "def": 505,
+                "hp": 7864,
+                "level": 65
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 168,
+                "def": 509,
+                "hp": 7938,
+                "level": 66
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 169,
+                "def": 514,
+                "hp": 8012,
+                "level": 67
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 171,
+                "def": 519,
+                "hp": 8085,
+                "level": 68
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 172,
+                "def": 524,
+                "hp": 8159,
+                "level": 69
+            },
+            {
+                "Anemo%": "12",
+                "ascension": 4,
+                "atk": 174,
+                "def": 528,
+                "hp": 8233,
+                "level": 70
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 186,
+                "def": 563,
+                "hp": 8781,
+                "level": 71
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 187,
+                "def": 568,
+                "hp": 8854,
+                "level": 72
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 189,
+                "def": 573,
+                "hp": 8929,
+                "level": 73
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 190,
+                "def": 578,
+                "hp": 9003,
+                "level": 74
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 192,
+                "def": 582,
+                "hp": 9076,
+                "level": 75
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 193,
+                "def": 587,
+                "hp": 9150,
+                "level": 76
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 195,
+                "def": 592,
+                "hp": 9223,
+                "level": 77
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 196,
+                "def": 597,
+                "hp": 9298,
+                "level": 78
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 198,
+                "def": 601,
+                "hp": 9371,
+                "level": 79
+            },
+            {
+                "Anemo%": "18",
+                "ascension": 5,
+                "atk": 200,
+                "def": 606,
+                "hp": 9445,
+                "level": 80
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 211,
+                "def": 641,
+                "hp": 9994,
+                "level": 81
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 213,
+                "def": 646,
+                "hp": 10067,
+                "level": 82
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 214,
+                "def": 651,
+                "hp": 10141,
+                "level": 83
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 216,
+                "def": 655,
+                "hp": 10214,
+                "level": 84
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 217,
+                "def": 660,
+                "hp": 10288,
+                "level": 85
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 219,
+                "def": 665,
+                "hp": 10362,
+                "level": 86
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 220,
+                "def": 670,
+                "hp": 10436,
+                "level": 87
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 222,
+                "def": 674,
+                "hp": 10509,
+                "level": 88
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 224,
+                "def": 679,
+                "hp": 10583,
+                "level": 89
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 225,
+                "def": 684,
+                "hp": 10657,
+                "level": 90
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 254,
+                "def": 708,
+                "hp": 11026,
+                "level": 95
+            },
+            {
+                "Anemo%": "24",
+                "ascension": 6,
+                "atk": 283,
+                "def": 731,
+                "hp": 11395,
+                "level": 100
+            }
+        ],
+        "birthday": "July 24th",
+        "constellation": "Cervus Minor",
+        "description": "A young prodigy detective from the Tenryou Commission. His senses are sharp and his thoughts are clear.",
+        "element": "Anemo",
+        "name": "Shikanoin Heizou",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_CATALYST"
+    },
+    "passives": {
+        "p1": {
+            "description": "When Shikanoin Heizou activates a Swirl reaction while on the field, he will gain 1 Declension stack for <color=#FFD780FF>Heartstopper Strike</color>. This effect can be triggered once every 0.1s.",
+            "icon": "UI_Talent_S_Heizo_05",
+            "name": "Paradoxical Practice"
+        },
+        "p2": {
+            "description": "After Shikanoin Heizou's <color=#FFD780FF>Heartstopper Strike</color> hits an opponent, increases all party members' (excluding Shikanoin Heizou) Elemental Mastery by 80 for 10s.",
+            "icon": "UI_Talent_S_Heizo_06",
+            "name": "Penetrative Reasoning"
+        },
+        "p3": {
+            "description": "Decreases sprinting Stamina consumption for your own party members by 20%.\\nNot stackable with Passive Talents that provide the exact same effects.",
+            "icon": "UI_Talent_Explosion_Sprint",
+            "name": "Pre-Existing Guilt"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Leaps into the air and uses the Fudou Style Vacuum Slugger and kicks his opponent. The Vacuum Slugger will explode upon hit and create an Arresting Windtunnel that pulls in nearby objects and opponents, dealing <color=#80FFD7FF>AoE Anemo DMG</color>.\\nWhen Vacuum Slugger hits opponents affected by <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color>, these opponents will be afflicted with Windmuster Iris. This Windmuster Iris will explode after a moment and dissipate, dealing AoE DMG of the corresponding aforementioned elemental type.\\nVacuum Slugger can afflict a maximum of 4 opponents with the Windmuster Iris. A single opponent cannot be under the effect of Windmuster Irises of different elements at the same time.\\n\\n<i>A unique technique that gathers Anemo in one place before unleashing it all in one kick. Is always there in a pinch to land on some criminal's fleeing back.</i>",
+            "icon": "Skill_E_Heizo_01",
+            "multipliers": {
+                "CD": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "Energy Cost": [
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40",
+                    "40"
+                ],
+                "Fudou Style Vacuum Slugger DMG": [
+                    "314.69%",
+                    "338.29%",
+                    "361.89%",
+                    "393.36%",
+                    "416.96%",
+                    "440.56%",
+                    "472.03%",
+                    "503.5%",
+                    "534.97%",
+                    "566.44%",
+                    "597.91%",
+                    "629.38%",
+                    "668.71%",
+                    "708.05%",
+                    "747.38%"
+                ],
+                "Windmuster Iris DMG": [
+                    "21.46%",
+                    "23.07%",
+                    "24.67%",
+                    "26.82%",
+                    "28.43%",
+                    "30.04%",
+                    "32.18%",
+                    "34.33%",
+                    "36.48%",
+                    "38.62%",
+                    "40.77%",
+                    "42.91%",
+                    "45.59%",
+                    "48.28%",
+                    "50.96%"
+                ]
+            },
+            "name": "Windmuster Kick"
+        },
+        "elementalskill": {
+            "description": "<color=#FFD780FF>Tap</color>\\nWields the swift winds to launch a Heartstopper Strike that deals <color=#80FFD7FF>Anemo DMG</color>.\\n\\n<color=#FFD780FF>Hold</color>\\nCharges energy to unleash an even stronger blow. He will obtain the Declension effect while charging, which will increase the power of the Heartstopper Strike. When the skill button is released or the skill finishes charging, he will strike forward, dealing <color=#80FFD7FF>Anemo DMG</color>.\\n\\n<color=#FFD780FF>Declension</color>\\nIncreases the power of the next Heartstopper Strike. Max 4 stacks.\\nWhen you possess 4 Declension stacks, the Conviction effect will be produced, which will cause the next Heartstopper Strike to be even stronger and have a larger AoE.\\n\\n<i>This seemingly ordinary strike contains Heizou's desire for criminals to honestly confess and repent.</i>",
+            "icon": "Skill_S_Heizo_01",
+            "multipliers": {
+                "CD": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ],
+                "Conviction DMG Bonus": [
+                    "113.76%",
+                    "122.29%",
+                    "130.82%",
+                    "142.2%",
+                    "150.73%",
+                    "159.26%",
+                    "170.64%",
+                    "182.02%",
+                    "193.39%",
+                    "204.77%",
+                    "216.14%",
+                    "227.52%",
+                    "241.74%",
+                    "255.96%",
+                    "270.18%"
+                ],
+                "Declension DMG Bonus": [
+                    "56.88%/stack",
+                    "61.15%/stack",
+                    "65.41%/stack",
+                    "71.1%/stack",
+                    "75.37%/stack",
+                    "79.63%/stack",
+                    "85.32%/stack",
+                    "91.01%/stack",
+                    "96.7%/stack",
+                    "102.38%/stack",
+                    "108.07%/stack",
+                    "113.76%/stack",
+                    "120.87%/stack",
+                    "127.98%/stack",
+                    "135.09%/stack"
+                ],
+                "Declension Duration": [
+                    "60s",
+                    "60s",
+                    "60s",
+                    "60s",
+                    "60s",
+                    "60s",
+                    "60s",
+                    "60s",
+                    "60s",
+                    "60s",
+                    "60s",
+                    "60s",
+                    "60s",
+                    "60s",
+                    "60s"
+                ],
+                "Skill DMG": [
+                    "227.52%",
+                    "244.58%",
+                    "261.65%",
+                    "284.4%",
+                    "301.46%",
+                    "318.53%",
+                    "341.28%",
+                    "364.03%",
+                    "386.78%",
+                    "409.54%",
+                    "432.29%",
+                    "455.04%",
+                    "483.48%",
+                    "511.92%",
+                    "540.36%"
+                ]
+            },
+            "name": "Heartstopper Strike"
+        },
+        "leveling": {
+            "books": {
+                "104320": 9,
+                "104321": 63,
+                "104322": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113034": 18
+            },
+            "worldmonster": {
+                "112035": 18,
+                "112036": 66,
+                "112037": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 5 fisticuffs empowered by a mighty wind, dealing <color=#80FFD7FF>Anemo DMG</color>.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina and performs a sweeping kick that deals <color=#80FFD7FF>Anemo DMG</color>.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nCalling upon the surging wind, Heizou plunges towards the ground from mid-air, damaging all opponents in his path. Deals <color=#80FFD7FF>AoE Anemo DMG</color> upon impact with the ground.",
+            "icon": "Skill_A_Catalyst_MD",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "37.47%",
+                    "40.28%",
+                    "43.09%",
+                    "46.84%",
+                    "49.65%",
+                    "52.46%",
+                    "56.21%",
+                    "59.96%",
+                    "63.71%",
+                    "67.45%",
+                    "71.2%",
+                    "74.95%",
+                    "79.63%",
+                    "84.32%",
+                    "89%"
+                ],
+                "2-Hit DMG": [
+                    "36.85%",
+                    "39.62%",
+                    "42.38%",
+                    "46.06%",
+                    "48.83%",
+                    "51.59%",
+                    "55.28%",
+                    "58.96%",
+                    "62.65%",
+                    "66.33%",
+                    "70.02%",
+                    "73.7%",
+                    "78.31%",
+                    "82.92%",
+                    "87.52%"
+                ],
+                "3-Hit DMG": [
+                    "51.06%",
+                    "54.89%",
+                    "58.72%",
+                    "63.82%",
+                    "67.65%",
+                    "71.48%",
+                    "76.59%",
+                    "81.7%",
+                    "86.8%",
+                    "91.91%",
+                    "97.01%",
+                    "102.12%",
+                    "108.5%",
+                    "114.88%",
+                    "121.27%"
+                ],
+                "4-Hit DMG": [
+                    "14.78%+16.26%+19.22%",
+                    "15.89%+17.48%+20.66%",
+                    "17%+18.7%+22.1%",
+                    "18.48%+20.33%+24.02%",
+                    "19.59%+21.55%+25.46%",
+                    "20.7%+22.77%+26.9%",
+                    "22.17%+24.39%+28.83%",
+                    "23.65%+26.02%+30.75%",
+                    "25.13%+27.64%+32.67%",
+                    "26.61%+29.27%+34.59%",
+                    "28.09%+30.9%+36.51%",
+                    "29.56%+32.52%+38.44%",
+                    "31.41%+34.55%+40.84%",
+                    "33.26%+36.59%+43.24%",
+                    "35.11%+38.62%+45.64%"
+                ],
+                "5-Hit DMG": [
+                    "61.45%",
+                    "66.06%",
+                    "70.67%",
+                    "76.81%",
+                    "81.42%",
+                    "86.03%",
+                    "92.17%",
+                    "98.32%",
+                    "104.46%",
+                    "110.61%",
+                    "116.75%",
+                    "122.9%",
+                    "130.58%",
+                    "138.26%",
+                    "145.94%"
+                ],
+                "Charged Attack": [
+                    "73%",
+                    "78.47%",
+                    "83.95%",
+                    "91.25%",
+                    "96.72%",
+                    "102.2%",
+                    "109.5%",
+                    "116.8%",
+                    "124.1%",
+                    "131.4%",
+                    "138.7%",
+                    "146%",
+                    "155.12%",
+                    "164.25%",
+                    "173.37%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25"
+                ],
+                "Low/High Plunge DMG": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "Plunge DMG": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ]
+            },
+            "name": "Fudou Style Martial Arts"
+        }
+    }
+}

@@ -1,0 +1,1422 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104151": 1,
+            "104152": 9,
+            "104153": 9,
+            "104154": 6
+        },
+        "elitemonster": {
+            "113078": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101257": 168
+        },
+        "worldmonster": {
+            "112122": 18,
+            "112123": 30,
+            "112124": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "Bullet_ShootArrow_Enchanted_WithoutWind",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "Bullet_ShootArrow_Enchanted_WithWind",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt",
+            "poise": "LV3/80"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Second_Attack",
+            "poise": "LV3/80"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Second_Attack",
+            "poise": "LV3/120"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "Bullet_ElementalArt_Attack",
+            "poise": "LV2/35"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "Bullet_ElementalArt_Attack",
+            "poise": "LV2/35"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "Bullet_ElementalArt_Attack",
+            "poise": "LV2/35"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "Bullet_ElementalArt_Attack",
+            "poise": "LV2/35"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "2 hits / 15s",
+            "icd_source": "Tag: Jahoda_Constellation_1",
+            "name": "Bullet_ElementalArt_Attack",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "2 hits / 15s",
+            "icd_source": "Tag: Jahoda_Constellation_1",
+            "name": "Bullet_ElementalArt_Attack",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "2 hits / 15s",
+            "icd_source": "Tag: Jahoda_Constellation_1",
+            "name": "Bullet_ElementalArt_Attack",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "2 hits / 15s",
+            "icd_source": "Tag: Jahoda_Constellation_1",
+            "name": "Bullet_ElementalArt_Attack",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 15s",
+            "icd_source": "Tag: Jahoda_ElementBurst",
+            "name": "ElementalBurst",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 15s",
+            "icd_source": "Tag: Jahoda_ElementBurst",
+            "name": "ElementalBurst",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 15s",
+            "icd_source": "Tag: Jahoda_ElementBurst",
+            "name": "ElementalBurst",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 15s",
+            "icd_source": "Tag: Jahoda_ElementBurst",
+            "name": "ElementalBurst",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 15s",
+            "icd_source": "Tag: Jahoda_ElementBurst",
+            "name": "ElementalBurst",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Ice",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 15s",
+            "icd_source": "Tag: Jahoda_ElementBurst",
+            "name": "ElementalBurst",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 15s",
+            "icd_source": "Tag: Jahoda_ElementBurst",
+            "name": "ElementalBurst",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 15s",
+            "icd_source": "Tag: Jahoda_ElementBurst",
+            "name": "ElementalBurst",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Wind",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV2/120"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Quando as <color=#FFD780FF>Bolas Miaufinhas</color> de {LINK#N11240001}<color=#FFD780FF>Garrafa Secreta Ronron</color>{/LINK} da Habilidade Elemental <color=#FFD780FF>Estratagema Impressionante: Plano de Redistribuição de Riqueza</color> atingem um inimigo, possuem 50% de chance de ricochetear, causando Dano Elemental correspondente contra os inimigos próximos.",
+            "icon": "UI_Talent_S_Jahoda_03",
+            "name": "Mais Uma Garrafa!"
+        },
+        "const2": {
+            "description": "<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>: no Talento de Ascensão {LINK#P1242101}<color=#FFD780FF>Plano de Recompensas</color>{/LINK}, Jahoda pode registrar secretamente, além do Elemento com maior número de personagens, o Elemento com maior número de personagens em seguida dentre os Tipos Elementais restantes, permitindo com que até dois efeitos Elementais estejam ativos simultaneamente. É necessário desbloquear o Talento de Ascensão \"Plano de Recompensas\" primeiro.",
+            "icon": "UI_Talent_S_Jahoda_02",
+            "name": "Pensamento Rápido da Ladra"
+        },
+        "const3": {
+            "description": "Aumenta o nível do Supremo <color=#FFD780FF>{LINK#S11245}Dispositivo Secreto: Sete Itens do Caçador{/LINK}</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Jahoda_01",
+            "name": "Aposta Desesperada"
+        },
+        "const4": {
+            "description": "Quando os {LINK#N11240002}<color=#FFD780FF>Coordenadores Felino de Assistência Doméstica</color>{/LINK} do Supremo <color=#FFD780FF>Dispositivo Secreto: Sete Itens do Caçador</color> passarem por Conversão Elemental, regenera 4 de Energia Elemental para Jahoda.",
+            "icon": "UI_Talent_S_Jahoda_01",
+            "name": "Frutas Selvagens na Poeira"
+        },
+        "const5": {
+            "description": "Aumenta o nível da Habilidade Elemental <color=#FFD780FF>{LINK#S11242}Plano de Redistribuição de Riqueza{/LINK}</color> em 3 níveis. \\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Jahoda_02",
+            "name": "O Maior Tesouro"
+        },
+        "const6": {
+            "description": "<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>: nos 20s depois de a {LINK#N11240001}<color=#FFD780FF>Garrafa Secreta Ronron</color>{/LINK} da Habilidade Elemental <color=#FFD780FF>Estratagema Impressionante: Plano de Redistribuição de Riqueza</color> encher, aumenta a Taxa CRIT dos personagens de Presságio Lunar próximos em 5% e o Dano CRIT em 40%.",
+            "icon": "UI_Talent_S_Jahoda_04",
+            "name": "A Menor Sorte"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.5s",
+            "chance": "100%",
+            "particles": "4",
+            "source": "ElementalBall_GenerateEnergy"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Jahoda",
+        "forward": "UI_AvatarIcon_Jahoda"
+    },
+    "info": {
+        "attributes": [
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 49,
+                "hp": 809,
+                "level": 1
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 53,
+                "hp": 876,
+                "level": 2
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 57,
+                "hp": 942,
+                "level": 3
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 23,
+                "def": 61,
+                "hp": 1009,
+                "level": 4
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 65,
+                "hp": 1076,
+                "level": 5
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 69,
+                "hp": 1143,
+                "level": 6
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 73,
+                "hp": 1209,
+                "level": 7
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 77,
+                "hp": 1276,
+                "level": 8
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 81,
+                "hp": 1343,
+                "level": 9
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 85,
+                "hp": 1410,
+                "level": 10
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 89,
+                "hp": 1477,
+                "level": 11
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 93,
+                "hp": 1543,
+                "level": 12
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 97,
+                "hp": 1610,
+                "level": 13
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 101,
+                "hp": 1677,
+                "level": 14
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 40,
+                "def": 105,
+                "hp": 1744,
+                "level": 15
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 109,
+                "hp": 1811,
+                "level": 16
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 43,
+                "def": 113,
+                "hp": 1877,
+                "level": 17
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 45,
+                "def": 117,
+                "hp": 1944,
+                "level": 18
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 46,
+                "def": 121,
+                "hp": 2011,
+                "level": 19
+            },
+            {
+                "Healing%": "0",
+                "ascension": 0,
+                "atk": 48,
+                "def": 125,
+                "hp": 2078,
+                "level": 20
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 64,
+                "def": 165,
+                "hp": 2748,
+                "level": 21
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 65,
+                "def": 169,
+                "hp": 2815,
+                "level": 22
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 67,
+                "def": 173,
+                "hp": 2882,
+                "level": 23
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 68,
+                "def": 177,
+                "hp": 2949,
+                "level": 24
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 70,
+                "def": 181,
+                "hp": 3016,
+                "level": 25
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 185,
+                "hp": 3082,
+                "level": 26
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 73,
+                "def": 189,
+                "hp": 3149,
+                "level": 27
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 74,
+                "def": 193,
+                "hp": 3216,
+                "level": 28
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 76,
+                "def": 197,
+                "hp": 3283,
+                "level": 29
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 77,
+                "def": 201,
+                "hp": 3349,
+                "level": 30
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 79,
+                "def": 205,
+                "hp": 3416,
+                "level": 31
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 81,
+                "def": 210,
+                "hp": 3483,
+                "level": 32
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 82,
+                "def": 213,
+                "hp": 3550,
+                "level": 33
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 84,
+                "def": 218,
+                "hp": 3617,
+                "level": 34
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 85,
+                "def": 222,
+                "hp": 3683,
+                "level": 35
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 87,
+                "def": 226,
+                "hp": 3750,
+                "level": 36
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 88,
+                "def": 230,
+                "hp": 3817,
+                "level": 37
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 90,
+                "def": 234,
+                "hp": 3884,
+                "level": 38
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 91,
+                "def": 238,
+                "hp": 3951,
+                "level": 39
+            },
+            {
+                "Healing%": "0",
+                "ascension": 1,
+                "atk": 93,
+                "def": 242,
+                "hp": 4017,
+                "level": 40
+            },
+            {
+                "Healing%": "4.6",
+                "ascension": 2,
+                "atk": 104,
+                "def": 271,
+                "hp": 4514,
+                "level": 41
+            },
+            {
+                "Healing%": "4.6",
+                "ascension": 2,
+                "atk": 106,
+                "def": 275,
+                "hp": 4580,
+                "level": 42
+            },
+            {
+                "Healing%": "4.6",
+                "ascension": 2,
+                "atk": 107,
+                "def": 279,
+                "hp": 4647,
+                "level": 43
+            },
+            {
+                "Healing%": "4.6",
+                "ascension": 2,
+                "atk": 109,
+                "def": 283,
+                "hp": 4713,
+                "level": 44
+            },
+            {
+                "Healing%": "4.6",
+                "ascension": 2,
+                "atk": 111,
+                "def": 288,
+                "hp": 4780,
+                "level": 45
+            },
+            {
+                "Healing%": "4.6",
+                "ascension": 2,
+                "atk": 112,
+                "def": 292,
+                "hp": 4848,
+                "level": 46
+            },
+            {
+                "Healing%": "4.6",
+                "ascension": 2,
+                "atk": 114,
+                "def": 296,
+                "hp": 4914,
+                "level": 47
+            },
+            {
+                "Healing%": "4.6",
+                "ascension": 2,
+                "atk": 115,
+                "def": 300,
+                "hp": 4981,
+                "level": 48
+            },
+            {
+                "Healing%": "4.6",
+                "ascension": 2,
+                "atk": 117,
+                "def": 304,
+                "hp": 5047,
+                "level": 49
+            },
+            {
+                "Healing%": "4.6",
+                "ascension": 2,
+                "atk": 118,
+                "def": 308,
+                "hp": 5114,
+                "level": 50
+            },
+            {
+                "Healing%": "9.2",
+                "ascension": 3,
+                "atk": 133,
+                "def": 346,
+                "hp": 5753,
+                "level": 51
+            },
+            {
+                "Healing%": "9.2",
+                "ascension": 3,
+                "atk": 135,
+                "def": 350,
+                "hp": 5820,
+                "level": 52
+            },
+            {
+                "Healing%": "9.2",
+                "ascension": 3,
+                "atk": 136,
+                "def": 354,
+                "hp": 5887,
+                "level": 53
+            },
+            {
+                "Healing%": "9.2",
+                "ascension": 3,
+                "atk": 138,
+                "def": 358,
+                "hp": 5954,
+                "level": 54
+            },
+            {
+                "Healing%": "9.2",
+                "ascension": 3,
+                "atk": 139,
+                "def": 362,
+                "hp": 6021,
+                "level": 55
+            },
+            {
+                "Healing%": "9.2",
+                "ascension": 3,
+                "atk": 141,
+                "def": 366,
+                "hp": 6087,
+                "level": 56
+            },
+            {
+                "Healing%": "9.2",
+                "ascension": 3,
+                "atk": 142,
+                "def": 370,
+                "hp": 6154,
+                "level": 57
+            },
+            {
+                "Healing%": "9.2",
+                "ascension": 3,
+                "atk": 144,
+                "def": 374,
+                "hp": 6221,
+                "level": 58
+            },
+            {
+                "Healing%": "9.2",
+                "ascension": 3,
+                "atk": 145,
+                "def": 378,
+                "hp": 6288,
+                "level": 59
+            },
+            {
+                "Healing%": "9.2",
+                "ascension": 3,
+                "atk": 147,
+                "def": 382,
+                "hp": 6355,
+                "level": 60
+            },
+            {
+                "Healing%": "9.2",
+                "ascension": 4,
+                "atk": 158,
+                "def": 412,
+                "hp": 6850,
+                "level": 61
+            },
+            {
+                "Healing%": "9.2",
+                "ascension": 4,
+                "atk": 160,
+                "def": 416,
+                "hp": 6918,
+                "level": 62
+            },
+            {
+                "Healing%": "9.2",
+                "ascension": 4,
+                "atk": 161,
+                "def": 420,
+                "hp": 6984,
+                "level": 63
+            },
+            {
+                "Healing%": "9.2",
+                "ascension": 4,
+                "atk": 163,
+                "def": 424,
+                "hp": 7051,
+                "level": 64
+            },
+            {
+                "Healing%": "9.2",
+                "ascension": 4,
+                "atk": 165,
+                "def": 428,
+                "hp": 7117,
+                "level": 65
+            },
+            {
+                "Healing%": "9.2",
+                "ascension": 4,
+                "atk": 166,
+                "def": 432,
+                "hp": 7185,
+                "level": 66
+            },
+            {
+                "Healing%": "9.2",
+                "ascension": 4,
+                "atk": 168,
+                "def": 436,
+                "hp": 7252,
+                "level": 67
+            },
+            {
+                "Healing%": "9.2",
+                "ascension": 4,
+                "atk": 169,
+                "def": 440,
+                "hp": 7318,
+                "level": 68
+            },
+            {
+                "Healing%": "9.2",
+                "ascension": 4,
+                "atk": 171,
+                "def": 444,
+                "hp": 7385,
+                "level": 69
+            },
+            {
+                "Healing%": "9.2",
+                "ascension": 4,
+                "atk": 172,
+                "def": 448,
+                "hp": 7451,
+                "level": 70
+            },
+            {
+                "Healing%": "13.9",
+                "ascension": 5,
+                "atk": 184,
+                "def": 478,
+                "hp": 7948,
+                "level": 71
+            },
+            {
+                "Healing%": "13.9",
+                "ascension": 5,
+                "atk": 185,
+                "def": 482,
+                "hp": 8014,
+                "level": 72
+            },
+            {
+                "Healing%": "13.9",
+                "ascension": 5,
+                "atk": 187,
+                "def": 486,
+                "hp": 8081,
+                "level": 73
+            },
+            {
+                "Healing%": "13.9",
+                "ascension": 5,
+                "atk": 188,
+                "def": 490,
+                "hp": 8148,
+                "level": 74
+            },
+            {
+                "Healing%": "13.9",
+                "ascension": 5,
+                "atk": 190,
+                "def": 494,
+                "hp": 8215,
+                "level": 75
+            },
+            {
+                "Healing%": "13.9",
+                "ascension": 5,
+                "atk": 191,
+                "def": 498,
+                "hp": 8282,
+                "level": 76
+            },
+            {
+                "Healing%": "13.9",
+                "ascension": 5,
+                "atk": 193,
+                "def": 502,
+                "hp": 8348,
+                "level": 77
+            },
+            {
+                "Healing%": "13.9",
+                "ascension": 5,
+                "atk": 195,
+                "def": 506,
+                "hp": 8415,
+                "level": 78
+            },
+            {
+                "Healing%": "13.9",
+                "ascension": 5,
+                "atk": 196,
+                "def": 510,
+                "hp": 8482,
+                "level": 79
+            },
+            {
+                "Healing%": "13.9",
+                "ascension": 5,
+                "atk": 198,
+                "def": 514,
+                "hp": 8549,
+                "level": 80
+            },
+            {
+                "Healing%": "18.5",
+                "ascension": 6,
+                "atk": 209,
+                "def": 544,
+                "hp": 9045,
+                "level": 81
+            },
+            {
+                "Healing%": "18.5",
+                "ascension": 6,
+                "atk": 211,
+                "def": 548,
+                "hp": 9111,
+                "level": 82
+            },
+            {
+                "Healing%": "18.5",
+                "ascension": 6,
+                "atk": 212,
+                "def": 552,
+                "hp": 9179,
+                "level": 83
+            },
+            {
+                "Healing%": "18.5",
+                "ascension": 6,
+                "atk": 214,
+                "def": 556,
+                "hp": 9245,
+                "level": 84
+            },
+            {
+                "Healing%": "18.5",
+                "ascension": 6,
+                "atk": 215,
+                "def": 560,
+                "hp": 9312,
+                "level": 85
+            },
+            {
+                "Healing%": "18.5",
+                "ascension": 6,
+                "atk": 217,
+                "def": 564,
+                "hp": 9378,
+                "level": 86
+            },
+            {
+                "Healing%": "18.5",
+                "ascension": 6,
+                "atk": 218,
+                "def": 568,
+                "hp": 9445,
+                "level": 87
+            },
+            {
+                "Healing%": "18.5",
+                "ascension": 6,
+                "atk": 220,
+                "def": 572,
+                "hp": 9512,
+                "level": 88
+            },
+            {
+                "Healing%": "18.5",
+                "ascension": 6,
+                "atk": 221,
+                "def": 576,
+                "hp": 9579,
+                "level": 89
+            },
+            {
+                "Healing%": "18.5",
+                "ascension": 6,
+                "atk": 223,
+                "def": 580,
+                "hp": 9646,
+                "level": 90
+            },
+            {
+                "Healing%": "18.5",
+                "ascension": 6,
+                "atk": 251,
+                "def": 600,
+                "hp": 9979,
+                "level": 95
+            },
+            {
+                "Healing%": "18.5",
+                "ascension": 6,
+                "atk": 280,
+                "def": 620,
+                "hp": 10313,
+                "level": 100
+            }
+        ],
+        "birthday": "January 5th",
+        "constellation": "Fragum",
+        "description": "A faz-tudo extremamente confiável (segundo ela) da Curadoria dos Segredos.",
+        "element": "Anemo",
+        "name": "Jahoda",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_BOW"
+    },
+    "passives": {
+        "p1": {
+            "description": "Quando a equipe possui pelo menos um personagem <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color> ou <color=#99FFFFFF>Cryo</color>, fortalece o {LINK#N11240002}<color=#FFD780FF>Coordenador Felino de Assistência Doméstica</color>{/LINK} do Supremo <color=#FFD780FF>Dispositivo Secreto: Sete Itens do Caçador</color> de acordo com a quantidade de personagens do Tipo Elemental correspondente.\\nJahoda secretamente registra o número de personagens dos Tipos Elementais acima. Se o número de personagens do maior Tipo Elemental for:\\n· <color=#FF9999FF>Pyro</color>: aumenta o Dano original de <color=#FFD780FF>Coordenador Felino de Assistência Doméstica</color> em 130%.\\n· <color=#80C0FFFF>Hydro</color>: aumenta a Cura original de <color=#FFD780FF>Coordenador Felino de Assistência Doméstica</color> em 120%.\\n· <color=#FFACFFFF>Electro</color>: aumenta os usos de <color=#FFD780FF>Coordenador Felino de Assistência Doméstica</color> em 1.\\n· <color=#99FFFFFF>Cryo</color>: diminui o intervalo do ataque de <color=#FFD780FF>Coordenador Felino de Assistência Doméstica</color> em 10%.\\n\\nSe o número de personagens dos Tipos Elementais acima forem iguais, registrará seguindo a ordem <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color> e <color=#99FFFFFF>Cryo</color>. Inicialmente só é possível possuir o efeito correspondente a um Tipo Elemental.",
+            "icon": "UI_Talent_S_Jahoda_05",
+            "name": "Plano de Recompensas"
+        },
+        "p2": {
+            "description": "Quando {LINK#N11240002}<color=#FFD780FF>Coordenador Felino de Assistência Doméstica</color>{/LINK} do Supremo <color=#FFD780FF>Dispositivo Secreto: Sete Itens do Caçador</color> cura o personagem ativo, se o personagem curado tiver mais de 70% de Vida, aumenta sua Proficiência Elemental em 100 por 6s.",
+            "icon": "UI_Talent_S_Jahoda_06",
+            "name": "Recompensa Frutada Doce"
+        },
+        "p3": {
+            "description": "Quando Jahoda está na equipe, aumenta o nível de <color=#FFD780FF>Presságio Lunar</color> da equipe em 1 nível.",
+            "icon": "UI_Talent_S_Jahoda_07",
+            "name": "Bênção do Presságio Lunar: Corrida pelos Telhados"
+        },
+        "p4": {
+            "description": "Quando despachada em uma expedição em Nod-Krai, o tempo consumido é reduzido em 25%\n\\nAlém disso, como empregada da Curadoria dos Segredos, Jahoda parece ter alguma forma de obter informações, e algumas facções da Cidade de Nasha parecem ter muito interesse nelas...",
+            "icon": "UI_Talent_S_Jahoda_08",
+            "name": "Esperteza dos Becos"
+        }
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "É hora de usar o pacote que tá no fundo! Jahoda puxa dois {LINK#N11240002}<color=#FFD780FF>Coordenadores Felinos de Assistência Doméstica</color>{/LINK} e causa <color=#80FFD7FF>Dano Anemo</color> contra os inimigos próximos uma vez.\\n\\n<i>\"Coordenação mútua? Você paga a Mora da cooperação, e eu faço a coordenação. É justo, não?\"</i>",
+            "icon": "Skill_E_Jahoda_01",
+            "multipliers": {
+                "Cura Adicional de Personagem com Vida Mais Baixa": [
+                    "30.72% do ATQ + 193",
+                    "33.02% do ATQ + 212",
+                    "35.33% do ATQ + 233",
+                    "38.4% do ATQ + 255",
+                    "40.7% do ATQ + 279",
+                    "43.01% do ATQ + 305",
+                    "46.08% do ATQ + 332",
+                    "49.15% do ATQ + 361",
+                    "52.22% do ATQ + 392",
+                    "55.3% do ATQ + 424",
+                    "58.37% do ATQ + 457",
+                    "61.44% do ATQ + 493",
+                    "65.28% do ATQ + 530",
+                    "69.12% do ATQ + 568",
+                    "72.96% do ATQ + 608"
+                ],
+                "Cura de Coordenador Felino de Assistência Doméstica": [
+                    "79.87% do ATQ + 501",
+                    "85.86% do ATQ + 551",
+                    "91.85% do ATQ + 605",
+                    "99.84% do ATQ + 664",
+                    "105.83% do ATQ + 726",
+                    "111.82% do ATQ + 793",
+                    "119.81% do ATQ + 864",
+                    "127.8% do ATQ + 939",
+                    "135.78% do ATQ + 1018",
+                    "143.77% do ATQ + 1102",
+                    "151.76% do ATQ + 1189",
+                    "159.74% do ATQ + 1281",
+                    "169.73% do ATQ + 1377",
+                    "179.71% do ATQ + 1477",
+                    "189.7% do ATQ + 1582"
+                ],
+                "Dano de Coordenador Felino de Assistência Doméstica": [
+                    "17.27%",
+                    "18.56%",
+                    "19.86%",
+                    "21.58%",
+                    "22.88%",
+                    "24.17%",
+                    "25.9%",
+                    "27.63%",
+                    "29.35%",
+                    "31.08%",
+                    "32.81%",
+                    "34.53%",
+                    "36.69%",
+                    "38.85%",
+                    "41.01%"
+                ],
+                "Dano de Habilidade": [
+                    "207.2%",
+                    "222.74%",
+                    "238.28%",
+                    "259%",
+                    "274.54%",
+                    "290.08%",
+                    "310.8%",
+                    "331.52%",
+                    "352.24%",
+                    "372.96%",
+                    "393.68%",
+                    "414.4%",
+                    "440.3%",
+                    "466.2%",
+                    "492.1%"
+                ],
+                "Duração de Coordenador Felino de Assistência Doméstica": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "Energia Elemental": [
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70"
+                ],
+                "Tempo de Recarga": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ]
+            },
+            "name": "Dispositivo Secreto: Sete Itens do Caçador"
+        },
+        "elementalskill": {
+            "description": "Jahoda avança em frente, entrando no estado Perseguição Sombria ao tocar um inimigo. Nesse estado, Jahoda se move mais rapidamente continuamente. Se houver um inimigo por perto afetado por <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#FFACFFFF>Electro</color> ou <color=#99FFFFFF>Cryo</color>, Jahoda converterá discretamente sua {LINK#N11240001}<color=#FFD780FF>Garrafa Secreta Ronron</color>{/LINK} para esse elemento, enchendo-a gradualmente. Quando a duração acabar ou lançar novamente, Jahoda esvaziará a <color=#FFD780FF>Garrafa Secreta Ronron</color> e causará <color=#80FFD7FF>Dano Anemo</color> uma vez contra o inimigo próximo. Quando a <color=#FFD780FF>Garrafa Secreta Ronron</color> estiver cheia, Jahoda também esvaziará a <color=#FFD780FF>Garrafa Secreta Ronron</color> para sair do estado Perseguição Sombria, causando ainda mais <color=#80FFD7FF>Dano Anemo</color> contra os inimigos próximos uma vez.\\nSe Jahoda não tocar em nenhum inimigo ao fazer sua investida, jogará uma Bomba de Fumaça na posição original que causa <color=#80FFD7FF>Dano Anemo</color> uma vez contra os inimigos próximos.\\n\\n<color=#FFD780FF>Presságio Lunar: Reluzir Cheio</color>: quando a <color=#FFD780FF>Garrafa Secreta Ronron</color> estiver cheia, Jahoda não esvaziará a <color=#FFD780FF>Garrafa Secreta Ronron</color> imediatamente, mas sim passará a consumir o Elemento que está dentro da garrafa continuamente por um certo tempo, e periodicamente disparará contra os inimigos próximos <color=#FFD780FF>Bolas Miaufinhas</color>, causando Dano Elemental correspondente a <color=#FFD780FF>Garrafa Secreta Ronron</color>. Quando a <color=#FFD780FF>Bola Miaufinha</color> atinge um inimigo, regenera 2 de Energia Elemental para Jahoda. Esse efeito pode ser desencadeado uma vez a cada 3.5s.\\n\\n<i>Há muitas formas de se dividir a riqueza do mundo, mas para os caçadores e ladrões de tesouro de Nod-Krai, só uma se mostrou eficaz.</i>",
+            "icon": "Skill_S_Jahoda_01",
+            "multipliers": {
+                "Dano da Bola Miaufinha": [
+                    "128%",
+                    "137.6%",
+                    "147.2%",
+                    "160%",
+                    "169.6%",
+                    "179.2%",
+                    "192%",
+                    "204.8%",
+                    "217.6%",
+                    "230.4%",
+                    "243.2%",
+                    "256%",
+                    "272%",
+                    "288%",
+                    "304%"
+                ],
+                "Dano de Bomba de Fumaça": [
+                    "159%",
+                    "170.92%",
+                    "182.85%",
+                    "198.75%",
+                    "210.68%",
+                    "222.6%",
+                    "238.5%",
+                    "254.4%",
+                    "270.3%",
+                    "286.2%",
+                    "302.1%",
+                    "318%",
+                    "337.88%",
+                    "357.75%",
+                    "377.62%"
+                ],
+                "Dano de Garrafa Secreta Cheia": [
+                    "212%",
+                    "227.9%",
+                    "243.8%",
+                    "265%",
+                    "280.9%",
+                    "296.8%",
+                    "318%",
+                    "339.2%",
+                    "360.4%",
+                    "381.6%",
+                    "402.8%",
+                    "424%",
+                    "450.5%",
+                    "477%",
+                    "503.5%"
+                ],
+                "Dano de Garrafa Secreta Não Cheia": [
+                    "190.8%",
+                    "205.11%",
+                    "219.42%",
+                    "238.5%",
+                    "252.81%",
+                    "267.12%",
+                    "286.2%",
+                    "305.28%",
+                    "324.36%",
+                    "343.44%",
+                    "362.52%",
+                    "381.6%",
+                    "405.45%",
+                    "429.3%",
+                    "453.15%"
+                ],
+                "Duração de Garrafa Secreta": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ],
+                "Tempo de Recarga": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ]
+            },
+            "name": "Estratagema Impressionante: Plano de Redistribuição de Riqueza"
+        },
+        "leveling": {
+            "books": {
+                "104362": 9,
+                "104363": 63,
+                "104364": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113073": 18
+            },
+            "worldmonster": {
+                "112122": 18,
+                "112123": 66,
+                "112124": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 3 disparos consecutivos com um arco.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nRealiza um <color=#FFD780FF>Disparo com Mira </color>mais preciso e com Dano aumentado.\\nAo mirar, ventos fortes se acumularão na ponta da flecha. Uma flecha completamente carregada com ventos fortes irá infligir <color=#80FFD7FF>Dano Anemo</color>.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nDispara uma chuva de flechas no ar que atingirão o solo rapidamente, alcançando os inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+            "icon": "Skill_A_02",
+            "multipliers": {
+                "Dano Durante a Queda": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "Dano do 1° Golpe": [
+                    "41.67%",
+                    "45.07%",
+                    "48.46%",
+                    "53.3%",
+                    "56.7%",
+                    "60.57%",
+                    "65.9%",
+                    "71.23%",
+                    "76.56%",
+                    "82.38%",
+                    "88.19%",
+                    "94.01%",
+                    "99.82%",
+                    "105.64%",
+                    "111.45%"
+                ],
+                "Dano do 2° Golpe": [
+                    "19.23% x2",
+                    "20.8% x2",
+                    "22.36% x2",
+                    "24.6% x2",
+                    "26.16% x2",
+                    "27.95% x2",
+                    "30.41% x2",
+                    "32.87% x2",
+                    "35.33% x2",
+                    "38.02% x2",
+                    "40.7% x2",
+                    "43.38% x2",
+                    "46.07% x2",
+                    "48.75% x2",
+                    "51.43% x2"
+                ],
+                "Dano do 3° Golpe": [
+                    "51.2%",
+                    "55.36%",
+                    "59.53%",
+                    "65.49%",
+                    "69.65%",
+                    "74.41%",
+                    "80.96%",
+                    "87.51%",
+                    "94.06%",
+                    "101.2%",
+                    "108.35%",
+                    "115.49%",
+                    "122.64%",
+                    "129.78%",
+                    "136.92%"
+                ],
+                "Disparo com Mira": [
+                    "43.86%",
+                    "47.43%",
+                    "51%",
+                    "56.1%",
+                    "59.67%",
+                    "63.75%",
+                    "69.36%",
+                    "74.97%",
+                    "80.58%",
+                    "86.7%",
+                    "92.82%",
+                    "98.94%",
+                    "105.06%",
+                    "111.18%",
+                    "117.3%"
+                ],
+                "Disparo com Mira com Energização Completa": [
+                    "124%",
+                    "133.3%",
+                    "142.6%",
+                    "155%",
+                    "164.3%",
+                    "173.6%",
+                    "186%",
+                    "198.4%",
+                    "210.8%",
+                    "223.2%",
+                    "235.6%",
+                    "248%",
+                    "263.5%",
+                    "279%",
+                    "294.5%"
+                ]
+            },
+            "name": "Flechada no Momento Preciso"
+        }
+    }
+}

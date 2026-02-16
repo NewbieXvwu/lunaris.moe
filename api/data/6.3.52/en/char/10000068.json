@@ -1,0 +1,1254 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104141": 1,
+            "104142": 9,
+            "104143": 9,
+            "104144": 6
+        },
+        "elitemonster": {
+            "113037": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101217": 168
+        },
+        "worldmonster": {
+            "112065": 18,
+            "112066": 30,
+            "112067": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Bullet_Material",
+            "poise": "LV3/30"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_SubBullet_Material",
+            "poise": "LV3/10"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Constellation_2 (!)",
+            "name": "ElementalArt_Constellation_Bullet_Material",
+            "poise": "LV3/10"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "12 hits / 3s",
+            "icd_source": "Grp: Dori_Elemental_Burst (Tag Miss)",
+            "name": "ChargingStation",
+            "poise": "LV0/0"
+        },
+        {
+            "element": "Electric",
+            "gauge": "1U",
+            "icd_rule": "12 hits / 3s",
+            "icd_source": "Grp: Dori_Elemental_Burst (Tag Miss)",
+            "name": "ChargingStation",
+            "poise": "LV0/8"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/35"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/150"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/200"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "The number of After-Sales Service Rounds created by <color=#FFD780FF>Troubleshooter Shots</color> is increased by 1.",
+            "icon": "UI_Talent_S_Dori_01",
+            "name": "Additional Investment"
+        },
+        "const2": {
+            "description": "When you are in combat and the <color=#FFD780FF>Jinni</color> heals the character it is connected to, it will fire a Jinni Toop from that character's position that deals 50% of Dori's ATK DMG.",
+            "icon": "UI_Talent_S_Dori_02",
+            "name": "Special Franchise"
+        },
+        "const3": {
+            "description": "Increases the Level of <color=#FFD780FF>Alcazarzaray's Exactitude</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Dori_02",
+            "name": "Wonders Never Cease"
+        },
+        "const4": {
+            "description": "The character connected to the <color=#FFD780FF>Jinni</color> will obtain the following buffs based on their current HP and Energy:\\n·When their HP is lower than 50%, they gain 50% Incoming Healing Bonus.\\n·When their Energy is less than 50%, they gain 30% Energy Recharge.",
+            "icon": "UI_Talent_S_Dori_03",
+            "name": "Discretionary Supplement"
+        },
+        "const5": {
+            "description": "Increases the Level of <color=#FFD780FF>Spirit-Warding Lamp: Troubleshooter Cannon</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Dori_01",
+            "name": "Value for Mora"
+        },
+        "const6": {
+            "description": "Dori gains the following effects for 3s after using <color=#FFD780FF>Spirit-Warding Lamp: Troubleshooter Cannon</color>:\\n·<color=#FFACFFFF>Electro Infusion</color>.\\n·When Normal Attacks hit opponents, all nearby party members will heal HP equivalent to 4% of Dori's Max HP. This type of healing can occur once every 0.1s.",
+            "icon": "UI_Talent_S_Dori_04",
+            "name": "Sprinkling Weight"
+        }
+    },
+    "energy": [
+        {
+            "cd": "1.5s",
+            "chance": "100%",
+            "particles": "1",
+            "source": "Ball"
+        },
+        {
+            "cd": "1.5s",
+            "chance": "100%",
+            "particles": "1",
+            "source": "UNIQUE_SubBullet_Ball"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Dori",
+        "forward": "UI_AvatarIcon_Dori"
+    },
+    "info": {
+        "attributes": [
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 61,
+                "hp": 1039,
+                "level": 1
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 66,
+                "hp": 1126,
+                "level": 2
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 71,
+                "hp": 1211,
+                "level": 3
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 23,
+                "def": 76,
+                "hp": 1297,
+                "level": 4
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 81,
+                "hp": 1382,
+                "level": 5
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 86,
+                "hp": 1469,
+                "level": 6
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 91,
+                "hp": 1554,
+                "level": 7
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 96,
+                "hp": 1640,
+                "level": 8
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 101,
+                "hp": 1727,
+                "level": 9
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 106,
+                "hp": 1812,
+                "level": 10
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 111,
+                "hp": 1898,
+                "level": 11
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 116,
+                "hp": 1983,
+                "level": 12
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 121,
+                "hp": 2070,
+                "level": 13
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 126,
+                "hp": 2155,
+                "level": 14
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 40,
+                "def": 131,
+                "hp": 2241,
+                "level": 15
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 136,
+                "hp": 2327,
+                "level": 16
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 43,
+                "def": 141,
+                "hp": 2413,
+                "level": 17
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 45,
+                "def": 146,
+                "hp": 2499,
+                "level": 18
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 46,
+                "def": 151,
+                "hp": 2584,
+                "level": 19
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 48,
+                "def": 156,
+                "hp": 2670,
+                "level": 20
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 64,
+                "def": 206,
+                "hp": 3532,
+                "level": 21
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 65,
+                "def": 211,
+                "hp": 3618,
+                "level": 22
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 67,
+                "def": 216,
+                "hp": 3705,
+                "level": 23
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 68,
+                "def": 221,
+                "hp": 3790,
+                "level": 24
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 70,
+                "def": 226,
+                "hp": 3876,
+                "level": 25
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 231,
+                "hp": 3961,
+                "level": 26
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 73,
+                "def": 236,
+                "hp": 4048,
+                "level": 27
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 74,
+                "def": 241,
+                "hp": 4133,
+                "level": 28
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 76,
+                "def": 246,
+                "hp": 4219,
+                "level": 29
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 77,
+                "def": 251,
+                "hp": 4304,
+                "level": 30
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 79,
+                "def": 256,
+                "hp": 4391,
+                "level": 31
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 81,
+                "def": 261,
+                "hp": 4477,
+                "level": 32
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 82,
+                "def": 266,
+                "hp": 4562,
+                "level": 33
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 84,
+                "def": 271,
+                "hp": 4648,
+                "level": 34
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 85,
+                "def": 276,
+                "hp": 4734,
+                "level": 35
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 87,
+                "def": 281,
+                "hp": 4820,
+                "level": 36
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 88,
+                "def": 286,
+                "hp": 4905,
+                "level": 37
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 90,
+                "def": 291,
+                "hp": 4991,
+                "level": 38
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 91,
+                "def": 296,
+                "hp": 5078,
+                "level": 39
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 93,
+                "def": 301,
+                "hp": 5163,
+                "level": 40
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 104,
+                "def": 339,
+                "hp": 5801,
+                "level": 41
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 106,
+                "def": 344,
+                "hp": 5886,
+                "level": 42
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 107,
+                "def": 349,
+                "hp": 5972,
+                "level": 43
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 109,
+                "def": 354,
+                "hp": 6058,
+                "level": 44
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 111,
+                "def": 359,
+                "hp": 6144,
+                "level": 45
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 112,
+                "def": 364,
+                "hp": 6230,
+                "level": 46
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 114,
+                "def": 369,
+                "hp": 6315,
+                "level": 47
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 115,
+                "def": 374,
+                "hp": 6402,
+                "level": 48
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 117,
+                "def": 379,
+                "hp": 6487,
+                "level": 49
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 118,
+                "def": 384,
+                "hp": 6573,
+                "level": 50
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 133,
+                "def": 431,
+                "hp": 7394,
+                "level": 51
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 135,
+                "def": 437,
+                "hp": 7480,
+                "level": 52
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 136,
+                "def": 442,
+                "hp": 7567,
+                "level": 53
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 138,
+                "def": 447,
+                "hp": 7652,
+                "level": 54
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 139,
+                "def": 452,
+                "hp": 7738,
+                "level": 55
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 141,
+                "def": 457,
+                "hp": 7823,
+                "level": 56
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 142,
+                "def": 462,
+                "hp": 7910,
+                "level": 57
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 144,
+                "def": 467,
+                "hp": 7995,
+                "level": 58
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 145,
+                "def": 472,
+                "hp": 8081,
+                "level": 59
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 147,
+                "def": 477,
+                "hp": 8168,
+                "level": 60
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 158,
+                "def": 514,
+                "hp": 8804,
+                "level": 61
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 160,
+                "def": 519,
+                "hp": 8891,
+                "level": 62
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 161,
+                "def": 524,
+                "hp": 8976,
+                "level": 63
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 163,
+                "def": 529,
+                "hp": 9062,
+                "level": 64
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 165,
+                "def": 534,
+                "hp": 9147,
+                "level": 65
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 166,
+                "def": 539,
+                "hp": 9234,
+                "level": 66
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 168,
+                "def": 544,
+                "hp": 9320,
+                "level": 67
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 169,
+                "def": 549,
+                "hp": 9405,
+                "level": 68
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 171,
+                "def": 554,
+                "hp": 9492,
+                "level": 69
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 172,
+                "def": 559,
+                "hp": 9577,
+                "level": 70
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 184,
+                "def": 596,
+                "hp": 10215,
+                "level": 71
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 185,
+                "def": 601,
+                "hp": 10300,
+                "level": 72
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 187,
+                "def": 606,
+                "hp": 10386,
+                "level": 73
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 188,
+                "def": 611,
+                "hp": 10473,
+                "level": 74
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 190,
+                "def": 616,
+                "hp": 10558,
+                "level": 75
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 191,
+                "def": 621,
+                "hp": 10644,
+                "level": 76
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 193,
+                "def": 626,
+                "hp": 10729,
+                "level": 77
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 195,
+                "def": 631,
+                "hp": 10816,
+                "level": 78
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 196,
+                "def": 636,
+                "hp": 10901,
+                "level": 79
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 198,
+                "def": 641,
+                "hp": 10987,
+                "level": 80
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 209,
+                "def": 678,
+                "hp": 11625,
+                "level": 81
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 211,
+                "def": 683,
+                "hp": 11710,
+                "level": 82
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 212,
+                "def": 688,
+                "hp": 11797,
+                "level": 83
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 214,
+                "def": 693,
+                "hp": 11882,
+                "level": 84
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 215,
+                "def": 698,
+                "hp": 11968,
+                "level": 85
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 217,
+                "def": 703,
+                "hp": 12053,
+                "level": 86
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 218,
+                "def": 708,
+                "hp": 12140,
+                "level": 87
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 220,
+                "def": 713,
+                "hp": 12225,
+                "level": 88
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 221,
+                "def": 718,
+                "hp": 12311,
+                "level": 89
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 223,
+                "def": 723,
+                "hp": 12397,
+                "level": 90
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 251,
+                "def": 748,
+                "hp": 12826,
+                "level": 95
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 280,
+                "def": 774,
+                "hp": 13255,
+                "level": 100
+            }
+        ],
+        "birthday": "December 21st",
+        "constellation": "Magicae Lucerna",
+        "description": "An elusive merchant who has a fondness for glittering Mora.",
+        "element": "Electro",
+        "name": "Dori",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_CLAYMORE"
+    },
+    "passives": {
+        "p1": {
+            "description": "After a character connected to the <color=#FFD780FF>Jinni</color> triggers an Electro-Charged, Lunar-Charged, Superconduct, Overloaded, Quicken, Aggravate, Hyperbloom, Electro Swirl, or Electro Crystallize reaction, the CD of <color=#FFD780FF>Spirit-Warding Lamp: Troubleshooter Cannon</color> is decreased by 1s.\\nThis effect can be triggered once every 3s.",
+            "icon": "UI_Talent_S_Dori_05",
+            "name": "An Eye for Gold"
+        },
+        "p2": {
+            "description": "When the Troubleshooter Shots or After-Sales Service Rounds from <color=#FFD780FF>Spirit-Warding Lamp: Troubleshooter Cannon</color> hit opponents, Dori will restore 5 Elemental Energy for every 100% Energy Recharge possessed.\\nPer Spirit-Warding Lamp: Troubleshooter Cannon, only one instance of Energy restoration can be triggered and a maximum of 15 Energy can be restored this way.",
+            "icon": "UI_Talent_S_Dori_06",
+            "name": "Compound Interest"
+        },
+        "p3": {
+            "description": "Has a 25% chance to recover some of the materials used when crafting Character and Weapon Materials.",
+            "icon": "UI_Talent_S_Dori_07",
+            "name": "Unexpected Order"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Summons forth the Jinni within the lamp to give the client various kinds of aid.\\n\\n<color=#FFD780FF>Jinni</color>\\nConnects to a nearby character. The connected character will:\\n· Continuously restore HP based on Dori's Max HP.\\n· Continuously regenerate Energy.\\n· Be affected by <color=#FFACFFFF>Electro</color>.\\nWhen the connector between the Jinni and the character touches opponents, it will deal one instance of <color=#FFACFFFF>Electro DMG</color> to them every 0.4s.\\n\\nOnly one Jinni can exist at one time.\\n\\n<i>\"Hmm? You'll pick this lamp, will you? Oh my, you've got good taste! Unfortunately, there's no price on this treasure — comparable, I'd say, to how you will not sell that mascot by your side for any price in the world.\"</i>",
+            "icon": "Skill_E_Dori_01",
+            "multipliers": {
+                "CD": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ],
+                "Connector DMG": [
+                    "15.88%",
+                    "17.07%",
+                    "18.26%",
+                    "19.85%",
+                    "21.04%",
+                    "22.24%",
+                    "23.82%",
+                    "25.41%",
+                    "27%",
+                    "28.59%",
+                    "30.18%",
+                    "31.76%",
+                    "33.75%",
+                    "35.74%",
+                    "37.72%"
+                ],
+                "Continuous Healing": [
+                    "6.67% Max HP+642",
+                    "7.17% Max HP+706",
+                    "7.67% Max HP+776",
+                    "8.34% Max HP+851",
+                    "8.84% Max HP+931",
+                    "9.34% Max HP+1017",
+                    "10.01% Max HP+1107",
+                    "10.67% Max HP+1204",
+                    "11.34% Max HP+1305",
+                    "12.01% Max HP+1412",
+                    "12.67% Max HP+1525",
+                    "13.34% Max HP+1643",
+                    "14.17% Max HP+1766",
+                    "15.01% Max HP+1894",
+                    "15.84% Max HP+2028"
+                ],
+                "Duration": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "Energy Cost": [
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80"
+                ],
+                "Energy Regeneration": [
+                    "1.6",
+                    "1.7",
+                    "1.8",
+                    "1.9",
+                    "2",
+                    "2.1",
+                    "2.2",
+                    "2.3",
+                    "2.4",
+                    "2.5",
+                    "2.5",
+                    "2.5",
+                    "2.5",
+                    "2.5",
+                    "2.5"
+                ]
+            },
+            "name": "Alcazarzaray's Exactitude"
+        },
+        "elementalskill": {
+            "description": "Directs a Spirit-Warding Lamp to fire off a Troubleshooter Shot at opponents, dealing <color=#FFACFFFF>Electro DMG</color>.\\nAfter the Troubleshooter Shot hits, it will create 2 After-Sales Service Rounds that will automatically track nearby opponents and deal <color=#FFACFFFF>Electro DMG</color>.\\n\\n<i>It is said that Dori can fix any problem for you... for the right price.</i>",
+            "icon": "Skill_S_Dori_01",
+            "multipliers": {
+                "After-Sales Service Round DMG": [
+                    "31.56%",
+                    "33.93%",
+                    "36.29%",
+                    "39.45%",
+                    "41.82%",
+                    "44.18%",
+                    "47.34%",
+                    "50.5%",
+                    "53.65%",
+                    "56.81%",
+                    "59.96%",
+                    "63.12%",
+                    "67.07%",
+                    "71.01%",
+                    "74.95%"
+                ],
+                "CD": [
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s"
+                ],
+                "Troubleshooter Shot DMG": [
+                    "147.28%",
+                    "158.33%",
+                    "169.37%",
+                    "184.1%",
+                    "195.15%",
+                    "206.19%",
+                    "220.92%",
+                    "235.65%",
+                    "250.38%",
+                    "265.1%",
+                    "279.83%",
+                    "294.56%",
+                    "312.97%",
+                    "331.38%",
+                    "349.79%"
+                ]
+            },
+            "name": "Spirit-Warding Lamp: Troubleshooter Cannon"
+        },
+        "leveling": {
+            "books": {
+                "104332": 9,
+                "104333": 63,
+                "104334": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113018": 18
+            },
+            "worldmonster": {
+                "112065": 18,
+                "112066": 66,
+                "112067": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 3 consecutive strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nDrains Stamina over time to perform continuous spinning attacks against all nearby opponents.\\nAt the end of the sequence, performs a more powerful slash. \\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+            "icon": "Skill_A_04",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "90.21%",
+                    "97.56%",
+                    "104.9%",
+                    "115.39%",
+                    "122.73%",
+                    "131.12%",
+                    "142.66%",
+                    "154.2%",
+                    "165.74%",
+                    "178.33%",
+                    "190.92%",
+                    "203.51%",
+                    "216.09%",
+                    "228.68%",
+                    "241.27%"
+                ],
+                "2-Hit DMG": [
+                    "41.07%+43.12%",
+                    "44.42%+46.63%",
+                    "47.76%+50.14%",
+                    "52.54%+55.15%",
+                    "55.88%+58.66%",
+                    "59.7%+62.67%",
+                    "64.95%+68.19%",
+                    "70.21%+73.71%",
+                    "75.46%+79.22%",
+                    "81.19%+85.24%",
+                    "86.92%+91.25%",
+                    "92.65%+97.27%",
+                    "98.39%+103.29%",
+                    "104.12%+109.31%",
+                    "109.85%+115.32%"
+                ],
+                "3-Hit DMG": [
+                    "128.4%",
+                    "138.85%",
+                    "149.3%",
+                    "164.23%",
+                    "174.68%",
+                    "186.63%",
+                    "203.05%",
+                    "219.47%",
+                    "235.89%",
+                    "253.81%",
+                    "271.73%",
+                    "289.64%",
+                    "307.56%",
+                    "325.47%",
+                    "343.39%"
+                ],
+                "Charged Attack Final DMG": [
+                    "113.09%",
+                    "122.29%",
+                    "131.5%",
+                    "144.65%",
+                    "153.86%",
+                    "164.37%",
+                    "178.84%",
+                    "193.31%",
+                    "207.77%",
+                    "223.55%",
+                    "241.63%",
+                    "262.89%",
+                    "284.16%",
+                    "305.42%",
+                    "328.62%"
+                ],
+                "Charged Attack Spinning DMG": [
+                    "62.55%",
+                    "67.64%",
+                    "72.73%",
+                    "80%",
+                    "85.09%",
+                    "90.91%",
+                    "98.91%",
+                    "106.91%",
+                    "114.91%",
+                    "123.64%",
+                    "133.64%",
+                    "145.4%",
+                    "157.16%",
+                    "168.92%",
+                    "181.75%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s",
+                    "40/s"
+                ],
+                "Low/High Plunge DMG": [
+                    "149.14%/186.29%",
+                    "161.28%/201.45%",
+                    "173.42%/216.62%",
+                    "190.77%/238.28%",
+                    "202.91%/253.44%",
+                    "216.78%/270.77%",
+                    "235.86%/294.6%",
+                    "254.93%/318.42%",
+                    "274.01%/342.25%",
+                    "294.82%/368.25%",
+                    "315.63%/394.24%",
+                    "336.44%/420.23%",
+                    "357.25%/446.23%",
+                    "378.06%/472.22%",
+                    "398.87%/498.21%"
+                ],
+                "Max Duration": [
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s",
+                    "5s"
+                ],
+                "Plunge DMG": [
+                    "74.59%",
+                    "80.66%",
+                    "86.73%",
+                    "95.4%",
+                    "101.47%",
+                    "108.41%",
+                    "117.95%",
+                    "127.49%",
+                    "137.03%",
+                    "147.44%",
+                    "157.85%",
+                    "168.26%",
+                    "178.66%",
+                    "189.07%",
+                    "199.48%"
+                ]
+            },
+            "name": "Marvelous Sword-Dance (Modified)"
+        }
+    }
+}

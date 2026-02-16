@@ -1,0 +1,1352 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104121": 1,
+            "104122": 9,
+            "104123": 9,
+            "104124": 6
+        },
+        "elitemonster": {
+            "113064": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101247": 168
+        },
+        "worldmonster": {
+            "112104": 18,
+            "112105": 30,
+            "112106": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack_01 (!)",
+            "name": "ElementalArt_Combat",
+            "poise": "LV2/80"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack_01 (!)",
+            "name": "ElementalArt_Combat",
+            "poise": "LV2/80"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack_01 (!)",
+            "name": "ElementalArt_Combat",
+            "poise": "LV2/80"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack_01 (!)",
+            "name": "ElementalArt_Combat",
+            "poise": "LV2/150"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack_01 (!)",
+            "name": "ElementalArt_Combat",
+            "poise": "LV2/150"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "ExtraAttack_Bullet",
+            "poise": "LV7/50"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack_Bullet_1",
+            "poise": "LV1/9"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack_Bullet_2",
+            "poise": "LV1/8"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack_Bullet_3",
+            "poise": "LV1/13"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Bullet",
+            "poise": "LV7/200"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Bullet",
+            "poise": "LV7/200"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Bullet",
+            "poise": "LV7/200"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Bullet",
+            "poise": "LV7/200"
+        },
+        {
+            "element": "-",
+            "gauge": "4U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Mualani_Surfing (!)",
+            "name": "Surfing_Bullet",
+            "poise": "LV3/25"
+        },
+        {
+            "element": "-",
+            "gauge": "4U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Mualani_Surfing (!)",
+            "name": "Surfing_Bullet",
+            "poise": "LV3/25"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack_01 (!)",
+            "name": "Surfing_SpecialRush_Bullet",
+            "poise": "LV5/120"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack_01 (!)",
+            "name": "MultiAttack_Bullet",
+            "poise": "LV2/80"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack_01 (!)",
+            "name": "MultiAttack_Bullet",
+            "poise": "LV2/80"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack_01 (!)",
+            "name": "MultiAttack_Bullet",
+            "poise": "LV2/80"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack_01 (!)",
+            "name": "MultiAttack_Bullet",
+            "poise": "LV2/150"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack_01 (!)",
+            "name": "MultiAttack_Bullet",
+            "poise": "LV2/150"
+        },
+        {
+            "element": "Water",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/5"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Урон первого Разрывающего укуса акулки и вызываемых им Акулкиных ракет после перехода Муалани в состояние Благословения Ночного духа увеличивается на 66% от её макс. HP. Данный увеличенный урон подлежит уменьшению согласно правилам навыка <color=#FFD780FF>Волнорезная сёрф-акула</color>.\\nКроме того, потребление очков Ночного духа и флогистона вне боя состоянием Благословение Ночного духа Муалани снижается на 30%.",
+            "icon": "UI_Talent_S_Mualani_01",
+            "name": "Беззаботные «Мецтли»..."
+        },
+        "const2": {
+            "description": "Войдя в состояние Благословение Ночного духа, Муалани получает 2 уровня Импульса волн навыка <color=#FFD780FF>Волнорезная сёрф-акула</color>. Она получает 1 уровень, когда подбирает иглобрюха.\\nВдобавок Муалани восстанавливает 12 очков Ночного духа в течение 2 сек. всякий раз, когда она подбирает 2 иглобрюхов в течение одного состояния Благословение Ночного духа.\\nДля активации данного эффекта требуется разблокировать талант возвышения Жаростойкий пресноводный иглобрюх.",
+            "icon": "UI_Talent_S_Mualani_02",
+            "name": "Муалани сделает всё возможное!"
+        },
+        "const3": {
+            "description": "Увеличивает уровень навыка <color=#FFD780FF>Волнорезная сёрф-акула</color> на 3.\\nМакс. уровень: 15",
+            "icon": "UI_Talent_U_Mualani_01",
+            "name": "По волнам весёлого моря"
+        },
+        "const4": {
+            "description": "Когда Муалани подбирает иглобрюха, то восстанавливает 8 ед. энергии. Требуется разблокировать талант возвышения Жаростойкий пресноводный иглобрюх.\\nКроме того, урон <color=#FFD780FF>Зубастого бабаха</color> повышается на 75%.",
+            "icon": "UI_Talent_S_Mualani_03",
+            "name": "Акулка поедает иглобрюшков"
+        },
+        "const5": {
+            "description": "Увеличивает уровень навыка <color=#FFD780FF>Зубастый бабах</color> на 3.\\nМакс. уровень: 15",
+            "icon": "UI_Talent_U_Mualani_02",
+            "name": "Продаётся такая же доска для сёрфинга!"
+        },
+        "const6": {
+            "description": "Эффект увеличения урона созвездия Беззаботные «Мецтли»... больше не ограничен только одной активацией в течение Благословения Ночного духа.",
+            "icon": "UI_Talent_S_Mualani_04",
+            "name": "Дух Народа Родников"
+        }
+    },
+    "energy": [
+        {
+            "cd": "2s",
+            "chance": "50%",
+            "particles": "4",
+            "source": "ElementalArt_ElementalBall"
+        },
+        {
+            "cd": "2s",
+            "chance": "50%",
+            "particles": "5",
+            "source": "ElementalArt_ElementalBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Mualani",
+        "forward": "UI_AvatarIcon_Mualani"
+    },
+    "info": {
+        "attributes": [
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 14,
+                "def": 44,
+                "hp": 1182,
+                "level": 1
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 15,
+                "def": 48,
+                "hp": 1280,
+                "level": 2
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 17,
+                "def": 52,
+                "hp": 1378,
+                "level": 3
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 18,
+                "def": 55,
+                "hp": 1478,
+                "level": 4
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 59,
+                "hp": 1576,
+                "level": 5
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 63,
+                "hp": 1675,
+                "level": 6
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 67,
+                "hp": 1773,
+                "level": 7
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 70,
+                "hp": 1872,
+                "level": 8
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 74,
+                "hp": 1972,
+                "level": 9
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 78,
+                "hp": 2070,
+                "level": 10
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 81,
+                "hp": 2169,
+                "level": 11
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 85,
+                "hp": 2268,
+                "level": 12
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 89,
+                "hp": 2368,
+                "level": 13
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 93,
+                "hp": 2468,
+                "level": 14
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 96,
+                "hp": 2568,
+                "level": 15
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 100,
+                "hp": 2667,
+                "level": 16
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 104,
+                "hp": 2767,
+                "level": 17
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 108,
+                "hp": 2867,
+                "level": 18
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 111,
+                "hp": 2967,
+                "level": 19
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 115,
+                "hp": 3066,
+                "level": 20
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 50,
+                "def": 157,
+                "hp": 4180,
+                "level": 21
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 51,
+                "def": 161,
+                "hp": 4281,
+                "level": 22
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 52,
+                "def": 165,
+                "hp": 4381,
+                "level": 23
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 54,
+                "def": 168,
+                "hp": 4482,
+                "level": 24
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 55,
+                "def": 172,
+                "hp": 4582,
+                "level": 25
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 56,
+                "def": 176,
+                "hp": 4684,
+                "level": 26
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 57,
+                "def": 180,
+                "hp": 4785,
+                "level": 27
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 58,
+                "def": 183,
+                "hp": 4885,
+                "level": 28
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 60,
+                "def": 187,
+                "hp": 4987,
+                "level": 29
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 61,
+                "def": 191,
+                "hp": 5087,
+                "level": 30
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 62,
+                "def": 195,
+                "hp": 5189,
+                "level": 31
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 63,
+                "def": 199,
+                "hp": 5290,
+                "level": 32
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 65,
+                "def": 202,
+                "hp": 5392,
+                "level": 33
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 66,
+                "def": 206,
+                "hp": 5493,
+                "level": 34
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 67,
+                "def": 210,
+                "hp": 5594,
+                "level": 35
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 68,
+                "def": 214,
+                "hp": 5697,
+                "level": 36
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 69,
+                "def": 218,
+                "hp": 5799,
+                "level": 37
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 222,
+                "hp": 5900,
+                "level": 38
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 72,
+                "def": 225,
+                "hp": 6002,
+                "level": 39
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 73,
+                "def": 229,
+                "hp": 6105,
+                "level": 40
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 83,
+                "def": 260,
+                "hp": 6927,
+                "level": 41
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 84,
+                "def": 264,
+                "hp": 7030,
+                "level": 42
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 85,
+                "def": 268,
+                "hp": 7132,
+                "level": 43
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 87,
+                "def": 272,
+                "hp": 7234,
+                "level": 44
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 88,
+                "def": 276,
+                "hp": 7337,
+                "level": 45
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 89,
+                "def": 279,
+                "hp": 7440,
+                "level": 46
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 90,
+                "def": 283,
+                "hp": 7543,
+                "level": 47
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 92,
+                "def": 287,
+                "hp": 7645,
+                "level": 48
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 93,
+                "def": 291,
+                "hp": 7750,
+                "level": 49
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 94,
+                "def": 295,
+                "hp": 7852,
+                "level": 50
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 107,
+                "def": 335,
+                "hp": 8915,
+                "level": 51
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 108,
+                "def": 339,
+                "hp": 9019,
+                "level": 52
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 109,
+                "def": 343,
+                "hp": 9122,
+                "level": 53
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 110,
+                "def": 346,
+                "hp": 9226,
+                "level": 54
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 112,
+                "def": 350,
+                "hp": 9330,
+                "level": 55
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 113,
+                "def": 354,
+                "hp": 9434,
+                "level": 56
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 114,
+                "def": 358,
+                "hp": 9538,
+                "level": 57
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 115,
+                "def": 362,
+                "hp": 9642,
+                "level": 58
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 117,
+                "def": 366,
+                "hp": 9746,
+                "level": 59
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 118,
+                "def": 370,
+                "hp": 9850,
+                "level": 60
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 128,
+                "def": 401,
+                "hp": 10675,
+                "level": 61
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 129,
+                "def": 405,
+                "hp": 10779,
+                "level": 62
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 130,
+                "def": 409,
+                "hp": 10884,
+                "level": 63
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 132,
+                "def": 413,
+                "hp": 10988,
+                "level": 64
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 133,
+                "def": 417,
+                "hp": 11093,
+                "level": 65
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 134,
+                "def": 421,
+                "hp": 11198,
+                "level": 66
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 135,
+                "def": 424,
+                "hp": 11302,
+                "level": 67
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 137,
+                "def": 428,
+                "hp": 11408,
+                "level": 68
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 138,
+                "def": 432,
+                "hp": 11513,
+                "level": 69
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 139,
+                "def": 436,
+                "hp": 11618,
+                "level": 70
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 149,
+                "def": 467,
+                "hp": 12443,
+                "level": 71
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 150,
+                "def": 471,
+                "hp": 12550,
+                "level": 72
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 151,
+                "def": 475,
+                "hp": 12655,
+                "level": 73
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 153,
+                "def": 479,
+                "hp": 12760,
+                "level": 74
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 154,
+                "def": 483,
+                "hp": 12867,
+                "level": 75
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 155,
+                "def": 487,
+                "hp": 12972,
+                "level": 76
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 157,
+                "def": 491,
+                "hp": 13078,
+                "level": 77
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 158,
+                "def": 495,
+                "hp": 13185,
+                "level": 78
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 159,
+                "def": 499,
+                "hp": 13291,
+                "level": 79
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 160,
+                "def": 503,
+                "hp": 13397,
+                "level": 80
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 170,
+                "def": 534,
+                "hp": 14224,
+                "level": 81
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 172,
+                "def": 538,
+                "hp": 14330,
+                "level": 82
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 173,
+                "def": 542,
+                "hp": 14437,
+                "level": 83
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 174,
+                "def": 546,
+                "hp": 14543,
+                "level": 84
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 175,
+                "def": 550,
+                "hp": 14649,
+                "level": 85
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 177,
+                "def": 554,
+                "hp": 14757,
+                "level": 86
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 178,
+                "def": 558,
+                "hp": 14863,
+                "level": 87
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 179,
+                "def": 562,
+                "hp": 14971,
+                "level": 88
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 181,
+                "def": 566,
+                "hp": 15079,
+                "level": 89
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 182,
+                "def": 570,
+                "hp": 15185,
+                "level": 90
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 202,
+                "def": 591,
+                "hp": 15724,
+                "level": 95
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 223,
+                "def": 611,
+                "hp": 16264,
+                "level": 100
+            }
+        ],
+        "birthday": "August 3rd",
+        "constellation": "Тюлень",
+        "description": "Знаменитый проводник из Натлана, владелица магазина товаров для водного спорта, эксперт по всем видам укрощения волн.",
+        "element": "Hydro",
+        "name": "Муалани",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_CATALYST"
+    },
+    "passives": {
+        "p1": {
+            "description": "Разрывающий укус акулки, поражая противника, рядом создаёт иглобрюха. Подбирая иглобрюха, Муалани восстанавливает 20 очков Ночного духа. Во время действия одного Благословения Ночного духа таким способом можно создать только 2 иглобрюхов.",
+            "icon": "UI_Talent_S_Mualani_05",
+            "name": "Жаростойкий пресноводный иглобрюх"
+        },
+        "p2": {
+            "description": "После того как член отряда поблизости активирует Вспышку Ночного духа, Муалани получает 1 уровень Постижения наездника волн, который длится 20 сек. Этот эффект складывается до 3 раз. Применяя <color=#FFD780FF>Зубастый бабах</color>, Муалани расходует все уровни Постижения наездника волн и повышает урон этого Зубастого бабаха на 15%/30%/45% от собственного макс. HP в зависимости от количества снятых уровней.",
+            "icon": "UI_Talent_S_Mualani_06",
+            "name": "Лучший проводник Натлана"
+        },
+        "p3": {
+            "description": "Когда очки Ночного духа исчерпаны, Муалани продолжит поддерживать Благословение Ночного духа, переключившись на флогистон.\\nКогда Муалани находится в областях Натлана с флогистоновыми механиками, она способна применять Передачу Ночного духа: Муалани. Когда активный персонаж использует спринт, плывёт, пребывает в состоянии передвижения некоторых талантов или находится на определённой высоте в воздухе, при смене персонажа на Муалани активируется следующий эффект: Муалани, появляясь на поле, входит в состояние Благословения Ночного духа и получает 40 очков Ночного духа. Передача Ночного духа может активироваться вашим отрядом один раз в 10 сек.\\n\\nКроме того, в Натлане во время перемещения по воде и жидкому флогистону в состоянии Благословения Ночного духа потребление очков Ночного духа или флогистона Муалани снижается на 75%, тогда как вне Натлана потребление очков Ночного духа теми же действиями снижается на 35%.",
+            "icon": "UI_Talent_S_Mualani_07",
+            "name": "Дар владений ночи: Взлёты и падения"
+        },
+        "p4": {
+            "description": "В областях с флогистоновыми механиками в Натлане при взаимодействии с некоторыми предметами для сбора восстанавливается 15 ед. флогистона. Кроме того, отмечает <color=#FFD780FF>диковинки Натлана</color> поблизости на мини-карте.",
+            "icon": "UI_Talent_S_Kachina_08",
+            "name": "Главное улыбаться!"
+        }
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Выпускает самонаводящуюся Акулкину суперракету, которая наносит <color=#80C0FFFF>Гидро урон по площади</color> с характеристикой Ночного духа пропорционально макс. HP Муалани.\\n\\n<i>Муалани дала Акулкиным ракетам такое название, потому что в нём есть и огонь, и вода, звучит как горячие источники.</i>",
+            "icon": "Skill_E_Mualani_01",
+            "multipliers": {
+                "Время отката": [
+                    "15 сек.",
+                    "15 сек.",
+                    "15 сек.",
+                    "15 сек.",
+                    "15 сек.",
+                    "15 сек.",
+                    "15 сек.",
+                    "15 сек.",
+                    "15 сек.",
+                    "15 сек.",
+                    "15 сек.",
+                    "15 сек.",
+                    "15 сек.",
+                    "15 сек.",
+                    "15 сек."
+                ],
+                "Потребление энергии": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "Урон навыка": [
+                    "58.44% макс. HP",
+                    "62.82% макс. HP",
+                    "67.21% макс. HP",
+                    "73.05% макс. HP",
+                    "77.43% макс. HP",
+                    "81.81% макс. HP",
+                    "87.66% макс. HP",
+                    "93.5% макс. HP",
+                    "99.35% макс. HP",
+                    "105.19% макс. HP",
+                    "111.03% макс. HP",
+                    "116.88% макс. HP",
+                    "124.18% макс. HP",
+                    "131.49% макс. HP",
+                    "138.79% макс. HP"
+                ]
+            },
+            "name": "Зубастый бабах"
+        },
+        "elementalskill": {
+            "description": "Благодаря знаниям о том, как управлять скоростью и волнами, Муалани способна заниматься сёрфингом где и когда угодно.\\nПосле активации этого навыка Муалани получает 60 очков Ночного духа и переходит в состояние Благословения Ночного духа.\\n\\n<color=#FFD780FF>Благословение Ночного духа: Муалани</color>\\nНепрерывно расходует очки Ночного духа. Когда они заканчиваются или навык используется повторно, Благословение Ночного духа Муалани завершается. У состояния Благословения Ночного духа следующие особенности:\\n· Муалани взбирается на сёрф-акулку, её скорость передвижения и сопротивление прерыванию повышается. Пока это состояние активно, Муалани может перемещаться по воде и жидкому флогистону, не получая урона от последнего.\\n· Обычные атаки превращаются в Укусы акулки, которые наносят <color=#80C0FFFF>Гидро урон</color> с характеристикой Ночного духа, пропорциональный макс. HP Муалани. Укусы акулки можно производить в воздухе. Урон, наносимый таким способом, считается уроном обычной атаки.\\n· Соприкасаясь в этом состоянии с врагами, Муалани накладывает на них Метки добычи и получает 1 уровень Импульса волн. Импульс волн складывается до 3 раз. За одного и того же врага можно получить 1 уровень раз в 0,7 сек.\\n\\n<color=#FFD780FF>Импульс волн и Метки добычи</color>\\nКогда Муалани использует Укусы акулки, наносимый ею урон увеличивается согласно количеству уровней Импульса волн. Когда в наличии 3 уровня, Укус акулки превращается в Разрывающий укус акулки, ещё больше повышая урон и при попадании по врагу снимая все уровни.\\nКогда Укусы акулки попадают по противнику с Меткой добычи, Метка снимается, и выпускаются Акулкины ракеты в максимум 5 противников с Метками добычи поблизости. Они наносят урон, равный урону данного Укуса акулки, и снимают Метки. Если целей Укуса акулки и Акулкиных ракет более 1, наносимый урон снижается. Урон снижается максимум до 72% от исходного урона, если целей не менее 3.\\n\\n<i>Во-первых, сёрф-акулка не только доска для сёрфинга, но и пресноводная акула. Во-вторых, она не ест, но кусается очень даже по-настоящему.</i>",
+            "icon": "Skill_S_Mualani_01",
+            "multipliers": {
+                "Базовый урон Укуса акулки": [
+                    "8.68% макс. HP",
+                    "9.33% макс. HP",
+                    "9.98% макс. HP",
+                    "10.85% макс. HP",
+                    "11.5% макс. HP",
+                    "12.15% макс. HP",
+                    "13.02% макс. HP",
+                    "13.89% макс. HP",
+                    "14.76% макс. HP",
+                    "15.62% макс. HP",
+                    "16.49% макс. HP",
+                    "17.36% макс. HP",
+                    "18.45% макс. HP",
+                    "19.53% макс. HP",
+                    "20.61% макс. HP"
+                ],
+                "Время отката": [
+                    "6 сек.",
+                    "6 сек.",
+                    "6 сек.",
+                    "6 сек.",
+                    "6 сек.",
+                    "6 сек.",
+                    "6 сек.",
+                    "6 сек.",
+                    "6 сек.",
+                    "6 сек.",
+                    "6 сек.",
+                    "6 сек.",
+                    "6 сек.",
+                    "6 сек.",
+                    "6 сек."
+                ],
+                "Время отката Укуса акулки": [
+                    "1.8 сек.",
+                    "1.8 сек.",
+                    "1.8 сек.",
+                    "1.8 сек.",
+                    "1.8 сек.",
+                    "1.8 сек.",
+                    "1.8 сек.",
+                    "1.8 сек.",
+                    "1.8 сек.",
+                    "1.8 сек.",
+                    "1.8 сек.",
+                    "1.8 сек.",
+                    "1.8 сек.",
+                    "1.8 сек.",
+                    "1.8 сек."
+                ],
+                "Дополнительное увеличение урона Разрывающего укуса акулки": [
+                    "21.7% макс. HP",
+                    "23.33% макс. HP",
+                    "24.95% макс. HP",
+                    "27.13% макс. HP",
+                    "28.75% макс. HP",
+                    "30.38% макс. HP",
+                    "32.55% макс. HP",
+                    "34.72% макс. HP",
+                    "36.89% макс. HP",
+                    "39.06% макс. HP",
+                    "41.23% макс. HP",
+                    "43.4% макс. HP",
+                    "46.11% макс. HP",
+                    "48.82% макс. HP",
+                    "51.54% макс. HP"
+                ],
+                "Максимум очков Ночного духа": [
+                    "60 ед.",
+                    "60 ед.",
+                    "60 ед.",
+                    "60 ед.",
+                    "60 ед.",
+                    "60 ед.",
+                    "60 ед.",
+                    "60 ед.",
+                    "60 ед.",
+                    "60 ед.",
+                    "60 ед.",
+                    "60 ед.",
+                    "60 ед.",
+                    "60 ед.",
+                    "60 ед."
+                ],
+                "Увеличение урона Импульса волн": [
+                    "4.34% макс. HP/уровень",
+                    "4.67% макс. HP/уровень",
+                    "4.99% макс. HP/уровень",
+                    "5.42% макс. HP/уровень",
+                    "5.75% макс. HP/уровень",
+                    "6.08% макс. HP/уровень",
+                    "6.51% макс. HP/уровень",
+                    "6.94% макс. HP/уровень",
+                    "7.38% макс. HP/уровень",
+                    "7.81% макс. HP/уровень",
+                    "8.25% макс. HP/уровень",
+                    "8.68% макс. HP/уровень",
+                    "9.22% макс. HP/уровень",
+                    "9.76% макс. HP/уровень",
+                    "10.31% макс. HP/уровень"
+                ]
+            },
+            "name": "Волнорезная сёрф-акула"
+        },
+        "leveling": {
+            "books": {
+                "104347": 9,
+                "104348": 63,
+                "104349": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113056": 18
+            },
+            "worldmonster": {
+                "112104": 18,
+                "112105": 66,
+                "112106": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Обычная атака:</color>\\nДо трёх атак, наносящих <color=#80C0FFFF>Гидро урон</color>.\\n\\n<color=#FFD780FF>Заряженная атака:</color>\\nТратит определённое количество выносливости и выбивает в воздух иглобрюха, который при приземлении наносит <color=#80C0FFFF>Гидро урон по площади</color>.\\n\\n<color=#FFD780FF>Атака в падении:</color>\\nНакопив энергию воды, стремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит <color=#80C0FFFF>Гидро урон по площади</color>.",
+            "icon": "Skill_A_Catalyst_MD",
+            "multipliers": {
+                "Потребление выносливости": [
+                    "50 ед.",
+                    "50 ед.",
+                    "50 ед.",
+                    "50 ед.",
+                    "50 ед.",
+                    "50 ед.",
+                    "50 ед.",
+                    "50 ед.",
+                    "50 ед.",
+                    "50 ед.",
+                    "50 ед.",
+                    "50 ед.",
+                    "50 ед.",
+                    "50 ед.",
+                    "50 ед."
+                ],
+                "Урон атаки 1": [
+                    "51.4%",
+                    "55.25%",
+                    "59.11%",
+                    "64.24%",
+                    "68.1%",
+                    "71.95%",
+                    "77.09%",
+                    "82.23%",
+                    "87.37%",
+                    "92.51%",
+                    "97.65%",
+                    "102.79%",
+                    "109.22%",
+                    "115.64%",
+                    "122.07%"
+                ],
+                "Урон атаки 2": [
+                    "44.63%",
+                    "47.97%",
+                    "51.32%",
+                    "55.78%",
+                    "59.13%",
+                    "62.48%",
+                    "66.94%",
+                    "71.4%",
+                    "75.86%",
+                    "80.33%",
+                    "84.79%",
+                    "89.25%",
+                    "94.83%",
+                    "100.41%",
+                    "105.99%"
+                ],
+                "Урон атаки 3": [
+                    "70.03%",
+                    "75.29%",
+                    "80.54%",
+                    "87.54%",
+                    "92.8%",
+                    "98.05%",
+                    "105.05%",
+                    "112.06%",
+                    "119.06%",
+                    "126.06%",
+                    "133.07%",
+                    "140.07%",
+                    "148.82%",
+                    "157.58%",
+                    "166.33%"
+                ],
+                "Урон в падении": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "Урон заряженной атаки": [
+                    "142.88%",
+                    "153.6%",
+                    "164.31%",
+                    "178.6%",
+                    "189.32%",
+                    "200.03%",
+                    "214.32%",
+                    "228.61%",
+                    "242.9%",
+                    "257.18%",
+                    "271.47%",
+                    "285.76%",
+                    "303.62%",
+                    "321.48%",
+                    "339.34%"
+                ],
+                "Урон низкого/высокого удара": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ]
+            },
+            "name": "Охлаждающая процедура"
+        }
+    }
+}

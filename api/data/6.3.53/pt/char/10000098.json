@@ -1,0 +1,1412 @@
+{
+    "info": {
+        "name": "Clorinde",
+        "description": "Uma Duelista Representante invicta. Espada em mão, ela defende a justiça na Corte de Fontaine.",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_SWORD_ONE_HAND",
+        "birthday": "September 20th",
+        "element": "Electro",
+        "constellation": "Rapperia",
+        "attributes": [
+            {
+                "level": 1,
+                "ascension": 0,
+                "hp": 1009,
+                "atk": 26,
+                "def": 61,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 2,
+                "ascension": 0,
+                "hp": 1092,
+                "atk": 28,
+                "def": 66,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 3,
+                "ascension": 0,
+                "hp": 1176,
+                "atk": 31,
+                "def": 71,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 4,
+                "ascension": 0,
+                "hp": 1261,
+                "atk": 33,
+                "def": 76,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 5,
+                "ascension": 0,
+                "hp": 1344,
+                "atk": 35,
+                "def": 81,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 6,
+                "ascension": 0,
+                "hp": 1429,
+                "atk": 37,
+                "def": 86,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 7,
+                "ascension": 0,
+                "hp": 1513,
+                "atk": 39,
+                "def": 92,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 8,
+                "ascension": 0,
+                "hp": 1598,
+                "atk": 42,
+                "def": 97,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 9,
+                "ascension": 0,
+                "hp": 1682,
+                "atk": 44,
+                "def": 102,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 10,
+                "ascension": 0,
+                "hp": 1766,
+                "atk": 46,
+                "def": 107,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 11,
+                "ascension": 0,
+                "hp": 1851,
+                "atk": 48,
+                "def": 112,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 12,
+                "ascension": 0,
+                "hp": 1936,
+                "atk": 50,
+                "def": 117,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 13,
+                "ascension": 0,
+                "hp": 2020,
+                "atk": 53,
+                "def": 122,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 14,
+                "ascension": 0,
+                "hp": 2106,
+                "atk": 55,
+                "def": 127,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 15,
+                "ascension": 0,
+                "hp": 2191,
+                "atk": 57,
+                "def": 133,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 16,
+                "ascension": 0,
+                "hp": 2275,
+                "atk": 59,
+                "def": 138,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 17,
+                "ascension": 0,
+                "hp": 2361,
+                "atk": 61,
+                "def": 143,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 18,
+                "ascension": 0,
+                "hp": 2446,
+                "atk": 64,
+                "def": 148,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 19,
+                "ascension": 0,
+                "hp": 2532,
+                "atk": 66,
+                "def": 153,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 20,
+                "ascension": 0,
+                "hp": 2616,
+                "atk": 68,
+                "def": 158,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 21,
+                "ascension": 1,
+                "hp": 3567,
+                "atk": 93,
+                "def": 216,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 22,
+                "ascension": 1,
+                "hp": 3653,
+                "atk": 95,
+                "def": 221,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 23,
+                "ascension": 1,
+                "hp": 3738,
+                "atk": 97,
+                "def": 226,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 24,
+                "ascension": 1,
+                "hp": 3824,
+                "atk": 100,
+                "def": 231,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 25,
+                "ascension": 1,
+                "hp": 3910,
+                "atk": 102,
+                "def": 237,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 26,
+                "ascension": 1,
+                "hp": 3997,
+                "atk": 104,
+                "def": 242,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 27,
+                "ascension": 1,
+                "hp": 4082,
+                "atk": 106,
+                "def": 247,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 28,
+                "ascension": 1,
+                "hp": 4168,
+                "atk": 108,
+                "def": 252,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 29,
+                "ascension": 1,
+                "hp": 4255,
+                "atk": 111,
+                "def": 257,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 30,
+                "ascension": 1,
+                "hp": 4340,
+                "atk": 113,
+                "def": 263,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 31,
+                "ascension": 1,
+                "hp": 4427,
+                "atk": 115,
+                "def": 268,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 32,
+                "ascension": 1,
+                "hp": 4514,
+                "atk": 117,
+                "def": 273,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 33,
+                "ascension": 1,
+                "hp": 4601,
+                "atk": 120,
+                "def": 278,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 34,
+                "ascension": 1,
+                "hp": 4686,
+                "atk": 122,
+                "def": 284,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 35,
+                "ascension": 1,
+                "hp": 4773,
+                "atk": 124,
+                "def": 289,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 36,
+                "ascension": 1,
+                "hp": 4861,
+                "atk": 127,
+                "def": 294,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 37,
+                "ascension": 1,
+                "hp": 4948,
+                "atk": 129,
+                "def": 299,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 38,
+                "ascension": 1,
+                "hp": 5034,
+                "atk": 131,
+                "def": 305,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 39,
+                "ascension": 1,
+                "hp": 5121,
+                "atk": 133,
+                "def": 310,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 40,
+                "ascension": 1,
+                "hp": 5209,
+                "atk": 136,
+                "def": 315,
+                "CRIT Rate%": "0"
+            },
+            {
+                "level": 41,
+                "ascension": 2,
+                "hp": 5910,
+                "atk": 154,
+                "def": 358,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 42,
+                "ascension": 2,
+                "hp": 5998,
+                "atk": 156,
+                "def": 363,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 43,
+                "ascension": 2,
+                "hp": 6086,
+                "atk": 158,
+                "def": 368,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 44,
+                "ascension": 2,
+                "hp": 6172,
+                "atk": 161,
+                "def": 373,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 45,
+                "ascension": 2,
+                "hp": 6260,
+                "atk": 163,
+                "def": 379,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 46,
+                "ascension": 2,
+                "hp": 6348,
+                "atk": 165,
+                "def": 384,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 47,
+                "ascension": 2,
+                "hp": 6436,
+                "atk": 168,
+                "def": 389,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 48,
+                "ascension": 2,
+                "hp": 6523,
+                "atk": 170,
+                "def": 395,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 49,
+                "ascension": 2,
+                "hp": 6612,
+                "atk": 172,
+                "def": 400,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 50,
+                "ascension": 2,
+                "hp": 6700,
+                "atk": 174,
+                "def": 405,
+                "CRIT Rate%": "4.8"
+            },
+            {
+                "level": 51,
+                "ascension": 3,
+                "hp": 7607,
+                "atk": 198,
+                "def": 460,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 52,
+                "ascension": 3,
+                "hp": 7696,
+                "atk": 200,
+                "def": 466,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 53,
+                "ascension": 3,
+                "hp": 7783,
+                "atk": 203,
+                "def": 471,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 54,
+                "ascension": 3,
+                "hp": 7872,
+                "atk": 205,
+                "def": 476,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 55,
+                "ascension": 3,
+                "hp": 7961,
+                "atk": 207,
+                "def": 482,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 56,
+                "ascension": 3,
+                "hp": 8050,
+                "atk": 210,
+                "def": 487,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 57,
+                "ascension": 3,
+                "hp": 8138,
+                "atk": 212,
+                "def": 492,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 58,
+                "ascension": 3,
+                "hp": 8227,
+                "atk": 214,
+                "def": 498,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 59,
+                "ascension": 3,
+                "hp": 8316,
+                "atk": 216,
+                "def": 503,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 60,
+                "ascension": 3,
+                "hp": 8405,
+                "atk": 219,
+                "def": 509,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 61,
+                "ascension": 4,
+                "hp": 9108,
+                "atk": 237,
+                "def": 551,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 62,
+                "ascension": 4,
+                "hp": 9197,
+                "atk": 239,
+                "def": 556,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 63,
+                "ascension": 4,
+                "hp": 9286,
+                "atk": 242,
+                "def": 562,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 64,
+                "ascension": 4,
+                "hp": 9375,
+                "atk": 244,
+                "def": 567,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 65,
+                "ascension": 4,
+                "hp": 9465,
+                "atk": 246,
+                "def": 573,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 66,
+                "ascension": 4,
+                "hp": 9555,
+                "atk": 249,
+                "def": 578,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 67,
+                "ascension": 4,
+                "hp": 9643,
+                "atk": 251,
+                "def": 583,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 68,
+                "ascension": 4,
+                "hp": 9733,
+                "atk": 253,
+                "def": 589,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 69,
+                "ascension": 4,
+                "hp": 9823,
+                "atk": 256,
+                "def": 594,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 70,
+                "ascension": 4,
+                "hp": 9913,
+                "atk": 258,
+                "def": 600,
+                "CRIT Rate%": "9.6"
+            },
+            {
+                "level": 71,
+                "ascension": 5,
+                "hp": 10617,
+                "atk": 276,
+                "def": 642,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 72,
+                "ascension": 5,
+                "hp": 10708,
+                "atk": 279,
+                "def": 648,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 73,
+                "ascension": 5,
+                "hp": 10798,
+                "atk": 281,
+                "def": 653,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 74,
+                "ascension": 5,
+                "hp": 10887,
+                "atk": 283,
+                "def": 659,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 75,
+                "ascension": 5,
+                "hp": 10978,
+                "atk": 286,
+                "def": 664,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 76,
+                "ascension": 5,
+                "hp": 11068,
+                "atk": 288,
+                "def": 670,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 77,
+                "ascension": 5,
+                "hp": 11159,
+                "atk": 290,
+                "def": 675,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 78,
+                "ascension": 5,
+                "hp": 11249,
+                "atk": 293,
+                "def": 681,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 79,
+                "ascension": 5,
+                "hp": 11340,
+                "atk": 295,
+                "def": 686,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 80,
+                "ascension": 5,
+                "hp": 11431,
+                "atk": 298,
+                "def": 692,
+                "CRIT Rate%": "14.4"
+            },
+            {
+                "level": 81,
+                "ascension": 6,
+                "hp": 12136,
+                "atk": 316,
+                "def": 734,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 82,
+                "ascension": 6,
+                "hp": 12227,
+                "atk": 318,
+                "def": 740,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 83,
+                "ascension": 6,
+                "hp": 12318,
+                "atk": 321,
+                "def": 745,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 84,
+                "ascension": 6,
+                "hp": 12408,
+                "atk": 323,
+                "def": 751,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 85,
+                "ascension": 6,
+                "hp": 12499,
+                "atk": 325,
+                "def": 756,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 86,
+                "ascension": 6,
+                "hp": 12591,
+                "atk": 328,
+                "def": 762,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 87,
+                "ascension": 6,
+                "hp": 12682,
+                "atk": 330,
+                "def": 767,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 88,
+                "ascension": 6,
+                "hp": 12774,
+                "atk": 332,
+                "def": 773,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 89,
+                "ascension": 6,
+                "hp": 12865,
+                "atk": 335,
+                "def": 778,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 90,
+                "ascension": 6,
+                "hp": 12956,
+                "atk": 337,
+                "def": 784,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 95,
+                "ascension": 6,
+                "hp": 13416,
+                "atk": 375,
+                "def": 812,
+                "CRIT Rate%": "19.2"
+            },
+            {
+                "level": 100,
+                "ascension": 6,
+                "hp": 13877,
+                "atk": 413,
+                "def": 840,
+                "CRIT Rate%": "19.2"
+            }
+        ]
+    },
+    "icons": {
+        "forward": "UI_AvatarIcon_Clorinde",
+        "coop_img": "UI_CoopImg_Clorinde"
+    },
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101237": 168
+        },
+        "elemental": {
+            "104141": 1,
+            "104142": 9,
+            "104143": 9,
+            "104144": 6
+        },
+        "worldmonster": {
+            "112080": 18,
+            "112081": 30,
+            "112082": 36
+        },
+        "elitemonster": {
+            "113053": 46
+        }
+    },
+    "skills": {
+        "normalattack": {
+            "name": "Juramento do Marechalato",
+            "icon": "Skill_A_01",
+            "multipliers": {
+                "Dano do 1° Golpe": [
+                    "54.06%",
+                    "58.46%",
+                    "62.86%",
+                    "69.15%",
+                    "73.55%",
+                    "78.57%",
+                    "85.49%",
+                    "92.4%",
+                    "99.32%",
+                    "106.86%",
+                    "114.41%",
+                    "121.95%",
+                    "129.49%",
+                    "137.03%",
+                    "144.58%"
+                ],
+                "Dano do 2° Golpe": [
+                    "51.63%",
+                    "55.83%",
+                    "60.03%",
+                    "66.04%",
+                    "70.24%",
+                    "75.04%",
+                    "81.64%",
+                    "88.25%",
+                    "94.85%",
+                    "102.06%",
+                    "109.26%",
+                    "116.46%",
+                    "123.67%",
+                    "130.87%",
+                    "138.08%"
+                ],
+                "Dano do 3° Golpe": [
+                    "34.19%+34.19%",
+                    "36.97%+36.97%",
+                    "39.75%+39.75%",
+                    "43.72%+43.72%",
+                    "46.51%+46.51%",
+                    "49.69%+49.69%",
+                    "54.06%+54.06%",
+                    "58.43%+58.43%",
+                    "62.81%+62.81%",
+                    "67.58%+67.58%",
+                    "72.35%+72.35%",
+                    "77.11%+77.11%",
+                    "81.88%+81.88%",
+                    "86.66%+86.66%",
+                    "91.43%+91.43%"
+                ],
+                "Dano do 4° Golpe": [
+                    "23.13%+23.13%+23.13%",
+                    "25.02%+25.02%+25.02%",
+                    "26.9%+26.9%+26.9%",
+                    "29.59%+29.59%+29.59%",
+                    "31.47%+31.47%+31.47%",
+                    "33.63%+33.63%+33.63%",
+                    "36.58%+36.58%+36.58%",
+                    "39.54%+39.54%+39.54%",
+                    "42.5%+42.5%+42.5%",
+                    "45.73%+45.73%+45.73%",
+                    "48.96%+48.96%+48.96%",
+                    "52.19%+52.19%+52.19%",
+                    "55.41%+55.41%+55.41%",
+                    "58.64%+58.64%+58.64%",
+                    "61.87%+61.87%+61.87%"
+                ],
+                "Dano do 5° Golpe": [
+                    "90.01%",
+                    "97.34%",
+                    "104.66%",
+                    "115.13%",
+                    "122.46%",
+                    "130.83%",
+                    "142.34%",
+                    "153.85%",
+                    "165.37%",
+                    "177.93%",
+                    "190.49%",
+                    "203.05%",
+                    "215.61%",
+                    "228.17%",
+                    "240.72%"
+                ],
+                "Dano de Ataque Carregado": [
+                    "128.14%",
+                    "138.57%",
+                    "149%",
+                    "163.9%",
+                    "174.33%",
+                    "186.25%",
+                    "202.64%",
+                    "219.03%",
+                    "235.42%",
+                    "253.3%",
+                    "271.18%",
+                    "289.06%",
+                    "306.94%",
+                    "324.82%",
+                    "342.7%"
+                ],
+                "Consumo de Stamina de Ataque Carregado": [
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20"
+                ],
+                "Dano Durante a Queda": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ]
+            },
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 5 golpes consecutivos.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome uma certa quantidade de Stamina usando sua pistola para disparar Tiros Supressores no formato de um leque.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE no impacto."
+        },
+        "elementalskill": {
+            "name": "Patrulha na Escuridão",
+            "icon": "Skill_S_Clorinde_01",
+            "multipliers": {
+                "Dano de Caçada Selvagem": [
+                    "26.76%/38.79%",
+                    "28.94%/41.94%",
+                    "31.12%/45.1%",
+                    "34.23%/49.61%",
+                    "36.41%/52.77%",
+                    "38.9%/56.38%",
+                    "42.32%/61.34%",
+                    "45.75%/66.3%",
+                    "49.17%/71.26%",
+                    "52.9%/76.67%",
+                    "56.64%/82.08%",
+                    "60.37%/87.49%",
+                    "64.11%/92.91%",
+                    "67.84%/98.32%",
+                    "71.58%/103.73%"
+                ],
+                "Ganho de Contrato de Vida de Caçada Selvagem": [
+                    "35% da Vida Máxima",
+                    "35% da Vida Máxima",
+                    "35% da Vida Máxima",
+                    "35% da Vida Máxima",
+                    "35% da Vida Máxima",
+                    "35% da Vida Máxima",
+                    "35% da Vida Máxima",
+                    "35% da Vida Máxima",
+                    "35% da Vida Máxima",
+                    "35% da Vida Máxima",
+                    "35% da Vida Máxima",
+                    "35% da Vida Máxima",
+                    "35% da Vida Máxima",
+                    "35% da Vida Máxima",
+                    "35% da Vida Máxima"
+                ],
+                "Dano de Perfura-Noite": [
+                    "32.97%/43.96%/25.11% ×3",
+                    "35.66%/47.54%/27.16% ×3",
+                    "38.34%/51.12%/29.2% ×3",
+                    "42.17%/56.23%/32.12% ×3",
+                    "44.86%/59.81%/34.16% ×3",
+                    "47.93%/63.9%/36.5% ×3",
+                    "52.14%/69.52%/39.71% ×3",
+                    "56.36%/75.15%/42.92% ×3",
+                    "60.58%/80.77%/46.14% ×3",
+                    "65.18%/86.9%/49.64% ×3",
+                    "69.78%/93.04%/53.14% ×3",
+                    "74.38%/99.17%/56.65% ×3",
+                    "78.98%/105.31%/60.15% ×3",
+                    "83.58%/111.44%/63.66% ×3",
+                    "88.18%/117.58%/67.16% ×3"
+                ],
+                "Cura de Perfura-Noite": [
+                    "0%/104%/110% do Contrato de Vida",
+                    "0%/104%/110% do Contrato de Vida",
+                    "0%/104%/110% do Contrato de Vida",
+                    "0%/104%/110% do Contrato de Vida",
+                    "0%/104%/110% do Contrato de Vida",
+                    "0%/104%/110% do Contrato de Vida",
+                    "0%/104%/110% do Contrato de Vida",
+                    "0%/104%/110% do Contrato de Vida",
+                    "0%/104%/110% do Contrato de Vida",
+                    "0%/104%/110% do Contrato de Vida",
+                    "0%/104%/110% do Contrato de Vida",
+                    "0%/104%/110% do Contrato de Vida",
+                    "0%/104%/110% do Contrato de Vida",
+                    "0%/104%/110% do Contrato de Vida",
+                    "0%/104%/110% do Contrato de Vida"
+                ],
+                "Conversão do Contrato de Vida": [
+                    "80% de Cura",
+                    "80% de Cura",
+                    "80% de Cura",
+                    "80% de Cura",
+                    "80% de Cura",
+                    "80% de Cura",
+                    "80% de Cura",
+                    "80% de Cura",
+                    "80% de Cura",
+                    "80% de Cura",
+                    "80% de Cura",
+                    "80% de Cura",
+                    "80% de Cura",
+                    "80% de Cura",
+                    "80% de Cura"
+                ],
+                "Dano de Lâmina da Fluidez": [
+                    "43.2%",
+                    "46.44%",
+                    "49.68%",
+                    "54%",
+                    "57.24%",
+                    "60.48%",
+                    "64.8%",
+                    "69.12%",
+                    "73.44%",
+                    "77.76%",
+                    "82.08%",
+                    "86.4%",
+                    "91.8%",
+                    "97.2%",
+                    "102.6%"
+                ],
+                "Intervalo de Lâmina da Fluidez": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ],
+                "Duração da Patrulha Noturna": [
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s",
+                    "7.5s"
+                ],
+                "Tempo de Recarga": [
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s",
+                    "16s"
+                ]
+            },
+            "description": "Preparando sua pistola, entra no estado \"Patrulha Noturna\", usando uma combinação de aço e disparo. Nesse estado, o Ataque Normal de Clorinde é convertido em ataques de pistola \"Caçada Selvagem\", e o Dano causado é convertido em <color=#FFACFFFF>Dano Electro</color> que não pode ser substituído e não pode utilizar Ataque Carregado. Ao lançar, sua Habilidade Elemental é transformada em \"Perfura-Noite\": faz um ataque de investida, causando <color=#FFACFFFF>Dano Electro</color>. O Dano causado dessa forma é considerado Dano de Ataque Normal.\\n\\n<color=#FFD780FF>Caçada Selvagem</color>\\n· Quando seu Contrato de Vida é igual ou maior que 100% de sua Vida Máxima: dispara sua pistola.\\nQuando seu Contrato de Vida é menor que 100% de sua Vida Máxima, disparar a pistola a concederá um Contrato de Vida, com a quantidade concedida sendo baseada na sua Vida Máxima. Os disparos que ela realizar podem perfurar os oponentes, e o Dano causado contra os oponentes em seu caminho é aumentado.\\n\\n<color=#FFD780FF>Perfura-Noite</color>\\nBaseado numa certa porcentagem do Contrato de Vida atual, determina o efeito do Perfura-Noite atual:\\n· Quando o Contrato de Vida é 0% para ser eliminado, faz um ataque de investida.\\n· Quando o valor do Contrato de Vida é menor que 100% de sua Vida Máxima, cura Clorinde. A quantidade curada é baseada no valor do Contrato de Vida. Aumenta a AdE e o Dano desse Perfura-Noite\\n· Quando o valor do Contrato de Vida é igual ou maior que 100% de sua Vida Máxima, faz o ataque Perfura-Noite: Ordem, regenerando uma maior proporção de Vida para Clorinde, e aumentando o Dano e AdE desse Perfura-Noite.\\n\\nAlém disso, quando Clorinde está no estado Patrulha Noturna, efeitos de cura que não sejam Perfura-Noite não surtirão efeito, e ao invés disso, serão convertidos em um Contrato de Vida que é uma porcentagem da cura que teria sido recebida.\\n\\nO estado Patrulha Noturna será removido quando Clorinde sair do campo.\\n\\n<color=#FFD780FF>Arkhe: Ousia</color>\\nPeriodicamente, quando os disparos de Caçada Selvagem de Clorinde atingem oponentes, uma Lâmina da Fluidez cairá na posição deles, causando <color=#FFACFFFF>Dano Electro</color> com Ousia.\\n\\n<i>Apesar do mal que se escondia nas sombras da noite ter sido expurgado ao longo de milênios, a sombra que a luz não podia alcançar escurecia os corações humanos.\\nAinda agora, o aviso deixado pela Caçadora Dourada estava em sua memória: aqueles da Patrulha Noturna, segurando velas contra a escuridão têm uma necessidade ainda maior de se manterem vigilantes. Não sejam cooptados pela escuridão fria.</i>"
+        },
+        "elementalburst": {
+            "name": "Queda da Luz",
+            "icon": "Skill_E_Clorinde_01",
+            "multipliers": {
+                "Dano de Habilidade": [
+                    "126.88% x5",
+                    "136.4% x5",
+                    "145.91% x5",
+                    "158.6% x5",
+                    "168.12% x5",
+                    "177.63% x5",
+                    "190.32% x5",
+                    "203.01% x5",
+                    "215.7% x5",
+                    "228.38% x5",
+                    "241.07% x5",
+                    "253.76% x5",
+                    "269.62% x5",
+                    "285.48% x5",
+                    "301.34% x5"
+                ],
+                "Ganho de Contrato de Vida": [
+                    "66% da Vida Máxima",
+                    "72% da Vida Máxima",
+                    "78% da Vida Máxima",
+                    "84% da Vida Máxima",
+                    "90% da Vida Máxima",
+                    "96% da Vida Máxima",
+                    "102% da Vida Máxima",
+                    "108% da Vida Máxima",
+                    "114% da Vida Máxima",
+                    "120% da Vida Máxima",
+                    "126% da Vida Máxima",
+                    "132% da Vida Máxima",
+                    "138% da Vida Máxima",
+                    "144% da Vida Máxima",
+                    "150% da Vida Máxima"
+                ],
+                "Recarga": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Energia Elemental": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ]
+            },
+            "description": "Concede a si mesma um Contrato de Vida baseado em sua Vida Máxima antes de evadir rapidamente e atacar com a espada e a pistola, causando <color=#FFACFFFF>Dano Electro em AdE</color>.\\n\\n<i>Dizem que o legado da arte antiga de resistir seres não humanos, mas com um corpo mortal, remonta aos Cavaleiros da Água Pura que resistiram o império de Remuria.\\nDe qualquer forma, se alguém encontrar uma forma de usar o nível da força, não é como se não pudesse ser usado em duelos contra oponentes ordinários.</i>"
+        },
+        "leveling": {
+            "crown": {
+                "104319": 3
+            },
+            "books": {
+                "104341": 9,
+                "104342": 63,
+                "104343": 114
+            },
+            "worldmonster": {
+                "112080": 18,
+                "112081": 66,
+                "112082": 93
+            },
+            "weekly": {
+                "113048": 18
+            }
+        }
+    },
+    "passives": {
+        "p1": {
+            "name": "Chama Dispersadora da Escuridão",
+            "description": "Depois de um membro da equipe desencadear uma <color=#FFACFFFF>Reação relativa ao Electro</color> em um inimigo, o <color=#FFD780FF>Dano Electro</color> de Ataques Normais de Clorinde e <color=#FFACFFFF>Queda da Luz</color> será aumentado em 20% do ATQ de Clorinde por 15s. Máximo de 3 acúmulos. Cada acúmulo é contado separadamente. O aumento máximo de Dano possível desses ataques é 1.800.",
+            "icon": "UI_Talent_S_Clorinde_05"
+        },
+        "p2": {
+            "name": "Recompensa Legal",
+            "description": "Se o Contrato de Vida de Clorinde é igual ou maior que 100% de sua Vida Máxima, sua Taxa CRIT aumenta em 10% por 15s quando o valor de seu Contrato de Vida aumentar ou diminuir. Máximo de 2 acúmulos. A duração de cada acúmulo é contada separadamente.\\nAlém disso, o estado Patrulha Noturna de <color=#FFD780FF>Patrulha na Escuridão</color> é fortalecido: quando está ativo, a Cura é convertida em uma porcentagem do Contrato de Vida, até no máximo 100%.",
+            "icon": "UI_Talent_S_Clorinde_06"
+        },
+        "p3": {
+            "name": "Recompensa da Patrulha Noturna",
+            "description": "Mostra a localização de <color=#FFD780FF>Especialidades de Fontaine</color> próximas no mapa.",
+            "icon": "UI_Talent_S_Liney_07"
+        },
+        "p4": ""
+    },
+    "constellations": {
+        "const1": {
+            "name": "\"De Hoje em Diante, Passo a Vela pelas Sombras\"",
+            "description": "Enquanto o estado Patrulha Noturna de <color=#FFD780FF>Patrulha na Escuridão</color> está ativo, e quando o <color=#FFACFFFF>Dano Electro</color> dos Ataques Normais de Clorinde atingir um inimigo, ativarão dois ataques coordenados da Sombra da Noite invocada perto do inimigo atingido, causando 30% do ATQ de Clorinde como <color=#FFACFFFF>Dano Electro</color>.\\nEsse efeito pode ser desencadeado uma vez a cada 1.2s. O Dano causado dessa forma é considerado Dano de Ataque Normal.",
+            "icon": "UI_Talent_S_Clorinde_01"
+        },
+        "const2": {
+            "name": "\"Até Aqui, Enquanto Enfrentamos os Perigos da Longa Noite\"",
+            "description": "Aprimora o Talento de Ascensão \"Chama Dispersadora da Escuridão\": Após um membro próximo da equipe desencadear <color=#FFACFFFF>reações relacionadas a Electro</color> contra um oponente, <color=#FFACFFFF>Dano Electro</color> causado por Ataques Normais e <color=#FFD780FF>Queda da Luz</color> serão aumentados em 30% do ATQ de Clorinde por 15s. Máximo de 3 acúmulos. Cada acúmulo tem sua duração contada independentemente. Quando você possui 3 acúmulos, a Resistência contra Interrupção de Clorinde será aumentada. O Dano Máximo alcançável desta forma para os ataques acima é de 2.700.\\nÉ necessário primeiro desbloquear o Talento de Ascensão \"Chama Dispersadora da Escuridão\".",
+            "icon": "UI_Talent_S_Clorinde_02"
+        },
+        "const3": {
+            "name": "\"Jamais Esquecerei o Juramento do Dia\"",
+            "description": "Aumenta o nível das <color=#FFD780FF>Patrulha na Escuridão</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Clorinde_02"
+        },
+        "const4": {
+            "name": "\"Lembrarei as Lágrimas, a Vida e o Amor\"",
+            "description": "Quando <color=#FFD780FF>Queda da Luz</color> causa Dano contra os oponentes, o Dano causado será aumentado baseado na porcentagem do Contrato de Vida de Clorinde. Cada 1% de seu Contrato de Vida aumentará o Dano de <color=#FFD780FF>Queda da Luz</color> em 2%. O máximo de aumento de Dano de <color=#FFD780FF>Queda da Luz</color> alcançável desta forma é 200%.",
+            "icon": "UI_Talent_S_Clorinde_03"
+        },
+        "const5": {
+            "name": "\"Lembrarei da Chegada do Amanhecer\"",
+            "description": "Aumenta o Nível de <color=#FFD780FF>Queda da Luz</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Clorinde_01"
+        },
+        "const6": {
+            "name": "\"E Assim Nunca me Desesperarei\"",
+            "description": "Por 12s depois de <color=#FFD780FF>Patrulha na Escuridão</color> ser usada, a Taxa CRIT de Clorinde será aumentada em 10% e seu Dano CRIT em 70%.\\nAlém disso, enquanto o estado Patrulha Noturna estiver ativo, uma Sombra da Luz aparecerá, fazendo um ataque perseguidor e causando 200% do ATQ de Clorinde como <color=#FFACFFFF>Dano Electro</color>. Dano causado dessa forma é considerado Dano de Ataque Normal.\\nA Sombra da Luz aparecerá nas seguintes circunstâncias:\\n· Quando está para ser atacada por um oponente.\\n· Quando Clorinde usa Perfura-Noite: Ordem.\\n1 Luz da Sombra pode ser invocada dessa forma a cada 1s. 6 Sombras podem ser invocadas por uma única duração de Patrulha Noturna.\\nAlém disso, durante o estado Patrulha Noturna, o Dano que Clorinde sofre é reduzido em 80% e sua Resistência contra interrupção é aumentada. Esse efeito será removido quando o estado Patrulha Noturna acabar, ou 1s depois de invocar Sombras da Luz 6 vezes.",
+            "icon": "UI_Talent_S_Clorinde_04"
+        }
+    },
+    "energy": [
+        {
+            "source": "UNIQUE_Electric_Ball",
+            "particles": "1",
+            "chance": "100%",
+            "cd": "2s"
+        }
+    ],
+    "attacks": [
+        {
+            "name": "Constellation_PassiveSkill",
+            "icd_source": "Grp: Clorinde_ElementalArt (Tag Miss)",
+            "icd_rule": "24 hits / 1s",
+            "gauge": "1U",
+            "poise": "LV2/75",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalArt_GunShot",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/20",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalBurst_Activate",
+            "icd_source": "Tag: ElementalBurst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/50",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalBurst_Activate",
+            "icd_source": "Tag: ElementalBurst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/50",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementalBurst_Activate",
+            "icd_source": "Tag: ElementalBurst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/50",
+            "element": "Electric"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/25",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/100",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/150",
+            "element": "-"
+        },
+        {
+            "name": "DodgeAttack_Bullet_Small",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/25",
+            "element": "Electric"
+        },
+        {
+            "name": "DodgeAttack_Bullet_Small",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/25",
+            "element": "Electric"
+        },
+        {
+            "name": "DodgeAttack_Bullet_Medium",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "-/25",
+            "element": "Electric"
+        },
+        {
+            "name": "DodgeAttack_Bullet_Medium",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "-/25",
+            "element": "Electric"
+        },
+        {
+            "name": "DodgeAttack_Bullet_Large",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/25",
+            "element": "Electric"
+        },
+        {
+            "name": "DodgeAttack_Bullet_Large",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/25",
+            "element": "Electric"
+        },
+        {
+            "name": "DodgeAttack_Bullet_Large",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/25",
+            "element": "Electric"
+        },
+        {
+            "name": "Constellation_1_Gadget",
+            "icd_source": "Grp: Clorinde_ElementalArt (Tag Miss)",
+            "icd_rule": "24 hits / 1s",
+            "gauge": "1U",
+            "poise": "LV2/25",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementArt_Attack_Bullet_Penetrating",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/35",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementArt_Attack_Bullet_Penetrating",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/35",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementArt_Attack_Bullet_Standard",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/25",
+            "element": "Electric"
+        },
+        {
+            "name": "ElementArt_Attack_Bullet_Standard",
+            "icd_source": "Tag: NormalAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/25",
+            "element": "Electric"
+        }
+    ]
+}

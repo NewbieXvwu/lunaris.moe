@@ -1,0 +1,1511 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104111": 1,
+            "104112": 9,
+            "104113": 9,
+            "104114": 6
+        },
+        "elitemonster": {
+            "113066": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101253": 168
+        },
+        "worldmonster": {
+            "112104": 18,
+            "112105": 30,
+            "112106": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: MotorAttack (!)",
+            "name": "Motorcycle_ExtraAttack",
+            "poise": "LV7/120"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: MotorAttack (!)",
+            "name": "Motorcycle_ExtraAttack",
+            "poise": "LV7/120"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: MotorAttack (!)",
+            "name": "Gadget_ExtraAttackCollider",
+            "poise": "LV7/60"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: MotorAttack (!)",
+            "name": "Gadget_ExtraAttackCollider",
+            "poise": "LV7/60"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: MotorAttack (!)",
+            "name": "Gadget_SprintCollider",
+            "poise": "LV7/75"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt",
+            "poise": "LV3/75"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "Gadget_ArtHoldCollider",
+            "poise": "LV7/75"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "Gadget_BattleWeapon",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "Gadget_BattleWeapon",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV5/150"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/200"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/150"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: MotorAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/35"
+        },
+        {
+            "element": "Fire",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "Constellation_6",
+            "poise": "LV7/75"
+        },
+        {
+            "element": "Fire",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "Gadget_Constellation_BattleWeapon",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "Fire",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "Gadget_Constellation_BattleWeapon",
+            "poise": "LV3/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "玛薇卡的夜魂值上限提升为120点，且战意的获取效率提升25%。\\n此外，获取战意后，玛薇卡的攻击力提升40%，持续8秒。",
+            "icon": "UI_Talent_S_Mavuika_01",
+            "name": "夜主的授记"
+        },
+        "const2": {
+            "description": "处于夜魂加持状态下时，玛薇卡的基础攻击力提升200点，并根据诸火武装的形态，获得对应效果：\\n·焚曜之环：附近的敌人的防御力降低20%；\\n·驰轮车：玛薇卡的普通攻击、重击、元素爆发<color=#FFD780FF>燔天之时</color>中的坠日斩造成的伤害提升，提升值相当于玛薇卡攻击力的60%/90%/120%。",
+            "icon": "UI_Talent_S_Mavuika_02",
+            "name": "灰烬的代价"
+        },
+        "const3": {
+            "description": "元素爆发<color=#FFD780FF>燔天之时</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Mavuika_01",
+            "name": "燃烧的太阳"
+        },
+        "const4": {
+            "description": "突破天赋「基扬戈兹」的效果获得提升：\\n施放元素爆发<color=#FFD780FF>燔天之时</color>后的伤害提升效果不再随时间降低，并额外获得10%伤害加成。\\n需要解锁突破天赋「基扬戈兹」。",
+            "icon": "UI_Talent_S_Mavuika_03",
+            "name": "「领袖」的觉悟"
+        },
+        "const5": {
+            "description": "元素战技<color=#FFD780FF>称名之刻</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Mavuika_02",
+            "name": "真实的含义"
+        },
+        "const6": {
+            "description": "元素战技<color=#FFD780FF>称名之刻</color>中的诸火武装获得完全强化：\\n·焚曜之环：焚曜之环的攻击命中敌人时，将会有一辆驰轮车撞向被命中的敌人，造成200%攻击力的具有夜魂性质的<color=#FF9999FF>火元素范围伤害</color>；\\n·驰轮车：玛薇卡驾驶驰轮车时，还会召唤出持续跟随玛薇卡的「焚曜之环·灼象」，使附近的敌人的防御力降低20%，并且每3秒对周围的敌人造成一次500%攻击力的具有夜魂性质的<color=#FF9999FF>火元素范围伤害</color>，且玛薇卡通过各种地形的能力也会进一步提升。\\n\\n此外，玛薇卡驾驶驰轮车且不处于战斗状态下时，当玛薇卡的夜魂值降低至5点时，将获得80点夜魂值，该效果每15秒至多触发一次。",
+            "icon": "UI_Talent_S_Mavuika_04",
+            "name": "「人之名」解放"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.3s",
+            "chance": "100%",
+            "particles": "5",
+            "source": "DropBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Mavuika",
+        "forward": "UI_AvatarIcon_Mavuika"
+    },
+    "info": {
+        "attributes": [
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 62,
+                "hp": 977,
+                "level": 1
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 67,
+                "hp": 1058,
+                "level": 2
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 72,
+                "hp": 1139,
+                "level": 3
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 77,
+                "hp": 1221,
+                "level": 4
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 82,
+                "hp": 1303,
+                "level": 5
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 40,
+                "def": 87,
+                "hp": 1385,
+                "level": 6
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 92,
+                "hp": 1466,
+                "level": 7
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 44,
+                "def": 98,
+                "hp": 1548,
+                "level": 8
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 47,
+                "def": 103,
+                "hp": 1630,
+                "level": 9
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 49,
+                "def": 108,
+                "hp": 1711,
+                "level": 10
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 51,
+                "def": 113,
+                "hp": 1793,
+                "level": 11
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 54,
+                "def": 118,
+                "hp": 1875,
+                "level": 12
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 56,
+                "def": 123,
+                "hp": 1957,
+                "level": 13
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 58,
+                "def": 129,
+                "hp": 2040,
+                "level": 14
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 61,
+                "def": 134,
+                "hp": 2122,
+                "level": 15
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 63,
+                "def": 139,
+                "hp": 2204,
+                "level": 16
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 65,
+                "def": 144,
+                "hp": 2288,
+                "level": 17
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 68,
+                "def": 149,
+                "hp": 2370,
+                "level": 18
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 70,
+                "def": 155,
+                "hp": 2453,
+                "level": 19
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 72,
+                "def": 160,
+                "hp": 2535,
+                "level": 20
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 99,
+                "def": 218,
+                "hp": 3456,
+                "level": 21
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 101,
+                "def": 223,
+                "hp": 3539,
+                "level": 22
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 104,
+                "def": 228,
+                "hp": 3622,
+                "level": 23
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 106,
+                "def": 234,
+                "hp": 3705,
+                "level": 24
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 108,
+                "def": 239,
+                "hp": 3788,
+                "level": 25
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 111,
+                "def": 244,
+                "hp": 3872,
+                "level": 26
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 113,
+                "def": 249,
+                "hp": 3955,
+                "level": 27
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 115,
+                "def": 255,
+                "hp": 4038,
+                "level": 28
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 118,
+                "def": 260,
+                "hp": 4122,
+                "level": 29
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 120,
+                "def": 265,
+                "hp": 4205,
+                "level": 30
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 123,
+                "def": 270,
+                "hp": 4289,
+                "level": 31
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 125,
+                "def": 276,
+                "hp": 4373,
+                "level": 32
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 127,
+                "def": 281,
+                "hp": 4457,
+                "level": 33
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 130,
+                "def": 286,
+                "hp": 4540,
+                "level": 34
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 132,
+                "def": 292,
+                "hp": 4624,
+                "level": 35
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 135,
+                "def": 297,
+                "hp": 4709,
+                "level": 36
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 137,
+                "def": 302,
+                "hp": 4793,
+                "level": 37
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 139,
+                "def": 308,
+                "hp": 4877,
+                "level": 38
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 142,
+                "def": 313,
+                "hp": 4961,
+                "level": 39
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 144,
+                "def": 318,
+                "hp": 5046,
+                "level": 40
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 164,
+                "def": 361,
+                "hp": 5726,
+                "level": 41
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 166,
+                "def": 366,
+                "hp": 5811,
+                "level": 42
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 169,
+                "def": 372,
+                "hp": 5896,
+                "level": 43
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 171,
+                "def": 377,
+                "hp": 5980,
+                "level": 44
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 173,
+                "def": 382,
+                "hp": 6065,
+                "level": 45
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 176,
+                "def": 388,
+                "hp": 6150,
+                "level": 46
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 178,
+                "def": 393,
+                "hp": 6235,
+                "level": 47
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 181,
+                "def": 399,
+                "hp": 6320,
+                "level": 48
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 183,
+                "def": 404,
+                "hp": 6406,
+                "level": 49
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 186,
+                "def": 409,
+                "hp": 6491,
+                "level": 50
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 211,
+                "def": 465,
+                "hp": 7370,
+                "level": 51
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 213,
+                "def": 470,
+                "hp": 7456,
+                "level": 52
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 216,
+                "def": 476,
+                "hp": 7541,
+                "level": 53
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 218,
+                "def": 481,
+                "hp": 7627,
+                "level": 54
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 220,
+                "def": 486,
+                "hp": 7713,
+                "level": 55
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 223,
+                "def": 492,
+                "hp": 7799,
+                "level": 56
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 225,
+                "def": 497,
+                "hp": 7885,
+                "level": 57
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 228,
+                "def": 503,
+                "hp": 7971,
+                "level": 58
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 230,
+                "def": 508,
+                "hp": 8057,
+                "level": 59
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 233,
+                "def": 514,
+                "hp": 8143,
+                "level": 60
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 252,
+                "def": 556,
+                "hp": 8824,
+                "level": 61
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 255,
+                "def": 562,
+                "hp": 8910,
+                "level": 62
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 257,
+                "def": 567,
+                "hp": 8997,
+                "level": 63
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 260,
+                "def": 573,
+                "hp": 9083,
+                "level": 64
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 262,
+                "def": 578,
+                "hp": 9170,
+                "level": 65
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 265,
+                "def": 584,
+                "hp": 9257,
+                "level": 66
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 267,
+                "def": 589,
+                "hp": 9343,
+                "level": 67
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 270,
+                "def": 595,
+                "hp": 9430,
+                "level": 68
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 272,
+                "def": 600,
+                "hp": 9517,
+                "level": 69
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 274,
+                "def": 606,
+                "hp": 9604,
+                "level": 70
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 294,
+                "def": 649,
+                "hp": 10286,
+                "level": 71
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 297,
+                "def": 654,
+                "hp": 10374,
+                "level": 72
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 299,
+                "def": 660,
+                "hp": 10461,
+                "level": 73
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 301,
+                "def": 665,
+                "hp": 10548,
+                "level": 74
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 304,
+                "def": 671,
+                "hp": 10636,
+                "level": 75
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 306,
+                "def": 676,
+                "hp": 10723,
+                "level": 76
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 309,
+                "def": 682,
+                "hp": 10811,
+                "level": 77
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 312,
+                "def": 687,
+                "hp": 10899,
+                "level": 78
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 314,
+                "def": 693,
+                "hp": 10986,
+                "level": 79
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 317,
+                "def": 698,
+                "hp": 11074,
+                "level": 80
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 336,
+                "def": 742,
+                "hp": 11758,
+                "level": 81
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 339,
+                "def": 747,
+                "hp": 11846,
+                "level": 82
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 341,
+                "def": 753,
+                "hp": 11934,
+                "level": 83
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 344,
+                "def": 758,
+                "hp": 12021,
+                "level": 84
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 346,
+                "def": 764,
+                "hp": 12109,
+                "level": 85
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 349,
+                "def": 769,
+                "hp": 12198,
+                "level": 86
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 351,
+                "def": 775,
+                "hp": 12286,
+                "level": 87
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 354,
+                "def": 780,
+                "hp": 12375,
+                "level": 88
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 356,
+                "def": 786,
+                "hp": 12464,
+                "level": 89
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 359,
+                "def": 792,
+                "hp": 12552,
+                "level": 90
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 399,
+                "def": 820,
+                "hp": 12998,
+                "level": 95
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 439,
+                "def": 848,
+                "hp": 13444,
+                "level": 100
+            }
+        ],
+        "birthday": "August 28th",
+        "constellation": "不败阳焰座",
+        "description": "纳塔的领袖，继承「基扬戈兹」之古名，誓以圣火为战争国度照亮未来。",
+        "element": "Pyro",
+        "name": "玛薇卡",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_CLAYMORE"
+    },
+    "passives": {
+        "p1": {
+            "description": "队伍中的附近的角色触发「夜魂迸发」时，玛薇卡的攻击力提升30%，持续10秒。",
+            "icon": "UI_Talent_S_Mavuika_05",
+            "name": "炎花献礼"
+        },
+        "p2": {
+            "description": "施放元素爆发<color=#FFD780FF>燔天之时</color>后，依据施放时的战意，每点战意都将使当前场上角色造成的伤害提升0.2%，通过这种方式至多使队伍中的当前场上角色造成的伤害提升40%，该效果持续20秒，并会在持续时间内逐渐降低为0。",
+            "icon": "UI_Talent_S_Mavuika_06",
+            "name": "「基扬戈兹」"
+        },
+        "p3": {
+            "description": "在夜魂值耗竭后，玛薇卡将会转而消耗燃素来维持诸火武装·驰轮车。\\n在纳塔存在燃素机制的区域时，能够进行夜魂传递·玛薇卡。当前场上角色处于冲刺、攀爬、游泳或是特定天赋赋予的移动状态下，或是位于一定高度的空中时，切换玛薇卡登场时触发：玛薇卡将进入夜魂加持状态，并获得相当于玛薇卡夜魂值上限50%的夜魂值。自己的队伍每10秒可以触发一次夜魂传递。",
+            "icon": "UI_Talent_S_Mavuika_07",
+            "name": "夜域赐礼·耗竭模式"
+        },
+        "p4": {
+            "description": "队伍触发夜魂传递的冷却时间减少20%。",
+            "icon": "UI_Talent_S_Citlali_07",
+            "name": "破夜的焰光"
+        }
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "让众人的心声，直抵高天的神座。\\n<color=#FFD780FF>玛薇卡的元素爆发不依靠元素能量，而是依靠「战意」。</color>\\n\\n<color=#FFD780FF>战意</color>\\n当玛薇卡拥有至少50%战意时，玛薇卡可以消耗所有战意，施放元素爆发。\\n玛薇卡可以通过以下方式获取战意：\\n·处于战斗状态下时，队伍中的附近的角色消耗的夜魂值将会转化为玛薇卡的战意；\\n·队伍中附近的角色的普通攻击命中敌人时，玛薇卡将获得1.5点战意，该效果每0.1秒至多触发一次。\\n\\n施放后，玛薇卡获得10点夜魂值，进入夜魂加持状态，驾驶驰轮车腾跃至空中，并向地面上的敌人进行一次强力的坠日斩，造成具有夜魂性质的<color=#FF9999FF>火元素范围伤害</color>，并进入「死生之炉」状态。\\n\\n<color=#FFD780FF>死生之炉</color>\\n持续期间，玛薇卡的各种行为将不再消耗夜魂值，并提高玛薇卡的抗打断能力。同时，依据施放时的战意，提升坠日斩、「古名解放」时的普通攻击与重击造成的伤害。\\n死生之炉状态将在玛薇卡退场时解除。\\n\\n<i>「——但这次，我想亲手打碎这样的宿命。」</i>",
+            "icon": "Skill_E_Mavuika_01",
+            "multipliers": {
+                "冷却时间": [
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒",
+                    "18秒"
+                ],
+                "坠日斩伤害提升": [
+                    "每点战意/1.6%攻击力",
+                    "每点战意/1.72%攻击力",
+                    "每点战意/1.84%攻击力",
+                    "每点战意/2%攻击力",
+                    "每点战意/2.12%攻击力",
+                    "每点战意/2.24%攻击力",
+                    "每点战意/2.4%攻击力",
+                    "每点战意/2.56%攻击力",
+                    "每点战意/2.72%攻击力",
+                    "每点战意/2.88%攻击力",
+                    "每点战意/3.04%攻击力",
+                    "每点战意/3.2%攻击力",
+                    "每点战意/3.4%攻击力",
+                    "每点战意/3.6%攻击力",
+                    "每点战意/3.8%攻击力"
+                ],
+                "战意上限": [
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200"
+                ],
+                "技能伤害": [
+                    "444.8%",
+                    "478.16%",
+                    "511.52%",
+                    "556%",
+                    "589.36%",
+                    "622.72%",
+                    "667.2%",
+                    "711.68%",
+                    "756.16%",
+                    "800.64%",
+                    "845.12%",
+                    "889.6%",
+                    "945.2%",
+                    "1000.8%",
+                    "1056.4%"
+                ],
+                "死生之炉持续时间": [
+                    "7秒",
+                    "7秒",
+                    "7秒",
+                    "7秒",
+                    "7秒",
+                    "7秒",
+                    "7秒",
+                    "7秒",
+                    "7秒",
+                    "7秒",
+                    "7秒",
+                    "7秒",
+                    "7秒",
+                    "7秒",
+                    "7秒"
+                ],
+                "驰轮车普通攻击伤害提升": [
+                    "每点战意/0.26%攻击力",
+                    "每点战意/0.28%攻击力",
+                    "每点战意/0.3%攻击力",
+                    "每点战意/0.33%攻击力",
+                    "每点战意/0.35%攻击力",
+                    "每点战意/0.37%攻击力",
+                    "每点战意/0.41%攻击力",
+                    "每点战意/0.44%攻击力",
+                    "每点战意/0.47%攻击力",
+                    "每点战意/0.51%攻击力",
+                    "每点战意/0.55%攻击力",
+                    "每点战意/0.58%攻击力",
+                    "每点战意/0.62%攻击力",
+                    "每点战意/0.65%攻击力",
+                    "每点战意/0.69%攻击力"
+                ],
+                "驰轮车重击伤害提升": [
+                    "每点战意/0.52%攻击力",
+                    "每点战意/0.56%攻击力",
+                    "每点战意/0.6%攻击力",
+                    "每点战意/0.66%攻击力",
+                    "每点战意/0.7%攻击力",
+                    "每点战意/0.75%攻击力",
+                    "每点战意/0.82%攻击力",
+                    "每点战意/0.88%攻击力",
+                    "每点战意/0.95%攻击力",
+                    "每点战意/1.02%攻击力",
+                    "每点战意/1.09%攻击力",
+                    "每点战意/1.16%攻击力",
+                    "每点战意/1.24%攻击力",
+                    "每点战意/1.31%攻击力",
+                    "每点战意/1.38%攻击力"
+                ]
+            },
+            "name": "燔天之时"
+        },
+        "elementalskill": {
+            "description": "依凭「争斗」的权柄，召唤人神传承的「诸火武装」，造成具有夜魂性质的<color=#FF9999FF>火元素伤害</color>。\\n施放后，玛薇卡将恢复夜魂值至上限，并进入夜魂加持状态。\\n\\n<color=#FFD780FF>诸火武装</color>\\n依据点按、长按，以不同的形态解放诸火武装。\\n\\n<color=#FFD780FF>点按</color>\\n「神名解放」：诸火武装将以焚曜之环的形态显现。焚曜之环将跟随当前场上角色，并间歇性攻击周围的敌人，造成具有夜魂性质的<color=#FF9999FF>火元素伤害</color>。\\n\\n<color=#FFD780FF>长按</color>\\n「古名解放」：诸火武装将以驰轮车的形态显现。在这种状态下，玛薇卡能驾驶驰轮车高速移动，或是打开驰轮车的后备隐藏推进模块，短暂通过各种地形，以及在空中短暂滑翔。同时，玛薇卡的普通攻击、重击与下落攻击将转为无法被附魔覆盖的具有夜魂性质的<color=#FF9999FF>火元素伤害</color>；进行冲刺时，也会对路径上的敌人造成具有夜魂性质的<color=#FF9999FF>火元素伤害</color>。\\n\\n处于夜魂加持状态下时，点按元素战技可以切换诸火武装的形态；诸火武装将在玛薇卡的夜魂加持结束时消失。\\n\\n<color=#FFD780FF>夜魂加持·玛薇卡</color>\\n依据诸火武装的形态，持续消耗夜魂值。夜魂值耗尽时，玛薇卡的夜魂加持将会结束。\\n\\n<i>如果你告诉玛薇卡，驰轮车类似的东西在别的世界需要上标识作用的牌照，她也会很开心：\\n「我这可是唯一一台，靓号不是随我选了吗？」</i>",
+            "icon": "Skill_S_Mavuika_01",
+            "multipliers": {
+                "冷却时间": [
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒",
+                    "15秒"
+                ],
+                "夜魂值上限": [
+                    "80点",
+                    "80点",
+                    "80点",
+                    "80点",
+                    "80点",
+                    "80点",
+                    "80点",
+                    "80点",
+                    "80点",
+                    "80点",
+                    "80点",
+                    "80点",
+                    "80点",
+                    "80点",
+                    "80点"
+                ],
+                "技能伤害": [
+                    "74.4%",
+                    "79.98%",
+                    "85.56%",
+                    "93%",
+                    "98.58%",
+                    "104.16%",
+                    "111.6%",
+                    "119.04%",
+                    "126.48%",
+                    "133.92%",
+                    "141.36%",
+                    "148.8%",
+                    "158.1%",
+                    "167.4%",
+                    "176.7%"
+                ],
+                "焚曜之环伤害": [
+                    "128%",
+                    "137.6%",
+                    "147.2%",
+                    "160%",
+                    "169.6%",
+                    "179.2%",
+                    "192%",
+                    "204.8%",
+                    "217.6%",
+                    "230.4%",
+                    "243.2%",
+                    "256%",
+                    "272%",
+                    "288%",
+                    "304%"
+                ],
+                "焚曜之环攻击间隔": [
+                    "2秒",
+                    "2秒",
+                    "2秒",
+                    "2秒",
+                    "2秒",
+                    "2秒",
+                    "2秒",
+                    "2秒",
+                    "2秒",
+                    "2秒",
+                    "2秒",
+                    "2秒",
+                    "2秒",
+                    "2秒",
+                    "2秒"
+                ],
+                "驰轮车冲刺伤害": [
+                    "80.84%",
+                    "87.42%",
+                    "94%",
+                    "103.4%",
+                    "109.98%",
+                    "117.5%",
+                    "127.84%",
+                    "138.18%",
+                    "148.52%",
+                    "159.8%",
+                    "171.08%",
+                    "182.36%",
+                    "193.64%",
+                    "204.92%",
+                    "216.2%"
+                ],
+                "驰轮车坠地冲击伤害": [
+                    "159.96%",
+                    "172.98%",
+                    "186%",
+                    "204.6%",
+                    "217.62%",
+                    "232.5%",
+                    "252.96%",
+                    "273.42%",
+                    "293.88%",
+                    "316.2%",
+                    "338.52%",
+                    "360.84%",
+                    "383.16%",
+                    "405.48%",
+                    "427.8%"
+                ],
+                "驰轮车普通攻击一段伤害": [
+                    "57.26%",
+                    "61.93%",
+                    "66.59%",
+                    "73.25%",
+                    "77.91%",
+                    "83.23%",
+                    "90.56%",
+                    "97.88%",
+                    "105.21%",
+                    "113.2%",
+                    "121.19%",
+                    "129.18%",
+                    "137.17%",
+                    "145.16%",
+                    "153.15%"
+                ],
+                "驰轮车普通攻击三段伤害": [
+                    "69.99%",
+                    "75.68%",
+                    "81.38%",
+                    "89.52%",
+                    "95.21%",
+                    "101.72%",
+                    "110.68%",
+                    "119.63%",
+                    "128.58%",
+                    "138.35%",
+                    "148.11%",
+                    "157.88%",
+                    "167.64%",
+                    "177.41%",
+                    "187.17%"
+                ],
+                "驰轮车普通攻击二段伤害": [
+                    "59.13%",
+                    "63.95%",
+                    "68.76%",
+                    "75.63%",
+                    "80.45%",
+                    "85.95%",
+                    "93.51%",
+                    "101.08%",
+                    "108.64%",
+                    "116.89%",
+                    "125.14%",
+                    "133.39%",
+                    "141.64%",
+                    "149.89%",
+                    "158.15%"
+                ],
+                "驰轮车普通攻击五段伤害": [
+                    "91%",
+                    "98.41%",
+                    "105.82%",
+                    "116.4%",
+                    "123.81%",
+                    "132.27%",
+                    "143.91%",
+                    "155.55%",
+                    "167.19%",
+                    "179.89%",
+                    "192.59%",
+                    "205.29%",
+                    "217.99%",
+                    "230.68%",
+                    "243.38%"
+                ],
+                "驰轮车普通攻击四段伤害": [
+                    "69.7%",
+                    "75.38%",
+                    "81.05%",
+                    "89.16%",
+                    "94.83%",
+                    "101.31%",
+                    "110.23%",
+                    "119.15%",
+                    "128.06%",
+                    "137.79%",
+                    "147.51%",
+                    "157.24%",
+                    "166.97%",
+                    "176.69%",
+                    "186.42%"
+                ],
+                "驰轮车重击循环伤害": [
+                    "98.9%",
+                    "106.95%",
+                    "115%",
+                    "126.5%",
+                    "134.55%",
+                    "143.75%",
+                    "156.4%",
+                    "169.05%",
+                    "181.7%",
+                    "195.5%",
+                    "209.3%",
+                    "223.1%",
+                    "236.9%",
+                    "250.7%",
+                    "264.5%"
+                ],
+                "驰轮车重击终结伤害": [
+                    "137.6%",
+                    "148.8%",
+                    "160%",
+                    "176%",
+                    "187.2%",
+                    "200%",
+                    "217.6%",
+                    "235.2%",
+                    "252.8%",
+                    "272%",
+                    "291.2%",
+                    "310.4%",
+                    "329.6%",
+                    "348.8%",
+                    "368%"
+                ]
+            },
+            "name": "称名之刻"
+        },
+        "leveling": {
+            "books": {
+                "104347": 9,
+                "104348": 63,
+                "104349": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113068": 18
+            },
+            "worldmonster": {
+                "112104": 18,
+                "112105": 66,
+                "112106": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>普通攻击</color>\\n进行至多四段的连续挥砍。\\n\\n<color=#FFD780FF>重击</color>\\n消耗一定体力，向前方进行一次格外有力的烈曜斩。\\n\\n<color=#FFD780FF>下落攻击</color>\\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+            "icon": "Skill_A_04",
+            "multipliers": {
+                "一段伤害": [
+                    "80.04%",
+                    "86.55%",
+                    "93.06%",
+                    "102.37%",
+                    "108.88%",
+                    "116.33%",
+                    "126.57%",
+                    "136.8%",
+                    "147.04%",
+                    "158.21%",
+                    "169.38%",
+                    "180.54%",
+                    "191.71%",
+                    "202.88%",
+                    "214.05%"
+                ],
+                "三段伤害": [
+                    "33.22%*3",
+                    "35.93%*3",
+                    "38.63%*3",
+                    "42.49%*3",
+                    "45.2%*3",
+                    "48.29%*3",
+                    "52.54%*3",
+                    "56.79%*3",
+                    "61.04%*3",
+                    "65.67%*3",
+                    "70.31%*3",
+                    "74.95%*3",
+                    "79.58%*3",
+                    "84.22%*3",
+                    "88.85%*3"
+                ],
+                "下坠期间伤害": [
+                    "74.59%",
+                    "80.66%",
+                    "86.73%",
+                    "95.4%",
+                    "101.47%",
+                    "108.41%",
+                    "117.95%",
+                    "127.49%",
+                    "137.03%",
+                    "147.44%",
+                    "157.85%",
+                    "168.26%",
+                    "178.66%",
+                    "189.07%",
+                    "199.48%"
+                ],
+                "二段伤害": [
+                    "36.48%*2",
+                    "39.45%*2",
+                    "42.42%*2",
+                    "46.66%*2",
+                    "49.63%*2",
+                    "53.02%*2",
+                    "57.69%*2",
+                    "62.36%*2",
+                    "67.02%*2",
+                    "72.11%*2",
+                    "77.2%*2",
+                    "82.29%*2",
+                    "87.38%*2",
+                    "92.47%*2",
+                    "97.56%*2"
+                ],
+                "低空/高空坠地冲击伤害": [
+                    "149.14%/186.29%",
+                    "161.28%/201.45%",
+                    "173.42%/216.62%",
+                    "190.77%/238.28%",
+                    "202.91%/253.44%",
+                    "216.78%/270.77%",
+                    "235.86%/294.6%",
+                    "254.93%/318.42%",
+                    "274.01%/342.25%",
+                    "294.82%/368.25%",
+                    "315.63%/394.24%",
+                    "336.44%/420.23%",
+                    "357.25%/446.23%",
+                    "378.06%/472.22%",
+                    "398.87%/498.21%"
+                ],
+                "四段伤害": [
+                    "116.19%",
+                    "125.65%",
+                    "135.11%",
+                    "148.62%",
+                    "158.08%",
+                    "168.89%",
+                    "183.75%",
+                    "198.61%",
+                    "213.47%",
+                    "229.68%",
+                    "245.9%",
+                    "262.11%",
+                    "278.32%",
+                    "294.54%",
+                    "310.75%"
+                ],
+                "重击伤害": [
+                    "193.84%",
+                    "209.62%",
+                    "225.4%",
+                    "247.94%",
+                    "263.72%",
+                    "281.75%",
+                    "306.54%",
+                    "331.34%",
+                    "356.13%",
+                    "383.18%",
+                    "410.23%",
+                    "437.28%",
+                    "464.32%",
+                    "491.37%",
+                    "518.42%"
+                ],
+                "重击体力消耗": [
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点",
+                    "50点"
+                ]
+            },
+            "name": "以火织命"
+        }
+    }
+}

@@ -1,0 +1,1173 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104121": 1,
+            "104122": 9,
+            "104123": 9,
+            "104124": 6
+        },
+        "elitemonster": {
+            "113076": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100056": 168
+        },
+        "worldmonster": {
+            "112011": 18,
+            "112012": 30,
+            "112013": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "SkillObj_Jackbox",
+            "poise": "LV7/80"
+        },
+        {
+            "element": "Water",
+            "gauge": "2U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV4/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Each time Dahlia gains 1 of his Elemental Burst <color=#FFD780FF>{LINK#S11155}Radiant Psalter{/LINK}</color>'s Benison stacks, he will regain 2.5 Elemental Energy.",
+            "icon": "UI_Talent_S_Dahlia_01",
+            "name": "Infallible Procession"
+        },
+        "const2": {
+            "description": "After Dahlia consumes his Elemental Burst <color=#FFD780FF>{LINK#S11155}Radiant Psalter{/LINK}</color>'s Benison stacks to summon a Shield of Sacred Favor, the character protected by said Shield will gain 25% increased Shield Strength for 12s.",
+            "icon": "UI_Talent_S_Dahlia_02",
+            "name": "Revelation of Mercy"
+        },
+        "const3": {
+            "description": "Increases the Level of <color=#FFD780FF>{LINK#S11155}Radiant Psalter{/LINK}</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Dahlia_01",
+            "name": "Windblume Offertory"
+        },
+        "const4": {
+            "description": "The Favonian Favor from Dahlia's Elemental Burst <color=#FFD780FF>{LINK#S11155}Radiant Psalter{/LINK}</color> lasts 3 more seconds.",
+            "icon": "UI_Talent_S_Dahlia_03",
+            "name": "Collect of the Assembly"
+        },
+        "const5": {
+            "description": "Increases the Level of <color=#FFD780FF>{LINK#S11152}Immersive Ordinance{/LINK}</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Dahlia_02",
+            "name": "Let It Be Subtly So"
+        },
+        "const6": {
+            "description": "The current active character affected by the Elemental Burst <color=#FFD780FF>{LINK#S11155}Radiant Psalter{/LINK}</color>'s Favonian Favor has their ATK SPD increased by 10%.\\nAdditionally, when an active character affected by Favonian Favor falls, immediately:\\n· Revive them.\\n· Restore their HP to 100%.\\nThis effect can trigger once every 15 minutes.",
+            "icon": "UI_Talent_S_Dahlia_04",
+            "name": "You Shall Go Out With Joy"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.5s",
+            "chance": "100%",
+            "particles": "3",
+            "source": "ElementalArt_DropBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Dahlia",
+        "forward": "UI_AvatarIcon_Dahlia"
+    },
+    "info": {
+        "attributes": [
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 16,
+                "def": 47,
+                "hp": 1049,
+                "level": 1
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 17,
+                "def": 51,
+                "hp": 1136,
+                "level": 2
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 18,
+                "def": 55,
+                "hp": 1222,
+                "level": 3
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 59,
+                "hp": 1309,
+                "level": 4
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 62,
+                "hp": 1395,
+                "level": 5
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 66,
+                "hp": 1482,
+                "level": 6
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 70,
+                "hp": 1568,
+                "level": 7
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 74,
+                "hp": 1655,
+                "level": 8
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 78,
+                "hp": 1742,
+                "level": 9
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 82,
+                "hp": 1828,
+                "level": 10
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 86,
+                "hp": 1915,
+                "level": 11
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 90,
+                "hp": 2001,
+                "level": 12
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 93,
+                "hp": 2088,
+                "level": 13
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 97,
+                "hp": 2174,
+                "level": 14
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 101,
+                "hp": 2261,
+                "level": 15
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 105,
+                "hp": 2348,
+                "level": 16
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 109,
+                "hp": 2434,
+                "level": 17
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 113,
+                "hp": 2521,
+                "level": 18
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 117,
+                "hp": 2607,
+                "level": 19
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 121,
+                "hp": 2694,
+                "level": 20
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 54,
+                "def": 159,
+                "hp": 3563,
+                "level": 21
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 55,
+                "def": 163,
+                "hp": 3650,
+                "level": 22
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 56,
+                "def": 167,
+                "hp": 3737,
+                "level": 23
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 58,
+                "def": 171,
+                "hp": 3823,
+                "level": 24
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 59,
+                "def": 175,
+                "hp": 3910,
+                "level": 25
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 60,
+                "def": 179,
+                "hp": 3996,
+                "level": 26
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 62,
+                "def": 183,
+                "hp": 4083,
+                "level": 27
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 63,
+                "def": 187,
+                "hp": 4169,
+                "level": 28
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 64,
+                "def": 190,
+                "hp": 4256,
+                "level": 29
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 66,
+                "def": 194,
+                "hp": 4342,
+                "level": 30
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 67,
+                "def": 198,
+                "hp": 4429,
+                "level": 31
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 68,
+                "def": 202,
+                "hp": 4516,
+                "level": 32
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 70,
+                "def": 206,
+                "hp": 4602,
+                "level": 33
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 210,
+                "hp": 4689,
+                "level": 34
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 72,
+                "def": 214,
+                "hp": 4775,
+                "level": 35
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 73,
+                "def": 218,
+                "hp": 4862,
+                "level": 36
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 75,
+                "def": 221,
+                "hp": 4948,
+                "level": 37
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 76,
+                "def": 225,
+                "hp": 5035,
+                "level": 38
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 77,
+                "def": 229,
+                "hp": 5122,
+                "level": 39
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 79,
+                "def": 233,
+                "hp": 5208,
+                "level": 40
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 88,
+                "def": 262,
+                "hp": 5852,
+                "level": 41
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 90,
+                "def": 266,
+                "hp": 5938,
+                "level": 42
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 91,
+                "def": 270,
+                "hp": 6025,
+                "level": 43
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 92,
+                "def": 273,
+                "hp": 6111,
+                "level": 44
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 94,
+                "def": 277,
+                "hp": 6198,
+                "level": 45
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 95,
+                "def": 281,
+                "hp": 6285,
+                "level": 46
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 96,
+                "def": 285,
+                "hp": 6371,
+                "level": 47
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 98,
+                "def": 289,
+                "hp": 6458,
+                "level": 48
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 99,
+                "def": 293,
+                "hp": 6544,
+                "level": 49
+            },
+            {
+                "HP%": "6",
+                "ascension": 2,
+                "atk": 100,
+                "def": 297,
+                "hp": 6631,
+                "level": 50
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 113,
+                "def": 334,
+                "hp": 7459,
+                "level": 51
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 114,
+                "def": 338,
+                "hp": 7546,
+                "level": 52
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 115,
+                "def": 342,
+                "hp": 7633,
+                "level": 53
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 117,
+                "def": 345,
+                "hp": 7719,
+                "level": 54
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 118,
+                "def": 349,
+                "hp": 7806,
+                "level": 55
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 119,
+                "def": 353,
+                "hp": 7892,
+                "level": 56
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 121,
+                "def": 357,
+                "hp": 7979,
+                "level": 57
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 122,
+                "def": 361,
+                "hp": 8065,
+                "level": 58
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 123,
+                "def": 365,
+                "hp": 8152,
+                "level": 59
+            },
+            {
+                "HP%": "12",
+                "ascension": 3,
+                "atk": 125,
+                "def": 369,
+                "hp": 8239,
+                "level": 60
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 134,
+                "def": 397,
+                "hp": 8882,
+                "level": 61
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 136,
+                "def": 401,
+                "hp": 8969,
+                "level": 62
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 137,
+                "def": 405,
+                "hp": 9055,
+                "level": 63
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 138,
+                "def": 409,
+                "hp": 9142,
+                "level": 64
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 139,
+                "def": 413,
+                "hp": 9228,
+                "level": 65
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 141,
+                "def": 417,
+                "hp": 9315,
+                "level": 66
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 142,
+                "def": 421,
+                "hp": 9402,
+                "level": 67
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 143,
+                "def": 425,
+                "hp": 9488,
+                "level": 68
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 145,
+                "def": 428,
+                "hp": 9575,
+                "level": 69
+            },
+            {
+                "HP%": "12",
+                "ascension": 4,
+                "atk": 146,
+                "def": 432,
+                "hp": 9661,
+                "level": 70
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 156,
+                "def": 461,
+                "hp": 10304,
+                "level": 71
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 157,
+                "def": 465,
+                "hp": 10390,
+                "level": 72
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 158,
+                "def": 469,
+                "hp": 10477,
+                "level": 73
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 160,
+                "def": 473,
+                "hp": 10564,
+                "level": 74
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 161,
+                "def": 477,
+                "hp": 10650,
+                "level": 75
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 162,
+                "def": 481,
+                "hp": 10737,
+                "level": 76
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 164,
+                "def": 484,
+                "hp": 10823,
+                "level": 77
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 165,
+                "def": 488,
+                "hp": 10910,
+                "level": 78
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 166,
+                "def": 492,
+                "hp": 10996,
+                "level": 79
+            },
+            {
+                "HP%": "18",
+                "ascension": 5,
+                "atk": 168,
+                "def": 496,
+                "hp": 11083,
+                "level": 80
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 177,
+                "def": 525,
+                "hp": 11727,
+                "level": 81
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 179,
+                "def": 529,
+                "hp": 11813,
+                "level": 82
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 180,
+                "def": 533,
+                "hp": 11900,
+                "level": 83
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 181,
+                "def": 536,
+                "hp": 11986,
+                "level": 84
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 182,
+                "def": 540,
+                "hp": 12073,
+                "level": 85
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 184,
+                "def": 544,
+                "hp": 12159,
+                "level": 86
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 185,
+                "def": 548,
+                "hp": 12246,
+                "level": 87
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 186,
+                "def": 552,
+                "hp": 12332,
+                "level": 88
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 188,
+                "def": 556,
+                "hp": 12419,
+                "level": 89
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 189,
+                "def": 560,
+                "hp": 12506,
+                "level": 90
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 213,
+                "def": 579,
+                "hp": 12938,
+                "level": 95
+            },
+            {
+                "HP%": "24",
+                "ascension": 6,
+                "atk": 237,
+                "def": 598,
+                "hp": 13371,
+                "level": 100
+            }
+        ],
+        "birthday": "May 25th",
+        "constellation": "Cantus Choralis",
+        "description": "Deacon of the Church of Favonius and the Anemo Archon's representative in the church.",
+        "element": "Hydro",
+        "name": "Dahlia",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_SWORD_ONE_HAND"
+    },
+    "passives": {
+        "p1": {
+            "description": "When characters affected by the Favonian Favor effect of the Elemental Burst <color=#FFD780FF>{LINK#S11155}Radiant Psalter{/LINK}</color> trigger Frozen reactions on opponents, they will grant Dahlia 2 Benison stacks. This effect can trigger once every 8s.",
+            "icon": "UI_Talent_S_Dahlia_05",
+            "name": "The Wind's Gentle Grace"
+        },
+        "p2": {
+            "description": "When your active party member is affected by the Favonian Favor effect of the Elemental Burst <color=#FFD780FF>{LINK#S11155}\"Radiant Psalter,\"{/LINK}</color> their ATK SPD will increase based on Dahlia's Max HP: Every 1,000 Max HP will cause an increase of 0.5%, up to a maximum of 20%.",
+            "icon": "UI_Talent_S_Dahlia_06",
+            "name": "Prayer of Well-Wrought Joy"
+        },
+        "p3": {
+            "description": "During the day (06:00 – 18:00), your party members gain the Swift Stride effect: Movement SPD increased by 10%.\\nDoes not take effect in Domains, Trounce Domains, or the Spiral Abyss. Swift Stride does not stack.",
+            "icon": "UI_Talent_S_Dehya_07",
+            "name": "Pilgrimage Upon Returning Winds"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Appeals to the divine with earnestness and song, dealing <color=#80C0FFFF>AoE Hydro DMG</color> to nearby opponents and granting his party members Favonian Favor, summoning a Shield of Sacred Favor.\\nThe Shield of Sacred Favor's DMG absorption is based on Dahlia's Max HP, and it will absorb <color=#80C0FFFF>Hydro DMG</color> with 250% effectiveness.\\n\\n<color=#FFD780FF>Favonian Favor</color>\\nWhile this effect is active, 1 Benison stack may be consumed to summon a new Shield of Sacred Favor when an existing Shield is broken via DMG.\\n\\nDahlia can obtain Benison via the following methods:\\n· He will gain 1 Benison stack when his own active party member hits opponents 4 times with Normal Attacks while affected by Favonian Favor.\\n· After triggering the effect of his Ascension Talent, \"The Wind's Gentle Grace\" (You must first unlock this Ascension Talent.)\\nDahlia can gain a maximum of 4 Benison stacks per Favonian Favor duration.",
+            "icon": "Skill_E_Dahlia_01",
+            "multipliers": {
+                "CD": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Energy Cost": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "Favonian Favor Duration": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "Shield of Sacred Favor DMG Absorption": [
+                    "3.36% Max HP+324",
+                    "3.61% Max HP+356",
+                    "3.86% Max HP+391",
+                    "4.2% Max HP+429",
+                    "4.45% Max HP+469",
+                    "4.7% Max HP+512",
+                    "5.04% Max HP+558",
+                    "5.38% Max HP+607",
+                    "5.71% Max HP+658",
+                    "6.05% Max HP+712",
+                    "6.38% Max HP+769",
+                    "6.72% Max HP+828",
+                    "7.14% Max HP+890",
+                    "7.56% Max HP+955",
+                    "7.98% Max HP+1022"
+                ],
+                "Skill DMG": [
+                    "406.4%",
+                    "436.88%",
+                    "467.36%",
+                    "508%",
+                    "538.48%",
+                    "568.96%",
+                    "609.6%",
+                    "650.24%",
+                    "690.88%",
+                    "731.52%",
+                    "772.16%",
+                    "812.8%",
+                    "863.6%",
+                    "914.4%",
+                    "965.2%"
+                ]
+            },
+            "name": "Radiant Psalter"
+        },
+        "elementalskill": {
+            "description": "Time for a fun little trick! Summons the Sacramental Shower in different ways depending on whether you Tap or Hold it.\\n\\n<color=#FFD780FF>Tap</color>\\nAfter a short prayer, summons the Sacramental Shower in front.\\n\\n<color=#FFD780FF>Hold</color>\\nEngages in continuous prayer, and when done, summons forth a Sacramental Shower in the designated position.\\n\\n<color=#FFD780FF>Sacramental Shower</color>\\nWhen opponents or nearby party members touch the Sacramental Shower, different effects will occur depending on the one who touches it:\\nIf an opponent touches the Shower, it will explode and deal <color=#80C0FFFF>AoE Hydro DMG</color> to nearby opponents.\\nIf a nearby party member touches it, it will bounce the one who touches it high in the air.\\n\\nOnly 1 Sacramental Shower summoned by Dahlia himself can be on the field at once.",
+            "icon": "Skill_S_Dahlia_01",
+            "multipliers": {
+                "Skill CD": [
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s"
+                ],
+                "Skill DMG": [
+                    "232.8%",
+                    "250.26%",
+                    "267.72%",
+                    "291%",
+                    "308.46%",
+                    "325.92%",
+                    "349.2%",
+                    "372.48%",
+                    "395.76%",
+                    "419.04%",
+                    "442.32%",
+                    "465.6%",
+                    "494.7%",
+                    "523.8%",
+                    "552.9%"
+                ]
+            },
+            "name": "Immersive Ordinance"
+        },
+        "leveling": {
+            "books": {
+                "104307": 9,
+                "104308": 63,
+                "104309": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113070": 18
+            },
+            "worldmonster": {
+                "112011": 18,
+                "112012": 66,
+                "112013": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 rapid strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+            "icon": "Skill_A_01",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "43.55%",
+                    "47.09%",
+                    "50.64%",
+                    "55.7%",
+                    "59.24%",
+                    "63.3%",
+                    "68.87%",
+                    "74.43%",
+                    "80%",
+                    "86.08%",
+                    "92.16%",
+                    "98.23%",
+                    "104.31%",
+                    "110.39%",
+                    "116.46%"
+                ],
+                "2-Hit DMG": [
+                    "40.1%",
+                    "43.36%",
+                    "46.63%",
+                    "51.29%",
+                    "54.55%",
+                    "58.28%",
+                    "63.41%",
+                    "68.54%",
+                    "73.67%",
+                    "79.27%",
+                    "84.86%",
+                    "90.46%",
+                    "96.05%",
+                    "101.65%",
+                    "107.24%"
+                ],
+                "3-Hit DMG": [
+                    "23.74%+29.02%",
+                    "25.68%+31.38%",
+                    "27.61%+33.74%",
+                    "30.37%+37.11%",
+                    "32.3%+39.48%",
+                    "34.51%+42.18%",
+                    "37.55%+45.89%",
+                    "40.59%+49.6%",
+                    "43.62%+53.31%",
+                    "46.94%+57.36%",
+                    "50.25%+61.41%",
+                    "53.56%+65.46%",
+                    "56.88%+69.5%",
+                    "60.19%+73.55%",
+                    "63.5%+77.6%"
+                ],
+                "4-Hit DMG": [
+                    "65.66%",
+                    "71%",
+                    "76.35%",
+                    "83.98%",
+                    "89.32%",
+                    "95.43%",
+                    "103.83%",
+                    "112.23%",
+                    "120.63%",
+                    "129.79%",
+                    "138.95%",
+                    "148.11%",
+                    "157.27%",
+                    "166.43%",
+                    "175.6%"
+                ],
+                "Charged Attack DMG": [
+                    "39.88%+55.07%",
+                    "43.12%+59.55%",
+                    "46.37%+64.03%",
+                    "51%+70.44%",
+                    "54.25%+74.92%",
+                    "57.96%+80.04%",
+                    "63.06%+87.08%",
+                    "68.16%+94.13%",
+                    "73.26%+101.17%",
+                    "78.83%+108.85%",
+                    "84.39%+116.54%",
+                    "89.95%+124.22%",
+                    "95.52%+131.91%",
+                    "101.08%+139.59%",
+                    "106.65%+147.27%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20"
+                ],
+                "Low/High Plunge DMG": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Plunge DMG": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ]
+            },
+            "name": "Favonius Bladework - Ritual"
+        }
+    }
+}

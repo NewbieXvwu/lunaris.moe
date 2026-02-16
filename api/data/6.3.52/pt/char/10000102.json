@@ -1,0 +1,1352 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104121": 1,
+            "104122": 9,
+            "104123": 9,
+            "104124": 6
+        },
+        "elitemonster": {
+            "113064": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101247": 168
+        },
+        "worldmonster": {
+            "112104": 18,
+            "112105": 30,
+            "112106": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack_01 (!)",
+            "name": "ElementalArt_Combat",
+            "poise": "LV2/80"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack_01 (!)",
+            "name": "ElementalArt_Combat",
+            "poise": "LV2/80"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack_01 (!)",
+            "name": "ElementalArt_Combat",
+            "poise": "LV2/80"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack_01 (!)",
+            "name": "ElementalArt_Combat",
+            "poise": "LV2/150"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack_01 (!)",
+            "name": "ElementalArt_Combat",
+            "poise": "LV2/150"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "ExtraAttack_Bullet",
+            "poise": "LV7/50"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack_Bullet_1",
+            "poise": "LV1/9"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack_Bullet_2",
+            "poise": "LV1/8"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack_Bullet_3",
+            "poise": "LV1/13"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Bullet",
+            "poise": "LV7/200"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Bullet",
+            "poise": "LV7/200"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Bullet",
+            "poise": "LV7/200"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Bullet",
+            "poise": "LV7/200"
+        },
+        {
+            "element": "-",
+            "gauge": "4U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Mualani_Surfing (!)",
+            "name": "Surfing_Bullet",
+            "poise": "LV3/25"
+        },
+        {
+            "element": "-",
+            "gauge": "4U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Mualani_Surfing (!)",
+            "name": "Surfing_Bullet",
+            "poise": "LV3/25"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack_01 (!)",
+            "name": "Surfing_SpecialRush_Bullet",
+            "poise": "LV5/120"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack_01 (!)",
+            "name": "MultiAttack_Bullet",
+            "poise": "LV2/80"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack_01 (!)",
+            "name": "MultiAttack_Bullet",
+            "poise": "LV2/80"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack_01 (!)",
+            "name": "MultiAttack_Bullet",
+            "poise": "LV2/80"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack_01 (!)",
+            "name": "MultiAttack_Bullet",
+            "poise": "LV2/150"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack_01 (!)",
+            "name": "MultiAttack_Bullet",
+            "poise": "LV2/150"
+        },
+        {
+            "element": "Water",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/5"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Depois de entrar na Bênção do Espírito da Noite, aumenta o Dano causado pela primeira vez que fizer Mordida do Tubarão Gigante e desencadear Míssil Tubarão. O valor do aumento de Dano é baseado em 66% da Vida Máxima de Mualani. Esse aumento de Dano está sujeito às regras de redução de Dano de <color=#FFD780FF>Tubarão Surfista das Ondas</color>.\\nAlém disso, quando não estiver em combate, reduz o consumo de pontos de Espírito da Noite e Flogisto do estado Bênção do Espírito da Noite em 30%.",
+            "icon": "UI_Talent_S_Mualani_01",
+            "name": "O \"Meztli\" Relaxado..."
+        },
+        "const2": {
+            "description": "Ao entrar em Bênção do Espírito da Noite, Mualani obtém 2 acúmulos de Impulso da Onda de <color=#FFD780FF>Tubarão Surfista das Ondas</color>. Quando Mualani obtém um Flutuador, obtém 1 acúmulo de Impulso da Onda.\\nAlém disso, quando Mualani obter 2 Flutuadores em uma instância de Bênção do Espírito da Noite, regenerará 12 pontos de Espírito da Noite em 2s. Esse efeito requer que o Talento de Ascensão \"Flutuador de Água Doce Antitérmico\" esteja desbloqueado.",
+            "icon": "UI_Talent_S_Mualani_02",
+            "name": "Mualani, Força Total!"
+        },
+        "const3": {
+            "description": "Aumenta o nível da <color=#FFD780FF>Tubarão Surfista das Ondas</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Mualani_01",
+            "name": "Surfando nos Mares Alegres"
+        },
+        "const4": {
+            "description": "Mualani regenera 8 de Energia Elemental ao obter um Flutuador. Primeiro é necessário desbloquear o Talento de Ascensão \"Flutuador de Água Doce Antitérmico\".\\nAlém disso, <color=#FFD780FF>Disparo da Tempestade Explosiva</color> causa 75% a mais de Dano.",
+            "icon": "UI_Talent_S_Mualani_03",
+            "name": "Tubarãozinho Come Flutuadorzinho"
+        },
+        "const5": {
+            "description": "Aumenta o nível da <color=#FFD780FF>Disparo da Tempestade Explosiva</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Mualani_02",
+            "name": "Mesmo Modelo de Prancha com Desconto!"
+        },
+        "const6": {
+            "description": "Remove o limite original do efeito de aumento de Dano da Constelação \"O 'Meztli' Relaxado...\" só podia ser desencadeado uma vez por estado de Bênção do Espírito da Noite.",
+            "icon": "UI_Talent_S_Mualani_04",
+            "name": "Espírito do Povo das Termas"
+        }
+    },
+    "energy": [
+        {
+            "cd": "2s",
+            "chance": "50%",
+            "particles": "4",
+            "source": "ElementalArt_ElementalBall"
+        },
+        {
+            "cd": "2s",
+            "chance": "50%",
+            "particles": "5",
+            "source": "ElementalArt_ElementalBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Mualani",
+        "forward": "UI_AvatarIcon_Mualani"
+    },
+    "info": {
+        "attributes": [
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 14,
+                "def": 44,
+                "hp": 1182,
+                "level": 1
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 15,
+                "def": 48,
+                "hp": 1280,
+                "level": 2
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 17,
+                "def": 52,
+                "hp": 1378,
+                "level": 3
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 18,
+                "def": 55,
+                "hp": 1478,
+                "level": 4
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 59,
+                "hp": 1576,
+                "level": 5
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 63,
+                "hp": 1675,
+                "level": 6
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 67,
+                "hp": 1773,
+                "level": 7
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 70,
+                "hp": 1872,
+                "level": 8
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 74,
+                "hp": 1972,
+                "level": 9
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 78,
+                "hp": 2070,
+                "level": 10
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 81,
+                "hp": 2169,
+                "level": 11
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 85,
+                "hp": 2268,
+                "level": 12
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 89,
+                "hp": 2368,
+                "level": 13
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 93,
+                "hp": 2468,
+                "level": 14
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 96,
+                "hp": 2568,
+                "level": 15
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 100,
+                "hp": 2667,
+                "level": 16
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 104,
+                "hp": 2767,
+                "level": 17
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 108,
+                "hp": 2867,
+                "level": 18
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 111,
+                "hp": 2967,
+                "level": 19
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 115,
+                "hp": 3066,
+                "level": 20
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 50,
+                "def": 157,
+                "hp": 4180,
+                "level": 21
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 51,
+                "def": 161,
+                "hp": 4281,
+                "level": 22
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 52,
+                "def": 165,
+                "hp": 4381,
+                "level": 23
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 54,
+                "def": 168,
+                "hp": 4482,
+                "level": 24
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 55,
+                "def": 172,
+                "hp": 4582,
+                "level": 25
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 56,
+                "def": 176,
+                "hp": 4684,
+                "level": 26
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 57,
+                "def": 180,
+                "hp": 4785,
+                "level": 27
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 58,
+                "def": 183,
+                "hp": 4885,
+                "level": 28
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 60,
+                "def": 187,
+                "hp": 4987,
+                "level": 29
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 61,
+                "def": 191,
+                "hp": 5087,
+                "level": 30
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 62,
+                "def": 195,
+                "hp": 5189,
+                "level": 31
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 63,
+                "def": 199,
+                "hp": 5290,
+                "level": 32
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 65,
+                "def": 202,
+                "hp": 5392,
+                "level": 33
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 66,
+                "def": 206,
+                "hp": 5493,
+                "level": 34
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 67,
+                "def": 210,
+                "hp": 5594,
+                "level": 35
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 68,
+                "def": 214,
+                "hp": 5697,
+                "level": 36
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 69,
+                "def": 218,
+                "hp": 5799,
+                "level": 37
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 222,
+                "hp": 5900,
+                "level": 38
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 72,
+                "def": 225,
+                "hp": 6002,
+                "level": 39
+            },
+            {
+                "CRIT Rate%": "0",
+                "ascension": 1,
+                "atk": 73,
+                "def": 229,
+                "hp": 6105,
+                "level": 40
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 83,
+                "def": 260,
+                "hp": 6927,
+                "level": 41
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 84,
+                "def": 264,
+                "hp": 7030,
+                "level": 42
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 85,
+                "def": 268,
+                "hp": 7132,
+                "level": 43
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 87,
+                "def": 272,
+                "hp": 7234,
+                "level": 44
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 88,
+                "def": 276,
+                "hp": 7337,
+                "level": 45
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 89,
+                "def": 279,
+                "hp": 7440,
+                "level": 46
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 90,
+                "def": 283,
+                "hp": 7543,
+                "level": 47
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 92,
+                "def": 287,
+                "hp": 7645,
+                "level": 48
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 93,
+                "def": 291,
+                "hp": 7750,
+                "level": 49
+            },
+            {
+                "CRIT Rate%": "4.8",
+                "ascension": 2,
+                "atk": 94,
+                "def": 295,
+                "hp": 7852,
+                "level": 50
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 107,
+                "def": 335,
+                "hp": 8915,
+                "level": 51
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 108,
+                "def": 339,
+                "hp": 9019,
+                "level": 52
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 109,
+                "def": 343,
+                "hp": 9122,
+                "level": 53
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 110,
+                "def": 346,
+                "hp": 9226,
+                "level": 54
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 112,
+                "def": 350,
+                "hp": 9330,
+                "level": 55
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 113,
+                "def": 354,
+                "hp": 9434,
+                "level": 56
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 114,
+                "def": 358,
+                "hp": 9538,
+                "level": 57
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 115,
+                "def": 362,
+                "hp": 9642,
+                "level": 58
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 117,
+                "def": 366,
+                "hp": 9746,
+                "level": 59
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 3,
+                "atk": 118,
+                "def": 370,
+                "hp": 9850,
+                "level": 60
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 128,
+                "def": 401,
+                "hp": 10675,
+                "level": 61
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 129,
+                "def": 405,
+                "hp": 10779,
+                "level": 62
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 130,
+                "def": 409,
+                "hp": 10884,
+                "level": 63
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 132,
+                "def": 413,
+                "hp": 10988,
+                "level": 64
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 133,
+                "def": 417,
+                "hp": 11093,
+                "level": 65
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 134,
+                "def": 421,
+                "hp": 11198,
+                "level": 66
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 135,
+                "def": 424,
+                "hp": 11302,
+                "level": 67
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 137,
+                "def": 428,
+                "hp": 11408,
+                "level": 68
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 138,
+                "def": 432,
+                "hp": 11513,
+                "level": 69
+            },
+            {
+                "CRIT Rate%": "9.6",
+                "ascension": 4,
+                "atk": 139,
+                "def": 436,
+                "hp": 11618,
+                "level": 70
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 149,
+                "def": 467,
+                "hp": 12443,
+                "level": 71
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 150,
+                "def": 471,
+                "hp": 12550,
+                "level": 72
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 151,
+                "def": 475,
+                "hp": 12655,
+                "level": 73
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 153,
+                "def": 479,
+                "hp": 12760,
+                "level": 74
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 154,
+                "def": 483,
+                "hp": 12867,
+                "level": 75
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 155,
+                "def": 487,
+                "hp": 12972,
+                "level": 76
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 157,
+                "def": 491,
+                "hp": 13078,
+                "level": 77
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 158,
+                "def": 495,
+                "hp": 13185,
+                "level": 78
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 159,
+                "def": 499,
+                "hp": 13291,
+                "level": 79
+            },
+            {
+                "CRIT Rate%": "14.4",
+                "ascension": 5,
+                "atk": 160,
+                "def": 503,
+                "hp": 13397,
+                "level": 80
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 170,
+                "def": 534,
+                "hp": 14224,
+                "level": 81
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 172,
+                "def": 538,
+                "hp": 14330,
+                "level": 82
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 173,
+                "def": 542,
+                "hp": 14437,
+                "level": 83
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 174,
+                "def": 546,
+                "hp": 14543,
+                "level": 84
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 175,
+                "def": 550,
+                "hp": 14649,
+                "level": 85
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 177,
+                "def": 554,
+                "hp": 14757,
+                "level": 86
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 178,
+                "def": 558,
+                "hp": 14863,
+                "level": 87
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 179,
+                "def": 562,
+                "hp": 14971,
+                "level": 88
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 181,
+                "def": 566,
+                "hp": 15079,
+                "level": 89
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 182,
+                "def": 570,
+                "hp": 15185,
+                "level": 90
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 202,
+                "def": 591,
+                "hp": 15724,
+                "level": 95
+            },
+            {
+                "CRIT Rate%": "19.2",
+                "ascension": 6,
+                "atk": 223,
+                "def": 611,
+                "hp": 16264,
+                "level": 100
+            }
+        ],
+        "birthday": "August 3rd",
+        "constellation": "Phoca Neomonachus",
+        "description": "Uma guia renomada em Natlan, proprietária de uma loja de esportes aquáticos e especialista em todas as formas de pegar onda.",
+        "element": "Hydro",
+        "name": "Mualani",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_CATALYST"
+    },
+    "passives": {
+        "p1": {
+            "description": "Quando a Mordida do Tubarão atinge um oponente, ela gerará um Flutuador nas proximidades. Mualani restaurará 20 pontos de Espírito da Noite quando ela pegar um Flutuador. Apenas 2 Flutuadores podem ser criados dessa maneira durante um estado da Bênção do Espírito da Noite.",
+            "icon": "UI_Talent_S_Mualani_05",
+            "name": "Flutuador de Água Doce Antitérmico"
+        },
+        "p2": {
+            "description": "Depois que um membro próximo da equipe ativa uma Explosão do Espírito da Noite, Mualani ganha 1 acúmulo de Façanhas da Surfista que dura 20s. Máximo de 3 acúmulos. Quando ela usa <color=#FFD780FF>Disparo da Tempestade Explosiva</color>, Mualani remove todos os acúmulos e aumenta o Dano causado por Disparo da Tempestade Explosiva em 15%/30%/45% de sua Vida Máxima.",
+            "icon": "UI_Talent_S_Mualani_06",
+            "name": "Melhor Guia de Natlan"
+        },
+        "p3": {
+            "description": "Depois que os pontos de Espírito da Noite de Mualani acabam, ela pode trocar para consumir Flogisto e manter sua Bênção do Espírito da Noite.\\nEnquanto estiver em uma área com um Dispositivo de Flogisto em Natlan, ela pode usar Transmissão do Espírito da Noite: Mualani. Quando o personagem ativo estiver correndo, nadando ou em um modo de movimento causado por certos Talentos, ou estiver em uma certa altura no ar, o seguinte efeito será desencadeado quando trocar para Mualani: ela entrará no estado Bênção do Espírito da Noite e ganhará 40 pontos de Espírito da Noite. Sua própria equipe pode desencadear essa Transmissão do Espírito da Noite uma vez a cada 10s.\\n\\nAlém disso, quando estiver em Natlan, Mualani consumirá 75% a menos de pontos de Espírito da Noite ou de Flogisto ao se mover na água e em Flogisto Líquido durante Bênção do Espírito da Noite, e consumirá 35% a menos de pontos de Espírito da Noite enquanto estiver fazendo o mesmo fora de Natlan.",
+            "icon": "UI_Talent_S_Mualani_07",
+            "name": "Presente do Reino da Noite: Na Cresta e Fundo das Ondas"
+        },
+        "p4": {
+            "description": "Quando estiver em uma área de Natlan com Dispositivos de Flogisto, interagir com alguns itens coletáveis regenerará 15 de Flogisto. Além disso, exibe no mini-mapa o local das <color=#FFD780FF>especialidades de Natlan</color> próximas.",
+            "icon": "UI_Talent_S_Kachina_08",
+            "name": "O Truque é Continuar Sorrindo"
+        }
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Dispara um Super Míssil Tubarão que rastreia os oponentes, causando <color=#80C0FFFF>Dano Hydro em AdE</color> com alinhamento de Espírito da Noite baseado na Vida Máxima de Mualani.\\n\\n<i>Mualani nomeou eles como Mísseis de Tubarão por causa da combinação de água e fogo, deixando o nome mais parecido com fontes termais.</i>",
+            "icon": "Skill_E_Mualani_01",
+            "multipliers": {
+                "Dano de Habilidade": [
+                    "58.44% da Vida Máxima",
+                    "62.82% da Vida Máxima",
+                    "67.21% da Vida Máxima",
+                    "73.05% da Vida Máxima",
+                    "77.43% da Vida Máxima",
+                    "81.81% da Vida Máxima",
+                    "87.66% da Vida Máxima",
+                    "93.5% da Vida Máxima",
+                    "99.35% da Vida Máxima",
+                    "105.19% da Vida Máxima",
+                    "111.03% da Vida Máxima",
+                    "116.88% da Vida Máxima",
+                    "124.18% da Vida Máxima",
+                    "131.49% da Vida Máxima",
+                    "138.79% da Vida Máxima"
+                ],
+                "Energia Elemental": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "Tempo de Recarga": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ]
+            },
+            "name": "Disparo da Tempestade Explosiva"
+        },
+        "elementalskill": {
+            "description": "Combinando seu conhecimento do controle de velocidade e das marés, Mualani pode surfar em qualquer lugar, a qualquer hora.\\nDepois de usar essa Habilidade, Mualani ganha 60 pontos de Espírito da Noite e entra no estado Bênção do Espírito da Noite.\\n\\n<color=#FFD780FF>Bênção do Espírito da Noite: Mualani</color>\\nConsome continuamente pontos de Espírito da Noite. Quando eles acabam ou quando a Habilidade é usada novamente, o estado Bênção do Espírito da Noite de Mualani acaba. O estado possui as seguintes características:\\n· Monta a Prancha Tubarão, aumentando a Veloc. Mov. e Resistência contra Interrupção de Mualani. Mualani pode se mover na água e em Flogisto Líquido enquanto esse estado está ativo, e ela não sofrerá Dano do Flogisto Líquido.\\n· Ataques Normais serão convertidos em Mordidas do Tubarão, causando <color=#80C0FFFF>Dano Hydro</color> com alinhamento de Espírito da Noite. As Mordidas do Tubarão podem ocorrer no ar. O Dano causado dessa forma é considerado Dano de Ataque Normal.\\n· Quando ela entra em contato com oponentes nesse estado, Mualani aplica \"Marcado como Presa\" neles e ganha 1 acúmulo de Impulso da Onda. Máximo de 3 acúmulos. É possível obter 1 acúmulo do mesmo inimigo uma vez a cada 0.7s.\\n\\n<color=#FFD780FF>Impulso da Onda e Marcado como Presa</color>\\nQuando Mualani usa Mordida do Tubarão, seu Dano causado aumenta baseado na quantidade de acúmulos de Impulso da Onda. Quando ela possui 3 acúmulos, uma Mordida do Tubarão será convertida em Mordida do Tubarão Gigante aumentando ainda mais seu Dano e removendo todos os acúmulos de Marcado como Presa ao atingir um inimigo.\\nQuando Mordidas do Tubarão atingem oponentes, essa marca é removida e ela dispara Mísseis Tubarão em até 5 oponentes Marcados como Presa, causando Dano contra eles equivalente a essa instância de Mordida do Tubarão e removendo Marcado como Presa deles. Se mais de 1 oponente é alvo de Mordida do Tubarão e Míssil Tubarão, o Dano causado será reduzido, alcançando até 72% do Dano original quando atingir 3 oponentes.\\n\\n<i>Primeiro, Tubarão é um tubarão de água doce, bem como uma prancha. Segundo, ele não precisa comer, mas com certeza vai morder.</i>",
+            "icon": "Skill_S_Mualani_01",
+            "multipliers": {
+                "Aumento Adicional do Dano da Mordida do Tubarão Gigante": [
+                    "21.7% da Vida Máxima",
+                    "23.33% da Vida Máxima",
+                    "24.95% da Vida Máxima",
+                    "27.13% da Vida Máxima",
+                    "28.75% da Vida Máxima",
+                    "30.38% da Vida Máxima",
+                    "32.55% da Vida Máxima",
+                    "34.72% da Vida Máxima",
+                    "36.89% da Vida Máxima",
+                    "39.06% da Vida Máxima",
+                    "41.23% da Vida Máxima",
+                    "43.4% da Vida Máxima",
+                    "46.11% da Vida Máxima",
+                    "48.82% da Vida Máxima",
+                    "51.54% da Vida Máxima"
+                ],
+                "Aumento de Dano do Impulso da Onda": [
+                    "4.34% da Vida Máxima/Acúmulo",
+                    "4.67% da Vida Máxima/Acúmulo",
+                    "4.99% da Vida Máxima/Acúmulo",
+                    "5.42% da Vida Máxima/Acúmulo",
+                    "5.75% da Vida Máxima/Acúmulo",
+                    "6.08% da Vida Máxima/Acúmulo",
+                    "6.51% da Vida Máxima/Acúmulo",
+                    "6.94% da Vida Máxima/Acúmulo",
+                    "7.38% da Vida Máxima/Acúmulo",
+                    "7.81% da Vida Máxima/Acúmulo",
+                    "8.25% da Vida Máxima/Acúmulo",
+                    "8.68% da Vida Máxima/Acúmulo",
+                    "9.22% da Vida Máxima/Acúmulo",
+                    "9.76% da Vida Máxima/Acúmulo",
+                    "10.31% da Vida Máxima/Acúmulo"
+                ],
+                "Dano Básico da Mordida do Tubarão": [
+                    "8.68% da Vida Máxima",
+                    "9.33% da Vida Máxima",
+                    "9.98% da Vida Máxima",
+                    "10.85% da Vida Máxima",
+                    "11.5% da Vida Máxima",
+                    "12.15% da Vida Máxima",
+                    "13.02% da Vida Máxima",
+                    "13.89% da Vida Máxima",
+                    "14.76% da Vida Máxima",
+                    "15.62% da Vida Máxima",
+                    "16.49% da Vida Máxima",
+                    "17.36% da Vida Máxima",
+                    "18.45% da Vida Máxima",
+                    "19.53% da Vida Máxima",
+                    "20.61% da Vida Máxima"
+                ],
+                "Limite de Pontos de Espírito da Noite": [
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60",
+                    "60"
+                ],
+                "Recarga da Mordida do Tubarão": [
+                    "1.8s",
+                    "1.8s",
+                    "1.8s",
+                    "1.8s",
+                    "1.8s",
+                    "1.8s",
+                    "1.8s",
+                    "1.8s",
+                    "1.8s",
+                    "1.8s",
+                    "1.8s",
+                    "1.8s",
+                    "1.8s",
+                    "1.8s",
+                    "1.8s"
+                ],
+                "Tempo de Recarga": [
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s",
+                    "6s"
+                ]
+            },
+            "name": "Tubarão Surfista das Ondas"
+        },
+        "leveling": {
+            "books": {
+                "104347": 9,
+                "104348": 63,
+                "104349": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113056": 18
+            },
+            "worldmonster": {
+                "112104": 18,
+                "112105": 66,
+                "112106": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 3 ataques com esguichos de água que infligem <color=#80C0FFFF>Dano Hydro</color>.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome uma certa quantidade de Stamina para lançar uma Bola d'Água no ar que causa <color=#80C0FFFF>Dano Hydro em AdE</color> ao cair no chão.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nReunindo o poder do Hydro, mergulha em direção ao chão em pleno ar, infligindo dano a todos os inimigos em seu caminho. Inflige <color=#80C0FFFF>Dano Hydro em uma AdE</color> durante o impacto com o chão.",
+            "icon": "Skill_A_Catalyst_MD",
+            "multipliers": {
+                "Consumo de Stamina de Ataque Carregado": [
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50"
+                ],
+                "Dano Durante a Queda": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "Dano de Ataque Carregado": [
+                    "142.88%",
+                    "153.6%",
+                    "164.31%",
+                    "178.6%",
+                    "189.32%",
+                    "200.03%",
+                    "214.32%",
+                    "228.61%",
+                    "242.9%",
+                    "257.18%",
+                    "271.47%",
+                    "285.76%",
+                    "303.62%",
+                    "321.48%",
+                    "339.34%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "Dano do 1° Golpe": [
+                    "51.4%",
+                    "55.25%",
+                    "59.11%",
+                    "64.24%",
+                    "68.1%",
+                    "71.95%",
+                    "77.09%",
+                    "82.23%",
+                    "87.37%",
+                    "92.51%",
+                    "97.65%",
+                    "102.79%",
+                    "109.22%",
+                    "115.64%",
+                    "122.07%"
+                ],
+                "Dano do 2° Golpe": [
+                    "44.63%",
+                    "47.97%",
+                    "51.32%",
+                    "55.78%",
+                    "59.13%",
+                    "62.48%",
+                    "66.94%",
+                    "71.4%",
+                    "75.86%",
+                    "80.33%",
+                    "84.79%",
+                    "89.25%",
+                    "94.83%",
+                    "100.41%",
+                    "105.99%"
+                ],
+                "Dano do 3° Golpe": [
+                    "70.03%",
+                    "75.29%",
+                    "80.54%",
+                    "87.54%",
+                    "92.8%",
+                    "98.05%",
+                    "105.05%",
+                    "112.06%",
+                    "119.06%",
+                    "126.06%",
+                    "133.07%",
+                    "140.07%",
+                    "148.82%",
+                    "157.58%",
+                    "166.33%"
+                ]
+            },
+            "name": "Tratamento Esfriante"
+        }
+    }
+}

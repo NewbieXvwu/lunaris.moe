@@ -1,0 +1,1316 @@
+{
+    "info": {
+        "name": "Mika",
+        "description": "A young knight born to an ordinary family. He serves as a Front-Line Surveyor in his Company. He is a low-key and cautious character.",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_POLE",
+        "birthday": "August 11th",
+        "element": "Cryo",
+        "constellation": "Palumbus",
+        "attributes": [
+            {
+                "level": 1,
+                "ascension": 0,
+                "hp": 1049,
+                "atk": 19,
+                "def": 60,
+                "HP%": "0"
+            },
+            {
+                "level": 2,
+                "ascension": 0,
+                "hp": 1136,
+                "atk": 20,
+                "def": 65,
+                "HP%": "0"
+            },
+            {
+                "level": 3,
+                "ascension": 0,
+                "hp": 1222,
+                "atk": 22,
+                "def": 70,
+                "HP%": "0"
+            },
+            {
+                "level": 4,
+                "ascension": 0,
+                "hp": 1309,
+                "atk": 23,
+                "def": 75,
+                "HP%": "0"
+            },
+            {
+                "level": 5,
+                "ascension": 0,
+                "hp": 1395,
+                "atk": 25,
+                "def": 80,
+                "HP%": "0"
+            },
+            {
+                "level": 6,
+                "ascension": 0,
+                "hp": 1482,
+                "atk": 26,
+                "def": 84,
+                "HP%": "0"
+            },
+            {
+                "level": 7,
+                "ascension": 0,
+                "hp": 1568,
+                "atk": 28,
+                "def": 89,
+                "HP%": "0"
+            },
+            {
+                "level": 8,
+                "ascension": 0,
+                "hp": 1655,
+                "atk": 30,
+                "def": 94,
+                "HP%": "0"
+            },
+            {
+                "level": 9,
+                "ascension": 0,
+                "hp": 1742,
+                "atk": 31,
+                "def": 99,
+                "HP%": "0"
+            },
+            {
+                "level": 10,
+                "ascension": 0,
+                "hp": 1828,
+                "atk": 33,
+                "def": 104,
+                "HP%": "0"
+            },
+            {
+                "level": 11,
+                "ascension": 0,
+                "hp": 1915,
+                "atk": 34,
+                "def": 109,
+                "HP%": "0"
+            },
+            {
+                "level": 12,
+                "ascension": 0,
+                "hp": 2001,
+                "atk": 36,
+                "def": 114,
+                "HP%": "0"
+            },
+            {
+                "level": 13,
+                "ascension": 0,
+                "hp": 2088,
+                "atk": 37,
+                "def": 119,
+                "HP%": "0"
+            },
+            {
+                "level": 14,
+                "ascension": 0,
+                "hp": 2174,
+                "atk": 39,
+                "def": 124,
+                "HP%": "0"
+            },
+            {
+                "level": 15,
+                "ascension": 0,
+                "hp": 2261,
+                "atk": 40,
+                "def": 129,
+                "HP%": "0"
+            },
+            {
+                "level": 16,
+                "ascension": 0,
+                "hp": 2348,
+                "atk": 42,
+                "def": 134,
+                "HP%": "0"
+            },
+            {
+                "level": 17,
+                "ascension": 0,
+                "hp": 2434,
+                "atk": 43,
+                "def": 139,
+                "HP%": "0"
+            },
+            {
+                "level": 18,
+                "ascension": 0,
+                "hp": 2521,
+                "atk": 45,
+                "def": 144,
+                "HP%": "0"
+            },
+            {
+                "level": 19,
+                "ascension": 0,
+                "hp": 2607,
+                "atk": 46,
+                "def": 149,
+                "HP%": "0"
+            },
+            {
+                "level": 20,
+                "ascension": 0,
+                "hp": 2694,
+                "atk": 48,
+                "def": 154,
+                "HP%": "0"
+            },
+            {
+                "level": 21,
+                "ascension": 1,
+                "hp": 3563,
+                "atk": 64,
+                "def": 203,
+                "HP%": "0"
+            },
+            {
+                "level": 22,
+                "ascension": 1,
+                "hp": 3650,
+                "atk": 65,
+                "def": 208,
+                "HP%": "0"
+            },
+            {
+                "level": 23,
+                "ascension": 1,
+                "hp": 3737,
+                "atk": 67,
+                "def": 213,
+                "HP%": "0"
+            },
+            {
+                "level": 24,
+                "ascension": 1,
+                "hp": 3823,
+                "atk": 68,
+                "def": 218,
+                "HP%": "0"
+            },
+            {
+                "level": 25,
+                "ascension": 1,
+                "hp": 3910,
+                "atk": 70,
+                "def": 223,
+                "HP%": "0"
+            },
+            {
+                "level": 26,
+                "ascension": 1,
+                "hp": 3996,
+                "atk": 71,
+                "def": 228,
+                "HP%": "0"
+            },
+            {
+                "level": 27,
+                "ascension": 1,
+                "hp": 4083,
+                "atk": 73,
+                "def": 233,
+                "HP%": "0"
+            },
+            {
+                "level": 28,
+                "ascension": 1,
+                "hp": 4169,
+                "atk": 74,
+                "def": 238,
+                "HP%": "0"
+            },
+            {
+                "level": 29,
+                "ascension": 1,
+                "hp": 4256,
+                "atk": 76,
+                "def": 243,
+                "HP%": "0"
+            },
+            {
+                "level": 30,
+                "ascension": 1,
+                "hp": 4342,
+                "atk": 77,
+                "def": 248,
+                "HP%": "0"
+            },
+            {
+                "level": 31,
+                "ascension": 1,
+                "hp": 4429,
+                "atk": 79,
+                "def": 253,
+                "HP%": "0"
+            },
+            {
+                "level": 32,
+                "ascension": 1,
+                "hp": 4516,
+                "atk": 81,
+                "def": 258,
+                "HP%": "0"
+            },
+            {
+                "level": 33,
+                "ascension": 1,
+                "hp": 4602,
+                "atk": 82,
+                "def": 262,
+                "HP%": "0"
+            },
+            {
+                "level": 34,
+                "ascension": 1,
+                "hp": 4689,
+                "atk": 84,
+                "def": 267,
+                "HP%": "0"
+            },
+            {
+                "level": 35,
+                "ascension": 1,
+                "hp": 4775,
+                "atk": 85,
+                "def": 272,
+                "HP%": "0"
+            },
+            {
+                "level": 36,
+                "ascension": 1,
+                "hp": 4862,
+                "atk": 87,
+                "def": 277,
+                "HP%": "0"
+            },
+            {
+                "level": 37,
+                "ascension": 1,
+                "hp": 4948,
+                "atk": 88,
+                "def": 282,
+                "HP%": "0"
+            },
+            {
+                "level": 38,
+                "ascension": 1,
+                "hp": 5035,
+                "atk": 90,
+                "def": 287,
+                "HP%": "0"
+            },
+            {
+                "level": 39,
+                "ascension": 1,
+                "hp": 5122,
+                "atk": 91,
+                "def": 292,
+                "HP%": "0"
+            },
+            {
+                "level": 40,
+                "ascension": 1,
+                "hp": 5208,
+                "atk": 93,
+                "def": 297,
+                "HP%": "0"
+            },
+            {
+                "level": 41,
+                "ascension": 2,
+                "hp": 5852,
+                "atk": 104,
+                "def": 334,
+                "HP%": "6"
+            },
+            {
+                "level": 42,
+                "ascension": 2,
+                "hp": 5938,
+                "atk": 106,
+                "def": 339,
+                "HP%": "6"
+            },
+            {
+                "level": 43,
+                "ascension": 2,
+                "hp": 6025,
+                "atk": 107,
+                "def": 344,
+                "HP%": "6"
+            },
+            {
+                "level": 44,
+                "ascension": 2,
+                "hp": 6111,
+                "atk": 109,
+                "def": 349,
+                "HP%": "6"
+            },
+            {
+                "level": 45,
+                "ascension": 2,
+                "hp": 6198,
+                "atk": 111,
+                "def": 353,
+                "HP%": "6"
+            },
+            {
+                "level": 46,
+                "ascension": 2,
+                "hp": 6285,
+                "atk": 112,
+                "def": 358,
+                "HP%": "6"
+            },
+            {
+                "level": 47,
+                "ascension": 2,
+                "hp": 6371,
+                "atk": 114,
+                "def": 363,
+                "HP%": "6"
+            },
+            {
+                "level": 48,
+                "ascension": 2,
+                "hp": 6458,
+                "atk": 115,
+                "def": 368,
+                "HP%": "6"
+            },
+            {
+                "level": 49,
+                "ascension": 2,
+                "hp": 6544,
+                "atk": 117,
+                "def": 373,
+                "HP%": "6"
+            },
+            {
+                "level": 50,
+                "ascension": 2,
+                "hp": 6631,
+                "atk": 118,
+                "def": 378,
+                "HP%": "6"
+            },
+            {
+                "level": 51,
+                "ascension": 3,
+                "hp": 7459,
+                "atk": 133,
+                "def": 425,
+                "HP%": "12"
+            },
+            {
+                "level": 52,
+                "ascension": 3,
+                "hp": 7546,
+                "atk": 135,
+                "def": 430,
+                "HP%": "12"
+            },
+            {
+                "level": 53,
+                "ascension": 3,
+                "hp": 7633,
+                "atk": 136,
+                "def": 435,
+                "HP%": "12"
+            },
+            {
+                "level": 54,
+                "ascension": 3,
+                "hp": 7719,
+                "atk": 138,
+                "def": 440,
+                "HP%": "12"
+            },
+            {
+                "level": 55,
+                "ascension": 3,
+                "hp": 7806,
+                "atk": 139,
+                "def": 445,
+                "HP%": "12"
+            },
+            {
+                "level": 56,
+                "ascension": 3,
+                "hp": 7892,
+                "atk": 141,
+                "def": 450,
+                "HP%": "12"
+            },
+            {
+                "level": 57,
+                "ascension": 3,
+                "hp": 7979,
+                "atk": 142,
+                "def": 455,
+                "HP%": "12"
+            },
+            {
+                "level": 58,
+                "ascension": 3,
+                "hp": 8065,
+                "atk": 144,
+                "def": 460,
+                "HP%": "12"
+            },
+            {
+                "level": 59,
+                "ascension": 3,
+                "hp": 8152,
+                "atk": 145,
+                "def": 465,
+                "HP%": "12"
+            },
+            {
+                "level": 60,
+                "ascension": 3,
+                "hp": 8239,
+                "atk": 147,
+                "def": 470,
+                "HP%": "12"
+            },
+            {
+                "level": 61,
+                "ascension": 4,
+                "hp": 8882,
+                "atk": 158,
+                "def": 507,
+                "HP%": "12"
+            },
+            {
+                "level": 62,
+                "ascension": 4,
+                "hp": 8969,
+                "atk": 160,
+                "def": 511,
+                "HP%": "12"
+            },
+            {
+                "level": 63,
+                "ascension": 4,
+                "hp": 9055,
+                "atk": 161,
+                "def": 516,
+                "HP%": "12"
+            },
+            {
+                "level": 64,
+                "ascension": 4,
+                "hp": 9142,
+                "atk": 163,
+                "def": 521,
+                "HP%": "12"
+            },
+            {
+                "level": 65,
+                "ascension": 4,
+                "hp": 9228,
+                "atk": 165,
+                "def": 526,
+                "HP%": "12"
+            },
+            {
+                "level": 66,
+                "ascension": 4,
+                "hp": 9315,
+                "atk": 166,
+                "def": 531,
+                "HP%": "12"
+            },
+            {
+                "level": 67,
+                "ascension": 4,
+                "hp": 9402,
+                "atk": 168,
+                "def": 536,
+                "HP%": "12"
+            },
+            {
+                "level": 68,
+                "ascension": 4,
+                "hp": 9488,
+                "atk": 169,
+                "def": 541,
+                "HP%": "12"
+            },
+            {
+                "level": 69,
+                "ascension": 4,
+                "hp": 9575,
+                "atk": 171,
+                "def": 546,
+                "HP%": "12"
+            },
+            {
+                "level": 70,
+                "ascension": 4,
+                "hp": 9661,
+                "atk": 172,
+                "def": 551,
+                "HP%": "12"
+            },
+            {
+                "level": 71,
+                "ascension": 5,
+                "hp": 10304,
+                "atk": 184,
+                "def": 588,
+                "HP%": "18"
+            },
+            {
+                "level": 72,
+                "ascension": 5,
+                "hp": 10390,
+                "atk": 185,
+                "def": 593,
+                "HP%": "18"
+            },
+            {
+                "level": 73,
+                "ascension": 5,
+                "hp": 10477,
+                "atk": 187,
+                "def": 598,
+                "HP%": "18"
+            },
+            {
+                "level": 74,
+                "ascension": 5,
+                "hp": 10564,
+                "atk": 188,
+                "def": 602,
+                "HP%": "18"
+            },
+            {
+                "level": 75,
+                "ascension": 5,
+                "hp": 10650,
+                "atk": 190,
+                "def": 607,
+                "HP%": "18"
+            },
+            {
+                "level": 76,
+                "ascension": 5,
+                "hp": 10737,
+                "atk": 191,
+                "def": 612,
+                "HP%": "18"
+            },
+            {
+                "level": 77,
+                "ascension": 5,
+                "hp": 10823,
+                "atk": 193,
+                "def": 617,
+                "HP%": "18"
+            },
+            {
+                "level": 78,
+                "ascension": 5,
+                "hp": 10910,
+                "atk": 195,
+                "def": 622,
+                "HP%": "18"
+            },
+            {
+                "level": 79,
+                "ascension": 5,
+                "hp": 10996,
+                "atk": 196,
+                "def": 627,
+                "HP%": "18"
+            },
+            {
+                "level": 80,
+                "ascension": 5,
+                "hp": 11083,
+                "atk": 198,
+                "def": 632,
+                "HP%": "18"
+            },
+            {
+                "level": 81,
+                "ascension": 6,
+                "hp": 11727,
+                "atk": 209,
+                "def": 669,
+                "HP%": "24"
+            },
+            {
+                "level": 82,
+                "ascension": 6,
+                "hp": 11813,
+                "atk": 211,
+                "def": 674,
+                "HP%": "24"
+            },
+            {
+                "level": 83,
+                "ascension": 6,
+                "hp": 11900,
+                "atk": 212,
+                "def": 679,
+                "HP%": "24"
+            },
+            {
+                "level": 84,
+                "ascension": 6,
+                "hp": 11986,
+                "atk": 214,
+                "def": 684,
+                "HP%": "24"
+            },
+            {
+                "level": 85,
+                "ascension": 6,
+                "hp": 12073,
+                "atk": 215,
+                "def": 689,
+                "HP%": "24"
+            },
+            {
+                "level": 86,
+                "ascension": 6,
+                "hp": 12159,
+                "atk": 217,
+                "def": 693,
+                "HP%": "24"
+            },
+            {
+                "level": 87,
+                "ascension": 6,
+                "hp": 12246,
+                "atk": 218,
+                "def": 698,
+                "HP%": "24"
+            },
+            {
+                "level": 88,
+                "ascension": 6,
+                "hp": 12332,
+                "atk": 220,
+                "def": 703,
+                "HP%": "24"
+            },
+            {
+                "level": 89,
+                "ascension": 6,
+                "hp": 12419,
+                "atk": 221,
+                "def": 708,
+                "HP%": "24"
+            },
+            {
+                "level": 90,
+                "ascension": 6,
+                "hp": 12506,
+                "atk": 223,
+                "def": 713,
+                "HP%": "24"
+            },
+            {
+                "level": 95,
+                "ascension": 6,
+                "hp": 12938,
+                "atk": 251,
+                "def": 738,
+                "HP%": "24"
+            },
+            {
+                "level": 100,
+                "ascension": 6,
+                "hp": 13371,
+                "atk": 280,
+                "def": 763,
+                "HP%": "24"
+            }
+        ]
+    },
+    "icons": {
+        "forward": "UI_AvatarIcon_Mika",
+        "coop_img": "UI_CoopImg_Mika"
+    },
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "100021": 168
+        },
+        "elemental": {
+            "104161": 1,
+            "104162": 9,
+            "104163": 9,
+            "104164": 6
+        },
+        "worldmonster": {
+            "112032": 18,
+            "112033": 30,
+            "112034": 36
+        },
+        "elitemonster": {
+            "113044": 46
+        }
+    },
+    "skills": {
+        "normalattack": {
+            "name": "Spear of Favonius - Arrow's Passage",
+            "icon": "Skill_A_03",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "43.26%",
+                    "46.78%",
+                    "50.31%",
+                    "55.34%",
+                    "58.86%",
+                    "62.88%",
+                    "68.42%",
+                    "73.95%",
+                    "79.48%",
+                    "85.52%",
+                    "91.56%",
+                    "97.59%",
+                    "103.63%",
+                    "109.67%",
+                    "115.7%"
+                ],
+                "2-Hit DMG": [
+                    "41.5%",
+                    "44.88%",
+                    "48.26%",
+                    "53.08%",
+                    "56.46%",
+                    "60.32%",
+                    "65.63%",
+                    "70.94%",
+                    "76.25%",
+                    "82.04%",
+                    "87.83%",
+                    "93.62%",
+                    "99.41%",
+                    "105.2%",
+                    "110.99%"
+                ],
+                "3-Hit DMG": [
+                    "54.5%",
+                    "58.94%",
+                    "63.38%",
+                    "69.71%",
+                    "74.15%",
+                    "79.22%",
+                    "86.19%",
+                    "93.16%",
+                    "100.13%",
+                    "107.74%",
+                    "115.34%",
+                    "122.95%",
+                    "130.55%",
+                    "138.16%",
+                    "145.76%"
+                ],
+                "4-Hit DMG": [
+                    "27.61%+27.61%",
+                    "29.86%+29.86%",
+                    "32.11%+32.11%",
+                    "35.32%+35.32%",
+                    "37.57%+37.57%",
+                    "40.14%+40.14%",
+                    "43.67%+43.67%",
+                    "47.2%+47.2%",
+                    "50.73%+50.73%",
+                    "54.59%+54.59%",
+                    "58.44%+58.44%",
+                    "62.29%+62.29%",
+                    "66.15%+66.15%",
+                    "70%+70%",
+                    "73.85%+73.85%"
+                ],
+                "5-Hit DMG": [
+                    "70.87%",
+                    "76.64%",
+                    "82.41%",
+                    "90.65%",
+                    "96.42%",
+                    "103.02%",
+                    "112.08%",
+                    "121.15%",
+                    "130.21%",
+                    "140.1%",
+                    "149.99%",
+                    "159.88%",
+                    "169.77%",
+                    "179.66%",
+                    "189.55%"
+                ],
+                "Charged Attack DMG": [
+                    "112.75%",
+                    "121.92%",
+                    "131.1%",
+                    "144.21%",
+                    "153.39%",
+                    "163.87%",
+                    "178.3%",
+                    "192.72%",
+                    "207.14%",
+                    "222.87%",
+                    "238.6%",
+                    "254.33%",
+                    "270.07%",
+                    "285.8%",
+                    "301.53%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25"
+                ],
+                "Plunge DMG": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ],
+                "Low/High Plunge DMG": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ]
+            },
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 5 consecutive strikes using his crossbow and spear.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
+        },
+        "elementalskill": {
+            "name": "Starfrost Swirl",
+            "icon": "Skill_S_Mika_01",
+            "multipliers": {
+                "Flowfrost Arrow DMG": [
+                    "67.2%",
+                    "72.24%",
+                    "77.28%",
+                    "84%",
+                    "89.04%",
+                    "94.08%",
+                    "100.8%",
+                    "107.52%",
+                    "114.24%",
+                    "120.96%",
+                    "127.68%",
+                    "134.4%",
+                    "142.8%",
+                    "151.2%",
+                    "159.6%"
+                ],
+                "Rimestar Flare DMG": [
+                    "84%",
+                    "90.3%",
+                    "96.6%",
+                    "105%",
+                    "111.3%",
+                    "117.6%",
+                    "126%",
+                    "134.4%",
+                    "142.8%",
+                    "151.2%",
+                    "159.6%",
+                    "168%",
+                    "178.5%",
+                    "189%",
+                    "199.5%"
+                ],
+                "Rimestar Shard DMG": [
+                    "25.2%",
+                    "27.09%",
+                    "28.98%",
+                    "31.5%",
+                    "33.39%",
+                    "35.28%",
+                    "37.8%",
+                    "40.32%",
+                    "42.84%",
+                    "45.36%",
+                    "47.88%",
+                    "50.4%",
+                    "53.55%",
+                    "56.7%",
+                    "59.85%"
+                ],
+                "ATK SPD Bonus": [
+                    "13%",
+                    "14%",
+                    "15%",
+                    "16%",
+                    "17%",
+                    "18%",
+                    "19%",
+                    "20%",
+                    "21%",
+                    "22%",
+                    "23%",
+                    "24%",
+                    "25%",
+                    "25%",
+                    "25%"
+                ],
+                "Soulwind Duration": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "CD": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ]
+            },
+            "description": "Mika uses his crossbow to attack, granting all nearby characters in your party Soulwind. When characters in the Soulwind state are on the field, their ATK SPD will be increased.\\nWill take effect in different ways if Tapped or Held.\\n\\n<color=#FFD780FF>Tap</color>\\nFires a Flowfrost Arrow that can pierce through opponents, dealing <color=#99FFFFFF>Cryo DMG</color> to enemies it comes into contact with.\\n\\n<color=#FFD780FF>Hold</color>\\nGoes into Aiming Mode, locking on to an opponent and firing a Rimestar Flare at them, dealing <color=#99FFFFFF>Cryo DMG</color>. When the Rimestar Flare hits, it will rise before exploding, launching Rimestar Shards into a maximum of 3 other opponents, dealing <color=#99FFFFFF>Cryo DMG</color>.\\n\\n<i>Stars burst 'neath the frosted skies.</i>"
+        },
+        "elementalburst": {
+            "name": "Skyfeather Song",
+            "icon": "Skill_E_Mika_01",
+            "multipliers": {
+                "Cast Healing": [
+                    "12.17% Max HP+1172",
+                    "13.08% Max HP+1289",
+                    "13.99% Max HP+1416",
+                    "15.21% Max HP+1553",
+                    "16.12% Max HP+1700",
+                    "17.04% Max HP+1856",
+                    "18.25% Max HP+2022",
+                    "19.47% Max HP+2198",
+                    "20.69% Max HP+2383",
+                    "21.9% Max HP+2579",
+                    "23.12% Max HP+2784",
+                    "24.34% Max HP+2999",
+                    "25.86% Max HP+3223",
+                    "27.38% Max HP+3458",
+                    "28.9% Max HP+3702"
+                ],
+                "Eagleplume Healing": [
+                    "2.43% Max HP+234",
+                    "2.61% Max HP+257",
+                    "2.8% Max HP+283",
+                    "3.04% Max HP+310",
+                    "3.22% Max HP+339",
+                    "3.4% Max HP+370",
+                    "3.65% Max HP+404",
+                    "3.89% Max HP+439",
+                    "4.13% Max HP+476",
+                    "4.38% Max HP+515",
+                    "4.62% Max HP+556",
+                    "4.86% Max HP+599",
+                    "5.17% Max HP+643",
+                    "5.47% Max HP+690",
+                    "5.78% Max HP+739"
+                ],
+                "Eagleplume Healing Interval": [
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s"
+                ],
+                "Eagleplume Duration": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "CD": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ],
+                "Energy Cost": [
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70"
+                ]
+            },
+            "description": "Derives the ability to spur his teammates on from the recited prayers of the knightly order, regenerating HP for all nearby party members. This healing is based on Mika's Max HP and will grant them the Eagleplume state.\\n\\n<color=#FFD780FF>Eagleplume</color>\\nWhen the Normal Attacks of active characters affected by Eagleplume hit an opponent, Mika will help them regenerate HP based on his Max HP.\\nCharacters affected by this state can only regenerate HP in this way once per short interval of time.\\n\\n<i>\"Carry hope when in dire straits, and keep vigil when all is well... For that pure white plume shall at last guide the lost wayfarers.\"</i>"
+        },
+        "leveling": {
+            "books": {
+                "104307": 9,
+                "104308": 63,
+                "104309": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "worldmonster": {
+                "112032": 18,
+                "112033": 66,
+                "112034": 93
+            },
+            "weekly": {
+                "113042": 18
+            }
+        }
+    },
+    "passives": {
+        "p1": {
+            "name": "Suppressive Barrage",
+            "description": "Per the following circumstances, the Soulwind state caused by <color=#FFD780FF>Starfrost Swirl</color> will grant characters the Detector effect, increasing their Physical DMG by 10% when they are on the field.\\n·If the Flowfrost Arrow hits more than one opponent, each additional opponent hit will generate 1 Detector stack.\\n·When a Rimestar Shard hits an opponent, it will generate 1 Detector stack. Each Rimestar Shard can trigger the effect 1 time.\\n\\nThe Soulwind state can have a maximum of 3 Detector stacks, and if Starfrost Swirl is cast again during this duration, the pre-existing Soulwind state and all its Detector stacks will be cleared.",
+            "icon": "UI_Talent_S_Mika_05"
+        },
+        "p2": {
+            "name": "Topographical Mapping",
+            "description": "When an active character affected by both <color=#FFD780FF>Skyfeather Song</color>'s Eagleplume and <color=#FFD780FF>Starfrost Swirl</color>'s Soulwind at once scores a CRIT Hit with their attacks, Soulwind will grant them 1 stack of Detector from the Ascension Talent Suppressive Barrage. During a single instance of Soulwind, 1 Detector stack can be gained in this manner.\\nAdditionally, the maximum number of stacks that can be gained through Soulwind alone is increased by 1.\\nYou must first unlock the Ascension Talent \"Suppressive Barrage.\"",
+            "icon": "UI_Talent_S_Mika_06"
+        },
+        "p3": {
+            "name": "Demarcation",
+            "description": "Displays the location of nearby <color=#FFD780FF>resources unique to Mondstadt</color> on the mini-map.",
+            "icon": "UI_Talent_Collect_Local_Mengde"
+        },
+        "p4": ""
+    },
+    "constellations": {
+        "const1": {
+            "name": "Factor Confluence",
+            "description": "The Soulwind state of <color=#FFD780FF>Starfrost Swirl</color> can decrease the healing interval between instances caused by <color=#FFD780FF>Skyfeather Song</color>'s Eagleplume state. This decrease percentage is equal to the ATK SPD increase provided by Soulwind.",
+            "icon": "UI_Talent_S_Mika_01"
+        },
+        "const2": {
+            "name": "Companion's Ingress",
+            "description": "When <color=#FFD780FF>Starfrost Swirl</color>'s Flowfrost Arrow first hits an opponent, or its Rimestar Flare hits an opponent, 1 Detector stack from the Ascension Talent \"Suppressive Barrage\" will be generated.\\nYou must first unlock the Ascension Talent \"Suppressive Barrage.\"",
+            "icon": "UI_Talent_S_Mika_02"
+        },
+        "const3": {
+            "name": "Reconnaissance Experience",
+            "description": "Increases the Level of <color=#FFD780FF>Skyfeather Song</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Mika_01"
+        },
+        "const4": {
+            "name": "Sunfrost Encomium",
+            "description": "When Mika's own <color=#FFD780FF>Skyfeather Song</color>'s Eagleplume state heals party members, this will restore 3 Energy to Mika. This form of Energy restoration can occur 5 times during the Eagleplume state created by 1 use of Skyfeather Song.",
+            "icon": "UI_Talent_S_Mika_03"
+        },
+        "const5": {
+            "name": "Signal Arrow",
+            "description": "Increases the Level of <color=#FFD780FF>Starfrost Swirl</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Mika_02"
+        },
+        "const6": {
+            "name": "Companion's Counsel",
+            "description": "The maximum number of Detector stacks that <color=#FFD780FF>Starfrost Swirl</color>'s Soulwind can gain is increased by 1. You must first unlock the Ascension Talent \"Suppressive Barrage.\".\\nAdditionally, active characters affected by Soulwind will deal 60% more Physical CRIT DMG.",
+            "icon": "UI_Talent_S_Mika_04"
+        }
+    },
+    "energy": [
+        {
+            "source": "Ice_ElemBall_1",
+            "particles": "4",
+            "chance": "100%",
+            "cd": "0.15s"
+        }
+    ],
+    "attacks": [
+        {
+            "name": "ExtraAttack_Bullet",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "icd_rule": "24 hits / 0.5s",
+            "gauge": "1U",
+            "poise": "LV5/120",
+            "element": "-"
+        },
+        {
+            "name": "ExtraAttack_Bullet",
+            "icd_source": "Grp: Avatar_Pole_ExtraAttack (Tag Miss)",
+            "icd_rule": "24 hits / 0.5s",
+            "gauge": "1U",
+            "poise": "LV6/120",
+            "element": "-"
+        },
+        {
+            "name": "ElementalArt_NoChargeShoot",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/100",
+            "element": "Ice"
+        },
+        {
+            "name": "ElementalArt_NoCharge_Bullet_Main",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/30",
+            "element": "Ice"
+        },
+        {
+            "name": "ElementalArt_Charge_Bullet_Main",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/100",
+            "element": "Ice"
+        },
+        {
+            "name": "ElementalArt_Charge_Bullet_Sub",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV2/50",
+            "element": "Ice"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/25",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/25",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/100",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/150",
+            "element": "-"
+        }
+    ],
+    "hyperlinks": []
+}

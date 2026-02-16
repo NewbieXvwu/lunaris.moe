@@ -1,0 +1,1430 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104111": 1,
+            "104112": 9,
+            "104113": 9,
+            "104114": 6
+        },
+        "elitemonster": {
+            "113080": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101261": 168
+        },
+        "worldmonster": {
+            "112125": 18,
+            "112126": 30,
+            "112127": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_White",
+            "poise": "Lv4/100"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "3 hits / 0.3s",
+            "icd_source": "Tag: Durin_EleA_BlackBullet",
+            "name": "ElementalArt_Black_Bullet_Attack",
+            "poise": "LV3/40"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "3 hits / 0.3s",
+            "icd_source": "Tag: Durin_EleA_BlackBullet",
+            "name": "ElementalArt_Black_Bullet_Attack",
+            "poise": "LV3/30"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "3 hits / 0.3s",
+            "icd_source": "Tag: Durin_EleA_BlackBullet",
+            "name": "ElementalArt_Black_Bullet_Attack",
+            "poise": "LV3/30"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "3 hits / 0.3s",
+            "icd_source": "Tag: Durin_EleA_BlackBullet",
+            "name": "ElementalArt_Black_Bullet_Attack_LifeOver",
+            "poise": "LV3/40"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "3 hits / 0.3s",
+            "icd_source": "Tag: Durin_EleA_BlackBullet",
+            "name": "ElementalArt_Black_Bullet_Attack_LifeOver",
+            "poise": "LV3/30"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "3 hits / 0.3s",
+            "icd_source": "Tag: Durin_EleA_BlackBullet",
+            "name": "ElementalArt_Black_Bullet_Attack_LifeOver",
+            "poise": "LV3/30"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Durin_Burst_Tornado_Black (!)",
+            "name": "ElementalBurst",
+            "poise": "LV3/30"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Durin_Burst_Tornado_Black (!)",
+            "name": "ElementalBurst",
+            "poise": "LV3/20"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Durin_Burst_Tornado_Black (!)",
+            "name": "ElementalBurst",
+            "poise": "LV3/20"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Durin_Burst_Tornado_Black (!)",
+            "name": "ElementalBurst",
+            "poise": "LV3/30"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Durin_Burst_Tornado_Black (!)",
+            "name": "ElementalBurst",
+            "poise": "LV3/20"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Durin_Burst_Tornado_Black (!)",
+            "name": "ElementalBurst",
+            "poise": "LV3/20"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Durin_Burst_Tornado_White (!)",
+            "name": "ElementalBurst",
+            "poise": "LV3/30"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Durin_Burst_Tornado_White (!)",
+            "name": "ElementalBurst",
+            "poise": "LV3/20"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Durin_Burst_Tornado_White (!)",
+            "name": "ElementalBurst",
+            "poise": "LV3/20"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Durin_Burst_Tornado_White (!)",
+            "name": "ElementalBurst",
+            "poise": "LV3/30"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Durin_Burst_Tornado_White (!)",
+            "name": "ElementalBurst",
+            "poise": "LV3/20"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Durin_Burst_Tornado_White (!)",
+            "name": "ElementalBurst",
+            "poise": "LV3/20"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "2 hits / 1.5s",
+            "icd_source": "Grp: Durin_Burst_WhiteFire (Tag Miss)",
+            "name": "Burst_WhiteDragon",
+            "poise": "LV3/20"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "2 hits / 1.5s",
+            "icd_source": "Grp: Durin_Burst_WhiteFire (Tag Miss)",
+            "name": "Burst_WhiteDragon",
+            "poise": "LV3/20"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "2 hits / 1.5s",
+            "icd_source": "Grp: Durin_Burst_WhiteFire (Tag Miss)",
+            "name": "Burst_WhiteDragon",
+            "poise": "LV3/20"
+        },
+        {
+            "element": "Fire",
+            "gauge": "1U",
+            "icd_rule": "2 hits / 2s",
+            "icd_source": "Tag: Durin_Burst_BlackBullet",
+            "name": "ElementalBurst_Bullet_01",
+            "poise": "LV3/20"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Após usar o Supremo, efeitos diferentes serão aplicados com base no Supremo usado por Durin:\\n·<color=#FFD780FF>Princípio da Pureza: Transformação da Luz</color>: todos os outros Personagens próximos da equipe recebem 20 Acúmulos de <color=#FFD780FF>\"Ciclo do Esclarecimento\"</color>, com duração de 20 segundos. Quando o Personagem em campo com \"Ciclo do Esclarecimento\" causar Dano com Ataque Normal, Ataque Carregado, Ataque Imersivo, Habilidade Elemental ou Supremo, 1 Acúmulo de \"Ciclo do Esclarecimento\" será consumido para aumentar o Dano causado. O Valor do aumento é equivalente a 60% do ATQ de Durin. O número de ativações do \"Ciclo do Esclarecimento\" é calculado separadamente para cada Personagem da equipe.\\n·<color=#FFD780FF>Princípio da Escuridão: Como as Estrelas Ardem</color>: Durin recebe 20 Acúmulos de <color=#FFD780FF>Ciclo do Esclarecimento</color>, com duração de 20 segundos. Ao causar Dano de Supremo, Durin consumirá 2 Acúmulos de \"Ciclo do Esclarecimento\", aumentando o Dano causado. O Valor do aumento é equivalente a 150% do ATQ de Durin.\\n\\nAo usar o Supremo, o número de Acúmulos de <color=#FFD780FF>\"Ciclo do Esclarecimento\"</color> será redefinido.",
+            "icon": "UI_Talent_S_Durin_03",
+            "name": "Redenção de Adamah"
+        },
+        "const2": {
+            "description": "Nos 20s após Durin lançar seu Supremo, quando os personagens próximos da equipe causarem Vaporização, Fusão, Queimaduras, Sobrecarga, Redemoinho Pyro ou Reação de Cristalização Pyro contra inimigos, ou causarem <color=#FF9999FF>Dano Pyro</color> ou <color=#99FF88FF>Dano Dendro</color> contra inimigos afetados por Queimaduras, o <color=#FF9999FF>Dano Pyro</color> e o Dano do Elemento correspondente participante da reação causados pelos personagens próximos da equipe aumentam em 50% por 6s.",
+            "icon": "UI_Talent_S_Durin_04",
+            "name": "Visões Infundadas"
+        },
+        "const3": {
+            "description": "Aumenta o nível do Supremo <color=#FFD780FF>{LINK#S11235}Princípio da Pureza: Transformação da Luz{/LINK}</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Durin_01",
+            "name": "Revelação do Espelho Flamejante"
+        },
+        "const4": {
+            "description": "O Dano do Supremo de Durin aumenta em 40%. Além disso, quando ativar efeitos que consomem <color=#FFD780FF>Ciclo do Esclarecimento</color> da Constelação <color=#FFD780FF>{LINK#T1231}Redenção de Adamah{/LINK}</color>, possui 30% de chance de não consumir Ciclo do Esclarecimento.",
+            "icon": "UI_Talent_S_Durin_05",
+            "name": "Fonte de Emanare"
+        },
+        "const5": {
+            "description": "Aumenta o nível da Habilidade Elemental <color=#FFD780FF>{LINK#S11232}Forma Binária: Convergência e Divisão{/LINK}</color> em 3 níveis. \\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Durin_02",
+            "name": "Rachadura da Chama Furiosa"
+        },
+        "const6": {
+            "description": "O Supremo de Durin ignorará 30% da DEF dos inimigos ao causar Dano.\\nAlém disso, os Supremos <color=#FFD780FF>Princípio da Pureza: Transformação da Luz</color> e <color=#FFD780FF>Princípio da Escuridão: Como as Estrelas Ardem</color> serão fortalecidos da seguinte forma:\\n· O Supremo <color=#FFD780FF>Princípio da Pureza: Transformação da Luz</color> e o <color=#FFD780FF>Dragão da Chama Branca</color> reduzirão a DEF do inimigo em 30% após o impacto por 6s;\\n· O Supremo <color=#FFD780FF>Princípio da Escuridão: Como as Estrelas Ardem</color> e o <color=#FFD780FF>Dragão da Chama Escura</color> ignorarão 40% adicionais da DEF do inimigo ao causar Dano.",
+            "icon": "UI_Talent_S_Durin_06",
+            "name": "Nascimento Dual"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.3s",
+            "chance": "100%",
+            "particles": "4",
+            "source": "DropBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Durin",
+        "forward": "UI_AvatarIcon_Durin"
+    },
+    "info": {
+        "attributes": [
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 64,
+                "hp": 968,
+                "level": 1
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 69,
+                "hp": 1048,
+                "level": 2
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 75,
+                "hp": 1128,
+                "level": 3
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 80,
+                "hp": 1210,
+                "level": 4
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 85,
+                "hp": 1290,
+                "level": 5
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 91,
+                "hp": 1371,
+                "level": 6
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 40,
+                "def": 96,
+                "hp": 1451,
+                "level": 7
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 43,
+                "def": 101,
+                "hp": 1533,
+                "level": 8
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 45,
+                "def": 107,
+                "hp": 1614,
+                "level": 9
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 47,
+                "def": 112,
+                "hp": 1694,
+                "level": 10
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 50,
+                "def": 117,
+                "hp": 1776,
+                "level": 11
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 52,
+                "def": 123,
+                "hp": 1857,
+                "level": 12
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 54,
+                "def": 128,
+                "hp": 1938,
+                "level": 13
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 56,
+                "def": 134,
+                "hp": 2020,
+                "level": 14
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 59,
+                "def": 139,
+                "hp": 2102,
+                "level": 15
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 61,
+                "def": 144,
+                "hp": 2183,
+                "level": 16
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 63,
+                "def": 150,
+                "hp": 2265,
+                "level": 17
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 65,
+                "def": 155,
+                "hp": 2346,
+                "level": 18
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 68,
+                "def": 161,
+                "hp": 2429,
+                "level": 19
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 70,
+                "def": 166,
+                "hp": 2510,
+                "level": 20
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 95,
+                "def": 226,
+                "hp": 3422,
+                "level": 21
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 98,
+                "def": 232,
+                "hp": 3504,
+                "level": 22
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 100,
+                "def": 237,
+                "hp": 3586,
+                "level": 23
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 102,
+                "def": 243,
+                "hp": 3669,
+                "level": 24
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 105,
+                "def": 248,
+                "hp": 3751,
+                "level": 25
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 107,
+                "def": 254,
+                "hp": 3834,
+                "level": 26
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 109,
+                "def": 259,
+                "hp": 3916,
+                "level": 27
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 112,
+                "def": 265,
+                "hp": 3999,
+                "level": 28
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 114,
+                "def": 270,
+                "hp": 4082,
+                "level": 29
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 116,
+                "def": 275,
+                "hp": 4164,
+                "level": 30
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 119,
+                "def": 281,
+                "hp": 4247,
+                "level": 31
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 121,
+                "def": 287,
+                "hp": 4330,
+                "level": 32
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 123,
+                "def": 292,
+                "hp": 4414,
+                "level": 33
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 125,
+                "def": 297,
+                "hp": 4496,
+                "level": 34
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 128,
+                "def": 303,
+                "hp": 4579,
+                "level": 35
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 130,
+                "def": 309,
+                "hp": 4663,
+                "level": 36
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 132,
+                "def": 314,
+                "hp": 4747,
+                "level": 37
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 135,
+                "def": 320,
+                "hp": 4830,
+                "level": 38
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 137,
+                "def": 325,
+                "hp": 4913,
+                "level": 39
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 139,
+                "def": 331,
+                "hp": 4997,
+                "level": 40
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 158,
+                "def": 375,
+                "hp": 5670,
+                "level": 41
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 161,
+                "def": 381,
+                "hp": 5754,
+                "level": 42
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 163,
+                "def": 386,
+                "hp": 5838,
+                "level": 43
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 165,
+                "def": 392,
+                "hp": 5921,
+                "level": 44
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 168,
+                "def": 397,
+                "hp": 6006,
+                "level": 45
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 170,
+                "def": 403,
+                "hp": 6090,
+                "level": 46
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 172,
+                "def": 408,
+                "hp": 6174,
+                "level": 47
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 175,
+                "def": 414,
+                "hp": 6258,
+                "level": 48
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 177,
+                "def": 420,
+                "hp": 6343,
+                "level": 49
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 179,
+                "def": 425,
+                "hp": 6428,
+                "level": 50
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 204,
+                "def": 483,
+                "hp": 7298,
+                "level": 51
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 206,
+                "def": 488,
+                "hp": 7383,
+                "level": 52
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 208,
+                "def": 494,
+                "hp": 7467,
+                "level": 53
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 211,
+                "def": 500,
+                "hp": 7552,
+                "level": 54
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 213,
+                "def": 505,
+                "hp": 7637,
+                "level": 55
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 215,
+                "def": 511,
+                "hp": 7722,
+                "level": 56
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 218,
+                "def": 517,
+                "hp": 7808,
+                "level": 57
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 220,
+                "def": 522,
+                "hp": 7893,
+                "level": 58
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 223,
+                "def": 528,
+                "hp": 7978,
+                "level": 59
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 225,
+                "def": 533,
+                "hp": 8063,
+                "level": 60
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 244,
+                "def": 578,
+                "hp": 8738,
+                "level": 61
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 246,
+                "def": 584,
+                "hp": 8823,
+                "level": 62
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 249,
+                "def": 589,
+                "hp": 8909,
+                "level": 63
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 251,
+                "def": 595,
+                "hp": 8994,
+                "level": 64
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 253,
+                "def": 601,
+                "hp": 9080,
+                "level": 65
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 256,
+                "def": 606,
+                "hp": 9166,
+                "level": 66
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 258,
+                "def": 612,
+                "hp": 9252,
+                "level": 67
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 261,
+                "def": 618,
+                "hp": 9338,
+                "level": 68
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 263,
+                "def": 623,
+                "hp": 9424,
+                "level": 69
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 265,
+                "def": 629,
+                "hp": 9510,
+                "level": 70
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 284,
+                "def": 674,
+                "hp": 10185,
+                "level": 71
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 287,
+                "def": 680,
+                "hp": 10273,
+                "level": 72
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 289,
+                "def": 685,
+                "hp": 10359,
+                "level": 73
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 291,
+                "def": 691,
+                "hp": 10445,
+                "level": 74
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 294,
+                "def": 697,
+                "hp": 10532,
+                "level": 75
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 296,
+                "def": 702,
+                "hp": 10618,
+                "level": 76
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 299,
+                "def": 708,
+                "hp": 10705,
+                "level": 77
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 301,
+                "def": 714,
+                "hp": 10792,
+                "level": 78
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 304,
+                "def": 720,
+                "hp": 10879,
+                "level": 79
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 306,
+                "def": 726,
+                "hp": 10966,
+                "level": 80
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 325,
+                "def": 770,
+                "hp": 11643,
+                "level": 81
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 327,
+                "def": 776,
+                "hp": 11730,
+                "level": 82
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 330,
+                "def": 782,
+                "hp": 11817,
+                "level": 83
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 332,
+                "def": 788,
+                "hp": 11904,
+                "level": 84
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 335,
+                "def": 793,
+                "hp": 11991,
+                "level": 85
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 337,
+                "def": 799,
+                "hp": 12079,
+                "level": 86
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 339,
+                "def": 805,
+                "hp": 12166,
+                "level": 87
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 342,
+                "def": 811,
+                "hp": 12254,
+                "level": 88
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 344,
+                "def": 817,
+                "hp": 12343,
+                "level": 89
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 347,
+                "def": 822,
+                "hp": 12430,
+                "level": 90
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 386,
+                "def": 852,
+                "hp": 12871,
+                "level": 95
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 425,
+                "def": 881,
+                "hp": 13313,
+                "level": 100
+            }
+        ],
+        "birthday": "March 14th",
+        "constellation": "Draco Rubedo",
+        "description": "Um dragão que nasceu da caneta de M, e que chegou ao mundo humano. Sua história continua a se revelar.",
+        "element": "Pyro",
+        "name": "Durin",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_SWORD_ONE_HAND"
+    },
+    "passives": {
+        "p1": {
+            "description": "Gera efeitos de fortalecimento diferentes de acordo com o estado revelado do poder pelo lançamento do Supremo de Durin. Se o poder revelado de Durin for:\\n\\n<color=#FFD780FF>Dragão da Chama Branca</color>\\nDepois que os personagens próximos na equipe desencadearem Queimaduras, Sobrecarga, Redemoinho Pyro, Reação de Cristalização Pyro contra inimigos, ou causarem <color=#FF9999FF>Dano Pyro</color> ou <color=#99FF88FF>Dano Dendro</color> contra inimigos sob efeito de Queimaduras, a <color=#FF9999FF>RES Pyro</color> desse inimigo e a RES do Elemento correspondente participante da reação são reduzidas em 20% por 6 segundos.\\n\\n<color=#FFD780FF>Dragão da Chama Escura</color>\\nO Dano causado por reações de Vaporização desencadeadas por Durin aumenta em 40%, e o Dano causado por reações de Fusão aumenta em 40%.",
+            "icon": "UI_Talent_S_Durin_01",
+            "name": "Luz Manifesta do Cálculo Divino"
+        },
+        "p2": {
+            "description": "Durante 20 segundos após o uso do Supremo, Durin receberá o Efeito \"Fusão Primordial\": durante esse período, Durin obterá 10 Acúmulos de \"Essência\". Quando o <color=#FFD780FF>Dragão da Chama Branca</color> e o <color=#FFD780FF>Dragão da Chama Escura</color> causarem Dano com seus ataques periódicos, será consumido 1 Acúmulo de \"Essência\", aumentando o Dano causado. A cada 100 pontos de ATQ, será causado Dano adicional equivalente a 3% do Dano original, podendo alcançar no máximo 75% de Dano adicional por esse meio. Caso o <color=#FFD780FF>Dragão da Chama Branca</color> e o <color=#FFD780FF>Dragão da Chama Escura</color> atinjam múltiplos inimigos ao mesmo tempo, apenas 1 Acúmulo de \"Essência\" será consumido.\\nAo usar o Supremo novamente, o número de Acúmulos de \"Essência\" será reiniciado.",
+            "icon": "UI_Talent_S_Durin_02",
+            "name": "Caos Formado como a Noite"
+        },
+        "p3": {
+            "description": "Ganha 25% de recompensas a mais quando enviada numa Expedição em Mondstadt por 20 horas.",
+            "icon": "UI_Talent_S_Durin_07",
+            "name": "Ecos da Terra Surgente"
+        },
+        "p4": {
+            "description": "Depois de completar <color=#FFD780FF>Tarefa da Bruxa: Deste Mundo</color>, Durin se tornará um personagem <color=#FFD780FF>Mágico</color>. Quando a equipe possuir pelo menos 2 personagens Mágicos, obtém o efeito <color=#FFD780FF>Mágico: Ritual Secreto</color>, fortalecendo os personagens Mágicos.\\n\\n<color=#FFD780FF>Mágico: Ritual Secreto</color>\\nO Talento de Ascensão {LINK#P1232101}<color=#FFD780FF>Luz Manifesta do Cálculo Divino</color>{/LINK} tem todos os seus efeitos fortalecidos em 75%, exceto sua duração.",
+            "icon": "UI_Talent_S_Durin_03",
+            "name": "Presente da Noite da Bruxa: Ode à Sublimação"
+        }
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Usa formas diferentes para liberar o poder de uma besta. Durin lança seu Supremo de formas diferentes de acordo com o estado de {LINK#N11230001}<color=#FFD780FF>Transmutação Essencial</color>{/LINK}.\\n\\n<color=#FFD780FF>Princípio da Pureza: Transformação da Luz</color>\\nSe Durin estiver no estado <color=#FFD780FF>Confirmação da Pureza</color>, lançará o Supremo <color=#FFD780FF>Princípio da Pureza: Transformação da Luz</color>, causando 3 instâncias de <color=#FF9999FF>Dano Pyro em AdE</color> contra o inimigo em frente, e revelando o poder da forma <color=#FFD780FF>Dragão da Chama Branca</color>. Dragão da Chama Branca acompanha o personagem ativo, e periodicamente ataca os inimigos próximos, causando <color=#FF9999FF>Dano Pyro em AdE</color>. Esse Dano é considerado Dano de Supremo.\\n\\n<color=#FFD780FF>Princípio da Escuridão: Como as Estrelas Ardem</color>\\nSe Durin estiver no estado <color=#FFD780FF>Negação da Escuridão</color>, seu Supremo será convertido para <color=#FFD780FF>Princípio da Escuridão: Como as Estrelas Ardem</color>, causando três instâncias de <color=#FF9999FF>Dano Pyro em AdE</color>, e revelando a forma <color=#FFD780FF>Dragão da Chama Escura</color>. O Dragão da Chama Escura acompanha o personagem ativo, e periodicamente realiza um ataque contra um inimigo próximo, causando <color=#FF9999FF>Dano Pyro</color>. Esse Dano é considerado Dano de Supremo.\\nAlém disso, se Durin não estiver no Estado Especial de Transmutação Essencial, lançará o Supremo <color=#FFD780FF>Princípio da Pureza: Transformação da Luz</color>.",
+            "icon": "Skill_E_Durin_01",
+            "multipliers": {
+                "Dano de Dragão da Chama Branca": [
+                    "94.64%",
+                    "101.74%",
+                    "108.84%",
+                    "118.3%",
+                    "125.4%",
+                    "132.5%",
+                    "141.96%",
+                    "151.42%",
+                    "160.89%",
+                    "170.35%",
+                    "179.82%",
+                    "189.28%",
+                    "201.11%",
+                    "212.94%",
+                    "224.77%"
+                ],
+                "Dano de Dragão da Chama Escura": [
+                    "129.84%",
+                    "139.58%",
+                    "149.32%",
+                    "162.3%",
+                    "172.04%",
+                    "181.78%",
+                    "194.76%",
+                    "207.74%",
+                    "220.73%",
+                    "233.71%",
+                    "246.7%",
+                    "259.68%",
+                    "275.91%",
+                    "292.14%",
+                    "308.37%"
+                ],
+                "Dano de Princípio da Escuridão: Como as Estrelas Ardem": [
+                    "125.44% + 101.76% + 111.84%",
+                    "134.85% + 109.39% + 120.23%",
+                    "144.26% + 117.02% + 128.62%",
+                    "156.8% + 127.2% + 139.8%",
+                    "166.21% + 134.83% + 148.19%",
+                    "175.62% + 142.46% + 156.58%",
+                    "188.16% + 152.64% + 167.76%",
+                    "200.7% + 162.82% + 178.94%",
+                    "213.25% + 172.99% + 190.13%",
+                    "225.79% + 183.17% + 201.31%",
+                    "238.34% + 193.34% + 212.5%",
+                    "250.88% + 203.52% + 223.68%",
+                    "266.56% + 216.24% + 237.66%",
+                    "282.24% + 228.96% + 251.64%",
+                    "297.92% + 241.68% + 265.62%"
+                ],
+                "Dano de Princípio da Pureza: Transformação da Luz": [
+                    "118.96% + 96.4% + 111.84%",
+                    "127.88% + 103.63% + 120.23%",
+                    "136.8% + 110.86% + 128.62%",
+                    "148.7% + 120.5% + 139.8%",
+                    "157.62% + 127.73% + 148.19%",
+                    "166.54% + 134.96% + 156.58%",
+                    "178.44% + 144.6% + 167.76%",
+                    "190.34% + 154.24% + 178.94%",
+                    "202.23% + 163.88% + 190.13%",
+                    "214.13% + 173.52% + 201.31%",
+                    "226.02% + 183.16% + 212.5%",
+                    "237.92% + 192.8% + 223.68%",
+                    "252.79% + 204.85% + 237.66%",
+                    "267.66% + 216.9% + 251.64%",
+                    "282.53% + 228.95% + 265.62%"
+                ],
+                "Duração de Dragão da Chama Branca": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ],
+                "Duração de Dragão da Chama Escura": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ],
+                "Energia Elemental": [
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70"
+                ],
+                "Recarga": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ]
+            },
+            "name": "Princípio da Pureza: Transformação da Luz"
+        },
+        "elementalskill": {
+            "description": "Purifica a substância das almas e dos desejos para realizar a {LINK#N11230001}<color=#FFD780FF>Transmutação Essencial</color>{/LINK}. Nesse período, a Habilidade Elemental <color=#FFD780FF>Forma Binária: Convergência e Divisão</color> de Durin será substituída pela Habilidade Elemental especial <color=#FFD780FF>Conversão: Confirmação da Pureza</color>, seu Ataque Normal <color=#FFD780FF>Golpe da Asa Radiante</color> será substituído pela sua Habilidade Elemental especial <color=#FFD780FF>Conversão: Negação da Escuridão</color>.\\n\\n<color=#FFD780FF>Conversão: Confirmação da Pureza</color>\\nCausa uma instância de <color=#FF9999FF>Dano Pyro em AdE</color> contra os inimigos próximos, remove a Transmutação Essencial e entra no estado <color=#FFD780FF>Confirmação da Pureza</color> por 30s.\\n\\n<color=#FFD780FF>Conversão: Negação da Escuridão</color>\\nCausa 3 instâncias consecutivas de <color=#FF9999FF>Dano Pyro</color> contra os inimigos à frente, remove Transmutação Essencial e entra no estado <color=#FFD780FF>Negação da Escuridão</color> por 30s.\\n\\nQuando Durin estiver em batalha e entrar em <color=#FFD780FF>Confirmação da Pureza</color> ou <color=#FFD780FF>Negação da Escuridão</color>, regenera uma certa quantidade de Energia Elemental. É possível regenerar Energia Elemental uma vez a cada 6s dessa forma.",
+            "icon": "Skill_S_Durin_01",
+            "multipliers": {
+                "Dano de Conversão: Confirmação da Pureza": [
+                    "105.6%",
+                    "113.52%",
+                    "121.44%",
+                    "132%",
+                    "139.92%",
+                    "147.84%",
+                    "158.4%",
+                    "168.96%",
+                    "179.52%",
+                    "190.08%",
+                    "200.64%",
+                    "211.2%",
+                    "224.4%",
+                    "237.6%",
+                    "250.8%"
+                ],
+                "Dano de Conversão: Negação da Escuridão": [
+                    "72.24% + 53.2% + 64.64%",
+                    "77.66% + 57.19% + 69.49%",
+                    "83.08% + 61.18% + 74.34%",
+                    "90.3% + 66.5% + 80.8%",
+                    "95.72% + 70.49% + 85.65%",
+                    "101.14% + 74.48% + 90.5%",
+                    "108.36% + 79.8% + 96.96%",
+                    "115.58% + 85.12% + 103.42%",
+                    "122.81% + 90.44% + 109.89%",
+                    "130.03% + 95.76% + 116.35%",
+                    "137.26% + 101.08% + 122.82%",
+                    "144.48% + 106.4% + 129.28%",
+                    "153.51% + 113.05% + 137.36%",
+                    "162.54% + 119.7% + 145.44%",
+                    "171.57% + 126.35% + 153.52%"
+                ],
+                "Regeneração de Energia Elemental": [
+                    "6",
+                    "9",
+                    "12",
+                    "15",
+                    "18",
+                    "21",
+                    "24",
+                    "27",
+                    "30",
+                    "33",
+                    "36",
+                    "39",
+                    "42",
+                    "45",
+                    "48"
+                ],
+                "Tempo de Recarga": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ]
+            },
+            "name": "Forma Binária: Convergência e Divisão"
+        },
+        "leveling": {
+            "books": {
+                "104307": 9,
+                "104308": 63,
+                "104309": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113069": 18
+            },
+            "worldmonster": {
+                "112125": 18,
+                "112126": 66,
+                "112127": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 4 golpes rápidos.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome uma certa quantidade de Stamina para desferir um golpe em frente.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+            "icon": "Skill_A_01",
+            "multipliers": {
+                "Consumo de Stamina de Ataque Carregado": [
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20",
+                    "20"
+                ],
+                "Dano Durante a Queda": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ],
+                "Dano de Ataque Carregado": [
+                    "113.43%",
+                    "122.67%",
+                    "131.9%",
+                    "145.09%",
+                    "154.32%",
+                    "164.87%",
+                    "179.38%",
+                    "193.89%",
+                    "208.4%",
+                    "224.23%",
+                    "240.06%",
+                    "255.89%",
+                    "271.71%",
+                    "287.54%",
+                    "303.37%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Dano do 1° Golpe": [
+                    "45.65%",
+                    "49.37%",
+                    "53.08%",
+                    "58.39%",
+                    "62.11%",
+                    "66.35%",
+                    "72.19%",
+                    "78.03%",
+                    "83.87%",
+                    "90.24%",
+                    "96.61%",
+                    "102.98%",
+                    "109.35%",
+                    "115.72%",
+                    "122.09%"
+                ],
+                "Dano do 2° Golpe": [
+                    "41%",
+                    "44.34%",
+                    "47.68%",
+                    "52.45%",
+                    "55.79%",
+                    "59.6%",
+                    "64.84%",
+                    "70.09%",
+                    "75.33%",
+                    "81.06%",
+                    "86.78%",
+                    "92.5%",
+                    "98.22%",
+                    "103.94%",
+                    "109.66%"
+                ],
+                "Dano do 3° Golpe": [
+                    "29.16%+29.16%",
+                    "31.54%+31.54%",
+                    "33.91%+33.91%",
+                    "37.3%+37.3%",
+                    "39.67%+39.67%",
+                    "42.39%+42.39%",
+                    "46.12%+46.12%",
+                    "49.85%+49.85%",
+                    "53.58%+53.58%",
+                    "57.65%+57.65%",
+                    "61.71%+61.71%",
+                    "65.78%+65.78%",
+                    "69.85%+69.85%",
+                    "73.92%+73.92%",
+                    "77.99%+77.99%"
+                ],
+                "Dano do 4° Golpe": [
+                    "71.15%",
+                    "76.94%",
+                    "82.74%",
+                    "91.01%",
+                    "96.8%",
+                    "103.42%",
+                    "112.52%",
+                    "121.62%",
+                    "130.72%",
+                    "140.65%",
+                    "150.58%",
+                    "160.51%",
+                    "170.43%",
+                    "180.36%",
+                    "190.29%"
+                ]
+            },
+            "name": "Golpe da Asa Radiante"
+        }
+    }
+}

@@ -1,0 +1,1304 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104171": 1,
+            "104172": 9,
+            "104173": 9,
+            "104174": 6
+        },
+        "elitemonster": {
+            "113023": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101207": 168
+        },
+        "worldmonster": {
+            "112053": 18,
+            "112054": 30,
+            "112055": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "4U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "Bullet_AimingArrow_WithoutRock",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "Bullet_AimingArrow_Rock",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_SkillHoldCharge",
+            "poise": "LV4/80"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_SkillHoldCharge",
+            "poise": "LV4/80"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt",
+            "poise": "LV4/80"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt",
+            "poise": "LV4/80"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "SkillObj_FieldLand_LogicHanler",
+            "poise": "LV4/80"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "SkillObj_FieldLand_LogicHanler",
+            "poise": "LV4/80"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_BurstFieldLand",
+            "poise": "LV1/20"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_BurstFieldLand",
+            "poise": "LV1/20"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_BurstFieldLand",
+            "poise": "LV4/40"
+        },
+        {
+            "element": "Rock",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_BurstFieldLand",
+            "poise": "LV4/40"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Quando um personagem (que não seja o Gorou) causar Dano Geo dentro da AdE do <color=#FFD780FF>Estandarte do General</color> ou da <color=#FFD780FF>Glória do General</color> criado por Gorou, o Tempo de Recarga da <color=#FFD780FF>Defesa Concentrada Inuzaka</color> de Gorou é reduzido em 2s.\\nEste efeito pode ocorrer uma vez a cada 10s.",
+            "icon": "UI_Talent_S_Gorou_01",
+            "name": "Pegureiro Veloz: Rápido como o Vento"
+        },
+        "const2": {
+            "description": "Quando um personagem próximo ganha um Fragmento de Cristal da Reação de Cristalização ou de Cristalização Lunar criado enquanto a <color=#FFD780FF>Glória do General</color> está ativa, a duração da Glória do General do próprio Gorou é aumentada em 1s.\\nIsso só pode ocorrer uma vez a cada 0.1s e sua duração só pode ser prolongada por um máximo de 3s.",
+            "icon": "UI_Talent_S_Gorou_02",
+            "name": "Pegureiro Sentado: Firme Feito a Rocha"
+        },
+        "const3": {
+            "description": "Aumenta o nível da <color=#FFD780FF>Defesa Concentrada Inuzaka</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Gorou_01",
+            "name": "Pegureiro Feroz: Feroz como o Fogo"
+        },
+        "const4": {
+            "description": "Quando <color=#FFD780FF>Glória do General</color> está nos estados de \"Inquebrável\" ou \"Destruidor\", ela também curará o personagem ativo dentro de sua AdE a cada 1,5s por 50% da DEF de Gorou.",
+            "icon": "UI_Talent_S_Gorou_03",
+            "name": "Pegureiro Bebedor: Quente como a água"
+        },
+        "const5": {
+            "description": "Aumenta o nível do <color=#FFD780FF>Juuga: Para a Vitória</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Gorou_02",
+            "name": "Pegureiro Atacante: Força Trovejante"
+        },
+        "const6": {
+            "description": "Dentro de 12 segundos após lançar a <color=#FFD780FF>Defesa Concentrada Inuzaka</color> ou <color=#FFD780FF>Juuga: Para a Vitória</color>, de acordo com o nível da área no momento do lançamento, o Dano CRIT de <color=#FFE699FF>Dano Geo</color> de todos os personagens da equipe que se encontrarem próximos, será aumentado: \\nRobusto: aumentado em 10%; Inquebrável: aumentado em 20%; Destruidor: aumentado em 40%.\\n\\nEsse efeito não pode ser acumulado, mas será determinado com base no último efeito desencadeado.",
+            "icon": "UI_Talent_S_Gorou_04",
+            "name": "Pegureiro Valente: Lealdade Montanhosa"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.2s",
+            "chance": "100%",
+            "particles": "2",
+            "source": "ElementalArt_BloomElemBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Gorou",
+        "forward": "UI_AvatarIcon_Gorou"
+    },
+    "info": {
+        "attributes": [
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 15,
+                "def": 54,
+                "hp": 802,
+                "level": 1
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 17,
+                "def": 59,
+                "hp": 869,
+                "level": 2
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 18,
+                "def": 63,
+                "hp": 935,
+                "level": 3
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 68,
+                "hp": 1001,
+                "level": 4
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 72,
+                "hp": 1067,
+                "level": 5
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 77,
+                "hp": 1134,
+                "level": 6
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 23,
+                "def": 81,
+                "hp": 1200,
+                "level": 7
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 86,
+                "hp": 1266,
+                "level": 8
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 90,
+                "hp": 1333,
+                "level": 9
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 95,
+                "hp": 1399,
+                "level": 10
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 99,
+                "hp": 1465,
+                "level": 11
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 104,
+                "hp": 1531,
+                "level": 12
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 108,
+                "hp": 1598,
+                "level": 13
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 113,
+                "hp": 1663,
+                "level": 14
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 117,
+                "hp": 1730,
+                "level": 15
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 122,
+                "hp": 1797,
+                "level": 16
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 126,
+                "hp": 1862,
+                "level": 17
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 131,
+                "hp": 1929,
+                "level": 18
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 135,
+                "hp": 1995,
+                "level": 19
+            },
+            {
+                "Geo%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 140,
+                "hp": 2061,
+                "level": 20
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 52,
+                "def": 185,
+                "hp": 2727,
+                "level": 21
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 53,
+                "def": 189,
+                "hp": 2793,
+                "level": 22
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 55,
+                "def": 194,
+                "hp": 2860,
+                "level": 23
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 56,
+                "def": 198,
+                "hp": 2926,
+                "level": 24
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 57,
+                "def": 203,
+                "hp": 2992,
+                "level": 25
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 58,
+                "def": 207,
+                "hp": 3058,
+                "level": 26
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 60,
+                "def": 212,
+                "hp": 3124,
+                "level": 27
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 61,
+                "def": 216,
+                "hp": 3190,
+                "level": 28
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 62,
+                "def": 221,
+                "hp": 3257,
+                "level": 29
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 63,
+                "def": 225,
+                "hp": 3323,
+                "level": 30
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 65,
+                "def": 230,
+                "hp": 3389,
+                "level": 31
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 66,
+                "def": 234,
+                "hp": 3456,
+                "level": 32
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 67,
+                "def": 239,
+                "hp": 3522,
+                "level": 33
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 68,
+                "def": 243,
+                "hp": 3588,
+                "level": 34
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 70,
+                "def": 248,
+                "hp": 3654,
+                "level": 35
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 252,
+                "hp": 3721,
+                "level": 36
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 72,
+                "def": 257,
+                "hp": 3786,
+                "level": 37
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 74,
+                "def": 261,
+                "hp": 3853,
+                "level": 38
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 75,
+                "def": 266,
+                "hp": 3920,
+                "level": 39
+            },
+            {
+                "Geo%": "0",
+                "ascension": 1,
+                "atk": 76,
+                "def": 270,
+                "hp": 3985,
+                "level": 40
+            },
+            {
+                "Geo%": "6",
+                "ascension": 2,
+                "atk": 85,
+                "def": 303,
+                "hp": 4478,
+                "level": 41
+            },
+            {
+                "Geo%": "6",
+                "ascension": 2,
+                "atk": 87,
+                "def": 308,
+                "hp": 4544,
+                "level": 42
+            },
+            {
+                "Geo%": "6",
+                "ascension": 2,
+                "atk": 88,
+                "def": 312,
+                "hp": 4610,
+                "level": 43
+            },
+            {
+                "Geo%": "6",
+                "ascension": 2,
+                "atk": 89,
+                "def": 317,
+                "hp": 4676,
+                "level": 44
+            },
+            {
+                "Geo%": "6",
+                "ascension": 2,
+                "atk": 91,
+                "def": 321,
+                "hp": 4743,
+                "level": 45
+            },
+            {
+                "Geo%": "6",
+                "ascension": 2,
+                "atk": 92,
+                "def": 326,
+                "hp": 4809,
+                "level": 46
+            },
+            {
+                "Geo%": "6",
+                "ascension": 2,
+                "atk": 93,
+                "def": 330,
+                "hp": 4875,
+                "level": 47
+            },
+            {
+                "Geo%": "6",
+                "ascension": 2,
+                "atk": 94,
+                "def": 335,
+                "hp": 4942,
+                "level": 48
+            },
+            {
+                "Geo%": "6",
+                "ascension": 2,
+                "atk": 96,
+                "def": 339,
+                "hp": 5008,
+                "level": 49
+            },
+            {
+                "Geo%": "6",
+                "ascension": 2,
+                "atk": 97,
+                "def": 344,
+                "hp": 5074,
+                "level": 50
+            },
+            {
+                "Geo%": "12",
+                "ascension": 3,
+                "atk": 109,
+                "def": 387,
+                "hp": 5708,
+                "level": 51
+            },
+            {
+                "Geo%": "12",
+                "ascension": 3,
+                "atk": 110,
+                "def": 391,
+                "hp": 5774,
+                "level": 52
+            },
+            {
+                "Geo%": "12",
+                "ascension": 3,
+                "atk": 111,
+                "def": 396,
+                "hp": 5841,
+                "level": 53
+            },
+            {
+                "Geo%": "12",
+                "ascension": 3,
+                "atk": 113,
+                "def": 400,
+                "hp": 5907,
+                "level": 54
+            },
+            {
+                "Geo%": "12",
+                "ascension": 3,
+                "atk": 114,
+                "def": 405,
+                "hp": 5973,
+                "level": 55
+            },
+            {
+                "Geo%": "12",
+                "ascension": 3,
+                "atk": 115,
+                "def": 409,
+                "hp": 6039,
+                "level": 56
+            },
+            {
+                "Geo%": "12",
+                "ascension": 3,
+                "atk": 117,
+                "def": 414,
+                "hp": 6106,
+                "level": 57
+            },
+            {
+                "Geo%": "12",
+                "ascension": 3,
+                "atk": 118,
+                "def": 418,
+                "hp": 6172,
+                "level": 58
+            },
+            {
+                "Geo%": "12",
+                "ascension": 3,
+                "atk": 119,
+                "def": 423,
+                "hp": 6238,
+                "level": 59
+            },
+            {
+                "Geo%": "12",
+                "ascension": 3,
+                "atk": 120,
+                "def": 427,
+                "hp": 6305,
+                "level": 60
+            },
+            {
+                "Geo%": "12",
+                "ascension": 4,
+                "atk": 130,
+                "def": 460,
+                "hp": 6796,
+                "level": 61
+            },
+            {
+                "Geo%": "12",
+                "ascension": 4,
+                "atk": 131,
+                "def": 465,
+                "hp": 6863,
+                "level": 62
+            },
+            {
+                "Geo%": "12",
+                "ascension": 4,
+                "atk": 132,
+                "def": 469,
+                "hp": 6929,
+                "level": 63
+            },
+            {
+                "Geo%": "12",
+                "ascension": 4,
+                "atk": 134,
+                "def": 474,
+                "hp": 6995,
+                "level": 64
+            },
+            {
+                "Geo%": "12",
+                "ascension": 4,
+                "atk": 135,
+                "def": 478,
+                "hp": 7061,
+                "level": 65
+            },
+            {
+                "Geo%": "12",
+                "ascension": 4,
+                "atk": 136,
+                "def": 483,
+                "hp": 7128,
+                "level": 66
+            },
+            {
+                "Geo%": "12",
+                "ascension": 4,
+                "atk": 137,
+                "def": 487,
+                "hp": 7194,
+                "level": 67
+            },
+            {
+                "Geo%": "12",
+                "ascension": 4,
+                "atk": 139,
+                "def": 492,
+                "hp": 7260,
+                "level": 68
+            },
+            {
+                "Geo%": "12",
+                "ascension": 4,
+                "atk": 140,
+                "def": 496,
+                "hp": 7327,
+                "level": 69
+            },
+            {
+                "Geo%": "12",
+                "ascension": 4,
+                "atk": 141,
+                "def": 501,
+                "hp": 7393,
+                "level": 70
+            },
+            {
+                "Geo%": "18",
+                "ascension": 5,
+                "atk": 151,
+                "def": 534,
+                "hp": 7885,
+                "level": 71
+            },
+            {
+                "Geo%": "18",
+                "ascension": 5,
+                "atk": 152,
+                "def": 539,
+                "hp": 7951,
+                "level": 72
+            },
+            {
+                "Geo%": "18",
+                "ascension": 5,
+                "atk": 153,
+                "def": 543,
+                "hp": 8017,
+                "level": 73
+            },
+            {
+                "Geo%": "18",
+                "ascension": 5,
+                "atk": 154,
+                "def": 548,
+                "hp": 8084,
+                "level": 74
+            },
+            {
+                "Geo%": "18",
+                "ascension": 5,
+                "atk": 156,
+                "def": 552,
+                "hp": 8150,
+                "level": 75
+            },
+            {
+                "Geo%": "18",
+                "ascension": 5,
+                "atk": 157,
+                "def": 557,
+                "hp": 8216,
+                "level": 76
+            },
+            {
+                "Geo%": "18",
+                "ascension": 5,
+                "atk": 158,
+                "def": 561,
+                "hp": 8282,
+                "level": 77
+            },
+            {
+                "Geo%": "18",
+                "ascension": 5,
+                "atk": 159,
+                "def": 566,
+                "hp": 8349,
+                "level": 78
+            },
+            {
+                "Geo%": "18",
+                "ascension": 5,
+                "atk": 161,
+                "def": 570,
+                "hp": 8415,
+                "level": 79
+            },
+            {
+                "Geo%": "18",
+                "ascension": 5,
+                "atk": 162,
+                "def": 575,
+                "hp": 8481,
+                "level": 80
+            },
+            {
+                "Geo%": "24",
+                "ascension": 6,
+                "atk": 171,
+                "def": 608,
+                "hp": 8974,
+                "level": 81
+            },
+            {
+                "Geo%": "24",
+                "ascension": 6,
+                "atk": 173,
+                "def": 612,
+                "hp": 9040,
+                "level": 82
+            },
+            {
+                "Geo%": "24",
+                "ascension": 6,
+                "atk": 174,
+                "def": 617,
+                "hp": 9106,
+                "level": 83
+            },
+            {
+                "Geo%": "24",
+                "ascension": 6,
+                "atk": 175,
+                "def": 621,
+                "hp": 9172,
+                "level": 84
+            },
+            {
+                "Geo%": "24",
+                "ascension": 6,
+                "atk": 176,
+                "def": 626,
+                "hp": 9239,
+                "level": 85
+            },
+            {
+                "Geo%": "24",
+                "ascension": 6,
+                "atk": 178,
+                "def": 630,
+                "hp": 9304,
+                "level": 86
+            },
+            {
+                "Geo%": "24",
+                "ascension": 6,
+                "atk": 179,
+                "def": 635,
+                "hp": 9371,
+                "level": 87
+            },
+            {
+                "Geo%": "24",
+                "ascension": 6,
+                "atk": 180,
+                "def": 639,
+                "hp": 9437,
+                "level": 88
+            },
+            {
+                "Geo%": "24",
+                "ascension": 6,
+                "atk": 181,
+                "def": 644,
+                "hp": 9503,
+                "level": 89
+            },
+            {
+                "Geo%": "24",
+                "ascension": 6,
+                "atk": 183,
+                "def": 648,
+                "hp": 9570,
+                "level": 90
+            },
+            {
+                "Geo%": "24",
+                "ascension": 6,
+                "atk": 206,
+                "def": 671,
+                "hp": 9901,
+                "level": 95
+            },
+            {
+                "Geo%": "24",
+                "ascension": 6,
+                "atk": 229,
+                "def": 693,
+                "hp": 10232,
+                "level": 100
+            }
+        ],
+        "birthday": "May 18th",
+        "constellation": "Canis Bellatoris",
+        "description": "O grande general das tropas da Ilha Watatsumi. Seus subordinados acreditam profundamente nele.",
+        "element": "Geo",
+        "name": "Gorou",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_BOW"
+    },
+    "passives": {
+        "p1": {
+            "description": "Nos 12 segundos seguintes de lançar <color=#FFD780FF>Juuga: Para a Vitória</color>, a DEF de todos os membros da equipe ao redor será aumentada em 25%.",
+            "icon": "UI_Talent_S_Gorou_05",
+            "name": "Contra o Vento e a Maré"
+        },
+        "p2": {
+            "description": "Gorou recebe os seguintes Bônus de Dano aos seus ataques baseado em sua DEF:\\n<color=#FFD780FF>Defesa Concentrada Inuzaka</color> aumenta o Dano da habilidade em 156% da sua DEF.\\n<color=#FFD780FF>Juuga: Para a Vitória</color> aumenta o Dano da habilidade e do Colapso Cristalino em 15.6% da DEF.",
+            "icon": "UI_Talent_S_Gorou_06",
+            "name": "Um Favor Recíproco"
+        },
+        "p3": {
+            "description": "Mostra a localização de <color=#FFD780FF>recursos únicos de Inazuma</color> próximos no mapa.",
+            "icon": "UI_Talent_S_Gorou_07",
+            "name": "Cãozinho Farejador"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Demonstrando seu valor como general, Gorou causa <color=#FFE699FF>Dano Geo em uma AdE</color> e cria um campo conhecido como a Glória do General para animar seus companheiros.\\n\\n<color=#FFD780FF>Glória do General</color>\\nEste campo tem as seguintes propriedades:\\nEste campo tem efeitos idênticos aos do Estandarte do General criado por sua Habilidade Elemental, Defesa Concentrada Inuzaka, concedendo bônus baseado no número de membros da equipe cujo elemento seja <color=#FFE699FF>Geo</color>, e também se moverá junto com seu personagem ativo atual.\\nCria 1 Colapso Cristalino a cada 1.5s que causa <color=#FFE699FF>Dano Geo em uma AdE</color> a 1 oponente dentro de sua AdE.\\n· Ele puxará 1 fragmento elemental pela Reação de Cristalização dentro de sua área de ação para a posição do seu personagem ativo a cada 1.5 s.\\n\\nSe um Estandarte do General criado pelo próprio Gorou existir atualmente em campo quando esta habilidade for utilizada, ele será destruído.\\n\\n<i>\"Nós temos a vantagem do terreno!\" Gorou pode sempre mudar ligeiramente o terreno do campo de batalha para ajudar a ganhar a vitória. Esta técnica o tem assistido através de muitas batalhas contra uma oposição aparentemente superior.</i>",
+            "icon": "Skill_E_Gorou_01",
+            "multipliers": {
+                "Dano de Habilidade": [
+                    "98.22% da DEF",
+                    "105.58% da DEF",
+                    "112.95% da DEF",
+                    "122.77% da DEF",
+                    "130.14% da DEF",
+                    "137.5% da DEF",
+                    "147.32% da DEF",
+                    "157.15% da DEF",
+                    "166.97% da DEF",
+                    "176.79% da DEF",
+                    "186.61% da DEF",
+                    "196.43% da DEF",
+                    "208.71% da DEF",
+                    "220.99% da DEF",
+                    "233.26% da DEF"
+                ],
+                "Dano do Colapso Cristalino": [
+                    "61.3% da DEF",
+                    "65.9% da DEF",
+                    "70.49% da DEF",
+                    "76.63% da DEF",
+                    "81.22% da DEF",
+                    "85.82% da DEF",
+                    "91.95% da DEF",
+                    "98.08% da DEF",
+                    "104.21% da DEF",
+                    "110.34% da DEF",
+                    "116.47% da DEF",
+                    "122.6% da DEF",
+                    "130.26% da DEF",
+                    "137.93% da DEF",
+                    "145.59% da DEF"
+                ],
+                "Duração": [
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s",
+                    "9s"
+                ],
+                "Energia Elemental": [
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80"
+                ],
+                "Tempo de Recarga": [
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s",
+                    "20s"
+                ]
+            },
+            "name": "Juuga: Para a Vitória"
+        },
+        "elementalskill": {
+            "description": "Causa <color=#FFE699FF>Dano Geo em uma AdE</color> e levanta o Estandarte do General.\\n\\n<color=#FFD780FF>Estandarte do General</color>\\nFornece os seguintes bônus com base no número de membros da equipe que são do Elemento <color=#FFE699FF>Geo</color>:\\nTer 1 membro da equipe do Elemento Geo concede o efeito \"Robusto\": Bônus de DEF.\\nTer 2 membros da equipe do Elemento Geo concede o efeito \"Inquebrável\": Resistência a interrupção, além do efeito do mencionado anteriormente.\\nTer 3 membros da equipe do Elemento Geo concede o efeito \"Destruidor\": concede um <color=#FFE699FF>Bônus de Dano GEO</color>, além dos efeitos mencionados anteriormente.\\n\\nApenas 1 Estandarte do General que Gorou criou pode existir no campo a qualquer momento. Os personagens só podem se beneficiar de 1 Estandarte do General por vez. Quando os membros da equipe deixam o campo, os efeitos do campo duram por 2s.\\n\\n<color=#FFD780FF>Manter Pressionado</color>\\nMantenha Pressionado para designar o local que ficará a habilidade.\\n\\n<i>\"Assuma esta formação e estaremos seguros - eu garanto!\" Como general e líder das tropas, a última coisa que Gorou quer é ver aqueles que o seguem serem feridos.</i>",
+            "icon": "Skill_S_Gorou_01",
+            "multipliers": {
+                "Aumento da DEF": [
+                    "206",
+                    "222",
+                    "237",
+                    "258",
+                    "273",
+                    "289",
+                    "309",
+                    "330",
+                    "350",
+                    "371",
+                    "392",
+                    "412",
+                    "438",
+                    "464",
+                    "490"
+                ],
+                "Dano de Habilidade": [
+                    "107.2%",
+                    "115.24%",
+                    "123.28%",
+                    "134%",
+                    "142.04%",
+                    "150.08%",
+                    "160.8%",
+                    "171.52%",
+                    "182.24%",
+                    "192.96%",
+                    "203.68%",
+                    "214.4%",
+                    "227.8%",
+                    "241.2%",
+                    "254.6%"
+                ],
+                "Duração": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ],
+                "Taxa de Bônus de Dano Geo": [
+                    "15%",
+                    "15%",
+                    "15%",
+                    "15%",
+                    "15%",
+                    "15%",
+                    "15%",
+                    "15%",
+                    "15%",
+                    "15%",
+                    "15%",
+                    "15%",
+                    "15%",
+                    "15%",
+                    "15%"
+                ],
+                "Tempo de Recarga": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ]
+            },
+            "name": "Defesa Concentrada Inuzaka"
+        },
+        "leveling": {
+            "books": {
+                "104326": 9,
+                "104327": 63,
+                "104328": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113025": 18
+            },
+            "worldmonster": {
+                "112053": 18,
+                "112054": 66,
+                "112055": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 4 tiros consecutivos com um arco.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nDispara um <color=#FFD780FF>Tiro com Mira</color> mais preciso e com Dano aumentado.\\nAo mirar, Pedras Cristalizadas irão se acumular na ponta da flecha. Uma flecha em Pedras Cristalizadas completamente carregada inflige <color=#FFE699FF>Dano Geo</color>.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nDispara uma chuva de flechas em pleno ar antes de atingir o chão, infligindo Dano em uma AdE durante o impacto.",
+            "icon": "Skill_A_02",
+            "multipliers": {
+                "Dano Durante a Queda": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "Dano do 1° Golpe": [
+                    "37.75%",
+                    "40.83%",
+                    "43.9%",
+                    "48.29%",
+                    "51.36%",
+                    "54.87%",
+                    "59.7%",
+                    "64.53%",
+                    "69.36%",
+                    "74.63%",
+                    "79.9%",
+                    "85.17%",
+                    "90.43%",
+                    "95.7%",
+                    "100.97%"
+                ],
+                "Dano do 2° Golpe": [
+                    "37.15%",
+                    "40.18%",
+                    "43.2%",
+                    "47.52%",
+                    "50.54%",
+                    "54%",
+                    "58.75%",
+                    "63.5%",
+                    "68.26%",
+                    "73.44%",
+                    "78.62%",
+                    "83.81%",
+                    "88.99%",
+                    "94.18%",
+                    "99.36%"
+                ],
+                "Dano do 3° Golpe": [
+                    "49.45%",
+                    "53.47%",
+                    "57.5%",
+                    "63.25%",
+                    "67.27%",
+                    "71.88%",
+                    "78.2%",
+                    "84.53%",
+                    "90.85%",
+                    "97.75%",
+                    "104.65%",
+                    "111.55%",
+                    "118.45%",
+                    "125.35%",
+                    "132.25%"
+                ],
+                "Dano do 4° Golpe": [
+                    "59%",
+                    "63.8%",
+                    "68.6%",
+                    "75.46%",
+                    "80.26%",
+                    "85.75%",
+                    "93.3%",
+                    "100.84%",
+                    "108.39%",
+                    "116.62%",
+                    "124.85%",
+                    "133.08%",
+                    "141.32%",
+                    "149.55%",
+                    "157.78%"
+                ],
+                "Disparo com Mira": [
+                    "43.86%",
+                    "47.43%",
+                    "51%",
+                    "56.1%",
+                    "59.67%",
+                    "63.75%",
+                    "69.36%",
+                    "74.97%",
+                    "80.58%",
+                    "86.7%",
+                    "92.82%",
+                    "98.94%",
+                    "105.06%",
+                    "111.18%",
+                    "117.3%"
+                ],
+                "Disparo com Mira com Energização Completa": [
+                    "124%",
+                    "133.3%",
+                    "142.6%",
+                    "155%",
+                    "164.3%",
+                    "173.6%",
+                    "186%",
+                    "198.4%",
+                    "210.8%",
+                    "223.2%",
+                    "235.6%",
+                    "248%",
+                    "263.5%",
+                    "279%",
+                    "294.5%"
+                ]
+            },
+            "name": "Flechas de Garras Dilacerantes"
+        }
+    }
+}

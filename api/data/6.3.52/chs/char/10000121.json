@@ -1,0 +1,1250 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104121": 1,
+            "104122": 9,
+            "104123": 9,
+            "104124": 6
+        },
+        "elitemonster": {
+            "113077": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101257": 168
+        },
+        "worldmonster": {
+            "112122": 18,
+            "112123": 30,
+            "112124": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: NormalAttack (!)",
+            "name": "NormalAttack_Gadget",
+            "poise": "LV2/65"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: default",
+            "name": "ElementalArt",
+            "poise": "LV5/60"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: default",
+            "name": "ElementalArt",
+            "poise": "LV5/60"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: default",
+            "name": "ElementalArt",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Tag: default",
+            "name": "ElementalArt",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt_Bullet_Throw",
+            "poise": "LV2/30"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "4 hits / 1.8s",
+            "icd_source": "Tag: Aino_Burst_MoonHit",
+            "name": "ElementalBurst_Gadget",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_Gadget",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/35"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/150"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/200"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "ElementalBurst_ConsExtra_Bullet",
+            "poise": "LV2/25"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "爱诺施放元素战技<color=#FFD780FF>{LINK#S11212}妙思捕手{/LINK}</color>或元素爆发<color=#FFD780FF>{LINK#S11215}精密水冷仪{/LINK}</color>后，爱诺自身的元素精通提升80点，附近的当前场上其他角色的元素精通提升80点，持续15秒。\\n\\n该命之座提供的元素精通提升效果无法叠加。",
+            "icon": "UI_Talent_S_Aino_03",
+            "name": "灰与力场的平衡理论"
+        },
+        "const2": {
+            "description": "元素爆发<color=#FFD780FF>{LINK#S11215}精密水冷仪{/LINK}</color>中的<color=#FFD780FF>对点水冷域</color>持续期间，若爱诺处于队伍后台，队伍中自己的当前场上角色的攻击命中附近的敌人时，<color=#FFD780FF>「冷静一下鸭」</color>将对该敌人发射一枚额外的水弹，基于爱诺攻击力的25%与元素精通的100%，造成<color=#80C0FFFF>水元素范围伤害</color>。该效果每5秒至多触发一次，且造成的伤害视为元素爆发伤害。",
+            "icon": "UI_Talent_S_Aino_02",
+            "name": "齿轮差分的进位原理"
+        },
+        "const3": {
+            "description": "元素爆发<color=#FFD780FF>{LINK#S11215}精密水冷仪{/LINK}</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Aino_01",
+            "name": "蛋糕与机关维修艺术"
+        },
+        "const4": {
+            "description": "元素战技<color=#FFD780FF>{LINK#S11212}妙思捕手{/LINK}</color>命中敌人时，将为爱诺恢复10点元素能量，每10秒至多通过这种方式恢复一次元素能量。",
+            "icon": "UI_Talent_S_Aino_01",
+            "name": "黄油与猫与供能法则"
+        },
+        "const5": {
+            "description": "元素战技<color=#FFD780FF>{LINK#S11212}妙思捕手{/LINK}</color>的技能等级提高3级。\\n至多提升至15级。",
+            "icon": "UI_Talent_U_Aino_02",
+            "name": "金属与光的不朽涡轮"
+        },
+        "const6": {
+            "description": "施放元素爆发<color=#FFD780FF>{LINK#S11215}精密水冷仪{/LINK}</color>后的15秒内，附近的当前场上角色触发的感电、绽放、月感电、月绽放、月结晶造成的伤害提升15%。\\n<color=#FFD780FF>月兆·满辉</color>：上述反应造成的伤害额外提升20%。",
+            "icon": "UI_Talent_S_Aino_04",
+            "name": "天才之为构造之责任"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.4s",
+            "chance": "100%",
+            "particles": "3",
+            "source": "UNIQUE_ElementalArt_DropElemBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Aino",
+        "forward": "UI_AvatarIcon_Aino"
+    },
+    "info": {
+        "attributes": [
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 20,
+                "def": 51,
+                "hp": 939,
+                "level": 1
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 22,
+                "def": 55,
+                "hp": 1017,
+                "level": 2
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 24,
+                "def": 59,
+                "hp": 1094,
+                "level": 3
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 25,
+                "def": 64,
+                "hp": 1172,
+                "level": 4
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 27,
+                "def": 68,
+                "hp": 1249,
+                "level": 5
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 29,
+                "def": 72,
+                "hp": 1327,
+                "level": 6
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 30,
+                "def": 76,
+                "hp": 1404,
+                "level": 7
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 32,
+                "def": 80,
+                "hp": 1482,
+                "level": 8
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 34,
+                "def": 85,
+                "hp": 1560,
+                "level": 9
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 35,
+                "def": 89,
+                "hp": 1637,
+                "level": 10
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 37,
+                "def": 93,
+                "hp": 1715,
+                "level": 11
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 39,
+                "def": 97,
+                "hp": 1792,
+                "level": 12
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 40,
+                "def": 101,
+                "hp": 1870,
+                "level": 13
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 42,
+                "def": 106,
+                "hp": 1947,
+                "level": 14
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 44,
+                "def": 110,
+                "hp": 2025,
+                "level": 15
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 45,
+                "def": 114,
+                "hp": 2103,
+                "level": 16
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 47,
+                "def": 118,
+                "hp": 2180,
+                "level": 17
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 49,
+                "def": 122,
+                "hp": 2258,
+                "level": 18
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 50,
+                "def": 127,
+                "hp": 2335,
+                "level": 19
+            },
+            {
+                "EM": 0,
+                "ascension": 0,
+                "atk": 52,
+                "def": 131,
+                "hp": 2413,
+                "level": 20
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 69,
+                "def": 173,
+                "hp": 3191,
+                "level": 21
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 71,
+                "def": 177,
+                "hp": 3269,
+                "level": 22
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 72,
+                "def": 182,
+                "hp": 3347,
+                "level": 23
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 74,
+                "def": 186,
+                "hp": 3424,
+                "level": 24
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 76,
+                "def": 190,
+                "hp": 3502,
+                "level": 25
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 77,
+                "def": 194,
+                "hp": 3579,
+                "level": 26
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 79,
+                "def": 198,
+                "hp": 3657,
+                "level": 27
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 81,
+                "def": 203,
+                "hp": 3734,
+                "level": 28
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 82,
+                "def": 207,
+                "hp": 3812,
+                "level": 29
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 84,
+                "def": 211,
+                "hp": 3889,
+                "level": 30
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 86,
+                "def": 215,
+                "hp": 3967,
+                "level": 31
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 87,
+                "def": 219,
+                "hp": 4045,
+                "level": 32
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 89,
+                "def": 224,
+                "hp": 4122,
+                "level": 33
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 91,
+                "def": 228,
+                "hp": 4200,
+                "level": 34
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 92,
+                "def": 232,
+                "hp": 4277,
+                "level": 35
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 94,
+                "def": 236,
+                "hp": 4355,
+                "level": 36
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 96,
+                "def": 240,
+                "hp": 4432,
+                "level": 37
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 97,
+                "def": 245,
+                "hp": 4510,
+                "level": 38
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 99,
+                "def": 249,
+                "hp": 4588,
+                "level": 39
+            },
+            {
+                "EM": 0,
+                "ascension": 1,
+                "atk": 101,
+                "def": 253,
+                "hp": 4665,
+                "level": 40
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 113,
+                "def": 284,
+                "hp": 5241,
+                "level": 41
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 115,
+                "def": 288,
+                "hp": 5318,
+                "level": 42
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 117,
+                "def": 293,
+                "hp": 5396,
+                "level": 43
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 118,
+                "def": 297,
+                "hp": 5473,
+                "level": 44
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 120,
+                "def": 301,
+                "hp": 5551,
+                "level": 45
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 122,
+                "def": 305,
+                "hp": 5629,
+                "level": 46
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 123,
+                "def": 309,
+                "hp": 5706,
+                "level": 47
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 125,
+                "def": 314,
+                "hp": 5784,
+                "level": 48
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 127,
+                "def": 318,
+                "hp": 5861,
+                "level": 49
+            },
+            {
+                "EM": 24,
+                "ascension": 2,
+                "atk": 128,
+                "def": 322,
+                "hp": 5939,
+                "level": 50
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 144,
+                "def": 362,
+                "hp": 6681,
+                "level": 51
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 146,
+                "def": 367,
+                "hp": 6759,
+                "level": 52
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 148,
+                "def": 371,
+                "hp": 6837,
+                "level": 53
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 149,
+                "def": 375,
+                "hp": 6914,
+                "level": 54
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 151,
+                "def": 379,
+                "hp": 6992,
+                "level": 55
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 153,
+                "def": 383,
+                "hp": 7069,
+                "level": 56
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 154,
+                "def": 388,
+                "hp": 7147,
+                "level": 57
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 156,
+                "def": 392,
+                "hp": 7224,
+                "level": 58
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 158,
+                "def": 396,
+                "hp": 7301,
+                "level": 59
+            },
+            {
+                "EM": 48,
+                "ascension": 3,
+                "atk": 160,
+                "def": 400,
+                "hp": 7379,
+                "level": 60
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 172,
+                "def": 431,
+                "hp": 7955,
+                "level": 61
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 174,
+                "def": 436,
+                "hp": 8033,
+                "level": 62
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 175,
+                "def": 440,
+                "hp": 8110,
+                "level": 63
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 177,
+                "def": 444,
+                "hp": 8188,
+                "level": 64
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 179,
+                "def": 448,
+                "hp": 8265,
+                "level": 65
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 180,
+                "def": 452,
+                "hp": 8343,
+                "level": 66
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 182,
+                "def": 457,
+                "hp": 8421,
+                "level": 67
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 184,
+                "def": 461,
+                "hp": 8498,
+                "level": 68
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 185,
+                "def": 465,
+                "hp": 8576,
+                "level": 69
+            },
+            {
+                "EM": 48,
+                "ascension": 4,
+                "atk": 187,
+                "def": 469,
+                "hp": 8653,
+                "level": 70
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 200,
+                "def": 501,
+                "hp": 9229,
+                "level": 71
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 201,
+                "def": 505,
+                "hp": 9306,
+                "level": 72
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 203,
+                "def": 509,
+                "hp": 9384,
+                "level": 73
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 205,
+                "def": 513,
+                "hp": 9462,
+                "level": 74
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 206,
+                "def": 517,
+                "hp": 9539,
+                "level": 75
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 208,
+                "def": 522,
+                "hp": 9617,
+                "level": 76
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 210,
+                "def": 526,
+                "hp": 9694,
+                "level": 77
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 211,
+                "def": 530,
+                "hp": 9772,
+                "level": 78
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 213,
+                "def": 534,
+                "hp": 9849,
+                "level": 79
+            },
+            {
+                "EM": 72,
+                "ascension": 5,
+                "atk": 215,
+                "def": 538,
+                "hp": 9927,
+                "level": 80
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 227,
+                "def": 570,
+                "hp": 10503,
+                "level": 81
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 229,
+                "def": 574,
+                "hp": 10580,
+                "level": 82
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 230,
+                "def": 578,
+                "hp": 10658,
+                "level": 83
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 232,
+                "def": 582,
+                "hp": 10735,
+                "level": 84
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 234,
+                "def": 586,
+                "hp": 10813,
+                "level": 85
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 235,
+                "def": 591,
+                "hp": 10890,
+                "level": 86
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 237,
+                "def": 595,
+                "hp": 10968,
+                "level": 87
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 239,
+                "def": 599,
+                "hp": 11045,
+                "level": 88
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 240,
+                "def": 603,
+                "hp": 11123,
+                "level": 89
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 242,
+                "def": 607,
+                "hp": 11201,
+                "level": 90
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 273,
+                "def": 628,
+                "hp": 11588,
+                "level": 95
+            },
+            {
+                "EM": 96,
+                "ascension": 6,
+                "atk": 304,
+                "def": 649,
+                "hp": 11976,
+                "level": 100
+            }
+        ],
+        "birthday": "September 21st",
+        "constellation": "砰砰盒座",
+        "description": "挪德卡莱的天才机械发明家，喜欢有趣的机械和甜食。",
+        "element": "Hydro",
+        "name": "爱诺",
+        "rarity": "QUALITY_PURPLE",
+        "weapon": "WEAPON_CLAYMORE"
+    },
+    "passives": {
+        "p1": {
+            "description": "依据队伍的<color=#FFD780FF>月兆</color>，爱诺将获得对应的强化效果。\\n\\n<color=#FFD780FF>月兆·满辉</color>：元素爆发<color=#FFD780FF>{LINK#S11215}精密水冷仪{/LINK}</color>将获得强化：<color=#FFD780FF>「冷静一下鸭」</color>将以更短的间隔发射水弹，造成范围更大的<color=#80C0FFFF>水元素范围伤害</color>。",
+            "icon": "UI_Talent_S_Aino_05",
+            "name": "模块式高效运作"
+        },
+        "p2": {
+            "description": "爱诺元素爆发造成的伤害提升，提升值基于爱诺的元素精通的50%。",
+            "icon": "UI_Talent_S_Aino_06",
+            "name": "结构化功率提升"
+        },
+        "p3": {
+            "description": "爱诺在队伍中时，队伍的<color=#FFD780FF>月兆</color>将会上升一级。",
+            "icon": "UI_Talent_S_Aino_07",
+            "name": "月兆祝赐·力极演算"
+        },
+        "p4": {
+            "description": "在小地图上显示周围的<color=#FFD780FF>挪德卡莱区域特产</color>的位置。\\n此外，爱诺似乎可以通过某种途径来改变「冷静一下鸭」的外观…",
+            "icon": "UI_Talent_S_Aino_08",
+            "name": "小型识别侦测器"
+        }
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "抛出特制的超级喷水机关<color=#FFD780FF>「冷静一下鸭」</color>，展开<color=#FFD780FF>对点水冷域</color>。\\n持续期间，「冷静一下鸭」会间歇性对附近的敌人发射水弹，造成<color=#80C0FFFF>水元素伤害</color>。",
+            "icon": "Skill_E_Aino_01",
+            "multipliers": {
+                "元素能量": [
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50"
+                ],
+                "冷却时间": [
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒",
+                    "13.5秒"
+                ],
+                "持续时间": [
+                    "14秒",
+                    "14秒",
+                    "14秒",
+                    "14秒",
+                    "14秒",
+                    "14秒",
+                    "14秒",
+                    "14秒",
+                    "14秒",
+                    "14秒",
+                    "14秒",
+                    "14秒",
+                    "14秒",
+                    "14秒",
+                    "14秒"
+                ],
+                "水弹伤害": [
+                    "20.11%",
+                    "21.62%",
+                    "23.13%",
+                    "25.14%",
+                    "26.65%",
+                    "28.16%",
+                    "30.17%",
+                    "32.18%",
+                    "34.19%",
+                    "36.2%",
+                    "38.21%",
+                    "40.22%",
+                    "42.74%",
+                    "45.25%",
+                    "47.77%"
+                ]
+            },
+            "name": "精密水冷仪"
+        },
+        "elementalskill": {
+            "description": "向前方投出<color=#FFD780FF>「妙思捕手」</color>，造成<color=#80C0FFFF>水元素伤害</color>，同时将自己牵引至前方，并在移动结束时对身边的敌人造成<color=#80C0FFFF>水元素范围伤害</color>。\\n长按时将以不同的方式施放。\\n\\n<color=#FFD780FF>长按</color>\\n进入瞄准状态，以调整投出「妙思捕手」的方向。",
+            "icon": "Skill_S_Aino_01",
+            "multipliers": {
+                "一段伤害": [
+                    "65.6%",
+                    "70.52%",
+                    "75.44%",
+                    "82%",
+                    "86.92%",
+                    "91.84%",
+                    "98.4%",
+                    "104.96%",
+                    "111.52%",
+                    "118.08%",
+                    "124.64%",
+                    "131.2%",
+                    "139.4%",
+                    "147.6%",
+                    "155.8%"
+                ],
+                "二段伤害": [
+                    "188.8%",
+                    "202.96%",
+                    "217.12%",
+                    "236%",
+                    "250.16%",
+                    "264.32%",
+                    "283.2%",
+                    "302.08%",
+                    "320.96%",
+                    "339.84%",
+                    "358.72%",
+                    "377.6%",
+                    "401.2%",
+                    "424.8%",
+                    "448.4%"
+                ],
+                "冷却时间": [
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒",
+                    "10秒"
+                ]
+            },
+            "name": "妙思捕手"
+        },
+        "leveling": {
+            "books": {
+                "104359": 9,
+                "104360": 63,
+                "104361": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113061": 18
+            },
+            "worldmonster": {
+                "112122": 18,
+                "112123": 66,
+                "112124": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>普通攻击</color>\\n进行至多三段的连续攻击。\\n\\n<color=#FFD780FF>重击</color>\\n持续消耗体力，旋转大剑攻击周围的敌人。\\n停止旋转时，会进行一次格外有力的挥砍。\\n\\n<color=#FFD780FF>下落攻击</color>\\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+            "icon": "Skill_A_04",
+            "multipliers": {
+                "一段伤害": [
+                    "66.5%",
+                    "71.91%",
+                    "77.32%",
+                    "85.06%",
+                    "90.47%",
+                    "96.65%",
+                    "105.16%",
+                    "113.67%",
+                    "122.17%",
+                    "131.45%",
+                    "140.73%",
+                    "150.01%",
+                    "159.29%",
+                    "168.57%",
+                    "177.85%"
+                ],
+                "三段伤害": [
+                    "49.22%*2",
+                    "53.22%*2",
+                    "57.23%*2",
+                    "62.95%*2",
+                    "66.96%*2",
+                    "71.54%*2",
+                    "77.83%*2",
+                    "84.13%*2",
+                    "90.42%*2",
+                    "97.29%*2",
+                    "104.16%*2",
+                    "111.02%*2",
+                    "117.89%*2",
+                    "124.76%*2",
+                    "131.63%*2"
+                ],
+                "下坠期间伤害": [
+                    "74.59%",
+                    "80.66%",
+                    "86.73%",
+                    "95.4%",
+                    "101.47%",
+                    "108.41%",
+                    "117.95%",
+                    "127.49%",
+                    "137.03%",
+                    "147.44%",
+                    "157.85%",
+                    "168.26%",
+                    "178.66%",
+                    "189.07%",
+                    "199.48%"
+                ],
+                "二段伤害": [
+                    "66.19%",
+                    "71.58%",
+                    "76.97%",
+                    "84.66%",
+                    "90.05%",
+                    "96.21%",
+                    "104.68%",
+                    "113.14%",
+                    "121.61%",
+                    "130.84%",
+                    "140.08%",
+                    "149.32%",
+                    "158.55%",
+                    "167.79%",
+                    "177.02%"
+                ],
+                "低空/高空坠地冲击伤害": [
+                    "149.14%/186.29%",
+                    "161.28%/201.45%",
+                    "173.42%/216.62%",
+                    "190.77%/238.28%",
+                    "202.91%/253.44%",
+                    "216.78%/270.77%",
+                    "235.86%/294.6%",
+                    "254.93%/318.42%",
+                    "274.01%/342.25%",
+                    "294.82%/368.25%",
+                    "315.63%/394.24%",
+                    "336.44%/420.23%",
+                    "357.25%/446.23%",
+                    "378.06%/472.22%",
+                    "398.87%/498.21%"
+                ],
+                "最大持续时间": [
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒",
+                    "5秒"
+                ],
+                "重击体力消耗": [
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点",
+                    "每秒40点"
+                ],
+                "重击循环伤害": [
+                    "62.52%",
+                    "67.61%",
+                    "72.7%",
+                    "79.97%",
+                    "85.06%",
+                    "90.87%",
+                    "98.87%",
+                    "106.87%",
+                    "114.87%",
+                    "123.59%",
+                    "132.31%",
+                    "141.04%",
+                    "149.76%",
+                    "158.49%",
+                    "167.21%"
+                ],
+                "重击终结伤害": [
+                    "113.09%",
+                    "122.29%",
+                    "131.5%",
+                    "144.65%",
+                    "153.86%",
+                    "164.37%",
+                    "178.84%",
+                    "193.31%",
+                    "207.77%",
+                    "223.55%",
+                    "239.33%",
+                    "255.11%",
+                    "270.89%",
+                    "286.67%",
+                    "302.45%"
+                ]
+            },
+            "name": "敲打修理法"
+        }
+    }
+}

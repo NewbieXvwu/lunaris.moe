@@ -1,0 +1,1329 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104121": 1,
+            "104122": 9,
+            "104123": 9,
+            "104124": 6
+        },
+        "elitemonster": {
+            "113053": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101237": 168
+        },
+        "worldmonster": {
+            "112080": 18,
+            "112081": 30,
+            "112082": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Neuvillette_NormalAttack (!)",
+            "name": "Attack01",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Neuvillette_NormalAttack (!)",
+            "name": "Attack02",
+            "poise": "LV2/8"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Neuvillette_NormalAttack (!)",
+            "name": "Attack03",
+            "poise": "LV3/13"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: ExtraAttack (!)",
+            "name": "ExtraAttack",
+            "poise": "LV5/80"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Neuvillette_ExtraAttack (!)",
+            "name": "ExtraAttack_Attack_Gadget",
+            "poise": "LV5/25"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Neuvillette_ExtraAttack (!)",
+            "name": "ExtraAttack_Attack_Gadget",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "Water",
+            "gauge": "2U",
+            "icd_rule": "Standard (3h/2.5s)",
+            "icd_source": "Grp: default",
+            "name": "ExtraAttack_Attack_Gadget",
+            "poise": "LV0/0"
+        },
+        {
+            "element": "Water",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt",
+            "poise": "LV3/20"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Neuvillette_ElementalBurst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV5/100"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Neuvillette_ElementalBurst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Neuvillette_ElementalBurst (!)",
+            "name": "ElementalBurst",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "Water",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/5"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Neuvillette_ExtraAttack_Constellation (!)",
+            "name": "Constellation_6_Bullet",
+            "poise": "LV1/25"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "When Neuvillette takes the field, he will obtain 1 stack of Past Draconic Glories from the Ascension Talent \"Heir to the Ancient Sea's Authority.\" You must first unlock the Ascension Talent \"Heir to the Ancient Sea's Authority.\"\\nAdditionally, his interruption resistance will be increased while using the Charged Attack Empowerment: Legal Evaluation and the Charged Attack: Equitable Judgment.",
+            "icon": "UI_Talent_S_Neuvillette_01",
+            "name": "Venerable Institution"
+        },
+        "const2": {
+            "description": "The Ascension Talent \"Heir to the Ancient Sea's Authority\" will be enhanced: Each stack of Past Draconic Glories will increase the CRIT DMG of Charged Attack: Equitable Judgment by 14%. The maximum increase that can be achieved this way is 42%.\\nYou must first unlock the Ascension Talent \"Heir to the Ancient Sea's Authority.\"",
+            "icon": "UI_Talent_S_Neuvillette_02",
+            "name": "Juridical Exhortation"
+        },
+        "const3": {
+            "description": "Increases the Level of <color=#FFD780FF>Normal Attack: As Water Seeks Equilibrium</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Neuvillette_01",
+            "name": "Ancient Postulation"
+        },
+        "const4": {
+            "description": "When Neuvillette is on the field and is healed, 1 Sourcewater Droplet will be generated. This effect can occur once every 4s.",
+            "icon": "UI_Talent_S_Neuvillette_03",
+            "name": "Crown of Commiseration"
+        },
+        "const5": {
+            "description": "Increases the Level of <color=#FFD780FF>O Tides, I Have Returned</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Neuvillette_02",
+            "name": "Axiomatic Judgment"
+        },
+        "const6": {
+            "description": "When using Charged Attack: Equitable Judgment, Neuvillette can absorb nearby Sourcewater Droplets in an AoE. Each absorbed Droplet will increase the duration of Charged Attack: Equitable Judgment by 1s.\\nAdditionally, when Equitable Judgment hits opponents, it will fire off 2 additional currents every 2s, each of which will deal 10% of Neuvillette's Max HP as <color=#80C0FFFF>Hydro DMG</color>. DMG dealt this way will count as DMG dealt by Equitable Judgment.",
+            "icon": "UI_Talent_S_Neuvillette_04",
+            "name": "Wrathful Recompense"
+        }
+    },
+    "energy": [
+        {
+            "cd": "0.3s",
+            "chance": "100%",
+            "particles": "4",
+            "source": "ElementalArt_DropBall"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Neuvillette",
+        "forward": "UI_AvatarIcon_Neuvillette"
+    },
+    "info": {
+        "attributes": [
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 16,
+                "def": 45,
+                "hp": 1144,
+                "level": 1
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 18,
+                "def": 49,
+                "hp": 1239,
+                "level": 2
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 52,
+                "hp": 1334,
+                "level": 3
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 56,
+                "hp": 1430,
+                "level": 4
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 60,
+                "hp": 1525,
+                "level": 5
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 23,
+                "def": 64,
+                "hp": 1621,
+                "level": 6
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 67,
+                "hp": 1716,
+                "level": 7
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 71,
+                "hp": 1812,
+                "level": 8
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 27,
+                "def": 75,
+                "hp": 1908,
+                "level": 9
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 79,
+                "hp": 2003,
+                "level": 10
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 82,
+                "hp": 2099,
+                "level": 11
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 86,
+                "hp": 2195,
+                "level": 12
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 32,
+                "def": 90,
+                "hp": 2291,
+                "level": 13
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 94,
+                "hp": 2389,
+                "level": 14
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 97,
+                "hp": 2485,
+                "level": 15
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 101,
+                "hp": 2581,
+                "level": 16
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 105,
+                "hp": 2678,
+                "level": 17
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 109,
+                "hp": 2774,
+                "level": 18
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 113,
+                "hp": 2871,
+                "level": 19
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 42,
+                "def": 116,
+                "hp": 2967,
+                "level": 20
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 57,
+                "def": 159,
+                "hp": 4046,
+                "level": 21
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 59,
+                "def": 163,
+                "hp": 4143,
+                "level": 22
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 60,
+                "def": 166,
+                "hp": 4240,
+                "level": 23
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 61,
+                "def": 170,
+                "hp": 4337,
+                "level": 24
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 63,
+                "def": 174,
+                "hp": 4435,
+                "level": 25
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 64,
+                "def": 178,
+                "hp": 4533,
+                "level": 26
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 66,
+                "def": 182,
+                "hp": 4630,
+                "level": 27
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 67,
+                "def": 185,
+                "hp": 4727,
+                "level": 28
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 68,
+                "def": 189,
+                "hp": 4826,
+                "level": 29
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 70,
+                "def": 193,
+                "hp": 4923,
+                "level": 30
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 197,
+                "hp": 5021,
+                "level": 31
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 73,
+                "def": 201,
+                "hp": 5120,
+                "level": 32
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 74,
+                "def": 205,
+                "hp": 5218,
+                "level": 33
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 75,
+                "def": 208,
+                "hp": 5315,
+                "level": 34
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 77,
+                "def": 212,
+                "hp": 5414,
+                "level": 35
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 78,
+                "def": 216,
+                "hp": 5513,
+                "level": 36
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 80,
+                "def": 220,
+                "hp": 5612,
+                "level": 37
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 81,
+                "def": 224,
+                "hp": 5710,
+                "level": 38
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 82,
+                "def": 228,
+                "hp": 5808,
+                "level": 39
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 84,
+                "def": 232,
+                "hp": 5908,
+                "level": 40
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 95,
+                "def": 263,
+                "hp": 6703,
+                "level": 41
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 96,
+                "def": 267,
+                "hp": 6803,
+                "level": 42
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 98,
+                "def": 271,
+                "hp": 6902,
+                "level": 43
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 99,
+                "def": 275,
+                "hp": 7001,
+                "level": 44
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 101,
+                "def": 279,
+                "hp": 7100,
+                "level": 45
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 102,
+                "def": 282,
+                "hp": 7200,
+                "level": 46
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 103,
+                "def": 286,
+                "hp": 7299,
+                "level": 47
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 105,
+                "def": 290,
+                "hp": 7399,
+                "level": 48
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 106,
+                "def": 294,
+                "hp": 7500,
+                "level": 49
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 108,
+                "def": 298,
+                "hp": 7599,
+                "level": 50
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 122,
+                "def": 338,
+                "hp": 8628,
+                "level": 51
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 124,
+                "def": 342,
+                "hp": 8728,
+                "level": 52
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 125,
+                "def": 346,
+                "hp": 8828,
+                "level": 53
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 127,
+                "def": 350,
+                "hp": 8929,
+                "level": 54
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 128,
+                "def": 354,
+                "hp": 9029,
+                "level": 55
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 129,
+                "def": 358,
+                "hp": 9130,
+                "level": 56
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 131,
+                "def": 362,
+                "hp": 9231,
+                "level": 57
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 132,
+                "def": 366,
+                "hp": 9331,
+                "level": 58
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 134,
+                "def": 370,
+                "hp": 9432,
+                "level": 59
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 135,
+                "def": 374,
+                "hp": 9533,
+                "level": 60
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 146,
+                "def": 405,
+                "hp": 10330,
+                "level": 61
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 148,
+                "def": 409,
+                "hp": 10431,
+                "level": 62
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 149,
+                "def": 413,
+                "hp": 10533,
+                "level": 63
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 151,
+                "def": 417,
+                "hp": 10633,
+                "level": 64
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 152,
+                "def": 421,
+                "hp": 10735,
+                "level": 65
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 154,
+                "def": 425,
+                "hp": 10837,
+                "level": 66
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 155,
+                "def": 429,
+                "hp": 10938,
+                "level": 67
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 157,
+                "def": 433,
+                "hp": 11040,
+                "level": 68
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 158,
+                "def": 437,
+                "hp": 11141,
+                "level": 69
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 159,
+                "def": 441,
+                "hp": 11243,
+                "level": 70
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 171,
+                "def": 472,
+                "hp": 12042,
+                "level": 71
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 172,
+                "def": 476,
+                "hp": 12145,
+                "level": 72
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 174,
+                "def": 480,
+                "hp": 12247,
+                "level": 73
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 175,
+                "def": 484,
+                "hp": 12349,
+                "level": 74
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 177,
+                "def": 488,
+                "hp": 12451,
+                "level": 75
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 178,
+                "def": 492,
+                "hp": 12553,
+                "level": 76
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 179,
+                "def": 496,
+                "hp": 12656,
+                "level": 77
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 181,
+                "def": 500,
+                "hp": 12759,
+                "level": 78
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 182,
+                "def": 505,
+                "hp": 12862,
+                "level": 79
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 184,
+                "def": 509,
+                "hp": 12965,
+                "level": 80
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 195,
+                "def": 540,
+                "hp": 13765,
+                "level": 81
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 197,
+                "def": 544,
+                "hp": 13868,
+                "level": 82
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 198,
+                "def": 548,
+                "hp": 13971,
+                "level": 83
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 200,
+                "def": 552,
+                "hp": 14074,
+                "level": 84
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 201,
+                "def": 556,
+                "hp": 14177,
+                "level": 85
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 202,
+                "def": 560,
+                "hp": 14281,
+                "level": 86
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 204,
+                "def": 564,
+                "hp": 14384,
+                "level": 87
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 205,
+                "def": 568,
+                "hp": 14488,
+                "level": 88
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 207,
+                "def": 572,
+                "hp": 14592,
+                "level": 89
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 208,
+                "def": 576,
+                "hp": 14695,
+                "level": 90
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 232,
+                "def": 597,
+                "hp": 15217,
+                "level": 95
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 255,
+                "def": 617,
+                "hp": 15740,
+                "level": 100
+            }
+        ],
+        "birthday": "December 18th",
+        "constellation": "???",
+        "description": "The Chief Justice of Fontaine, known as the Iudex, is renowned for his unassailable impartiality.",
+        "element": "Hydro",
+        "name": "Neuvillette",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_CATALYST"
+    },
+    "passives": {
+        "p1": {
+            "description": "When a party member triggers a Vaporize, Frozen, Electro-Charged, Lunar-Charged, Bloom, Lunar-Bloom, Hydro Swirl, Hydro Crystallize or a Lunar-Crystallize reaction on opponents, 1 stack of Past Draconic Glories will be granted to Neuvillette for 30s. Max 3 stacks. Past Draconic Glories causes Charged Attack: Equitable Judgment to deal 110%/125%/160% of its original DMG.\\nThe stacks of Past Draconic Glories created by each kind of Elemental Reaction exist independently.",
+            "icon": "UI_Talent_S_Neuvillette_05",
+            "name": "Heir to the Ancient Sea's Authority"
+        },
+        "p2": {
+            "description": "For each 1% of Neuvillette's current HP greater than 30% of Max HP, he will gain 0.6% <color=#80C0FFFF>Hydro DMG Bonus</color>. A maximum bonus of 30% can be obtained this way.",
+            "icon": "UI_Talent_S_Neuvillette_06",
+            "name": "Discipline of the Supreme Arbitration"
+        },
+        "p3": {
+            "description": "Increases underwater Sprint SPD for your own party members by 15%.\\nNot stackable with Passive Talents that provide the exact same effects.",
+            "icon": "UI_Talent_S_Neuvillette_07",
+            "name": "Gather Like the Tide"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Unleashes waves that will deal <color=#80C0FFFF>AoE Hydro DMG</color> based on Neuvillette's Max HP. After a short interval, 2 waterfalls will descend and deal <color=#80C0FFFF>Hydro DMG</color> in a somewhat smaller AoE, and will generate 6 Sourcewater Droplets within an area in front.\\n\\n<i>\"The law is only established after its publication, and above that, the laws of nature have governed all species and eras since ancient times.</i>",
+            "icon": "Skill_E_Neuvillette_01",
+            "multipliers": {
+                "CD": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ],
+                "Energy Cost": [
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70"
+                ],
+                "Skill DMG": [
+                    "22.26% Max HP",
+                    "23.93% Max HP",
+                    "25.6% Max HP",
+                    "27.82% Max HP",
+                    "29.49% Max HP",
+                    "31.16% Max HP",
+                    "33.39% Max HP",
+                    "35.61% Max HP",
+                    "37.84% Max HP",
+                    "40.06% Max HP",
+                    "42.29% Max HP",
+                    "44.52% Max HP",
+                    "47.3% Max HP",
+                    "50.08% Max HP",
+                    "52.86% Max HP"
+                ],
+                "Waterfall DMG": [
+                    "9.11% Max HP",
+                    "9.79% Max HP",
+                    "10.47% Max HP",
+                    "11.38% Max HP",
+                    "12.06% Max HP",
+                    "12.75% Max HP",
+                    "13.66% Max HP",
+                    "14.57% Max HP",
+                    "15.48% Max HP",
+                    "16.39% Max HP",
+                    "17.3% Max HP",
+                    "18.21% Max HP",
+                    "19.35% Max HP",
+                    "20.49% Max HP",
+                    "21.63% Max HP"
+                ]
+            },
+            "name": "O Tides, I Have Returned"
+        },
+        "elementalskill": {
+            "description": "Summons a Raging Waterfall that will deal <color=#80C0FFFF>AoE Hydro DMG</color> to opponents in front of Neuvillette based on his Max HP. After hitting an opponent, this skill will generate 3 Sourcewater Droplets near that opponent.\\n\\n<color=#FFD780FF>Arkhe: Pneuma</color>\\nAt certain intervals, when the Raging Waterfall descends, a Spiritbreath Thorn will descend that will pierce opponents, dealing Pneuma-aligned <color=#80C0FFFF>Hydro DMG</color>.\\n\\n<i>\"The law can restrict all manner of crimes, but it cannot extirpate evil itself.</i>",
+            "icon": "Skill_S_Neuvillette_01",
+            "multipliers": {
+                "CD": [
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s",
+                    "12s"
+                ],
+                "Skill DMG": [
+                    "12.86% Max HP",
+                    "13.83% Max HP",
+                    "14.79% Max HP",
+                    "16.08% Max HP",
+                    "17.04% Max HP",
+                    "18.01% Max HP",
+                    "19.3% Max HP",
+                    "20.58% Max HP",
+                    "21.87% Max HP",
+                    "23.16% Max HP",
+                    "24.44% Max HP",
+                    "25.73% Max HP",
+                    "27.34% Max HP",
+                    "28.94% Max HP",
+                    "30.55% Max HP"
+                ],
+                "Sourcewater Droplet Duration": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ],
+                "Spiritbreath Thorn DMG": [
+                    "20.8%",
+                    "22.36%",
+                    "23.92%",
+                    "26%",
+                    "27.56%",
+                    "29.12%",
+                    "31.2%",
+                    "33.28%",
+                    "35.36%",
+                    "37.44%",
+                    "39.52%",
+                    "41.6%",
+                    "44.2%",
+                    "46.8%",
+                    "49.4%"
+                ],
+                "Spiritbreath Thorn Interval": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ]
+            },
+            "name": "O Tears, I Shall Repay"
+        },
+        "leveling": {
+            "books": {
+                "104338": 9,
+                "104339": 63,
+                "104340": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113048": 18
+            },
+            "worldmonster": {
+                "112080": 18,
+                "112081": 66,
+                "112082": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nWith light flourishes, Neuvillette commands the tides to unleash a maximum of 3 attacks, dealing <color=#80C0FFFF>Hydro DMG</color>.\\n\\n<color=#FFD780FF>Charged Attack Empowerment: Legal Evaluation</color>\\nWhile charging up, Neuvillette will gather the power of water, forming it into a Seal of Arbitration. In this state, Neuvillette can move and change facing, and also absorb any Sourcewater Droplets in a certain AoE.\\nEvery Droplet he absorbs will increase the formation speed of the Seal, and will heal Neuvillette.\\nWhen the charging is stopped, if the Symbol has yet to be formed, then a Charged Attack will be unleashed. If it has been formed, then a Charged Attack: Equitable Judgment will be unleashed.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a fixed amount of Stamina to attack opponents with a rupturing blast of water, dealing <color=#80C0FFFF>AoE Hydro DMG</color>.\\n\\n<color=#FFD780FF>Charged Attack: Equitable Judgment</color>\\nUnleashes surging torrents, dealing continuous <color=#80C0FFFF>AoE Hydro DMG</color> to all opponents in a straight-line area in front of him.\\nEquitable Judgment will not consume any Stamina and lasts 3s.\\nIf Neuvillette's HP is above 50%, he will continuously lose HP while using this attack.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nGathering the might of Hydro, Neuvillette plunges towards the ground from mid-air, damaging all opponents in his path. Deals <color=#80C0FFFF>AoE Hydro DMG</color> upon impact with the ground.",
+            "icon": "Skill_A_Catalyst_MD",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "54.58%",
+                    "58.67%",
+                    "62.76%",
+                    "68.22%",
+                    "72.31%",
+                    "76.41%",
+                    "81.87%",
+                    "87.32%",
+                    "92.78%",
+                    "98.24%",
+                    "103.7%",
+                    "109.15%",
+                    "115.98%",
+                    "122.8%",
+                    "129.62%"
+                ],
+                "2-Hit DMG": [
+                    "46.25%",
+                    "49.71%",
+                    "53.18%",
+                    "57.81%",
+                    "61.28%",
+                    "64.74%",
+                    "69.37%",
+                    "73.99%",
+                    "78.62%",
+                    "83.24%",
+                    "87.87%",
+                    "92.49%",
+                    "98.27%",
+                    "104.05%",
+                    "109.83%"
+                ],
+                "3-Hit DMG": [
+                    "72.34%",
+                    "77.76%",
+                    "83.19%",
+                    "90.42%",
+                    "95.85%",
+                    "101.27%",
+                    "108.51%",
+                    "115.74%",
+                    "122.97%",
+                    "130.21%",
+                    "137.44%",
+                    "144.68%",
+                    "153.72%",
+                    "162.76%",
+                    "171.8%"
+                ],
+                "Charged Attack DMG": [
+                    "136.8%",
+                    "147.06%",
+                    "157.32%",
+                    "171%",
+                    "181.26%",
+                    "191.52%",
+                    "205.2%",
+                    "218.88%",
+                    "232.56%",
+                    "246.24%",
+                    "259.92%",
+                    "273.6%",
+                    "290.7%",
+                    "307.8%",
+                    "324.9%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50"
+                ],
+                "Charged Attack: Equitable Judgment": [
+                    "7.32% Max HP",
+                    "7.91% Max HP",
+                    "8.51% Max HP",
+                    "9.36% Max HP",
+                    "9.96% Max HP",
+                    "10.64% Max HP",
+                    "11.57% Max HP",
+                    "12.51% Max HP",
+                    "13.45% Max HP",
+                    "14.47% Max HP",
+                    "15.49% Max HP",
+                    "16.51% Max HP",
+                    "17.53% Max HP",
+                    "18.55% Max HP",
+                    "19.57% Max HP"
+                ],
+                "HP Loss": [
+                    "8% Max HP/0.5s",
+                    "8% Max HP/0.5s",
+                    "8% Max HP/0.5s",
+                    "8% Max HP/0.5s",
+                    "8% Max HP/0.5s",
+                    "8% Max HP/0.5s",
+                    "8% Max HP/0.5s",
+                    "8% Max HP/0.5s",
+                    "8% Max HP/0.5s",
+                    "8% Max HP/0.5s",
+                    "8% Max HP/0.5s",
+                    "8% Max HP/0.5s",
+                    "8% Max HP/0.5s",
+                    "8% Max HP/0.5s",
+                    "8% Max HP/0.5s"
+                ],
+                "HP Restored": [
+                    "16% Max HP/Droplet",
+                    "16% Max HP/Droplet",
+                    "16% Max HP/Droplet",
+                    "16% Max HP/Droplet",
+                    "16% Max HP/Droplet",
+                    "16% Max HP/Droplet",
+                    "16% Max HP/Droplet",
+                    "16% Max HP/Droplet",
+                    "16% Max HP/Droplet",
+                    "16% Max HP/Droplet",
+                    "16% Max HP/Droplet",
+                    "16% Max HP/Droplet",
+                    "16% Max HP/Droplet",
+                    "16% Max HP/Droplet",
+                    "16% Max HP/Droplet"
+                ],
+                "Low/High Plunge DMG": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "Plunge DMG": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ]
+            },
+            "name": "As Water Seeks Equilibrium"
+        }
+    }
+}

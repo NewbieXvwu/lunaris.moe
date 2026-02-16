@@ -1,0 +1,1511 @@
+{
+    "info": {
+        "name": "Mavuika",
+        "description": "The leader of Natlan who inherited the Ancient Name of \"Kiongozi.\" She made a vow to illuminate the future of the nation of war with the Sacred Flame.",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_CLAYMORE",
+        "birthday": "August 28th",
+        "element": "Pyro",
+        "constellation": "Sol Invictus",
+        "attributes": [
+            {
+                "level": 1,
+                "ascension": 0,
+                "hp": 977,
+                "atk": 28,
+                "def": 62,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 2,
+                "ascension": 0,
+                "hp": 1058,
+                "atk": 30,
+                "def": 67,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 3,
+                "ascension": 0,
+                "hp": 1139,
+                "atk": 33,
+                "def": 72,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 4,
+                "ascension": 0,
+                "hp": 1221,
+                "atk": 35,
+                "def": 77,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 5,
+                "ascension": 0,
+                "hp": 1303,
+                "atk": 37,
+                "def": 82,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 6,
+                "ascension": 0,
+                "hp": 1385,
+                "atk": 40,
+                "def": 87,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 7,
+                "ascension": 0,
+                "hp": 1466,
+                "atk": 42,
+                "def": 92,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 8,
+                "ascension": 0,
+                "hp": 1548,
+                "atk": 44,
+                "def": 98,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 9,
+                "ascension": 0,
+                "hp": 1630,
+                "atk": 47,
+                "def": 103,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 10,
+                "ascension": 0,
+                "hp": 1711,
+                "atk": 49,
+                "def": 108,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 11,
+                "ascension": 0,
+                "hp": 1793,
+                "atk": 51,
+                "def": 113,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 12,
+                "ascension": 0,
+                "hp": 1875,
+                "atk": 54,
+                "def": 118,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 13,
+                "ascension": 0,
+                "hp": 1957,
+                "atk": 56,
+                "def": 123,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 14,
+                "ascension": 0,
+                "hp": 2040,
+                "atk": 58,
+                "def": 129,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 15,
+                "ascension": 0,
+                "hp": 2122,
+                "atk": 61,
+                "def": 134,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 16,
+                "ascension": 0,
+                "hp": 2204,
+                "atk": 63,
+                "def": 139,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 17,
+                "ascension": 0,
+                "hp": 2288,
+                "atk": 65,
+                "def": 144,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 18,
+                "ascension": 0,
+                "hp": 2370,
+                "atk": 68,
+                "def": 149,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 19,
+                "ascension": 0,
+                "hp": 2453,
+                "atk": 70,
+                "def": 155,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 20,
+                "ascension": 0,
+                "hp": 2535,
+                "atk": 72,
+                "def": 160,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 21,
+                "ascension": 1,
+                "hp": 3456,
+                "atk": 99,
+                "def": 218,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 22,
+                "ascension": 1,
+                "hp": 3539,
+                "atk": 101,
+                "def": 223,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 23,
+                "ascension": 1,
+                "hp": 3622,
+                "atk": 104,
+                "def": 228,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 24,
+                "ascension": 1,
+                "hp": 3705,
+                "atk": 106,
+                "def": 234,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 25,
+                "ascension": 1,
+                "hp": 3788,
+                "atk": 108,
+                "def": 239,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 26,
+                "ascension": 1,
+                "hp": 3872,
+                "atk": 111,
+                "def": 244,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 27,
+                "ascension": 1,
+                "hp": 3955,
+                "atk": 113,
+                "def": 249,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 28,
+                "ascension": 1,
+                "hp": 4038,
+                "atk": 115,
+                "def": 255,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 29,
+                "ascension": 1,
+                "hp": 4122,
+                "atk": 118,
+                "def": 260,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 30,
+                "ascension": 1,
+                "hp": 4205,
+                "atk": 120,
+                "def": 265,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 31,
+                "ascension": 1,
+                "hp": 4289,
+                "atk": 123,
+                "def": 270,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 32,
+                "ascension": 1,
+                "hp": 4373,
+                "atk": 125,
+                "def": 276,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 33,
+                "ascension": 1,
+                "hp": 4457,
+                "atk": 127,
+                "def": 281,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 34,
+                "ascension": 1,
+                "hp": 4540,
+                "atk": 130,
+                "def": 286,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 35,
+                "ascension": 1,
+                "hp": 4624,
+                "atk": 132,
+                "def": 292,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 36,
+                "ascension": 1,
+                "hp": 4709,
+                "atk": 135,
+                "def": 297,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 37,
+                "ascension": 1,
+                "hp": 4793,
+                "atk": 137,
+                "def": 302,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 38,
+                "ascension": 1,
+                "hp": 4877,
+                "atk": 139,
+                "def": 308,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 39,
+                "ascension": 1,
+                "hp": 4961,
+                "atk": 142,
+                "def": 313,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 40,
+                "ascension": 1,
+                "hp": 5046,
+                "atk": 144,
+                "def": 318,
+                "CRIT DMG%": "0"
+            },
+            {
+                "level": 41,
+                "ascension": 2,
+                "hp": 5726,
+                "atk": 164,
+                "def": 361,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 42,
+                "ascension": 2,
+                "hp": 5811,
+                "atk": 166,
+                "def": 366,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 43,
+                "ascension": 2,
+                "hp": 5896,
+                "atk": 169,
+                "def": 372,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 44,
+                "ascension": 2,
+                "hp": 5980,
+                "atk": 171,
+                "def": 377,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 45,
+                "ascension": 2,
+                "hp": 6065,
+                "atk": 173,
+                "def": 382,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 46,
+                "ascension": 2,
+                "hp": 6150,
+                "atk": 176,
+                "def": 388,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 47,
+                "ascension": 2,
+                "hp": 6235,
+                "atk": 178,
+                "def": 393,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 48,
+                "ascension": 2,
+                "hp": 6320,
+                "atk": 181,
+                "def": 399,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 49,
+                "ascension": 2,
+                "hp": 6406,
+                "atk": 183,
+                "def": 404,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 50,
+                "ascension": 2,
+                "hp": 6491,
+                "atk": 186,
+                "def": 409,
+                "CRIT DMG%": "9.6"
+            },
+            {
+                "level": 51,
+                "ascension": 3,
+                "hp": 7370,
+                "atk": 211,
+                "def": 465,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 52,
+                "ascension": 3,
+                "hp": 7456,
+                "atk": 213,
+                "def": 470,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 53,
+                "ascension": 3,
+                "hp": 7541,
+                "atk": 216,
+                "def": 476,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 54,
+                "ascension": 3,
+                "hp": 7627,
+                "atk": 218,
+                "def": 481,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 55,
+                "ascension": 3,
+                "hp": 7713,
+                "atk": 220,
+                "def": 486,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 56,
+                "ascension": 3,
+                "hp": 7799,
+                "atk": 223,
+                "def": 492,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 57,
+                "ascension": 3,
+                "hp": 7885,
+                "atk": 225,
+                "def": 497,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 58,
+                "ascension": 3,
+                "hp": 7971,
+                "atk": 228,
+                "def": 503,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 59,
+                "ascension": 3,
+                "hp": 8057,
+                "atk": 230,
+                "def": 508,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 60,
+                "ascension": 3,
+                "hp": 8143,
+                "atk": 233,
+                "def": 514,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 61,
+                "ascension": 4,
+                "hp": 8824,
+                "atk": 252,
+                "def": 556,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 62,
+                "ascension": 4,
+                "hp": 8910,
+                "atk": 255,
+                "def": 562,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 63,
+                "ascension": 4,
+                "hp": 8997,
+                "atk": 257,
+                "def": 567,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 64,
+                "ascension": 4,
+                "hp": 9083,
+                "atk": 260,
+                "def": 573,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 65,
+                "ascension": 4,
+                "hp": 9170,
+                "atk": 262,
+                "def": 578,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 66,
+                "ascension": 4,
+                "hp": 9257,
+                "atk": 265,
+                "def": 584,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 67,
+                "ascension": 4,
+                "hp": 9343,
+                "atk": 267,
+                "def": 589,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 68,
+                "ascension": 4,
+                "hp": 9430,
+                "atk": 270,
+                "def": 595,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 69,
+                "ascension": 4,
+                "hp": 9517,
+                "atk": 272,
+                "def": 600,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 70,
+                "ascension": 4,
+                "hp": 9604,
+                "atk": 274,
+                "def": 606,
+                "CRIT DMG%": "19.2"
+            },
+            {
+                "level": 71,
+                "ascension": 5,
+                "hp": 10286,
+                "atk": 294,
+                "def": 649,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 72,
+                "ascension": 5,
+                "hp": 10374,
+                "atk": 297,
+                "def": 654,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 73,
+                "ascension": 5,
+                "hp": 10461,
+                "atk": 299,
+                "def": 660,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 74,
+                "ascension": 5,
+                "hp": 10548,
+                "atk": 301,
+                "def": 665,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 75,
+                "ascension": 5,
+                "hp": 10636,
+                "atk": 304,
+                "def": 671,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 76,
+                "ascension": 5,
+                "hp": 10723,
+                "atk": 306,
+                "def": 676,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 77,
+                "ascension": 5,
+                "hp": 10811,
+                "atk": 309,
+                "def": 682,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 78,
+                "ascension": 5,
+                "hp": 10899,
+                "atk": 312,
+                "def": 687,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 79,
+                "ascension": 5,
+                "hp": 10986,
+                "atk": 314,
+                "def": 693,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 80,
+                "ascension": 5,
+                "hp": 11074,
+                "atk": 317,
+                "def": 698,
+                "CRIT DMG%": "28.8"
+            },
+            {
+                "level": 81,
+                "ascension": 6,
+                "hp": 11758,
+                "atk": 336,
+                "def": 742,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 82,
+                "ascension": 6,
+                "hp": 11846,
+                "atk": 339,
+                "def": 747,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 83,
+                "ascension": 6,
+                "hp": 11934,
+                "atk": 341,
+                "def": 753,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 84,
+                "ascension": 6,
+                "hp": 12021,
+                "atk": 344,
+                "def": 758,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 85,
+                "ascension": 6,
+                "hp": 12109,
+                "atk": 346,
+                "def": 764,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 86,
+                "ascension": 6,
+                "hp": 12198,
+                "atk": 349,
+                "def": 769,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 87,
+                "ascension": 6,
+                "hp": 12286,
+                "atk": 351,
+                "def": 775,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 88,
+                "ascension": 6,
+                "hp": 12375,
+                "atk": 354,
+                "def": 780,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 89,
+                "ascension": 6,
+                "hp": 12464,
+                "atk": 356,
+                "def": 786,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 90,
+                "ascension": 6,
+                "hp": 12552,
+                "atk": 359,
+                "def": 792,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 95,
+                "ascension": 6,
+                "hp": 12998,
+                "atk": 399,
+                "def": 820,
+                "CRIT DMG%": "38.4"
+            },
+            {
+                "level": 100,
+                "ascension": 6,
+                "hp": 13444,
+                "atk": 439,
+                "def": 848,
+                "CRIT DMG%": "38.4"
+            }
+        ]
+    },
+    "icons": {
+        "forward": "UI_AvatarIcon_Mavuika",
+        "coop_img": "UI_CoopImg_Mavuika"
+    },
+    "ascension": {
+        "202": 7049900,
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101253": 168
+        },
+        "elemental": {
+            "104111": 1,
+            "104112": 9,
+            "104113": 9,
+            "104114": 6
+        },
+        "worldmonster": {
+            "112104": 18,
+            "112105": 30,
+            "112106": 36
+        },
+        "elitemonster": {
+            "113066": 46
+        }
+    },
+    "skills": {
+        "normalattack": {
+            "name": "Flames Weave Life",
+            "icon": "Skill_A_04",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "80.04%",
+                    "86.55%",
+                    "93.06%",
+                    "102.37%",
+                    "108.88%",
+                    "116.33%",
+                    "126.57%",
+                    "136.8%",
+                    "147.04%",
+                    "158.21%",
+                    "169.38%",
+                    "180.54%",
+                    "191.71%",
+                    "202.88%",
+                    "214.05%"
+                ],
+                "2-Hit DMG": [
+                    "36.48%×2",
+                    "39.45%×2",
+                    "42.42%×2",
+                    "46.66%×2",
+                    "49.63%×2",
+                    "53.02%×2",
+                    "57.69%×2",
+                    "62.36%×2",
+                    "67.02%×2",
+                    "72.11%×2",
+                    "77.2%×2",
+                    "82.29%×2",
+                    "87.38%×2",
+                    "92.47%×2",
+                    "97.56%×2"
+                ],
+                "3-Hit DMG": [
+                    "33.22%×3",
+                    "35.93%×3",
+                    "38.63%×3",
+                    "42.49%×3",
+                    "45.2%×3",
+                    "48.29%×3",
+                    "52.54%×3",
+                    "56.79%×3",
+                    "61.04%×3",
+                    "65.67%×3",
+                    "70.31%×3",
+                    "74.95%×3",
+                    "79.58%×3",
+                    "84.22%×3",
+                    "88.85%×3"
+                ],
+                "4-Hit DMG": [
+                    "116.19%",
+                    "125.65%",
+                    "135.11%",
+                    "148.62%",
+                    "158.08%",
+                    "168.89%",
+                    "183.75%",
+                    "198.61%",
+                    "213.47%",
+                    "229.68%",
+                    "245.9%",
+                    "262.11%",
+                    "278.32%",
+                    "294.54%",
+                    "310.75%"
+                ],
+                "Charged Attack DMG": [
+                    "193.84%",
+                    "209.62%",
+                    "225.4%",
+                    "247.94%",
+                    "263.72%",
+                    "281.75%",
+                    "306.54%",
+                    "331.34%",
+                    "356.13%",
+                    "383.18%",
+                    "410.23%",
+                    "437.28%",
+                    "464.32%",
+                    "491.37%",
+                    "518.42%"
+                ],
+                "Charged Attack Stamina Cost": [
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50"
+                ],
+                "Plunge DMG": [
+                    "74.59%",
+                    "80.66%",
+                    "86.73%",
+                    "95.4%",
+                    "101.47%",
+                    "108.41%",
+                    "117.95%",
+                    "127.49%",
+                    "137.03%",
+                    "147.44%",
+                    "157.85%",
+                    "168.26%",
+                    "178.66%",
+                    "189.07%",
+                    "199.48%"
+                ],
+                "Low/High Plunge DMG": [
+                    "149.14%/186.29%",
+                    "161.28%/201.45%",
+                    "173.42%/216.62%",
+                    "190.77%/238.28%",
+                    "202.91%/253.44%",
+                    "216.78%/270.77%",
+                    "235.86%/294.6%",
+                    "254.93%/318.42%",
+                    "274.01%/342.25%",
+                    "294.82%/368.25%",
+                    "315.63%/394.24%",
+                    "336.44%/420.23%",
+                    "357.25%/446.23%",
+                    "378.06%/472.22%",
+                    "398.87%/498.21%"
+                ]
+            },
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 consecutive claymore strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to perform an especially powerful Severing Splendor strike toward the front.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
+        },
+        "elementalskill": {
+            "name": "The Named Moment",
+            "icon": "Skill_S_Mavuika_01",
+            "multipliers": {
+                "Skill DMG": [
+                    "74.4%",
+                    "79.98%",
+                    "85.56%",
+                    "93%",
+                    "98.58%",
+                    "104.16%",
+                    "111.6%",
+                    "119.04%",
+                    "126.48%",
+                    "133.92%",
+                    "141.36%",
+                    "148.8%",
+                    "158.1%",
+                    "167.4%",
+                    "176.7%"
+                ],
+                "Ring of Searing Radiance DMG": [
+                    "128%",
+                    "137.6%",
+                    "147.2%",
+                    "160%",
+                    "169.6%",
+                    "179.2%",
+                    "192%",
+                    "204.8%",
+                    "217.6%",
+                    "230.4%",
+                    "243.2%",
+                    "256%",
+                    "272%",
+                    "288%",
+                    "304%"
+                ],
+                "Ring of Searing Radiance Attack Interval": [
+                    "2s",
+                    "2s",
+                    "2s",
+                    "2s",
+                    "2s",
+                    "2s",
+                    "2s",
+                    "2s",
+                    "2s",
+                    "2s",
+                    "2s",
+                    "2s",
+                    "2s",
+                    "2s",
+                    "2s"
+                ],
+                "Flamestrider Normal Attack 1-Hit DMG": [
+                    "57.26%",
+                    "61.93%",
+                    "66.59%",
+                    "73.25%",
+                    "77.91%",
+                    "83.23%",
+                    "90.56%",
+                    "97.88%",
+                    "105.21%",
+                    "113.2%",
+                    "121.19%",
+                    "129.18%",
+                    "137.17%",
+                    "145.16%",
+                    "153.15%"
+                ],
+                "Flamestrider Normal Attack 2-Hit DMG": [
+                    "59.13%",
+                    "63.95%",
+                    "68.76%",
+                    "75.63%",
+                    "80.45%",
+                    "85.95%",
+                    "93.51%",
+                    "101.08%",
+                    "108.64%",
+                    "116.89%",
+                    "125.14%",
+                    "133.39%",
+                    "141.64%",
+                    "149.89%",
+                    "158.15%"
+                ],
+                "Flamestrider Normal Attack 3-Hit DMG": [
+                    "69.99%",
+                    "75.68%",
+                    "81.38%",
+                    "89.52%",
+                    "95.21%",
+                    "101.72%",
+                    "110.68%",
+                    "119.63%",
+                    "128.58%",
+                    "138.35%",
+                    "148.11%",
+                    "157.88%",
+                    "167.64%",
+                    "177.41%",
+                    "187.17%"
+                ],
+                "Flamestrider Normal Attack 4-Hit DMG": [
+                    "69.7%",
+                    "75.38%",
+                    "81.05%",
+                    "89.16%",
+                    "94.83%",
+                    "101.31%",
+                    "110.23%",
+                    "119.15%",
+                    "128.06%",
+                    "137.79%",
+                    "147.51%",
+                    "157.24%",
+                    "166.97%",
+                    "176.69%",
+                    "186.42%"
+                ],
+                "Flamestrider Normal Attack 5-Hit DMG": [
+                    "91%",
+                    "98.41%",
+                    "105.82%",
+                    "116.4%",
+                    "123.81%",
+                    "132.27%",
+                    "143.91%",
+                    "155.55%",
+                    "167.19%",
+                    "179.89%",
+                    "192.59%",
+                    "205.29%",
+                    "217.99%",
+                    "230.68%",
+                    "243.38%"
+                ],
+                "Flamestrider Sprint DMG": [
+                    "80.84%",
+                    "87.42%",
+                    "94%",
+                    "103.4%",
+                    "109.98%",
+                    "117.5%",
+                    "127.84%",
+                    "138.18%",
+                    "148.52%",
+                    "159.8%",
+                    "171.08%",
+                    "182.36%",
+                    "193.64%",
+                    "204.92%",
+                    "216.2%"
+                ],
+                "Flamestrider Charged Attack Cyclic DMG": [
+                    "98.9%",
+                    "106.95%",
+                    "115%",
+                    "126.5%",
+                    "134.55%",
+                    "143.75%",
+                    "156.4%",
+                    "169.05%",
+                    "181.7%",
+                    "195.5%",
+                    "209.3%",
+                    "223.1%",
+                    "236.9%",
+                    "250.7%",
+                    "264.5%"
+                ],
+                "Flamestrider Charged Attack Final DMG": [
+                    "137.6%",
+                    "148.8%",
+                    "160%",
+                    "176%",
+                    "187.2%",
+                    "200%",
+                    "217.6%",
+                    "235.2%",
+                    "252.8%",
+                    "272%",
+                    "291.2%",
+                    "310.4%",
+                    "329.6%",
+                    "348.8%",
+                    "368%"
+                ],
+                "Flamestrider Plunge DMG": [
+                    "159.96%",
+                    "172.98%",
+                    "186%",
+                    "204.6%",
+                    "217.62%",
+                    "232.5%",
+                    "252.96%",
+                    "273.42%",
+                    "293.88%",
+                    "316.2%",
+                    "338.52%",
+                    "360.84%",
+                    "383.16%",
+                    "405.48%",
+                    "427.8%"
+                ],
+                "Nightsoul Point Limit": [
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80",
+                    "80"
+                ],
+                "CD": [
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s",
+                    "15s"
+                ]
+            },
+            "description": "Calling upon her authority over \"conflict,\" Mavuika summons the All-Fire Armaments passed down through the line of human Archons, dealing Nightsoul-aligned <color=#FF9999FF>Pyro DMG</color>.\\nAfter using this, Mavuika's Nightsoul points are restored to max value, and she enters the Nightsoul's Blessing state.\\n\\n<color=#FFD780FF>All-Fire Armaments</color>\\nHas different forms when Tapped or Held.\\n\\n<color=#FFD780FF>Tap</color>\\n\"Divine Name Unleashed\": The All-Fire Armaments manifest as a Ring of Searing Radiance. The Ring follows the current active character and attacks nearby opponents at intervals, dealing Nightsoul-aligned <color=#FF9999FF>Pyro DMG</color>.\\n\\n<color=#FFD780FF>Hold</color>\\n\"Ancient Name Unbound\": The All-Fire Armaments manifest as a Flamestrider. In this state, Mavuika can ride the Flamestrider at high speed, or activate its hidden backup propulsion module to temporarily cross various terrain types and glide in mid-air. Mavuika's Normal, Charged, and Plunging Attacks will also be converted to deal Nightsoul-aligned <color=#FF9999FF>Pyro DMG</color> which cannot be overridden. When sprinting, she also deals Nightsoul-aligned <color=#FF9999FF>Pyro DMG</color> to opponents along her path.\\n\\nWhile in the Nightsoul's Blessing state, Tapping the Elemental Skill can switch the All-Fire Armaments' form. The Armaments will disappear once Mavuika's Nightsoul's Blessing state ends.\\n\\n<color=#FFD780FF>Nightsoul's Blessing: Mavuika</color>\\nContinuously consumes Nightsoul points according to the All-Fire Armaments' form. Mavuika's Nightsoul's Blessing state ends once her Nightsoul points are exhausted.\\n\\n<i>If you told Mavuika that in another world vehicles like the Flamestrider required license plates for identification, that would make her happy too:\\n\"Well, mine's the only one that exists here. Guess that means I get to pick whatever plate number I want, huh?\"</i>"
+        },
+        "elementalburst": {
+            "name": "Hour of Burning Skies",
+            "icon": "Skill_E_Mavuika_01",
+            "multipliers": {
+                "Skill DMG": [
+                    "444.8%",
+                    "478.16%",
+                    "511.52%",
+                    "556%",
+                    "589.36%",
+                    "622.72%",
+                    "667.2%",
+                    "711.68%",
+                    "756.16%",
+                    "800.64%",
+                    "845.12%",
+                    "889.6%",
+                    "945.2%",
+                    "1000.8%",
+                    "1056.4%"
+                ],
+                "Crucible of Death and Life Duration": [
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s",
+                    "7s"
+                ],
+                "Sunfell Slice DMG Bonus": [
+                    "1.6% ATK per Fighting Spirit",
+                    "1.72% ATK per Fighting Spirit",
+                    "1.84% ATK per Fighting Spirit",
+                    "2% ATK per Fighting Spirit",
+                    "2.12% ATK per Fighting Spirit",
+                    "2.24% ATK per Fighting Spirit",
+                    "2.4% ATK per Fighting Spirit",
+                    "2.56% ATK per Fighting Spirit",
+                    "2.72% ATK per Fighting Spirit",
+                    "2.88% ATK per Fighting Spirit",
+                    "3.04% ATK per Fighting Spirit",
+                    "3.2% ATK per Fighting Spirit",
+                    "3.4% ATK per Fighting Spirit",
+                    "3.6% ATK per Fighting Spirit",
+                    "3.8% ATK per Fighting Spirit"
+                ],
+                "Flamestrider Normal Attack DMG Bonus": [
+                    "0.26% ATK per Fighting Spirit",
+                    "0.28% ATK per Fighting Spirit",
+                    "0.3% ATK per Fighting Spirit",
+                    "0.33% ATK per Fighting Spirit",
+                    "0.35% ATK per Fighting Spirit",
+                    "0.37% ATK per Fighting Spirit",
+                    "0.41% ATK per Fighting Spirit",
+                    "0.44% ATK per Fighting Spirit",
+                    "0.47% ATK per Fighting Spirit",
+                    "0.51% ATK per Fighting Spirit",
+                    "0.55% ATK per Fighting Spirit",
+                    "0.58% ATK per Fighting Spirit",
+                    "0.62% ATK per Fighting Spirit",
+                    "0.65% ATK per Fighting Spirit",
+                    "0.69% ATK per Fighting Spirit"
+                ],
+                "Flamestrider Charged Attack DMG Bonus": [
+                    "0.52% ATK per Fighting Spirit",
+                    "0.56% ATK per Fighting Spirit",
+                    "0.6% ATK per Fighting Spirit",
+                    "0.66% ATK per Fighting Spirit",
+                    "0.7% ATK per Fighting Spirit",
+                    "0.75% ATK per Fighting Spirit",
+                    "0.82% ATK per Fighting Spirit",
+                    "0.88% ATK per Fighting Spirit",
+                    "0.95% ATK per Fighting Spirit",
+                    "1.02% ATK per Fighting Spirit",
+                    "1.09% ATK per Fighting Spirit",
+                    "1.16% ATK per Fighting Spirit",
+                    "1.24% ATK per Fighting Spirit",
+                    "1.31% ATK per Fighting Spirit",
+                    "1.38% ATK per Fighting Spirit"
+                ],
+                "CD": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ],
+                "Fighting Spirit Limit": [
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200",
+                    "200"
+                ]
+            },
+            "description": "Let the people's inner voices reach the divine throne in the heavens.\\n<color=#FFD780FF>Mavuika's Elemental Burst is not reliant on Energy, but instead, on \"Fighting Spirit.\"</color>\\n\\n<color=#FFD780FF>Fighting Spirit</color>\\nWhen Mavuika has at least 50% Fighting Spirit, she can consume it all to unleash her Elemental Burst.\\nMavuika can obtain Fighting Spirit via the following methods:\\n· When in combat, Nightsoul points consumed by nearby party members are converted to Fighting Spirit.\\n· When nearby party members' Normal Attacks hit opponents, Mavuika gains 1.5 Fighting Spirit. This can trigger once every 0.1s.\\n\\nAfter using this, Mavuika gains 10 Nightsoul points and enters the Nightsoul's Blessing state. Riding her Flamestrider high in the air, she uses a powerful Sunfell Slice against opponents on the ground, dealing Nightsoul-aligned <color=#FF9999FF>AoE Pyro DMG</color> and entering the \"Crucible of Death and Life\" state.\\n\\n<color=#FFD780FF>Crucible of Death and Life</color>\\nDuring this time, Mavuika's various actions will no longer consume Nightsoul points, and her interruption resistance is increased. Also, the DMG dealt by Sunfell Slice and \"Ancient Name Unbound\"'s Normal and Charged Attacks is increased based on the amount of Fighting Spirit she has when using the Elemental Burst.\\nCrucible of Death and Life will be canceled when Mavuika leaves the field.\\n\\n<i>\"—But this time, I want to break the cycle and free us from this fate for good.\"</i>"
+        },
+        "leveling": {
+            "crown": {
+                "104319": 3
+            },
+            "books": {
+                "104347": 9,
+                "104348": 63,
+                "104349": 114
+            },
+            "worldmonster": {
+                "112104": 18,
+                "112105": 66,
+                "112106": 93
+            },
+            "weekly": {
+                "113068": 18
+            }
+        }
+    },
+    "passives": {
+        "p1": {
+            "name": "Gift of Flaming Flowers",
+            "description": "When a nearby party member triggers a Nightsoul Burst, Mavuika's ATK increases by 30% for 10s.",
+            "icon": "UI_Talent_S_Mavuika_05"
+        },
+        "p2": {
+            "name": "\"Kiongozi\"",
+            "description": "After using her Elemental Burst, <color=#FFD780FF>Hour of Burning Skies</color>, every point of Fighting Spirit present when it is used increases the DMG that the current active party member deals by 0.2%. The maximum increase obtainable this way is 40%, and this effect lasts 20s, decaying over this duration until it reaches 0.",
+            "icon": "UI_Talent_S_Mavuika_06"
+        },
+        "p3": {
+            "name": "Night Realm's Gift: Exhaust Mode",
+            "description": "After Nightsoul points have been fully depleted, Mavuika will switch to using Phlogiston to maintain the All-Fire Armaments' Flamestrider form.\\nWhile in an area with Phlogiston Mechanics within Natlan, Nightsoul Transmission: Mavuika can be used. When the current active character is sprinting, climbing, swimming, in movement modes caused by certain Talents, or at a certain height in the air, switching to Mavuika will trigger the following: Mavuika enters the Nightsoul's Blessing state and obtains 50% of her maximum Nightsoul points. Nightsoul Transmission can be triggered once every 10s by your own party.",
+            "icon": "UI_Talent_S_Mavuika_07"
+        },
+        "p4": {
+            "name": "Night-Shattering Radiance",
+            "description": "The party's Nightsoul Transmission CD is decreased by 20%.",
+            "icon": "UI_Talent_S_Citlali_07"
+        }
+    },
+    "constellations": {
+        "const1": {
+            "name": "The Night-Lord's Explication",
+            "description": "Mavuika's maximum Nightsoul points are increased to 120, and she gains Fighting Spirit 25% more efficiently.\\nAdditionally, she gains 40% ATK for 8s after gaining Fighting Spirit.",
+            "icon": "UI_Talent_S_Mavuika_01"
+        },
+        "const2": {
+            "name": "The Ashen Price",
+            "description": "When in the Nightsoul's Blessing State, Mavuika's Base ATK is increased by 200, and she obtains the following effects based on All-Fire Armaments' form:\\n· Ring of Searing Radiance: Nearby opponents' DEF is decreased by 20%.\\n· Flamestrider: Mavuika's Normal Attacks, Charged Attacks, and her Sunfell Slice from the Elemental Burst <color=#FFD780FF>Hour of Burning Skies</color> deal 60%, 90%, and 120% of her ATK as increased DMG respectively.",
+            "icon": "UI_Talent_S_Mavuika_02"
+        },
+        "const3": {
+            "name": "The Burning Sun",
+            "description": "Increases the Level of <color=#FFD780FF>Hour of Burning Skies</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Mavuika_01"
+        },
+        "const4": {
+            "name": "The Leader's Resolve",
+            "description": "Enhances the effects of the Ascension Talent \"Kiongozi\":\\nThe DMG increase gained after using the Elemental Burst <color=#FFD780FF>Hour of Burning Skies</color> will not decay over time, and an additional 10% DMG Bonus will be gained.\\nYou must first unlock the Ascension Talent \"Kiongozi.\"",
+            "icon": "UI_Talent_S_Mavuika_03"
+        },
+        "const5": {
+            "name": "The Meaning of Truth",
+            "description": "Increases the Level of <color=#FFD780FF>The Named Moment</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Mavuika_02"
+        },
+        "const6": {
+            "name": "\"Humanity's Name\" Unfettered",
+            "description": "The All-Fire Armaments from the Elemental Skill <color=#FFD780FF>The Named Moment</color> receive all-round improvements:\\n· Ring of Searing Radiance: When the Ring's attacks hit opponents, a Flamestrider will crash into the struck opponent, dealing 200% of ATK as Nightsoul-aligned <color=#FF9999FF>AoE Pyro DMG</color>.\\n· Flamestrider: When Mavuika is riding the Flamestrider, she will also summon a Scorching Ring of Searing Radiance to follow her, which will decrease nearby opponents' DEF by 20% and deal 500% of ATK as Nightsoul-aligned <color=#FF9999FF>AoE Pyro DMG</color> to nearby opponents once every 3s. Mavuika's terrain-crossing abilities will also be further improved.\\n\\nAdditionally, when Mavuika is riding her Flamestrider and is not in combat, when her Nightsoul points drop to 5, she will gain 80 Nightsoul points. This effect can trigger once every 15s.",
+            "icon": "UI_Talent_S_Mavuika_04"
+        }
+    },
+    "energy": [
+        {
+            "source": "DropBall",
+            "particles": "5",
+            "chance": "100%",
+            "cd": "0.3s"
+        }
+    ],
+    "attacks": [
+        {
+            "name": "Motorcycle_ExtraAttack",
+            "icd_source": "Tag: MotorAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/120",
+            "element": "Fire"
+        },
+        {
+            "name": "Motorcycle_ExtraAttack",
+            "icd_source": "Tag: MotorAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/120",
+            "element": "Fire"
+        },
+        {
+            "name": "Gadget_ExtraAttackCollider",
+            "icd_source": "Tag: MotorAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/60",
+            "element": "Fire"
+        },
+        {
+            "name": "Gadget_ExtraAttackCollider",
+            "icd_source": "Tag: MotorAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/60",
+            "element": "Fire"
+        },
+        {
+            "name": "Gadget_SprintCollider",
+            "icd_source": "Tag: MotorAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/75",
+            "element": "Fire"
+        },
+        {
+            "name": "ElementalArt",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/75",
+            "element": "Fire"
+        },
+        {
+            "name": "Gadget_ArtHoldCollider",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/75",
+            "element": "Fire"
+        },
+        {
+            "name": "Gadget_BattleWeapon",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/50",
+            "element": "Fire"
+        },
+        {
+            "name": "Gadget_BattleWeapon",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV3/50",
+            "element": "Fire"
+        },
+        {
+            "name": "ElementalBurst",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV5/150",
+            "element": "Fire"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/200",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV4/150",
+            "element": "-"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: MotorAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "1U",
+            "poise": "LV7/150",
+            "element": "Fire"
+        },
+        {
+            "name": "FallingAnthem",
+            "icd_source": "Tag: FallingAttack (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV2/35",
+            "element": "-"
+        },
+        {
+            "name": "Constellation_6",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV7/75",
+            "element": "Fire"
+        },
+        {
+            "name": "Gadget_Constellation_BattleWeapon",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV3/100",
+            "element": "Fire"
+        },
+        {
+            "name": "Gadget_Constellation_BattleWeapon",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "icd_rule": "Independent",
+            "gauge": "0U",
+            "poise": "LV3/100",
+            "element": "Fire"
+        }
+    ]
+}

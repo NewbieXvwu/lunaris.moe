@@ -1,0 +1,1295 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104131": 1,
+            "104132": 9,
+            "104133": 9,
+            "104134": 6
+        },
+        "elitemonster": {
+            "113059": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101238": 168
+        },
+        "worldmonster": {
+            "112083": 18,
+            "112084": 30,
+            "112085": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "Grass",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "SkillObj_ElementalArt_Ousia_Gadget",
+            "poise": "LV3/20"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "ElementalArt",
+            "poise": "LV3/100"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Emilie_PermanentSkill_1 (!)",
+            "name": "SkillObj_ArtGadget",
+            "poise": "LV3/50"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_BurstGadget",
+            "poise": "LV3/40"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Burst (!)",
+            "name": "SkillObj_BurstGadget",
+            "poise": "LV3/40"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "2 hits / 2s",
+            "icd_source": "Tag: Emilie_ElementalArt_Bullet",
+            "name": "SkillObj_ArtGadget_Bullet_Material",
+            "poise": "LV1/30"
+        },
+        {
+            "element": "Grass",
+            "gauge": "1U",
+            "icd_rule": "2 hits / 2s",
+            "icd_source": "Tag: Emilie_ElementalArt_Bullet",
+            "name": "SkillObj_ArtGadget_Bullet2_Material",
+            "poise": "LV1/30"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/25"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/25"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV4/100"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV7/150"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "Aumenta o Dano causado por <color=#FFD780FF>Extração de Fragrância</color> e por Colônia do Orvalho do Talento de Ascensão \"Fragrância Residual\" em 20%. Para o segundo, é necessário primeiro desbloquear o Talento de Ascensão.\\nAlém disso, quando um personagem próximo da equipe desencadeia Queimadura no inimigo, ou quando causa <color=#99FF88FF>Dano Dendro</color> contra um inimigo que está Queimando, gera um <color=#FFD780FF>Aroma</color> adicional. Esse efeito pode ser desencadeado uma vez a cada 2.9s.",
+            "icon": "UI_Talent_S_Emilie_01",
+            "name": "Análise de Fragrância Leve"
+        },
+        "const2": {
+            "description": "Quando <color=#FFD780FF>Extração de Fragrância</color>, <color=#FFD780FF>Apresentação Aromática</color> ou Colônia do Orvalho produzidos pelo Talento de Ascensão \"Fragrância Residual\" (é necessário ter desbloqueado esse Talento de Ascensão) atingir um inimigo, a <color=#99FF88FF>RES Dendro</color> desse inimigo é reduzida em 30% por 10s.",
+            "icon": "UI_Talent_S_Emilie_02",
+            "name": "Harmonia de Luzes"
+        },
+        "const3": {
+            "description": "Aumenta o nível do <color=#FFD780FF>Extração de Fragrância</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Emilie_01",
+            "name": "Fragrâncias Reunidas"
+        },
+        "const4": {
+            "description": "Aumenta a duração de <color=#FFD780FF>Apresentação Aromática</color> em 2s, e o tempo para cada inimigo ser escolhido para ser atingido pela Chuva Aromática será reduzido em 0.3s.",
+            "icon": "UI_Talent_S_Emilie_03",
+            "name": "Aroma Lumidouce"
+        },
+        "const5": {
+            "description": "Aumenta o nível de <color=#FFD780FF>Apresentação Aromática</color> em 3.\\nO nível máximo de elevação é 15.",
+            "icon": "UI_Talent_U_Emilie_02",
+            "name": "Aroma do Orvalho Puro"
+        },
+        "const6": {
+            "description": "Ao lançar <color=#FFD780FF>Extração de Fragrância</color> ou <color=#FFD780FF>Apresentação Aromática</color>, Emilie obtém \"Aroma Remanescente\" por 5s.\\nNa duração, depois de fazer um Ataque Normal ou Carregado, gera um Aroma e os Ataques Normais e Carregados de Emilie serão convertidos em <color=#99FF88FF>Dano Dendro</color> que não pode ser substituído, e aumenta o Dano causado. O valor do aumento é equivalente a 300% do ATQ de Emilie.\\n\\nO efeito Aroma Remanescente será removido depois de gerar 4 Aromas dessa forma ou quando sua duração acabar. É possível obter o efeito Aroma Remanescente uma vez a cada 12s.",
+            "icon": "UI_Talent_S_Emilie_04",
+            "name": "Fragrância da Marcotte"
+        }
+    },
+    "energy": [
+        {
+            "cd": "Instant",
+            "chance": "100%",
+            "particles": "1",
+            "source": "Ball"
+        },
+        {
+            "cd": "Instant",
+            "chance": "100%",
+            "particles": "1",
+            "source": "Ball"
+        }
+    ],
+    "icons": {
+        "coop_img": "UI_CoopImg_Emilie",
+        "forward": "UI_AvatarIcon_Emilie"
+    },
+    "info": {
+        "attributes": [
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 57,
+                "hp": 1056,
+                "level": 1
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 62,
+                "hp": 1144,
+                "level": 2
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 66,
+                "hp": 1232,
+                "level": 3
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 71,
+                "hp": 1320,
+                "level": 4
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 76,
+                "hp": 1408,
+                "level": 5
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 37,
+                "def": 81,
+                "hp": 1497,
+                "level": 6
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 85,
+                "hp": 1584,
+                "level": 7
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 41,
+                "def": 90,
+                "hp": 1673,
+                "level": 8
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 43,
+                "def": 95,
+                "hp": 1762,
+                "level": 9
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 46,
+                "def": 100,
+                "hp": 1850,
+                "level": 10
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 48,
+                "def": 104,
+                "hp": 1938,
+                "level": 11
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 50,
+                "def": 109,
+                "hp": 2027,
+                "level": 12
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 52,
+                "def": 114,
+                "hp": 2116,
+                "level": 13
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 54,
+                "def": 119,
+                "hp": 2206,
+                "level": 14
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 57,
+                "def": 123,
+                "hp": 2294,
+                "level": 15
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 59,
+                "def": 128,
+                "hp": 2383,
+                "level": 16
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 61,
+                "def": 133,
+                "hp": 2473,
+                "level": 17
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 63,
+                "def": 138,
+                "hp": 2561,
+                "level": 18
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 65,
+                "def": 143,
+                "hp": 2651,
+                "level": 19
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 0,
+                "atk": 68,
+                "def": 147,
+                "hp": 2740,
+                "level": 20
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 92,
+                "def": 201,
+                "hp": 3735,
+                "level": 21
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 94,
+                "def": 206,
+                "hp": 3825,
+                "level": 22
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 97,
+                "def": 211,
+                "hp": 3915,
+                "level": 23
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 99,
+                "def": 215,
+                "hp": 4005,
+                "level": 24
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 101,
+                "def": 220,
+                "hp": 4095,
+                "level": 25
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 103,
+                "def": 225,
+                "hp": 4185,
+                "level": 26
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 106,
+                "def": 230,
+                "hp": 4275,
+                "level": 27
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 108,
+                "def": 235,
+                "hp": 4365,
+                "level": 28
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 110,
+                "def": 240,
+                "hp": 4456,
+                "level": 29
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 112,
+                "def": 245,
+                "hp": 4546,
+                "level": 30
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 114,
+                "def": 249,
+                "hp": 4636,
+                "level": 31
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 117,
+                "def": 254,
+                "hp": 4727,
+                "level": 32
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 119,
+                "def": 259,
+                "hp": 4818,
+                "level": 33
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 121,
+                "def": 264,
+                "hp": 4908,
+                "level": 34
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 123,
+                "def": 269,
+                "hp": 4999,
+                "level": 35
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 126,
+                "def": 274,
+                "hp": 5091,
+                "level": 36
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 128,
+                "def": 279,
+                "hp": 5181,
+                "level": 37
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 130,
+                "def": 284,
+                "hp": 5272,
+                "level": 38
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 132,
+                "def": 289,
+                "hp": 5363,
+                "level": 39
+            },
+            {
+                "CRIT DMG%": "0",
+                "ascension": 1,
+                "atk": 135,
+                "def": 294,
+                "hp": 5455,
+                "level": 40
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 153,
+                "def": 333,
+                "hp": 6189,
+                "level": 41
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 155,
+                "def": 338,
+                "hp": 6281,
+                "level": 42
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 157,
+                "def": 343,
+                "hp": 6373,
+                "level": 43
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 160,
+                "def": 348,
+                "hp": 6464,
+                "level": 44
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 162,
+                "def": 353,
+                "hp": 6556,
+                "level": 45
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 164,
+                "def": 358,
+                "hp": 6648,
+                "level": 46
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 166,
+                "def": 363,
+                "hp": 6740,
+                "level": 47
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 169,
+                "def": 368,
+                "hp": 6832,
+                "level": 48
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 171,
+                "def": 373,
+                "hp": 6925,
+                "level": 49
+            },
+            {
+                "CRIT DMG%": "9.6",
+                "ascension": 2,
+                "atk": 173,
+                "def": 378,
+                "hp": 7016,
+                "level": 50
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 197,
+                "def": 429,
+                "hp": 7966,
+                "level": 51
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 199,
+                "def": 434,
+                "hp": 8059,
+                "level": 52
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 201,
+                "def": 439,
+                "hp": 8151,
+                "level": 53
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 203,
+                "def": 444,
+                "hp": 8244,
+                "level": 54
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 206,
+                "def": 449,
+                "hp": 8337,
+                "level": 55
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 208,
+                "def": 454,
+                "hp": 8430,
+                "level": 56
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 210,
+                "def": 459,
+                "hp": 8523,
+                "level": 57
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 213,
+                "def": 464,
+                "hp": 8616,
+                "level": 58
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 215,
+                "def": 469,
+                "hp": 8709,
+                "level": 59
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 3,
+                "atk": 217,
+                "def": 474,
+                "hp": 8802,
+                "level": 60
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 235,
+                "def": 513,
+                "hp": 9538,
+                "level": 61
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 238,
+                "def": 518,
+                "hp": 9631,
+                "level": 62
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 240,
+                "def": 523,
+                "hp": 9725,
+                "level": 63
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 242,
+                "def": 528,
+                "hp": 9818,
+                "level": 64
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 245,
+                "def": 533,
+                "hp": 9912,
+                "level": 65
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 247,
+                "def": 538,
+                "hp": 10006,
+                "level": 66
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 249,
+                "def": 543,
+                "hp": 10099,
+                "level": 67
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 252,
+                "def": 549,
+                "hp": 10193,
+                "level": 68
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 254,
+                "def": 554,
+                "hp": 10287,
+                "level": 69
+            },
+            {
+                "CRIT DMG%": "19.2",
+                "ascension": 4,
+                "atk": 256,
+                "def": 559,
+                "hp": 10381,
+                "level": 70
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 274,
+                "def": 598,
+                "hp": 11119,
+                "level": 71
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 277,
+                "def": 603,
+                "hp": 11214,
+                "level": 72
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 279,
+                "def": 608,
+                "hp": 11308,
+                "level": 73
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 281,
+                "def": 614,
+                "hp": 11402,
+                "level": 74
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 284,
+                "def": 619,
+                "hp": 11497,
+                "level": 75
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 286,
+                "def": 624,
+                "hp": 11591,
+                "level": 76
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 288,
+                "def": 629,
+                "hp": 11686,
+                "level": 77
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 291,
+                "def": 634,
+                "hp": 11781,
+                "level": 78
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 293,
+                "def": 639,
+                "hp": 11876,
+                "level": 79
+            },
+            {
+                "CRIT DMG%": "28.8",
+                "ascension": 5,
+                "atk": 295,
+                "def": 644,
+                "hp": 11971,
+                "level": 80
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 314,
+                "def": 684,
+                "hp": 12710,
+                "level": 81
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 316,
+                "def": 689,
+                "hp": 12805,
+                "level": 82
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 318,
+                "def": 694,
+                "hp": 12900,
+                "level": 83
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 321,
+                "def": 699,
+                "hp": 12995,
+                "level": 84
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 323,
+                "def": 704,
+                "hp": 13090,
+                "level": 85
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 325,
+                "def": 710,
+                "hp": 13186,
+                "level": 86
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 328,
+                "def": 715,
+                "hp": 13281,
+                "level": 87
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 330,
+                "def": 720,
+                "hp": 13377,
+                "level": 88
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 333,
+                "def": 725,
+                "hp": 13473,
+                "level": 89
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 335,
+                "def": 730,
+                "hp": 13568,
+                "level": 90
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 373,
+                "def": 756,
+                "hp": 14050,
+                "level": 95
+            },
+            {
+                "CRIT DMG%": "38.4",
+                "ascension": 6,
+                "atk": 410,
+                "def": 782,
+                "hp": 14533,
+                "level": 100
+            }
+        ],
+        "birthday": "September 22nd",
+        "constellation": "Pomum de Ambra",
+        "description": "Uma perfumista de Fontaine que engarrafa segredos.",
+        "element": "Dendro",
+        "name": "Emilie",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_POLE"
+    },
+    "passives": {
+        "p1": {
+            "description": "A cada 2 <color=#FFD780FF>Aromas</color> coletados, a Caixa Lumidouce nível 2 consumirá os Aromas e lançará Colônia do Orvalho que causa 600% do ATQ de Emilie como <color=#99FF88FF>Dano Dendro em AdE</color>. Esse Dano não é considerado de Habilidade Elemental.",
+            "icon": "UI_Talent_S_Emilie_05",
+            "name": "Fragrância Residual"
+        },
+        "p2": {
+            "description": "Emilie causa Dano aumentado a oponentes com o efeito de \"Queimaduras\" baseado em seu ATQ, aumentando o Dano em 15% para cada 1.000 de ATQ. O bônus máximo de dano que pode ser obtido dessa forma é de 36%.",
+            "icon": "UI_Talent_S_Emilie_06",
+            "name": "Retificação"
+        },
+        "p3": {
+            "description": "Quando uma Caixa Lumidouce criada por Emilie está no campo, todos os membros da equipe ganham 85% de <color=#FF9999FF>RES Pyro</color> contra dano de Queimaduras.",
+            "icon": "UI_Talent_S_Emilie_07",
+            "name": "Captura do Espaço"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Guiando as fragrâncias reunidas dentro da Caixa, Emilie as converte em energia Dendro pura, criando uma Caixa Lumidouce de nível 3 e absorvendo a Caixa Lumidouce que possui.\\nNa duração, a Caixa Lumidouce de nível 3 coletará o Aroma próximo e continuamente fará cair Chuva Aromática, atacando os inimigos dentro de uma AdE e causando <color=#99FF88FF>Dano Dendro</color>. Na duração, uma Chuva Aromática cairá a cada 0.3s e cada inimigo será escolhido como um alvo a cada 0.7s.\\nQuando a duração acabar, criará novamente uma Caixa Lumidouce de nível 1. Se ao lançar Apresentação Aromática absorver a Caixa Lumidouce, a Caixa Lumidouce que foi absorvida será colocada, e sua duração será redefinida.\\nNa duração de <color=#FFD780FF>Apresentação Aromática</color>, lançar a Habilidade Elemental \"Extração de Fragrância\" não gerará uma Caixa Lumidouce.\\n\\n<i>Não importa qual o perfume, ele começa a mudar assim que entra em contato com o ar até se dissipar com os suspiros do vento, das árvores e grama. Nesse sentido, nenhuma pessoa apreciará a mesma fragrância.\\nAssim é o caminho tomado por todos na vida. É por isso que se pode considerar perfumes uma explicação para a vida humana.</i>",
+            "icon": "Skill_E_Emilie_01",
+            "multipliers": {
+                "Dano de Ataque da Caixa Lumidouce Nv.3": [
+                    "217.2%",
+                    "233.49%",
+                    "249.78%",
+                    "271.5%",
+                    "287.79%",
+                    "304.08%",
+                    "325.8%",
+                    "347.52%",
+                    "369.24%",
+                    "390.96%",
+                    "412.68%",
+                    "434.4%",
+                    "461.55%",
+                    "488.7%",
+                    "515.85%"
+                ],
+                "Duração da Caixa Lumidouce Nv.3": [
+                    "2.8s",
+                    "2.8s",
+                    "2.8s",
+                    "2.8s",
+                    "2.8s",
+                    "2.8s",
+                    "2.8s",
+                    "2.8s",
+                    "2.8s",
+                    "2.8s",
+                    "2.8s",
+                    "2.8s",
+                    "2.8s",
+                    "2.8s",
+                    "2.8s"
+                ],
+                "Energia Elemental": [
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50",
+                    "50"
+                ],
+                "Tempo de Recarga": [
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s",
+                    "13.5s"
+                ]
+            },
+            "name": "Apresentação Aromática"
+        },
+        "elementalskill": {
+            "description": "Cria uma Caixa Lumidouce que causa <color=#99FF88FF>Dano Dendro em AdE</color>.\\n\\n<color=#FFD780FF>Caixa Lumidouce</color>\\n· Periodicamente dispara \"Suspiro de Orvalho Puro\" contra os inimigos próximos, causando <color=#99FF88FF>Dano Dendro</color>.\\n· Quando há um inimigo perto que está Queimando, periodicamente gera \"Aroma\"... É possível gerar até um Aroma dessa forma a cada 2s. A Caixa Lumidouce coleta os Aromas próximos, e depois de coletar dois, aumenta seu nível, fazendo com que ao disparar um Suspiro do Orvalho Puro, dispare um a mais, e aumente o Dano causado e a AdE.\\n· Só é possível existir uma Caixa Lumidouce criada por Emilie simultaneamente. Quando a Caixa Lumidouce for criada, seu nível inicial será 1 e pode ser elevado até 2. Quando estiver em campo, se não coletar nenhum Aroma dentro de 8s, a Caixa Lumidouce retornará para o nível 1.\\n\\n<color=#FFD780FF>Arkhe: Pneuma</color>\\nPeriodicamente, depois de Emilie criar uma Caixa Lumidouce dessa forma, fará cair um Espinho Espiritual em frente que perfura os inimigos, causando <color=#99FF88FF>Dano Dendro</color> com Pneuma.\\n<i>\"O mundo é uma harmonia infinita de fragrâncias, cores e canções.\"</i>",
+            "icon": "Skill_S_Emilie_01",
+            "multipliers": {
+                "Dano de Ataque da Caixa Lumidouce Nv.1": [
+                    "39.6%",
+                    "42.57%",
+                    "45.54%",
+                    "49.5%",
+                    "52.47%",
+                    "55.44%",
+                    "59.4%",
+                    "63.36%",
+                    "67.32%",
+                    "71.28%",
+                    "75.24%",
+                    "79.2%",
+                    "84.15%",
+                    "89.1%",
+                    "94.05%"
+                ],
+                "Dano de Ataque da Caixa Lumidouce Nv.2": [
+                    "84%x2",
+                    "90.3%x2",
+                    "96.6%x2",
+                    "105%x2",
+                    "111.3%x2",
+                    "117.6%x2",
+                    "126%x2",
+                    "134.4%x2",
+                    "142.8%x2",
+                    "151.2%x2",
+                    "159.6%x2",
+                    "168%x2",
+                    "178.5%x2",
+                    "189%x2",
+                    "199.5%x2"
+                ],
+                "Dano de Habilidade": [
+                    "47.08%",
+                    "50.61%",
+                    "54.14%",
+                    "58.85%",
+                    "62.38%",
+                    "65.91%",
+                    "70.62%",
+                    "75.33%",
+                    "80.04%",
+                    "84.74%",
+                    "89.45%",
+                    "94.16%",
+                    "100.05%",
+                    "105.93%",
+                    "111.81%"
+                ],
+                "Dano do Espinho Espiritual": [
+                    "38.52%",
+                    "41.41%",
+                    "44.3%",
+                    "48.15%",
+                    "51.04%",
+                    "53.93%",
+                    "57.78%",
+                    "61.63%",
+                    "65.48%",
+                    "69.34%",
+                    "73.19%",
+                    "77.04%",
+                    "81.85%",
+                    "86.67%",
+                    "91.48%"
+                ],
+                "Duração da Caixa Lumidouce": [
+                    "22s",
+                    "22s",
+                    "22s",
+                    "22s",
+                    "22s",
+                    "22s",
+                    "22s",
+                    "22s",
+                    "22s",
+                    "22s",
+                    "22s",
+                    "22s",
+                    "22s",
+                    "22s",
+                    "22s"
+                ],
+                "Intervalo do Espinho Espiritual": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ],
+                "Tempo de Recarga da Habilidade": [
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s",
+                    "14s"
+                ]
+            },
+            "name": "Extração de Fragrância"
+        },
+        "leveling": {
+            "books": {
+                "104344": 9,
+                "104345": 63,
+                "104346": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113061": 18
+            },
+            "worldmonster": {
+                "112083": 18,
+                "112084": 66,
+                "112085": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Ataque Normal</color>\\nRealiza até 4 golpes rápidos.\\n\\n<color=#FFD780FF>Ataque Carregado</color>\\nConsome uma certa quantidade de Stamina para desferir um golpe com salto para cima.\\n\\n<color=#FFD780FF>Ataque Imersivo</color>\\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+            "icon": "Skill_A_03",
+            "multipliers": {
+                "Consumo de Stamina de Ataque Carregado": [
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25",
+                    "25"
+                ],
+                "Dano Durante a Queda": [
+                    "63.93%",
+                    "69.14%",
+                    "74.34%",
+                    "81.77%",
+                    "86.98%",
+                    "92.93%",
+                    "101.1%",
+                    "109.28%",
+                    "117.46%",
+                    "126.38%",
+                    "135.3%",
+                    "144.22%",
+                    "153.14%",
+                    "162.06%",
+                    "170.98%"
+                ],
+                "Dano de Ataque Carregado": [
+                    "91.33%",
+                    "98.77%",
+                    "106.2%",
+                    "116.82%",
+                    "124.25%",
+                    "132.75%",
+                    "144.43%",
+                    "156.11%",
+                    "167.8%",
+                    "180.54%",
+                    "193.28%",
+                    "206.03%",
+                    "218.77%",
+                    "231.52%",
+                    "244.26%"
+                ],
+                "Dano de Queda de Baixa/Alta Altitude": [
+                    "127.84%/159.68%",
+                    "138.24%/172.67%",
+                    "148.65%/185.67%",
+                    "163.51%/204.24%",
+                    "173.92%/217.23%",
+                    "185.81%/232.09%",
+                    "202.16%/252.51%",
+                    "218.51%/272.93%",
+                    "234.86%/293.36%",
+                    "252.7%/315.64%",
+                    "270.54%/337.92%",
+                    "288.38%/360.2%",
+                    "306.22%/382.48%",
+                    "324.05%/404.76%",
+                    "341.89%/427.04%"
+                ],
+                "Dano do 1° Golpe": [
+                    "48.56%",
+                    "52.51%",
+                    "56.47%",
+                    "62.11%",
+                    "66.07%",
+                    "70.58%",
+                    "76.79%",
+                    "83%",
+                    "89.22%",
+                    "95.99%",
+                    "102.77%",
+                    "109.54%",
+                    "116.32%",
+                    "123.1%",
+                    "129.87%"
+                ],
+                "Dano do 2° Golpe": [
+                    "44.9%",
+                    "48.55%",
+                    "52.2%",
+                    "57.42%",
+                    "61.08%",
+                    "65.25%",
+                    "71%",
+                    "76.74%",
+                    "82.48%",
+                    "88.75%",
+                    "95.01%",
+                    "101.28%",
+                    "107.54%",
+                    "113.8%",
+                    "120.07%"
+                ],
+                "Dano do 3° Golpe": [
+                    "59.3%",
+                    "64.13%",
+                    "68.95%",
+                    "75.85%",
+                    "80.68%",
+                    "86.19%",
+                    "93.78%",
+                    "101.36%",
+                    "108.95%",
+                    "117.22%",
+                    "125.5%",
+                    "133.77%",
+                    "142.05%",
+                    "150.32%",
+                    "158.59%"
+                ],
+                "Dano do 4° Golpe": [
+                    "75.1%",
+                    "81.22%",
+                    "87.33%",
+                    "96.06%",
+                    "102.17%",
+                    "109.16%",
+                    "118.77%",
+                    "128.37%",
+                    "137.98%",
+                    "148.46%",
+                    "158.94%",
+                    "169.42%",
+                    "179.9%",
+                    "190.38%",
+                    "200.86%"
+                ]
+            },
+            "name": "Lança do Marechalato (Modificado)"
+        }
+    }
+}

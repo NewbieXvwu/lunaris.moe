@@ -1,0 +1,1265 @@
+{
+    "ascension": {
+        "202": 7049900,
+        "elemental": {
+            "104121": 1,
+            "104122": 9,
+            "104123": 9,
+            "104124": 6
+        },
+        "elitemonster": {
+            "113057": 46
+        },
+        "exp": {
+            "104001": 2,
+            "104003": 418
+        },
+        "speciality": {
+            "101233": 168
+        },
+        "worldmonster": {
+            "112080": 18,
+            "112081": 30,
+            "112082": 36
+        }
+    },
+    "attacks": [
+        {
+            "element": "-",
+            "gauge": "4U",
+            "icd_rule": "13 hits / 2s",
+            "icd_source": "Grp: Sigewinne_ElementalArt (Tag Miss)",
+            "name": "ShootArrow_Enchanted_WithoutWater",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "13 hits / 2s",
+            "icd_source": "Grp: Sigewinne_ElementalArt (Tag Miss)",
+            "name": "Bullet_ShootArrow_WithWater",
+            "poise": "LV2/20"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "13 hits / 2s",
+            "icd_source": "Grp: Sigewinne_ElementalArt (Tag Miss)",
+            "name": "Extra_Bubble_Bullet",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "Water",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: Elemental_Art (!)",
+            "name": "EArt_Bullet_Normal",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "13 hits / 2s",
+            "icd_source": "Grp: Sigewinne_ElementalArt (Tag Miss)",
+            "name": "EArt_Bullet_Normal",
+            "poise": "LV1/100"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "13 hits / 2s",
+            "icd_source": "Grp: Sigewinne_ElementalArt (Tag Miss)",
+            "name": "EArt_Bullet_Normal",
+            "poise": "LV1/150"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "13 hits / 2s",
+            "icd_source": "Grp: Sigewinne_ElementalArt (Tag Miss)",
+            "name": "EArt_Bullet_Normal",
+            "poise": "LV1/200"
+        },
+        {
+            "element": "Water",
+            "gauge": "1U",
+            "icd_rule": "13 hits / 1.9s",
+            "icd_source": "Grp: Sigewinne_ElementalBurst (Tag Miss)",
+            "name": "ElementalBurst_Attack_Bullet",
+            "poise": "LV2/100"
+        },
+        {
+            "element": "-",
+            "gauge": "0U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/10"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV2/50"
+        },
+        {
+            "element": "-",
+            "gauge": "1U",
+            "icd_rule": "Independent",
+            "icd_source": "Tag: FallingAttack (!)",
+            "name": "FallingAnthem",
+            "poise": "LV3/100"
+        }
+    ],
+    "constellations": {
+        "const1": {
+            "description": "<color=#FFD780FF>Rebound Hydrotherapy</color>'s Bolstering Bubblebalm can bounce 3 extra times, and the first 3 bounces will not cause big Bubblebalms to become smaller.\\nThe Ascension Talent \"Requires Appropriate Rest\" is enhanced: Each Bubblebalm bounce adds 1 stack to her Convalescence tally, and the values for the Convalescence stacks' DMG bonus will be modified to: Every 1,000 max HP Sigewinne has above 30,000 increases the DMG by 100. The maximum DMG increase for Elemental Skills that can be gained in this way is 3,500. You must first unlock the Ascension Talent \"Requires Appropriate Rest.\"",
+            "icon": "UI_Talent_S_Sigewinne_01",
+            "name": "\"Can the Happiest of Spirits Understand Anxiety?\""
+        },
+        "const2": {
+            "description": "When using <color=#FFD780FF>Rebound Hydrotherapy</color> and <color=#FFD780FF>Super Saturated Syringing</color>, Sigewinne can create a Bubbly Shield worth 30% of her Max HP that absorbs <color=#80C0FFFF>Hydro DMG</color> with 250% efficiency. The Bubbly Shield will persist until Sigewinne finishes using relevant skills.\\nAdditionally, after Rebound Hydrotherapy's Bolstering Bubblebalm or Super Saturated Syringing hits an opponent, that opponent's <color=#80C0FFFF>Hydro RES</color> will be decreased by 35% for 8s.",
+            "icon": "UI_Talent_S_Sigewinne_02",
+            "name": "\"Can the Most Merciful of Spirits Defeat Its Foes?\""
+        },
+        "const3": {
+            "description": "Increases the Level of <color=#FFD780FF>Rebound Hydrotherapy</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Sigewinne_01",
+            "name": "\"Can the Healthiest of Spirits Cure Fevers?\""
+        },
+        "const4": {
+            "description": "The duration of <color=#FFD780FF>Super Saturated Syringing</color> is extended by 3s.",
+            "icon": "UI_Talent_S_Sigewinne_03",
+            "name": "\"Can the Loveliest of Spirits Keep Decay at Bay?\""
+        },
+        "const5": {
+            "description": "Increases the Level of <color=#FFD780FF>Super Saturated Syringing</color> by 3.\\nMaximum upgrade level is 15.",
+            "icon": "UI_Talent_U_Sigewinne_02",
+            "name": "\"Can the Most Joyful of Spirits Alleviate Agony?\""
+        },
+        "const6": {
+            "description": "When Sigewinne performs healing, she will increase the CRIT Rate and CRIT DMG of her <color=#FFD780FF>Super Saturated Syringing</color> based on her Max HP. Every 1,000 Max HP she has will increase CRIT Rate by 0.4% and CRIT DMG by 2.2% for 15s. The maximum increase achievable this way is 20% CRIT Rate and 110% CRIT DMG.",
+            "icon": "UI_Talent_S_Sigewinne_04",
+            "name": "\"Can the Most Radiant of Spirits Pray For Me?\""
+        }
+    },
+    "energy": [],
+    "icons": {
+        "coop_img": "UI_CoopImg_Sigewinne",
+        "forward": "UI_AvatarIcon_Sigewinne"
+    },
+    "info": {
+        "attributes": [
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 15,
+                "def": 39,
+                "hp": 1039,
+                "level": 1
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 16,
+                "def": 42,
+                "hp": 1125,
+                "level": 2
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 17,
+                "def": 45,
+                "hp": 1212,
+                "level": 3
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 19,
+                "def": 49,
+                "hp": 1299,
+                "level": 4
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 20,
+                "def": 52,
+                "hp": 1385,
+                "level": 5
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 21,
+                "def": 55,
+                "hp": 1472,
+                "level": 6
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 22,
+                "def": 58,
+                "hp": 1559,
+                "level": 7
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 24,
+                "def": 62,
+                "hp": 1646,
+                "level": 8
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 25,
+                "def": 65,
+                "hp": 1733,
+                "level": 9
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 26,
+                "def": 68,
+                "hp": 1819,
+                "level": 10
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 28,
+                "def": 71,
+                "hp": 1907,
+                "level": 11
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 29,
+                "def": 75,
+                "hp": 1994,
+                "level": 12
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 30,
+                "def": 78,
+                "hp": 2081,
+                "level": 13
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 31,
+                "def": 81,
+                "hp": 2170,
+                "level": 14
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 33,
+                "def": 84,
+                "hp": 2257,
+                "level": 15
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 34,
+                "def": 88,
+                "hp": 2344,
+                "level": 16
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 35,
+                "def": 91,
+                "hp": 2433,
+                "level": 17
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 36,
+                "def": 94,
+                "hp": 2520,
+                "level": 18
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 38,
+                "def": 98,
+                "hp": 2608,
+                "level": 19
+            },
+            {
+                "HP%": "0",
+                "ascension": 0,
+                "atk": 39,
+                "def": 101,
+                "hp": 2695,
+                "level": 20
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 53,
+                "def": 138,
+                "hp": 3675,
+                "level": 21
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 54,
+                "def": 141,
+                "hp": 3763,
+                "level": 22
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 56,
+                "def": 144,
+                "hp": 3851,
+                "level": 23
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 57,
+                "def": 147,
+                "hp": 3940,
+                "level": 24
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 58,
+                "def": 151,
+                "hp": 4028,
+                "level": 25
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 59,
+                "def": 154,
+                "hp": 4117,
+                "level": 26
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 61,
+                "def": 157,
+                "hp": 4206,
+                "level": 27
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 62,
+                "def": 161,
+                "hp": 4294,
+                "level": 28
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 63,
+                "def": 164,
+                "hp": 4383,
+                "level": 29
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 65,
+                "def": 167,
+                "hp": 4472,
+                "level": 30
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 66,
+                "def": 171,
+                "hp": 4561,
+                "level": 31
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 67,
+                "def": 174,
+                "hp": 4650,
+                "level": 32
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 68,
+                "def": 177,
+                "hp": 4740,
+                "level": 33
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 70,
+                "def": 181,
+                "hp": 4828,
+                "level": 34
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 71,
+                "def": 184,
+                "hp": 4918,
+                "level": 35
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 72,
+                "def": 187,
+                "hp": 5008,
+                "level": 36
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 74,
+                "def": 191,
+                "hp": 5097,
+                "level": 37
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 75,
+                "def": 194,
+                "hp": 5187,
+                "level": 38
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 76,
+                "def": 197,
+                "hp": 5276,
+                "level": 39
+            },
+            {
+                "HP%": "0",
+                "ascension": 1,
+                "atk": 77,
+                "def": 201,
+                "hp": 5366,
+                "level": 40
+            },
+            {
+                "HP%": "7.2",
+                "ascension": 2,
+                "atk": 88,
+                "def": 228,
+                "hp": 6089,
+                "level": 41
+            },
+            {
+                "HP%": "7.2",
+                "ascension": 2,
+                "atk": 89,
+                "def": 231,
+                "hp": 6179,
+                "level": 42
+            },
+            {
+                "HP%": "7.2",
+                "ascension": 2,
+                "atk": 90,
+                "def": 235,
+                "hp": 6270,
+                "level": 43
+            },
+            {
+                "HP%": "7.2",
+                "ascension": 2,
+                "atk": 92,
+                "def": 238,
+                "hp": 6359,
+                "level": 44
+            },
+            {
+                "HP%": "7.2",
+                "ascension": 2,
+                "atk": 93,
+                "def": 241,
+                "hp": 6449,
+                "level": 45
+            },
+            {
+                "HP%": "7.2",
+                "ascension": 2,
+                "atk": 94,
+                "def": 245,
+                "hp": 6540,
+                "level": 46
+            },
+            {
+                "HP%": "7.2",
+                "ascension": 2,
+                "atk": 96,
+                "def": 248,
+                "hp": 6630,
+                "level": 47
+            },
+            {
+                "HP%": "7.2",
+                "ascension": 2,
+                "atk": 97,
+                "def": 252,
+                "hp": 6721,
+                "level": 48
+            },
+            {
+                "HP%": "7.2",
+                "ascension": 2,
+                "atk": 98,
+                "def": 255,
+                "hp": 6812,
+                "level": 49
+            },
+            {
+                "HP%": "7.2",
+                "ascension": 2,
+                "atk": 100,
+                "def": 258,
+                "hp": 6902,
+                "level": 50
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 3,
+                "atk": 113,
+                "def": 293,
+                "hp": 7837,
+                "level": 51
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 3,
+                "atk": 114,
+                "def": 297,
+                "hp": 7928,
+                "level": 52
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 3,
+                "atk": 116,
+                "def": 300,
+                "hp": 8019,
+                "level": 53
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 3,
+                "atk": 117,
+                "def": 304,
+                "hp": 8110,
+                "level": 54
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 3,
+                "atk": 118,
+                "def": 307,
+                "hp": 8202,
+                "level": 55
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 3,
+                "atk": 120,
+                "def": 310,
+                "hp": 8293,
+                "level": 56
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 3,
+                "atk": 121,
+                "def": 314,
+                "hp": 8385,
+                "level": 57
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 3,
+                "atk": 122,
+                "def": 317,
+                "hp": 8476,
+                "level": 58
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 3,
+                "atk": 124,
+                "def": 321,
+                "hp": 8567,
+                "level": 59
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 3,
+                "atk": 125,
+                "def": 324,
+                "hp": 8659,
+                "level": 60
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 4,
+                "atk": 135,
+                "def": 351,
+                "hp": 9383,
+                "level": 61
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 4,
+                "atk": 137,
+                "def": 355,
+                "hp": 9475,
+                "level": 62
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 4,
+                "atk": 138,
+                "def": 358,
+                "hp": 9567,
+                "level": 63
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 4,
+                "atk": 139,
+                "def": 361,
+                "hp": 9659,
+                "level": 64
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 4,
+                "atk": 141,
+                "def": 365,
+                "hp": 9751,
+                "level": 65
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 4,
+                "atk": 142,
+                "def": 368,
+                "hp": 9844,
+                "level": 66
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 4,
+                "atk": 143,
+                "def": 372,
+                "hp": 9935,
+                "level": 67
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 4,
+                "atk": 145,
+                "def": 375,
+                "hp": 10028,
+                "level": 68
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 4,
+                "atk": 146,
+                "def": 379,
+                "hp": 10120,
+                "level": 69
+            },
+            {
+                "HP%": "14.4",
+                "ascension": 4,
+                "atk": 147,
+                "def": 382,
+                "hp": 10213,
+                "level": 70
+            },
+            {
+                "HP%": "21.6",
+                "ascension": 5,
+                "atk": 158,
+                "def": 409,
+                "hp": 10938,
+                "level": 71
+            },
+            {
+                "HP%": "21.6",
+                "ascension": 5,
+                "atk": 159,
+                "def": 413,
+                "hp": 11032,
+                "level": 72
+            },
+            {
+                "HP%": "21.6",
+                "ascension": 5,
+                "atk": 160,
+                "def": 416,
+                "hp": 11124,
+                "level": 73
+            },
+            {
+                "HP%": "21.6",
+                "ascension": 5,
+                "atk": 162,
+                "def": 420,
+                "hp": 11217,
+                "level": 74
+            },
+            {
+                "HP%": "21.6",
+                "ascension": 5,
+                "atk": 163,
+                "def": 423,
+                "hp": 11310,
+                "level": 75
+            },
+            {
+                "HP%": "21.6",
+                "ascension": 5,
+                "atk": 164,
+                "def": 427,
+                "hp": 11403,
+                "level": 76
+            },
+            {
+                "HP%": "21.6",
+                "ascension": 5,
+                "atk": 166,
+                "def": 430,
+                "hp": 11496,
+                "level": 77
+            },
+            {
+                "HP%": "21.6",
+                "ascension": 5,
+                "atk": 167,
+                "def": 434,
+                "hp": 11590,
+                "level": 78
+            },
+            {
+                "HP%": "21.6",
+                "ascension": 5,
+                "atk": 169,
+                "def": 437,
+                "hp": 11683,
+                "level": 79
+            },
+            {
+                "HP%": "21.6",
+                "ascension": 5,
+                "atk": 170,
+                "def": 441,
+                "hp": 11777,
+                "level": 80
+            },
+            {
+                "HP%": "28.8",
+                "ascension": 6,
+                "atk": 180,
+                "def": 468,
+                "hp": 12503,
+                "level": 81
+            },
+            {
+                "HP%": "28.8",
+                "ascension": 6,
+                "atk": 182,
+                "def": 471,
+                "hp": 12597,
+                "level": 82
+            },
+            {
+                "HP%": "28.8",
+                "ascension": 6,
+                "atk": 183,
+                "def": 475,
+                "hp": 12690,
+                "level": 83
+            },
+            {
+                "HP%": "28.8",
+                "ascension": 6,
+                "atk": 184,
+                "def": 478,
+                "hp": 12784,
+                "level": 84
+            },
+            {
+                "HP%": "28.8",
+                "ascension": 6,
+                "atk": 186,
+                "def": 482,
+                "hp": 12877,
+                "level": 85
+            },
+            {
+                "HP%": "28.8",
+                "ascension": 6,
+                "atk": 187,
+                "def": 485,
+                "hp": 12972,
+                "level": 86
+            },
+            {
+                "HP%": "28.8",
+                "ascension": 6,
+                "atk": 188,
+                "def": 489,
+                "hp": 13065,
+                "level": 87
+            },
+            {
+                "HP%": "28.8",
+                "ascension": 6,
+                "atk": 190,
+                "def": 493,
+                "hp": 13160,
+                "level": 88
+            },
+            {
+                "HP%": "28.8",
+                "ascension": 6,
+                "atk": 191,
+                "def": 496,
+                "hp": 13255,
+                "level": 89
+            },
+            {
+                "HP%": "28.8",
+                "ascension": 6,
+                "atk": 193,
+                "def": 500,
+                "hp": 13348,
+                "level": 90
+            },
+            {
+                "HP%": "28.8",
+                "ascension": 6,
+                "atk": 214,
+                "def": 517,
+                "hp": 13822,
+                "level": 95
+            },
+            {
+                "HP%": "28.8",
+                "ascension": 6,
+                "atk": 236,
+                "def": 535,
+                "hp": 14297,
+                "level": 100
+            }
+        ],
+        "birthday": "March 30th",
+        "constellation": "Nereides",
+        "description": "A Melusine and the Fortress of Meropide's head nurse. She cares equally for every convict locked in the undersea prison.",
+        "element": "Hydro",
+        "name": "Sigewinne",
+        "rarity": "QUALITY_ORANGE",
+        "weapon": "WEAPON_BOW"
+    },
+    "passives": {
+        "p1": {
+            "description": "Sigewinne grants herself the \"Semi-Strict Bedrest\" effect for 18s after using <color=#FFD780FF>Rebound Hydrotherapy</color>: Sigewinne gains an 8% <color=#80C0FFFF>Hydro DMG Bonus</color> and 10 stacks of Convalescence. When the Elemental Skills of your nearby off-field party members other than Sigewinne deal DMG, consume 1 stack of Convalescence, and increase the DMG dealt by this instance of Elemental Skill DMG. Every 1,000 Max HP Sigewinne has above 30,000 increases the DMG by 80. The maximum DMG increase for Elemental Skills that can be gained in this way is 2,800.",
+            "icon": "UI_Talent_S_Sigewinne_05",
+            "name": "Requires Appropriate Rest"
+        },
+        "p2": {
+            "description": "When Sigewinne performs healing, the amount healed for this instance is increased based on the total current value of the Bonds of Life on all party members: For each 1,000 HP worth of Bonds of Life, the outgoing healing is increased by 3%. The amount of healing provided can be increased by up to 30% in this way.",
+            "icon": "UI_Talent_S_Sigewinne_06",
+            "name": "Detailed Diagnosis, Thorough Treatment"
+        },
+        "p3": {
+            "description": "While underwater, heals your active character over 2.5s when their HP falls under 50%. The amount healed is equal to 50% of their Max HP, and their All Elemental and Physical RES will be decreased by 10% for 10s. This effect can be triggered up to once every 20s.",
+            "icon": "UI_Talent_S_Sigewinne_07",
+            "name": "Emergency Dose"
+        },
+        "p4": ""
+    },
+    "skills": {
+        "elementalburst": {
+            "description": "Takes out a special Fortress of Meropide-made syringe and assault the area in front with waves of kindness and medicine, dealing <color=#80C0FFFF>AoE Hydro DMG</color> based on Sigewinne's max HP.\\nIn addition, Sigewinne absorbs up to 2 nearby Sourcewater Droplets within a certain range when she uses this skill.\\n\\n<i>\"Hey, overdosing on medicine is no different from poison, you know, it's real dangerous! But patients need care and concern, and nobody can overdose on that!\"</i>",
+            "icon": "Skill_E_Sigewinne_01",
+            "multipliers": {
+                "CD": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ],
+                "Duration": [
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s",
+                    "2.5s"
+                ],
+                "Energy Cost": [
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70",
+                    "70"
+                ],
+                "Skill DMG": [
+                    "11.77% Max HP",
+                    "12.65% Max HP",
+                    "13.54% Max HP",
+                    "14.71% Max HP",
+                    "15.6% Max HP",
+                    "16.48% Max HP",
+                    "17.66% Max HP",
+                    "18.83% Max HP",
+                    "20.01% Max HP",
+                    "21.19% Max HP",
+                    "22.36% Max HP",
+                    "23.54% Max HP",
+                    "25.01% Max HP",
+                    "26.48% Max HP",
+                    "27.96% Max HP"
+                ]
+            },
+            "name": "Super Saturated Syringing"
+        },
+        "elementalskill": {
+            "description": "Blows a <color=#FFD780FF>Bolstering Bubblebalm</color> that can stimulate blood flow and help patients drift off to sleep using a bubblegun specially made in the Fortress of Meropide.\\nBolstering Bubblebalms will bounce between nearby opponents, dealing <color=#80C0FFFF>Hydro DMG</color> based on Sigewinne's max HP to opponents it hits. When it bounces, it will restore HP to all nearby party members except Sigewinne herself. The amount healed is based on Sigewinne's max HP.\\nAfter bouncing 5 times, the Bolstering Bubblebalm will disappear and restore HP to Sigewinne based on her max HP value.\\nWhen no opponents are present, the Bolstering Bubblebalm will bounce nearby. Only one Bolstering Bubblebalm created by a Sigewinne may exist at once.\\nWhen Held, the Bolstering Bubblebalm can be boosted to an even bigger size.\\n\\n<color=#FFD780FF>Hold</color>\\nEnter Aiming Mode to begin blowing an even bigger, even more breathtaking Bolstering Bubblebalm!\\nThe Bolstering Bubblebalm will grow bigger the longer the skill is Held, until it grows up to two tiers in size. Each tier it grows increases its DMG by 5% and healing by 5%. When a Bolstering Bubblebalm bounces, it will drop down a tier in size, until it returns to being a normal Bolstering Bubblebalm.\\nAfter weaker opponents are hit by big Bolstering Bubblebalms, they will be imprisoned and will be unable to move.\\n\\nIn addition, 2 Sourcewater Droplets will be created near Sigewinne when she uses this Skill. Each Sourcewater Droplet Sigewinne collects will grant her a Bond of Life worth 10% of her Max HP.\\nWhen Sigewinne's Bond of Life is cleared, she regains 1 Elemental Energy for every 2,000 HP worth of the Bond of Life that was cleared. Sigewinne can regain up to 5 Elemental Energy in this way.\\n\\n<color=#FFD780FF>Arkhe: Ousia</color>\\nBolstering Bubblebalms periodically call down a Surging Blade on the position they hit, dealing Ousia-aligned <color=#80C0FFFF>Hydro DMG</color> based on Sigewinne's max HP.\\n\\n<i>\"What do you think? Not only can this kind of hydrotherapy stimulate the circulatory system, but it can also cheer patients up, ooh, and that's not all, it can even help patients who ought to get some rest have a nice nap...\"</i>",
+            "icon": "Skill_S_Sigewinne_01",
+            "multipliers": {
+                "Bolstering Bubblebalm DMG": [
+                    "2.28% Max HP",
+                    "2.45% Max HP",
+                    "2.62% Max HP",
+                    "2.85% Max HP",
+                    "3.02% Max HP",
+                    "3.19% Max HP",
+                    "3.42% Max HP",
+                    "3.65% Max HP",
+                    "3.88% Max HP",
+                    "4.1% Max HP",
+                    "4.33% Max HP",
+                    "4.56% Max HP",
+                    "4.85% Max HP",
+                    "5.13% Max HP",
+                    "5.42% Max HP"
+                ],
+                "Bolstering Bubblebalm Healing": [
+                    "2.8% Max HP+270",
+                    "3.01% Max HP+297",
+                    "3.22% Max HP+326",
+                    "3.5% Max HP+357",
+                    "3.71% Max HP+391",
+                    "3.92% Max HP+427",
+                    "4.2% Max HP+465",
+                    "4.48% Max HP+506",
+                    "4.76% Max HP+548",
+                    "5.04% Max HP+593",
+                    "5.32% Max HP+640",
+                    "5.6% Max HP+690",
+                    "5.95% Max HP+742",
+                    "6.3% Max HP+795",
+                    "6.65% Max HP+852"
+                ],
+                "CD": [
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s",
+                    "18s"
+                ],
+                "Final Bounce Healing": [
+                    "50% Max HP",
+                    "50% Max HP",
+                    "50% Max HP",
+                    "50% Max HP",
+                    "50% Max HP",
+                    "50% Max HP",
+                    "50% Max HP",
+                    "50% Max HP",
+                    "50% Max HP",
+                    "50% Max HP",
+                    "50% Max HP",
+                    "50% Max HP",
+                    "50% Max HP",
+                    "50% Max HP",
+                    "50% Max HP"
+                ],
+                "Surging Blade DMG": [
+                    "0.68% Max HP",
+                    "0.74% Max HP",
+                    "0.79% Max HP",
+                    "0.86% Max HP",
+                    "0.91% Max HP",
+                    "0.96% Max HP",
+                    "1.03% Max HP",
+                    "1.09% Max HP",
+                    "1.16% Max HP",
+                    "1.23% Max HP",
+                    "1.3% Max HP",
+                    "1.37% Max HP",
+                    "1.45% Max HP",
+                    "1.54% Max HP",
+                    "1.62% Max HP"
+                ],
+                "Surging Blade Interval": [
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s",
+                    "10s"
+                ]
+            },
+            "name": "Rebound Hydrotherapy"
+        },
+        "leveling": {
+            "books": {
+                "104338": 9,
+                "104339": 63,
+                "104340": 114
+            },
+            "crown": {
+                "104319": 3
+            },
+            "weekly": {
+                "113055": 18
+            },
+            "worldmonster": {
+                "112080": 18,
+                "112081": 66,
+                "112082": 93
+            }
+        },
+        "normalattack": {
+            "description": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 3 consecutive attacks.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nPerforms a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG.\\nWhile aiming, the power of Hydro will continually accumulate on the arrow. After fully charging, Sigewinne will periodically fire slow-moving Mini-Stration Bubbles toward the target, dealing <color=#80C0FFFF>Hydro DMG</color>. When released, an arrow imbued with torrential energy will deal <color=#80C0FFFF>Hydro DMG</color> to the opponent hit.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+            "icon": "Skill_A_02",
+            "multipliers": {
+                "1-Hit DMG": [
+                    "52.61%",
+                    "56.9%",
+                    "61.18%",
+                    "67.3%",
+                    "71.58%",
+                    "76.47%",
+                    "83.2%",
+                    "89.93%",
+                    "96.66%",
+                    "104%",
+                    "111.35%",
+                    "118.69%",
+                    "126.03%",
+                    "133.37%",
+                    "140.71%"
+                ],
+                "2-Hit DMG": [
+                    "51.07%",
+                    "55.23%",
+                    "59.39%",
+                    "65.32%",
+                    "69.48%",
+                    "74.23%",
+                    "80.76%",
+                    "87.3%",
+                    "93.83%",
+                    "100.95%",
+                    "108.08%",
+                    "115.21%",
+                    "122.33%",
+                    "129.46%",
+                    "136.59%"
+                ],
+                "3-Hit DMG": [
+                    "78.29%",
+                    "84.66%",
+                    "91.04%",
+                    "100.14%",
+                    "106.51%",
+                    "113.79%",
+                    "123.81%",
+                    "133.82%",
+                    "143.84%",
+                    "154.76%",
+                    "165.69%",
+                    "176.61%",
+                    "187.53%",
+                    "198.46%",
+                    "209.38%"
+                ],
+                "Aimed Shot": [
+                    "43.86%",
+                    "47.43%",
+                    "51%",
+                    "56.1%",
+                    "59.67%",
+                    "63.75%",
+                    "69.36%",
+                    "74.97%",
+                    "80.58%",
+                    "86.7%",
+                    "92.82%",
+                    "98.94%",
+                    "105.06%",
+                    "111.18%",
+                    "117.3%"
+                ],
+                "Fully-Charged Aimed Shot": [
+                    "124%",
+                    "133.3%",
+                    "142.6%",
+                    "155%",
+                    "164.3%",
+                    "173.6%",
+                    "186%",
+                    "198.4%",
+                    "210.8%",
+                    "223.2%",
+                    "235.6%",
+                    "248%",
+                    "263.5%",
+                    "279%",
+                    "294.5%"
+                ],
+                "Low/High Plunge DMG": [
+                    "113.63%/141.93%",
+                    "122.88%/153.49%",
+                    "132.13%/165.04%",
+                    "145.35%/181.54%",
+                    "154.59%/193.1%",
+                    "165.16%/206.3%",
+                    "179.7%/224.45%",
+                    "194.23%/242.61%",
+                    "208.77%/260.76%",
+                    "224.62%/280.57%",
+                    "240.48%/300.37%",
+                    "256.34%/320.18%",
+                    "272.19%/339.98%",
+                    "288.05%/359.79%",
+                    "303.9%/379.59%"
+                ],
+                "Mini-Stration Bubble DMG": [
+                    "24.8%",
+                    "26.66%",
+                    "28.52%",
+                    "31%",
+                    "32.86%",
+                    "34.72%",
+                    "37.2%",
+                    "39.68%",
+                    "42.16%",
+                    "44.64%",
+                    "47.12%",
+                    "49.6%",
+                    "52.7%",
+                    "55.8%",
+                    "58.9%"
+                ],
+                "Plunge DMG": [
+                    "56.83%",
+                    "61.45%",
+                    "66.08%",
+                    "72.69%",
+                    "77.31%",
+                    "82.6%",
+                    "89.87%",
+                    "97.14%",
+                    "104.41%",
+                    "112.34%",
+                    "120.27%",
+                    "128.2%",
+                    "136.12%",
+                    "144.05%",
+                    "151.98%"
+                ]
+            },
+            "name": "Targeted Treatment"
+        }
+    }
+}
